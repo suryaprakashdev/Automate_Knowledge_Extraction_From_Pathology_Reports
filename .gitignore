@@ -1,0 +1,23 @@
+cat <<EOF > .gitignore
+# Virtual environments
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# ML / DL artifacts
+*.pt
+*.pth
+*.bin
+*.ckpt
+*.onnx
+
+# Data
+data/
+datasets/
+
+# OS
+.DS_Store
+EOF

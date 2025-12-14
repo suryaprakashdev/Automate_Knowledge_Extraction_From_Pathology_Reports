@@ -1,1 +1,1 @@
-print("Hello, World!"git config --global user.name "Your Name")
+print("Hello, World!")

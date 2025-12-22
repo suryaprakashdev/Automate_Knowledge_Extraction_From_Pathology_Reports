@@ -2,7 +2,7 @@
 Multimodal Document Preprocessor
 ================================
 Complete preprocessing pipeline for PDFs, Images, and Audio files.
-Follows structured order: PDF Text → PDF to Image → OCR → Image Extraction → Chunking → Testing
+PDF Text → PDF to Image → OCR → Image Extraction → Chunking → Testing
 """
 
 import os
@@ -828,12 +828,12 @@ if __name__ == "__main__":
     # Example 1: Process single PDF
     print("\n--- Example 1: Process PDF ---")
     try:
-        pdf_docs = preprocessor.process_document("sample.pdf")
+        pdf_docs = preprocessor.process_document("/usr/users/3d_dimension_est/selva_sur/RAG/src/testfiles/sample.pdf")
         print(f"✓ Created {len(pdf_docs)} document chunks")
         print(f"First chunk preview:\n{pdf_docs[0].page_content[:200]}...")
         print(f"\nMetadata: {pdf_docs[0].metadata}")
     except FileNotFoundError:
-        print("⚠ sample.pdf not found - skipping this example")
+        print("⚠ testfiles/sample.pdf not found - skipping this example")
     except Exception as e:
         print(f"✗ Error: {e}")
     
@@ -841,24 +841,24 @@ if __name__ == "__main__":
       # Example 2: Process image
     print("\n--- Example 2: Process Image ---")
     try:
-        image_docs = preprocessor.process_document("sample_image.png")
+        image_docs = preprocessor.process_document("/usr/users/3d_dimension_est/selva_sur/RAG/src/testfiles/sample_image.png")
         print(f"✓ Created {len(image_docs)} document(s)")
         print(f"Extracted text preview:\n{image_docs[0].page_content[:200]}...")
         print(f"\nMetadata: {image_docs[0].metadata}")
     except FileNotFoundError:
-        print("⚠ sample_image.png not found - skipping this example")
+        print("⚠ testfiles/sample_image.png not found - skipping this example")
     except Exception as e:
         print(f"✗ Error: {e}")
 
     # Example 3: Process audio
     print("\n--- Example 3: Process Audio ---")
     try:
-        audio_docs = preprocessor.process_document("sample_audio.wav")
+        audio_docs = preprocessor.process_document("/usr/users/3d_dimension_est/selva_sur/RAG/src/testfiles/sample_audio.m4a")
         print(f"✓ Created {len(audio_docs)} document chunk(s)")
         print(f"Transcript preview:\n{audio_docs[0].page_content[:200]}...")
         print(f"\nMetadata: {audio_docs[0].metadata}")
     except FileNotFoundError:
-        print("⚠ sample_audio.wav not found - skipping this example")
+        print("⚠ testfiles/sample_audio.m4a not found - skipping this example")
     except Exception as e:
         print(f"✗ Error: {e}")
 
@@ -867,7 +867,7 @@ if __name__ == "__main__":
     test_files = [
         "sample.pdf",
         "sample_image.png",
-        "sample_audio.wav"
+        "sample_audio.m4a"
     ]
 
     try:

@@ -43,7 +43,7 @@ class MultimodalPreprocessor:
     chunk_overlap: int = 200
     extract_images: bool = True
     ocr_enabled: bool = True
-    process_audio: bool = True
+    process_audio_enabled: bool = True
     enhance_images: bool = True
     output_dir: str = "preprocessed_outputs"
     metadata: Dict = field(default_factory=dict)
@@ -583,29 +583,22 @@ class MultimodalPreprocessor:
     # ============================================================================
     # AUDIO PROCESSING (BONUS)
     # ============================================================================
-    
     def process_audio(self, file_path: str) -> List[Document]:
         """
         Process audio files with speech-to-text transcription.
-        
-        Args:
-            file_path: Path to audio file
-            
-        Returns:
-            List of Document objects with transcribed text
         """
         logger.info(f"[AUDIO] Processing audio file: {file_path}")
-        
+
         try:
             recognizer = sr.Recognizer()
-            
+
             # Convert to WAV if needed
-            if not file_path.lower().endswith('.wav'):
+            if not file_path.lower().endswith(".wav"):
                 audio = AudioSegment.from_file(file_path)
                 wav_path = os.path.join(self.audio_dir, f"{Path(file_path).stem}.wav")
                 audio.export(wav_path, format="wav")
                 file_path = wav_path
-            
+
             # Transcribe audio
             with sr.AudioFile(file_path) as source:
                 audio_data = recognizer.record(source)
@@ -615,10 +608,10 @@ class MultimodalPreprocessor:
                     text = "[Audio could not be transcribed]"
                 except sr.RequestError as e:
                     text = f"[Transcription service error: {e}]"
-            
-            # Get audio metadata
+
+            # Audio metadata
             audio = AudioSegment.from_wav(file_path)
-            
+
             doc_metadata = {
                 "source": file_path,
                 "file_name": Path(file_path).name,
@@ -628,18 +621,16 @@ class MultimodalPreprocessor:
                 "channels": audio.channels,
                 **self.metadata
             }
-            
-            # Create document
+
             documents = self.create_smart_chunks(text, doc_metadata)
-            
-            logger.info(f"✓ [AUDIO] Transcribed and processed audio")
+
+            logger.info("✓ [AUDIO] Transcribed and processed audio")
             return documents
-            
+
         except Exception as e:
             logger.error(f"✗ [AUDIO] Error: {str(e)}")
             raise
-    
-    
+
     # ============================================================================
     # STEP 6: TEST DOCUMENT PROCESSOR
     # ============================================================================
@@ -747,7 +738,7 @@ class MultimodalPreprocessor:
             return self.process_standalone_image(file_path)
         
         elif file_extension in [".wav", ".mp3", ".m4a", ".flac", ".ogg", ".aac"]:
-            if not self.process_audio:
+            if not self.process_audio_enabled:
                 raise ValueError("Audio processing is disabled")
             return self.process_audio(file_path)
         
@@ -809,75 +800,89 @@ class MultimodalPreprocessor:
 # ============================================================================
 
 if __name__ == "__main__":
-    print("\n" + "="*70)
+    print("\n" + "=" * 70)
     print("MULTIMODAL DOCUMENT PREPROCESSOR - DEMO")
-    print("="*70 + "\n")
-    
+    print("=" * 70 + "\n")
+
     # Initialize preprocessor
     preprocessor = MultimodalPreprocessor(
         chunk_size=1000,
         chunk_overlap=200,
         extract_images=True,
         ocr_enabled=True,
-        process_audio=True,
+        process_audio_enabled=True,
         enhance_images=True,
         output_dir="preprocessed_data",
         metadata={"project": "multimodal_rag", "version": "1.0"}
     )
-    
-    # Example 1: Process single PDF
+
+    # ------------------------------------------------------------------
+    # Define test file paths (portable)
+    # ------------------------------------------------------------------
+    BASE_DIR = Path(__file__).parent / "testfiles"
+
+    pdf_path = BASE_DIR / "sample.pdf"
+    image_path = BASE_DIR / "sample_image.png"
+    audio_path = BASE_DIR / "sample_audio.m4a"
+
+    test_files = [str(pdf_path), str(image_path), str(audio_path)]
+
+    # ------------------------------------------------------------------
+    # Example 1: Process PDF
+    # ------------------------------------------------------------------
     print("\n--- Example 1: Process PDF ---")
     try:
-        pdf_docs = preprocessor.process_document("/usr/users/3d_dimension_est/selva_sur/RAG/src/testfiles/sample.pdf")
+        pdf_docs = preprocessor.process_document(str(pdf_path))
         print(f"✓ Created {len(pdf_docs)} document chunks")
         print(f"First chunk preview:\n{pdf_docs[0].page_content[:200]}...")
         print(f"\nMetadata: {pdf_docs[0].metadata}")
     except FileNotFoundError:
-        print("⚠ testfiles/sample.pdf not found - skipping this example")
+        print("⚠ sample.pdf not found - skipping this example")
     except Exception as e:
         print(f"✗ Error: {e}")
-    
-    # Example 2: Process image
-      # Example 2: Process image
+
+    # ------------------------------------------------------------------
+    # Example 2: Process Image
+    # ------------------------------------------------------------------
     print("\n--- Example 2: Process Image ---")
     try:
-        image_docs = preprocessor.process_document("/usr/users/3d_dimension_est/selva_sur/RAG/src/testfiles/sample_image.png")
+        image_docs = preprocessor.process_document(str(image_path))
         print(f"✓ Created {len(image_docs)} document(s)")
         print(f"Extracted text preview:\n{image_docs[0].page_content[:200]}...")
         print(f"\nMetadata: {image_docs[0].metadata}")
     except FileNotFoundError:
-        print("⚠ testfiles/sample_image.png not found - skipping this example")
+        print("⚠ sample_image.png not found - skipping this example")
     except Exception as e:
         print(f"✗ Error: {e}")
 
-    # Example 3: Process audio
+    # ------------------------------------------------------------------
+    # Example 3: Process Audio
+    # ------------------------------------------------------------------
     print("\n--- Example 3: Process Audio ---")
     try:
-        audio_docs = preprocessor.process_document("/usr/users/3d_dimension_est/selva_sur/RAG/src/testfiles/sample_audio.m4a")
+        audio_docs = preprocessor.process_document(str(audio_path))
         print(f"✓ Created {len(audio_docs)} document chunk(s)")
         print(f"Transcript preview:\n{audio_docs[0].page_content[:200]}...")
         print(f"\nMetadata: {audio_docs[0].metadata}")
     except FileNotFoundError:
-        print("⚠ testfiles/sample_audio.m4a not found - skipping this example")
+        print("⚠ sample_audio.m4a not found - skipping this example")
     except Exception as e:
         print(f"✗ Error: {e}")
 
-    # Example 4: Batch processing
+    # ------------------------------------------------------------------
+    # Example 4: Batch Processing
+    # ------------------------------------------------------------------
     print("\n--- Example 4: Batch Processing ---")
-    test_files = [
-        "sample.pdf",
-        "sample_image.png",
-        "sample_audio.m4a"
-    ]
-
     try:
         all_docs = preprocessor.process_multiple_documents(test_files, skip_errors=True)
-        print(f"\n✓ Batch processing completed")
+        print("\n✓ Batch processing completed")
         print(f"Total documents created: {len(all_docs)}")
     except Exception as e:
         print(f"✗ Batch processing failed: {e}")
 
-    # Example 5: Run built-in tester
+    # ------------------------------------------------------------------
+    # Example 5: Processor Test Suite
+    # ------------------------------------------------------------------
     print("\n--- Example 5: Processor Test Suite ---")
     try:
         test_results = preprocessor.test_processor(test_files)
@@ -886,6 +891,6 @@ if __name__ == "__main__":
     except Exception as e:
         print(f"✗ Testing failed: {e}")
 
-    print("\n" + "="*70)
+    print("\n" + "=" * 70)
     print("DEMO COMPLETE")
-    print("="*70)
+    print("=" * 70)

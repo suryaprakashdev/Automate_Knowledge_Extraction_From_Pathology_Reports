@@ -107,7 +107,7 @@ class PathologyRAGUI:
 - Total Reports: {stats['total_vectors']:,} vectors
 - Upload #{self.upload_count}
 
-✨ **The new report is now searchable!** You can ask questions about it.
+ **The new report is now searchable!** You can ask questions about it.
             """
             
             stats_display = f"""
@@ -122,7 +122,7 @@ Time: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}
             
         except Exception as e:
             error_msg = f"""
-### ❌ Upload Failed
+###  Upload Failed
 
 **Error:** {str(e)}
 
@@ -363,7 +363,7 @@ Please check:
                         with gr.Column(scale=2):
                             # Answer
                             answer_output = gr.Markdown(
-                                label="💡 Answer",
+                                label=" Answer",
                                 value="*Your answer will appear here...*"
                             )
                         

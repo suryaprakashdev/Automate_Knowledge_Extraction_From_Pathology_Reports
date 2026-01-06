@@ -1,0 +1,1412 @@
+{
+  "filename": "cce01005-aff8-4d50-9eca-263eaf263b3d",
+  "timestamp": "2026-01-05T14:42:42.839055",
+  "entities": [
+    {
+      "text": "Diagnosis",
+      "type": "ENTITY",
+      "start": 61,
+      "end": 70
+    },
+    {
+      "text": "Omentum",
+      "type": "ENTITY",
+      "start": 75,
+      "end": 82
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 84,
+      "end": 88
+    },
+    {
+      "text": "excision",
+      "type": "ENTITY",
+      "start": 90,
+      "end": 98
+    },
+    {
+      "text": "Metastatic adenocarcinoma",
+      "type": "ENTITY",
+      "start": 102,
+      "end": 127
+    },
+    {
+      "text": "consistent with",
+      "type": "ENTITY",
+      "start": 129,
+      "end": 144
+    },
+    {
+      "text": "colonic",
+      "type": "ENTITY",
+      "start": 145,
+      "end": 152
+    },
+    {
+      "text": "Terminal",
+      "type": "ENTITY",
+      "start": 164,
+      "end": 172
+    },
+    {
+      "text": "ileum",
+      "type": "ENTITY",
+      "start": 173,
+      "end": 178
+    },
+    {
+      "text": "appendix",
+      "type": "ENTITY",
+      "start": 180,
+      "end": 188
+    },
+    {
+      "text": "right colon",
+      "type": "ENTITY",
+      "start": 193,
+      "end": 204
+    },
+    {
+      "text": "right hemicolectomy Tumor",
+      "type": "ENTITY",
+      "start": 206,
+      "end": 231
+    },
+    {
+      "text": "Histologic Type",
+      "type": "ENTITY",
+      "start": 232,
+      "end": 247
+    },
+    {
+      "text": "Invasive",
+      "type": "ENTITY",
+      "start": 249,
+      "end": 257
+    },
+    {
+      "text": "colorectal adenocarcinoma",
+      "type": "ENTITY",
+      "start": 284,
+      "end": 309
+    },
+    {
+      "text": "Histologic Grade",
+      "type": "ENTITY",
+      "start": 310,
+      "end": 326
+    },
+    {
+      "text": "Tumor",
+      "type": "ENTITY",
+      "start": 330,
+      "end": 335
+    },
+    {
+      "text": "Location",
+      "type": "ENTITY",
+      "start": 336,
+      "end": 344
+    },
+    {
+      "text": "Right colon",
+      "type": "ENTITY",
+      "start": 346,
+      "end": 357
+    },
+    {
+      "text": "Depth",
+      "type": "ENTITY",
+      "start": 358,
+      "end": 363
+    },
+    {
+      "text": "Invasion",
+      "type": "ENTITY",
+      "start": 367,
+      "end": 375
+    },
+    {
+      "text": "muscularis propria",
+      "type": "ENTITY",
+      "start": 385,
+      "end": 403
+    },
+    {
+      "text": "subserosa",
+      "type": "ENTITY",
+      "start": 413,
+      "end": 422
+    },
+    {
+      "text": "pericolic",
+      "type": "ENTITY",
+      "start": 424,
+      "end": 433
+    },
+    {
+      "text": "soft tissue Lymphovascular Invasion",
+      "type": "ENTITY",
+      "start": 434,
+      "end": 469
+    },
+    {
+      "text": "Perineural Invasion",
+      "type": "ENTITY",
+      "start": 486,
+      "end": 505
+    },
+    {
+      "text": "Not identified",
+      "type": "ENTITY",
+      "start": 507,
+      "end": 521
+    },
+    {
+      "text": "Proximal margin",
+      "type": "ENTITY",
+      "start": 531,
+      "end": 546
+    },
+    {
+      "text": "Negative",
+      "type": "ENTITY",
+      "start": 548,
+      "end": 556
+    },
+    {
+      "text": "Distal margin",
+      "type": "ENTITY",
+      "start": 557,
+      "end": 570
+    },
+    {
+      "text": "Negative",
+      "type": "ENTITY",
+      "start": 572,
+      "end": 580
+    },
+    {
+      "text": "Circumferential (radial) margin",
+      "type": "ENTITY",
+      "start": 581,
+      "end": 612
+    },
+    {
+      "text": "Negative",
+      "type": "ENTITY",
+      "start": 614,
+      "end": 622
+    },
+    {
+      "text": "Distance",
+      "type": "ENTITY",
+      "start": 642,
+      "end": 650
+    },
+    {
+      "text": "carcinoma",
+      "type": "ENTITY",
+      "start": 654,
+      "end": 663
+    },
+    {
+      "text": "margin",
+      "type": "ENTITY",
+      "start": 677,
+      "end": 683
+    },
+    {
+      "text": "serosal surface",
+      "type": "ENTITY",
+      "start": 708,
+      "end": 723
+    },
+    {
+      "text": "proximal",
+      "type": "ENTITY",
+      "start": 737,
+      "end": 745
+    },
+    {
+      "text": "mucosal margin",
+      "type": "ENTITY",
+      "start": 746,
+      "end": 760
+    },
+    {
+      "text": "Regional",
+      "type": "ENTITY",
+      "start": 763,
+      "end": 771
+    },
+    {
+      "text": "metastasis",
+      "type": "ENTITY",
+      "start": 803,
+      "end": 813
+    },
+    {
+      "text": "pathologic",
+      "type": "ENTITY",
+      "start": 854,
+      "end": 864
+    },
+    {
+      "text": "findings",
+      "type": "ENTITY",
+      "start": 865,
+      "end": 873
+    },
+    {
+      "text": "Appendix with",
+      "type": "ENTITY",
+      "start": 875,
+      "end": 888
+    },
+    {
+      "text": "follicular",
+      "type": "ENTITY",
+      "start": 889,
+      "end": 899
+    },
+    {
+      "text": "lymphoid hyperplasia",
+      "type": "ENTITY",
+      "start": 900,
+      "end": 920
+    },
+    {
+      "text": "tumor satellite nodule",
+      "type": "ENTITY",
+      "start": 940,
+      "end": 962
+    },
+    {
+      "text": "identified",
+      "type": "ENTITY",
+      "start": 963,
+      "end": 973
+    },
+    {
+      "text": "AJCC PATHOLOGIC TNM STAGE",
+      "type": "ENTITY",
+      "start": 976,
+      "end": 1001
+    },
+    {
+      "text": "pT3 pN1a Note",
+      "type": "ENTITY",
+      "start": 1003,
+      "end": 1016
+    },
+    {
+      "text": "pathologic stage",
+      "type": "ENTITY",
+      "start": 1023,
+      "end": 1039
+    },
+    {
+      "text": "assessment",
+      "type": "ENTITY",
+      "start": 1040,
+      "end": 1050
+    },
+    {
+      "text": "information",
+      "type": "ENTITY",
+      "start": 1063,
+      "end": 1074
+    },
+    {
+      "text": "time",
+      "type": "ENTITY",
+      "start": 1092,
+      "end": 1096
+    },
+    {
+      "text": "report",
+      "type": "ENTITY",
+      "start": 1105,
+      "end": 1111
+    },
+    {
+      "text": "clinical",
+      "type": "ENTITY",
+      "start": 1146,
+      "end": 1154
+    },
+    {
+      "text": "review",
+      "type": "ENTITY",
+      "start": 1156,
+      "end": 1162
+    },
+    {
+      "text": "information",
+      "type": "ENTITY",
+      "start": 1178,
+      "end": 1189
+    },
+    {
+      "text": "C",
+      "type": "ENTITY",
+      "start": 1191,
+      "end": 1192
+    },
+    {
+      "text": "Liver mass",
+      "type": "ENTITY",
+      "start": 1194,
+      "end": 1204
+    },
+    {
+      "text": "removal",
+      "type": "ENTITY",
+      "start": 1217,
+      "end": 1224
+    },
+    {
+      "text": "No",
+      "type": "ENTITY",
+      "start": 1227,
+      "end": 1229
+    },
+    {
+      "text": "evidence",
+      "type": "ENTITY",
+      "start": 1230,
+      "end": 1238
+    },
+    {
+      "text": "metastatic disease",
+      "type": "ENTITY",
+      "start": 1242,
+      "end": 1260
+    },
+    {
+      "text": "Benign",
+      "type": "ENTITY",
+      "start": 1264,
+      "end": 1270
+    },
+    {
+      "text": "liver",
+      "type": "ENTITY",
+      "start": 1271,
+      "end": 1276
+    },
+    {
+      "text": "minimal",
+      "type": "ENTITY",
+      "start": 1282,
+      "end": 1289
+    },
+    {
+      "text": "steatosis",
+      "type": "ENTITY",
+      "start": 1290,
+      "end": 1299
+    },
+    {
+      "text": "mild portal triaditis D",
+      "type": "ENTITY",
+      "start": 1304,
+      "end": 1327
+    },
+    {
+      "text": "Hernia sac",
+      "type": "ENTITY",
+      "start": 1329,
+      "end": 1339
+    },
+    {
+      "text": "removal",
+      "type": "ENTITY",
+      "start": 1341,
+      "end": 1348
+    },
+    {
+      "text": "Benign",
+      "type": "ENTITY",
+      "start": 1351,
+      "end": 1357
+    },
+    {
+      "text": "fibrovascular",
+      "type": "ENTITY",
+      "start": 1358,
+      "end": 1371
+    },
+    {
+      "text": "fibroadipose soft tissue",
+      "type": "ENTITY",
+      "start": 1376,
+      "end": 1400
+    },
+    {
+      "text": "consistent with",
+      "type": "ENTITY",
+      "start": 1402,
+      "end": 1417
+    },
+    {
+      "text": "hernia sac",
+      "type": "ENTITY",
+      "start": 1418,
+      "end": 1428
+    },
+    {
+      "text": "focal foreign body giant cell reaction",
+      "type": "ENTITY",
+      "start": 1435,
+      "end": 1473
+    },
+    {
+      "text": "polarizable foreign material",
+      "type": "ENTITY",
+      "start": 1490,
+      "end": 1518
+    },
+    {
+      "text": "metastatic disease",
+      "type": "ENTITY",
+      "start": 1535,
+      "end": 1553
+    },
+    {
+      "text": "Clinical History",
+      "type": "ENTITY",
+      "start": 1555,
+      "end": 1571
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 1579,
+      "end": 1583
+    },
+    {
+      "text": "ascending colon",
+      "type": "ENTITY",
+      "start": 1591,
+      "end": 1606
+    },
+    {
+      "text": "Biopsy",
+      "type": "ENTITY",
+      "start": 1608,
+      "end": 1614
+    },
+    {
+      "text": "invasive",
+      "type": "ENTITY",
+      "start": 1628,
+      "end": 1636
+    },
+    {
+      "text": "adenocarcinoma",
+      "type": "ENTITY",
+      "start": 1663,
+      "end": 1677
+    },
+    {
+      "text": "CT imaging",
+      "type": "ENTITY",
+      "start": 1679,
+      "end": 1689
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 1699,
+      "end": 1703
+    },
+    {
+      "text": "evidence",
+      "type": "ENTITY",
+      "start": 1708,
+      "end": 1716
+    },
+    {
+      "text": "metastatic disease",
+      "type": "ENTITY",
+      "start": 1720,
+      "end": 1738
+    },
+    {
+      "text": "Gross Description",
+      "type": "ENTITY",
+      "start": 1740,
+      "end": 1757
+    },
+    {
+      "text": "Received",
+      "type": "ENTITY",
+      "start": 1759,
+      "end": 1767
+    },
+    {
+      "text": "formalin-filled containers",
+      "type": "ENTITY",
+      "start": 1777,
+      "end": 1803
+    },
+    {
+      "text": "Container A",
+      "type": "ENTITY",
+      "start": 1805,
+      "end": 1816
+    },
+    {
+      "text": "SITE",
+      "type": "ENTITY",
+      "start": 1818,
+      "end": 1822
+    },
+    {
+      "text": "\"omentum\" METHOD",
+      "type": "ENTITY",
+      "start": 1824,
+      "end": 1840
+    },
+    {
+      "text": "excision MEASURE",
+      "type": "ENTITY",
+      "start": 1842,
+      "end": 1858
+    },
+    {
+      "text": "yellow/tan fibroadipose tissue",
+      "type": "ENTITY",
+      "start": 1888,
+      "end": 1918
+    },
+    {
+      "text": "cut section",
+      "type": "ENTITY",
+      "start": 1950,
+      "end": 1961
+    },
+    {
+      "text": "white/yellow firm",
+      "type": "ENTITY",
+      "start": 1977,
+      "end": 1994
+    },
+    {
+      "text": "surface",
+      "type": "ENTITY",
+      "start": 1995,
+      "end": 2002
+    },
+    {
+      "text": "A1",
+      "type": "ENTITY",
+      "start": 2011,
+      "end": 2013
+    },
+    {
+      "text": "omental mass Container B",
+      "type": "ENTITY",
+      "start": 2015,
+      "end": 2039
+    },
+    {
+      "text": "Specimen fixation",
+      "type": "ENTITY",
+      "start": 2057,
+      "end": 2074
+    },
+    {
+      "text": "formalin Parts of bowel",
+      "type": "ENTITY",
+      "start": 2076,
+      "end": 2099
+    },
+    {
+      "text": "terminal",
+      "type": "ENTITY",
+      "start": 2110,
+      "end": 2118
+    },
+    {
+      "text": "ileum",
+      "type": "ENTITY",
+      "start": 2119,
+      "end": 2124
+    },
+    {
+      "text": "cecum",
+      "type": "ENTITY",
+      "start": 2126,
+      "end": 2131
+    },
+    {
+      "text": "proximal",
+      "type": "ENTITY",
+      "start": 2136,
+      "end": 2144
+    },
+    {
+      "text": "Specimen",
+      "type": "ENTITY",
+      "start": 2162,
+      "end": 2170
+    },
+    {
+      "text": "Orientation",
+      "type": "ENTITY",
+      "start": 2187,
+      "end": 2198
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 2204,
+      "end": 2212
+    },
+    {
+      "text": "stitched",
+      "type": "ENTITY",
+      "start": 2233,
+      "end": 2241
+    },
+    {
+      "text": "right ascending colon",
+      "type": "ENTITY",
+      "start": 2270,
+      "end": 2291
+    },
+    {
+      "text": "inked blue",
+      "type": "ENTITY",
+      "start": 2293,
+      "end": 2303
+    },
+    {
+      "text": "distal",
+      "type": "ENTITY",
+      "start": 2309,
+      "end": 2315
+    },
+    {
+      "text": "ileum",
+      "type": "ENTITY",
+      "start": 2316,
+      "end": 2321
+    },
+    {
+      "text": "inked black",
+      "type": "ENTITY",
+      "start": 2325,
+      "end": 2336
+    },
+    {
+      "text": "Tumor",
+      "type": "ENTITY",
+      "start": 2338,
+      "end": 2343
+    },
+    {
+      "text": "location",
+      "type": "ENTITY",
+      "start": 2344,
+      "end": 2352
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 2354,
+      "end": 2359
+    },
+    {
+      "text": "distal",
+      "type": "ENTITY",
+      "start": 2376,
+      "end": 2382
+    },
+    {
+      "text": "ileocecal valve",
+      "type": "ENTITY",
+      "start": 2413,
+      "end": 2428
+    },
+    {
+      "text": "Gross",
+      "type": "ENTITY",
+      "start": 2429,
+      "end": 2434
+    },
+    {
+      "text": "appearance",
+      "type": "ENTITY",
+      "start": 2435,
+      "end": 2445
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 2449,
+      "end": 2454
+    },
+    {
+      "text": "distal",
+      "type": "ENTITY",
+      "start": 2456,
+      "end": 2462
+    },
+    {
+      "text": "ileocecal valve",
+      "type": "ENTITY",
+      "start": 2470,
+      "end": 2485
+    },
+    {
+      "text": "ulcerated mass",
+      "type": "ENTITY",
+      "start": 2491,
+      "end": 2505
+    },
+    {
+      "text": "whorled",
+      "type": "ENTITY",
+      "start": 2511,
+      "end": 2518
+    },
+    {
+      "text": "edges",
+      "type": "ENTITY",
+      "start": 2519,
+      "end": 2524
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 2531,
+      "end": 2535
+    },
+    {
+      "text": "proximal",
+      "type": "ENTITY",
+      "start": 2545,
+      "end": 2553
+    },
+    {
+      "text": "ileocecal valve",
+      "type": "ENTITY",
+      "start": 2569,
+      "end": 2584
+    },
+    {
+      "text": "studded",
+      "type": "ENTITY",
+      "start": 2636,
+      "end": 2643
+    },
+    {
+      "text": "tumor Tumor dimensions",
+      "type": "ENTITY",
+      "start": 2649,
+      "end": 2671
+    },
+    {
+      "text": "Circumferential growth",
+      "type": "ENTITY",
+      "start": 2692,
+      "end": 2714
+    },
+    {
+      "text": "Gross depth",
+      "type": "ENTITY",
+      "start": 2720,
+      "end": 2731
+    },
+    {
+      "text": "invasion",
+      "type": "ENTITY",
+      "start": 2735,
+      "end": 2743
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 2749,
+      "end": 2753
+    },
+    {
+      "text": "invade",
+      "type": "ENTITY",
+      "start": 2773,
+      "end": 2779
+    },
+    {
+      "text": "subserosal soft tissues",
+      "type": "ENTITY",
+      "start": 2784,
+      "end": 2807
+    },
+    {
+      "text": "Gross evidence",
+      "type": "ENTITY",
+      "start": 2808,
+      "end": 2822
+    },
+    {
+      "text": "perforation",
+      "type": "ENTITY",
+      "start": 2826,
+      "end": 2837
+    },
+    {
+      "text": "visceral",
+      "type": "ENTITY",
+      "start": 2846,
+      "end": 2854
+    },
+    {
+      "text": "peritoneum",
+      "type": "ENTITY",
+      "start": 2855,
+      "end": 2865
+    },
+    {
+      "text": "Luminal obstruction",
+      "type": "ENTITY",
+      "start": 2871,
+      "end": 2890
+    },
+    {
+      "text": "Bowel circumference",
+      "type": "ENTITY",
+      "start": 2895,
+      "end": 2914
+    },
+    {
+      "text": "tumor site",
+      "type": "ENTITY",
+      "start": 2918,
+      "end": 2928
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 2945,
+      "end": 2953
+    },
+    {
+      "text": "tumor site",
+      "type": "ENTITY",
+      "start": 2957,
+      "end": 2967
+    },
+    {
+      "text": "Gross distance",
+      "type": "ENTITY",
+      "start": 2968,
+      "end": 2982
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 2986,
+      "end": 2991
+    },
+    {
+      "text": "margins",
+      "type": "ENTITY",
+      "start": 2997,
+      "end": 3004
+    },
+    {
+      "text": "blue inked distal margin",
+      "type": "ENTITY",
+      "start": 3016,
+      "end": 3040
+    },
+    {
+      "text": "black inked proximal margin",
+      "type": "ENTITY",
+      "start": 3054,
+      "end": 3081
+    },
+    {
+      "text": "Lymph nodes",
+      "type": "ENTITY",
+      "start": 3082,
+      "end": 3093
+    },
+    {
+      "text": "block",
+      "type": "ENTITY",
+      "start": 3099,
+      "end": 3104
+    },
+    {
+      "text": "findings",
+      "type": "ENTITY",
+      "start": 3130,
+      "end": 3138
+    },
+    {
+      "text": "colon",
+      "type": "ENTITY",
+      "start": 3156,
+      "end": 3161
+    },
+    {
+      "text": "ileum",
+      "type": "ENTITY",
+      "start": 3166,
+      "end": 3171
+    },
+    {
+      "text": "Appendix",
+      "type": "ENTITY",
+      "start": 3198,
+      "end": 3206
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 3227,
+      "end": 3235
+    },
+    {
+      "text": "Tissue",
+      "type": "ENTITY",
+      "start": 3265,
+      "end": 3271
+    },
+    {
+      "text": "investigation",
+      "type": "ENTITY",
+      "start": 3294,
+      "end": 3307
+    },
+    {
+      "text": "tissue",
+      "type": "ENTITY",
+      "start": 3309,
+      "end": 3315
+    },
+    {
+      "text": "Tissue Procurement Digital photograph",
+      "type": "ENTITY",
+      "start": 3329,
+      "end": 3366
+    },
+    {
+      "text": "no Block Summary",
+      "type": "ENTITY",
+      "start": 3374,
+      "end": 3390
+    },
+    {
+      "text": "Inking",
+      "type": "ENTITY",
+      "start": 3393,
+      "end": 3399
+    },
+    {
+      "text": "proximal",
+      "type": "ENTITY",
+      "start": 3401,
+      "end": 3409
+    },
+    {
+      "text": "distal right colonic margin",
+      "type": "ENTITY",
+      "start": 3430,
+      "end": 3457
+    },
+    {
+      "text": "B1",
+      "type": "ENTITY",
+      "start": 3476,
+      "end": 3478
+    },
+    {
+      "text": "appendix",
+      "type": "ENTITY",
+      "start": 3481,
+      "end": 3489
+    },
+    {
+      "text": "longitudinal section",
+      "type": "ENTITY",
+      "start": 3491,
+      "end": 3511
+    },
+    {
+      "text": "tip",
+      "type": "ENTITY",
+      "start": 3515,
+      "end": 3518
+    },
+    {
+      "text": "cross section",
+      "type": "ENTITY",
+      "start": 3520,
+      "end": 3533
+    },
+    {
+      "text": "base B2",
+      "type": "ENTITY",
+      "start": 3537,
+      "end": 3544
+    },
+    {
+      "text": "proximal",
+      "type": "ENTITY",
+      "start": 3547,
+      "end": 3555
+    },
+    {
+      "text": "black inked) margin",
+      "type": "ENTITY",
+      "start": 3557,
+      "end": 3576
+    },
+    {
+      "text": "B3,B4",
+      "type": "ENTITY",
+      "start": 3587,
+      "end": 3592
+    },
+    {
+      "text": "distal",
+      "type": "ENTITY",
+      "start": 3595,
+      "end": 3601
+    },
+    {
+      "text": "blue inked",
+      "type": "ENTITY",
+      "start": 3603,
+      "end": 3613
+    },
+    {
+      "text": "B5",
+      "type": "ENTITY",
+      "start": 3631,
+      "end": 3633
+    },
+    {
+      "text": "section",
+      "type": "ENTITY",
+      "start": 3636,
+      "end": 3643
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 3647,
+      "end": 3651
+    },
+    {
+      "text": "B6,B7",
+      "type": "ENTITY",
+      "start": 3653,
+      "end": 3658
+    },
+    {
+      "text": "additional",
+      "type": "ENTITY",
+      "start": 3661,
+      "end": 3671
+    },
+    {
+      "text": "section",
+      "type": "ENTITY",
+      "start": 3672,
+      "end": 3679
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 3683,
+      "end": 3687
+    },
+    {
+      "text": "bisected",
+      "type": "ENTITY",
+      "start": 3689,
+      "end": 3697
+    },
+    {
+      "text": "B8",
+      "type": "ENTITY",
+      "start": 3698,
+      "end": 3700
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 3703,
+      "end": 3707
+    },
+    {
+      "text": "pericolic",
+      "type": "ENTITY",
+      "start": 3723,
+      "end": 3732
+    },
+    {
+      "text": "B9",
+      "type": "ENTITY",
+      "start": 3737,
+      "end": 3739
+    },
+    {
+      "text": "section",
+      "type": "ENTITY",
+      "start": 3742,
+      "end": 3749
+    },
+    {
+      "text": "ileocecal valve B10",
+      "type": "ENTITY",
+      "start": 3753,
+      "end": 3772
+    },
+    {
+      "text": "additional",
+      "type": "ENTITY",
+      "start": 3775,
+      "end": 3785
+    },
+    {
+      "text": "section",
+      "type": "ENTITY",
+      "start": 3786,
+      "end": 3793
+    },
+    {
+      "text": "ileocecal valve B11",
+      "type": "ENTITY",
+      "start": 3797,
+      "end": 3816
+    },
+    {
+      "text": "five",
+      "type": "ENTITY",
+      "start": 3819,
+      "end": 3823
+    },
+    {
+      "text": "lymph node",
+      "type": "ENTITY",
+      "start": 3824,
+      "end": 3834
+    },
+    {
+      "text": "B12",
+      "type": "ENTITY",
+      "start": 3846,
+      "end": 3849
+    },
+    {
+      "text": "five",
+      "type": "ENTITY",
+      "start": 3852,
+      "end": 3856
+    },
+    {
+      "text": "lymph node",
+      "type": "ENTITY",
+      "start": 3857,
+      "end": 3867
+    },
+    {
+      "text": "B13",
+      "type": "ENTITY",
+      "start": 3879,
+      "end": 3882
+    },
+    {
+      "text": "five",
+      "type": "ENTITY",
+      "start": 3885,
+      "end": 3889
+    },
+    {
+      "text": "lymph node",
+      "type": "ENTITY",
+      "start": 3890,
+      "end": 3900
+    },
+    {
+      "text": "B14,B15",
+      "type": "ENTITY",
+      "start": 3912,
+      "end": 3919
+    },
+    {
+      "text": "grossly positive node",
+      "type": "ENTITY",
+      "start": 3926,
+      "end": 3947
+    },
+    {
+      "text": "bisected",
+      "type": "ENTITY",
+      "start": 3949,
+      "end": 3957
+    },
+    {
+      "text": "B16",
+      "type": "ENTITY",
+      "start": 3958,
+      "end": 3961
+    },
+    {
+      "text": "four",
+      "type": "ENTITY",
+      "start": 3964,
+      "end": 3968
+    },
+    {
+      "text": "lymph node",
+      "type": "ENTITY",
+      "start": 3969,
+      "end": 3979
+    },
+    {
+      "text": "B17",
+      "type": "ENTITY",
+      "start": 3991,
+      "end": 3994
+    },
+    {
+      "text": "two",
+      "type": "ENTITY",
+      "start": 3997,
+      "end": 4000
+    },
+    {
+      "text": "lymph node candidates",
+      "type": "ENTITY",
+      "start": 4001,
+      "end": 4022
+    },
+    {
+      "text": "Container C",
+      "type": "ENTITY",
+      "start": 4023,
+      "end": 4034
+    },
+    {
+      "text": "SITE",
+      "type": "ENTITY",
+      "start": 4036,
+      "end": 4040
+    },
+    {
+      "text": "METHOD",
+      "type": "ENTITY",
+      "start": 4061,
+      "end": 4067
+    },
+    {
+      "text": "biopsy",
+      "type": "ENTITY",
+      "start": 4069,
+      "end": 4075
+    },
+    {
+      "text": "COMMENT",
+      "type": "ENTITY",
+      "start": 4104,
+      "end": 4111
+    },
+    {
+      "text": "tan/brown",
+      "type": "ENTITY",
+      "start": 4113,
+      "end": 4122
+    },
+    {
+      "text": "soft tissue mass BLOCK",
+      "type": "ENTITY",
+      "start": 4123,
+      "end": 4145
+    },
+    {
+      "text": "C1",
+      "type": "ENTITY",
+      "start": 4147,
+      "end": 4149
+    },
+    {
+      "text": "Container D",
+      "type": "ENTITY",
+      "start": 4151,
+      "end": 4162
+    },
+    {
+      "text": "pink/tan",
+      "type": "ENTITY",
+      "start": 4216,
+      "end": 4224
+    },
+    {
+      "text": "soft tissue",
+      "type": "ENTITY",
+      "start": 4225,
+      "end": 4236
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 4247,
+      "end": 4256
+    },
+    {
+      "text": "aggregate",
+      "type": "ENTITY",
+      "start": 4279,
+      "end": 4288
+    },
+    {
+      "text": "D1",
+      "type": "ENTITY",
+      "start": 4320,
+      "end": 4322
+    },
+    {
+      "text": "hernia",
+      "type": "ENTITY",
+      "start": 4325,
+      "end": 4331
+    },
+    {
+      "text": "sac",
+      "type": "ENTITY",
+      "start": 4332,
+      "end": 4335
+    },
+    {
+      "text": "Fibroadipose tissue",
+      "type": "ENTITY",
+      "start": 4336,
+      "end": 4355
+    },
+    {
+      "text": "Grossing Pathologist",
+      "type": "ENTITY",
+      "start": 4365,
+      "end": 4385
+    },
+    {
+      "text": "Light microscopic examination",
+      "type": "ENTITY",
+      "start": 4405,
+      "end": 4434
+    }
+  ],
+  "entity_count": 234,
+  "has_embedding": true
+}

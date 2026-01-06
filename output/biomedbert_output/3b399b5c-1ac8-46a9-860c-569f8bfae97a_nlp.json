@@ -1,0 +1,962 @@
+{
+  "filename": "3b399b5c-1ac8-46a9-860c-569f8bfae97a",
+  "timestamp": "2026-01-05T14:43:36.424079",
+  "entities": [
+    {
+      "text": "Kidney",
+      "type": "ENTITY",
+      "start": 27,
+      "end": 33
+    },
+    {
+      "text": "right",
+      "type": "ENTITY",
+      "start": 35,
+      "end": 40
+    },
+    {
+      "text": "partial nephrectomy",
+      "type": "ENTITY",
+      "start": 42,
+      "end": 61
+    },
+    {
+      "text": "Renal cell carcinoma",
+      "type": "ENTITY",
+      "start": 66,
+      "end": 86
+    },
+    {
+      "text": "papillary features",
+      "type": "ENTITY",
+      "start": 92,
+      "end": 110
+    },
+    {
+      "text": "papillary Type i.. Capsule",
+      "type": "ENTITY",
+      "start": 126,
+      "end": 152
+    },
+    {
+      "text": "Chronic interstitial nephritis",
+      "type": "ENTITY",
+      "start": 171,
+      "end": 201
+    },
+    {
+      "text": "incipient",
+      "type": "ENTITY",
+      "start": 214,
+      "end": 223
+    },
+    {
+      "text": "lesion",
+      "type": "ENTITY",
+      "start": 224,
+      "end": 230
+    },
+    {
+      "text": "Adipose tissue",
+      "type": "ENTITY",
+      "start": 242,
+      "end": 256
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 263,
+      "end": 268
+    },
+    {
+      "text": "excision",
+      "type": "ENTITY",
+      "start": 270,
+      "end": 278
+    },
+    {
+      "text": "Cluster",
+      "type": "ENTITY",
+      "start": 280,
+      "end": 287
+    },
+    {
+      "text": "tumor cells",
+      "type": "ENTITY",
+      "start": 291,
+      "end": 302
+    },
+    {
+      "text": "fat",
+      "type": "ENTITY",
+      "start": 307,
+      "end": 310
+    },
+    {
+      "text": "Gallbladder",
+      "type": "ENTITY",
+      "start": 325,
+      "end": 336
+    },
+    {
+      "text": "cholecystectomy",
+      "type": "ENTITY",
+      "start": 338,
+      "end": 353
+    },
+    {
+      "text": "Chronic cholecystitis",
+      "type": "ENTITY",
+      "start": 355,
+      "end": 376
+    },
+    {
+      "text": "group",
+      "type": "ENTITY",
+      "start": 388,
+      "end": 393
+    },
+    {
+      "text": "tumor cells",
+      "type": "ENTITY",
+      "start": 397,
+      "end": 408
+    },
+    {
+      "text": "fat",
+      "type": "ENTITY",
+      "start": 424,
+      "end": 427
+    },
+    {
+      "text": "floaters",
+      "type": "ENTITY",
+      "start": 442,
+      "end": 450
+    },
+    {
+      "text": "contamination",
+      "type": "ENTITY",
+      "start": 454,
+      "end": 467
+    },
+    {
+      "text": "Staining",
+      "type": "ENTITY",
+      "start": 469,
+      "end": 477
+    },
+    {
+      "text": "CK7",
+      "type": "ENTITY",
+      "start": 482,
+      "end": 485
+    },
+    {
+      "text": "positive",
+      "type": "ENTITY",
+      "start": 498,
+      "end": 506
+    },
+    {
+      "text": "Resection/Nephroureterectomy",
+      "type": "ENTITY",
+      "start": 522,
+      "end": 550
+    },
+    {
+      "text": "Partial Procedure Nephrectomy",
+      "type": "ENTITY",
+      "start": 552,
+      "end": 581
+    },
+    {
+      "text": "partial",
+      "type": "ENTITY",
+      "start": 583,
+      "end": 590
+    },
+    {
+      "text": "Specimen Laterality Right Tumor",
+      "type": "ENTITY",
+      "start": 591,
+      "end": 622
+    },
+    {
+      "text": "Greatest",
+      "type": "ENTITY",
+      "start": 628,
+      "end": 636
+    },
+    {
+      "text": "dimension",
+      "type": "ENTITY",
+      "start": 637,
+      "end": 646
+    },
+    {
+      "text": "dimensions",
+      "type": "ENTITY",
+      "start": 666,
+      "end": 676
+    },
+    {
+      "text": "Histologic Type",
+      "type": "ENTITY",
+      "start": 685,
+      "end": 700
+    },
+    {
+      "text": "Suggestive",
+      "type": "ENTITY",
+      "start": 701,
+      "end": 711
+    },
+    {
+      "text": "papillary carcinoma",
+      "type": "ENTITY",
+      "start": 715,
+      "end": 734
+    },
+    {
+      "text": "type !",
+      "type": "ENTITY",
+      "start": 736,
+      "end": 742
+    },
+    {
+      "text": "Patient",
+      "type": "ENTITY",
+      "start": 743,
+      "end": 750
+    },
+    {
+      "text": "Identification",
+      "type": "ENTITY",
+      "start": 751,
+      "end": 765
+    },
+    {
+      "text": "Epithelial Lesions",
+      "type": "ENTITY",
+      "start": 793,
+      "end": 811
+    },
+    {
+      "text": "Tumor Configuration",
+      "type": "ENTITY",
+      "start": 823,
+      "end": 842
+    },
+    {
+      "text": "Papillary Margins",
+      "type": "ENTITY",
+      "start": 844,
+      "end": 861
+    },
+    {
+      "text": "Adipose tissue",
+      "type": "ENTITY",
+      "start": 862,
+      "end": 876
+    },
+    {
+      "text": "perirenal Margin(s",
+      "type": "ENTITY",
+      "start": 878,
+      "end": 896
+    },
+    {
+      "text": "invasive carcinoma",
+      "type": "ENTITY",
+      "start": 910,
+      "end": 928
+    },
+    {
+      "text": "Lymph-Vascular Invasion",
+      "type": "ENTITY",
+      "start": 929,
+      "end": 952
+    },
+    {
+      "text": "Allocate Order",
+      "type": "ENTITY",
+      "start": 990,
+      "end": 1004
+    },
+    {
+      "text": "Brief Clinical History",
+      "type": "ENTITY",
+      "start": 1008,
+      "end": 1030
+    },
+    {
+      "text": "incidentally",
+      "type": "ENTITY",
+      "start": 1038,
+      "end": 1050
+    },
+    {
+      "text": "R renal mass",
+      "type": "ENTITY",
+      "start": 1057,
+      "end": 1069
+    },
+    {
+      "text": "hemangioma",
+      "type": "ENTITY",
+      "start": 1071,
+      "end": 1081
+    },
+    {
+      "text": "liver",
+      "type": "ENTITY",
+      "start": 1085,
+      "end": 1090
+    },
+    {
+      "text": "cholecystitis",
+      "type": "ENTITY",
+      "start": 1092,
+      "end": 1105
+    },
+    {
+      "text": "Specimen",
+      "type": "ENTITY",
+      "start": 1106,
+      "end": 1114
+    },
+    {
+      "text": "Protocol",
+      "type": "ENTITY",
+      "start": 1125,
+      "end": 1133
+    },
+    {
+      "text": "Pre-Operative Diagnosis",
+      "type": "ENTITY",
+      "start": 1146,
+      "end": 1169
+    },
+    {
+      "text": "Right renal mass",
+      "type": "ENTITY",
+      "start": 1171,
+      "end": 1187
+    },
+    {
+      "text": "Diagnosis",
+      "type": "ENTITY",
+      "start": 1203,
+      "end": 1212
+    },
+    {
+      "text": "Operative Findings",
+      "type": "ENTITY",
+      "start": 1220,
+      "end": 1238
+    },
+    {
+      "text": "SPECIMENS",
+      "type": "ENTITY",
+      "start": 1252,
+      "end": 1261
+    },
+    {
+      "text": "KIDNEY WEDGE",
+      "type": "ENTITY",
+      "start": 1276,
+      "end": 1288
+    },
+    {
+      "text": "RIGHT",
+      "type": "ENTITY",
+      "start": 1299,
+      "end": 1304
+    },
+    {
+      "text": "Renal 2",
+      "type": "ENTITY",
+      "start": 1306,
+      "end": 1313
+    },
+    {
+      "text": "FAT",
+      "type": "ENTITY",
+      "start": 1315,
+      "end": 1318
+    },
+    {
+      "text": "tumor 3",
+      "type": "ENTITY",
+      "start": 1325,
+      "end": 1332
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 1374,
+      "end": 1379
+    },
+    {
+      "text": "patient's",
+      "type": "ENTITY",
+      "start": 1385,
+      "end": 1394
+    },
+    {
+      "text": "medical record number",
+      "type": "ENTITY",
+      "start": 1401,
+      "end": 1422
+    },
+    {
+      "text": "Renal mass",
+      "type": "ENTITY",
+      "start": 1455,
+      "end": 1465
+    },
+    {
+      "text": "deep margin ink",
+      "type": "ENTITY",
+      "start": 1466,
+      "end": 1481
+    },
+    {
+      "text": "red-tan soft tissue mass",
+      "type": "ENTITY",
+      "start": 1488,
+      "end": 1512
+    },
+    {
+      "text": "surface",
+      "type": "ENTITY",
+      "start": 1522,
+      "end": 1529
+    },
+    {
+      "text": "black",
+      "type": "ENTITY",
+      "start": 1539,
+      "end": 1544
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 1545,
+      "end": 1554
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1590,
+      "end": 1598
+    },
+    {
+      "text": "frozen section room",
+      "type": "ENTITY",
+      "start": 1624,
+      "end": 1643
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1649,
+      "end": 1657
+    },
+    {
+      "text": "tan solid tumor",
+      "type": "ENTITY",
+      "start": 1677,
+      "end": 1692
+    },
+    {
+      "text": "measruing",
+      "type": "ENTITY",
+      "start": 1693,
+      "end": 1702
+    },
+    {
+      "text": "central area",
+      "type": "ENTITY",
+      "start": 1723,
+      "end": 1735
+    },
+    {
+      "text": "hemorrhage",
+      "type": "ENTITY",
+      "start": 1739,
+      "end": 1749
+    },
+    {
+      "text": "necrosis",
+      "type": "ENTITY",
+      "start": 1754,
+      "end": 1762
+    },
+    {
+      "text": "rim",
+      "type": "ENTITY",
+      "start": 1775,
+      "end": 1778
+    },
+    {
+      "text": "normal renal parenchyma",
+      "type": "ENTITY",
+      "start": 1782,
+      "end": 1805
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 1818,
+      "end": 1827
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1889,
+      "end": 1897
+    },
+    {
+      "text": "description",
+      "type": "ENTITY",
+      "start": 1916,
+      "end": 1927
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1933,
+      "end": 1938
+    },
+    {
+      "text": "grossly",
+      "type": "ENTITY",
+      "start": 1946,
+      "end": 1953
+    },
+    {
+      "text": "inked blue margin",
+      "type": "ENTITY",
+      "start": 1999,
+      "end": 2016
+    },
+    {
+      "text": "Representative sections",
+      "type": "ENTITY",
+      "start": 2018,
+      "end": 2041
+    },
+    {
+      "text": "white cassettes",
+      "type": "ENTITY",
+      "start": 2059,
+      "end": 2074
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 2075,
+      "end": 2082
+    },
+    {
+      "text": "1A-1C",
+      "type": "ENTITY",
+      "start": 2102,
+      "end": 2107
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 2110,
+      "end": 2115
+    },
+    {
+      "text": "resection margin",
+      "type": "ENTITY",
+      "start": 2128,
+      "end": 2144
+    },
+    {
+      "text": "blue",
+      "type": "ENTITY",
+      "start": 2154,
+      "end": 2158
+    },
+    {
+      "text": "1D-1G",
+      "type": "ENTITY",
+      "start": 2160,
+      "end": 2165
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 2169,
+      "end": 2174
+    },
+    {
+      "text": "papillary",
+      "type": "ENTITY",
+      "start": 2179,
+      "end": 2188
+    },
+    {
+      "text": "1H",
+      "type": "ENTITY",
+      "start": 2197,
+      "end": 2199
+    },
+    {
+      "text": "normal renal parenchyma",
+      "type": "ENTITY",
+      "start": 2203,
+      "end": 2226
+    },
+    {
+      "text": "Patient",
+      "type": "ENTITY",
+      "start": 2228,
+      "end": 2235
+    },
+    {
+      "text": "Identification",
+      "type": "ENTITY",
+      "start": 2236,
+      "end": 2250
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 2281,
+      "end": 2286
+    },
+    {
+      "text": "outer margin",
+      "type": "ENTITY",
+      "start": 2288,
+      "end": 2300
+    },
+    {
+      "text": "multiple",
+      "type": "ENTITY",
+      "start": 2318,
+      "end": 2326
+    },
+    {
+      "text": "fibroadipose tissue",
+      "type": "ENTITY",
+      "start": 2334,
+      "end": 2353
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 2354,
+      "end": 2363
+    },
+    {
+      "text": "aggregate",
+      "type": "ENTITY",
+      "start": 2367,
+      "end": 2376
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 2417,
+      "end": 2426
+    },
+    {
+      "text": "papillae",
+      "type": "ENTITY",
+      "start": 2463,
+      "end": 2471
+    },
+    {
+      "text": "grossly",
+      "type": "ENTITY",
+      "start": 2479,
+      "end": 2486
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 2498,
+      "end": 2506
+    },
+    {
+      "text": "sectioned",
+      "type": "ENTITY",
+      "start": 2519,
+      "end": 2528
+    },
+    {
+      "text": "hemorrhage",
+      "type": "ENTITY",
+      "start": 2555,
+      "end": 2565
+    },
+    {
+      "text": "papillary",
+      "type": "ENTITY",
+      "start": 2580,
+      "end": 2589
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 2609,
+      "end": 2617
+    },
+    {
+      "text": "white cassette",
+      "type": "ENTITY",
+      "start": 2643,
+      "end": 2657
+    },
+    {
+      "text": "Gallbladder\".It",
+      "type": "ENTITY",
+      "start": 2677,
+      "end": 2692
+    },
+    {
+      "text": "gallbladder",
+      "type": "ENTITY",
+      "start": 2726,
+      "end": 2737
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 2738,
+      "end": 2746
+    },
+    {
+      "text": "serosal surface",
+      "type": "ENTITY",
+      "start": 2751,
+      "end": 2766
+    },
+    {
+      "text": "unremarkable",
+      "type": "ENTITY",
+      "start": 2770,
+      "end": 2782
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 2788,
+      "end": 2796
+    },
+    {
+      "text": "red-tan mucosa",
+      "type": "ENTITY",
+      "start": 2817,
+      "end": 2831
+    },
+    {
+      "text": "surface",
+      "type": "ENTITY",
+      "start": 2832,
+      "end": 2839
+    },
+    {
+      "text": "green/brown bile",
+      "type": "ENTITY",
+      "start": 2867,
+      "end": 2883
+    },
+    {
+      "text": "gallstones",
+      "type": "ENTITY",
+      "start": 2888,
+      "end": 2898
+    },
+    {
+      "text": "identified",
+      "type": "ENTITY",
+      "start": 2903,
+      "end": 2913
+    },
+    {
+      "text": "tissue",
+      "type": "ENTITY",
+      "start": 2947,
+      "end": 2953
+    },
+    {
+      "text": "procured",
+      "type": "ENTITY",
+      "start": 2957,
+      "end": 2965
+    },
+    {
+      "text": "Lab",
+      "type": "ENTITY",
+      "start": 2970,
+      "end": 2973
+    },
+    {
+      "text": "procurement",
+      "type": "ENTITY",
+      "start": 3005,
+      "end": 3016
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 3069,
+      "end": 3077
+    },
+    {
+      "text": "description",
+      "type": "ENTITY",
+      "start": 3096,
+      "end": 3107
+    },
+    {
+      "text": "mucosa",
+      "type": "ENTITY",
+      "start": 3113,
+      "end": 3119
+    },
+    {
+      "text": "green",
+      "type": "ENTITY",
+      "start": 3128,
+      "end": 3133
+    },
+    {
+      "text": "velvety",
+      "type": "ENTITY",
+      "start": 3138,
+      "end": 3145
+    },
+    {
+      "text": "maximum",
+      "type": "ENTITY",
+      "start": 3153,
+      "end": 3160
+    },
+    {
+      "text": "thickness",
+      "type": "ENTITY",
+      "start": 3161,
+      "end": 3170
+    },
+    {
+      "text": "bile duct",
+      "type": "ENTITY",
+      "start": 3186,
+      "end": 3195
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 3210,
+      "end": 3218
+    },
+    {
+      "text": "maximal",
+      "type": "ENTITY",
+      "start": 3229,
+      "end": 3236
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 3237,
+      "end": 3245
+    },
+    {
+      "text": "Representative sections",
+      "type": "ENTITY",
+      "start": 3247,
+      "end": 3270
+    },
+    {
+      "text": "white cassettes",
+      "type": "ENTITY",
+      "start": 3290,
+      "end": 3305
+    },
+    {
+      "text": "3B",
+      "type": "ENTITY",
+      "start": 3321,
+      "end": 3323
+    },
+    {
+      "text": "3A",
+      "type": "ENTITY",
+      "start": 3325,
+      "end": 3327
+    },
+    {
+      "text": "bile duct",
+      "type": "ENTITY",
+      "start": 3330,
+      "end": 3339
+    },
+    {
+      "text": "vascular margin",
+      "type": "ENTITY",
+      "start": 3344,
+      "end": 3359
+    },
+    {
+      "text": "3B",
+      "type": "ENTITY",
+      "start": 3361,
+      "end": 3363
+    },
+    {
+      "text": "representative",
+      "type": "ENTITY",
+      "start": 3366,
+      "end": 3380
+    },
+    {
+      "text": "section",
+      "type": "ENTITY",
+      "start": 3381,
+      "end": 3388
+    },
+    {
+      "text": "gallbladder",
+      "type": "ENTITY",
+      "start": 3392,
+      "end": 3403
+    },
+    {
+      "text": "Gross description",
+      "type": "ENTITY",
+      "start": 3406,
+      "end": 3423
+    },
+    {
+      "text": "No consultants",
+      "type": "ENTITY",
+      "start": 3436,
+      "end": 3450
+    },
+    {
+      "text": "Patient",
+      "type": "ENTITY",
+      "start": 3451,
+      "end": 3458
+    },
+    {
+      "text": "Identification",
+      "type": "ENTITY",
+      "start": 3459,
+      "end": 3473
+    }
+  ],
+  "entity_count": 159,
+  "has_embedding": true
+}

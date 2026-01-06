@@ -1,0 +1,674 @@
+{
+  "filename": "ecefba1e-c7b3-4290-bd6a-d0347ead578f",
+  "timestamp": "2026-01-05T14:43:44.210801",
+  "entities": [
+    {
+      "text": "DOB",
+      "type": "ENTITY",
+      "start": 75,
+      "end": 78
+    },
+    {
+      "text": "Date",
+      "type": "ENTITY",
+      "start": 80,
+      "end": 84
+    },
+    {
+      "text": "Receipt",
+      "type": "ENTITY",
+      "start": 88,
+      "end": 95
+    },
+    {
+      "text": "Gender",
+      "type": "ENTITY",
+      "start": 97,
+      "end": 103
+    },
+    {
+      "text": "Physician",
+      "type": "ENTITY",
+      "start": 126,
+      "end": 135
+    },
+    {
+      "text": "Patient",
+      "type": "ENTITY",
+      "start": 148,
+      "end": 155
+    },
+    {
+      "text": "Billing Type",
+      "type": "ENTITY",
+      "start": 165,
+      "end": 177
+    },
+    {
+      "text": "Ret",
+      "type": "ENTITY",
+      "start": 198,
+      "end": 201
+    },
+    {
+      "text": "Clinical Diagnosis & History",
+      "type": "ENTITY",
+      "start": 211,
+      "end": 239
+    },
+    {
+      "text": "year",
+      "type": "ENTITY",
+      "start": 242,
+      "end": 246
+    },
+    {
+      "text": "right lower pole renal mass Specimens",
+      "type": "ENTITY",
+      "start": 267,
+      "end": 304
+    },
+    {
+      "text": "SP",
+      "type": "ENTITY",
+      "start": 320,
+      "end": 322
+    },
+    {
+      "text": "Kidney",
+      "type": "ENTITY",
+      "start": 324,
+      "end": 330
+    },
+    {
+      "text": "right renal tumor",
+      "type": "ENTITY",
+      "start": 332,
+      "end": 349
+    },
+    {
+      "text": "partial nephrectomy",
+      "type": "ENTITY",
+      "start": 352,
+      "end": 371
+    },
+    {
+      "text": "DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 377,
+      "end": 386
+    },
+    {
+      "text": "SP",
+      "type": "ENTITY",
+      "start": 388,
+      "end": 390
+    },
+    {
+      "text": "Kidney",
+      "type": "ENTITY",
+      "start": 392,
+      "end": 398
+    },
+    {
+      "text": "right renal tumor",
+      "type": "ENTITY",
+      "start": 400,
+      "end": 417
+    },
+    {
+      "text": "partial nephrectomy",
+      "type": "ENTITY",
+      "start": 419,
+      "end": 438
+    },
+    {
+      "text": "Tumor Type",
+      "type": "ENTITY",
+      "start": 445,
+      "end": 455
+    },
+    {
+      "text": "Ronal",
+      "type": "ENTITY",
+      "start": 458,
+      "end": 463
+    },
+    {
+      "text": "cell carcinoma",
+      "type": "ENTITY",
+      "start": 464,
+      "end": 478
+    },
+    {
+      "text": "Papillary type",
+      "type": "ENTITY",
+      "start": 481,
+      "end": 495
+    },
+    {
+      "text": "Tumor Size",
+      "type": "ENTITY",
+      "start": 522,
+      "end": 532
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 543,
+      "end": 551
+    },
+    {
+      "text": "Local Invasion",
+      "type": "ENTITY",
+      "start": 564,
+      "end": 578
+    },
+    {
+      "text": "renal",
+      "type": "ENTITY",
+      "start": 584,
+      "end": 589
+    },
+    {
+      "text": "Not Identified",
+      "type": "ENTITY",
+      "start": 607,
+      "end": 621
+    },
+    {
+      "text": "Ronal",
+      "type": "ENTITY",
+      "start": 622,
+      "end": 627
+    },
+    {
+      "text": "Surgical Margins",
+      "type": "ENTITY",
+      "start": 657,
+      "end": 673
+    },
+    {
+      "text": "Free of",
+      "type": "ENTITY",
+      "start": 675,
+      "end": 682
+    },
+    {
+      "text": "Mild arlerionephrosclerosis",
+      "type": "ENTITY",
+      "start": 712,
+      "end": 739
+    },
+    {
+      "text": "Adrenal Gland",
+      "type": "ENTITY",
+      "start": 741,
+      "end": 754
+    },
+    {
+      "text": "Lymph Nodes",
+      "type": "ENTITY",
+      "start": 770,
+      "end": 781
+    },
+    {
+      "text": "Not idcntified",
+      "type": "ENTITY",
+      "start": 783,
+      "end": 797
+    },
+    {
+      "text": "pT1 Tumor",
+      "type": "ENTITY",
+      "start": 843,
+      "end": 852
+    },
+    {
+      "text": "dimension",
+      "type": "ENTITY",
+      "start": 875,
+      "end": 884
+    },
+    {
+      "text": "kidney TATTEST",
+      "type": "ENTITY",
+      "start": 900,
+      "end": 914
+    },
+    {
+      "text": "OIAGNOSIS",
+      "type": "ENTITY",
+      "start": 930,
+      "end": 939
+    },
+    {
+      "text": "IS",
+      "type": "ENTITY",
+      "start": 940,
+      "end": 942
+    },
+    {
+      "text": "tAATERIAL",
+      "type": "ENTITY",
+      "start": 1006,
+      "end": 1015
+    },
+    {
+      "text": "THAI I",
+      "type": "ENTITY",
+      "start": 1022,
+      "end": 1028
+    },
+    {
+      "text": "HAVE REVIEWEDANDAPPROVED THIS REPORT Page 1",
+      "type": "ENTITY",
+      "start": 1029,
+      "end": 1072
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1114,
+      "end": 1122
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 1135,
+      "end": 1140
+    },
+    {
+      "text": "stitch marks",
+      "type": "ENTITY",
+      "start": 1169,
+      "end": 1181
+    },
+    {
+      "text": "deep surgical margin",
+      "type": "ENTITY",
+      "start": 1186,
+      "end": 1206
+    },
+    {
+      "text": "wedge shaped portion of kidney",
+      "type": "ENTITY",
+      "start": 1239,
+      "end": 1269
+    },
+    {
+      "text": "suture",
+      "type": "ENTITY",
+      "start": 1277,
+      "end": 1283
+    },
+    {
+      "text": "deep margin",
+      "type": "ENTITY",
+      "start": 1296,
+      "end": 1307
+    },
+    {
+      "text": "perinephric fat",
+      "type": "ENTITY",
+      "start": 1313,
+      "end": 1328
+    },
+    {
+      "text": "inked green",
+      "type": "ENTITY",
+      "start": 1332,
+      "end": 1343
+    },
+    {
+      "text": "surgical margin",
+      "type": "ENTITY",
+      "start": 1349,
+      "end": 1364
+    },
+    {
+      "text": "inked black",
+      "type": "ENTITY",
+      "start": 1368,
+      "end": 1379
+    },
+    {
+      "text": "specinen",
+      "type": "ENTITY",
+      "start": 1388,
+      "end": 1396
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 1465,
+      "end": 1474
+    },
+    {
+      "text": "Tho lumor",
+      "type": "ENTITY",
+      "start": 1495,
+      "end": 1504
+    },
+    {
+      "text": "perinophric",
+      "type": "ENTITY",
+      "start": 1541,
+      "end": 1552
+    },
+    {
+      "text": "adipose tissue",
+      "type": "ENTITY",
+      "start": 1553,
+      "end": 1567
+    },
+    {
+      "text": "adjacent",
+      "type": "ENTITY",
+      "start": 1576,
+      "end": 1584
+    },
+    {
+      "text": "clearance",
+      "type": "ENTITY",
+      "start": 1607,
+      "end": 1616
+    },
+    {
+      "text": "resection nargin",
+      "type": "ENTITY",
+      "start": 1626,
+      "end": 1642
+    },
+    {
+      "text": "representative",
+      "type": "ENTITY",
+      "start": 1656,
+      "end": 1670
+    },
+    {
+      "text": "section",
+      "type": "ENTITY",
+      "start": 1671,
+      "end": 1678
+    },
+    {
+      "text": "nearest margin",
+      "type": "ENTITY",
+      "start": 1686,
+      "end": 1700
+    },
+    {
+      "text": "subnnitted",
+      "type": "ENTITY",
+      "start": 1704,
+      "end": 1714
+    },
+    {
+      "text": "frozen section",
+      "type": "ENTITY",
+      "start": 1719,
+      "end": 1733
+    },
+    {
+      "text": "diagnosis",
+      "type": "ENTITY",
+      "start": 1734,
+      "end": 1743
+    },
+    {
+      "text": "portion",
+      "type": "ENTITY",
+      "start": 1747,
+      "end": 1754
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1762,
+      "end": 1767
+    },
+    {
+      "text": "TPS",
+      "type": "ENTITY",
+      "start": 1785,
+      "end": 1788
+    },
+    {
+      "text": "representative",
+      "type": "ENTITY",
+      "start": 1793,
+      "end": 1807
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 1808,
+      "end": 1816
+    },
+    {
+      "text": "submitlod",
+      "type": "ENTITY",
+      "start": 1821,
+      "end": 1830
+    },
+    {
+      "text": "oxamination",
+      "type": "ENTITY",
+      "start": 1835,
+      "end": 1846
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 1859,
+      "end": 1867
+    },
+    {
+      "text": "FSC",
+      "type": "ENTITY",
+      "start": 1869,
+      "end": 1872
+    },
+    {
+      "text": "frozen",
+      "type": "ENTITY",
+      "start": 1875,
+      "end": 1881
+    },
+    {
+      "text": "control",
+      "type": "ENTITY",
+      "start": 1890,
+      "end": 1897
+    },
+    {
+      "text": "T  tumor",
+      "type": "ENTITY",
+      "start": 1899,
+      "end": 1907
+    },
+    {
+      "text": "SM",
+      "type": "ENTITY",
+      "start": 1909,
+      "end": 1911
+    },
+    {
+      "text": "surgical margin",
+      "type": "ENTITY",
+      "start": 1914,
+      "end": 1929
+    },
+    {
+      "text": "PF",
+      "type": "ENTITY",
+      "start": 1931,
+      "end": 1933
+    },
+    {
+      "text": "perinephric",
+      "type": "ENTITY",
+      "start": 1936,
+      "end": 1947
+    },
+    {
+      "text": "fat",
+      "type": "ENTITY",
+      "start": 1948,
+      "end": 1951
+    },
+    {
+      "text": "Sectlons",
+      "type": "ENTITY",
+      "start": 1964,
+      "end": 1972
+    },
+    {
+      "text": "Kidney",
+      "type": "ENTITY",
+      "start": 1987,
+      "end": 1993
+    },
+    {
+      "text": "right renal tumor",
+      "type": "ENTITY",
+      "start": 1995,
+      "end": 2012
+    },
+    {
+      "text": "partial nephrectomy",
+      "type": "ENTITY",
+      "start": 2014,
+      "end": 2033
+    },
+    {
+      "text": "FSCB",
+      "type": "ENTITY",
+      "start": 2071,
+      "end": 2075
+    },
+    {
+      "text": "PF",
+      "type": "ENTITY",
+      "start": 2078,
+      "end": 2080
+    },
+    {
+      "text": "SM",
+      "type": "ENTITY",
+      "start": 2085,
+      "end": 2087
+    },
+    {
+      "text": "Intraoperative Consultation",
+      "type": "ENTITY",
+      "start": 2096,
+      "end": 2123
+    },
+    {
+      "text": "diagnoses",
+      "type": "ENTITY",
+      "start": 2135,
+      "end": 2144
+    },
+    {
+      "text": "section",
+      "type": "ENTITY",
+      "start": 2159,
+      "end": 2166
+    },
+    {
+      "text": "tissue",
+      "type": "ENTITY",
+      "start": 2187,
+      "end": 2193
+    },
+    {
+      "text": "examinod",
+      "type": "ENTITY",
+      "start": 2201,
+      "end": 2209
+    },
+    {
+      "text": "time",
+      "type": "ENTITY",
+      "start": 2217,
+      "end": 2221
+    },
+    {
+      "text": "intraoperative consultation",
+      "type": "ENTITY",
+      "start": 2229,
+      "end": 2256
+    },
+    {
+      "text": "FROZEN SECTION",
+      "type": "ENTITY",
+      "start": 2261,
+      "end": 2275
+    },
+    {
+      "text": "DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 2276,
+      "end": 2285
+    },
+    {
+      "text": "SP",
+      "type": "ENTITY",
+      "start": 2287,
+      "end": 2289
+    },
+    {
+      "text": "Right renal tumor B",
+      "type": "ENTITY",
+      "start": 2291,
+      "end": 2310
+    },
+    {
+      "text": "Renal cortical neoplasm",
+      "type": "ENTITY",
+      "start": 2312,
+      "end": 2335
+    },
+    {
+      "text": "margin",
+      "type": "ENTITY",
+      "start": 2337,
+      "end": 2343
+    },
+    {
+      "text": "B",
+      "type": "ENTITY",
+      "start": 2355,
+      "end": 2356
+    },
+    {
+      "text": "tree",
+      "type": "ENTITY",
+      "start": 2361,
+      "end": 2365
+    },
+    {
+      "text": "tumo PERMANENT DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 2369,
+      "end": 2393
+    },
+    {
+      "text": "SAME Page 2",
+      "type": "ENTITY",
+      "start": 2395,
+      "end": 2406
+    },
+    {
+      "text": "END",
+      "type": "ENTITY",
+      "start": 2412,
+      "end": 2415
+    }
+  ],
+  "entity_count": 111,
+  "has_embedding": true
+}

@@ -1,0 +1,752 @@
+{
+  "filename": "a5d19f9c-38b2-4454-ba7d-fd2a318d0a02",
+  "timestamp": "2026-01-05T14:45:03.240412",
+  "entities": [
+    {
+      "text": "ONLY",
+      "type": "ENTITY",
+      "start": 33,
+      "end": 37
+    },
+    {
+      "text": "PERSONAL",
+      "type": "ENTITY",
+      "start": 40,
+      "end": 48
+    },
+    {
+      "text": "Patient",
+      "type": "ENTITY",
+      "start": 81,
+      "end": 88
+    },
+    {
+      "text": "Specimen",
+      "type": "ENTITY",
+      "start": 90,
+      "end": 98
+    },
+    {
+      "text": "FMP/SSN",
+      "type": "ENTITY",
+      "start": 102,
+      "end": 109
+    },
+    {
+      "text": "DOb/Age/Sex",
+      "type": "ENTITY",
+      "start": 111,
+      "end": 122
+    },
+    {
+      "text": "Age",
+      "type": "ENTITY",
+      "start": 124,
+      "end": 127
+    },
+    {
+      "text": "Race",
+      "type": "ENTITY",
+      "start": 132,
+      "end": 136
+    },
+    {
+      "text": "WHITE",
+      "type": "ENTITY",
+      "start": 138,
+      "end": 143
+    },
+    {
+      "text": "Location",
+      "type": "ENTITY",
+      "start": 151,
+      "end": 159
+    },
+    {
+      "text": "Received",
+      "type": "ENTITY",
+      "start": 161,
+      "end": 169
+    },
+    {
+      "text": "**AMENDED",
+      "type": "ENTITY",
+      "start": 196,
+      "end": 205
+    },
+    {
+      "text": "ADDENDUM** 1CD-0-3",
+      "type": "ENTITY",
+      "start": 208,
+      "end": 226
+    },
+    {
+      "text": "Casnona",
+      "type": "ENTITY",
+      "start": 227,
+      "end": 234
+    },
+    {
+      "text": "RIGHT",
+      "type": "ENTITY",
+      "start": 272,
+      "end": 277
+    },
+    {
+      "text": "c50.9 FINAL",
+      "type": "ENTITY",
+      "start": 315,
+      "end": 326
+    },
+    {
+      "text": "BREAST",
+      "type": "ENTITY",
+      "start": 338,
+      "end": 344
+    },
+    {
+      "text": "RIGHT INFERIOR",
+      "type": "ENTITY",
+      "start": 346,
+      "end": 360
+    },
+    {
+      "text": "EXCISION",
+      "type": "ENTITY",
+      "start": 383,
+      "end": 391
+    },
+    {
+      "text": "CM",
+      "type": "ENTITY",
+      "start": 480,
+      "end": 482
+    },
+    {
+      "text": "MICROSCOPY",
+      "type": "ENTITY",
+      "start": 486,
+      "end": 496
+    },
+    {
+      "text": "CARCINOMA",
+      "type": "ENTITY",
+      "start": 551,
+      "end": 560
+    },
+    {
+      "text": "MICROCALFICIATIONS",
+      "type": "ENTITY",
+      "start": 562,
+      "end": 580
+    },
+    {
+      "text": "AJCC STAGING",
+      "type": "ENTITY",
+      "start": 593,
+      "end": 605
+    },
+    {
+      "text": "STAGE I",
+      "type": "ENTITY",
+      "start": 607,
+      "end": 614
+    },
+    {
+      "text": "T1",
+      "type": "ENTITY",
+      "start": 616,
+      "end": 618
+    },
+    {
+      "text": "NX",
+      "type": "ENTITY",
+      "start": 620,
+      "end": 622
+    },
+    {
+      "text": "MX",
+      "type": "ENTITY",
+      "start": 624,
+      "end": 626
+    },
+    {
+      "text": "SEE",
+      "type": "ENTITY",
+      "start": 629,
+      "end": 632
+    },
+    {
+      "text": "COMMENT",
+      "type": "ENTITY",
+      "start": 642,
+      "end": 649
+    },
+    {
+      "text": "visiting",
+      "type": "ENTITY",
+      "start": 653,
+      "end": 661
+    },
+    {
+      "text": "pathology",
+      "type": "ENTITY",
+      "start": 662,
+      "end": 671
+    },
+    {
+      "text": "resident",
+      "type": "ENTITY",
+      "start": 672,
+      "end": 680
+    },
+    {
+      "text": "diagnosis",
+      "type": "ENTITY",
+      "start": 707,
+      "end": 716
+    },
+    {
+      "text": "Dr.",
+      "type": "ENTITY",
+      "start": 722,
+      "end": 725
+    },
+    {
+      "text": "clinician",
+      "type": "ENTITY",
+      "start": 766,
+      "end": 775
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 777,
+      "end": 782
+    },
+    {
+      "text": "Her2-neu",
+      "type": "ENTITY",
+      "start": 801,
+      "end": 809
+    },
+    {
+      "text": "overexpression",
+      "type": "ENTITY",
+      "start": 810,
+      "end": 824
+    },
+    {
+      "text": "immunohistochemical methods",
+      "type": "ENTITY",
+      "start": 828,
+      "end": 855
+    },
+    {
+      "text": "DAko HercepTest",
+      "type": "ENTITY",
+      "start": 857,
+      "end": 872
+    },
+    {
+      "text": "results",
+      "type": "ENTITY",
+      "start": 893,
+      "end": 900
+    },
+    {
+      "text": "HER2/neu",
+      "type": "ENTITY",
+      "start": 902,
+      "end": 910
+    },
+    {
+      "text": "overexpression",
+      "type": "ENTITY",
+      "start": 911,
+      "end": 925
+    },
+    {
+      "text": "NEgATIvE",
+      "type": "ENTITY",
+      "start": 927,
+      "end": 935
+    },
+    {
+      "text": "Membranous staining",
+      "type": "ENTITY",
+      "start": 951,
+      "end": 970
+    },
+    {
+      "text": "positivity",
+      "type": "ENTITY",
+      "start": 1013,
+      "end": 1023
+    },
+    {
+      "text": "qreater",
+      "type": "ENTITY",
+      "start": 1041,
+      "end": 1048
+    },
+    {
+      "text": "Test",
+      "type": "ENTITY",
+      "start": 1051,
+      "end": 1055
+    },
+    {
+      "text": "performed",
+      "type": "ENTITY",
+      "start": 1056,
+      "end": 1065
+    },
+    {
+      "text": "Interpretation",
+      "type": "ENTITY",
+      "start": 1069,
+      "end": 1083
+    },
+    {
+      "text": "Electronically Signed",
+      "type": "ENTITY",
+      "start": 1107,
+      "end": 1128
+    },
+    {
+      "text": "B065FC65-CD33-4878-AE2C-7E8C04FSECAB",
+      "type": "ENTITY",
+      "start": 1140,
+      "end": 1176
+    },
+    {
+      "text": "Redacted Page 1",
+      "type": "ENTITY",
+      "start": 1197,
+      "end": 1212
+    },
+    {
+      "text": "Next Page",
+      "type": "ENTITY",
+      "start": 1226,
+      "end": 1235
+    },
+    {
+      "text": "ONLY",
+      "type": "ENTITY",
+      "start": 1254,
+      "end": 1258
+    },
+    {
+      "text": "PERSONAL",
+      "type": "ENTITY",
+      "start": 1261,
+      "end": 1269
+    },
+    {
+      "text": "DATA",
+      "type": "ENTITY",
+      "start": 1270,
+      "end": 1274
+    },
+    {
+      "text": "PRIVACY",
+      "type": "ENTITY",
+      "start": 1277,
+      "end": 1284
+    },
+    {
+      "text": "ACT",
+      "type": "ENTITY",
+      "start": 1285,
+      "end": 1288
+    },
+    {
+      "text": "ONLY",
+      "type": "ENTITY",
+      "start": 1330,
+      "end": 1334
+    },
+    {
+      "text": "PERSONAL",
+      "type": "ENTITY",
+      "start": 1337,
+      "end": 1345
+    },
+    {
+      "text": "DATA",
+      "type": "ENTITY",
+      "start": 1346,
+      "end": 1350
+    },
+    {
+      "text": "PRIVACY",
+      "type": "ENTITY",
+      "start": 1353,
+      "end": 1360
+    },
+    {
+      "text": "ACT",
+      "type": "ENTITY",
+      "start": 1361,
+      "end": 1364
+    },
+    {
+      "text": "PATHOLOGY REPORT",
+      "type": "ENTITY",
+      "start": 1385,
+      "end": 1401
+    },
+    {
+      "text": "Patient",
+      "type": "ENTITY",
+      "start": 1402,
+      "end": 1409
+    },
+    {
+      "text": "Specimen",
+      "type": "ENTITY",
+      "start": 1411,
+      "end": 1419
+    },
+    {
+      "text": "HER2/NEU BY FISH",
+      "type": "ENTITY",
+      "start": 1433,
+      "end": 1449
+    },
+    {
+      "text": "FIsh",
+      "type": "ENTITY",
+      "start": 1476,
+      "end": 1480
+    },
+    {
+      "text": "detection",
+      "type": "ENTITY",
+      "start": 1485,
+      "end": 1494
+    },
+    {
+      "text": "HER2-neu gene amplification",
+      "type": "ENTITY",
+      "start": 1498,
+      "end": 1525
+    },
+    {
+      "text": "Path Vision Her2 DNA probe",
+      "type": "ENTITY",
+      "start": 1527,
+      "end": 1553
+    },
+    {
+      "text": "Vysis",
+      "type": "ENTITY",
+      "start": 1557,
+      "end": 1562
+    },
+    {
+      "text": "Ratio",
+      "type": "ENTITY",
+      "start": 1565,
+      "end": 1570
+    },
+    {
+      "text": "Her2-neu",
+      "type": "ENTITY",
+      "start": 1574,
+      "end": 1582
+    },
+    {
+      "text": "chromosome 17 signals",
+      "type": "ENTITY",
+      "start": 1588,
+      "end": 1609
+    },
+    {
+      "text": "RANGE",
+      "type": "ENTITY",
+      "start": 1611,
+      "end": 1616
+    },
+    {
+      "text": "Ratio less than",
+      "type": "ENTITY",
+      "start": 1637,
+      "end": 1652
+    },
+    {
+      "text": "Her2-neu",
+      "type": "ENTITY",
+      "start": 1658,
+      "end": 1666
+    },
+    {
+      "text": "gene amplification",
+      "type": "ENTITY",
+      "start": 1667,
+      "end": 1685
+    },
+    {
+      "text": "Ratio",
+      "type": "ENTITY",
+      "start": 1700,
+      "end": 1705
+    },
+    {
+      "text": "HEr2-neu",
+      "type": "ENTITY",
+      "start": 1736,
+      "end": 1744
+    },
+    {
+      "text": "gene amplification",
+      "type": "ENTITY",
+      "start": 1745,
+      "end": 1763
+    },
+    {
+      "text": "ER/PR IMMUNOSTAINS ARE NEGATIVE",
+      "type": "ENTITY",
+      "start": 1774,
+      "end": 1805
+    },
+    {
+      "text": "CI",
+      "type": "ENTITY",
+      "start": 1807,
+      "end": 1809
+    },
+    {
+      "text": "INICAL DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 1810,
+      "end": 1826
+    },
+    {
+      "text": "HISTORY",
+      "type": "ENTITY",
+      "start": 1831,
+      "end": 1838
+    },
+    {
+      "text": "YO FEMALE",
+      "type": "ENTITY",
+      "start": 1840,
+      "end": 1849
+    },
+    {
+      "text": "COMPLEX",
+      "type": "ENTITY",
+      "start": 1868,
+      "end": 1875
+    },
+    {
+      "text": "U/S",
+      "type": "ENTITY",
+      "start": 1884,
+      "end": 1887
+    },
+    {
+      "text": "RETROAREOLAR",
+      "type": "ENTITY",
+      "start": 1908,
+      "end": 1920
+    },
+    {
+      "text": "FIBROUS TISSUE VS",
+      "type": "ENTITY",
+      "start": 1946,
+      "end": 1963
+    },
+    {
+      "text": "DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 1990,
+      "end": 1999
+    },
+    {
+      "text": "Post-operative",
+      "type": "ENTITY",
+      "start": 2001,
+      "end": 2015
+    },
+    {
+      "text": "Diagnosis",
+      "type": "ENTITY",
+      "start": 2016,
+      "end": 2025
+    },
+    {
+      "text": "SAA",
+      "type": "ENTITY",
+      "start": 2027,
+      "end": 2030
+    },
+    {
+      "text": "DESCRIpTION",
+      "type": "ENTITY",
+      "start": 2037,
+      "end": 2048
+    },
+    {
+      "text": "RIghT",
+      "type": "ENTITY",
+      "start": 2050,
+      "end": 2055
+    },
+    {
+      "text": "BReAsT",
+      "type": "ENTITY",
+      "start": 2056,
+      "end": 2062
+    },
+    {
+      "text": "TIssuE",
+      "type": "ENTITY",
+      "start": 2063,
+      "end": 2069
+    },
+    {
+      "text": "inferior lateral",
+      "type": "ENTITY",
+      "start": 2071,
+      "end": 2087
+    },
+    {
+      "text": "retro-areola",
+      "type": "ENTITY",
+      "start": 2088,
+      "end": 2100
+    },
+    {
+      "text": "fibro fatty tissue",
+      "type": "ENTITY",
+      "start": 2154,
+      "end": 2172
+    },
+    {
+      "text": "inked",
+      "type": "ENTITY",
+      "start": 2200,
+      "end": 2205
+    },
+    {
+      "text": "sectioned",
+      "type": "ENTITY",
+      "start": 2210,
+      "end": 2219
+    },
+    {
+      "text": "reapproximated",
+      "type": "ENTITY",
+      "start": 2226,
+      "end": 2240
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 2246,
+      "end": 2254
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 2255,
+      "end": 2263
+    },
+    {
+      "text": "sectioning",
+      "type": "ENTITY",
+      "start": 2291,
+      "end": 2301
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 2319,
+      "end": 2327
+    },
+    {
+      "text": "fat",
+      "type": "ENTITY",
+      "start": 2338,
+      "end": 2341
+    },
+    {
+      "text": "fibrous tissue",
+      "type": "ENTITY",
+      "start": 2355,
+      "end": 2369
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 2376,
+      "end": 2384
+    },
+    {
+      "text": "gray cassettes",
+      "type": "ENTITY",
+      "start": 2421,
+      "end": 2435
+    },
+    {
+      "text": "Al-A5",
+      "type": "ENTITY",
+      "start": 2443,
+      "end": 2448
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 2454,
+      "end": 2462
+    },
+    {
+      "text": "inked blue",
+      "type": "ENTITY",
+      "start": 2479,
+      "end": 2489
+    },
+    {
+      "text": "observer",
+      "type": "ENTITY",
+      "start": 2520,
+      "end": 2528
+    },
+    {
+      "text": "ONLY",
+      "type": "ENTITY",
+      "start": 2569,
+      "end": 2573
+    },
+    {
+      "text": "PERSONAL",
+      "type": "ENTITY",
+      "start": 2576,
+      "end": 2584
+    },
+    {
+      "text": "DATA",
+      "type": "ENTITY",
+      "start": 2585,
+      "end": 2589
+    },
+    {
+      "text": "PRIVACY",
+      "type": "ENTITY",
+      "start": 2592,
+      "end": 2599
+    },
+    {
+      "text": "ACT",
+      "type": "ENTITY",
+      "start": 2600,
+      "end": 2603
+    }
+  ],
+  "entity_count": 124,
+  "has_embedding": true
+}

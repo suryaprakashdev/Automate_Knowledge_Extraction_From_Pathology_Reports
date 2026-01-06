@@ -1,0 +1,878 @@
+{
+  "filename": "03eec11b-b6ae-401d-b203-56fe80e853e4",
+  "timestamp": "2026-01-05T14:42:54.882608",
+  "entities": [
+    {
+      "text": "A.SPECIMEN",
+      "type": "ENTITY",
+      "start": 38,
+      "end": 48
+    },
+    {
+      "text": "DESIGNATEDSIGMOID",
+      "type": "ENTITY",
+      "start": 49,
+      "end": 66
+    },
+    {
+      "text": "COLONPARTIAL",
+      "type": "ENTITY",
+      "start": 67,
+      "end": 79
+    },
+    {
+      "text": "Cm",
+      "type": "ENTITY",
+      "start": 94,
+      "end": 96
+    },
+    {
+      "text": "GRADE",
+      "type": "ENTITY",
+      "start": 117,
+      "end": 122
+    },
+    {
+      "text": "Cm",
+      "type": "ENTITY",
+      "start": 154,
+      "end": 156
+    },
+    {
+      "text": "dimension",
+      "type": "ENTITY",
+      "start": 169,
+      "end": 178
+    },
+    {
+      "text": "Tumor",
+      "type": "ENTITY",
+      "start": 181,
+      "end": 186
+    },
+    {
+      "text": "sigmoid colon",
+      "type": "ENTITY",
+      "start": 201,
+      "end": 214
+    },
+    {
+      "text": "polypoid",
+      "type": "ENTITY",
+      "start": 224,
+      "end": 232
+    },
+    {
+      "text": "fungating",
+      "type": "ENTITY",
+      "start": 237,
+      "end": 246
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 247,
+      "end": 251
+    },
+    {
+      "text": "ulcerative",
+      "type": "ENTITY",
+      "start": 255,
+      "end": 265
+    },
+    {
+      "text": "infiltrating border",
+      "type": "ENTITY",
+      "start": 278,
+      "end": 297
+    },
+    {
+      "text": "Tumor",
+      "type": "ENTITY",
+      "start": 299,
+      "end": 304
+    },
+    {
+      "text": "invades",
+      "type": "ENTITY",
+      "start": 305,
+      "end": 312
+    },
+    {
+      "text": "muscularis propria",
+      "type": "ENTITY",
+      "start": 322,
+      "end": 340
+    },
+    {
+      "text": "Proximal",
+      "type": "ENTITY",
+      "start": 342,
+      "end": 350
+    },
+    {
+      "text": "distal",
+      "type": "ENTITY",
+      "start": 352,
+      "end": 358
+    },
+    {
+      "text": "radial resection margins",
+      "type": "ENTITY",
+      "start": 364,
+      "end": 388
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 393,
+      "end": 401
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 406,
+      "end": 411
+    },
+    {
+      "text": "Invasive tumor",
+      "type": "ENTITY",
+      "start": 413,
+      "end": 427
+    },
+    {
+      "text": "mucosal",
+      "type": "ENTITY",
+      "start": 455,
+      "end": 462
+    },
+    {
+      "text": "Lymphovascular invasion",
+      "type": "ENTITY",
+      "start": 481,
+      "end": 504
+    },
+    {
+      "text": "Extramural",
+      "type": "ENTITY",
+      "start": 524,
+      "end": 534
+    },
+    {
+      "text": "venous invasion",
+      "type": "ENTITY",
+      "start": 535,
+      "end": 550
+    },
+    {
+      "text": "Perineural invasion",
+      "type": "ENTITY",
+      "start": 570,
+      "end": 589
+    },
+    {
+      "text": "Peritumoral",
+      "type": "ENTITY",
+      "start": 609,
+      "end": 620
+    },
+    {
+      "text": "Crohn?s-like infiltrate",
+      "type": "ENTITY",
+      "start": 650,
+      "end": 673
+    },
+    {
+      "text": "Residual adenoma",
+      "type": "ENTITY",
+      "start": 691,
+      "end": 707
+    },
+    {
+      "text": "absent",
+      "type": "ENTITY",
+      "start": 711,
+      "end": 717
+    },
+    {
+      "text": "Regional lymph nodes",
+      "type": "ENTITY",
+      "start": 719,
+      "end": 739
+    },
+    {
+      "text": "positive",
+      "type": "ENTITY",
+      "start": 741,
+      "end": 749
+    },
+    {
+      "text": "AJcc",
+      "type": "ENTITY",
+      "start": 764,
+      "end": 768
+    },
+    {
+      "text": "NO",
+      "type": "ENTITY",
+      "start": 801,
+      "end": 803
+    },
+    {
+      "text": "MX",
+      "type": "ENTITY",
+      "start": 804,
+      "end": 806
+    },
+    {
+      "text": "diseases",
+      "type": "ENTITY",
+      "start": 819,
+      "end": 827
+    },
+    {
+      "text": "hyperplastic polyps",
+      "type": "ENTITY",
+      "start": 836,
+      "end": 855
+    },
+    {
+      "text": "diverticulosis",
+      "type": "ENTITY",
+      "start": 860,
+      "end": 874
+    },
+    {
+      "text": "Colonic mucosa",
+      "type": "ENTITY",
+      "start": 916,
+      "end": 930
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 931,
+      "end": 939
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 944,
+      "end": 949
+    },
+    {
+      "text": "DISTAL",
+      "type": "ENTITY",
+      "start": 973,
+      "end": 979
+    },
+    {
+      "text": "DONUT",
+      "type": "ENTITY",
+      "start": 980,
+      "end": 985
+    },
+    {
+      "text": "Colonic mucosa",
+      "type": "ENTITY",
+      "start": 986,
+      "end": 1000
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 1002,
+      "end": 1010
+    },
+    {
+      "text": "tunor",
+      "type": "ENTITY",
+      "start": 1015,
+      "end": 1020
+    },
+    {
+      "text": "History",
+      "type": "ENTITY",
+      "start": 1037,
+      "end": 1044
+    },
+    {
+      "text": "Invasive adenocarcinoma",
+      "type": "ENTITY",
+      "start": 1046,
+      "end": 1069
+    },
+    {
+      "text": "Operation",
+      "type": "ENTITY",
+      "start": 1071,
+      "end": 1080
+    },
+    {
+      "text": "Sigmoid",
+      "type": "ENTITY",
+      "start": 1082,
+      "end": 1089
+    },
+    {
+      "text": "colectomy",
+      "type": "ENTITY",
+      "start": 1090,
+      "end": 1099
+    },
+    {
+      "text": "Operative Findings",
+      "type": "ENTITY",
+      "start": 1101,
+      "end": 1119
+    },
+    {
+      "text": "Clinical Diagnosis",
+      "type": "ENTITY",
+      "start": 1133,
+      "end": 1151
+    },
+    {
+      "text": "Colon CA",
+      "type": "ENTITY",
+      "start": 1153,
+      "end": 1161
+    },
+    {
+      "text": "TISSUE SUBMITTED",
+      "type": "ENTITY",
+      "start": 1163,
+      "end": 1179
+    },
+    {
+      "text": "A/1",
+      "type": "ENTITY",
+      "start": 1181,
+      "end": 1184
+    },
+    {
+      "text": "Sigmoid colon",
+      "type": "ENTITY",
+      "start": 1186,
+      "end": 1199
+    },
+    {
+      "text": "Tissue Bank open",
+      "type": "ENTITY",
+      "start": 1200,
+      "end": 1216
+    },
+    {
+      "text": "return) B/2) Proximal donut\n\n",
+      "type": "ENTITY",
+      "start": 1221,
+      "end": 1250
+    },
+    {
+      "text": "Distal",
+      "type": "ENTITY",
+      "start": 1270,
+      "end": 1276
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1306,
+      "end": 1314
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 1327,
+      "end": 1332
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 1338,
+      "end": 1345
+    },
+    {
+      "text": "patient's",
+      "type": "ENTITY",
+      "start": 1355,
+      "end": 1364
+    },
+    {
+      "text": "medical record number",
+      "type": "ENTITY",
+      "start": 1374,
+      "end": 1395
+    },
+    {
+      "text": "parts",
+      "type": "ENTITY",
+      "start": 1418,
+      "end": 1423
+    },
+    {
+      "text": "segment",
+      "type": "ENTITY",
+      "start": 1466,
+      "end": 1473
+    },
+    {
+      "text": "colon",
+      "type": "ENTITY",
+      "start": 1477,
+      "end": 1482
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 1494,
+      "end": 1500
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 1513,
+      "end": 1521
+    },
+    {
+      "text": "open resection margin inked blue",
+      "type": "ENTITY",
+      "start": 1537,
+      "end": 1569
+    },
+    {
+      "text": "stapled resection margin inked green",
+      "type": "ENTITY",
+      "start": 1613,
+      "end": 1649
+    },
+    {
+      "text": "ulcerated polypoid mass",
+      "type": "ENTITY",
+      "start": 1651,
+      "end": 1674
+    },
+    {
+      "text": "stapled resection margin",
+      "type": "ENTITY",
+      "start": 1718,
+      "end": 1742
+    },
+    {
+      "text": "open resection margin",
+      "type": "ENTITY",
+      "start": 1763,
+      "end": 1784
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 1790,
+      "end": 1794
+    },
+    {
+      "text": "invade",
+      "type": "ENTITY",
+      "start": 1806,
+      "end": 1812
+    },
+    {
+      "text": "muscularis",
+      "type": "ENTITY",
+      "start": 1817,
+      "end": 1827
+    },
+    {
+      "text": "serosa",
+      "type": "ENTITY",
+      "start": 1848,
+      "end": 1854
+    },
+    {
+      "text": "section",
+      "type": "ENTITY",
+      "start": 1858,
+      "end": 1865
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 1874,
+      "end": 1878
+    },
+    {
+      "text": "tissue bank",
+      "type": "ENTITY",
+      "start": 1916,
+      "end": 1927
+    },
+    {
+      "text": "radial resection margin",
+      "type": "ENTITY",
+      "start": 1933,
+      "end": 1956
+    },
+    {
+      "text": "inked black",
+      "type": "ENTITY",
+      "start": 1960,
+      "end": 1971
+    },
+    {
+      "text": "sessile polyp",
+      "type": "ENTITY",
+      "start": 1998,
+      "end": 2011
+    },
+    {
+      "text": "open resection margin",
+      "type": "ENTITY",
+      "start": 2061,
+      "end": 2082
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 2103,
+      "end": 2107
+    },
+    {
+      "text": "sessile polyps",
+      "type": "ENTITY",
+      "start": 2137,
+      "end": 2151
+    },
+    {
+      "text": "size",
+      "type": "ENTITY",
+      "start": 2163,
+      "end": 2167
+    },
+    {
+      "text": "open resection margin",
+      "type": "ENTITY",
+      "start": 2222,
+      "end": 2243
+    },
+    {
+      "text": "portion",
+      "type": "ENTITY",
+      "start": 2247,
+      "end": 2254
+    },
+    {
+      "text": "tissue bank",
+      "type": "ENTITY",
+      "start": 2305,
+      "end": 2316
+    },
+    {
+      "text": "polyps",
+      "type": "ENTITY",
+      "start": 2330,
+      "end": 2336
+    },
+    {
+      "text": "invade",
+      "type": "ENTITY",
+      "start": 2347,
+      "end": 2353
+    },
+    {
+      "text": "lamina propria",
+      "type": "ENTITY",
+      "start": 2363,
+      "end": 2377
+    },
+    {
+      "text": "Micro Al",
+      "type": "ENTITY",
+      "start": 2379,
+      "end": 2387
+    },
+    {
+      "text": "Stapled resection margin",
+      "type": "ENTITY",
+      "start": 2389,
+      "end": 2413
+    },
+    {
+      "text": "potential",
+      "type": "ENTITY",
+      "start": 2420,
+      "end": 2429
+    },
+    {
+      "text": "polyp,1 frag",
+      "type": "ENTITY",
+      "start": 2430,
+      "end": 2442
+    },
+    {
+      "text": "Micro A2 Open resection margin",
+      "type": "ENTITY",
+      "start": 2444,
+      "end": 2474
+    },
+    {
+      "text": "Micro A3-A6",
+      "type": "ENTITY",
+      "start": 2483,
+      "end": 2494
+    },
+    {
+      "text": "Representativ",
+      "type": "ENTITY",
+      "start": 2496,
+      "end": 2509
+    },
+    {
+      "text": "ections",
+      "type": "ENTITY",
+      "start": 2510,
+      "end": 2517
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 2525,
+      "end": 2530
+    },
+    {
+      "text": "radial resection margin",
+      "type": "ENTITY",
+      "start": 2536,
+      "end": 2559
+    },
+    {
+      "text": "frag",
+      "type": "ENTITY",
+      "start": 2563,
+      "end": 2567
+    },
+    {
+      "text": "Micro A7",
+      "type": "ENTITY",
+      "start": 2579,
+      "end": 2587
+    },
+    {
+      "text": "Polyp",
+      "type": "ENTITY",
+      "start": 2589,
+      "end": 2594
+    },
+    {
+      "text": "mass,1 frag",
+      "type": "ENTITY",
+      "start": 2615,
+      "end": 2626
+    },
+    {
+      "text": "Micro A8",
+      "type": "ENTITY",
+      "start": 2628,
+      "end": 2636
+    },
+    {
+      "text": "frag",
+      "type": "ENTITY",
+      "start": 2649,
+      "end": 2653
+    },
+    {
+      "text": "Micro A9",
+      "type": "ENTITY",
+      "start": 2655,
+      "end": 2663
+    },
+    {
+      "text": "Micro Al0",
+      "type": "ENTITY",
+      "start": 2665,
+      "end": 2674
+    },
+    {
+      "text": "Polyp",
+      "type": "ENTITY",
+      "start": 2676,
+      "end": 2681
+    },
+    {
+      "text": "frag",
+      "type": "ENTITY",
+      "start": 2687,
+      "end": 2691
+    },
+    {
+      "text": "Micro A11-A17",
+      "type": "ENTITY",
+      "start": 2693,
+      "end": 2706
+    },
+    {
+      "text": "Candidate lymph nodes",
+      "type": "ENTITY",
+      "start": 2708,
+      "end": 2729
+    },
+    {
+      "text": "multi frags Part B,\"#2",
+      "type": "ENTITY",
+      "start": 2731,
+      "end": 2753
+    },
+    {
+      "text": "Proximal",
+      "type": "ENTITY",
+      "start": 2755,
+      "end": 2763
+    },
+    {
+      "text": "portion of bowel",
+      "type": "ENTITY",
+      "start": 2785,
+      "end": 2801
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 2813,
+      "end": 2819
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 2832,
+      "end": 2840
+    },
+    {
+      "text": "circular metallic stapling device",
+      "type": "ENTITY",
+      "start": 2864,
+      "end": 2897
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 2908,
+      "end": 2916
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 2929,
+      "end": 2935
+    },
+    {
+      "text": "Micro B1",
+      "type": "ENTITY",
+      "start": 3013,
+      "end": 3021
+    },
+    {
+      "text": "Entirely submitted specimen",
+      "type": "ENTITY",
+      "start": 3023,
+      "end": 3050
+    },
+    {
+      "text": "portion",
+      "type": "ENTITY",
+      "start": 3096,
+      "end": 3103
+    },
+    {
+      "text": "bowel1.9",
+      "type": "ENTITY",
+      "start": 3108,
+      "end": 3116
+    },
+    {
+      "text": "gross lesions",
+      "type": "ENTITY",
+      "start": 3141,
+      "end": 3154
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 3181,
+      "end": 3189
+    },
+    {
+      "text": "staples",
+      "type": "ENTITY",
+      "start": 3212,
+      "end": 3219
+    },
+    {
+      "text": "Micro C1-c2",
+      "type": "ENTITY",
+      "start": 3238,
+      "end": 3249
+    },
+    {
+      "text": "Distal donut",
+      "type": "ENTITY",
+      "start": 3251,
+      "end": 3263
+    },
+    {
+      "text": "multi frags",
+      "type": "ENTITY",
+      "start": 3265,
+      "end": 3276
+    },
+    {
+      "text": "signature",
+      "type": "ENTITY",
+      "start": 3289,
+      "end": 3298
+    },
+    {
+      "text": "senior physician",
+      "type": "ENTITY",
+      "start": 3310,
+      "end": 3326
+    },
+    {
+      "text": "certifies",
+      "type": "ENTITY",
+      "start": 3327,
+      "end": 3336
+    },
+    {
+      "text": "microscopic examination",
+      "type": "ENTITY",
+      "start": 3372,
+      "end": 3395
+    },
+    {
+      "text": "gross",
+      "type": "ENTITY",
+      "start": 3398,
+      "end": 3403
+    },
+    {
+      "text": "exam",
+      "type": "ENTITY",
+      "start": 3410,
+      "end": 3414
+    },
+    {
+      "text": "specimen(s)",
+      "type": "ENTITY",
+      "start": 3446,
+      "end": 3457
+    },
+    {
+      "text": "diagnosis(es",
+      "type": "ENTITY",
+      "start": 3488,
+      "end": 3500
+    }
+  ],
+  "entity_count": 145,
+  "has_embedding": true
+}

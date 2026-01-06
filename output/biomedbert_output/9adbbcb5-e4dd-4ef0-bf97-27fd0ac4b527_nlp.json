@@ -1,0 +1,980 @@
+{
+  "filename": "9adbbcb5-e4dd-4ef0-bf97-27fd0ac4b527",
+  "timestamp": "2026-01-05T14:42:29.775085",
+  "entities": [
+    {
+      "text": "A. SIGMOID",
+      "type": "ENTITY",
+      "start": 27,
+      "end": 37
+    },
+    {
+      "text": "DONUT",
+      "type": "ENTITY",
+      "start": 56,
+      "end": 61
+    },
+    {
+      "text": "DISTAL",
+      "type": "ENTITY",
+      "start": 65,
+      "end": 71
+    },
+    {
+      "text": "DONUT",
+      "type": "ENTITY",
+      "start": 72,
+      "end": 77
+    },
+    {
+      "text": "DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 78,
+      "end": 87
+    },
+    {
+      "text": "A.  SIGMOID COLON",
+      "type": "ENTITY",
+      "start": 89,
+      "end": 106
+    },
+    {
+      "text": "SEGMENTAL",
+      "type": "ENTITY",
+      "start": 108,
+      "end": 117
+    },
+    {
+      "text": "INVASIVE MODERATELY DIFFERENTIATED",
+      "type": "ENTITY",
+      "start": 129,
+      "end": 163
+    },
+    {
+      "text": "SUBSEROSA",
+      "type": "ENTITY",
+      "start": 192,
+      "end": 201
+    },
+    {
+      "text": "SIZE",
+      "type": "ENTITY",
+      "start": 209,
+      "end": 213
+    },
+    {
+      "text": "CM",
+      "type": "ENTITY",
+      "start": 227,
+      "end": 229
+    },
+    {
+      "text": "INVASION",
+      "type": "ENTITY",
+      "start": 257,
+      "end": 265
+    },
+    {
+      "text": "LYMPH NODES NEGATIVE",
+      "type": "ENTITY",
+      "start": 292,
+      "end": 312
+    },
+    {
+      "text": "TUMOR",
+      "type": "ENTITY",
+      "start": 317,
+      "end": 322
+    },
+    {
+      "text": "ARISES",
+      "type": "ENTITY",
+      "start": 337,
+      "end": 343
+    },
+    {
+      "text": "TUBULAR ADENOMA",
+      "type": "ENTITY",
+      "start": 347,
+      "end": 362
+    },
+    {
+      "text": "HYPERPLASTIC POLYP",
+      "type": "ENTITY",
+      "start": 388,
+      "end": 406
+    },
+    {
+      "text": "DIVERTICULUM",
+      "type": "ENTITY",
+      "start": 411,
+      "end": 423
+    },
+    {
+      "text": "SEE",
+      "type": "ENTITY",
+      "start": 426,
+      "end": 429
+    },
+    {
+      "text": "B. COLON",
+      "type": "ENTITY",
+      "start": 439,
+      "end": 447
+    },
+    {
+      "text": "PROXIMAL",
+      "type": "ENTITY",
+      "start": 449,
+      "end": 457
+    },
+    {
+      "text": "DONUT",
+      "type": "ENTITY",
+      "start": 458,
+      "end": 463
+    },
+    {
+      "text": "EXCISION",
+      "type": "ENTITY",
+      "start": 465,
+      "end": 473
+    },
+    {
+      "text": "COLONIC",
+      "type": "ENTITY",
+      "start": 475,
+      "end": 482
+    },
+    {
+      "text": "NO TUMOR SEEN",
+      "type": "ENTITY",
+      "start": 491,
+      "end": 504
+    },
+    {
+      "text": "C.  COLON",
+      "type": "ENTITY",
+      "start": 506,
+      "end": 515
+    },
+    {
+      "text": "DISTAL",
+      "type": "ENTITY",
+      "start": 517,
+      "end": 523
+    },
+    {
+      "text": "DONUT",
+      "type": "ENTITY",
+      "start": 524,
+      "end": 529
+    },
+    {
+      "text": "EXCISION",
+      "type": "ENTITY",
+      "start": 531,
+      "end": 539
+    },
+    {
+      "text": "COLONIC",
+      "type": "ENTITY",
+      "start": 541,
+      "end": 548
+    },
+    {
+      "text": "NO TUMOR SEEN",
+      "type": "ENTITY",
+      "start": 557,
+      "end": 570
+    },
+    {
+      "text": "COLORECTAL CANCER",
+      "type": "ENTITY",
+      "start": 572,
+      "end": 589
+    },
+    {
+      "text": "TEMPLATE",
+      "type": "ENTITY",
+      "start": 590,
+      "end": 598
+    },
+    {
+      "text": "Tumor Size",
+      "type": "ENTITY",
+      "start": 599,
+      "end": 609
+    },
+    {
+      "text": "Histologic Type",
+      "type": "ENTITY",
+      "start": 631,
+      "end": 646
+    },
+    {
+      "text": "adenocarcinoma",
+      "type": "ENTITY",
+      "start": 648,
+      "end": 662
+    },
+    {
+      "text": "Grade/Differentiation",
+      "type": "ENTITY",
+      "start": 663,
+      "end": 684
+    },
+    {
+      "text": "moderate",
+      "type": "ENTITY",
+      "start": 686,
+      "end": 694
+    },
+    {
+      "text": "Invasion",
+      "type": "ENTITY",
+      "start": 695,
+      "end": 703
+    },
+    {
+      "text": "Depth",
+      "type": "ENTITY",
+      "start": 704,
+      "end": 709
+    },
+    {
+      "text": "subserosa",
+      "type": "ENTITY",
+      "start": 711,
+      "end": 720
+    },
+    {
+      "text": "Invasion",
+      "type": "ENTITY",
+      "start": 721,
+      "end": 729
+    },
+    {
+      "text": "Vasc/Lymphatic",
+      "type": "ENTITY",
+      "start": 730,
+      "end": 744
+    },
+    {
+      "text": "absent",
+      "type": "ENTITY",
+      "start": 746,
+      "end": 752
+    },
+    {
+      "text": "Invasion",
+      "type": "ENTITY",
+      "start": 753,
+      "end": 761
+    },
+    {
+      "text": "Perineural",
+      "type": "ENTITY",
+      "start": 762,
+      "end": 772
+    },
+    {
+      "text": "absent",
+      "type": "ENTITY",
+      "start": 774,
+      "end": 780
+    },
+    {
+      "text": "Extension",
+      "type": "ENTITY",
+      "start": 781,
+      "end": 790
+    },
+    {
+      "text": "no Margins",
+      "type": "ENTITY",
+      "start": 806,
+      "end": 816
+    },
+    {
+      "text": "free Lymph Nodes",
+      "type": "ENTITY",
+      "start": 818,
+      "end": 834
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 836,
+      "end": 844
+    },
+    {
+      "text": "Stage Pathology",
+      "type": "ENTITY",
+      "start": 852,
+      "end": 867
+    },
+    {
+      "text": "T3",
+      "type": "ENTITY",
+      "start": 869,
+      "end": 871
+    },
+    {
+      "text": "Mx Precursor",
+      "type": "ENTITY",
+      "start": 875,
+      "end": 887
+    },
+    {
+      "text": "tubular adenoma",
+      "type": "ENTITY",
+      "start": 898,
+      "end": 913
+    },
+    {
+      "text": "Non-neoplastic areas",
+      "type": "ENTITY",
+      "start": 914,
+      "end": 934
+    },
+    {
+      "text": "hyperplastic polyp",
+      "type": "ENTITY",
+      "start": 936,
+      "end": 954
+    },
+    {
+      "text": "diverticulum SPECIMEN(S",
+      "type": "ENTITY",
+      "start": 956,
+      "end": 979
+    },
+    {
+      "text": "A. SIGMOID",
+      "type": "ENTITY",
+      "start": 982,
+      "end": 992
+    },
+    {
+      "text": "DONUT",
+      "type": "ENTITY",
+      "start": 1011,
+      "end": 1016
+    },
+    {
+      "text": "DISTAL",
+      "type": "ENTITY",
+      "start": 1020,
+      "end": 1026
+    },
+    {
+      "text": "DONUT",
+      "type": "ENTITY",
+      "start": 1027,
+      "end": 1032
+    },
+    {
+      "text": "CLINICAL HISTORY",
+      "type": "ENTITY",
+      "start": 1033,
+      "end": 1049
+    },
+    {
+      "text": "GROSS DESCRIPTION",
+      "type": "ENTITY",
+      "start": 1056,
+      "end": 1073
+    },
+    {
+      "text": "A.  SIGMOID COLON",
+      "type": "ENTITY",
+      "start": 1075,
+      "end": 1092
+    },
+    {
+      "text": "Received",
+      "type": "ENTITY",
+      "start": 1093,
+      "end": 1101
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 1102,
+      "end": 1107
+    },
+    {
+      "text": "colon",
+      "type": "ENTITY",
+      "start": 1132,
+      "end": 1137
+    },
+    {
+      "text": "margins",
+      "type": "ENTITY",
+      "start": 1148,
+      "end": 1155
+    },
+    {
+      "text": "stapled closed",
+      "type": "ENTITY",
+      "start": 1165,
+      "end": 1179
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 1180,
+      "end": 1189
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 1201,
+      "end": 1209
+    },
+    {
+      "text": "5.Ocm",
+      "type": "ENTITY",
+      "start": 1214,
+      "end": 1219
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 1224,
+      "end": 1232
+    },
+    {
+      "text": "portion",
+      "type": "ENTITY",
+      "start": 1247,
+      "end": 1254
+    },
+    {
+      "text": "pericolic",
+      "type": "ENTITY",
+      "start": 1258,
+      "end": 1267
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 1272,
+      "end": 1280
+    },
+    {
+      "text": "opening",
+      "type": "ENTITY",
+      "start": 1302,
+      "end": 1309
+    },
+    {
+      "text": "mucosa",
+      "type": "ENTITY",
+      "start": 1315,
+      "end": 1321
+    },
+    {
+      "text": "exophytic polypoid mass",
+      "type": "ENTITY",
+      "start": 1364,
+      "end": 1387
+    },
+    {
+      "text": "wide margin",
+      "type": "ENTITY",
+      "start": 1412,
+      "end": 1423
+    },
+    {
+      "text": "colonic mucosa",
+      "type": "ENTITY",
+      "start": 1472,
+      "end": 1486
+    },
+    {
+      "text": "pink tan",
+      "type": "ENTITY",
+      "start": 1490,
+      "end": 1498
+    },
+    {
+      "text": "smooth",
+      "type": "ENTITY",
+      "start": 1503,
+      "end": 1509
+    },
+    {
+      "text": "single diverticulum",
+      "type": "ENTITY",
+      "start": 1517,
+      "end": 1536
+    },
+    {
+      "text": "narrow margin",
+      "type": "ENTITY",
+      "start": 1561,
+      "end": 1574
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1580,
+      "end": 1585
+    },
+    {
+      "text": "fat",
+      "type": "ENTITY",
+      "start": 1614,
+      "end": 1617
+    },
+    {
+      "text": "peritoneal",
+      "type": "ENTITY",
+      "start": 1633,
+      "end": 1643
+    },
+    {
+      "text": "surface",
+      "type": "ENTITY",
+      "start": 1644,
+      "end": 1651
+    },
+    {
+      "text": "radial margin",
+      "type": "ENTITY",
+      "start": 1657,
+      "end": 1670
+    },
+    {
+      "text": "resection",
+      "type": "ENTITY",
+      "start": 1675,
+      "end": 1684
+    },
+    {
+      "text": "lesion",
+      "type": "ENTITY",
+      "start": 1700,
+      "end": 1706
+    },
+    {
+      "text": "peritoneal",
+      "type": "ENTITY",
+      "start": 1712,
+      "end": 1722
+    },
+    {
+      "text": "surface",
+      "type": "ENTITY",
+      "start": 1723,
+      "end": 1730
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1738,
+      "end": 1743
+    },
+    {
+      "text": "margins",
+      "type": "ENTITY",
+      "start": 1752,
+      "end": 1759
+    },
+    {
+      "text": "black ink",
+      "type": "ENTITY",
+      "start": 1774,
+      "end": 1783
+    },
+    {
+      "text": "lesion",
+      "type": "ENTITY",
+      "start": 1804,
+      "end": 1810
+    },
+    {
+      "text": "identified",
+      "type": "ENTITY",
+      "start": 1814,
+      "end": 1824
+    },
+    {
+      "text": "pericolic fat",
+      "type": "ENTITY",
+      "start": 1832,
+      "end": 1845
+    },
+    {
+      "text": "Multiple small lymph nodes",
+      "type": "ENTITY",
+      "start": 1847,
+      "end": 1873
+    },
+    {
+      "text": "size",
+      "type": "ENTITY",
+      "start": 1901,
+      "end": 1905
+    },
+    {
+      "text": "Representative tissue",
+      "type": "ENTITY",
+      "start": 1929,
+      "end": 1950
+    },
+    {
+      "text": "cassettes",
+      "type": "ENTITY",
+      "start": 1976,
+      "end": 1985
+    },
+    {
+      "text": "A1",
+      "type": "ENTITY",
+      "start": 1998,
+      "end": 2000
+    },
+    {
+      "text": "shaved margin",
+      "type": "ENTITY",
+      "start": 2009,
+      "end": 2022
+    },
+    {
+      "text": "shaved margin",
+      "type": "ENTITY",
+      "start": 2034,
+      "end": 2047
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 2052,
+      "end": 2056
+    },
+    {
+      "text": "deep margin",
+      "type": "ENTITY",
+      "start": 2062,
+      "end": 2073
+    },
+    {
+      "text": "mass A5",
+      "type": "ENTITY",
+      "start": 2078,
+      "end": 2085
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 2087,
+      "end": 2091
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 2097,
+      "end": 2108
+    },
+    {
+      "text": "fatty tissue",
+      "type": "ENTITY",
+      "start": 2113,
+      "end": 2125
+    },
+    {
+      "text": "lymph node",
+      "type": "ENTITY",
+      "start": 2150,
+      "end": 2160
+    },
+    {
+      "text": "deep fatty tissue",
+      "type": "ENTITY",
+      "start": 2165,
+      "end": 2182
+    },
+    {
+      "text": "contiguous with",
+      "type": "ENTITY",
+      "start": 2183,
+      "end": 2198
+    },
+    {
+      "text": "mass A9",
+      "type": "ENTITY",
+      "start": 2209,
+      "end": 2216
+    },
+    {
+      "text": "diverticulum A10",
+      "type": "ENTITY",
+      "start": 2218,
+      "end": 2234
+    },
+    {
+      "text": "radial margin",
+      "type": "ENTITY",
+      "start": 2236,
+      "end": 2249
+    },
+    {
+      "text": "A11",
+      "type": "ENTITY",
+      "start": 2251,
+      "end": 2254
+    },
+    {
+      "text": "colonic mucosa",
+      "type": "ENTITY",
+      "start": 2267,
+      "end": 2281
+    },
+    {
+      "text": "A12",
+      "type": "ENTITY",
+      "start": 2282,
+      "end": 2285
+    },
+    {
+      "text": "peritumoral",
+      "type": "ENTITY",
+      "start": 2292,
+      "end": 2303
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 2304,
+      "end": 2315
+    },
+    {
+      "text": "peritumoral",
+      "type": "ENTITY",
+      "start": 2326,
+      "end": 2337
+    },
+    {
+      "text": "lymph nodes A14",
+      "type": "ENTITY",
+      "start": 2338,
+      "end": 2353
+    },
+    {
+      "text": "peritumoral",
+      "type": "ENTITY",
+      "start": 2368,
+      "end": 2379
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 2380,
+      "end": 2391
+    },
+    {
+      "text": "peritumoral",
+      "type": "ENTITY",
+      "start": 2410,
+      "end": 2421
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 2422,
+      "end": 2433
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 2444,
+      "end": 2455
+    },
+    {
+      "text": "narrow margin A17",
+      "type": "ENTITY",
+      "start": 2459,
+      "end": 2476
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 2492,
+      "end": 2503
+    },
+    {
+      "text": "narrow margin",
+      "type": "ENTITY",
+      "start": 2507,
+      "end": 2520
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 2531,
+      "end": 2542
+    },
+    {
+      "text": "lymph node",
+      "type": "ENTITY",
+      "start": 2567,
+      "end": 2577
+    },
+    {
+      "text": "bisected",
+      "type": "ENTITY",
+      "start": 2578,
+      "end": 2586
+    },
+    {
+      "text": "B. PROXIMAL",
+      "type": "ENTITY",
+      "start": 2603,
+      "end": 2614
+    },
+    {
+      "text": "DONUT",
+      "type": "ENTITY",
+      "start": 2615,
+      "end": 2620
+    },
+    {
+      "text": "fixative",
+      "type": "ENTITY",
+      "start": 2638,
+      "end": 2646
+    },
+    {
+      "text": "stapled colonic mucosa",
+      "type": "ENTITY",
+      "start": 2699,
+      "end": 2721
+    },
+    {
+      "text": "focal pink red discoloration",
+      "type": "ENTITY",
+      "start": 2736,
+      "end": 2764
+    },
+    {
+      "text": "stapled",
+      "type": "ENTITY",
+      "start": 2770,
+      "end": 2777
+    },
+    {
+      "text": "removed",
+      "type": "ENTITY",
+      "start": 2786,
+      "end": 2793
+    },
+    {
+      "text": "representative",
+      "type": "ENTITY",
+      "start": 2798,
+      "end": 2812
+    },
+    {
+      "text": "tissue",
+      "type": "ENTITY",
+      "start": 2813,
+      "end": 2819
+    },
+    {
+      "text": "cassette",
+      "type": "ENTITY",
+      "start": 2840,
+      "end": 2848
+    },
+    {
+      "text": "C.DISTAL",
+      "type": "ENTITY",
+      "start": 2850,
+      "end": 2858
+    },
+    {
+      "text": "DONUT",
+      "type": "ENTITY",
+      "start": 2859,
+      "end": 2864
+    },
+    {
+      "text": "fixative",
+      "type": "ENTITY",
+      "start": 2882,
+      "end": 2890
+    },
+    {
+      "text": "colonic mucosa",
+      "type": "ENTITY",
+      "start": 2935,
+      "end": 2949
+    },
+    {
+      "text": "multiple",
+      "type": "ENTITY",
+      "start": 2955,
+      "end": 2963
+    },
+    {
+      "text": "staples",
+      "type": "ENTITY",
+      "start": 2965,
+      "end": 2972
+    },
+    {
+      "text": "mucosa",
+      "type": "ENTITY",
+      "start": 2978,
+      "end": 2984
+    },
+    {
+      "text": "smooth",
+      "type": "ENTITY",
+      "start": 2993,
+      "end": 2999
+    },
+    {
+      "text": "lesion",
+      "type": "ENTITY",
+      "start": 3017,
+      "end": 3023
+    },
+    {
+      "text": "stapled",
+      "type": "ENTITY",
+      "start": 3029,
+      "end": 3036
+    },
+    {
+      "text": "removed",
+      "type": "ENTITY",
+      "start": 3045,
+      "end": 3052
+    },
+    {
+      "text": "fragment",
+      "type": "ENTITY",
+      "start": 3072,
+      "end": 3080
+    },
+    {
+      "text": "tissue",
+      "type": "ENTITY",
+      "start": 3084,
+      "end": 3090
+    },
+    {
+      "text": "cassette",
+      "type": "ENTITY",
+      "start": 3111,
+      "end": 3119
+    }
+  ],
+  "entity_count": 162,
+  "has_embedding": true
+}

@@ -1,0 +1,728 @@
+{
+  "filename": "92522527-15df-4dfd-bdb2-b77673510731",
+  "timestamp": "2026-01-05T14:43:46.462367",
+  "entities": [
+    {
+      "text": "Laboratory  Patien Print Date/Time",
+      "type": "ENTITY",
+      "start": 29,
+      "end": 63
+    },
+    {
+      "text": "Surgical Pathology Histopathological Examination Path",
+      "type": "ENTITY",
+      "start": 65,
+      "end": 118
+    },
+    {
+      "text": "Collected",
+      "type": "ENTITY",
+      "start": 121,
+      "end": 130
+    },
+    {
+      "text": "Received",
+      "type": "ENTITY",
+      "start": 132,
+      "end": 140
+    },
+    {
+      "text": "Complete",
+      "type": "ENTITY",
+      "start": 142,
+      "end": 150
+    },
+    {
+      "text": "Pre-Op Diagnosis",
+      "type": "ENTITY",
+      "start": 151,
+      "end": 167
+    },
+    {
+      "text": "Right Renal Mass Order",
+      "type": "ENTITY",
+      "start": 170,
+      "end": 192
+    },
+    {
+      "text": "Specimens Kidney",
+      "type": "ENTITY",
+      "start": 203,
+      "end": 219
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 276,
+      "end": 284
+    },
+    {
+      "text": "container",
+      "type": "ENTITY",
+      "start": 302,
+      "end": 311
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 312,
+      "end": 319
+    },
+    {
+      "text": "patient",
+      "type": "ENTITY",
+      "start": 341,
+      "end": 348
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 353,
+      "end": 360
+    },
+    {
+      "text": "kidney",
+      "type": "ENTITY",
+      "start": 364,
+      "end": 370
+    },
+    {
+      "text": "right",
+      "type": "ENTITY",
+      "start": 372,
+      "end": 377
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 384,
+      "end": 392
+    },
+    {
+      "text": "kidney",
+      "type": "ENTITY",
+      "start": 407,
+      "end": 413
+    },
+    {
+      "text": "perinephric fat",
+      "type": "ENTITY",
+      "start": 427,
+      "end": 442
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 449,
+      "end": 457
+    },
+    {
+      "text": "bloc",
+      "type": "ENTITY",
+      "start": 461,
+      "end": 465
+    },
+    {
+      "text": "weighs",
+      "type": "ENTITY",
+      "start": 485,
+      "end": 491
+    },
+    {
+      "text": "ureter",
+      "type": "ENTITY",
+      "start": 503,
+      "end": 509
+    },
+    {
+      "text": "vascular margins",
+      "type": "ENTITY",
+      "start": 514,
+      "end": 530
+    },
+    {
+      "text": "resection",
+      "type": "ENTITY",
+      "start": 534,
+      "end": 543
+    },
+    {
+      "text": "block 1",
+      "type": "ENTITY",
+      "start": 561,
+      "end": 568
+    },
+    {
+      "text": "Sectioning",
+      "type": "ENTITY",
+      "start": 570,
+      "end": 580
+    },
+    {
+      "text": "kidney",
+      "type": "ENTITY",
+      "start": 590,
+      "end": 596
+    },
+    {
+      "text": "oval",
+      "type": "ENTITY",
+      "start": 606,
+      "end": 610
+    },
+    {
+      "text": "golden yellow mass",
+      "type": "ENTITY",
+      "start": 611,
+      "end": 629
+    },
+    {
+      "text": "midportion",
+      "type": "ENTITY",
+      "start": 637,
+      "end": 647
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 655,
+      "end": 663
+    },
+    {
+      "text": "mass measures",
+      "type": "ENTITY",
+      "start": 670,
+      "end": 683
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 706,
+      "end": 710
+    },
+    {
+      "text": "focally",
+      "type": "ENTITY",
+      "start": 714,
+      "end": 721
+    },
+    {
+      "text": "adherent",
+      "type": "ENTITY",
+      "start": 722,
+      "end": 730
+    },
+    {
+      "text": "overlying capsule",
+      "type": "ENTITY",
+      "start": 738,
+      "end": 755
+    },
+    {
+      "text": "section",
+      "type": "ENTITY",
+      "start": 759,
+      "end": 766
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 774,
+      "end": 778
+    },
+    {
+      "text": "adjacent",
+      "type": "ENTITY",
+      "start": 780,
+      "end": 788
+    },
+    {
+      "text": "capsule",
+      "type": "ENTITY",
+      "start": 789,
+      "end": 796
+    },
+    {
+      "text": "inked surgical margin",
+      "type": "ENTITY",
+      "start": 801,
+      "end": 822
+    },
+    {
+      "text": "block 2",
+      "type": "ENTITY",
+      "start": 840,
+      "end": 847
+    },
+    {
+      "text": "mass qrossly",
+      "type": "ENTITY",
+      "start": 853,
+      "end": 865
+    },
+    {
+      "text": "calyx",
+      "type": "ENTITY",
+      "start": 881,
+      "end": 886
+    },
+    {
+      "text": "area",
+      "type": "ENTITY",
+      "start": 893,
+      "end": 897
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 898,
+      "end": 907
+    },
+    {
+      "text": "Sections",
+      "type": "ENTITY",
+      "start": 922,
+      "end": 930
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 938,
+      "end": 942
+    },
+    {
+      "text": "blocks",
+      "type": "ENTITY",
+      "start": 960,
+      "end": 966
+    },
+    {
+      "text": "pelvis",
+      "type": "ENTITY",
+      "start": 976,
+      "end": 982
+    },
+    {
+      "text": "calices",
+      "type": "ENTITY",
+      "start": 987,
+      "end": 994
+    },
+    {
+      "text": "cortex",
+      "type": "ENTITY",
+      "start": 1025,
+      "end": 1031
+    },
+    {
+      "text": "averages",
+      "type": "ENTITY",
+      "start": 1032,
+      "end": 1040
+    },
+    {
+      "text": "random section",
+      "type": "ENTITY",
+      "start": 1051,
+      "end": 1065
+    },
+    {
+      "text": "kidney",
+      "type": "ENTITY",
+      "start": 1069,
+      "end": 1075
+    },
+    {
+      "text": "block 9",
+      "type": "ENTITY",
+      "start": 1092,
+      "end": 1099
+    },
+    {
+      "text": "fat",
+      "type": "ENTITY",
+      "start": 1114,
+      "end": 1117
+    },
+    {
+      "text": "dissected",
+      "type": "ENTITY",
+      "start": 1121,
+      "end": 1130
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 1138,
+      "end": 1149
+    },
+    {
+      "text": "adrenal tissue",
+      "type": "ENTITY",
+      "start": 1153,
+      "end": 1167
+    },
+    {
+      "text": "identified",
+      "type": "ENTITY",
+      "start": 1172,
+      "end": 1182
+    },
+    {
+      "text": "DIAGNOSIS BASED ON GROSS",
+      "type": "ENTITY",
+      "start": 1185,
+      "end": 1209
+    },
+    {
+      "text": "ryPE",
+      "type": "ENTITY",
+      "start": 1248,
+      "end": 1252
+    },
+    {
+      "text": "Radical nephrectomy",
+      "type": "ENTITY",
+      "start": 1254,
+      "end": 1273
+    },
+    {
+      "text": "Right",
+      "type": "ENTITY",
+      "start": 1287,
+      "end": 1292
+    },
+    {
+      "text": "TUMOR SITE",
+      "type": "ENTITY",
+      "start": 1294,
+      "end": 1304
+    },
+    {
+      "text": "Middle",
+      "type": "ENTITY",
+      "start": 1306,
+      "end": 1312
+    },
+    {
+      "text": "FOCALITY",
+      "type": "ENTITY",
+      "start": 1314,
+      "end": 1322
+    },
+    {
+      "text": "Unifocal",
+      "type": "ENTITY",
+      "start": 1324,
+      "end": 1332
+    },
+    {
+      "text": "TUMOR SIZE",
+      "type": "ENTITY",
+      "start": 1334,
+      "end": 1344
+    },
+    {
+      "text": "TUMOR IF",
+      "type": "ENTITY",
+      "start": 1354,
+      "end": 1362
+    },
+    {
+      "text": "dimension",
+      "type": "ENTITY",
+      "start": 1384,
+      "end": 1393
+    },
+    {
+      "text": "dimensions",
+      "type": "ENTITY",
+      "start": 1415,
+      "end": 1425
+    },
+    {
+      "text": "MACROSCOPIC EXTENT",
+      "type": "ENTITY",
+      "start": 1442,
+      "end": 1460
+    },
+    {
+      "text": "TUMOR",
+      "type": "ENTITY",
+      "start": 1464,
+      "end": 1469
+    },
+    {
+      "text": "TumOr",
+      "type": "ENTITY",
+      "start": 1471,
+      "end": 1476
+    },
+    {
+      "text": "kidney",
+      "type": "ENTITY",
+      "start": 1488,
+      "end": 1494
+    },
+    {
+      "text": "HIsToLogic TypE",
+      "type": "ENTITY",
+      "start": 1496,
+      "end": 1511
+    },
+    {
+      "text": "Clear cell",
+      "type": "ENTITY",
+      "start": 1513,
+      "end": 1523
+    },
+    {
+      "text": "Grade I. EXTENT",
+      "type": "ENTITY",
+      "start": 1599,
+      "end": 1614
+    },
+    {
+      "text": "INVASION PRIMARY TUMOR",
+      "type": "ENTITY",
+      "start": 1618,
+      "end": 1640
+    },
+    {
+      "text": "PT",
+      "type": "ENTITY",
+      "start": 1642,
+      "end": 1644
+    },
+    {
+      "text": "pT1b",
+      "type": "ENTITY",
+      "start": 1647,
+      "end": 1651
+    },
+    {
+      "text": "Tumor",
+      "type": "ENTITY",
+      "start": 1653,
+      "end": 1658
+    },
+    {
+      "text": "dimension",
+      "type": "ENTITY",
+      "start": 1713,
+      "end": 1722
+    },
+    {
+      "text": "kidney",
+      "type": "ENTITY",
+      "start": 1739,
+      "end": 1745
+    },
+    {
+      "text": "PRIVILEGED",
+      "type": "ENTITY",
+      "start": 1769,
+      "end": 1779
+    },
+    {
+      "text": "DOCUMENT/INFORMATION IS",
+      "type": "ENTITY",
+      "start": 1780,
+      "end": 1803
+    },
+    {
+      "text": "STATE LAW",
+      "type": "ENTITY",
+      "start": 1829,
+      "end": 1838
+    },
+    {
+      "text": "UNAUTHORIZED",
+      "type": "ENTITY",
+      "start": 1840,
+      "end": 1852
+    },
+    {
+      "text": "DUPLICATION",
+      "type": "ENTITY",
+      "start": 1883,
+      "end": 1894
+    },
+    {
+      "text": "Path Page 1",
+      "type": "ENTITY",
+      "start": 1909,
+      "end": 1920
+    },
+    {
+      "text": "PN",
+      "type": "ENTITY",
+      "start": 1971,
+      "end": 1973
+    },
+    {
+      "text": "pNX",
+      "type": "ENTITY",
+      "start": 1977,
+      "end": 1980
+    },
+    {
+      "text": "assessed",
+      "type": "ENTITY",
+      "start": 1992,
+      "end": 2000
+    },
+    {
+      "text": "DISTANT METASTASIS",
+      "type": "ENTITY",
+      "start": 2001,
+      "end": 2019
+    },
+    {
+      "text": "PM",
+      "type": "ENTITY",
+      "start": 2021,
+      "end": 2023
+    },
+    {
+      "text": "pMX",
+      "type": "ENTITY",
+      "start": 2026,
+      "end": 2029
+    },
+    {
+      "text": "assessed",
+      "type": "ENTITY",
+      "start": 2041,
+      "end": 2049
+    },
+    {
+      "text": "Margins uninvolved",
+      "type": "ENTITY",
+      "start": 2059,
+      "end": 2077
+    },
+    {
+      "text": "invasive carcinoma",
+      "type": "ENTITY",
+      "start": 2081,
+      "end": 2099
+    },
+    {
+      "text": "Absent",
+      "type": "ENTITY",
+      "start": 2165,
+      "end": 2171
+    },
+    {
+      "text": "L",
+      "type": "ENTITY",
+      "start": 2208,
+      "end": 2209
+    },
+    {
+      "text": "AbSent",
+      "type": "ENTITY",
+      "start": 2213,
+      "end": 2219
+    },
+    {
+      "text": "identified",
+      "type": "ENTITY",
+      "start": 2258,
+      "end": 2268
+    },
+    {
+      "text": "Intradepartmental consultation",
+      "type": "ENTITY",
+      "start": 2270,
+      "end": 2300
+    },
+    {
+      "text": "Pathologic stage",
+      "type": "ENTITY",
+      "start": 2311,
+      "end": 2327
+    },
+    {
+      "text": "pT1bNXMXG1  [",
+      "type": "ENTITY",
+      "start": 2337,
+      "end": 2350
+    },
+    {
+      "text": "T-71000",
+      "type": "ENTITY",
+      "start": 2350,
+      "end": 2357
+    },
+    {
+      "text": "M-83103",
+      "type": "ENTITY",
+      "start": 2358,
+      "end": 2365
+    },
+    {
+      "text": "P3-44070]",
+      "type": "ENTITY",
+      "start": 2372,
+      "end": 2381
+    },
+    {
+      "text": "Electronicallv Sianed",
+      "type": "ENTITY",
+      "start": 2382,
+      "end": 2403
+    },
+    {
+      "text": "CONFIDENTIAL",
+      "type": "ENTITY",
+      "start": 2407,
+      "end": 2419
+    },
+    {
+      "text": "PRIVILEGED",
+      "type": "ENTITY",
+      "start": 2424,
+      "end": 2434
+    },
+    {
+      "text": "DOCUMENT/INFORMATION IS",
+      "type": "ENTITY",
+      "start": 2435,
+      "end": 2458
+    },
+    {
+      "text": "STATE LAW",
+      "type": "ENTITY",
+      "start": 2484,
+      "end": 2493
+    },
+    {
+      "text": "UNAUTHORIZED",
+      "type": "ENTITY",
+      "start": 2495,
+      "end": 2507
+    },
+    {
+      "text": "DISSEMINATION OR",
+      "type": "ENTITY",
+      "start": 2520,
+      "end": 2536
+    },
+    {
+      "text": "DUPLICATION",
+      "type": "ENTITY",
+      "start": 2537,
+      "end": 2548
+    },
+    {
+      "text": "Page 2",
+      "type": "ENTITY",
+      "start": 2563,
+      "end": 2569
+    }
+  ],
+  "entity_count": 120,
+  "has_embedding": true
+}

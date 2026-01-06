@@ -1,0 +1,1484 @@
+{
+  "filename": "236dd483-b807-4c1e-9a7e-981e7f1e47da",
+  "timestamp": "2026-01-05T14:41:01.621506",
+  "entities": [
+    {
+      "text": "TCGA-MQ-A4LC-01A-PR",
+      "type": "ENTITY",
+      "start": 58,
+      "end": 77
+    },
+    {
+      "text": "Report",
+      "type": "ENTITY",
+      "start": 100,
+      "end": 106
+    },
+    {
+      "text": "Result",
+      "type": "ENTITY",
+      "start": 107,
+      "end": 113
+    },
+    {
+      "text": "Resuit status",
+      "type": "ENTITY",
+      "start": 120,
+      "end": 133
+    },
+    {
+      "text": "Auth (Verified)  Result title",
+      "type": "ENTITY",
+      "start": 135,
+      "end": 164
+    },
+    {
+      "text": "SPECIMEN",
+      "type": "ENTITY",
+      "start": 166,
+      "end": 174
+    },
+    {
+      "text": "Performed",
+      "type": "ENTITY",
+      "start": 187,
+      "end": 196
+    },
+    {
+      "text": "Final",
+      "type": "ENTITY",
+      "start": 203,
+      "end": 208
+    },
+    {
+      "text": "SPECIMEN",
+      "type": "ENTITY",
+      "start": 218,
+      "end": 226
+    },
+    {
+      "text": "NO",
+      "type": "ENTITY",
+      "start": 253,
+      "end": 255
+    },
+    {
+      "text": "LYMPH NODE TUMOR RIGHT",
+      "type": "ENTITY",
+      "start": 258,
+      "end": 280
+    },
+    {
+      "text": "LUNG",
+      "type": "ENTITY",
+      "start": 281,
+      "end": 285
+    },
+    {
+      "text": "Mortheli'omr",
+      "type": "ENTITY",
+      "start": 286,
+      "end": 298
+    },
+    {
+      "text": "epitheliorL",
+      "type": "ENTITY",
+      "start": 300,
+      "end": 311
+    },
+    {
+      "text": "N05",
+      "type": "ENTITY",
+      "start": 312,
+      "end": 315
+    },
+    {
+      "text": "RIGHT LUNG LEVEL",
+      "type": "ENTITY",
+      "start": 323,
+      "end": 339
+    },
+    {
+      "text": "NO",
+      "type": "ENTITY",
+      "start": 340,
+      "end": 342
+    },
+    {
+      "text": "LYMPH NODE",
+      "type": "ENTITY",
+      "start": 345,
+      "end": 355
+    },
+    {
+      "text": "RIGHT",
+      "type": "ENTITY",
+      "start": 455,
+      "end": 460
+    },
+    {
+      "text": "RIB",
+      "type": "ENTITY",
+      "start": 461,
+      "end": 464
+    },
+    {
+      "text": "LOCATION",
+      "type": "ENTITY",
+      "start": 495,
+      "end": 503
+    },
+    {
+      "text": "NO",
+      "type": "ENTITY",
+      "start": 516,
+      "end": 518
+    },
+    {
+      "text": "HOSPITAL",
+      "type": "ENTITY",
+      "start": 521,
+      "end": 529
+    },
+    {
+      "text": "HOSPITAL",
+      "type": "ENTITY",
+      "start": 534,
+      "end": 542
+    },
+    {
+      "text": "NO",
+      "type": "ENTITY",
+      "start": 543,
+      "end": 545
+    },
+    {
+      "text": "PATIENT'S",
+      "type": "ENTITY",
+      "start": 548,
+      "end": 557
+    },
+    {
+      "text": "NAME",
+      "type": "ENTITY",
+      "start": 558,
+      "end": 562
+    },
+    {
+      "text": "ACCOUNT",
+      "type": "ENTITY",
+      "start": 564,
+      "end": 571
+    },
+    {
+      "text": "NO",
+      "type": "ENTITY",
+      "start": 572,
+      "end": 574
+    },
+    {
+      "text": "AgE/SEX/DOB: M",
+      "type": "ENTITY",
+      "start": 577,
+      "end": 591
+    },
+    {
+      "text": "PHYSICIAN",
+      "type": "ENTITY",
+      "start": 607,
+      "end": 616
+    },
+    {
+      "text": "S",
+      "type": "ENTITY",
+      "start": 618,
+      "end": 619
+    },
+    {
+      "text": "ACCN",
+      "type": "ENTITY",
+      "start": 651,
+      "end": 655
+    },
+    {
+      "text": "REQ",
+      "type": "ENTITY",
+      "start": 656,
+      "end": 659
+    },
+    {
+      "text": "NO",
+      "type": "ENTITY",
+      "start": 661,
+      "end": 663
+    },
+    {
+      "text": "NOT GIVEN DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 666,
+      "end": 685
+    },
+    {
+      "text": "A. LEVEL VII LYMPH NODE",
+      "type": "ENTITY",
+      "start": 687,
+      "end": 710
+    },
+    {
+      "text": "EXCISION",
+      "type": "ENTITY",
+      "start": 712,
+      "end": 720
+    },
+    {
+      "text": "ELEVEN",
+      "type": "ENTITY",
+      "start": 722,
+      "end": 728
+    },
+    {
+      "text": "LYMPH NODES",
+      "type": "ENTITY",
+      "start": 729,
+      "end": 740
+    },
+    {
+      "text": "NEGATIVE",
+      "type": "ENTITY",
+      "start": 741,
+      "end": 749
+    },
+    {
+      "text": "MALIGNANCY",
+      "type": "ENTITY",
+      "start": 754,
+      "end": 764
+    },
+    {
+      "text": "B.  RIGHT LUNG",
+      "type": "ENTITY",
+      "start": 766,
+      "end": 780
+    },
+    {
+      "text": "TUMOR EXCISION",
+      "type": "ENTITY",
+      "start": 782,
+      "end": 796
+    },
+    {
+      "text": "MALIGNANT",
+      "type": "ENTITY",
+      "start": 798,
+      "end": 807
+    },
+    {
+      "text": "TUBULOPAPILLARY TYPE",
+      "type": "ENTITY",
+      "start": 822,
+      "end": 842
+    },
+    {
+      "text": "C.  RIGHT LUNG",
+      "type": "ENTITY",
+      "start": 844,
+      "end": 858
+    },
+    {
+      "text": "MALIGNANT",
+      "type": "ENTITY",
+      "start": 888,
+      "end": 897
+    },
+    {
+      "text": "EPITHELIAL",
+      "type": "ENTITY",
+      "start": 912,
+      "end": 922
+    },
+    {
+      "text": "TUBULOPAPILLARY TYPE",
+      "type": "ENTITY",
+      "start": 924,
+      "end": 944
+    },
+    {
+      "text": "DIFFUSE",
+      "type": "ENTITY",
+      "start": 946,
+      "end": 953
+    },
+    {
+      "text": "TUMOR",
+      "type": "ENTITY",
+      "start": 985,
+      "end": 990
+    },
+    {
+      "text": "PARENCHYMA FREE",
+      "type": "ENTITY",
+      "start": 997,
+      "end": 1012
+    },
+    {
+      "text": "TUMOR",
+      "type": "ENTITY",
+      "start": 1016,
+      "end": 1021
+    },
+    {
+      "text": "LYMPH NODES",
+      "type": "ENTITY",
+      "start": 1034,
+      "end": 1045
+    },
+    {
+      "text": "NEGATIVE",
+      "type": "ENTITY",
+      "start": 1046,
+      "end": 1054
+    },
+    {
+      "text": "MALIGNANCY",
+      "type": "ENTITY",
+      "start": 1059,
+      "end": 1069
+    },
+    {
+      "text": "D. LEVEL VIII LYMPH",
+      "type": "ENTITY",
+      "start": 1071,
+      "end": 1090
+    },
+    {
+      "text": "EXCISION",
+      "type": "ENTITY",
+      "start": 1097,
+      "end": 1105
+    },
+    {
+      "text": "THREE LYMPH NODES",
+      "type": "ENTITY",
+      "start": 1107,
+      "end": 1124
+    },
+    {
+      "text": "MALIGNANCY",
+      "type": "ENTITY",
+      "start": 1138,
+      "end": 1148
+    },
+    {
+      "text": "E. LEVEL IX LYMPH NODE",
+      "type": "ENTITY",
+      "start": 1150,
+      "end": 1172
+    },
+    {
+      "text": "EXCISION",
+      "type": "ENTITY",
+      "start": 1174,
+      "end": 1182
+    },
+    {
+      "text": "ONE LYMPH NODE",
+      "type": "ENTITY",
+      "start": 1184,
+      "end": 1198
+    },
+    {
+      "text": "NEGATIVE",
+      "type": "ENTITY",
+      "start": 1199,
+      "end": 1207
+    },
+    {
+      "text": "MALIGNANCY",
+      "type": "ENTITY",
+      "start": 1212,
+      "end": 1222
+    },
+    {
+      "text": "Printed",
+      "type": "ENTITY",
+      "start": 1248,
+      "end": 1255
+    },
+    {
+      "text": "MALIGNANT",
+      "type": "ENTITY",
+      "start": 1321,
+      "end": 1330
+    },
+    {
+      "text": "EPITHELIAL",
+      "type": "ENTITY",
+      "start": 1345,
+      "end": 1355
+    },
+    {
+      "text": "INVADING",
+      "type": "ENTITY",
+      "start": 1380,
+      "end": 1388
+    },
+    {
+      "text": "FOCALLY",
+      "type": "ENTITY",
+      "start": 1419,
+      "end": 1426
+    },
+    {
+      "text": "SKELETAL MUSCLE",
+      "type": "ENTITY",
+      "start": 1431,
+      "end": 1446
+    },
+    {
+      "text": "G. LEVEL IV",
+      "type": "ENTITY",
+      "start": 1448,
+      "end": 1459
+    },
+    {
+      "text": "EXCISION",
+      "type": "ENTITY",
+      "start": 1472,
+      "end": 1480
+    },
+    {
+      "text": "FOUR",
+      "type": "ENTITY",
+      "start": 1482,
+      "end": 1486
+    },
+    {
+      "text": "NEGATIVE",
+      "type": "ENTITY",
+      "start": 1499,
+      "end": 1507
+    },
+    {
+      "text": "MALIGNANCY",
+      "type": "ENTITY",
+      "start": 1512,
+      "end": 1522
+    },
+    {
+      "text": "RESECTION",
+      "type": "ENTITY",
+      "start": 1532,
+      "end": 1541
+    },
+    {
+      "text": "GROSS ONLY",
+      "type": "ENTITY",
+      "start": 1547,
+      "end": 1557
+    },
+    {
+      "text": "cOmmENr",
+      "type": "ENTITY",
+      "start": 1559,
+      "end": 1566
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1572,
+      "end": 1577
+    },
+    {
+      "text": "specimens B",
+      "type": "ENTITY",
+      "start": 1589,
+      "end": 1600
+    },
+    {
+      "text": "C",
+      "type": "ENTITY",
+      "start": 1602,
+      "end": 1603
+    },
+    {
+      "text": "F",
+      "type": "ENTITY",
+      "start": 1608,
+      "end": 1609
+    },
+    {
+      "text": "epithelial",
+      "type": "ENTITY",
+      "start": 1623,
+      "end": 1633
+    },
+    {
+      "text": "cells",
+      "type": "ENTITY",
+      "start": 1635,
+      "end": 1640
+    },
+    {
+      "text": "eosinophilic cytoplasm round nucleus",
+      "type": "ENTITY",
+      "start": 1646,
+      "end": 1682
+    },
+    {
+      "text": "prominent",
+      "type": "ENTITY",
+      "start": 1687,
+      "end": 1696
+    },
+    {
+      "text": "nucleoli",
+      "type": "ENTITY",
+      "start": 1697,
+      "end": 1705
+    },
+    {
+      "text": "cells",
+      "type": "ENTITY",
+      "start": 1713,
+      "end": 1718
+    },
+    {
+      "text": "glands",
+      "type": "ENTITY",
+      "start": 1735,
+      "end": 1741
+    },
+    {
+      "text": "papilla",
+      "type": "ENTITY",
+      "start": 1751,
+      "end": 1758
+    },
+    {
+      "text": "nests",
+      "type": "ENTITY",
+      "start": 1770,
+      "end": 1775
+    },
+    {
+      "text": "immunohistochemical studies",
+      "type": "ENTITY",
+      "start": 1782,
+      "end": 1809
+    },
+    {
+      "text": "diagnosis",
+      "type": "ENTITY",
+      "start": 1823,
+      "end": 1832
+    },
+    {
+      "text": "malignant mesothelioma",
+      "type": "ENTITY",
+      "start": 1836,
+      "end": 1858
+    },
+    {
+      "text": "tumor cells",
+      "type": "ENTITY",
+      "start": 1864,
+      "end": 1875
+    },
+    {
+      "text": "positive",
+      "type": "ENTITY",
+      "start": 1880,
+      "end": 1888
+    },
+    {
+      "text": "calretinin",
+      "type": "ENTITY",
+      "start": 1894,
+      "end": 1904
+    },
+    {
+      "text": "thrombomodulin",
+      "type": "ENTITY",
+      "start": 1906,
+      "end": 1920
+    },
+    {
+      "text": "wT-1",
+      "type": "ENTITY",
+      "start": 1923,
+      "end": 1927
+    },
+    {
+      "text": "cytokeratin",
+      "type": "ENTITY",
+      "start": 1929,
+      "end": 1940
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 1945,
+      "end": 1953
+    },
+    {
+      "text": "B72.3",
+      "type": "ENTITY",
+      "start": 1958,
+      "end": 1963
+    },
+    {
+      "text": "cEA",
+      "type": "ENTITY",
+      "start": 1965,
+      "end": 1968
+    },
+    {
+      "text": "BEREP-4",
+      "type": "ENTITY",
+      "start": 1974,
+      "end": 1981
+    },
+    {
+      "text": "NO",
+      "type": "ENTITY",
+      "start": 1989,
+      "end": 1991
+    },
+    {
+      "text": "LYMPH NODE",
+      "type": "ENTITY",
+      "start": 1994,
+      "end": 2004
+    },
+    {
+      "text": "B TUMOR RIGHT LUNG c",
+      "type": "ENTITY",
+      "start": 2017,
+      "end": 2037
+    },
+    {
+      "text": "LUNG D",
+      "type": "ENTITY",
+      "start": 2044,
+      "end": 2050
+    },
+    {
+      "text": "NO",
+      "type": "ENTITY",
+      "start": 2057,
+      "end": 2059
+    },
+    {
+      "text": "LYMPH NODE",
+      "type": "ENTITY",
+      "start": 2062,
+      "end": 2072
+    },
+    {
+      "text": "NO",
+      "type": "ENTITY",
+      "start": 2079,
+      "end": 2081
+    },
+    {
+      "text": "LYMPH NODE E",
+      "type": "ENTITY",
+      "start": 2084,
+      "end": 2096
+    },
+    {
+      "text": "TUMOR G LEVEL",
+      "type": "ENTITY",
+      "start": 2111,
+      "end": 2124
+    },
+    {
+      "text": "OPERATION",
+      "type": "ENTITY",
+      "start": 2161,
+      "end": 2170
+    },
+    {
+      "text": "R EXTRAPLEURAL PNEUMONECTOMY",
+      "type": "ENTITY",
+      "start": 2172,
+      "end": 2200
+    },
+    {
+      "text": "DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 2208,
+      "end": 2217
+    },
+    {
+      "text": "LUNG CANCER RT",
+      "type": "ENTITY",
+      "start": 2219,
+      "end": 2233
+    },
+    {
+      "text": "DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 2242,
+      "end": 2251
+    },
+    {
+      "text": "SAME",
+      "type": "ENTITY",
+      "start": 2253,
+      "end": 2257
+    },
+    {
+      "text": "NOT GIVEN",
+      "type": "ENTITY",
+      "start": 2273,
+      "end": 2282
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 2306,
+      "end": 2314
+    },
+    {
+      "text": "separate",
+      "type": "ENTITY",
+      "start": 2336,
+      "end": 2344
+    },
+    {
+      "text": "containers",
+      "type": "ENTITY",
+      "start": 2345,
+      "end": 2355
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 2370,
+      "end": 2375
+    },
+    {
+      "text": "lymph node",
+      "type": "ENTITY",
+      "start": 2392,
+      "end": 2402
+    },
+    {
+      "text": "fragment",
+      "type": "ENTITY",
+      "start": 2410,
+      "end": 2418
+    },
+    {
+      "text": "fibroadipose",
+      "type": "ENTITY",
+      "start": 2422,
+      "end": 2434
+    },
+    {
+      "text": "tissue",
+      "type": "ENTITY",
+      "start": 2436,
+      "end": 2442
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 2443,
+      "end": 2452
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 2484,
+      "end": 2492
+    },
+    {
+      "text": "one",
+      "type": "ENTITY",
+      "start": 2498,
+      "end": 2501
+    },
+    {
+      "text": "lymph node",
+      "type": "ENTITY",
+      "start": 2502,
+      "end": 2512
+    },
+    {
+      "text": "bisected",
+      "type": "ENTITY",
+      "start": 2513,
+      "end": 2521
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 2539,
+      "end": 2550
+    },
+    {
+      "text": "lymph node",
+      "type": "ENTITY",
+      "start": 2559,
+      "end": 2569
+    },
+    {
+      "text": "bisected",
+      "type": "ENTITY",
+      "start": 2570,
+      "end": 2578
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 2584,
+      "end": 2595
+    },
+    {
+      "text": "bisected",
+      "type": "ENTITY",
+      "start": 2596,
+      "end": 2604
+    },
+    {
+      "text": "lymph node",
+      "type": "ENTITY",
+      "start": 2612,
+      "end": 2622
+    },
+    {
+      "text": "bisected",
+      "type": "ENTITY",
+      "start": 2623,
+      "end": 2631
+    },
+    {
+      "text": "lymph node",
+      "type": "ENTITY",
+      "start": 2639,
+      "end": 2649
+    },
+    {
+      "text": "bisected",
+      "type": "ENTITY",
+      "start": 2650,
+      "end": 2658
+    },
+    {
+      "text": "one",
+      "type": "ENTITY",
+      "start": 2664,
+      "end": 2667
+    },
+    {
+      "text": "lymph node",
+      "type": "ENTITY",
+      "start": 2668,
+      "end": 2678
+    },
+    {
+      "text": "bisected",
+      "type": "ENTITY",
+      "start": 2702,
+      "end": 2710
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 2724,
+      "end": 2729
+    },
+    {
+      "text": "tumor right lung",
+      "type": "ENTITY",
+      "start": 2738,
+      "end": 2754
+    },
+    {
+      "text": "fragment",
+      "type": "ENTITY",
+      "start": 2762,
+      "end": 2770
+    },
+    {
+      "text": "fibroadipose tissue",
+      "type": "ENTITY",
+      "start": 2774,
+      "end": 2793
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 2794,
+      "end": 2803
+    },
+    {
+      "text": "cassettes",
+      "type": "ENTITY",
+      "start": 2850,
+      "end": 2859
+    },
+    {
+      "text": "Printed",
+      "type": "ENTITY",
+      "start": 2885,
+      "end": 2892
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 2937,
+      "end": 2942
+    },
+    {
+      "text": "right lung",
+      "type": "ENTITY",
+      "start": 2951,
+      "end": 2961
+    },
+    {
+      "text": "right extrapleural pneumonectomy",
+      "type": "ENTITY",
+      "start": 2967,
+      "end": 2999
+    },
+    {
+      "text": "gm.tota1",
+      "type": "ENTITY",
+      "start": 3029,
+      "end": 3037
+    },
+    {
+      "text": "parietal pleura",
+      "type": "ENTITY",
+      "start": 3044,
+      "end": 3059
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 3100,
+      "end": 3108
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 3113,
+      "end": 3121
+    },
+    {
+      "text": "thickness",
+      "type": "ENTITY",
+      "start": 3146,
+      "end": 3155
+    },
+    {
+      "text": "thoracic",
+      "type": "ENTITY",
+      "start": 3162,
+      "end": 3170
+    },
+    {
+      "text": "diaphragmatic",
+      "type": "ENTITY",
+      "start": 3172,
+      "end": 3185
+    },
+    {
+      "text": "mediastinal",
+      "type": "ENTITY",
+      "start": 3191,
+      "end": 3202
+    },
+    {
+      "text": "surface",
+      "type": "ENTITY",
+      "start": 3204,
+      "end": 3211
+    },
+    {
+      "text": "lung",
+      "type": "ENTITY",
+      "start": 3219,
+      "end": 3223
+    },
+    {
+      "text": "granular",
+      "type": "ENTITY",
+      "start": 3254,
+      "end": 3262
+    },
+    {
+      "text": "tan indurated nodules",
+      "type": "ENTITY",
+      "start": 3264,
+      "end": 3285
+    },
+    {
+      "text": "lung",
+      "type": "ENTITY",
+      "start": 3292,
+      "end": 3296
+    },
+    {
+      "text": "lung's parenchyma",
+      "type": "ENTITY",
+      "start": 3324,
+      "end": 3341
+    },
+    {
+      "text": "soft",
+      "type": "ENTITY",
+      "start": 3345,
+      "end": 3349
+    },
+    {
+      "text": "red",
+      "type": "ENTITY",
+      "start": 3351,
+      "end": 3354
+    },
+    {
+      "text": "free of tumor",
+      "type": "ENTITY",
+      "start": 3360,
+      "end": 3373
+    },
+    {
+      "text": "mediastinal",
+      "type": "ENTITY",
+      "start": 3389,
+      "end": 3400
+    },
+    {
+      "text": "lung",
+      "type": "ENTITY",
+      "start": 3415,
+      "end": 3419
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 3430,
+      "end": 3435
+    },
+    {
+      "text": "invade",
+      "type": "ENTITY",
+      "start": 3447,
+      "end": 3453
+    },
+    {
+      "text": "lung parenchyma",
+      "type": "ENTITY",
+      "start": 3458,
+      "end": 3473
+    },
+    {
+      "text": "parietal pleura",
+      "type": "ENTITY",
+      "start": 3479,
+      "end": 3494
+    },
+    {
+      "text": "multiple",
+      "type": "ENTITY",
+      "start": 3506,
+      "end": 3514
+    },
+    {
+      "text": "nodules",
+      "type": "ENTITY",
+      "start": 3515,
+      "end": 3522
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 3536,
+      "end": 3545
+    },
+    {
+      "text": "invade",
+      "type": "ENTITY",
+      "start": 3575,
+      "end": 3581
+    },
+    {
+      "text": "lung",
+      "type": "ENTITY",
+      "start": 3586,
+      "end": 3590
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 3603,
+      "end": 3611
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 3635,
+      "end": 3640
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 3670,
+      "end": 3681
+    },
+    {
+      "text": "nilar Iymph node",
+      "type": "ENTITY",
+      "start": 3702,
+      "end": 3718
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 3738,
+      "end": 3749
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 3769,
+      "end": 3780
+    },
+    {
+      "text": "lung parenchyma",
+      "type": "ENTITY",
+      "start": 3793,
+      "end": 3808
+    },
+    {
+      "text": "8&9-tumor",
+      "type": "ENTITY",
+      "start": 3810,
+      "end": 3819
+    },
+    {
+      "text": "parietal pleura",
+      "type": "ENTITY",
+      "start": 3824,
+      "end": 3839
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 3863,
+      "end": 3868
+    },
+    {
+      "text": "level",
+      "type": "ENTITY",
+      "start": 3877,
+      "end": 3882
+    },
+    {
+      "text": "lymph node",
+      "type": "ENTITY",
+      "start": 3885,
+      "end": 3895
+    },
+    {
+      "text": "piece",
+      "type": "ENTITY",
+      "start": 3901,
+      "end": 3906
+    },
+    {
+      "text": "tissue",
+      "type": "ENTITY",
+      "start": 3910,
+      "end": 3916
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 3917,
+      "end": 3926
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 3951,
+      "end": 3962
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 3978,
+      "end": 3987
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 4015,
+      "end": 4023
+    },
+    {
+      "text": "one",
+      "type": "ENTITY",
+      "start": 4030,
+      "end": 4033
+    },
+    {
+      "text": "lymph node",
+      "type": "ENTITY",
+      "start": 4034,
+      "end": 4044
+    },
+    {
+      "text": "bisected",
+      "type": "ENTITY",
+      "start": 4045,
+      "end": 4053
+    },
+    {
+      "text": "D2-",
+      "type": "ENTITY",
+      "start": 4055,
+      "end": 4058
+    },
+    {
+      "text": "bisected",
+      "type": "ENTITY",
+      "start": 4074,
+      "end": 4082
+    },
+    {
+      "text": "E.",
+      "type": "ENTITY",
+      "start": 4084,
+      "end": 4086
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 4096,
+      "end": 4101
+    },
+    {
+      "text": "lymph node",
+      "type": "ENTITY",
+      "start": 4118,
+      "end": 4128
+    },
+    {
+      "text": "lymph node",
+      "type": "ENTITY",
+      "start": 4136,
+      "end": 4146
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 4147,
+      "end": 4156
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 4181,
+      "end": 4189
+    },
+    {
+      "text": "bisected",
+      "type": "ENTITY",
+      "start": 4193,
+      "end": 4201
+    },
+    {
+      "text": "cassette",
+      "type": "ENTITY",
+      "start": 4232,
+      "end": 4240
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 4255,
+      "end": 4260
+    },
+    {
+      "text": "tumor diaphragmatic",
+      "type": "ENTITY",
+      "start": 4269,
+      "end": 4288
+    },
+    {
+      "text": "fragments",
+      "type": "ENTITY",
+      "start": 4302,
+      "end": 4311
+    },
+    {
+      "text": "fibroadipose tissue",
+      "type": "ENTITY",
+      "start": 4315,
+      "end": 4334
+    },
+    {
+      "text": "fibrous white granular",
+      "type": "ENTITY",
+      "start": 4340,
+      "end": 4362
+    },
+    {
+      "text": "tissue",
+      "type": "ENTITY",
+      "start": 4363,
+      "end": 4369
+    },
+    {
+      "text": "aggregating",
+      "type": "ENTITY",
+      "start": 4370,
+      "end": 4381
+    },
+    {
+      "text": "S.0",
+      "type": "ENTITY",
+      "start": 4385,
+      "end": 4388
+    },
+    {
+      "text": "Representative sections",
+      "type": "ENTITY",
+      "start": 4405,
+      "end": 4428
+    },
+    {
+      "text": "cassettes",
+      "type": "ENTITY",
+      "start": 4450,
+      "end": 4459
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 4474,
+      "end": 4479
+    },
+    {
+      "text": "anthrocotic",
+      "type": "ENTITY",
+      "start": 4488,
+      "end": 4499
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 4500,
+      "end": 4511
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 4512,
+      "end": 4521
+    },
+    {
+      "text": "cassettes",
+      "type": "ENTITY",
+      "start": 4549,
+      "end": 4558
+    },
+    {
+      "text": "one",
+      "type": "ENTITY",
+      "start": 4563,
+      "end": 4566
+    },
+    {
+      "text": "lymph node",
+      "type": "ENTITY",
+      "start": 4567,
+      "end": 4577
+    },
+    {
+      "text": "bisected",
+      "type": "ENTITY",
+      "start": 4578,
+      "end": 4586
+    },
+    {
+      "text": "lymph node",
+      "type": "ENTITY",
+      "start": 4595,
+      "end": 4605
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 4619,
+      "end": 4624
+    },
+    {
+      "text": "ribs",
+      "type": "ENTITY",
+      "start": 4633,
+      "end": 4637
+    },
+    {
+      "text": "fragments",
+      "type": "ENTITY",
+      "start": 4646,
+      "end": 4655
+    },
+    {
+      "text": "bone",
+      "type": "ENTITY",
+      "start": 4659,
+      "end": 4663
+    },
+    {
+      "text": "Dr.. study",
+      "type": "ENTITY",
+      "start": 4678,
+      "end": 4688
+    },
+    {
+      "text": "CPT",
+      "type": "ENTITY",
+      "start": 4690,
+      "end": 4693
+    },
+    {
+      "text": "CODE",
+      "type": "ENTITY",
+      "start": 4694,
+      "end": 4698
+    },
+    {
+      "text": "Printed",
+      "type": "ENTITY",
+      "start": 4724,
+      "end": 4731
+    },
+    {
+      "text": "Completed Action List",
+      "type": "ENTITY",
+      "start": 4786,
+      "end": 4807
+    },
+    {
+      "text": "Perform",
+      "type": "ENTITY",
+      "start": 4811,
+      "end": 4818
+    },
+    {
+      "text": "Printed",
+      "type": "ENTITY",
+      "start": 4846,
+      "end": 4853
+    }
+  ],
+  "entity_count": 246,
+  "has_embedding": true
+}

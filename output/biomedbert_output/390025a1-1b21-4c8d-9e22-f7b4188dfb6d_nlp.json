@@ -1,0 +1,878 @@
+{
+  "filename": "390025a1-1b21-4c8d-9e22-f7b4188dfb6d",
+  "timestamp": "2026-01-05T14:41:18.556104",
+  "entities": [
+    {
+      "text": "Diagnosis",
+      "type": "ENTITY",
+      "start": 131,
+      "end": 140
+    },
+    {
+      "text": "A. Breast",
+      "type": "ENTITY",
+      "start": 141,
+      "end": 150
+    },
+    {
+      "text": "right",
+      "type": "ENTITY",
+      "start": 152,
+      "end": 157
+    },
+    {
+      "text": "excisional biopsy",
+      "type": "ENTITY",
+      "start": 159,
+      "end": 176
+    },
+    {
+      "text": "Invasive",
+      "type": "ENTITY",
+      "start": 178,
+      "end": 186
+    },
+    {
+      "text": "mucinous car Nottingham grade 1 Note",
+      "type": "ENTITY",
+      "start": 187,
+      "end": 223
+    },
+    {
+      "text": "inked margins",
+      "type": "ENTITY",
+      "start": 229,
+      "end": 242
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 247,
+      "end": 255
+    },
+    {
+      "text": "malignancy",
+      "type": "ENTITY",
+      "start": 260,
+      "end": 270
+    },
+    {
+      "text": "Carcinoma",
+      "type": "ENTITY",
+      "start": 272,
+      "end": 281
+    },
+    {
+      "text": "focally",
+      "type": "ENTITY",
+      "start": 285,
+      "end": 292
+    },
+    {
+      "text": "superior margin",
+      "type": "ENTITY",
+      "start": 309,
+      "end": 324
+    },
+    {
+      "text": "B. Breast",
+      "type": "ENTITY",
+      "start": 326,
+      "end": 335
+    },
+    {
+      "text": "right",
+      "type": "ENTITY",
+      "start": 337,
+      "end": 342
+    },
+    {
+      "text": "lateral margin",
+      "type": "ENTITY",
+      "start": 348,
+      "end": 362
+    },
+    {
+      "text": "biopsy",
+      "type": "ENTITY",
+      "start": 364,
+      "end": 370
+    },
+    {
+      "text": "Fibrocystic changes",
+      "type": "ENTITY",
+      "start": 372,
+      "end": 391
+    },
+    {
+      "text": "Negative",
+      "type": "ENTITY",
+      "start": 393,
+      "end": 401
+    },
+    {
+      "text": "malignancy",
+      "type": "ENTITY",
+      "start": 406,
+      "end": 416
+    },
+    {
+      "text": "Sentinel lymph node",
+      "type": "ENTITY",
+      "start": 421,
+      "end": 440
+    },
+    {
+      "text": "biopsy",
+      "type": "ENTITY",
+      "start": 442,
+      "end": 448
+    },
+    {
+      "text": "single lymph node",
+      "type": "ENTITY",
+      "start": 452,
+      "end": 469
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 473,
+      "end": 481
+    },
+    {
+      "text": "malignancy",
+      "type": "ENTITY",
+      "start": 486,
+      "end": 496
+    },
+    {
+      "text": "Microscopic Description",
+      "type": "ENTITY",
+      "start": 506,
+      "end": 529
+    },
+    {
+      "text": "A. Invasive carcinoma",
+      "type": "ENTITY",
+      "start": 531,
+      "end": 552
+    },
+    {
+      "text": "Histologic type",
+      "type": "ENTITY",
+      "start": 561,
+      "end": 576
+    },
+    {
+      "text": "Mucinous carcinoma",
+      "type": "ENTITY",
+      "start": 578,
+      "end": 596
+    },
+    {
+      "text": "Site",
+      "type": "ENTITY",
+      "start": 597,
+      "end": 601
+    },
+    {
+      "text": "bresst",
+      "type": "ENTITY",
+      "start": 604,
+      "end": 610
+    },
+    {
+      "text": "Nus lu) Nottingham grade",
+      "type": "ENTITY",
+      "start": 612,
+      "end": 636
+    },
+    {
+      "text": "Architectural score",
+      "type": "ENTITY",
+      "start": 640,
+      "end": 659
+    },
+    {
+      "text": "Nuclear score",
+      "type": "ENTITY",
+      "start": 664,
+      "end": 677
+    },
+    {
+      "text": "Mitotic score",
+      "type": "ENTITY",
+      "start": 683,
+      "end": 696
+    },
+    {
+      "text": "Mitotic index",
+      "type": "ENTITY",
+      "start": 698,
+      "end": 711
+    },
+    {
+      "text": "HPFs",
+      "type": "ENTITY",
+      "start": 727,
+      "end": 731
+    },
+    {
+      "text": "HPF",
+      "type": "ENTITY",
+      "start": 735,
+      "end": 738
+    },
+    {
+      "text": "Tumor size",
+      "type": "ENTITY",
+      "start": 754,
+      "end": 764
+    },
+    {
+      "text": "Specimen margins",
+      "type": "ENTITY",
+      "start": 772,
+      "end": 788
+    },
+    {
+      "text": "Negative",
+      "type": "ENTITY",
+      "start": 790,
+      "end": 798
+    },
+    {
+      "text": "malignancy",
+      "type": "ENTITY",
+      "start": 803,
+      "end": 813
+    },
+    {
+      "text": "Carcinoma",
+      "type": "ENTITY",
+      "start": 815,
+      "end": 824
+    },
+    {
+      "text": "focally",
+      "type": "ENTITY",
+      "start": 828,
+      "end": 835
+    },
+    {
+      "text": "yellow (superior) inked margin",
+      "type": "ENTITY",
+      "start": 852,
+      "end": 882
+    },
+    {
+      "text": "block",
+      "type": "ENTITY",
+      "start": 886,
+      "end": 891
+    },
+    {
+      "text": "Al",
+      "type": "ENTITY",
+      "start": 892,
+      "end": 894
+    },
+    {
+      "text": "Vessel",
+      "type": "ENTITY",
+      "start": 896,
+      "end": 902
+    },
+    {
+      "text": "invasion",
+      "type": "ENTITY",
+      "start": 903,
+      "end": 911
+    },
+    {
+      "text": "Absent Calcification",
+      "type": "ENTITY",
+      "start": 913,
+      "end": 933
+    },
+    {
+      "text": "Absent",
+      "type": "ENTITY",
+      "start": 935,
+      "end": 941
+    },
+    {
+      "text": "Non-tumorous breast",
+      "type": "ENTITY",
+      "start": 942,
+      "end": 961
+    },
+    {
+      "text": "Fibrocystic",
+      "type": "ENTITY",
+      "start": 964,
+      "end": 975
+    },
+    {
+      "text": "apocrine metaplasia",
+      "type": "ENTITY",
+      "start": 994,
+      "end": 1013
+    },
+    {
+      "text": "cyst formation",
+      "type": "ENTITY",
+      "start": 1015,
+      "end": 1029
+    },
+    {
+      "text": "intraductal epithelial hyperplasia",
+      "type": "ENTITY",
+      "start": 1031,
+      "end": 1065
+    },
+    {
+      "text": "atypia",
+      "type": "ENTITY",
+      "start": 1074,
+      "end": 1080
+    },
+    {
+      "text": "columnar metaplasia",
+      "type": "ENTITY",
+      "start": 1082,
+      "end": 1101
+    },
+    {
+      "text": "benign calcification",
+      "type": "ENTITY",
+      "start": 1103,
+      "end": 1123
+    },
+    {
+      "text": "intraductal papilloma",
+      "type": "ENTITY",
+      "start": 1128,
+      "end": 1149
+    },
+    {
+      "text": "TNM stage",
+      "type": "ENTITY",
+      "start": 1151,
+      "end": 1160
+    },
+    {
+      "text": "Prognostic",
+      "type": "ENTITY",
+      "start": 1166,
+      "end": 1176
+    },
+    {
+      "text": "markers",
+      "type": "ENTITY",
+      "start": 1177,
+      "end": 1184
+    },
+    {
+      "text": "biopsy",
+      "type": "ENTITY",
+      "start": 1200,
+      "end": 1206
+    },
+    {
+      "text": "B. sections",
+      "type": "ENTITY",
+      "start": 1207,
+      "end": 1218
+    },
+    {
+      "text": "right breast lateral margin specimens",
+      "type": "ENTITY",
+      "start": 1226,
+      "end": 1263
+    },
+    {
+      "text": "focally florid intraductal epithelial hyperplasia",
+      "type": "ENTITY",
+      "start": 1269,
+      "end": 1318
+    },
+    {
+      "text": "atypia",
+      "type": "ENTITY",
+      "start": 1327,
+      "end": 1333
+    },
+    {
+      "text": "mild",
+      "type": "ENTITY",
+      "start": 1344,
+      "end": 1348
+    },
+    {
+      "text": "fibrocystic changes",
+      "type": "ENTITY",
+      "start": 1349,
+      "end": 1368
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1374,
+      "end": 1382
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 1386,
+      "end": 1394
+    },
+    {
+      "text": "malignancy",
+      "type": "ENTITY",
+      "start": 1399,
+      "end": 1409
+    },
+    {
+      "text": "C. A single",
+      "type": "ENTITY",
+      "start": 1411,
+      "end": 1422
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 1437,
+      "end": 1445
+    },
+    {
+      "text": "malignancy",
+      "type": "ENTITY",
+      "start": 1450,
+      "end": 1460
+    },
+    {
+      "text": "staff oncologists",
+      "type": "ENTITY",
+      "start": 1486,
+      "end": 1503
+    },
+    {
+      "text": "opinion",
+      "type": "ENTITY",
+      "start": 1528,
+      "end": 1535
+    },
+    {
+      "text": "experts",
+      "type": "ENTITY",
+      "start": 1544,
+      "end": 1551
+    },
+    {
+      "text": "breast pathology",
+      "type": "ENTITY",
+      "start": 1555,
+      "end": 1571
+    },
+    {
+      "text": "immunohistochemical stains",
+      "type": "ENTITY",
+      "start": 1573,
+      "end": 1599
+    },
+    {
+      "text": "keratin",
+      "type": "ENTITY",
+      "start": 1604,
+      "end": 1611
+    },
+    {
+      "text": "sentinel lymph node sections",
+      "type": "ENTITY",
+      "start": 1633,
+      "end": 1661
+    },
+    {
+      "text": "case",
+      "type": "ENTITY",
+      "start": 1670,
+      "end": 1674
+    },
+    {
+      "text": "stains",
+      "type": "ENTITY",
+      "start": 1682,
+      "end": 1688
+    },
+    {
+      "text": "paraffin blocks",
+      "type": "ENTITY",
+      "start": 1721,
+      "end": 1736
+    },
+    {
+      "text": "years",
+      "type": "ENTITY",
+      "start": 1757,
+      "end": 1762
+    },
+    {
+      "text": "Weaver DL",
+      "type": "ENTITY",
+      "start": 1765,
+      "end": 1774
+    },
+    {
+      "text": "New Engl J Med 364:412",
+      "type": "ENTITY",
+      "start": 1782,
+      "end": 1804
+    },
+    {
+      "text": "GF",
+      "type": "ENTITY",
+      "start": 1821,
+      "end": 1823
+    },
+    {
+      "text": "Specimen",
+      "type": "ENTITY",
+      "start": 1859,
+      "end": 1867
+    },
+    {
+      "text": "A. Right",
+      "type": "ENTITY",
+      "start": 1868,
+      "end": 1876
+    },
+    {
+      "text": "breast tissue",
+      "type": "ENTITY",
+      "start": 1877,
+      "end": 1890
+    },
+    {
+      "text": "Sentinel lymph node Clinical Information",
+      "type": "ENTITY",
+      "start": 1954,
+      "end": 1994
+    },
+    {
+      "text": "Mucinous carcinoma",
+      "type": "ENTITY",
+      "start": 1995,
+      "end": 2013
+    },
+    {
+      "text": "Description",
+      "type": "ENTITY",
+      "start": 2036,
+      "end": 2047
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 2052,
+      "end": 2060
+    },
+    {
+      "text": "unfixed",
+      "type": "ENTITY",
+      "start": 2073,
+      "end": 2080
+    },
+    {
+      "text": "Transpec container labeled",
+      "type": "ENTITY",
+      "start": 2086,
+      "end": 2112
+    },
+    {
+      "text": "right breast tissue",
+      "type": "ENTITY",
+      "start": 2113,
+      "end": 2132
+    },
+    {
+      "text": "yellow piece",
+      "type": "ENTITY",
+      "start": 2178,
+      "end": 2190
+    },
+    {
+      "text": "soft tissue",
+      "type": "ENTITY",
+      "start": 2194,
+      "end": 2205
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 2206,
+      "end": 2215
+    },
+    {
+      "text": "external",
+      "type": "ENTITY",
+      "start": 2235,
+      "end": 2243
+    },
+    {
+      "text": "surface",
+      "type": "ENTITY",
+      "start": 2244,
+      "end": 2251
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 2256,
+      "end": 2264
+    },
+    {
+      "text": "Anterior",
+      "type": "ENTITY",
+      "start": 2295,
+      "end": 2303
+    },
+    {
+      "text": "Red",
+      "type": "ENTITY",
+      "start": 2305,
+      "end": 2308
+    },
+    {
+      "text": "Green Superior",
+      "type": "ENTITY",
+      "start": 2351,
+      "end": 2365
+    },
+    {
+      "text": "Black",
+      "type": "ENTITY",
+      "start": 2385,
+      "end": 2390
+    },
+    {
+      "text": "palpable mass",
+      "type": "ENTITY",
+      "start": 2402,
+      "end": 2415
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 2423,
+      "end": 2431
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 2432,
+      "end": 2441
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 2452,
+      "end": 2460
+    },
+    {
+      "text": "external palpation",
+      "type": "ENTITY",
+      "start": 2465,
+      "end": 2483
+    },
+    {
+      "text": "cut section",
+      "type": "ENTITY",
+      "start": 2487,
+      "end": 2498
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 2503,
+      "end": 2507
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 2518,
+      "end": 2526
+    },
+    {
+      "text": "mucoid",
+      "type": "ENTITY",
+      "start": 2537,
+      "end": 2543
+    },
+    {
+      "text": "appearance",
+      "type": "ENTITY",
+      "start": 2544,
+      "end": 2554
+    },
+    {
+      "text": "portion",
+      "type": "ENTITY",
+      "start": 2558,
+      "end": 2565
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 2573,
+      "end": 2578
+    },
+    {
+      "text": "research purposes",
+      "type": "ENTITY",
+      "start": 2592,
+      "end": 2609
+    },
+    {
+      "text": "Sections",
+      "type": "ENTITY",
+      "start": 2611,
+      "end": 2619
+    },
+    {
+      "text": "fixation",
+      "type": "ENTITY",
+      "start": 2626,
+      "end": 2634
+    },
+    {
+      "text": "Rs8",
+      "type": "ENTITY",
+      "start": 2636,
+      "end": 2639
+    },
+    {
+      "text": "unfixed labeled",
+      "type": "ENTITY",
+      "start": 2650,
+      "end": 2665
+    },
+    {
+      "text": "right breast",
+      "type": "ENTITY",
+      "start": 2666,
+      "end": 2678
+    },
+    {
+      "text": "lateral margin short anterior",
+      "type": "ENTITY",
+      "start": 2683,
+      "end": 2712
+    },
+    {
+      "text": "external",
+      "type": "ENTITY",
+      "start": 2729,
+      "end": 2737
+    },
+    {
+      "text": "surface",
+      "type": "ENTITY",
+      "start": 2738,
+      "end": 2745
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 2750,
+      "end": 2758
+    },
+    {
+      "text": "Anterior",
+      "type": "ENTITY",
+      "start": 2779,
+      "end": 2787
+    },
+    {
+      "text": "Red",
+      "type": "ENTITY",
+      "start": 2789,
+      "end": 2792
+    },
+    {
+      "text": "Green Superior",
+      "type": "ENTITY",
+      "start": 2835,
+      "end": 2849
+    },
+    {
+      "text": "Yellow Inferior",
+      "type": "ENTITY",
+      "start": 2851,
+      "end": 2866
+    },
+    {
+      "text": "Black Sections",
+      "type": "ENTITY",
+      "start": 2868,
+      "end": 2882
+    },
+    {
+      "text": "fixation",
+      "type": "ENTITY",
+      "start": 2889,
+      "end": 2897
+    },
+    {
+      "text": "Rs7",
+      "type": "ENTITY",
+      "start": 2899,
+      "end": 2902
+    },
+    {
+      "text": "Specimen",
+      "type": "ENTITY",
+      "start": 2904,
+      "end": 2912
+    },
+    {
+      "text": "formalin labeled",
+      "type": "ENTITY",
+      "start": 2931,
+      "end": 2947
+    },
+    {
+      "text": "central lymph node",
+      "type": "ENTITY",
+      "start": 2948,
+      "end": 2966
+    },
+    {
+      "text": "piece",
+      "type": "ENTITY",
+      "start": 2985,
+      "end": 2990
+    },
+    {
+      "text": "yellow soft tissue",
+      "type": "ENTITY",
+      "start": 2994,
+      "end": 3012
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 3013,
+      "end": 3022
+    },
+    {
+      "text": "AS-2",
+      "type": "ENTITY",
+      "start": 3041,
+      "end": 3045
+    }
+  ],
+  "entity_count": 145,
+  "has_embedding": true
+}

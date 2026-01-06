@@ -1,0 +1,356 @@
+{
+  "filename": "14f1d3fb-8418-4afd-88dc-ae73993adb97",
+  "timestamp": "2026-01-05T14:40:53.483163",
+  "entities": [
+    {
+      "text": "TCGA",
+      "type": "ENTITY",
+      "start": 36,
+      "end": 40
+    },
+    {
+      "text": "Pathology Report Form Instructions",
+      "type": "ENTITY",
+      "start": 49,
+      "end": 83
+    },
+    {
+      "text": "TCGA",
+      "type": "ENTITY",
+      "start": 89,
+      "end": 93
+    },
+    {
+      "text": "Pathology Report Form",
+      "type": "ENTITY",
+      "start": 102,
+      "end": 123
+    },
+    {
+      "text": "cases",
+      "type": "ENTITY",
+      "start": 148,
+      "end": 153
+    },
+    {
+      "text": "pathology",
+      "type": "ENTITY",
+      "start": 166,
+      "end": 175
+    },
+    {
+      "text": "Redacted",
+      "type": "ENTITY",
+      "start": 263,
+      "end": 271
+    },
+    {
+      "text": "Z016 Completed Date",
+      "type": "ENTITY",
+      "start": 275,
+      "end": 294
+    },
+    {
+      "text": "MM/DD/YYYY",
+      "type": "ENTITY",
+      "start": 296,
+      "end": 306
+    },
+    {
+      "text": "General Pathology Report Information",
+      "type": "ENTITY",
+      "start": 309,
+      "end": 345
+    },
+    {
+      "text": "Working Instructions",
+      "type": "ENTITY",
+      "start": 380,
+      "end": 400
+    },
+    {
+      "text": "Provide",
+      "type": "ENTITY",
+      "start": 401,
+      "end": 408
+    },
+    {
+      "text": "tumor type",
+      "type": "ENTITY",
+      "start": 413,
+      "end": 423
+    },
+    {
+      "text": "case",
+      "type": "ENTITY",
+      "start": 431,
+      "end": 435
+    },
+    {
+      "text": "COAD",
+      "type": "ENTITY",
+      "start": 438,
+      "end": 442
+    },
+    {
+      "text": "Tumor type",
+      "type": "ENTITY",
+      "start": 443,
+      "end": 453
+    },
+    {
+      "text": "Indicate",
+      "type": "ENTITY",
+      "start": 455,
+      "end": 463
+    },
+    {
+      "text": "BCR",
+      "type": "ENTITY",
+      "start": 473,
+      "end": 476
+    },
+    {
+      "text": "location",
+      "type": "ENTITY",
+      "start": 477,
+      "end": 485
+    },
+    {
+      "text": "case",
+      "type": "ENTITY",
+      "start": 490,
+      "end": 494
+    },
+    {
+      "text": "date",
+      "type": "ENTITY",
+      "start": 578,
+      "end": 582
+    },
+    {
+      "text": "MM/DD/YyyY",
+      "type": "ENTITY",
+      "start": 584,
+      "end": 594
+    },
+    {
+      "text": "shipment",
+      "type": "ENTITY",
+      "start": 599,
+      "end": 607
+    },
+    {
+      "text": "arrival",
+      "type": "ENTITY",
+      "start": 608,
+      "end": 615
+    },
+    {
+      "text": "Date specimen",
+      "type": "ENTITY",
+      "start": 623,
+      "end": 636
+    },
+    {
+      "text": "Biospecimen Core Resource (BCR)",
+      "type": "ENTITY",
+      "start": 657,
+      "end": 688
+    },
+    {
+      "text": "BCR",
+      "type": "ENTITY",
+      "start": 692,
+      "end": 695
+    },
+    {
+      "text": "Histology",
+      "type": "ENTITY",
+      "start": 706,
+      "end": 715
+    },
+    {
+      "text": "Code",
+      "type": "ENTITY",
+      "start": 716,
+      "end": 720
+    },
+    {
+      "text": "histology",
+      "type": "ENTITY",
+      "start": 735,
+      "end": 744
+    },
+    {
+      "text": "code",
+      "type": "ENTITY",
+      "start": 745,
+      "end": 749
+    },
+    {
+      "text": "sample",
+      "type": "ENTITY",
+      "start": 758,
+      "end": 764
+    },
+    {
+      "text": "Case Quality Control Form",
+      "type": "ENTITY",
+      "start": 774,
+      "end": 799
+    },
+    {
+      "text": "CQCF",
+      "type": "ENTITY",
+      "start": 801,
+      "end": 805
+    },
+    {
+      "text": "overall case",
+      "type": "ENTITY",
+      "start": 815,
+      "end": 827
+    },
+    {
+      "text": "patient",
+      "type": "ENTITY",
+      "start": 829,
+      "end": 836
+    },
+    {
+      "text": "Specimen",
+      "type": "ENTITY",
+      "start": 841,
+      "end": 849
+    },
+    {
+      "text": "CQCF",
+      "type": "ENTITY",
+      "start": 852,
+      "end": 856
+    },
+    {
+      "text": "inompete",
+      "type": "ENTITY",
+      "start": 863,
+      "end": 871
+    },
+    {
+      "text": "diagnosis",
+      "type": "ENTITY",
+      "start": 872,
+      "end": 881
+    },
+    {
+      "text": "Case",
+      "type": "ENTITY",
+      "start": 902,
+      "end": 906
+    },
+    {
+      "text": "patient",
+      "type": "ENTITY",
+      "start": 909,
+      "end": 916
+    },
+    {
+      "text": "diagnosis",
+      "type": "ENTITY",
+      "start": 924,
+      "end": 933
+    },
+    {
+      "text": "Provide",
+      "type": "ENTITY",
+      "start": 980,
+      "end": 987
+    },
+    {
+      "text": "site",
+      "type": "ENTITY",
+      "start": 992,
+      "end": 996
+    },
+    {
+      "text": "code",
+      "type": "ENTITY",
+      "start": 997,
+      "end": 1001
+    },
+    {
+      "text": "sample",
+      "type": "ENTITY",
+      "start": 1010,
+      "end": 1016
+    },
+    {
+      "text": "Case Quality Control Form",
+      "type": "ENTITY",
+      "start": 1026,
+      "end": 1051
+    },
+    {
+      "text": "CQcF",
+      "type": "ENTITY",
+      "start": 1053,
+      "end": 1057
+    },
+    {
+      "text": "overall case",
+      "type": "ENTITY",
+      "start": 1067,
+      "end": 1079
+    },
+    {
+      "text": "patient diagnosis",
+      "type": "ENTITY",
+      "start": 1081,
+      "end": 1098
+    },
+    {
+      "text": "Specimen",
+      "type": "ENTITY",
+      "start": 1107,
+      "end": 1115
+    },
+    {
+      "text": "CQCF",
+      "type": "ENTITY",
+      "start": 1118,
+      "end": 1122
+    },
+    {
+      "text": "incompuete",
+      "type": "ENTITY",
+      "start": 1130,
+      "end": 1140
+    },
+    {
+      "text": "Case",
+      "type": "ENTITY",
+      "start": 1157,
+      "end": 1161
+    },
+    {
+      "text": "patient",
+      "type": "ENTITY",
+      "start": 1164,
+      "end": 1171
+    },
+    {
+      "text": "C18.9",
+      "type": "ENTITY",
+      "start": 1172,
+      "end": 1177
+    },
+    {
+      "text": "diagnosis",
+      "type": "ENTITY",
+      "start": 1178,
+      "end": 1187
+    }
+  ],
+  "entity_count": 58,
+  "has_embedding": true
+}

@@ -1,0 +1,560 @@
+{
+  "filename": "bd7e5dfb-943c-44a1-b116-3bf2ab39bbbd",
+  "timestamp": "2026-01-05T14:44:50.699872",
+  "entities": [
+    {
+      "text": "Date of surgery",
+      "type": "ENTITY",
+      "start": 25,
+      "end": 40
+    },
+    {
+      "text": "Melsnem",
+      "type": "ENTITY",
+      "start": 43,
+      "end": 50
+    },
+    {
+      "text": "OChoro",
+      "type": "ENTITY",
+      "start": 74,
+      "end": 80
+    },
+    {
+      "text": "Left eye enucleation",
+      "type": "ENTITY",
+      "start": 81,
+      "end": 101
+    },
+    {
+      "text": "Cw9.3 D",
+      "type": "ENTITY",
+      "start": 102,
+      "end": 109
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 142,
+      "end": 150
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 160,
+      "end": 168
+    },
+    {
+      "text": "segment",
+      "type": "ENTITY",
+      "start": 176,
+      "end": 183
+    },
+    {
+      "text": "optic nerve",
+      "type": "ENTITY",
+      "start": 187,
+      "end": 198
+    },
+    {
+      "text": "section",
+      "type": "ENTITY",
+      "start": 215,
+      "end": 222
+    },
+    {
+      "text": "postero-lateral part",
+      "type": "ENTITY",
+      "start": 240,
+      "end": 260
+    },
+    {
+      "text": "eyeball",
+      "type": "ENTITY",
+      "start": 268,
+      "end": 275
+    },
+    {
+      "text": "pigmented",
+      "type": "ENTITY",
+      "start": 284,
+      "end": 293
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 294,
+      "end": 299
+    },
+    {
+      "text": "adherent",
+      "type": "ENTITY",
+      "start": 300,
+      "end": 308
+    },
+    {
+      "text": "internal face",
+      "type": "ENTITY",
+      "start": 316,
+      "end": 329
+    },
+    {
+      "text": "sclera",
+      "type": "ENTITY",
+      "start": 337,
+      "end": 343
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 345,
+      "end": 354
+    },
+    {
+      "text": "maximum",
+      "type": "ENTITY",
+      "start": 380,
+      "end": 387
+    },
+    {
+      "text": "thickness",
+      "type": "ENTITY",
+      "start": 388,
+      "end": 397
+    },
+    {
+      "text": "Samples",
+      "type": "ENTITY",
+      "start": 399,
+      "end": 406
+    },
+    {
+      "text": "cryopreservation",
+      "type": "ENTITY",
+      "start": 426,
+      "end": 442
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 449,
+      "end": 457
+    },
+    {
+      "text": "fixation",
+      "type": "ENTITY",
+      "start": 496,
+      "end": 504
+    },
+    {
+      "text": "Microscopy",
+      "type": "ENTITY",
+      "start": 506,
+      "end": 516
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 521,
+      "end": 526
+    },
+    {
+      "text": "laterally",
+      "type": "ENTITY",
+      "start": 532,
+      "end": 541
+    },
+    {
+      "text": "posterior",
+      "type": "ENTITY",
+      "start": 549,
+      "end": 558
+    },
+    {
+      "text": "eye",
+      "type": "ENTITY",
+      "start": 571,
+      "end": 574
+    },
+    {
+      "text": "microscopically",
+      "type": "ENTITY",
+      "start": 586,
+      "end": 601
+    },
+    {
+      "text": "tumor proliferation",
+      "type": "ENTITY",
+      "start": 607,
+      "end": 626
+    },
+    {
+      "text": "fusiform cells",
+      "type": "ENTITY",
+      "start": 630,
+      "end": 644
+    },
+    {
+      "text": "medium",
+      "type": "ENTITY",
+      "start": 653,
+      "end": 659
+    },
+    {
+      "text": "cytoplasm",
+      "type": "ENTITY",
+      "start": 685,
+      "end": 694
+    },
+    {
+      "text": "melanin",
+      "type": "ENTITY",
+      "start": 721,
+      "end": 728
+    },
+    {
+      "text": "pigment",
+      "type": "ENTITY",
+      "start": 729,
+      "end": 736
+    },
+    {
+      "text": "visualization",
+      "type": "ENTITY",
+      "start": 752,
+      "end": 765
+    },
+    {
+      "text": "nucleus",
+      "type": "ENTITY",
+      "start": 773,
+      "end": 780
+    },
+    {
+      "text": "analyze",
+      "type": "ENTITY",
+      "start": 813,
+      "end": 820
+    },
+    {
+      "text": "tumor proliferation",
+      "type": "ENTITY",
+      "start": 827,
+      "end": 846
+    },
+    {
+      "text": "adherent",
+      "type": "ENTITY",
+      "start": 850,
+      "end": 858
+    },
+    {
+      "text": "internal part",
+      "type": "ENTITY",
+      "start": 866,
+      "end": 879
+    },
+    {
+      "text": "sclera",
+      "type": "ENTITY",
+      "start": 887,
+      "end": 893
+    },
+    {
+      "text": "internal layers",
+      "type": "ENTITY",
+      "start": 900,
+      "end": 915
+    },
+    {
+      "text": "infiltrated",
+      "type": "ENTITY",
+      "start": 920,
+      "end": 931
+    },
+    {
+      "text": "extraocular",
+      "type": "ENTITY",
+      "start": 944,
+      "end": 955
+    },
+    {
+      "text": "infiltration",
+      "type": "ENTITY",
+      "start": 956,
+      "end": 968
+    },
+    {
+      "text": "tumor infiltrates",
+      "type": "ENTITY",
+      "start": 988,
+      "end": 1005
+    },
+    {
+      "text": "posterior",
+      "type": "ENTITY",
+      "start": 1010,
+      "end": 1019
+    },
+    {
+      "text": "ciliary body",
+      "type": "ENTITY",
+      "start": 1032,
+      "end": 1044
+    },
+    {
+      "text": "stays",
+      "type": "ENTITY",
+      "start": 1049,
+      "end": 1054
+    },
+    {
+      "text": "iris",
+      "type": "ENTITY",
+      "start": 1067,
+      "end": 1071
+    },
+    {
+      "text": "irido",
+      "type": "ENTITY",
+      "start": 1077,
+      "end": 1082
+    },
+    {
+      "text": "corneal angle",
+      "type": "ENTITY",
+      "start": 1083,
+      "end": 1096
+    },
+    {
+      "text": "anterior chamber",
+      "type": "ENTITY",
+      "start": 1105,
+      "end": 1121
+    },
+    {
+      "text": "Behind",
+      "type": "ENTITY",
+      "start": 1123,
+      "end": 1129
+    },
+    {
+      "text": "stays distant",
+      "type": "ENTITY",
+      "start": 1134,
+      "end": 1147
+    },
+    {
+      "text": "intraocular",
+      "type": "ENTITY",
+      "start": 1157,
+      "end": 1168
+    },
+    {
+      "text": "emergence",
+      "type": "ENTITY",
+      "start": 1169,
+      "end": 1178
+    },
+    {
+      "text": "optic nerve",
+      "type": "ENTITY",
+      "start": 1186,
+      "end": 1197
+    },
+    {
+      "text": "course",
+      "type": "ENTITY",
+      "start": 1226,
+      "end": 1232
+    },
+    {
+      "text": "prelaminar",
+      "type": "ENTITY",
+      "start": 1235,
+      "end": 1245
+    },
+    {
+      "text": "optic foramen",
+      "type": "ENTITY",
+      "start": 1252,
+      "end": 1265
+    },
+    {
+      "text": "post",
+      "type": "ENTITY",
+      "start": 1267,
+      "end": 1271
+    },
+    {
+      "text": "meningeal",
+      "type": "ENTITY",
+      "start": 1287,
+      "end": 1296
+    },
+    {
+      "text": "sheaths",
+      "type": "ENTITY",
+      "start": 1297,
+      "end": 1304
+    },
+    {
+      "text": "posterior cut end",
+      "type": "ENTITY",
+      "start": 1309,
+      "end": 1326
+    },
+    {
+      "text": "Melanoma",
+      "type": "ENTITY",
+      "start": 1341,
+      "end": 1349
+    },
+    {
+      "text": "fusiform cells",
+      "type": "ENTITY",
+      "start": 1355,
+      "end": 1369
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 1370,
+      "end": 1379
+    },
+    {
+      "text": "tumor infiltrates",
+      "type": "ENTITY",
+      "start": 1408,
+      "end": 1425
+    },
+    {
+      "text": "posterior",
+      "type": "ENTITY",
+      "start": 1439,
+      "end": 1448
+    },
+    {
+      "text": "ciliary body",
+      "type": "ENTITY",
+      "start": 1461,
+      "end": 1473
+    },
+    {
+      "text": "Behind",
+      "type": "ENTITY",
+      "start": 1474,
+      "end": 1480
+    },
+    {
+      "text": "proliferation",
+      "type": "ENTITY",
+      "start": 1486,
+      "end": 1499
+    },
+    {
+      "text": "intraocular",
+      "type": "ENTITY",
+      "start": 1523,
+      "end": 1534
+    },
+    {
+      "text": "emergence",
+      "type": "ENTITY",
+      "start": 1535,
+      "end": 1544
+    },
+    {
+      "text": "optic nerve",
+      "type": "ENTITY",
+      "start": 1552,
+      "end": 1563
+    },
+    {
+      "text": "course",
+      "type": "ENTITY",
+      "start": 1592,
+      "end": 1598
+    },
+    {
+      "text": "prelaminar",
+      "type": "ENTITY",
+      "start": 1601,
+      "end": 1611
+    },
+    {
+      "text": "optic foramen",
+      "type": "ENTITY",
+      "start": 1618,
+      "end": 1631
+    },
+    {
+      "text": "post",
+      "type": "ENTITY",
+      "start": 1633,
+      "end": 1637
+    },
+    {
+      "text": "meningeal",
+      "type": "ENTITY",
+      "start": 1653,
+      "end": 1662
+    },
+    {
+      "text": "sheaths",
+      "type": "ENTITY",
+      "start": 1663,
+      "end": 1670
+    },
+    {
+      "text": "posterior cut end",
+      "type": "ENTITY",
+      "start": 1675,
+      "end": 1692
+    },
+    {
+      "text": "tumor proliferation infiltrates",
+      "type": "ENTITY",
+      "start": 1699,
+      "end": 1730
+    },
+    {
+      "text": "internal layers",
+      "type": "ENTITY",
+      "start": 1735,
+      "end": 1750
+    },
+    {
+      "text": "sclera",
+      "type": "ENTITY",
+      "start": 1758,
+      "end": 1764
+    },
+    {
+      "text": "extra sclera",
+      "type": "ENTITY",
+      "start": 1772,
+      "end": 1784
+    },
+    {
+      "text": "extension",
+      "type": "ENTITY",
+      "start": 1785,
+      "end": 1794
+    },
+    {
+      "text": "UUID:9495F79F-3227",
+      "type": "ENTITY",
+      "start": 1806,
+      "end": 1824
+    },
+    {
+      "text": "454F-942C-05CEC7827385",
+      "type": "ENTITY",
+      "start": 1825,
+      "end": 1847
+    }
+  ],
+  "entity_count": 92,
+  "has_embedding": true
+}

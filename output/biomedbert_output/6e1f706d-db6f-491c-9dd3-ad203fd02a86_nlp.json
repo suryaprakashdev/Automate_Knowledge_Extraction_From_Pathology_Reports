@@ -1,0 +1,980 @@
+{
+  "filename": "6e1f706d-db6f-491c-9dd3-ad203fd02a86",
+  "timestamp": "2026-01-05T14:43:14.928721",
+  "entities": [
+    {
+      "text": "Pre-Op Diagnosis",
+      "type": "ENTITY",
+      "start": 25,
+      "end": 41
+    },
+    {
+      "text": "Dysplastic colon polyp",
+      "type": "ENTITY",
+      "start": 42,
+      "end": 64
+    },
+    {
+      "text": "colon mass",
+      "type": "ENTITY",
+      "start": 66,
+      "end": 76
+    },
+    {
+      "text": "Post-Op",
+      "type": "ENTITY",
+      "start": 77,
+      "end": 84
+    },
+    {
+      "text": "Diagnosis",
+      "type": "ENTITY",
+      "start": 85,
+      "end": 94
+    },
+    {
+      "text": "Clinical History",
+      "type": "ENTITY",
+      "start": 100,
+      "end": 116
+    },
+    {
+      "text": "requisition",
+      "type": "ENTITY",
+      "start": 138,
+      "end": 149
+    },
+    {
+      "text": "Container labeled",
+      "type": "ENTITY",
+      "start": 169,
+      "end": 186
+    },
+    {
+      "text": "extended",
+      "type": "ENTITY",
+      "start": 191,
+      "end": 199
+    },
+    {
+      "text": "right colon",
+      "type": "ENTITY",
+      "start": 200,
+      "end": 211
+    },
+    {
+      "text": "portion",
+      "type": "ENTITY",
+      "start": 244,
+      "end": 251
+    },
+    {
+      "text": "large",
+      "type": "ENTITY",
+      "start": 255,
+      "end": 260
+    },
+    {
+      "text": "cecum",
+      "type": "ENTITY",
+      "start": 277,
+      "end": 282
+    },
+    {
+      "text": "terminal",
+      "type": "ENTITY",
+      "start": 334,
+      "end": 342
+    },
+    {
+      "text": "ileum",
+      "type": "ENTITY",
+      "start": 343,
+      "end": 348
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 354,
+      "end": 362
+    },
+    {
+      "text": "moderate",
+      "type": "ENTITY",
+      "start": 379,
+      "end": 387
+    },
+    {
+      "text": "amount",
+      "type": "ENTITY",
+      "start": 388,
+      "end": 394
+    },
+    {
+      "text": "pericolic",
+      "type": "ENTITY",
+      "start": 398,
+      "end": 407
+    },
+    {
+      "text": "epiploic adipose tissue",
+      "type": "ENTITY",
+      "start": 412,
+      "end": 435
+    },
+    {
+      "text": "appendix",
+      "type": "ENTITY",
+      "start": 497,
+      "end": 505
+    },
+    {
+      "text": "identified",
+      "type": "ENTITY",
+      "start": 509,
+      "end": 519
+    },
+    {
+      "text": "visible serosa",
+      "type": "ENTITY",
+      "start": 525,
+      "end": 539
+    },
+    {
+      "text": "smooth",
+      "type": "ENTITY",
+      "start": 543,
+      "end": 549
+    },
+    {
+      "text": "gray tan",
+      "type": "ENTITY",
+      "start": 554,
+      "end": 562
+    },
+    {
+      "text": "Noted",
+      "type": "ENTITY",
+      "start": 564,
+      "end": 569
+    },
+    {
+      "text": "distal",
+      "type": "ENTITY",
+      "start": 611,
+      "end": 617
+    },
+    {
+      "text": "deep gray discoloration",
+      "type": "ENTITY",
+      "start": 645,
+      "end": 668
+    },
+    {
+      "text": "consistent with",
+      "type": "ENTITY",
+      "start": 669,
+      "end": 684
+    },
+    {
+      "text": "tattooing",
+      "type": "ENTITY",
+      "start": 685,
+      "end": 694
+    },
+    {
+      "text": "bowel wall",
+      "type": "ENTITY",
+      "start": 700,
+      "end": 710
+    },
+    {
+      "text": "edematous",
+      "type": "ENTITY",
+      "start": 728,
+      "end": 737
+    },
+    {
+      "text": "fibrotic",
+      "type": "ENTITY",
+      "start": 743,
+      "end": 751
+    },
+    {
+      "text": "lumen",
+      "type": "ENTITY",
+      "start": 757,
+      "end": 762
+    },
+    {
+      "text": "gray tan mucosa",
+      "type": "ENTITY",
+      "start": 775,
+      "end": 790
+    },
+    {
+      "text": "preservation",
+      "type": "ENTITY",
+      "start": 796,
+      "end": 808
+    },
+    {
+      "text": "intestinal",
+      "type": "ENTITY",
+      "start": 812,
+      "end": 822
+    },
+    {
+      "text": "folds",
+      "type": "ENTITY",
+      "start": 823,
+      "end": 828
+    },
+    {
+      "text": "Noted",
+      "type": "ENTITY",
+      "start": 830,
+      "end": 835
+    },
+    {
+      "text": "area",
+      "type": "ENTITY",
+      "start": 843,
+      "end": 847
+    },
+    {
+      "text": "tattooing",
+      "type": "ENTITY",
+      "start": 857,
+      "end": 866
+    },
+    {
+      "text": "distai",
+      "type": "ENTITY",
+      "start": 894,
+      "end": 900
+    },
+    {
+      "text": "margin",
+      "type": "ENTITY",
+      "start": 901,
+      "end": 907
+    },
+    {
+      "text": "sectioned",
+      "type": "ENTITY",
+      "start": 940,
+      "end": 949
+    },
+    {
+      "text": "finely",
+      "type": "ENTITY",
+      "start": 979,
+      "end": 985
+    },
+    {
+      "text": "granular",
+      "type": "ENTITY",
+      "start": 986,
+      "end": 994
+    },
+    {
+      "text": "centrally ulcerated gray brown plaque-like lesion",
+      "type": "ENTITY",
+      "start": 995,
+      "end": 1044
+    },
+    {
+      "text": "sectioning",
+      "type": "ENTITY",
+      "start": 1049,
+      "end": 1059
+    },
+    {
+      "text": "tan gritty",
+      "type": "ENTITY",
+      "start": 1071,
+      "end": 1081
+    },
+    {
+      "text": "fibrotic",
+      "type": "ENTITY",
+      "start": 1082,
+      "end": 1090
+    },
+    {
+      "text": "surface",
+      "type": "ENTITY",
+      "start": 1095,
+      "end": 1102
+    },
+    {
+      "text": "grossly",
+      "type": "ENTITY",
+      "start": 1107,
+      "end": 1114
+    },
+    {
+      "text": "muscle",
+      "type": "ENTITY",
+      "start": 1135,
+      "end": 1141
+    },
+    {
+      "text": "serosa",
+      "type": "ENTITY",
+      "start": 1169,
+      "end": 1175
+    },
+    {
+      "text": "gross lesions",
+      "type": "ENTITY",
+      "start": 1186,
+      "end": 1199
+    },
+    {
+      "text": "identified",
+      "type": "ENTITY",
+      "start": 1204,
+      "end": 1214
+    },
+    {
+      "text": "Sectioning",
+      "type": "ENTITY",
+      "start": 1216,
+      "end": 1226
+    },
+    {
+      "text": "surrounding",
+      "type": "ENTITY",
+      "start": 1231,
+      "end": 1242
+    },
+    {
+      "text": "adipose tissue",
+      "type": "ENTITY",
+      "start": 1243,
+      "end": 1257
+    },
+    {
+      "text": "tan gray",
+      "type": "ENTITY",
+      "start": 1287,
+      "end": 1295
+    },
+    {
+      "text": "pink nodules",
+      "type": "ENTITY",
+      "start": 1299,
+      "end": 1311
+    },
+    {
+      "text": "container",
+      "type": "ENTITY",
+      "start": 1352,
+      "end": 1361
+    },
+    {
+      "text": "tissue cassettes",
+      "type": "ENTITY",
+      "start": 1372,
+      "end": 1388
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 1394,
+      "end": 1401
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 1442,
+      "end": 1449
+    },
+    {
+      "text": "A",
+      "type": "ENTITY",
+      "start": 1462,
+      "end": 1463
+    },
+    {
+      "text": "proxmal margin",
+      "type": "ENTITY",
+      "start": 1466,
+      "end": 1480
+    },
+    {
+      "text": "B",
+      "type": "ENTITY",
+      "start": 1482,
+      "end": 1483
+    },
+    {
+      "text": "distal",
+      "type": "ENTITY",
+      "start": 1486,
+      "end": 1492
+    },
+    {
+      "text": "margin",
+      "type": "ENTITY",
+      "start": 1493,
+      "end": 1499
+    },
+    {
+      "text": "C",
+      "type": "ENTITY",
+      "start": 1501,
+      "end": 1502
+    },
+    {
+      "text": "F",
+      "type": "ENTITY",
+      "start": 1511,
+      "end": 1512
+    },
+    {
+      "text": "entire",
+      "type": "ENTITY",
+      "start": 1515,
+      "end": 1521
+    },
+    {
+      "text": "lesion",
+      "type": "ENTITY",
+      "start": 1532,
+      "end": 1538
+    },
+    {
+      "text": "tissue",
+      "type": "ENTITY",
+      "start": 1554,
+      "end": 1560
+    },
+    {
+      "text": "G",
+      "type": "ENTITY",
+      "start": 1562,
+      "end": 1563
+    },
+    {
+      "text": "random",
+      "type": "ENTITY",
+      "start": 1566,
+      "end": 1572
+    },
+    {
+      "text": "uninvolved bowel",
+      "type": "ENTITY",
+      "start": 1573,
+      "end": 1589
+    },
+    {
+      "text": "H",
+      "type": "ENTITY",
+      "start": 1591,
+      "end": 1592
+    },
+    {
+      "text": "appendix",
+      "type": "ENTITY",
+      "start": 1595,
+      "end": 1603
+    },
+    {
+      "text": "K",
+      "type": "ENTITY",
+      "start": 1615,
+      "end": 1616
+    },
+    {
+      "text": "nodules",
+      "type": "ENTITY",
+      "start": 1619,
+      "end": 1626
+    },
+    {
+      "text": "pericolic fat",
+      "type": "ENTITY",
+      "start": 1632,
+      "end": 1645
+    },
+    {
+      "text": "Description",
+      "type": "ENTITY",
+      "start": 1675,
+      "end": 1686
+    },
+    {
+      "text": "slides labeled",
+      "type": "ENTITY",
+      "start": 1692,
+      "end": 1706
+    },
+    {
+      "text": "examined",
+      "type": "ENTITY",
+      "start": 1711,
+      "end": 1719
+    },
+    {
+      "text": "diagnosis",
+      "type": "ENTITY",
+      "start": 1725,
+      "end": 1734
+    },
+    {
+      "text": "Final",
+      "type": "ENTITY",
+      "start": 1735,
+      "end": 1740
+    },
+    {
+      "text": "Diagnosis",
+      "type": "ENTITY",
+      "start": 1741,
+      "end": 1750
+    },
+    {
+      "text": "Terminal",
+      "type": "ENTITY",
+      "start": 1752,
+      "end": 1760
+    },
+    {
+      "text": "ileum",
+      "type": "ENTITY",
+      "start": 1761,
+      "end": 1766
+    },
+    {
+      "text": "appendix",
+      "type": "ENTITY",
+      "start": 1768,
+      "end": 1776
+    },
+    {
+      "text": "right colon",
+      "type": "ENTITY",
+      "start": 1782,
+      "end": 1793
+    },
+    {
+      "text": "Terminal",
+      "type": "ENTITY",
+      "start": 1795,
+      "end": 1803
+    },
+    {
+      "text": "ileum",
+      "type": "ENTITY",
+      "start": 1804,
+      "end": 1809
+    },
+    {
+      "text": "No carcinoma",
+      "type": "ENTITY",
+      "start": 1811,
+      "end": 1823
+    },
+    {
+      "text": "identified",
+      "type": "ENTITY",
+      "start": 1827,
+      "end": 1837
+    },
+    {
+      "text": "PAS",
+      "type": "ENTITY",
+      "start": 1839,
+      "end": 1842
+    },
+    {
+      "text": "Appendix",
+      "type": "ENTITY",
+      "start": 1845,
+      "end": 1853
+    },
+    {
+      "text": "Fibrous obliteration",
+      "type": "ENTITY",
+      "start": 1855,
+      "end": 1875
+    },
+    {
+      "text": "luminal tip",
+      "type": "ENTITY",
+      "start": 1883,
+      "end": 1894
+    },
+    {
+      "text": "carcinoma",
+      "type": "ENTITY",
+      "start": 1899,
+      "end": 1908
+    },
+    {
+      "text": "identified",
+      "type": "ENTITY",
+      "start": 1909,
+      "end": 1919
+    },
+    {
+      "text": "PAS",
+      "type": "ENTITY",
+      "start": 1921,
+      "end": 1924
+    },
+    {
+      "text": "Colon",
+      "type": "ENTITY",
+      "start": 1927,
+      "end": 1932
+    },
+    {
+      "text": "Tumor",
+      "type": "ENTITY",
+      "start": 1934,
+      "end": 1939
+    },
+    {
+      "text": "characteristics",
+      "type": "ENTITY",
+      "start": 1940,
+      "end": 1955
+    },
+    {
+      "text": "Histologic type",
+      "type": "ENTITY",
+      "start": 1958,
+      "end": 1973
+    },
+    {
+      "text": "Adenocarcinoma",
+      "type": "ENTITY",
+      "start": 1975,
+      "end": 1989
+    },
+    {
+      "text": "Location",
+      "type": "ENTITY",
+      "start": 1992,
+      "end": 2000
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 2004,
+      "end": 2009
+    },
+    {
+      "text": "distal",
+      "type": "ENTITY",
+      "start": 2027,
+      "end": 2033
+    },
+    {
+      "text": "surgical margin",
+      "type": "ENTITY",
+      "start": 2034,
+      "end": 2049
+    },
+    {
+      "text": "dimension",
+      "type": "ENTITY",
+      "start": 2083,
+      "end": 2092
+    },
+    {
+      "text": "differentiated",
+      "type": "ENTITY",
+      "start": 2112,
+      "end": 2126
+    },
+    {
+      "text": "Lymphovascular space invasion",
+      "type": "ENTITY",
+      "start": 2129,
+      "end": 2158
+    },
+    {
+      "text": "invasion",
+      "type": "ENTITY",
+      "start": 2197,
+      "end": 2205
+    },
+    {
+      "text": "identified",
+      "type": "ENTITY",
+      "start": 2206,
+      "end": 2216
+    },
+    {
+      "text": "Perforation",
+      "type": "ENTITY",
+      "start": 2218,
+      "end": 2229
+    },
+    {
+      "text": "Visceral",
+      "type": "ENTITY",
+      "start": 2233,
+      "end": 2241
+    },
+    {
+      "text": "peritoneum",
+      "type": "ENTITY",
+      "start": 2242,
+      "end": 2252
+    },
+    {
+      "text": "mesenteric deposits",
+      "type": "ENTITY",
+      "start": 2269,
+      "end": 2288
+    },
+    {
+      "text": "No. Depth of invasion",
+      "type": "ENTITY",
+      "start": 2290,
+      "end": 2311
+    },
+    {
+      "text": "Carcinoma",
+      "type": "ENTITY",
+      "start": 2313,
+      "end": 2322
+    },
+    {
+      "text": "extends",
+      "type": "ENTITY",
+      "start": 2323,
+      "end": 2330
+    },
+    {
+      "text": "muscularis propria",
+      "type": "ENTITY",
+      "start": 2339,
+      "end": 2357
+    },
+    {
+      "text": "focally",
+      "type": "ENTITY",
+      "start": 2358,
+      "end": 2365
+    },
+    {
+      "text": "subserosal",
+      "type": "ENTITY",
+      "start": 2371,
+      "end": 2381
+    },
+    {
+      "text": "Surgical Margin Status",
+      "type": "ENTITY",
+      "start": 2398,
+      "end": 2420
+    },
+    {
+      "text": "Proximal Margin",
+      "type": "ENTITY",
+      "start": 2423,
+      "end": 2438
+    },
+    {
+      "text": "No carcinoma",
+      "type": "ENTITY",
+      "start": 2440,
+      "end": 2452
+    },
+    {
+      "text": "identified",
+      "type": "ENTITY",
+      "start": 2453,
+      "end": 2463
+    },
+    {
+      "text": "Distal Margin",
+      "type": "ENTITY",
+      "start": 2465,
+      "end": 2478
+    },
+    {
+      "text": "No carcinoma",
+      "type": "ENTITY",
+      "start": 2480,
+      "end": 2492
+    },
+    {
+      "text": "identified",
+      "type": "ENTITY",
+      "start": 2493,
+      "end": 2503
+    },
+    {
+      "text": "Radial Margin",
+      "type": "ENTITY",
+      "start": 2505,
+      "end": 2518
+    },
+    {
+      "text": "No carcinoma",
+      "type": "ENTITY",
+      "start": 2520,
+      "end": 2532
+    },
+    {
+      "text": "identified",
+      "type": "ENTITY",
+      "start": 2533,
+      "end": 2543
+    },
+    {
+      "text": "Distance",
+      "type": "ENTITY",
+      "start": 2545,
+      "end": 2553
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 2557,
+      "end": 2562
+    },
+    {
+      "text": "mucosal",
+      "type": "ENTITY",
+      "start": 2576,
+      "end": 2583
+    },
+    {
+      "text": "surgical margin",
+      "type": "ENTITY",
+      "start": 2584,
+      "end": 2599
+    },
+    {
+      "text": "Lymph Node Status",
+      "type": "ENTITY",
+      "start": 2609,
+      "end": 2626
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 2644,
+      "end": 2655
+    },
+    {
+      "text": "examined",
+      "type": "ENTITY",
+      "start": 2656,
+      "end": 2664
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 2685,
+      "end": 2696
+    },
+    {
+      "text": "metastatic carcinoma",
+      "type": "ENTITY",
+      "start": 2702,
+      "end": 2722
+    },
+    {
+      "text": "PAS",
+      "type": "ENTITY",
+      "start": 2733,
+      "end": 2736
+    },
+    {
+      "text": "Macrophages",
+      "type": "ENTITY",
+      "start": 2746,
+      "end": 2757
+    },
+    {
+      "text": "brownish",
+      "type": "ENTITY",
+      "start": 2769,
+      "end": 2777
+    },
+    {
+      "text": "pigment",
+      "type": "ENTITY",
+      "start": 2796,
+      "end": 2803
+    },
+    {
+      "text": "consistent with",
+      "type": "ENTITY",
+      "start": 2804,
+      "end": 2819
+    },
+    {
+      "text": "tattoo",
+      "type": "ENTITY",
+      "start": 2826,
+      "end": 2832
+    },
+    {
+      "text": "PAS2",
+      "type": "ENTITY",
+      "start": 2834,
+      "end": 2838
+    },
+    {
+      "text": "SPC-NP",
+      "type": "ENTITY",
+      "start": 2839,
+      "end": 2845
+    },
+    {
+      "text": "pT3N0 CPT",
+      "type": "ENTITY",
+      "start": 2853,
+      "end": 2862
+    },
+    {
+      "text": "Comments",
+      "type": "ENTITY",
+      "start": 2870,
+      "end": 2878
+    },
+    {
+      "text": "undersigned pathologist",
+      "type": "ENTITY",
+      "start": 2901,
+      "end": 2924
+    },
+    {
+      "text": "slides",
+      "type": "ENTITY",
+      "start": 2932,
+      "end": 2938
+    },
+    {
+      "text": "reviewed",
+      "type": "ENTITY",
+      "start": 2962,
+      "end": 2970
+    },
+    {
+      "text": "Dr.  * who",
+      "type": "ENTITY",
+      "start": 2974,
+      "end": 2984
+    },
+    {
+      "text": "diagnosis",
+      "type": "ENTITY",
+      "start": 3002,
+      "end": 3011
+    }
+  ],
+  "entity_count": 162,
+  "has_embedding": true
+}

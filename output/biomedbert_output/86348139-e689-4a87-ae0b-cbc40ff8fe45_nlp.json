@@ -1,0 +1,782 @@
+{
+  "filename": "86348139-e689-4a87-ae0b-cbc40ff8fe45",
+  "timestamp": "2026-01-05T14:42:01.034856",
+  "entities": [
+    {
+      "text": "D.O.B.",
+      "type": "ENTITY",
+      "start": 23,
+      "end": 29
+    },
+    {
+      "text": "INF",
+      "type": "ENTITY",
+      "start": 40,
+      "end": 43
+    },
+    {
+      "text": "ORMA HION",
+      "type": "ENTITY",
+      "start": 44,
+      "end": 53
+    },
+    {
+      "text": "Collected",
+      "type": "ENTITY",
+      "start": 54,
+      "end": 63
+    },
+    {
+      "text": "Reported",
+      "type": "ENTITY",
+      "start": 102,
+      "end": 110
+    },
+    {
+      "text": "SURGICAI",
+      "type": "ENTITY",
+      "start": 112,
+      "end": 120
+    },
+    {
+      "text": "UUID",
+      "type": "ENTITY",
+      "start": 139,
+      "end": 143
+    },
+    {
+      "text": "Redacted DIAGNOSIS DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 202,
+      "end": 230
+    },
+    {
+      "text": "A. Right",
+      "type": "ENTITY",
+      "start": 232,
+      "end": 240
+    },
+    {
+      "text": "axillary sentinel lymph node",
+      "type": "ENTITY",
+      "start": 241,
+      "end": 269
+    },
+    {
+      "text": "lymph node",
+      "type": "ENTITY",
+      "start": 275,
+      "end": 285
+    },
+    {
+      "text": "metastatic carcinoma",
+      "type": "ENTITY",
+      "start": 302,
+      "end": 322
+    },
+    {
+      "text": "Conflrms",
+      "type": "ENTITY",
+      "start": 325,
+      "end": 333
+    },
+    {
+      "text": "frozen sectlon",
+      "type": "ENTITY",
+      "start": 334,
+      "end": 348
+    },
+    {
+      "text": "dlagnosis",
+      "type": "ENTITY",
+      "start": 349,
+      "end": 358
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 376,
+      "end": 384
+    },
+    {
+      "text": "staining",
+      "type": "ENTITY",
+      "start": 385,
+      "end": 393
+    },
+    {
+      "text": "pancytokeratin",
+      "type": "ENTITY",
+      "start": 398,
+      "end": 412
+    },
+    {
+      "text": "Architectural score",
+      "type": "ENTITY",
+      "start": 455,
+      "end": 474
+    },
+    {
+      "text": "Nuclear score",
+      "type": "ENTITY",
+      "start": 484,
+      "end": 497
+    },
+    {
+      "text": "Mitotic score",
+      "type": "ENTITY",
+      "start": 507,
+      "end": 520
+    },
+    {
+      "text": "grade 2 Carcinoma",
+      "type": "ENTITY",
+      "start": 552,
+      "end": 569
+    },
+    {
+      "text": "portions",
+      "type": "ENTITY",
+      "start": 579,
+      "end": 587
+    },
+    {
+      "text": "nipple",
+      "type": "ENTITY",
+      "start": 595,
+      "end": 601
+    },
+    {
+      "text": "invotvement",
+      "type": "ENTITY",
+      "start": 618,
+      "end": 629
+    },
+    {
+      "text": "overlying epidermis",
+      "type": "ENTITY",
+      "start": 637,
+      "end": 656
+    },
+    {
+      "text": "Deep margin",
+      "type": "ENTITY",
+      "start": 659,
+      "end": 670
+    },
+    {
+      "text": "excision",
+      "type": "ENTITY",
+      "start": 674,
+      "end": 682
+    },
+    {
+      "text": "free of carcinoma",
+      "type": "ENTITY",
+      "start": 686,
+      "end": 703
+    },
+    {
+      "text": "MX",
+      "type": "ENTITY",
+      "start": 738,
+      "end": 740
+    },
+    {
+      "text": "Electronlc",
+      "type": "ENTITY",
+      "start": 742,
+      "end": 752
+    },
+    {
+      "text": "Signature",
+      "type": "ENTITY",
+      "start": 753,
+      "end": 762
+    },
+    {
+      "text": "CLINICAL INFORMATION",
+      "type": "ENTITY",
+      "start": 764,
+      "end": 784
+    },
+    {
+      "text": "Preoperative",
+      "type": "ENTITY",
+      "start": 803,
+      "end": 815
+    },
+    {
+      "text": "Dlagnosis",
+      "type": "ENTITY",
+      "start": 816,
+      "end": 825
+    },
+    {
+      "text": "Right modified radical mastectomy",
+      "type": "ENTITY",
+      "start": 827,
+      "end": 860
+    },
+    {
+      "text": "sentinel node mapping",
+      "type": "ENTITY",
+      "start": 866,
+      "end": 887
+    },
+    {
+      "text": "frozen section",
+      "type": "ENTITY",
+      "start": 893,
+      "end": 907
+    },
+    {
+      "text": "Invasive Iobular carcinoma",
+      "type": "ENTITY",
+      "start": 909,
+      "end": 935
+    },
+    {
+      "text": "ER",
+      "type": "ENTITY",
+      "start": 937,
+      "end": 939
+    },
+    {
+      "text": "positive",
+      "type": "ENTITY",
+      "start": 940,
+      "end": 948
+    },
+    {
+      "text": "PR",
+      "type": "ENTITY",
+      "start": 950,
+      "end": 952
+    },
+    {
+      "text": "positive",
+      "type": "ENTITY",
+      "start": 954,
+      "end": 962
+    },
+    {
+      "text": "Ki-67",
+      "type": "ENTITY",
+      "start": 964,
+      "end": 969
+    },
+    {
+      "text": "MIB1",
+      "type": "ENTITY",
+      "start": 971,
+      "end": 975
+    },
+    {
+      "text": "high",
+      "type": "ENTITY",
+      "start": 977,
+      "end": 981
+    },
+    {
+      "text": "Postoperative",
+      "type": "ENTITY",
+      "start": 989,
+      "end": 1002
+    },
+    {
+      "text": "Diagnosk",
+      "type": "ENTITY",
+      "start": 1003,
+      "end": 1011
+    },
+    {
+      "text": "Findings",
+      "type": "ENTITY",
+      "start": 1041,
+      "end": 1049
+    },
+    {
+      "text": "A. Right",
+      "type": "ENTITY",
+      "start": 1062,
+      "end": 1070
+    },
+    {
+      "text": "axillary sentinel node",
+      "type": "ENTITY",
+      "start": 1071,
+      "end": 1093
+    },
+    {
+      "text": "frozen section",
+      "type": "ENTITY",
+      "start": 1105,
+      "end": 1119
+    },
+    {
+      "text": "S/H",
+      "type": "ENTITY",
+      "start": 1121,
+      "end": 1124
+    },
+    {
+      "text": "brnst",
+      "type": "ENTITY",
+      "start": 1126,
+      "end": 1131
+    },
+    {
+      "text": "Right breast 5/07\"",
+      "type": "ENTITY",
+      "start": 1145,
+      "end": 1163
+    },
+    {
+      "text": "DALA",
+      "type": "ENTITY",
+      "start": 1173,
+      "end": 1177
+    },
+    {
+      "text": "GROSS DESCRIPTION",
+      "type": "ENTITY",
+      "start": 1178,
+      "end": 1195
+    },
+    {
+      "text": "Tho",
+      "type": "ENTITY",
+      "start": 1197,
+      "end": 1200
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1201,
+      "end": 1209
+    },
+    {
+      "text": "containers",
+      "type": "ENTITY",
+      "start": 1229,
+      "end": 1239
+    },
+    {
+      "text": "labaled",
+      "type": "ENTITY",
+      "start": 1241,
+      "end": 1248
+    },
+    {
+      "text": "patlent's name",
+      "type": "ENTITY",
+      "start": 1258,
+      "end": 1272
+    },
+    {
+      "text": "Container A",
+      "type": "ENTITY",
+      "start": 1274,
+      "end": 1285
+    },
+    {
+      "text": "firm",
+      "type": "ENTITY",
+      "start": 1376,
+      "end": 1380
+    },
+    {
+      "text": "fattv nodule",
+      "type": "ENTITY",
+      "start": 1382,
+      "end": 1394
+    },
+    {
+      "text": "bisected",
+      "type": "ENTITY",
+      "start": 1402,
+      "end": 1410
+    },
+    {
+      "text": "entireiy",
+      "type": "ENTITY",
+      "start": 1415,
+      "end": 1423
+    },
+    {
+      "text": "frozen section",
+      "type": "ENTITY",
+      "start": 1438,
+      "end": 1452
+    },
+    {
+      "text": "residual",
+      "type": "ENTITY",
+      "start": 1458,
+      "end": 1466
+    },
+    {
+      "text": "permanent section",
+      "type": "ENTITY",
+      "start": 1495,
+      "end": 1512
+    },
+    {
+      "text": "cassette A",
+      "type": "ENTITY",
+      "start": 1516,
+      "end": 1526
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 1528,
+      "end": 1535
+    },
+    {
+      "text": "Container B",
+      "type": "ENTITY",
+      "start": 1538,
+      "end": 1549
+    },
+    {
+      "text": "fomalin",
+      "type": "ENTITY",
+      "start": 1567,
+      "end": 1574
+    },
+    {
+      "text": "contalns",
+      "type": "ENTITY",
+      "start": 1617,
+      "end": 1625
+    },
+    {
+      "text": "speckmen",
+      "type": "ENTITY",
+      "start": 1679,
+      "end": 1687
+    },
+    {
+      "text": "elipse",
+      "type": "ENTITY",
+      "start": 1728,
+      "end": 1734
+    },
+    {
+      "text": "pink-tan wrinkied",
+      "type": "ENTITY",
+      "start": 1738,
+      "end": 1755
+    },
+    {
+      "text": "deep margin",
+      "type": "ENTITY",
+      "start": 1820,
+      "end": 1831
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1851,
+      "end": 1859
+    },
+    {
+      "text": "roveal",
+      "type": "ENTITY",
+      "start": 1885,
+      "end": 1891
+    },
+    {
+      "text": "ill-definod",
+      "type": "ENTITY",
+      "start": 1914,
+      "end": 1925
+    },
+    {
+      "text": "gray-white gritty mass",
+      "type": "ENTITY",
+      "start": 1927,
+      "end": 1949
+    },
+    {
+      "text": "resides",
+      "type": "ENTITY",
+      "start": 1955,
+      "end": 1962
+    },
+    {
+      "text": "deep margin",
+      "type": "ENTITY",
+      "start": 1979,
+      "end": 1990
+    },
+    {
+      "text": "skin surface",
+      "type": "ENTITY",
+      "start": 2012,
+      "end": 2024
+    },
+    {
+      "text": "cut surface",
+      "type": "ENTITY",
+      "start": 2047,
+      "end": 2058
+    },
+    {
+      "text": "yellow-tan",
+      "type": "ENTITY",
+      "start": 2075,
+      "end": 2085
+    },
+    {
+      "text": "adlpose tissue",
+      "type": "ENTITY",
+      "start": 2086,
+      "end": 2100
+    },
+    {
+      "text": "admixed",
+      "type": "ENTITY",
+      "start": 2101,
+      "end": 2108
+    },
+    {
+      "text": "moderate",
+      "type": "ENTITY",
+      "start": 2114,
+      "end": 2122
+    },
+    {
+      "text": "amount",
+      "type": "ENTITY",
+      "start": 2123,
+      "end": 2129
+    },
+    {
+      "text": "Af iniarenereed",
+      "type": "ENTITY",
+      "start": 2130,
+      "end": 2145
+    },
+    {
+      "text": "gray-white",
+      "type": "ENTITY",
+      "start": 2147,
+      "end": 2157
+    },
+    {
+      "text": "Aibrous",
+      "type": "ENTITY",
+      "start": 2158,
+      "end": 2165
+    },
+    {
+      "text": "masses",
+      "type": "ENTITY",
+      "start": 2185,
+      "end": 2191
+    },
+    {
+      "text": "identfiod",
+      "type": "ENTITY",
+      "start": 2200,
+      "end": 2209
+    },
+    {
+      "text": "Representative sections",
+      "type": "ENTITY",
+      "start": 2211,
+      "end": 2234
+    },
+    {
+      "text": "cassettes",
+      "type": "ENTITY",
+      "start": 2252,
+      "end": 2261
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 2269,
+      "end": 2276
+    },
+    {
+      "text": "nlpple",
+      "type": "ENTITY",
+      "start": 2308,
+      "end": 2314
+    },
+    {
+      "text": "Inked",
+      "type": "ENTITY",
+      "start": 2321,
+      "end": 2326
+    },
+    {
+      "text": "deep margin",
+      "type": "ENTITY",
+      "start": 2327,
+      "end": 2338
+    },
+    {
+      "text": "perpendicular",
+      "type": "ENTITY",
+      "start": 2340,
+      "end": 2353
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 2362,
+      "end": 2366
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 2376,
+      "end": 2384
+    },
+    {
+      "text": "uninvolved",
+      "type": "ENTITY",
+      "start": 2400,
+      "end": 2410
+    },
+    {
+      "text": "quadrants",
+      "type": "ENTITY",
+      "start": 2411,
+      "end": 2420
+    },
+    {
+      "text": "yellow",
+      "type": "ENTITY",
+      "start": 2437,
+      "end": 2443
+    },
+    {
+      "text": "green cassette",
+      "type": "ENTITY",
+      "start": 2448,
+      "end": 2462
+    },
+    {
+      "text": "genomics",
+      "type": "ENTITY",
+      "start": 2481,
+      "end": 2489
+    },
+    {
+      "text": "research",
+      "type": "ENTITY",
+      "start": 2490,
+      "end": 2498
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 2505,
+      "end": 2512
+    },
+    {
+      "text": "CONSULTATION",
+      "type": "ENTITY",
+      "start": 2529,
+      "end": 2541
+    },
+    {
+      "text": "A. FROZEN SECTION",
+      "type": "ENTITY",
+      "start": 2543,
+      "end": 2560
+    },
+    {
+      "text": "DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 2561,
+      "end": 2570
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 2586,
+      "end": 2591
+    },
+    {
+      "text": "sentinel node",
+      "type": "ENTITY",
+      "start": 2605,
+      "end": 2618
+    },
+    {
+      "text": "microscopic glands",
+      "type": "ENTITY",
+      "start": 2638,
+      "end": 2656
+    },
+    {
+      "text": "outer layer",
+      "type": "ENTITY",
+      "start": 2664,
+      "end": 2675
+    },
+    {
+      "text": "fibrous capsule",
+      "type": "ENTITY",
+      "start": 2683,
+      "end": 2698
+    },
+    {
+      "text": "node",
+      "type": "ENTITY",
+      "start": 2706,
+      "end": 2710
+    },
+    {
+      "text": "benign glandular",
+      "type": "ENTITY",
+      "start": 2729,
+      "end": 2745
+    },
+    {
+      "text": "Thoy",
+      "type": "ENTITY",
+      "start": 2760,
+      "end": 2764
+    },
+    {
+      "text": "stain",
+      "type": "ENTITY",
+      "start": 2765,
+      "end": 2770
+    },
+    {
+      "text": "cytokeratin",
+      "type": "ENTITY",
+      "start": 2776,
+      "end": 2787
+    },
+    {
+      "text": "invasive",
+      "type": "ENTITY",
+      "start": 2818,
+      "end": 2826
+    },
+    {
+      "text": "lobular carcinoma",
+      "type": "ENTITY",
+      "start": 2827,
+      "end": 2844
+    },
+    {
+      "text": "cells",
+      "type": "ENTITY",
+      "start": 2845,
+      "end": 2850
+    }
+  ],
+  "entity_count": 129,
+  "has_embedding": true
+}

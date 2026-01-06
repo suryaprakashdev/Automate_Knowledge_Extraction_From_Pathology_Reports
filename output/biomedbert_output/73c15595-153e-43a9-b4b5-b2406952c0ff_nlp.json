@@ -1,0 +1,1094 @@
+{
+  "filename": "73c15595-153e-43a9-b4b5-b2406952c0ff",
+  "timestamp": "2026-01-05T14:41:31.625823",
+  "entities": [
+    {
+      "text": "Symptoms",
+      "type": "ENTITY",
+      "start": 64,
+      "end": 72
+    },
+    {
+      "text": "Weight lss H",
+      "type": "ENTITY",
+      "start": 74,
+      "end": 86
+    },
+    {
+      "text": "emmtia",
+      "type": "ENTITY",
+      "start": 87,
+      "end": 93
+    },
+    {
+      "text": "Performance Scale",
+      "type": "ENTITY",
+      "start": 113,
+      "end": 130
+    },
+    {
+      "text": "Asymptomatic",
+      "type": "ENTITY",
+      "start": 155,
+      "end": 167
+    },
+    {
+      "text": "Symptomatic",
+      "type": "ENTITY",
+      "start": 174,
+      "end": 185
+    },
+    {
+      "text": "Symptomatic",
+      "type": "ENTITY",
+      "start": 213,
+      "end": 224
+    },
+    {
+      "text": "day",
+      "type": "ENTITY",
+      "start": 249,
+      "end": 252
+    },
+    {
+      "text": "Symptomatic",
+      "type": "ENTITY",
+      "start": 259,
+      "end": 270
+    },
+    {
+      "text": "day",
+      "type": "ENTITY",
+      "start": 296,
+      "end": 299
+    },
+    {
+      "text": "bed ridden",
+      "type": "ENTITY",
+      "start": 308,
+      "end": 318
+    },
+    {
+      "text": "Bed Ridden CURRENT",
+      "type": "ENTITY",
+      "start": 325,
+      "end": 343
+    },
+    {
+      "text": "Drug Dose",
+      "type": "ENTITY",
+      "start": 356,
+      "end": 365
+    },
+    {
+      "text": "Route Frequency Date",
+      "type": "ENTITY",
+      "start": 366,
+      "end": 386
+    },
+    {
+      "text": "mm/dd/yyyy",
+      "type": "ENTITY",
+      "start": 388,
+      "end": 398
+    },
+    {
+      "text": "To",
+      "type": "ENTITY",
+      "start": 408,
+      "end": 410
+    },
+    {
+      "text": "To",
+      "type": "ENTITY",
+      "start": 413,
+      "end": 415
+    },
+    {
+      "text": "To\n\n",
+      "type": "ENTITY",
+      "start": 418,
+      "end": 422
+    },
+    {
+      "text": "Diagnosis/Disease/Disorder/Injury",
+      "type": "ENTITY",
+      "start": 458,
+      "end": 491
+    },
+    {
+      "text": "Diagnosis",
+      "type": "ENTITY",
+      "start": 492,
+      "end": 501
+    },
+    {
+      "text": "Date Treatment",
+      "type": "ENTITY",
+      "start": 502,
+      "end": 516
+    },
+    {
+      "text": "Status Menopausal Status",
+      "type": "ENTITY",
+      "start": 517,
+      "end": 541
+    },
+    {
+      "text": "Pre-menopausal",
+      "type": "ENTITY",
+      "start": 542,
+      "end": 556
+    },
+    {
+      "text": "Post-menopausal Birth Control",
+      "type": "ENTITY",
+      "start": 573,
+      "end": 602
+    },
+    {
+      "text": "Contraceptive",
+      "type": "ENTITY",
+      "start": 615,
+      "end": 628
+    },
+    {
+      "text": "IUD",
+      "type": "ENTITY",
+      "start": 629,
+      "end": 632
+    },
+    {
+      "text": "Therapy",
+      "type": "ENTITY",
+      "start": 662,
+      "end": 669
+    },
+    {
+      "text": "SOCIAL HISTORY",
+      "type": "ENTITY",
+      "start": 671,
+      "end": 685
+    },
+    {
+      "text": "Occupation",
+      "type": "ENTITY",
+      "start": 686,
+      "end": 696
+    },
+    {
+      "text": "Environmental Hazards",
+      "type": "ENTITY",
+      "start": 698,
+      "end": 719
+    },
+    {
+      "text": "Smoking History",
+      "type": "ENTITY",
+      "start": 721,
+      "end": 736
+    },
+    {
+      "text": "Status TYPE Packs/day Duration",
+      "type": "ENTITY",
+      "start": 745,
+      "end": 775
+    },
+    {
+      "text": "Quit YES NO yrs",
+      "type": "ENTITY",
+      "start": 781,
+      "end": 796
+    },
+    {
+      "text": "Alcohol Consumption Current",
+      "type": "ENTITY",
+      "start": 800,
+      "end": 827
+    },
+    {
+      "text": "Status TYPE",
+      "type": "ENTITY",
+      "start": 828,
+      "end": 839
+    },
+    {
+      "text": "Duration",
+      "type": "ENTITY",
+      "start": 851,
+      "end": 859
+    },
+    {
+      "text": "Quit YES",
+      "type": "ENTITY",
+      "start": 865,
+      "end": 873
+    },
+    {
+      "text": "SNO",
+      "type": "ENTITY",
+      "start": 874,
+      "end": 877
+    },
+    {
+      "text": "yrs",
+      "type": "ENTITY",
+      "start": 878,
+      "end": 881
+    },
+    {
+      "text": "Drug Use Current",
+      "type": "ENTITY",
+      "start": 885,
+      "end": 901
+    },
+    {
+      "text": "Status TYPE Frequency Duration",
+      "type": "ENTITY",
+      "start": 902,
+      "end": 932
+    },
+    {
+      "text": "Quit YES NO yrs",
+      "type": "ENTITY",
+      "start": 938,
+      "end": 953
+    },
+    {
+      "text": "FAMILYMEDICAL",
+      "type": "ENTITY",
+      "start": 957,
+      "end": 970
+    },
+    {
+      "text": "Relative Diagnosis",
+      "type": "ENTITY",
+      "start": 979,
+      "end": 997
+    },
+    {
+      "text": "Age",
+      "type": "ENTITY",
+      "start": 998,
+      "end": 1001
+    },
+    {
+      "text": "Diagnosis",
+      "type": "ENTITY",
+      "start": 1005,
+      "end": 1014
+    },
+    {
+      "text": "Date HIV",
+      "type": "ENTITY",
+      "start": 1047,
+      "end": 1055
+    },
+    {
+      "text": "Negative",
+      "type": "ENTITY",
+      "start": 1056,
+      "end": 1064
+    },
+    {
+      "text": "Positive",
+      "type": "ENTITY",
+      "start": 1065,
+      "end": 1073
+    },
+    {
+      "text": "CEA",
+      "type": "ENTITY",
+      "start": 1075,
+      "end": 1078
+    },
+    {
+      "text": "Negative",
+      "type": "ENTITY",
+      "start": 1079,
+      "end": 1087
+    },
+    {
+      "text": "Positive",
+      "type": "ENTITY",
+      "start": 1088,
+      "end": 1096
+    },
+    {
+      "text": "Hep B",
+      "type": "ENTITY",
+      "start": 1098,
+      "end": 1103
+    },
+    {
+      "text": "Negative",
+      "type": "ENTITY",
+      "start": 1132,
+      "end": 1140
+    },
+    {
+      "text": "Positive",
+      "type": "ENTITY",
+      "start": 1141,
+      "end": 1149
+    },
+    {
+      "text": "Hep C Negative Positive",
+      "type": "ENTITY",
+      "start": 1151,
+      "end": 1174
+    },
+    {
+      "text": "Negative",
+      "type": "ENTITY",
+      "start": 1184,
+      "end": 1192
+    },
+    {
+      "text": "Positive",
+      "type": "ENTITY",
+      "start": 1193,
+      "end": 1201
+    },
+    {
+      "text": "AFP",
+      "type": "ENTITY",
+      "start": 1203,
+      "end": 1206
+    },
+    {
+      "text": "Negative",
+      "type": "ENTITY",
+      "start": 1207,
+      "end": 1215
+    },
+    {
+      "text": "Negative",
+      "type": "ENTITY",
+      "start": 1229,
+      "end": 1237
+    },
+    {
+      "text": "Positive",
+      "type": "ENTITY",
+      "start": 1238,
+      "end": 1246
+    },
+    {
+      "text": "Negative",
+      "type": "ENTITY",
+      "start": 1262,
+      "end": 1270
+    },
+    {
+      "text": "Positive",
+      "type": "ENTITY",
+      "start": 1271,
+      "end": 1279
+    },
+    {
+      "text": "Negative",
+      "type": "ENTITY",
+      "start": 1281,
+      "end": 1289
+    },
+    {
+      "text": "Positive",
+      "type": "ENTITY",
+      "start": 1290,
+      "end": 1298
+    },
+    {
+      "text": "B/T Cell",
+      "type": "ENTITY",
+      "start": 1300,
+      "end": 1308
+    },
+    {
+      "text": "Markers",
+      "type": "ENTITY",
+      "start": 1309,
+      "end": 1316
+    },
+    {
+      "text": "Date Ultrasound",
+      "type": "ENTITY",
+      "start": 1369,
+      "end": 1384
+    },
+    {
+      "text": "foun",
+      "type": "ENTITY",
+      "start": 1398,
+      "end": 1402
+    },
+    {
+      "text": "lefkicneel X-Ray CT Endoscopy",
+      "type": "ENTITY",
+      "start": 1410,
+      "end": 1439
+    },
+    {
+      "text": "Biopsy",
+      "type": "ENTITY",
+      "start": 1444,
+      "end": 1450
+    },
+    {
+      "text": "CLINICAL DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 1451,
+      "end": 1469
+    },
+    {
+      "text": "Location",
+      "type": "ENTITY",
+      "start": 1470,
+      "end": 1478
+    },
+    {
+      "text": "Suspected",
+      "type": "ENTITY",
+      "start": 1482,
+      "end": 1491
+    },
+    {
+      "text": "Suspected",
+      "type": "ENTITY",
+      "start": 1501,
+      "end": 1510
+    },
+    {
+      "text": "Distant Metastasis",
+      "type": "ENTITY",
+      "start": 1511,
+      "end": 1529
+    },
+    {
+      "text": "Clinical Staging",
+      "type": "ENTITY",
+      "start": 1530,
+      "end": 1546
+    },
+    {
+      "text": "T3",
+      "type": "ENTITY",
+      "start": 1547,
+      "end": 1549
+    },
+    {
+      "text": "NA",
+      "type": "ENTITY",
+      "start": 1550,
+      "end": 1552
+    },
+    {
+      "text": "Stage",
+      "type": "ENTITY",
+      "start": 1553,
+      "end": 1558
+    },
+    {
+      "text": "Treatment",
+      "type": "ENTITY",
+      "start": 1560,
+      "end": 1569
+    },
+    {
+      "text": "SURGICAL TREATMENT Procedure",
+      "type": "ENTITY",
+      "start": 1582,
+      "end": 1610
+    },
+    {
+      "text": "Procedure ReSeeton eft",
+      "type": "ENTITY",
+      "start": 1619,
+      "end": 1641
+    },
+    {
+      "text": "kidnau",
+      "type": "ENTITY",
+      "start": 1642,
+      "end": 1648
+    },
+    {
+      "text": "Location",
+      "type": "ENTITY",
+      "start": 1678,
+      "end": 1686
+    },
+    {
+      "text": "eLt",
+      "type": "ENTITY",
+      "start": 1692,
+      "end": 1695
+    },
+    {
+      "text": "Jcidney",
+      "type": "ENTITY",
+      "start": 1696,
+      "end": 1703
+    },
+    {
+      "text": "DemoR",
+      "type": "ENTITY",
+      "start": 1704,
+      "end": 1709
+    },
+    {
+      "text": "Extension",
+      "type": "ENTITY",
+      "start": 1720,
+      "end": 1729
+    },
+    {
+      "text": "Tumor Lymph Nodes",
+      "type": "ENTITY",
+      "start": 1733,
+      "end": 1750
+    },
+    {
+      "text": "Description",
+      "type": "ENTITY",
+      "start": 1751,
+      "end": 1762
+    },
+    {
+      "text": "Location",
+      "type": "ENTITY",
+      "start": 1763,
+      "end": 1771
+    },
+    {
+      "text": "Lymph Nodes",
+      "type": "ENTITY",
+      "start": 1775,
+      "end": 1786
+    },
+    {
+      "text": "Lymph Nodes",
+      "type": "ENTITY",
+      "start": 1792,
+      "end": 1803
+    },
+    {
+      "text": "Palpable",
+      "type": "ENTITY",
+      "start": 1804,
+      "end": 1812
+    },
+    {
+      "text": "Non-Dissected Lymph Nodes",
+      "type": "ENTITY",
+      "start": 1814,
+      "end": 1839
+    },
+    {
+      "text": "Dissected",
+      "type": "ENTITY",
+      "start": 1840,
+      "end": 1849
+    },
+    {
+      "text": "Lymph Nodes",
+      "type": "ENTITY",
+      "start": 1850,
+      "end": 1861
+    },
+    {
+      "text": "Distant Metastasis",
+      "type": "ENTITY",
+      "start": 1862,
+      "end": 1880
+    },
+    {
+      "text": "Organ",
+      "type": "ENTITY",
+      "start": 1881,
+      "end": 1886
+    },
+    {
+      "text": "Location",
+      "type": "ENTITY",
+      "start": 1896,
+      "end": 1904
+    },
+    {
+      "text": "Surgical Staging T 3 NA M Stage",
+      "type": "ENTITY",
+      "start": 1910,
+      "end": 1941
+    },
+    {
+      "text": "NEOADJUVENT",
+      "type": "ENTITY",
+      "start": 1945,
+      "end": 1956
+    },
+    {
+      "text": "THERAPY",
+      "type": "ENTITY",
+      "start": 1957,
+      "end": 1964
+    },
+    {
+      "text": "Chemo",
+      "type": "ENTITY",
+      "start": 1966,
+      "end": 1971
+    },
+    {
+      "text": "Radiation",
+      "type": "ENTITY",
+      "start": 1973,
+      "end": 1982
+    },
+    {
+      "text": "Immuno",
+      "type": "ENTITY",
+      "start": 1984,
+      "end": 1990
+    },
+    {
+      "text": "Hormonal",
+      "type": "ENTITY",
+      "start": 1992,
+      "end": 2000
+    },
+    {
+      "text": "Molecular",
+      "type": "ENTITY",
+      "start": 2005,
+      "end": 2014
+    },
+    {
+      "text": "Drug/Treatment",
+      "type": "ENTITY",
+      "start": 2016,
+      "end": 2030
+    },
+    {
+      "text": "Dose",
+      "type": "ENTITY",
+      "start": 2031,
+      "end": 2035
+    },
+    {
+      "text": "Route Frequency Date",
+      "type": "ENTITY",
+      "start": 2036,
+      "end": 2056
+    },
+    {
+      "text": "To",
+      "type": "ENTITY",
+      "start": 2072,
+      "end": 2074
+    },
+    {
+      "text": "To",
+      "type": "ENTITY",
+      "start": 2080,
+      "end": 2082
+    },
+    {
+      "text": "/",
+      "type": "ENTITY",
+      "start": 2085,
+      "end": 2086
+    },
+    {
+      "text": "/",
+      "type": "ENTITY",
+      "start": 2087,
+      "end": 2088
+    },
+    {
+      "text": "/",
+      "type": "ENTITY",
+      "start": 2089,
+      "end": 2090
+    },
+    {
+      "text": "To",
+      "type": "ENTITY",
+      "start": 2093,
+      "end": 2095
+    },
+    {
+      "text": "/",
+      "type": "ENTITY",
+      "start": 2098,
+      "end": 2099
+    },
+    {
+      "text": "To",
+      "type": "ENTITY",
+      "start": 2102,
+      "end": 2104
+    },
+    {
+      "text": "3\n\n--- Page 4 ---\nSPECIMEN TYPE",
+      "type": "ENTITY",
+      "start": 2107,
+      "end": 2138
+    },
+    {
+      "text": "samples",
+      "type": "ENTITY",
+      "start": 2144,
+      "end": 2151
+    },
+    {
+      "text": "Frozen Paraffin Block Blood/Serum/Plasma Slide",
+      "type": "ENTITY",
+      "start": 2162,
+      "end": 2208
+    },
+    {
+      "text": "Diseased",
+      "type": "ENTITY",
+      "start": 2209,
+      "end": 2217
+    },
+    {
+      "text": "Normal Diseased",
+      "type": "ENTITY",
+      "start": 2234,
+      "end": 2249
+    },
+    {
+      "text": "Normal Diseased",
+      "type": "ENTITY",
+      "start": 2250,
+      "end": 2265
+    },
+    {
+      "text": "Time",
+      "type": "ENTITY",
+      "start": 2281,
+      "end": 2285
+    },
+    {
+      "text": "LN2 Time",
+      "type": "ENTITY",
+      "start": 2289,
+      "end": 2297
+    },
+    {
+      "text": "Formalin Time",
+      "type": "ENTITY",
+      "start": 2301,
+      "end": 2314
+    },
+    {
+      "text": "LN2",
+      "type": "ENTITY",
+      "start": 2318,
+      "end": 2321
+    },
+    {
+      "text": "PATHOLOGICALDESCRIPTION",
+      "type": "ENTITY",
+      "start": 2340,
+      "end": 2363
+    },
+    {
+      "text": "Organ Size",
+      "type": "ENTITY",
+      "start": 2378,
+      "end": 2388
+    },
+    {
+      "text": "Extension",
+      "type": "ENTITY",
+      "start": 2389,
+      "end": 2398
+    },
+    {
+      "text": "Tumor",
+      "type": "ENTITY",
+      "start": 2402,
+      "end": 2407
+    },
+    {
+      "text": "NAT",
+      "type": "ENTITY",
+      "start": 2420,
+      "end": 2423
+    },
+    {
+      "text": "Lymph Nodes",
+      "type": "ENTITY",
+      "start": 2452,
+      "end": 2463
+    },
+    {
+      "text": "Location",
+      "type": "ENTITY",
+      "start": 2464,
+      "end": 2472
+    },
+    {
+      "text": "Examined",
+      "type": "ENTITY",
+      "start": 2475,
+      "end": 2483
+    },
+    {
+      "text": "Metastasized Distant Metastasis",
+      "type": "ENTITY",
+      "start": 2486,
+      "end": 2517
+    },
+    {
+      "text": "Organ",
+      "type": "ENTITY",
+      "start": 2518,
+      "end": 2523
+    },
+    {
+      "text": "Location",
+      "type": "ENTITY",
+      "start": 2533,
+      "end": 2541
+    },
+    {
+      "text": "Pathological Staging",
+      "type": "ENTITY",
+      "start": 2547,
+      "end": 2567
+    },
+    {
+      "text": "NA M Stage",
+      "type": "ENTITY",
+      "start": 2572,
+      "end": 2582
+    },
+    {
+      "text": "TY",
+      "type": "ENTITY",
+      "start": 2584,
+      "end": 2586
+    },
+    {
+      "text": "Notes",
+      "type": "ENTITY",
+      "start": 2587,
+      "end": 2592
+    },
+    {
+      "text": "Diffuse STRUCTURAL PATTERN XStreaming",
+      "type": "ENTITY",
+      "start": 2632,
+      "end": 2669
+    },
+    {
+      "text": "Mosaic Storiform Necrosis",
+      "type": "ENTITY",
+      "start": 2672,
+      "end": 2697
+    },
+    {
+      "text": "Fibrosis",
+      "type": "ENTITY",
+      "start": 2698,
+      "end": 2706
+    },
+    {
+      "text": "Lymphocytic Infiltration X",
+      "type": "ENTITY",
+      "start": 2707,
+      "end": 2733
+    },
+    {
+      "text": "Palisading",
+      "type": "ENTITY",
+      "start": 2734,
+      "end": 2744
+    },
+    {
+      "text": "Cystic Degeneration",
+      "type": "ENTITY",
+      "start": 2765,
+      "end": 2784
+    },
+    {
+      "text": "Clusterized Bleeding",
+      "type": "ENTITY",
+      "start": 2785,
+      "end": 2805
+    },
+    {
+      "text": "Alveolar Formation",
+      "type": "ENTITY",
+      "start": 2806,
+      "end": 2824
+    },
+    {
+      "text": "Myxoid Change Indian File",
+      "type": "ENTITY",
+      "start": 2825,
+      "end": 2850
+    },
+    {
+      "text": "features",
+      "type": "ENTITY",
+      "start": 2885,
+      "end": 2893
+    },
+    {
+      "text": "Squamous",
+      "type": "ENTITY",
+      "start": 2895,
+      "end": 2903
+    },
+    {
+      "text": "Adenomatous",
+      "type": "ENTITY",
+      "start": 2906,
+      "end": 2917
+    },
+    {
+      "text": "Sarcomatous",
+      "type": "ENTITY",
+      "start": 2920,
+      "end": 2931
+    },
+    {
+      "text": "Lymphomatous Squamoid Cell",
+      "type": "ENTITY",
+      "start": 2934,
+      "end": 2960
+    },
+    {
+      "text": "Glandular cell X Round Cell",
+      "type": "ENTITY",
+      "start": 2961,
+      "end": 2988
+    },
+    {
+      "text": "Stratification",
+      "type": "ENTITY",
+      "start": 3018,
+      "end": 3032
+    },
+    {
+      "text": "Fibroblast Small Cell",
+      "type": "ENTITY",
+      "start": 3033,
+      "end": 3054
+    },
+    {
+      "text": "Keratin Secretion",
+      "type": "ENTITY",
+      "start": 3055,
+      "end": 3072
+    },
+    {
+      "text": "Osteoblast RS",
+      "type": "ENTITY",
+      "start": 3073,
+      "end": 3086
+    },
+    {
+      "text": "CeIVRS",
+      "type": "ENTITY",
+      "start": 3087,
+      "end": 3093
+    },
+    {
+      "text": "Desmosome",
+      "type": "ENTITY",
+      "start": 3099,
+      "end": 3108
+    },
+    {
+      "text": "Intracyt",
+      "type": "ENTITY",
+      "start": 3109,
+      "end": 3117
+    },
+    {
+      "text": "Cell Pearl",
+      "type": "ENTITY",
+      "start": 3143,
+      "end": 3153
+    },
+    {
+      "text": "formation",
+      "type": "ENTITY",
+      "start": 3160,
+      "end": 3169
+    },
+    {
+      "text": "Myoblast",
+      "type": "ENTITY",
+      "start": 3170,
+      "end": 3178
+    },
+    {
+      "text": "Plasma Cell",
+      "type": "ENTITY",
+      "start": 3179,
+      "end": 3190
+    },
+    {
+      "text": "Specified",
+      "type": "ENTITY",
+      "start": 3201,
+      "end": 3210
+    },
+    {
+      "text": "D7R HeeRos",
+      "type": "ENTITY",
+      "start": 3212,
+      "end": 3222
+    },
+    {
+      "text": "D320 Dy707 L",
+      "type": "ENTITY",
+      "start": 3228,
+      "end": 3240
+    },
+    {
+      "text": "Differentiation",
+      "type": "ENTITY",
+      "start": 3252,
+      "end": 3267
+    },
+    {
+      "text": "Well Moderately",
+      "type": "ENTITY",
+      "start": 3269,
+      "end": 3284
+    },
+    {
+      "text": "Atypia",
+      "type": "ENTITY",
+      "start": 3300,
+      "end": 3306
+    },
+    {
+      "text": "Nuclear Appearance II Aniso",
+      "type": "ENTITY",
+      "start": 3308,
+      "end": 3335
+    },
+    {
+      "text": "Nucleosis",
+      "type": "ENTITY",
+      "start": 3336,
+      "end": 3345
+    },
+    {
+      "text": "Hyperchromatism",
+      "type": "ENTITY",
+      "start": 3346,
+      "end": 3361
+    }
+  ],
+  "entity_count": 181,
+  "has_embedding": true
+}

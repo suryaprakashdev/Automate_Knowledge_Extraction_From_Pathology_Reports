@@ -1,0 +1,1616 @@
+{
+  "filename": "7756d86e-08cd-4ce6-83ed-55cce2a18875",
+  "timestamp": "2026-01-05T14:41:21.212342",
+  "entities": [
+    {
+      "text": "DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 35,
+      "end": 44
+    },
+    {
+      "text": "TONGUE",
+      "type": "ENTITY",
+      "start": 49,
+      "end": 55
+    },
+    {
+      "text": "DEEP MARGIN",
+      "type": "ENTITY",
+      "start": 57,
+      "end": 68
+    },
+    {
+      "text": "EXCISION",
+      "type": "ENTITY",
+      "start": 70,
+      "end": 78
+    },
+    {
+      "text": "NEGATIVE",
+      "type": "ENTITY",
+      "start": 82,
+      "end": 90
+    },
+    {
+      "text": "TUMOR",
+      "type": "ENTITY",
+      "start": 95,
+      "end": 100
+    },
+    {
+      "text": "SUPERFICIAL MARGIN",
+      "type": "ENTITY",
+      "start": 121,
+      "end": 139
+    },
+    {
+      "text": "EXCISION",
+      "type": "ENTITY",
+      "start": 141,
+      "end": 149
+    },
+    {
+      "text": "NEGATIVE",
+      "type": "ENTITY",
+      "start": 153,
+      "end": 161
+    },
+    {
+      "text": "TUMOR",
+      "type": "ENTITY",
+      "start": 166,
+      "end": 171
+    },
+    {
+      "text": "LEFT LEVEL 2",
+      "type": "ENTITY",
+      "start": 182,
+      "end": 194
+    },
+    {
+      "text": "DISSECTION",
+      "type": "ENTITY",
+      "start": 196,
+      "end": 206
+    },
+    {
+      "text": "METASTATIC SQUAMOUS CELL",
+      "type": "ENTITY",
+      "start": 210,
+      "end": 234
+    },
+    {
+      "text": "SIX",
+      "type": "ENTITY",
+      "start": 266,
+      "end": 269
+    },
+    {
+      "text": "LYMPH NODES",
+      "type": "ENTITY",
+      "start": 274,
+      "end": 285
+    },
+    {
+      "text": "DISSECTION",
+      "type": "ENTITY",
+      "start": 315,
+      "end": 325
+    },
+    {
+      "text": "SEVEN",
+      "type": "ENTITY",
+      "start": 338,
+      "end": 343
+    },
+    {
+      "text": "LYMPH NODES",
+      "type": "ENTITY",
+      "start": 348,
+      "end": 359
+    },
+    {
+      "text": "NEGATIVE",
+      "type": "ENTITY",
+      "start": 361,
+      "end": 369
+    },
+    {
+      "text": "EIGHT",
+      "type": "ENTITY",
+      "start": 391,
+      "end": 396
+    },
+    {
+      "text": "LYMPH NODES",
+      "type": "ENTITY",
+      "start": 401,
+      "end": 412
+    },
+    {
+      "text": "NEGATIVE",
+      "type": "ENTITY",
+      "start": 414,
+      "end": 422
+    },
+    {
+      "text": "TUMOR",
+      "type": "ENTITY",
+      "start": 427,
+      "end": 432
+    },
+    {
+      "text": "RIGHT",
+      "type": "ENTITY",
+      "start": 443,
+      "end": 448
+    },
+    {
+      "text": "DISSECTION",
+      "type": "ENTITY",
+      "start": 461,
+      "end": 471
+    },
+    {
+      "text": "METASTATIC SQUAMOUS CELL",
+      "type": "ENTITY",
+      "start": 483,
+      "end": 507
+    },
+    {
+      "text": "SEVEN",
+      "type": "ENTITY",
+      "start": 539,
+      "end": 544
+    },
+    {
+      "text": "LYMPH NODES",
+      "type": "ENTITY",
+      "start": 549,
+      "end": 560
+    },
+    {
+      "text": "NINE",
+      "type": "ENTITY",
+      "start": 571,
+      "end": 575
+    },
+    {
+      "text": "LYMPH NODES",
+      "type": "ENTITY",
+      "start": 580,
+      "end": 591
+    },
+    {
+      "text": "NEGATIVE",
+      "type": "ENTITY",
+      "start": 593,
+      "end": 601
+    },
+    {
+      "text": "ELEVEN",
+      "type": "ENTITY",
+      "start": 623,
+      "end": 629
+    },
+    {
+      "text": "NEGATIVE",
+      "type": "ENTITY",
+      "start": 648,
+      "end": 656
+    },
+    {
+      "text": "TUMOR",
+      "type": "ENTITY",
+      "start": 661,
+      "end": 666
+    },
+    {
+      "text": "LARYNX",
+      "type": "ENTITY",
+      "start": 672,
+      "end": 678
+    },
+    {
+      "text": "Laryngectomy",
+      "type": "ENTITY",
+      "start": 712,
+      "end": 724
+    },
+    {
+      "text": "neck dissection",
+      "type": "ENTITY",
+      "start": 726,
+      "end": 741
+    },
+    {
+      "text": "TUMOR SITE",
+      "type": "ENTITY",
+      "start": 742,
+      "end": 752
+    },
+    {
+      "text": "Supraglottis HISTOLOGIC TYPE",
+      "type": "ENTITY",
+      "start": 754,
+      "end": 782
+    },
+    {
+      "text": "Squamous cell carcinoma",
+      "type": "ENTITY",
+      "start": 784,
+      "end": 807
+    },
+    {
+      "text": "TUMOR SIZE",
+      "type": "ENTITY",
+      "start": 809,
+      "end": 819
+    },
+    {
+      "text": "dimension",
+      "type": "ENTITY",
+      "start": 830,
+      "end": 839
+    },
+    {
+      "text": "Moderately",
+      "type": "ENTITY",
+      "start": 870,
+      "end": 880
+    },
+    {
+      "text": "LYMPH NODES",
+      "type": "ENTITY",
+      "start": 906,
+      "end": 917
+    },
+    {
+      "text": "Metastatic carcinoma",
+      "type": "ENTITY",
+      "start": 919,
+      "end": 939
+    },
+    {
+      "text": "lymph nodes EXTRANODAL EXTENSION",
+      "type": "ENTITY",
+      "start": 951,
+      "end": 983
+    },
+    {
+      "text": "INVASION PRIMARY TUMOR",
+      "type": "ENTITY",
+      "start": 1011,
+      "end": 1033
+    },
+    {
+      "text": "Tumor invades preepiglottis",
+      "type": "ENTITY",
+      "start": 1084,
+      "end": 1111
+    },
+    {
+      "text": "Metastasis",
+      "type": "ENTITY",
+      "start": 1141,
+      "end": 1151
+    },
+    {
+      "text": "multiple",
+      "type": "ENTITY",
+      "start": 1165,
+      "end": 1173
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 1174,
+      "end": 1185
+    },
+    {
+      "text": "assessed",
+      "type": "ENTITY",
+      "start": 1244,
+      "end": 1252
+    },
+    {
+      "text": "MARGINS",
+      "type": "ENTITY",
+      "start": 1253,
+      "end": 1260
+    },
+    {
+      "text": "Margins",
+      "type": "ENTITY",
+      "start": 1263,
+      "end": 1270
+    },
+    {
+      "text": "uninvolved",
+      "type": "ENTITY",
+      "start": 1275,
+      "end": 1285
+    },
+    {
+      "text": "Distance",
+      "type": "ENTITY",
+      "start": 1287,
+      "end": 1295
+    },
+    {
+      "text": "invasive carcinoma",
+      "type": "ENTITY",
+      "start": 1299,
+      "end": 1317
+    },
+    {
+      "text": "nearest",
+      "type": "ENTITY",
+      "start": 1323,
+      "end": 1330
+    },
+    {
+      "text": "margin",
+      "type": "ENTITY",
+      "start": 1332,
+      "end": 1338
+    },
+    {
+      "text": "VENOUS/LYMPHATIC",
+      "type": "ENTITY",
+      "start": 1345,
+      "end": 1361
+    },
+    {
+      "text": "identified",
+      "type": "ENTITY",
+      "start": 1405,
+      "end": 1415
+    },
+    {
+      "text": "diagnosis",
+      "type": "ENTITY",
+      "start": 1471,
+      "end": 1480
+    },
+    {
+      "text": "personal examination",
+      "type": "ENTITY",
+      "start": 1499,
+      "end": 1519
+    },
+    {
+      "text": "slides",
+      "type": "ENTITY",
+      "start": 1527,
+      "end": 1533
+    },
+    {
+      "text": "material",
+      "type": "ENTITY",
+      "start": 1550,
+      "end": 1558
+    },
+    {
+      "text": "diagnosis",
+      "type": "ENTITY",
+      "start": 1576,
+      "end": 1585
+    },
+    {
+      "text": "I",
+      "type": "ENTITY",
+      "start": 1597,
+      "end": 1598
+    },
+    {
+      "text": "reviewed",
+      "type": "ENTITY",
+      "start": 1604,
+      "end": 1612
+    },
+    {
+      "text": "report",
+      "type": "ENTITY",
+      "start": 1632,
+      "end": 1638
+    },
+    {
+      "text": "Clinical History",
+      "type": "ENTITY",
+      "start": 1640,
+      "end": 1656
+    },
+    {
+      "text": "GROSS DESCRIPTION PART",
+      "type": "ENTITY",
+      "start": 1658,
+      "end": 1680
+    },
+    {
+      "text": "FS",
+      "type": "ENTITY",
+      "start": 1685,
+      "end": 1687
+    },
+    {
+      "text": "DEEP MARGIN",
+      "type": "ENTITY",
+      "start": 1696,
+      "end": 1707
+    },
+    {
+      "text": "DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 1745,
+      "end": 1754
+    },
+    {
+      "text": "Staff Pathologist",
+      "type": "ENTITY",
+      "start": 1756,
+      "end": 1773
+    },
+    {
+      "text": "Pathologists",
+      "type": "ENTITY",
+      "start": 1781,
+      "end": 1793
+    },
+    {
+      "text": "FS",
+      "type": "ENTITY",
+      "start": 1796,
+      "end": 1798
+    },
+    {
+      "text": "TUMOR",
+      "type": "ENTITY",
+      "start": 1834,
+      "end": 1839
+    },
+    {
+      "text": "Dictated",
+      "type": "ENTITY",
+      "start": 1841,
+      "end": 1849
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1857,
+      "end": 1865
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 1878,
+      "end": 1883
+    },
+    {
+      "text": "frozen section",
+      "type": "ENTITY",
+      "start": 1888,
+      "end": 1902
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 1903,
+      "end": 1910
+    },
+    {
+      "text": "patient's",
+      "type": "ENTITY",
+      "start": 1920,
+      "end": 1929
+    },
+    {
+      "text": "deep margin",
+      "type": "ENTITY",
+      "start": 1959,
+      "end": 1970
+    },
+    {
+      "text": "red tan soft tissue",
+      "type": "ENTITY",
+      "start": 1986,
+      "end": 2005
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 2007,
+      "end": 2016
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 2041,
+      "end": 2049
+    },
+    {
+      "text": "frozen",
+      "type": "ENTITY",
+      "start": 2077,
+      "end": 2083
+    },
+    {
+      "text": "SECTIONS",
+      "type": "ENTITY",
+      "start": 2096,
+      "end": 2104
+    },
+    {
+      "text": "FSC",
+      "type": "ENTITY",
+      "start": 2110,
+      "end": 2113
+    },
+    {
+      "text": "1",
+      "type": "ENTITY",
+      "start": 2116,
+      "end": 2117
+    },
+    {
+      "text": "TOTAL",
+      "type": "ENTITY",
+      "start": 2143,
+      "end": 2148
+    },
+    {
+      "text": "PART",
+      "type": "ENTITY",
+      "start": 2153,
+      "end": 2157
+    },
+    {
+      "text": "FS",
+      "type": "ENTITY",
+      "start": 2162,
+      "end": 2164
+    },
+    {
+      "text": "TONGUE",
+      "type": "ENTITY",
+      "start": 2166,
+      "end": 2172
+    },
+    {
+      "text": "Pathologists",
+      "type": "ENTITY",
+      "start": 2271,
+      "end": 2283
+    },
+    {
+      "text": "FINAL DOCUMENT Page 2",
+      "type": "ENTITY",
+      "start": 2286,
+      "end": 2307
+    },
+    {
+      "text": "TONGUE",
+      "type": "ENTITY",
+      "start": 2333,
+      "end": 2339
+    },
+    {
+      "text": "NEGATIVE",
+      "type": "ENTITY",
+      "start": 2367,
+      "end": 2375
+    },
+    {
+      "text": "TUMOR",
+      "type": "ENTITY",
+      "start": 2380,
+      "end": 2385
+    },
+    {
+      "text": "Dictated",
+      "type": "ENTITY",
+      "start": 2387,
+      "end": 2395
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 2403,
+      "end": 2411
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 2424,
+      "end": 2429
+    },
+    {
+      "text": "frozen section",
+      "type": "ENTITY",
+      "start": 2434,
+      "end": 2448
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 2449,
+      "end": 2456
+    },
+    {
+      "text": "patient's",
+      "type": "ENTITY",
+      "start": 2466,
+      "end": 2475
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 2537,
+      "end": 2545
+    },
+    {
+      "text": "red tan soft tissue",
+      "type": "ENTITY",
+      "start": 2578,
+      "end": 2597
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 2598,
+      "end": 2607
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 2632,
+      "end": 2640
+    },
+    {
+      "text": "bisected",
+      "type": "ENTITY",
+      "start": 2645,
+      "end": 2653
+    },
+    {
+      "text": "frozen",
+      "type": "ENTITY",
+      "start": 2681,
+      "end": 2687
+    },
+    {
+      "text": "SECTIONS",
+      "type": "ENTITY",
+      "start": 2700,
+      "end": 2708
+    },
+    {
+      "text": "FSC",
+      "type": "ENTITY",
+      "start": 2714,
+      "end": 2717
+    },
+    {
+      "text": "TONGUE",
+      "type": "ENTITY",
+      "start": 2719,
+      "end": 2725
+    },
+    {
+      "text": "PART",
+      "type": "ENTITY",
+      "start": 2766,
+      "end": 2770
+    },
+    {
+      "text": "LEFT NECK LEVEL 2",
+      "type": "ENTITY",
+      "start": 2775,
+      "end": 2792
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 2837,
+      "end": 2842
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 2843,
+      "end": 2850
+    },
+    {
+      "text": "patient's",
+      "type": "ENTITY",
+      "start": 2860,
+      "end": 2869
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 2918,
+      "end": 2926
+    },
+    {
+      "text": "red pink fibrofatty",
+      "type": "ENTITY",
+      "start": 2939,
+      "end": 2958
+    },
+    {
+      "text": "soft tissue",
+      "type": "ENTITY",
+      "start": 2959,
+      "end": 2970
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 2971,
+      "end": 2980
+    },
+    {
+      "text": "Blunt dissection",
+      "type": "ENTITY",
+      "start": 3001,
+      "end": 3017
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 3044,
+      "end": 3055
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 3056,
+      "end": 3065
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 3088,
+      "end": 3096
+    },
+    {
+      "text": "nodes",
+      "type": "ENTITY",
+      "start": 3102,
+      "end": 3107
+    },
+    {
+      "text": "soft tissue",
+      "type": "ENTITY",
+      "start": 3133,
+      "end": 3144
+    },
+    {
+      "text": "SECTIONS",
+      "type": "ENTITY",
+      "start": 3183,
+      "end": 3191
+    },
+    {
+      "text": "REMAINING SOFT TISSUE",
+      "type": "ENTITY",
+      "start": 3234,
+      "end": 3255
+    },
+    {
+      "text": "EA",
+      "type": "ENTITY",
+      "start": 3293,
+      "end": 3295
+    },
+    {
+      "text": "REMAINING SOFT TISSUE",
+      "type": "ENTITY",
+      "start": 3328,
+      "end": 3349
+    },
+    {
+      "text": "TOTAL",
+      "type": "ENTITY",
+      "start": 3353,
+      "end": 3358
+    },
+    {
+      "text": "PART",
+      "type": "ENTITY",
+      "start": 3364,
+      "end": 3368
+    },
+    {
+      "text": "LEFT NECK LEVEL",
+      "type": "ENTITY",
+      "start": 3373,
+      "end": 3388
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 3441,
+      "end": 3446
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 3447,
+      "end": 3454
+    },
+    {
+      "text": "patient's",
+      "type": "ENTITY",
+      "start": 3464,
+      "end": 3473
+    },
+    {
+      "text": "red",
+      "type": "ENTITY",
+      "start": 3538,
+      "end": 3541
+    },
+    {
+      "text": "pink soft tissue",
+      "type": "ENTITY",
+      "start": 3543,
+      "end": 3559
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 3561,
+      "end": 3570
+    },
+    {
+      "text": "Staples",
+      "type": "ENTITY",
+      "start": 3591,
+      "end": 3598
+    },
+    {
+      "text": "levels",
+      "type": "ENTITY",
+      "start": 3626,
+      "end": 3632
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 3646,
+      "end": 3654
+    },
+    {
+      "text": "individual",
+      "type": "ENTITY",
+      "start": 3677,
+      "end": 3687
+    },
+    {
+      "text": "level",
+      "type": "ENTITY",
+      "start": 3688,
+      "end": 3693
+    },
+    {
+      "text": "bluntly",
+      "type": "ENTITY",
+      "start": 3694,
+      "end": 3701
+    },
+    {
+      "text": "dissected",
+      "type": "ENTITY",
+      "start": 3702,
+      "end": 3711
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 3738,
+      "end": 3749
+    },
+    {
+      "text": "level",
+      "type": "ENTITY",
+      "start": 3753,
+      "end": 3758
+    },
+    {
+      "text": "size",
+      "type": "ENTITY",
+      "start": 3772,
+      "end": 3776
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 3822,
+      "end": 3833
+    },
+    {
+      "text": "level",
+      "type": "ENTITY",
+      "start": 3837,
+      "end": 3842
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 3845,
+      "end": 3854
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 3875,
+      "end": 3886
+    },
+    {
+      "text": "soft tissue",
+      "type": "ENTITY",
+      "start": 3891,
+      "end": 3902
+    },
+    {
+      "text": "THREE LYMPH NODES",
+      "type": "ENTITY",
+      "start": 3958,
+      "end": 3975
+    },
+    {
+      "text": "SOFT TISSUE 2 1 D",
+      "type": "ENTITY",
+      "start": 3991,
+      "end": 4008
+    },
+    {
+      "text": "EA",
+      "type": "ENTITY",
+      "start": 4043,
+      "end": 4045
+    },
+    {
+      "text": "SOFT TISSUE LEVEL",
+      "type": "ENTITY",
+      "start": 4048,
+      "end": 4065
+    },
+    {
+      "text": "PART",
+      "type": "ENTITY",
+      "start": 4078,
+      "end": 4082
+    },
+    {
+      "text": "RIGHT NECK LEVELS",
+      "type": "ENTITY",
+      "start": 4087,
+      "end": 4104
+    },
+    {
+      "text": "Dictated",
+      "type": "ENTITY",
+      "start": 4175,
+      "end": 4183
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 4197,
+      "end": 4202
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 4203,
+      "end": 4210
+    },
+    {
+      "text": "patient's",
+      "type": "ENTITY",
+      "start": 4220,
+      "end": 4229
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 4241,
+      "end": 4249
+    },
+    {
+      "text": "rous",
+      "type": "ENTITY",
+      "start": 4302,
+      "end": 4306
+    },
+    {
+      "text": "soft tissue",
+      "type": "ENTITY",
+      "start": 4307,
+      "end": 4318
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 4319,
+      "end": 4328
+    },
+    {
+      "text": "Levels",
+      "type": "ENTITY",
+      "start": 4348,
+      "end": 4354
+    },
+    {
+      "text": "staples",
+      "type": "ENTITY",
+      "start": 4379,
+      "end": 4386
+    },
+    {
+      "text": "Blunt dissection",
+      "type": "ENTITY",
+      "start": 4414,
+      "end": 4430
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 4447,
+      "end": 4458
+    },
+    {
+      "text": "level",
+      "type": "ENTITY",
+      "start": 4462,
+      "end": 4467
+    },
+    {
+      "text": "lymph node",
+      "type": "ENTITY",
+      "start": 4483,
+      "end": 4493
+    },
+    {
+      "text": "level",
+      "type": "ENTITY",
+      "start": 4497,
+      "end": 4502
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 4525,
+      "end": 4536
+    },
+    {
+      "text": "level",
+      "type": "ENTITY",
+      "start": 4540,
+      "end": 4545
+    },
+    {
+      "text": "soft",
+      "type": "ENTITY",
+      "start": 4567,
+      "end": 4571
+    },
+    {
+      "text": "tissue",
+      "type": "ENTITY",
+      "start": 4582,
+      "end": 4588
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 4608,
+      "end": 4616
+    },
+    {
+      "text": "SECTIONS",
+      "type": "ENTITY",
+      "start": 4658,
+      "end": 4666
+    },
+    {
+      "text": "A-B 2",
+      "type": "ENTITY",
+      "start": 4672,
+      "end": 4677
+    },
+    {
+      "text": "EA",
+      "type": "ENTITY",
+      "start": 4678,
+      "end": 4680
+    },
+    {
+      "text": "M",
+      "type": "ENTITY",
+      "start": 4717,
+      "end": 4718
+    },
+    {
+      "text": "SOFT TISSUE LEVEL 2",
+      "type": "ENTITY",
+      "start": 4720,
+      "end": 4739
+    },
+    {
+      "text": "G-I EA",
+      "type": "ENTITY",
+      "start": 4771,
+      "end": 4777
+    },
+    {
+      "text": "SOFT TISSUE LEVEL",
+      "type": "ENTITY",
+      "start": 4780,
+      "end": 4797
+    },
+    {
+      "text": "LYMPH NODE",
+      "type": "ENTITY",
+      "start": 4812,
+      "end": 4822
+    },
+    {
+      "text": "SOFT TISSUE LEVEL 4",
+      "type": "ENTITY",
+      "start": 4837,
+      "end": 4856
+    },
+    {
+      "text": "L-M",
+      "type": "ENTITY",
+      "start": 4860,
+      "end": 4863
+    },
+    {
+      "text": "EA",
+      "type": "ENTITY",
+      "start": 4864,
+      "end": 4866
+    },
+    {
+      "text": "SOFT TISSUE",
+      "type": "ENTITY",
+      "start": 4869,
+      "end": 4880
+    },
+    {
+      "text": "TOTAL M",
+      "type": "ENTITY",
+      "start": 4896,
+      "end": 4903
+    },
+    {
+      "text": "PART",
+      "type": "ENTITY",
+      "start": 4904,
+      "end": 4908
+    },
+    {
+      "text": "TOTAL LARYNGECTOMY Resident Pathologist",
+      "type": "ENTITY",
+      "start": 4913,
+      "end": 4952
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 4976,
+      "end": 4981
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 4982,
+      "end": 4989
+    },
+    {
+      "text": "patient's",
+      "type": "ENTITY",
+      "start": 4999,
+      "end": 5008
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 5056,
+      "end": 5064
+    },
+    {
+      "text": "laryngectomy",
+      "type": "ENTITY",
+      "start": 5086,
+      "end": 5098
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 5099,
+      "end": 5108
+    },
+    {
+      "text": "portion",
+      "type": "ENTITY",
+      "start": 5141,
+      "end": 5148
+    },
+    {
+      "text": "hyoid bone",
+      "type": "ENTITY",
+      "start": 5156,
+      "end": 5166
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 5167,
+      "end": 5176
+    },
+    {
+      "text": "larynx",
+      "type": "ENTITY",
+      "start": 5201,
+      "end": 5207
+    },
+    {
+      "text": "epiglottis",
+      "type": "ENTITY",
+      "start": 5213,
+      "end": 5223
+    },
+    {
+      "text": "subglottis",
+      "type": "ENTITY",
+      "start": 5227,
+      "end": 5237
+    },
+    {
+      "text": "tracheal rings",
+      "type": "ENTITY",
+      "start": 5252,
+      "end": 5266
+    },
+    {
+      "text": "irregular",
+      "type": "ENTITY",
+      "start": 5280,
+      "end": 5289
+    },
+    {
+      "text": "ulceration",
+      "type": "ENTITY",
+      "start": 5316,
+      "end": 5326
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 5327,
+      "end": 5336
+    },
+    {
+      "text": "supraglottis",
+      "type": "ENTITY",
+      "start": 5371,
+      "end": 5383
+    },
+    {
+      "text": "grossly",
+      "type": "ENTITY",
+      "start": 5388,
+      "end": 5395
+    },
+    {
+      "text": "false cord",
+      "type": "ENTITY",
+      "start": 5410,
+      "end": 5420
+    },
+    {
+      "text": "true cord",
+      "type": "ENTITY",
+      "start": 5438,
+      "end": 5447
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 5453,
+      "end": 5457
+    },
+    {
+      "text": "mucosal margin",
+      "type": "ENTITY",
+      "start": 5495,
+      "end": 5509
+    },
+    {
+      "text": "left aryepiglottic fold",
+      "type": "ENTITY",
+      "start": 5511,
+      "end": 5534
+    },
+    {
+      "text": "distal",
+      "type": "ENTITY",
+      "start": 5556,
+      "end": 5562
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 5584,
+      "end": 5588
+    },
+    {
+      "text": "invades",
+      "type": "ENTITY",
+      "start": 5589,
+      "end": 5596
+    },
+    {
+      "text": "lamina propria",
+      "type": "ENTITY",
+      "start": 5606,
+      "end": 5620
+    },
+    {
+      "text": "grossly very close",
+      "type": "ENTITY",
+      "start": 5622,
+      "end": 5640
+    },
+    {
+      "text": "inked margin",
+      "type": "ENTITY",
+      "start": 5673,
+      "end": 5685
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 5691,
+      "end": 5695
+    },
+    {
+      "text": "invade",
+      "type": "ENTITY",
+      "start": 5723,
+      "end": 5729
+    },
+    {
+      "text": "serially",
+      "type": "ENTITY",
+      "start": 5739,
+      "end": 5747
+    },
+    {
+      "text": "red brown strap muscles",
+      "type": "ENTITY",
+      "start": 5758,
+      "end": 5781
+    },
+    {
+      "text": "unremarkable",
+      "type": "ENTITY",
+      "start": 5793,
+      "end": 5805
+    },
+    {
+      "text": "thyroid cartilage",
+      "type": "ENTITY",
+      "start": 5820,
+      "end": 5837
+    },
+    {
+      "text": "standard sections",
+      "type": "ENTITY",
+      "start": 5850,
+      "end": 5867
+    },
+    {
+      "text": "midline section",
+      "type": "ENTITY",
+      "start": 5871,
+      "end": 5886
+    },
+    {
+      "text": "decalcification",
+      "type": "ENTITY",
+      "start": 5904,
+      "end": 5919
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 5952,
+      "end": 5960
+    },
+    {
+      "text": "SECTIONS",
+      "type": "ENTITY",
+      "start": 5986,
+      "end": 5994
+    },
+    {
+      "text": "EPIGLOTTIS",
+      "type": "ENTITY",
+      "start": 6001,
+      "end": 6011
+    },
+    {
+      "text": "LEFT ARYEPIGLOTTIC FOLD",
+      "type": "ENTITY",
+      "start": 6052,
+      "end": 6075
+    },
+    {
+      "text": "TRACHEAL RING",
+      "type": "ENTITY",
+      "start": 6084,
+      "end": 6097
+    },
+    {
+      "text": "RIGHT ARYTENOID",
+      "type": "ENTITY",
+      "start": 6107,
+      "end": 6122
+    },
+    {
+      "text": "LEFT ARYTENOID",
+      "type": "ENTITY",
+      "start": 6129,
+      "end": 6143
+    },
+    {
+      "text": "RIGHT INFERIOR TO TRUE",
+      "type": "ENTITY",
+      "start": 6171,
+      "end": 6193
+    },
+    {
+      "text": "RIGHT",
+      "type": "ENTITY",
+      "start": 6211,
+      "end": 6216
+    },
+    {
+      "text": "VOCAL CORD",
+      "type": "ENTITY",
+      "start": 6235,
+      "end": 6245
+    },
+    {
+      "text": "RIGHT",
+      "type": "ENTITY",
+      "start": 6252,
+      "end": 6257
+    },
+    {
+      "text": "TRUE VOCAL CORDS",
+      "type": "ENTITY",
+      "start": 6276,
+      "end": 6292
+    },
+    {
+      "text": "K",
+      "type": "ENTITY",
+      "start": 6296,
+      "end": 6297
+    },
+    {
+      "text": "LEFT",
+      "type": "ENTITY",
+      "start": 6339,
+      "end": 6343
+    },
+    {
+      "text": "VOCAL CORD",
+      "type": "ENTITY",
+      "start": 6362,
+      "end": 6372
+    },
+    {
+      "text": "M",
+      "type": "ENTITY",
+      "start": 6378,
+      "end": 6379
+    },
+    {
+      "text": "LEFT",
+      "type": "ENTITY",
+      "start": 6381,
+      "end": 6385
+    },
+    {
+      "text": "TRUE VOCAL CORDS",
+      "type": "ENTITY",
+      "start": 6404,
+      "end": 6420
+    },
+    {
+      "text": "RIGHT SOFT TISSUE CLOSEST TO TUMOR",
+      "type": "ENTITY",
+      "start": 6430,
+      "end": 6464
+    },
+    {
+      "text": "DOCUmEnT Page 4",
+      "type": "ENTITY",
+      "start": 6472,
+      "end": 6487
+    },
+    {
+      "text": "LEFT",
+      "type": "ENTITY",
+      "start": 6512,
+      "end": 6516
+    },
+    {
+      "text": "RIGHT",
+      "type": "ENTITY",
+      "start": 6554,
+      "end": 6559
+    },
+    {
+      "text": "LEFT",
+      "type": "ENTITY",
+      "start": 6576,
+      "end": 6580
+    },
+    {
+      "text": "LEFT STRAP MUSCLE",
+      "type": "ENTITY",
+      "start": 6626,
+      "end": 6643
+    },
+    {
+      "text": "Surqical Pathology",
+      "type": "ENTITY",
+      "start": 6664,
+      "end": 6682
+    },
+    {
+      "text": "computer",
+      "type": "ENTITY",
+      "start": 6706,
+      "end": 6714
+    },
+    {
+      "text": "information",
+      "type": "ENTITY",
+      "start": 6757,
+      "end": 6768
+    },
+    {
+      "text": "event",
+      "type": "ENTITY",
+      "start": 6799,
+      "end": 6804
+    },
+    {
+      "text": "medical history",
+      "type": "ENTITY",
+      "start": 6822,
+      "end": 6837
+    },
+    {
+      "text": "Medical Record",
+      "type": "ENTITY",
+      "start": 6858,
+      "end": 6872
+    }
+  ],
+  "entity_count": 268,
+  "has_embedding": true
+}

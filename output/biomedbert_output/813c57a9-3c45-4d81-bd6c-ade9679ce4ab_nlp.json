@@ -1,0 +1,788 @@
+{
+  "filename": "813c57a9-3c45-4d81-bd6c-ade9679ce4ab",
+  "timestamp": "2026-01-05T14:44:14.864784",
+  "entities": [
+    {
+      "text": "carciiono",
+      "type": "ENTITY",
+      "start": 24,
+      "end": 33
+    },
+    {
+      "text": "page",
+      "type": "ENTITY",
+      "start": 94,
+      "end": 98
+    },
+    {
+      "text": "2 Department of Cancer",
+      "type": "ENTITY",
+      "start": 103,
+      "end": 125
+    },
+    {
+      "text": "copy No. Date",
+      "type": "ENTITY",
+      "start": 136,
+      "end": 149
+    },
+    {
+      "text": "Examination",
+      "type": "ENTITY",
+      "start": 154,
+      "end": 165
+    },
+    {
+      "text": "Histopathological",
+      "type": "ENTITY",
+      "start": 167,
+      "end": 184
+    },
+    {
+      "text": "examination",
+      "type": "ENTITY",
+      "start": 185,
+      "end": 196
+    },
+    {
+      "text": "Patient",
+      "type": "ENTITY",
+      "start": 215,
+      "end": 222
+    },
+    {
+      "text": "XXX",
+      "type": "ENTITY",
+      "start": 224,
+      "end": 227
+    },
+    {
+      "text": "PESEL",
+      "type": "ENTITY",
+      "start": 228,
+      "end": 233
+    },
+    {
+      "text": "XXX Age",
+      "type": "ENTITY",
+      "start": 235,
+      "end": 242
+    },
+    {
+      "text": "Gender",
+      "type": "ENTITY",
+      "start": 244,
+      "end": 250
+    },
+    {
+      "text": "Multiple",
+      "type": "ENTITY",
+      "start": 267,
+      "end": 275
+    },
+    {
+      "text": "resection",
+      "type": "ENTITY",
+      "start": 282,
+      "end": 291
+    },
+    {
+      "text": "left",
+      "type": "ENTITY",
+      "start": 294,
+      "end": 298
+    },
+    {
+      "text": "axillary tissues",
+      "type": "ENTITY",
+      "start": 310,
+      "end": 326
+    },
+    {
+      "text": "Lritrra Unit",
+      "type": "ENTITY",
+      "start": 328,
+      "end": 340
+    },
+    {
+      "text": "charge",
+      "type": "ENTITY",
+      "start": 366,
+      "end": 372
+    },
+    {
+      "text": "Material",
+      "type": "ENTITY",
+      "start": 374,
+      "end": 382
+    },
+    {
+      "text": "collected",
+      "type": "ENTITY",
+      "start": 383,
+      "end": 392
+    },
+    {
+      "text": "Material",
+      "type": "ENTITY",
+      "start": 397,
+      "end": 405
+    },
+    {
+      "text": "Expected time",
+      "type": "ENTITY",
+      "start": 419,
+      "end": 432
+    },
+    {
+      "text": "examination",
+      "type": "ENTITY",
+      "start": 436,
+      "end": 447
+    },
+    {
+      "text": "working days",
+      "type": "ENTITY",
+      "start": 456,
+      "end": 468
+    },
+    {
+      "text": "Clinical diagnosis",
+      "type": "ENTITY",
+      "start": 469,
+      "end": 487
+    },
+    {
+      "text": "Cancer",
+      "type": "ENTITY",
+      "start": 489,
+      "end": 495
+    },
+    {
+      "text": "left breast",
+      "type": "ENTITY",
+      "start": 503,
+      "end": 514
+    },
+    {
+      "text": "Examination",
+      "type": "ENTITY",
+      "start": 516,
+      "end": 527
+    },
+    {
+      "text": "Macroscopic",
+      "type": "ENTITY",
+      "start": 542,
+      "end": 553
+    },
+    {
+      "text": "description",
+      "type": "ENTITY",
+      "start": 554,
+      "end": 565
+    },
+    {
+      "text": "Left breast",
+      "type": "ENTITY",
+      "start": 567,
+      "end": 578
+    },
+    {
+      "text": "removed",
+      "type": "ENTITY",
+      "start": 600,
+      "end": 607
+    },
+    {
+      "text": "axillary tissues",
+      "type": "ENTITY",
+      "start": 619,
+      "end": 635
+    },
+    {
+      "text": "sized",
+      "type": "ENTITY",
+      "start": 636,
+      "end": 641
+    },
+    {
+      "text": "skin flap",
+      "type": "ENTITY",
+      "start": 672,
+      "end": 681
+    },
+    {
+      "text": "Weight",
+      "type": "ENTITY",
+      "start": 683,
+      "end": 689
+    },
+    {
+      "text": "sized",
+      "type": "ENTITY",
+      "start": 703,
+      "end": 708
+    },
+    {
+      "text": "middle part",
+      "type": "ENTITY",
+      "start": 735,
+      "end": 746
+    },
+    {
+      "text": "upper boundary",
+      "type": "ENTITY",
+      "start": 764,
+      "end": 778
+    },
+    {
+      "text": "base",
+      "type": "ENTITY",
+      "start": 796,
+      "end": 800
+    },
+    {
+      "text": "skin",
+      "type": "ENTITY",
+      "start": 819,
+      "end": 823
+    },
+    {
+      "text": "Microscopic description",
+      "type": "ENTITY",
+      "start": 825,
+      "end": 848
+    },
+    {
+      "text": "Carcinoma",
+      "type": "ENTITY",
+      "start": 851,
+      "end": 860
+    },
+    {
+      "text": "ductale",
+      "type": "ENTITY",
+      "start": 861,
+      "end": 868
+    },
+    {
+      "text": "invasivum",
+      "type": "ENTITY",
+      "start": 869,
+      "end": 878
+    },
+    {
+      "text": "NHG2",
+      "type": "ENTITY",
+      "start": 881,
+      "end": 885
+    },
+    {
+      "text": "visual",
+      "type": "ENTITY",
+      "start": 913,
+      "end": 919
+    },
+    {
+      "text": "Foci",
+      "type": "ENTITY",
+      "start": 935,
+      "end": 939
+    },
+    {
+      "text": "carcinoma",
+      "type": "ENTITY",
+      "start": 943,
+      "end": 952
+    },
+    {
+      "text": "ductale",
+      "type": "ENTITY",
+      "start": 953,
+      "end": 960
+    },
+    {
+      "text": "in situ",
+      "type": "ENTITY",
+      "start": 961,
+      "end": 968
+    },
+    {
+      "text": "tumour",
+      "type": "ENTITY",
+      "start": 993,
+      "end": 999
+    },
+    {
+      "text": "solid",
+      "type": "ENTITY",
+      "start": 1001,
+      "end": 1006
+    },
+    {
+      "text": "cribrate type",
+      "type": "ENTITY",
+      "start": 1011,
+      "end": 1024
+    },
+    {
+      "text": "medium",
+      "type": "ENTITY",
+      "start": 1031,
+      "end": 1037
+    },
+    {
+      "text": "nuclear atypia",
+      "type": "ENTITY",
+      "start": 1038,
+      "end": 1052
+    },
+    {
+      "text": "necrosis",
+      "type": "ENTITY",
+      "start": 1062,
+      "end": 1070
+    },
+    {
+      "text": "calcifications",
+      "type": "ENTITY",
+      "start": 1080,
+      "end": 1094
+    },
+    {
+      "text": "tumour",
+      "type": "ENTITY",
+      "start": 1114,
+      "end": 1120
+    },
+    {
+      "text": "Infiltratio carcinomatosa mamillae",
+      "type": "ENTITY",
+      "start": 1123,
+      "end": 1157
+    },
+    {
+      "text": "carcinoma",
+      "type": "ENTITY",
+      "start": 1168,
+      "end": 1177
+    },
+    {
+      "text": "ductale",
+      "type": "ENTITY",
+      "start": 1178,
+      "end": 1185
+    },
+    {
+      "text": "invasivum",
+      "type": "ENTITY",
+      "start": 1186,
+      "end": 1195
+    },
+    {
+      "text": "glandular tissue",
+      "type": "ENTITY",
+      "start": 1209,
+      "end": 1225
+    },
+    {
+      "text": "inner lower quadrant",
+      "type": "ENTITY",
+      "start": 1227,
+      "end": 1247
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 1250,
+      "end": 1258
+    },
+    {
+      "text": "lesions",
+      "type": "ENTITY",
+      "start": 1286,
+      "end": 1293
+    },
+    {
+      "text": "type mastopathia fibrosa",
+      "type": "ENTITY",
+      "start": 1301,
+      "end": 1325
+    },
+    {
+      "text": "cystica",
+      "type": "ENTITY",
+      "start": 1329,
+      "end": 1336
+    },
+    {
+      "text": "hyperplasia ductalis simplex",
+      "type": "ENTITY",
+      "start": 1338,
+      "end": 1366
+    },
+    {
+      "text": "uDH",
+      "type": "ENTITY",
+      "start": 1368,
+      "end": 1371
+    },
+    {
+      "text": "AXILLARY LYMPH",
+      "type": "ENTITY",
+      "start": 1374,
+      "end": 1388
+    },
+    {
+      "text": "E Metastases carcinomatosae",
+      "type": "ENTITY",
+      "start": 1395,
+      "end": 1422
+    },
+    {
+      "text": "lymphonodis",
+      "type": "ENTITY",
+      "start": 1426,
+      "end": 1437
+    },
+    {
+      "text": "Infiltratio",
+      "type": "ENTITY",
+      "start": 1453,
+      "end": 1464
+    },
+    {
+      "text": "lymphonodi",
+      "type": "ENTITY",
+      "start": 1474,
+      "end": 1484
+    },
+    {
+      "text": "Preliminary",
+      "type": "ENTITY",
+      "start": 1486,
+      "end": 1497
+    },
+    {
+      "text": "Final",
+      "type": "ENTITY",
+      "start": 1506,
+      "end": 1511
+    },
+    {
+      "text": "response",
+      "type": "ENTITY",
+      "start": 1512,
+      "end": 1520
+    },
+    {
+      "text": "material",
+      "type": "ENTITY",
+      "start": 1552,
+      "end": 1560
+    },
+    {
+      "text": "analysed",
+      "type": "ENTITY",
+      "start": 1564,
+      "end": 1572
+    },
+    {
+      "text": "Compliance",
+      "type": "ENTITY",
+      "start": 1574,
+      "end": 1584
+    },
+    {
+      "text": "Examination",
+      "type": "ENTITY",
+      "start": 1599,
+      "end": 1610
+    },
+    {
+      "text": "performed",
+      "type": "ENTITY",
+      "start": 1611,
+      "end": 1620
+    },
+    {
+      "text": "Results",
+      "type": "ENTITY",
+      "start": 1628,
+      "end": 1635
+    },
+    {
+      "text": "immunohistochemical examination",
+      "type": "ENTITY",
+      "start": 1639,
+      "end": 1670
+    },
+    {
+      "text": "Estrogen receptors",
+      "type": "ENTITY",
+      "start": 1672,
+      "end": 1690
+    },
+    {
+      "text": "neoplastic cell",
+      "type": "ENTITY",
+      "start": 1712,
+      "end": 1727
+    },
+    {
+      "text": "Progesterone receptors",
+      "type": "ENTITY",
+      "start": 1736,
+      "end": 1758
+    },
+    {
+      "text": "neoplastic",
+      "type": "ENTITY",
+      "start": 1780,
+      "end": 1790
+    },
+    {
+      "text": "nuclei",
+      "type": "ENTITY",
+      "start": 1795,
+      "end": 1801
+    },
+    {
+      "text": "HER2 protein stained with",
+      "type": "ENTITY",
+      "start": 1803,
+      "end": 1828
+    },
+    {
+      "text": "HercepTestTM",
+      "type": "ENTITY",
+      "start": 1829,
+      "end": 1841
+    },
+    {
+      "text": "DAKO",
+      "type": "ENTITY",
+      "start": 1845,
+      "end": 1849
+    },
+    {
+      "text": "Negative reaction",
+      "type": "ENTITY",
+      "start": 1851,
+      "end": 1868
+    },
+    {
+      "text": "invasive",
+      "type": "ENTITY",
+      "start": 1872,
+      "end": 1880
+    },
+    {
+      "text": "Score",
+      "type": "ENTITY",
+      "start": 1899,
+      "end": 1904
+    },
+    {
+      "text": "Compliance",
+      "type": "ENTITY",
+      "start": 1912,
+      "end": 1922
+    },
+    {
+      "text": "Examination",
+      "type": "ENTITY",
+      "start": 1938,
+      "end": 1949
+    },
+    {
+      "text": "UUID",
+      "type": "ENTITY",
+      "start": 1964,
+      "end": 1968
+    },
+    {
+      "text": "D5614445-4EBF-4050-8FC6-D34D5CAADD82 TCGA-D8-A1XD-01A-PR",
+      "type": "ENTITY",
+      "start": 1969,
+      "end": 2025
+    },
+    {
+      "text": "Redacted\n\n--- Page 2 ---\npage 2",
+      "type": "ENTITY",
+      "start": 2026,
+      "end": 2057
+    },
+    {
+      "text": "Examination",
+      "type": "ENTITY",
+      "start": 2062,
+      "end": 2073
+    },
+    {
+      "text": "Histopathological examination",
+      "type": "ENTITY",
+      "start": 2075,
+      "end": 2104
+    },
+    {
+      "text": "Exdmnanon",
+      "type": "ENTITY",
+      "start": 2105,
+      "end": 2114
+    },
+    {
+      "text": "PEseL",
+      "type": "ENTITY",
+      "start": 2120,
+      "end": 2125
+    },
+    {
+      "text": "XXX Gender",
+      "type": "ENTITY",
+      "start": 2127,
+      "end": 2137
+    },
+    {
+      "text": "Patient",
+      "type": "ENTITY",
+      "start": 2141,
+      "end": 2148
+    },
+    {
+      "text": "XXX",
+      "type": "ENTITY",
+      "start": 2150,
+      "end": 2153
+    },
+    {
+      "text": "Examination",
+      "type": "ENTITY",
+      "start": 2154,
+      "end": 2165
+    },
+    {
+      "text": "Histopathological",
+      "type": "ENTITY",
+      "start": 2180,
+      "end": 2197
+    },
+    {
+      "text": "diagnosis",
+      "type": "ENTITY",
+      "start": 2198,
+      "end": 2207
+    },
+    {
+      "text": "Carcinoma",
+      "type": "ENTITY",
+      "start": 2209,
+      "end": 2218
+    },
+    {
+      "text": "ductale",
+      "type": "ENTITY",
+      "start": 2219,
+      "end": 2226
+    },
+    {
+      "text": "invasivum",
+      "type": "ENTITY",
+      "start": 2227,
+      "end": 2236
+    },
+    {
+      "text": "bifocal",
+      "type": "ENTITY",
+      "start": 2237,
+      "end": 2244
+    },
+    {
+      "text": "ductale",
+      "type": "ENTITY",
+      "start": 2248,
+      "end": 2255
+    },
+    {
+      "text": "in situ mammae sinistrae",
+      "type": "ENTITY",
+      "start": 2256,
+      "end": 2280
+    },
+    {
+      "text": "Invasive ductal bifocal carcinoma",
+      "type": "ENTITY",
+      "start": 2283,
+      "end": 2316
+    },
+    {
+      "text": "ductal",
+      "type": "ENTITY",
+      "start": 2321,
+      "end": 2327
+    },
+    {
+      "text": "in situ carcinoma",
+      "type": "ENTITY",
+      "start": 2328,
+      "end": 2345
+    },
+    {
+      "text": "left breast",
+      "type": "ENTITY",
+      "start": 2353,
+      "end": 2364
+    },
+    {
+      "text": "Metastases carcinomatosae",
+      "type": "ENTITY",
+      "start": 2366,
+      "end": 2391
+    },
+    {
+      "text": "Iymphonodis axillae",
+      "type": "ENTITY",
+      "start": 2395,
+      "end": 2414
+    },
+    {
+      "text": "No VI/xvll",
+      "type": "ENTITY",
+      "start": 2416,
+      "end": 2426
+    },
+    {
+      "text": "NHG2",
+      "type": "ENTITY",
+      "start": 2429,
+      "end": 2433
+    },
+    {
+      "text": "pT1c",
+      "type": "ENTITY",
+      "start": 2435,
+      "end": 2439
+    },
+    {
+      "text": "axillary lymph nodes",
+      "type": "ENTITY",
+      "start": 2468,
+      "end": 2488
+    },
+    {
+      "text": "Compliance",
+      "type": "ENTITY",
+      "start": 2490,
+      "end": 2500
+    },
+    {
+      "text": "CONTACT YOUR DOCTOR",
+      "type": "ENTITY",
+      "start": 2515,
+      "end": 2534
+    }
+  ],
+  "entity_count": 130,
+  "has_embedding": true
+}

@@ -1,0 +1,1820 @@
+{
+  "filename": "1e2d757b-7e13-4146-a8e1-18b854781322",
+  "timestamp": "2026-01-05T14:45:18.058101",
+  "entities": [
+    {
+      "text": "TCGA--DU-5852 Surgical Pathology Report",
+      "type": "ENTITY",
+      "start": 16,
+      "end": 55
+    },
+    {
+      "text": "Received",
+      "type": "ENTITY",
+      "start": 62,
+      "end": 70
+    },
+    {
+      "text": "Reported",
+      "type": "ENTITY",
+      "start": 72,
+      "end": 80
+    },
+    {
+      "text": "CLINICAL HISTORY",
+      "type": "ENTITY",
+      "start": 82,
+      "end": 98
+    },
+    {
+      "text": "patient",
+      "type": "ENTITY",
+      "start": 103,
+      "end": 110
+    },
+    {
+      "text": "patient",
+      "type": "ENTITY",
+      "start": 130,
+      "end": 137
+    },
+    {
+      "text": "lucent",
+      "type": "ENTITY",
+      "start": 144,
+      "end": 150
+    },
+    {
+      "text": "circumscribed lesion",
+      "type": "ENTITY",
+      "start": 152,
+      "end": 172
+    },
+    {
+      "text": "parahippocampal",
+      "type": "ENTITY",
+      "start": 180,
+      "end": 195
+    },
+    {
+      "text": "gyrus",
+      "type": "ENTITY",
+      "start": 197,
+      "end": 202
+    },
+    {
+      "text": "hippocampus",
+      "type": "ENTITY",
+      "start": 208,
+      "end": 219
+    },
+    {
+      "text": "FLAIR",
+      "type": "ENTITY",
+      "start": 230,
+      "end": 235
+    },
+    {
+      "text": "temporal",
+      "type": "ENTITY",
+      "start": 263,
+      "end": 271
+    },
+    {
+      "text": "Epilepsy",
+      "type": "ENTITY",
+      "start": 298,
+      "end": 306
+    },
+    {
+      "text": "Operation/Specimen",
+      "type": "ENTITY",
+      "start": 307,
+      "end": 325
+    },
+    {
+      "text": "Brain",
+      "type": "ENTITY",
+      "start": 330,
+      "end": 335
+    },
+    {
+      "text": "medial temporal tumor",
+      "type": "ENTITY",
+      "start": 336,
+      "end": 357
+    },
+    {
+      "text": "biopsy",
+      "type": "ENTITY",
+      "start": 359,
+      "end": 365
+    },
+    {
+      "text": "B",
+      "type": "ENTITY",
+      "start": 367,
+      "end": 368
+    },
+    {
+      "text": "Brain",
+      "type": "ENTITY",
+      "start": 370,
+      "end": 375
+    },
+    {
+      "text": "posterior tumor",
+      "type": "ENTITY",
+      "start": 377,
+      "end": 392
+    },
+    {
+      "text": "biopsy",
+      "type": "ENTITY",
+      "start": 394,
+      "end": 400
+    },
+    {
+      "text": "PATHOLOGICAL.DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 402,
+      "end": 424
+    },
+    {
+      "text": "A. Brain",
+      "type": "ENTITY",
+      "start": 426,
+      "end": 434
+    },
+    {
+      "text": "medial temporal tumor",
+      "type": "ENTITY",
+      "start": 436,
+      "end": 457
+    },
+    {
+      "text": "biopsy",
+      "type": "ENTITY",
+      "start": 459,
+      "end": 465
+    },
+    {
+      "text": "Anaplastic oligoastrocytoma",
+      "type": "ENTITY",
+      "start": 467,
+      "end": 494
+    },
+    {
+      "text": "WHO",
+      "type": "ENTITY",
+      "start": 496,
+      "end": 499
+    },
+    {
+      "text": "Grade III",
+      "type": "ENTITY",
+      "start": 500,
+      "end": 509
+    },
+    {
+      "text": "comment",
+      "type": "ENTITY",
+      "start": 516,
+      "end": 523
+    },
+    {
+      "text": "B. Brain",
+      "type": "ENTITY",
+      "start": 526,
+      "end": 534
+    },
+    {
+      "text": "posterior tumor",
+      "type": "ENTITY",
+      "start": 536,
+      "end": 551
+    },
+    {
+      "text": "biopsy",
+      "type": "ENTITY",
+      "start": 553,
+      "end": 559
+    },
+    {
+      "text": "Anaplastic oligoastrocytoma",
+      "type": "ENTITY",
+      "start": 561,
+      "end": 588
+    },
+    {
+      "text": "Grade III",
+      "type": "ENTITY",
+      "start": 595,
+      "end": 604
+    },
+    {
+      "text": "comment",
+      "type": "ENTITY",
+      "start": 611,
+      "end": 618
+    },
+    {
+      "text": "COMMENT",
+      "type": "ENTITY",
+      "start": 621,
+      "end": 628
+    },
+    {
+      "text": "Permanent sections",
+      "type": "ENTITY",
+      "start": 629,
+      "end": 647
+    },
+    {
+      "text": "frozen section",
+      "type": "ENTITY",
+      "start": 685,
+      "end": 699
+    },
+    {
+      "text": "diagnoses",
+      "type": "ENTITY",
+      "start": 700,
+      "end": 709
+    },
+    {
+      "text": "Sections",
+      "type": "ENTITY",
+      "start": 711,
+      "end": 719
+    },
+    {
+      "text": "A.",
+      "type": "ENTITY",
+      "start": 723,
+      "end": 725
+    },
+    {
+      "text": "B.",
+      "type": "ENTITY",
+      "start": 730,
+      "end": 732
+    },
+    {
+      "text": "proliferation",
+      "type": "ENTITY",
+      "start": 740,
+      "end": 753
+    },
+    {
+      "text": "oval",
+      "type": "ENTITY",
+      "start": 789,
+      "end": 793
+    },
+    {
+      "text": "angular cells",
+      "type": "ENTITY",
+      "start": 811,
+      "end": 824
+    },
+    {
+      "text": "Infiltrate cortex",
+      "type": "ENTITY",
+      "start": 826,
+      "end": 843
+    },
+    {
+      "text": "perineuronal tumor cell",
+      "type": "ENTITY",
+      "start": 850,
+      "end": 873
+    },
+    {
+      "text": "satellitosis",
+      "type": "ENTITY",
+      "start": 874,
+      "end": 886
+    },
+    {
+      "text": "mitotic figures",
+      "type": "ENTITY",
+      "start": 898,
+      "end": 913
+    },
+    {
+      "text": "identified",
+      "type": "ENTITY",
+      "start": 918,
+      "end": 928
+    },
+    {
+      "text": "Vascular proliferation",
+      "type": "ENTITY",
+      "start": 930,
+      "end": 952
+    },
+    {
+      "text": "necrosis",
+      "type": "ENTITY",
+      "start": 957,
+      "end": 965
+    },
+    {
+      "text": "Immunohistochemical stains",
+      "type": "ENTITY",
+      "start": 980,
+      "end": 1006
+    },
+    {
+      "text": "B.",
+      "type": "ENTITY",
+      "start": 1025,
+      "end": 1027
+    },
+    {
+      "text": "positive",
+      "type": "ENTITY",
+      "start": 1033,
+      "end": 1041
+    },
+    {
+      "text": "GFAP",
+      "type": "ENTITY",
+      "start": 1042,
+      "end": 1046
+    },
+    {
+      "text": "staining",
+      "type": "ENTITY",
+      "start": 1047,
+      "end": 1055
+    },
+    {
+      "text": "reactive",
+      "type": "ENTITY",
+      "start": 1059,
+      "end": 1067
+    },
+    {
+      "text": "astrocytes",
+      "type": "ENTITY",
+      "start": 1068,
+      "end": 1078
+    },
+    {
+      "text": "tumor cells",
+      "type": "ENTITY",
+      "start": 1095,
+      "end": 1106
+    },
+    {
+      "text": "thin rim",
+      "type": "ENTITY",
+      "start": 1129,
+      "end": 1137
+    },
+    {
+      "text": "perinuclear staining",
+      "type": "ENTITY",
+      "start": 1141,
+      "end": 1161
+    },
+    {
+      "text": "slides",
+      "type": "ENTITY",
+      "start": 1178,
+      "end": 1184
+    },
+    {
+      "text": "case",
+      "type": "ENTITY",
+      "start": 1194,
+      "end": 1198
+    },
+    {
+      "text": "reviewed",
+      "type": "ENTITY",
+      "start": 1208,
+      "end": 1216
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1247,
+      "end": 1252
+    },
+    {
+      "text": "consistent with",
+      "type": "ENTITY",
+      "start": 1261,
+      "end": 1276
+    },
+    {
+      "text": "anaplastic oligoastrocytoma",
+      "type": "ENTITY",
+      "start": 1280,
+      "end": 1307
+    },
+    {
+      "text": "dominant",
+      "type": "ENTITY",
+      "start": 1352,
+      "end": 1360
+    },
+    {
+      "text": "Ki-67 labeling index",
+      "type": "ENTITY",
+      "start": 1366,
+      "end": 1386
+    },
+    {
+      "text": "approximately",
+      "type": "ENTITY",
+      "start": 1396,
+      "end": 1409
+    },
+    {
+      "text": "Positive",
+      "type": "ENTITY",
+      "start": 1415,
+      "end": 1423
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 1428,
+      "end": 1436
+    },
+    {
+      "text": "immunoreactivity",
+      "type": "ENTITY",
+      "start": 1463,
+      "end": 1479
+    },
+    {
+      "text": "Molecular studies",
+      "type": "ENTITY",
+      "start": 1481,
+      "end": 1498
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1513,
+      "end": 1518
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 1522,
+      "end": 1530
+    },
+    {
+      "text": "positive",
+      "type": "ENTITY",
+      "start": 1550,
+      "end": 1558
+    },
+    {
+      "text": "MGmr",
+      "type": "ENTITY",
+      "start": 1563,
+      "end": 1567
+    },
+    {
+      "text": "promoter methylation",
+      "type": "ENTITY",
+      "start": 1568,
+      "end": 1588
+    },
+    {
+      "text": "procedure addenda",
+      "type": "ENTITY",
+      "start": 1594,
+      "end": 1611
+    },
+    {
+      "text": "PROCEDURES/ADDENDA",
+      "type": "ENTITY",
+      "start": 1620,
+      "end": 1638
+    },
+    {
+      "text": "Loss",
+      "type": "ENTITY",
+      "start": 1639,
+      "end": 1643
+    },
+    {
+      "text": "Heterozygosity 1p",
+      "type": "ENTITY",
+      "start": 1647,
+      "end": 1664
+    },
+    {
+      "text": "Interpretation",
+      "type": "ENTITY",
+      "start": 1705,
+      "end": 1719
+    },
+    {
+      "text": "Allelic loss",
+      "type": "ENTITY",
+      "start": 1730,
+      "end": 1742
+    },
+    {
+      "text": "chromosome arm 1p and chromosome arm 19q",
+      "type": "ENTITY",
+      "start": 1746,
+      "end": 1786
+    },
+    {
+      "text": "NOT",
+      "type": "ENTITY",
+      "start": 1790,
+      "end": 1793
+    },
+    {
+      "text": "detected",
+      "type": "ENTITY",
+      "start": 1797,
+      "end": 1805
+    },
+    {
+      "text": "Informative loci",
+      "type": "ENTITY",
+      "start": 1807,
+      "end": 1823
+    },
+    {
+      "text": "D1s1592",
+      "type": "ENTITY",
+      "start": 1829,
+      "end": 1836
+    },
+    {
+      "text": "D1s552",
+      "type": "ENTITY",
+      "start": 1838,
+      "end": 1844
+    },
+    {
+      "text": "D1s468",
+      "type": "ENTITY",
+      "start": 1846,
+      "end": 1852
+    },
+    {
+      "text": "D1s1612",
+      "type": "ENTITY",
+      "start": 1854,
+      "end": 1861
+    },
+    {
+      "text": "D1s496",
+      "type": "ENTITY",
+      "start": 1863,
+      "end": 1869
+    },
+    {
+      "text": "PLA2G4C",
+      "type": "ENTITY",
+      "start": 1871,
+      "end": 1878
+    },
+    {
+      "text": "D19S606",
+      "type": "ENTITY",
+      "start": 1880,
+      "end": 1887
+    },
+    {
+      "text": "Results-Comments Testing",
+      "type": "ENTITY",
+      "start": 1901,
+      "end": 1925
+    },
+    {
+      "text": "DNA",
+      "type": "ENTITY",
+      "start": 1939,
+      "end": 1942
+    },
+    {
+      "text": "tumor paraffin block",
+      "type": "ENTITY",
+      "start": 1958,
+      "end": 1978
+    },
+    {
+      "text": "DNA",
+      "type": "ENTITY",
+      "start": 1980,
+      "end": 1983
+    },
+    {
+      "text": "from'a",
+      "type": "ENTITY",
+      "start": 1994,
+      "end": 2000
+    },
+    {
+      "text": "blood specimen",
+      "type": "ENTITY",
+      "start": 2015,
+      "end": 2029
+    },
+    {
+      "text": "normal reference control",
+      "type": "ENTITY",
+      "start": 2042,
+      "end": 2066
+    },
+    {
+      "text": "Allelic loss",
+      "type": "ENTITY",
+      "start": 2086,
+      "end": 2098
+    },
+    {
+      "text": "assessed",
+      "type": "ENTITY",
+      "start": 2102,
+      "end": 2110
+    },
+    {
+      "text": "PcR assay",
+      "type": "ENTITY",
+      "start": 2114,
+      "end": 2123
+    },
+    {
+      "text": "Normal DNA",
+      "type": "ENTITY",
+      "start": 2127,
+      "end": 2137
+    },
+    {
+      "text": "Tumor DNA pairs",
+      "type": "ENTITY",
+      "start": 2150,
+      "end": 2165
+    },
+    {
+      "text": "markers",
+      "type": "ENTITY",
+      "start": 2174,
+      "end": 2181
+    },
+    {
+      "text": "1p",
+      "type": "ENTITY",
+      "start": 2190,
+      "end": 2192
+    },
+    {
+      "text": "markers",
+      "type": "ENTITY",
+      "start": 2208,
+      "end": 2215
+    },
+    {
+      "text": "D1s548",
+      "type": "ENTITY",
+      "start": 2226,
+      "end": 2232
+    },
+    {
+      "text": "D1s1592",
+      "type": "ENTITY",
+      "start": 2234,
+      "end": 2241
+    },
+    {
+      "text": "D1s552",
+      "type": "ENTITY",
+      "start": 2247,
+      "end": 2253
+    },
+    {
+      "text": "D1s468",
+      "type": "ENTITY",
+      "start": 2260,
+      "end": 2266
+    },
+    {
+      "text": "D1s1612",
+      "type": "ENTITY",
+      "start": 2268,
+      "end": 2275
+    },
+    {
+      "text": "D1S496",
+      "type": "ENTITY",
+      "start": 2281,
+      "end": 2287
+    },
+    {
+      "text": "backup markers",
+      "type": "ENTITY",
+      "start": 2291,
+      "end": 2305
+    },
+    {
+      "text": "markers",
+      "type": "ENTITY",
+      "start": 2317,
+      "end": 2324
+    },
+    {
+      "text": "D19s412",
+      "type": "ENTITY",
+      "start": 2345,
+      "end": 2352
+    },
+    {
+      "text": "PLA2G4C",
+      "type": "ENTITY",
+      "start": 2358,
+      "end": 2365
+    },
+    {
+      "text": "D19s606",
+      "type": "ENTITY",
+      "start": 2372,
+      "end": 2379
+    },
+    {
+      "text": "D19sl182",
+      "type": "ENTITY",
+      "start": 2385,
+      "end": 2393
+    },
+    {
+      "text": "backup",
+      "type": "ENTITY",
+      "start": 2397,
+      "end": 2403
+    },
+    {
+      "text": "markers",
+      "type": "ENTITY",
+      "start": 2410,
+      "end": 2417
+    },
+    {
+      "text": "microsatellites",
+      "type": "ENTITY",
+      "start": 2422,
+      "end": 2437
+    },
+    {
+      "text": "PLA2g4c",
+      "type": "ENTITY",
+      "start": 2465,
+      "end": 2472
+    },
+    {
+      "text": "minisatellite",
+      "type": "ENTITY",
+      "start": 2484,
+      "end": 2497
+    },
+    {
+      "text": "polymorphism",
+      "type": "ENTITY",
+      "start": 2513,
+      "end": 2525
+    },
+    {
+      "text": "markers",
+      "type": "ENTITY",
+      "start": 2531,
+      "end": 2538
+    },
+    {
+      "text": "heterozygosity score",
+      "type": "ENTITY",
+      "start": 2562,
+      "end": 2582
+    },
+    {
+      "text": "amplicon size",
+      "type": "ENTITY",
+      "start": 2584,
+      "end": 2597
+    },
+    {
+      "text": "interpretation",
+      "type": "ENTITY",
+      "start": 2611,
+      "end": 2625
+    },
+    {
+      "text": "backup markers",
+      "type": "ENTITY",
+      "start": 2631,
+      "end": 2645
+    },
+    {
+      "text": "markers",
+      "type": "ENTITY",
+      "start": 2673,
+      "end": 2680
+    },
+    {
+      "text": "chromosome arm",
+      "type": "ENTITY",
+      "start": 2689,
+      "end": 2703
+    },
+    {
+      "text": "uninformative",
+      "type": "ENTITY",
+      "start": 2708,
+      "end": 2721
+    },
+    {
+      "text": "interpretation",
+      "type": "ENTITY",
+      "start": 2770,
+      "end": 2784
+    },
+    {
+      "text": "informative loci",
+      "type": "ENTITY",
+      "start": 2797,
+      "end": 2813
+    },
+    {
+      "text": "chromosomal arm",
+      "type": "ENTITY",
+      "start": 2822,
+      "end": 2837
+    },
+    {
+      "text": "finding",
+      "type": "ENTITY",
+      "start": 2861,
+      "end": 2868
+    },
+    {
+      "text": "oligodendrogliomas",
+      "type": "ENTITY",
+      "start": 2872,
+      "end": 2890
+    },
+    {
+      "text": "deletion",
+      "type": "ENTITY",
+      "start": 2907,
+      "end": 2915
+    },
+    {
+      "text": "FDA",
+      "type": "ENTITY",
+      "start": 2917,
+      "end": 2920
+    },
+    {
+      "text": "data",
+      "type": "ENTITY",
+      "start": 2941,
+      "end": 2945
+    },
+    {
+      "text": "construed",
+      "type": "ENTITY",
+      "start": 2960,
+      "end": 2969
+    },
+    {
+      "text": "results",
+      "type": "ENTITY",
+      "start": 2977,
+      "end": 2984
+    },
+    {
+      "text": "test",
+      "type": "ENTITY",
+      "start": 3028,
+      "end": 3032
+    },
+    {
+      "text": "performance",
+      "type": "ENTITY",
+      "start": 3055,
+      "end": 3066
+    },
+    {
+      "text": "characteristics",
+      "type": "ENTITY",
+      "start": 3067,
+      "end": 3082
+    },
+    {
+      "text": "regulations",
+      "type": "ENTITY",
+      "start": 3116,
+      "end": 3127
+    },
+    {
+      "text": "cleared",
+      "type": "ENTITY",
+      "start": 3145,
+      "end": 3152
+    },
+    {
+      "text": "U.s. Food and Drug Administration",
+      "type": "ENTITY",
+      "start": 3190,
+      "end": 3223
+    },
+    {
+      "text": "FDA",
+      "type": "ENTITY",
+      "start": 3225,
+      "end": 3228
+    },
+    {
+      "text": "FDA",
+      "type": "ENTITY",
+      "start": 3235,
+      "end": 3238
+    },
+    {
+      "text": "clearance",
+      "type": "ENTITY",
+      "start": 3264,
+      "end": 3273
+    },
+    {
+      "text": "approval",
+      "type": "ENTITY",
+      "start": 3277,
+      "end": 3285
+    },
+    {
+      "text": "results",
+      "type": "ENTITY",
+      "start": 3311,
+      "end": 3318
+    },
+    {
+      "text": "informational",
+      "type": "ENTITY",
+      "start": 3336,
+      "end": 3349
+    },
+    {
+      "text": "interpreted",
+      "type": "ENTITY",
+      "start": 3379,
+      "end": 3390
+    },
+    {
+      "text": "context",
+      "type": "ENTITY",
+      "start": 3404,
+      "end": 3411
+    },
+    {
+      "text": "procedures",
+      "type": "ENTITY",
+      "start": 3427,
+      "end": 3437
+    },
+    {
+      "text": "diagnostic criteria",
+      "type": "ENTITY",
+      "start": 3445,
+      "end": 3464
+    },
+    {
+      "text": "SENSITIviTy",
+      "type": "ENTITY",
+      "start": 3477,
+      "end": 3488
+    },
+    {
+      "text": "presence",
+      "type": "ENTITY",
+      "start": 3494,
+      "end": 3502
+    },
+    {
+      "text": "non-neoplastic cells",
+      "type": "ENTITY",
+      "start": 3511,
+      "end": 3531
+    },
+    {
+      "text": "sample",
+      "type": "ENTITY",
+      "start": 3539,
+      "end": 3545
+    },
+    {
+      "text": "detection",
+      "type": "ENTITY",
+      "start": 3563,
+      "end": 3572
+    },
+    {
+      "text": "allelic loss",
+      "type": "ENTITY",
+      "start": 3576,
+      "end": 3588
+    },
+    {
+      "text": "Eernic ianed",
+      "type": "ENTITY",
+      "start": 3590,
+      "end": 3602
+    },
+    {
+      "text": "Reported",
+      "type": "ENTITY",
+      "start": 3627,
+      "end": 3635
+    },
+    {
+      "text": "Interpretation",
+      "type": "ENTITY",
+      "start": 3638,
+      "end": 3652
+    },
+    {
+      "text": "POsITivE",
+      "type": "ENTITY",
+      "start": 3654,
+      "end": 3662
+    },
+    {
+      "text": "Methylated",
+      "type": "ENTITY",
+      "start": 3664,
+      "end": 3674
+    },
+    {
+      "text": "promoter",
+      "type": "ENTITY",
+      "start": 3680,
+      "end": 3688
+    },
+    {
+      "text": "detected",
+      "type": "ENTITY",
+      "start": 3692,
+      "end": 3700
+    },
+    {
+      "text": "Results-Comments Testing",
+      "type": "ENTITY",
+      "start": 3702,
+      "end": 3726
+    },
+    {
+      "text": "DNA",
+      "type": "ENTITY",
+      "start": 3740,
+      "end": 3743
+    },
+    {
+      "text": "tumor paraffin block TEsT",
+      "type": "ENTITY",
+      "start": 3759,
+      "end": 3784
+    },
+    {
+      "text": "DEscRIpTIoN",
+      "type": "ENTITY",
+      "start": 3785,
+      "end": 3796
+    },
+    {
+      "text": "Patients",
+      "type": "ENTITY",
+      "start": 3798,
+      "end": 3806
+    },
+    {
+      "text": "glioma",
+      "type": "ENTITY",
+      "start": 3812,
+      "end": 3818
+    },
+    {
+      "text": "methylated",
+      "type": "ENTITY",
+      "start": 3832,
+      "end": 3842
+    },
+    {
+      "text": "MGMT",
+      "type": "ENTITY",
+      "start": 3843,
+      "end": 3847
+    },
+    {
+      "text": "promoter",
+      "type": "ENTITY",
+      "start": 3848,
+      "end": 3856
+    },
+    {
+      "text": "therapy",
+      "type": "ENTITY",
+      "start": 3890,
+      "end": 3897
+    },
+    {
+      "text": "alkylating agents",
+      "type": "ENTITY",
+      "start": 3903,
+      "end": 3920
+    },
+    {
+      "text": "Assessment",
+      "type": "ENTITY",
+      "start": 3922,
+      "end": 3932
+    },
+    {
+      "text": "MGMT",
+      "type": "ENTITY",
+      "start": 3936,
+      "end": 3940
+    },
+    {
+      "text": "promoter",
+      "type": "ENTITY",
+      "start": 3941,
+      "end": 3949
+    },
+    {
+      "text": "status",
+      "type": "ENTITY",
+      "start": 3962,
+      "end": 3968
+    },
+    {
+      "text": "bisulfite",
+      "type": "ENTITY",
+      "start": 3978,
+      "end": 3987
+    },
+    {
+      "text": "treatment",
+      "type": "ENTITY",
+      "start": 3988,
+      "end": 3997
+    },
+    {
+      "text": "DNA",
+      "type": "ENTITY",
+      "start": 4001,
+      "end": 4004
+    },
+    {
+      "text": "real-time PcR amplification",
+      "type": "ENTITY",
+      "start": 4017,
+      "end": 4044
+    },
+    {
+      "text": "MethyLight",
+      "type": "ENTITY",
+      "start": 4046,
+      "end": 4056
+    },
+    {
+      "text": "methylated",
+      "type": "ENTITY",
+      "start": 4061,
+      "end": 4071
+    },
+    {
+      "text": "unmethylated DNA sequences",
+      "type": "ENTITY",
+      "start": 4076,
+      "end": 4102
+    },
+    {
+      "text": "analytic",
+      "type": "ENTITY",
+      "start": 4108,
+      "end": 4116
+    },
+    {
+      "text": "sensitivity",
+      "type": "ENTITY",
+      "start": 4117,
+      "end": 4128
+    },
+    {
+      "text": "assay",
+      "type": "ENTITY",
+      "start": 4137,
+      "end": 4142
+    },
+    {
+      "text": "methylated positive control DNA",
+      "type": "ENTITY",
+      "start": 4180,
+      "end": 4211
+    },
+    {
+      "text": "unmethylated DNA",
+      "type": "ENTITY",
+      "start": 4217,
+      "end": 4233
+    },
+    {
+      "text": "assessed",
+      "type": "ENTITY",
+      "start": 4245,
+      "end": 4253
+    },
+    {
+      "text": "methylated",
+      "type": "ENTITY",
+      "start": 4266,
+      "end": 4276
+    },
+    {
+      "text": "unmethylated",
+      "type": "ENTITY",
+      "start": 4302,
+      "end": 4314
+    },
+    {
+      "text": "DNA",
+      "type": "ENTITY",
+      "start": 4316,
+      "end": 4319
+    },
+    {
+      "text": "Factors",
+      "type": "ENTITY",
+      "start": 4322,
+      "end": 4329
+    },
+    {
+      "text": "presence",
+      "type": "ENTITY",
+      "start": 4342,
+      "end": 4350
+    },
+    {
+      "text": "non-neoplastic cells",
+      "type": "ENTITY",
+      "start": 4359,
+      "end": 4379
+    },
+    {
+      "text": "sample",
+      "type": "ENTITY",
+      "start": 4387,
+      "end": 4393
+    },
+    {
+      "text": "tissue'necrosis",
+      "type": "ENTITY",
+      "start": 4408,
+      "end": 4423
+    },
+    {
+      "text": "detection",
+      "type": "ENTITY",
+      "start": 4442,
+      "end": 4451
+    },
+    {
+      "text": "methylated",
+      "type": "ENTITY",
+      "start": 4455,
+      "end": 4465
+    },
+    {
+      "text": "MGMT",
+      "type": "ENTITY",
+      "start": 4466,
+      "end": 4470
+    },
+    {
+      "text": "promoter sequences",
+      "type": "ENTITY",
+      "start": 4473,
+      "end": 4491
+    },
+    {
+      "text": "FDA",
+      "type": "ENTITY",
+      "start": 4509,
+      "end": 4512
+    },
+    {
+      "text": "data",
+      "type": "ENTITY",
+      "start": 4532,
+      "end": 4536
+    },
+    {
+      "text": "from'a' stand",
+      "type": "ENTITY",
+      "start": 4576,
+      "end": 4589
+    },
+    {
+      "text": "diagnostic test",
+      "type": "ENTITY",
+      "start": 4596,
+      "end": 4611
+    },
+    {
+      "text": "test",
+      "type": "ENTITY",
+      "start": 4618,
+      "end": 4622
+    },
+    {
+      "text": "performance",
+      "type": "ENTITY",
+      "start": 4646,
+      "end": 4657
+    },
+    {
+      "text": "characteristics",
+      "type": "ENTITY",
+      "start": 4658,
+      "end": 4673
+    },
+    {
+      "text": "laboratory",
+      "type": "ENTITY",
+      "start": 4692,
+      "end": 4702
+    },
+    {
+      "text": "cleared",
+      "type": "ENTITY",
+      "start": 4734,
+      "end": 4741
+    },
+    {
+      "text": "U.s. Food and Drug Administration",
+      "type": "ENTITY",
+      "start": 4779,
+      "end": 4812
+    },
+    {
+      "text": "FDA",
+      "type": "ENTITY",
+      "start": 4814,
+      "end": 4817
+    },
+    {
+      "text": "FDA",
+      "type": "ENTITY",
+      "start": 4824,
+      "end": 4827
+    },
+    {
+      "text": "clearance",
+      "type": "ENTITY",
+      "start": 4855,
+      "end": 4864
+    },
+    {
+      "text": "approval",
+      "type": "ENTITY",
+      "start": 4868,
+      "end": 4876
+    },
+    {
+      "text": "results",
+      "type": "ENTITY",
+      "start": 4901,
+      "end": 4908
+    },
+    {
+      "text": "informational",
+      "type": "ENTITY",
+      "start": 4927,
+      "end": 4940
+    },
+    {
+      "text": "interpreted",
+      "type": "ENTITY",
+      "start": 4970,
+      "end": 4981
+    },
+    {
+      "text": "procedures",
+      "type": "ENTITY",
+      "start": 5019,
+      "end": 5029
+    },
+    {
+      "text": "diagnostic criteria",
+      "type": "ENTITY",
+      "start": 5037,
+      "end": 5056
+    },
+    {
+      "text": "Logy",
+      "type": "ENTITY",
+      "start": 5059,
+      "end": 5063
+    },
+    {
+      "text": "Brain",
+      "type": "ENTITY",
+      "start": 5096,
+      "end": 5101
+    },
+    {
+      "text": "medial",
+      "type": "ENTITY",
+      "start": 5102,
+      "end": 5108
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 5120,
+      "end": 5125
+    },
+    {
+      "text": "biopsy",
+      "type": "ENTITY",
+      "start": 5127,
+      "end": 5133
+    },
+    {
+      "text": "Cerebral cortex",
+      "type": "ENTITY",
+      "start": 5135,
+      "end": 5150
+    },
+    {
+      "text": "white matter",
+      "type": "ENTITY",
+      "start": 5156,
+      "end": 5168
+    },
+    {
+      "text": "diagnostic",
+      "type": "ENTITY",
+      "start": 5175,
+      "end": 5185
+    },
+    {
+      "text": "lymphoma",
+      "type": "ENTITY",
+      "start": 5200,
+      "end": 5208
+    },
+    {
+      "text": "Firm",
+      "type": "ENTITY",
+      "start": 5210,
+      "end": 5214
+    },
+    {
+      "text": "blood clot",
+      "type": "ENTITY",
+      "start": 5215,
+      "end": 5225
+    },
+    {
+      "text": "grossly",
+      "type": "ENTITY",
+      "start": 5227,
+      "end": 5234
+    },
+    {
+      "text": "tissue",
+      "type": "ENTITY",
+      "start": 5241,
+      "end": 5247
+    },
+    {
+      "text": "Touch",
+      "type": "ENTITY",
+      "start": 5268,
+      "end": 5273
+    },
+    {
+      "text": "results",
+      "type": "ENTITY",
+      "start": 5310,
+      "end": 5317
+    },
+    {
+      "text": "Physician",
+      "type": "ENTITY",
+      "start": 5334,
+      "end": 5343
+    },
+    {
+      "text": "Record",
+      "type": "ENTITY",
+      "start": 5347,
+      "end": 5353
+    },
+    {
+      "text": "biopsy",
+      "type": "ENTITY",
+      "start": 5373,
+      "end": 5379
+    },
+    {
+      "text": "Hypercellular tissue",
+      "type": "ENTITY",
+      "start": 5386,
+      "end": 5406
+    },
+    {
+      "text": "small cells",
+      "type": "ENTITY",
+      "start": 5408,
+      "end": 5419
+    },
+    {
+      "text": "R/o glioma",
+      "type": "ENTITY",
+      "start": 5421,
+      "end": 5431
+    },
+    {
+      "text": "Touch preparation smears",
+      "type": "ENTITY",
+      "start": 5444,
+      "end": 5468
+    },
+    {
+      "text": "results",
+      "type": "ENTITY",
+      "start": 5486,
+      "end": 5493
+    },
+    {
+      "text": "Physician",
+      "type": "ENTITY",
+      "start": 5510,
+      "end": 5519
+    },
+    {
+      "text": "Record",
+      "type": "ENTITY",
+      "start": 5523,
+      "end": 5529
+    },
+    {
+      "text": "Hypercellular tissue",
+      "type": "ENTITY",
+      "start": 5536,
+      "end": 5556
+    },
+    {
+      "text": "R/o infiltrative process",
+      "type": "ENTITY",
+      "start": 5573,
+      "end": 5597
+    },
+    {
+      "text": "glioma",
+      "type": "ENTITY",
+      "start": 5599,
+      "end": 5605
+    },
+    {
+      "text": "tissue",
+      "type": "ENTITY",
+      "start": 5619,
+      "end": 5625
+    },
+    {
+      "text": "Frozen section",
+      "type": "ENTITY",
+      "start": 5644,
+      "end": 5658
+    },
+    {
+      "text": "performed",
+      "type": "ENTITY",
+      "start": 5659,
+      "end": 5668
+    },
+    {
+      "text": "results",
+      "type": "ENTITY",
+      "start": 5673,
+      "end": 5680
+    },
+    {
+      "text": "Physician",
+      "type": "ENTITY",
+      "start": 5697,
+      "end": 5706
+    },
+    {
+      "text": "Record",
+      "type": "ENTITY",
+      "start": 5710,
+      "end": 5716
+    },
+    {
+      "text": "GROSS DESCRIPTION A",
+      "type": "ENTITY",
+      "start": 5718,
+      "end": 5737
+    },
+    {
+      "text": "Medial temporal tumor",
+      "type": "ENTITY",
+      "start": 5740,
+      "end": 5761
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 5773,
+      "end": 5778
+    },
+    {
+      "text": "fragments",
+      "type": "ENTITY",
+      "start": 5786,
+      "end": 5795
+    },
+    {
+      "text": "aggregate.s Semi firm",
+      "type": "ENTITY",
+      "start": 5807,
+      "end": 5828
+    },
+    {
+      "text": "Al",
+      "type": "ENTITY",
+      "start": 5856,
+      "end": 5858
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 5890,
+      "end": 5895
+    },
+    {
+      "text": "multiple",
+      "type": "ENTITY",
+      "start": 5897,
+      "end": 5905
+    },
+    {
+      "text": "fragments",
+      "type": "ENTITY",
+      "start": 5906,
+      "end": 5915
+    },
+    {
+      "text": "aggregate",
+      "type": "ENTITY",
+      "start": 5940,
+      "end": 5949
+    },
+    {
+      "text": "tannish-grey",
+      "type": "ENTITY",
+      "start": 5964,
+      "end": 5976
+    },
+    {
+      "text": "focally hemorrhagic",
+      "type": "ENTITY",
+      "start": 5978,
+      "end": 5997
+    },
+    {
+      "text": "Fragment",
+      "type": "ENTITY",
+      "start": 5999,
+      "end": 6007
+    },
+    {
+      "text": "leptomeninges",
+      "type": "ENTITY",
+      "start": 6012,
+      "end": 6025
+    },
+    {
+      "text": "engorged vessels",
+      "type": "ENTITY",
+      "start": 6031,
+      "end": 6047
+    },
+    {
+      "text": "B1-B3",
+      "type": "ENTITY",
+      "start": 6059,
+      "end": 6064
+    },
+    {
+      "text": "frozen tissue B4",
+      "type": "ENTITY",
+      "start": 6066,
+      "end": 6082
+    },
+    {
+      "text": "Billing Fee",
+      "type": "ENTITY",
+      "start": 6124,
+      "end": 6135
+    },
+    {
+      "text": "Code(s)",
+      "type": "ENTITY",
+      "start": 6136,
+      "end": 6143
+    },
+    {
+      "text": "Histo Data Part' A",
+      "type": "ENTITY",
+      "start": 6146,
+      "end": 6164
+    },
+    {
+      "text": "Brain",
+      "type": "ENTITY",
+      "start": 6167,
+      "end": 6172
+    },
+    {
+      "text": "medial temporal tumor",
+      "type": "ENTITY",
+      "start": 6173,
+      "end": 6194
+    },
+    {
+      "text": "biopsy",
+      "type": "ENTITY",
+      "start": 6196,
+      "end": 6202
+    },
+    {
+      "text": "Stain/cnt Block Ordered Comment H/E'x 1 1",
+      "type": "ENTITY",
+      "start": 6220,
+      "end": 6261
+    },
+    {
+      "text": "TPS",
+      "type": "ENTITY",
+      "start": 6262,
+      "end": 6265
+    },
+    {
+      "text": "Part B] biopsy",
+      "type": "ENTITY",
+      "start": 6276,
+      "end": 6290
+    },
+    {
+      "text": "Stain/cnt Block Ordered Comment FS H/E",
+      "type": "ENTITY",
+      "start": 6308,
+      "end": 6346
+    },
+    {
+      "text": "LOH-curls",
+      "type": "ENTITY",
+      "start": 6376,
+      "end": 6385
+    },
+    {
+      "text": "TPS",
+      "type": "ENTITY",
+      "start": 6423,
+      "end": 6426
+    },
+    {
+      "text": "Triage",
+      "type": "ENTITY",
+      "start": 6427,
+      "end": 6433
+    },
+    {
+      "text": "*** End",
+      "type": "ENTITY",
+      "start": 6497,
+      "end": 6504
+    }
+  ],
+  "entity_count": 302,
+  "has_embedding": true
+}

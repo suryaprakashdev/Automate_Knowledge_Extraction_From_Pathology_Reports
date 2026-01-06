@@ -1,0 +1,938 @@
+{
+  "filename": "c70f117c-4b16-4f25-beba-e098a3cb467d",
+  "timestamp": "2026-01-05T14:45:21.272463",
+  "entities": [
+    {
+      "text": "Accession",
+      "type": "ENTITY",
+      "start": 29,
+      "end": 38
+    },
+    {
+      "text": "Date",
+      "type": "ENTITY",
+      "start": 55,
+      "end": 59
+    },
+    {
+      "text": "DOB",
+      "type": "ENTITY",
+      "start": 74,
+      "end": 77
+    },
+    {
+      "text": "Date",
+      "type": "ENTITY",
+      "start": 79,
+      "end": 83
+    },
+    {
+      "text": "Recelpt Gender",
+      "type": "ENTITY",
+      "start": 87,
+      "end": 101
+    },
+    {
+      "text": "Date",
+      "type": "ENTITY",
+      "start": 103,
+      "end": 107
+    },
+    {
+      "text": "Report",
+      "type": "ENTITY",
+      "start": 111,
+      "end": 117
+    },
+    {
+      "text": "Ret",
+      "type": "ENTITY",
+      "start": 118,
+      "end": 121
+    },
+    {
+      "text": "Physician",
+      "type": "ENTITY",
+      "start": 122,
+      "end": 131
+    },
+    {
+      "text": "Patient",
+      "type": "ENTITY",
+      "start": 144,
+      "end": 151
+    },
+    {
+      "text": "Billing Type",
+      "type": "ENTITY",
+      "start": 161,
+      "end": 173
+    },
+    {
+      "text": "Copy to",
+      "type": "ENTITY",
+      "start": 185,
+      "end": 192
+    },
+    {
+      "text": "left lower pole renal mass",
+      "type": "ENTITY",
+      "start": 230,
+      "end": 256
+    },
+    {
+      "text": "Specimens",
+      "type": "ENTITY",
+      "start": 258,
+      "end": 267
+    },
+    {
+      "text": "Kidney",
+      "type": "ENTITY",
+      "start": 282,
+      "end": 288
+    },
+    {
+      "text": "left lower pole",
+      "type": "ENTITY",
+      "start": 290,
+      "end": 305
+    },
+    {
+      "text": "partial nephrectomy",
+      "type": "ENTITY",
+      "start": 307,
+      "end": 326
+    },
+    {
+      "text": "Kidney",
+      "type": "ENTITY",
+      "start": 331,
+      "end": 337
+    },
+    {
+      "text": "left lower pole cyst",
+      "type": "ENTITY",
+      "start": 339,
+      "end": 359
+    },
+    {
+      "text": "DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 369,
+      "end": 378
+    },
+    {
+      "text": "Kidney",
+      "type": "ENTITY",
+      "start": 380,
+      "end": 386
+    },
+    {
+      "text": "lelt lower pole",
+      "type": "ENTITY",
+      "start": 388,
+      "end": 403
+    },
+    {
+      "text": "partial nephrectomy",
+      "type": "ENTITY",
+      "start": 405,
+      "end": 424
+    },
+    {
+      "text": "Tumor Type",
+      "type": "ENTITY",
+      "start": 425,
+      "end": 435
+    },
+    {
+      "text": "Papillary",
+      "type": "ENTITY",
+      "start": 461,
+      "end": 470
+    },
+    {
+      "text": "Fuhrman Nuclear Grade",
+      "type": "ENTITY",
+      "start": 476,
+      "end": 497
+    },
+    {
+      "text": "Tumor Size",
+      "type": "ENTITY",
+      "start": 521,
+      "end": 531
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 542,
+      "end": 550
+    },
+    {
+      "text": "Local Invasion",
+      "type": "ENTITY",
+      "start": 562,
+      "end": 576
+    },
+    {
+      "text": "renal cortical types",
+      "type": "ENTITY",
+      "start": 582,
+      "end": 602
+    },
+    {
+      "text": "Extends",
+      "type": "ENTITY",
+      "start": 605,
+      "end": 612
+    },
+    {
+      "text": "renal capsule bul",
+      "type": "ENTITY",
+      "start": 621,
+      "end": 638
+    },
+    {
+      "text": "confined",
+      "type": "ENTITY",
+      "start": 639,
+      "end": 647
+    },
+    {
+      "text": "Gerota's fascia",
+      "type": "ENTITY",
+      "start": 655,
+      "end": 670
+    },
+    {
+      "text": "Renal Vein",
+      "type": "ENTITY",
+      "start": 672,
+      "end": 682
+    },
+    {
+      "text": "Invasion",
+      "type": "ENTITY",
+      "start": 683,
+      "end": 691
+    },
+    {
+      "text": "Surgical Margins",
+      "type": "ENTITY",
+      "start": 708,
+      "end": 724
+    },
+    {
+      "text": "Free of tumor",
+      "type": "ENTITY",
+      "start": 726,
+      "end": 739
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 744,
+      "end": 749
+    },
+    {
+      "text": "focally",
+      "type": "ENTITY",
+      "start": 753,
+      "end": 760
+    },
+    {
+      "text": "inked soft tissue margin",
+      "type": "ENTITY",
+      "start": 797,
+      "end": 821
+    },
+    {
+      "text": "Ihe kidney",
+      "type": "ENTITY",
+      "start": 834,
+      "end": 844
+    },
+    {
+      "text": "kidney resection",
+      "type": "ENTITY",
+      "start": 859,
+      "end": 875
+    },
+    {
+      "text": "Non-Neoplastic Kidney",
+      "type": "ENTITY",
+      "start": 894,
+      "end": 915
+    },
+    {
+      "text": "Unremarkable Adrenal Gland",
+      "type": "ENTITY",
+      "start": 917,
+      "end": 943
+    },
+    {
+      "text": "I.ymph",
+      "type": "ENTITY",
+      "start": 960,
+      "end": 966
+    },
+    {
+      "text": "Nodes",
+      "type": "ENTITY",
+      "start": 967,
+      "end": 972
+    },
+    {
+      "text": "Tumor",
+      "type": "ENTITY",
+      "start": 1041,
+      "end": 1046
+    },
+    {
+      "text": "invades",
+      "type": "ENTITY",
+      "start": 1047,
+      "end": 1054
+    },
+    {
+      "text": "adrenal gland",
+      "type": "ENTITY",
+      "start": 1059,
+      "end": 1072
+    },
+    {
+      "text": "perinephric",
+      "type": "ENTITY",
+      "start": 1076,
+      "end": 1087
+    },
+    {
+      "text": "Gerota's lascia",
+      "type": "ENTITY",
+      "start": 1111,
+      "end": 1126
+    },
+    {
+      "text": "Immunohistochemical stains",
+      "type": "ENTITY",
+      "start": 1134,
+      "end": 1160
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1184,
+      "end": 1189
+    },
+    {
+      "text": "posltive",
+      "type": "ENTITY",
+      "start": 1193,
+      "end": 1201
+    },
+    {
+      "text": "CK7",
+      "type": "ENTITY",
+      "start": 1206,
+      "end": 1209
+    },
+    {
+      "text": "racenase",
+      "type": "ENTITY",
+      "start": 1214,
+      "end": 1222
+    },
+    {
+      "text": "negalive",
+      "type": "ENTITY",
+      "start": 1230,
+      "end": 1238
+    },
+    {
+      "text": "CK20",
+      "type": "ENTITY",
+      "start": 1243,
+      "end": 1247
+    },
+    {
+      "text": "granular",
+      "type": "ENTITY",
+      "start": 1263,
+      "end": 1271
+    },
+    {
+      "text": "non-specific staining",
+      "type": "ENTITY",
+      "start": 1273,
+      "end": 1294
+    },
+    {
+      "text": "c-kit",
+      "type": "ENTITY",
+      "start": 1299,
+      "end": 1304
+    },
+    {
+      "text": "4A4",
+      "type": "ENTITY",
+      "start": 1318,
+      "end": 1321
+    },
+    {
+      "text": "consistent with",
+      "type": "ENTITY",
+      "start": 1346,
+      "end": 1361
+    },
+    {
+      "text": "diagnosis",
+      "type": "ENTITY",
+      "start": 1366,
+      "end": 1375
+    },
+    {
+      "text": "papillary renal cell carcinoma",
+      "type": "ENTITY",
+      "start": 1379,
+      "end": 1409
+    },
+    {
+      "text": "Kidney cyst",
+      "type": "ENTITY",
+      "start": 1414,
+      "end": 1425
+    },
+    {
+      "text": "left lower pole",
+      "type": "ENTITY",
+      "start": 1427,
+      "end": 1442
+    },
+    {
+      "text": "exclsion",
+      "type": "ENTITY",
+      "start": 1444,
+      "end": 1452
+    },
+    {
+      "text": "TATTEST",
+      "type": "ENTITY",
+      "start": 1501,
+      "end": 1508
+    },
+    {
+      "text": "THAT IHAVE",
+      "type": "ENTITY",
+      "start": 1616,
+      "end": 1626
+    },
+    {
+      "text": "REVIEWED",
+      "type": "ENTITY",
+      "start": 1627,
+      "end": 1635
+    },
+    {
+      "text": "ANO",
+      "type": "ENTITY",
+      "start": 1636,
+      "end": 1639
+    },
+    {
+      "text": "Special Studies",
+      "type": "ENTITY",
+      "start": 1663,
+      "end": 1678
+    },
+    {
+      "text": "CK7",
+      "type": "ENTITY",
+      "start": 1709,
+      "end": 1712
+    },
+    {
+      "text": "TTF-1 RACEMASE",
+      "type": "ENTITY",
+      "start": 1718,
+      "end": 1732
+    },
+    {
+      "text": "JMM",
+      "type": "ENTITY",
+      "start": 1733,
+      "end": 1736
+    },
+    {
+      "text": "RECUT",
+      "type": "ENTITY",
+      "start": 1737,
+      "end": 1742
+    },
+    {
+      "text": "NEG",
+      "type": "ENTITY",
+      "start": 1743,
+      "end": 1746
+    },
+    {
+      "text": "CONT",
+      "type": "ENTITY",
+      "start": 1747,
+      "end": 1751
+    },
+    {
+      "text": "CD117",
+      "type": "ENTITY",
+      "start": 1767,
+      "end": 1772
+    },
+    {
+      "text": "RECUT",
+      "type": "ENTITY",
+      "start": 1783,
+      "end": 1788
+    },
+    {
+      "text": "NEG",
+      "type": "ENTITY",
+      "start": 1790,
+      "end": 1793
+    },
+    {
+      "text": "CONT",
+      "type": "ENTITY",
+      "start": 1794,
+      "end": 1798
+    },
+    {
+      "text": "Gross Description",
+      "type": "ENTITY",
+      "start": 1799,
+      "end": 1816
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1826,
+      "end": 1834
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 1847,
+      "end": 1852
+    },
+    {
+      "text": "frozen section",
+      "type": "ENTITY",
+      "start": 1857,
+      "end": 1871
+    },
+    {
+      "text": "consultation",
+      "type": "ENTITY",
+      "start": 1872,
+      "end": 1884
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 1892,
+      "end": 1899
+    },
+    {
+      "text": "Left renal tumor",
+      "type": "ENTITY",
+      "start": 1901,
+      "end": 1917
+    },
+    {
+      "text": "lower pole",
+      "type": "ENTITY",
+      "start": 1919,
+      "end": 1929
+    },
+    {
+      "text": "wedge shaped portion of kidney",
+      "type": "ENTITY",
+      "start": 1965,
+      "end": 1995
+    },
+    {
+      "text": "suture narking",
+      "type": "ENTITY",
+      "start": 2003,
+      "end": 2017
+    },
+    {
+      "text": "deep margin",
+      "type": "ENTITY",
+      "start": 2022,
+      "end": 2033
+    },
+    {
+      "text": "margin",
+      "type": "ENTITY",
+      "start": 2039,
+      "end": 2045
+    },
+    {
+      "text": "inked black",
+      "type": "ENTITY",
+      "start": 2049,
+      "end": 2060
+    },
+    {
+      "text": "surface",
+      "type": "ENTITY",
+      "start": 2076,
+      "end": 2083
+    },
+    {
+      "text": "inked green",
+      "type": "ENTITY",
+      "start": 2087,
+      "end": 2098
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 2107,
+      "end": 2115
+    },
+    {
+      "text": "brown tan",
+      "type": "ENTITY",
+      "start": 2150,
+      "end": 2159
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 2211,
+      "end": 2220
+    },
+    {
+      "text": "cloarance",
+      "type": "ENTITY",
+      "start": 2242,
+      "end": 2251
+    },
+    {
+      "text": "reseclion margin",
+      "type": "ENTITY",
+      "start": 2261,
+      "end": 2277
+    },
+    {
+      "text": "representalive section",
+      "type": "ENTITY",
+      "start": 2291,
+      "end": 2313
+    },
+    {
+      "text": "nearest margin",
+      "type": "ENTITY",
+      "start": 2321,
+      "end": 2335
+    },
+    {
+      "text": "frozen seclion",
+      "type": "ENTITY",
+      "start": 2353,
+      "end": 2367
+    },
+    {
+      "text": "diagnosis",
+      "type": "ENTITY",
+      "start": 2368,
+      "end": 2377
+    },
+    {
+      "text": "Entirely submitted",
+      "type": "ENTITY",
+      "start": 2379,
+      "end": 2397
+    },
+    {
+      "text": "Portions",
+      "type": "ENTITY",
+      "start": 2399,
+      "end": 2407
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 2415,
+      "end": 2420
+    },
+    {
+      "text": "TPS",
+      "type": "ENTITY",
+      "start": 2439,
+      "end": 2442
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 2455,
+      "end": 2463
+    },
+    {
+      "text": "FSC",
+      "type": "ENTITY",
+      "start": 2465,
+      "end": 2468
+    },
+    {
+      "text": "frozen",
+      "type": "ENTITY",
+      "start": 2471,
+      "end": 2477
+    },
+    {
+      "text": "T",
+      "type": "ENTITY",
+      "start": 2495,
+      "end": 2496
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 2499,
+      "end": 2504
+    },
+    {
+      "text": "M-margin RS",
+      "type": "ENTITY",
+      "start": 2505,
+      "end": 2516
+    },
+    {
+      "text": "remaining",
+      "type": "ENTITY",
+      "start": 2519,
+      "end": 2528
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 2529,
+      "end": 2537
+    },
+    {
+      "text": "Ihe specimen",
+      "type": "ENTITY",
+      "start": 2543,
+      "end": 2555
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 2571,
+      "end": 2579
+    },
+    {
+      "text": "labaled",
+      "type": "ENTITY",
+      "start": 2581,
+      "end": 2588
+    },
+    {
+      "text": "lwo fragment",
+      "type": "ENTITY",
+      "start": 2637,
+      "end": 2649
+    },
+    {
+      "text": "tan soft tissue",
+      "type": "ENTITY",
+      "start": 2653,
+      "end": 2668
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 2671,
+      "end": 2680
+    },
+    {
+      "text": "grealest dimension",
+      "type": "ENTITY",
+      "start": 2698,
+      "end": 2716
+    },
+    {
+      "text": "Entirely submitted",
+      "type": "ENTITY",
+      "start": 2719,
+      "end": 2737
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 2750,
+      "end": 2758
+    },
+    {
+      "text": "U",
+      "type": "ENTITY",
+      "start": 2760,
+      "end": 2761
+    },
+    {
+      "text": "undesignated",
+      "type": "ENTITY",
+      "start": 2764,
+      "end": 2776
+    },
+    {
+      "text": "Summary",
+      "type": "ENTITY",
+      "start": 2777,
+      "end": 2784
+    },
+    {
+      "text": "Sections",
+      "type": "ENTITY",
+      "start": 2788,
+      "end": 2796
+    },
+    {
+      "text": "left lower pole",
+      "type": "ENTITY",
+      "start": 2815,
+      "end": 2830
+    },
+    {
+      "text": "partial",
+      "type": "ENTITY",
+      "start": 2832,
+      "end": 2839
+    },
+    {
+      "text": "Block Sect",
+      "type": "ENTITY",
+      "start": 2852,
+      "end": 2862
+    },
+    {
+      "text": "RS",
+      "type": "ENTITY",
+      "start": 2889,
+      "end": 2891
+    },
+    {
+      "text": "left lower pole cyst",
+      "type": "ENTITY",
+      "start": 2917,
+      "end": 2937
+    },
+    {
+      "text": "excisior Block Sect",
+      "type": "ENTITY",
+      "start": 2939,
+      "end": 2958
+    },
+    {
+      "text": "consultation",
+      "type": "ENTITY",
+      "start": 3032,
+      "end": 3044
+    },
+    {
+      "text": "FROZEN SECTION",
+      "type": "ENTITY",
+      "start": 3045,
+      "end": 3059
+    },
+    {
+      "text": "DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 3060,
+      "end": 3069
+    },
+    {
+      "text": "SP",
+      "type": "ENTITY",
+      "start": 3071,
+      "end": 3073
+    },
+    {
+      "text": "LEFT RENAL",
+      "type": "ENTITY",
+      "start": 3075,
+      "end": 3085
+    },
+    {
+      "text": "TOMOR",
+      "type": "ENTITY",
+      "start": 3087,
+      "end": 3092
+    },
+    {
+      "text": "LOWER POL",
+      "type": "ENTITY",
+      "start": 3094,
+      "end": 3103
+    },
+    {
+      "text": "NEGATIVE",
+      "type": "ENTITY",
+      "start": 3104,
+      "end": 3112
+    },
+    {
+      "text": "RENAL",
+      "type": "ENTITY",
+      "start": 3114,
+      "end": 3119
+    },
+    {
+      "text": "CORTICAL NEOPLASM SUSPECT",
+      "type": "ENTITY",
+      "start": 3120,
+      "end": 3145
+    },
+    {
+      "text": "PAPILLARY TYPE",
+      "type": "ENTITY",
+      "start": 3146,
+      "end": 3160
+    },
+    {
+      "text": "EDSTEIN",
+      "type": "ENTITY",
+      "start": 3165,
+      "end": 3172
+    },
+    {
+      "text": "EEP",
+      "type": "ENTITY",
+      "start": 3175,
+      "end": 3178
+    },
+    {
+      "text": "INKED",
+      "type": "ENTITY",
+      "start": 3179,
+      "end": 3184
+    },
+    {
+      "text": "SAME Page 3",
+      "type": "ENTITY",
+      "start": 3213,
+      "end": 3224
+    },
+    {
+      "text": "END",
+      "type": "ENTITY",
+      "start": 3230,
+      "end": 3233
+    }
+  ],
+  "entity_count": 155,
+  "has_embedding": true
+}

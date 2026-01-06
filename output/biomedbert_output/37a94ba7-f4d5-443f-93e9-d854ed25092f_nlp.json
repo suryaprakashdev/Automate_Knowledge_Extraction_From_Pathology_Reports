@@ -1,0 +1,614 @@
+{
+  "filename": "37a94ba7-f4d5-443f-93e9-d854ed25092f",
+  "timestamp": "2026-01-05T14:43:15.329214",
+  "entities": [
+    {
+      "text": "Accession",
+      "type": "ENTITY",
+      "start": 30,
+      "end": 39
+    },
+    {
+      "text": "DOB",
+      "type": "ENTITY",
+      "start": 71,
+      "end": 74
+    },
+    {
+      "text": "Date",
+      "type": "ENTITY",
+      "start": 76,
+      "end": 80
+    },
+    {
+      "text": "Receipt",
+      "type": "ENTITY",
+      "start": 84,
+      "end": 91
+    },
+    {
+      "text": "Gender",
+      "type": "ENTITY",
+      "start": 93,
+      "end": 99
+    },
+    {
+      "text": "Date",
+      "type": "ENTITY",
+      "start": 101,
+      "end": 105
+    },
+    {
+      "text": "Patient",
+      "type": "ENTITY",
+      "start": 142,
+      "end": 149
+    },
+    {
+      "text": "Billing Type",
+      "type": "ENTITY",
+      "start": 159,
+      "end": 171
+    },
+    {
+      "text": "Copy",
+      "type": "ENTITY",
+      "start": 184,
+      "end": 188
+    },
+    {
+      "text": "History History",
+      "type": "ENTITY",
+      "start": 225,
+      "end": 240
+    },
+    {
+      "text": "right renal mass",
+      "type": "ENTITY",
+      "start": 260,
+      "end": 276
+    },
+    {
+      "text": "Specimens",
+      "type": "ENTITY",
+      "start": 278,
+      "end": 287
+    },
+    {
+      "text": "right renal tumor",
+      "type": "ENTITY",
+      "start": 308,
+      "end": 325
+    },
+    {
+      "text": "partial nephrectomy DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 327,
+      "end": 356
+    },
+    {
+      "text": "Kidney,right renal tumor",
+      "type": "ENTITY",
+      "start": 358,
+      "end": 382
+    },
+    {
+      "text": "partial nephrectomy 7",
+      "type": "ENTITY",
+      "start": 383,
+      "end": 404
+    },
+    {
+      "text": "Tumor Type",
+      "type": "ENTITY",
+      "start": 405,
+      "end": 415
+    },
+    {
+      "text": "Renal cell carcinoma",
+      "type": "ENTITY",
+      "start": 417,
+      "end": 437
+    },
+    {
+      "text": "type",
+      "type": "ENTITY",
+      "start": 449,
+      "end": 453
+    },
+    {
+      "text": "Tumor Size",
+      "type": "ENTITY",
+      "start": 492,
+      "end": 502
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 513,
+      "end": 521
+    },
+    {
+      "text": "Local Invasion",
+      "type": "ENTITY",
+      "start": 533,
+      "end": 547
+    },
+    {
+      "text": "renal cortical types",
+      "type": "ENTITY",
+      "start": 553,
+      "end": 573
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 580,
+      "end": 585
+    },
+    {
+      "text": "invades",
+      "type": "ENTITY",
+      "start": 586,
+      "end": 593
+    },
+    {
+      "text": "capsule",
+      "type": "ENTITY",
+      "start": 603,
+      "end": 610
+    },
+    {
+      "text": "Renal Vein",
+      "type": "ENTITY",
+      "start": 637,
+      "end": 647
+    },
+    {
+      "text": "Invasion",
+      "type": "ENTITY",
+      "start": 648,
+      "end": 656
+    },
+    {
+      "text": "Surgical Margins",
+      "type": "ENTITY",
+      "start": 672,
+      "end": 688
+    },
+    {
+      "text": "Free of tumor",
+      "type": "ENTITY",
+      "start": 690,
+      "end": 703
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 708,
+      "end": 713
+    },
+    {
+      "text": "surgical",
+      "type": "ENTITY",
+      "start": 736,
+      "end": 744
+    },
+    {
+      "text": "Non-Neoplastic Kidney",
+      "type": "ENTITY",
+      "start": 757,
+      "end": 778
+    },
+    {
+      "text": "Unremarkable Adrenal Gland",
+      "type": "ENTITY",
+      "start": 779,
+      "end": 805
+    },
+    {
+      "text": "Lymph Nodes",
+      "type": "ENTITY",
+      "start": 822,
+      "end": 833
+    },
+    {
+      "text": "renal cell",
+      "type": "ENTITY",
+      "start": 861,
+      "end": 871
+    },
+    {
+      "text": "pT1 Tumor",
+      "type": "ENTITY",
+      "start": 894,
+      "end": 903
+    },
+    {
+      "text": "dimension",
+      "type": "ENTITY",
+      "start": 925,
+      "end": 934
+    },
+    {
+      "text": "kidney",
+      "type": "ENTITY",
+      "start": 950,
+      "end": 956
+    },
+    {
+      "text": "Comment",
+      "type": "ENTITY",
+      "start": 957,
+      "end": 964
+    },
+    {
+      "text": "Immunohistochemical study",
+      "type": "ENTITY",
+      "start": 966,
+      "end": 991
+    },
+    {
+      "text": "tumor cells",
+      "type": "ENTITY",
+      "start": 1004,
+      "end": 1015
+    },
+    {
+      "text": "positive",
+      "type": "ENTITY",
+      "start": 1020,
+      "end": 1028
+    },
+    {
+      "text": "CK7,racemase;weakly",
+      "type": "ENTITY",
+      "start": 1033,
+      "end": 1052
+    },
+    {
+      "text": "positive",
+      "type": "ENTITY",
+      "start": 1053,
+      "end": 1061
+    },
+    {
+      "text": "CD10",
+      "type": "ENTITY",
+      "start": 1066,
+      "end": 1070
+    },
+    {
+      "text": "focally positive",
+      "type": "ENTITY",
+      "start": 1075,
+      "end": 1091
+    },
+    {
+      "text": "findings",
+      "type": "ENTITY",
+      "start": 1107,
+      "end": 1115
+    },
+    {
+      "text": "diagnosis",
+      "type": "ENTITY",
+      "start": 1128,
+      "end": 1137
+    },
+    {
+      "text": "THAT I",
+      "type": "ENTITY",
+      "start": 1250,
+      "end": 1256
+    },
+    {
+      "text": "of2",
+      "type": "ENTITY",
+      "start": 1304,
+      "end": 1307
+    },
+    {
+      "text": "RACEMASE",
+      "type": "ENTITY",
+      "start": 1377,
+      "end": 1385
+    },
+    {
+      "text": "NEGCONT",
+      "type": "ENTITY",
+      "start": 1386,
+      "end": 1393
+    },
+    {
+      "text": "CK7 CD10 Gross Description",
+      "type": "ENTITY",
+      "start": 1403,
+      "end": 1429
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1438,
+      "end": 1446
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 1459,
+      "end": 1464
+    },
+    {
+      "text": "frozen section",
+      "type": "ENTITY",
+      "start": 1469,
+      "end": 1483
+    },
+    {
+      "text": "Right renal tumor'",
+      "type": "ENTITY",
+      "start": 1492,
+      "end": 1510
+    },
+    {
+      "text": "partial",
+      "type": "ENTITY",
+      "start": 1529,
+      "end": 1536
+    },
+    {
+      "text": "nephrectomy",
+      "type": "ENTITY",
+      "start": 1537,
+      "end": 1548
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1549,
+      "end": 1557
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 1559,
+      "end": 1568
+    },
+    {
+      "text": "stitch",
+      "type": "ENTITY",
+      "start": 1590,
+      "end": 1596
+    },
+    {
+      "text": "marks",
+      "type": "ENTITY",
+      "start": 1597,
+      "end": 1602
+    },
+    {
+      "text": "deep surface",
+      "type": "ENTITY",
+      "start": 1607,
+      "end": 1619
+    },
+    {
+      "text": "blue",
+      "type": "ENTITY",
+      "start": 1637,
+      "end": 1641
+    },
+    {
+      "text": "capsular",
+      "type": "ENTITY",
+      "start": 1647,
+      "end": 1655
+    },
+    {
+      "text": "surface",
+      "type": "ENTITY",
+      "start": 1656,
+      "end": 1663
+    },
+    {
+      "text": "inked black",
+      "type": "ENTITY",
+      "start": 1667,
+      "end": 1678
+    },
+    {
+      "text": "lateral pattern",
+      "type": "ENTITY",
+      "start": 1687,
+      "end": 1702
+    },
+    {
+      "text": "margin",
+      "type": "ENTITY",
+      "start": 1708,
+      "end": 1714
+    },
+    {
+      "text": "inked yellow",
+      "type": "ENTITY",
+      "start": 1718,
+      "end": 1730
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1736,
+      "end": 1744
+    },
+    {
+      "text": "tan white tumor",
+      "type": "ENTITY",
+      "start": 1779,
+      "end": 1794
+    },
+    {
+      "text": "yellow foci",
+      "type": "ENTITY",
+      "start": 1800,
+      "end": 1811
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 1819,
+      "end": 1827
+    },
+    {
+      "text": "tumor abuts",
+      "type": "ENTITY",
+      "start": 1848,
+      "end": 1859
+    },
+    {
+      "text": "capsule",
+      "type": "ENTITY",
+      "start": 1864,
+      "end": 1871
+    },
+    {
+      "text": "deep margin",
+      "type": "ENTITY",
+      "start": 1880,
+      "end": 1891
+    },
+    {
+      "text": "renal parenchyma",
+      "type": "ENTITY",
+      "start": 1908,
+      "end": 1924
+    },
+    {
+      "text": "Representative sections",
+      "type": "ENTITY",
+      "start": 1950,
+      "end": 1973
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1994,
+      "end": 1999
+    },
+    {
+      "text": "Summary",
+      "type": "ENTITY",
+      "start": 2017,
+      "end": 2024
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 2028,
+      "end": 2036
+    },
+    {
+      "text": "FSC-frozen",
+      "type": "ENTITY",
+      "start": 2038,
+      "end": 2048
+    },
+    {
+      "text": "T-tumor R-representative renal parenchyma",
+      "type": "ENTITY",
+      "start": 2065,
+      "end": 2106
+    },
+    {
+      "text": "Sections",
+      "type": "ENTITY",
+      "start": 2118,
+      "end": 2126
+    },
+    {
+      "text": "right renal tumor",
+      "type": "ENTITY",
+      "start": 2142,
+      "end": 2159
+    },
+    {
+      "text": "partial nephrectomy Block Sect",
+      "type": "ENTITY",
+      "start": 2160,
+      "end": 2190
+    },
+    {
+      "text": "Intraoperative",
+      "type": "ENTITY",
+      "start": 2220,
+      "end": 2234
+    },
+    {
+      "text": "diagnoses",
+      "type": "ENTITY",
+      "start": 2259,
+      "end": 2268
+    },
+    {
+      "text": "section",
+      "type": "ENTITY",
+      "start": 2283,
+      "end": 2290
+    },
+    {
+      "text": "tissue",
+      "type": "ENTITY",
+      "start": 2311,
+      "end": 2317
+    },
+    {
+      "text": "time",
+      "type": "ENTITY",
+      "start": 2341,
+      "end": 2345
+    },
+    {
+      "text": "intraoperative consultation",
+      "type": "ENTITY",
+      "start": 2353,
+      "end": 2380
+    },
+    {
+      "text": "FROZEN SECTION",
+      "type": "ENTITY",
+      "start": 2385,
+      "end": 2399
+    },
+    {
+      "text": "DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 2400,
+      "end": 2409
+    },
+    {
+      "text": "RENAL",
+      "type": "ENTITY",
+      "start": 2411,
+      "end": 2416
+    },
+    {
+      "text": "NEOPLASM.DEEP",
+      "type": "ENTITY",
+      "start": 2426,
+      "end": 2439
+    },
+    {
+      "text": "PERMANENT DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 2458,
+      "end": 2477
+    },
+    {
+      "text": "END",
+      "type": "ENTITY",
+      "start": 2493,
+      "end": 2496
+    }
+  ],
+  "entity_count": 101,
+  "has_embedding": true
+}

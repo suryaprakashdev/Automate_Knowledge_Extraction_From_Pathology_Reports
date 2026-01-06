@@ -1,0 +1,866 @@
+{
+  "filename": "a589acb3-4446-4d53-bab3-0dd65b4d714c",
+  "timestamp": "2026-01-05T14:42:54.121861",
+  "entities": [
+    {
+      "text": "A. RIGHT",
+      "type": "ENTITY",
+      "start": 27,
+      "end": 35
+    },
+    {
+      "text": "DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 99,
+      "end": 108
+    },
+    {
+      "text": "A-right colon",
+      "type": "ENTITY",
+      "start": 110,
+      "end": 123
+    },
+    {
+      "text": "Tumor",
+      "type": "ENTITY",
+      "start": 125,
+      "end": 130
+    },
+    {
+      "text": "margin",
+      "type": "ENTITY",
+      "start": 150,
+      "end": 156
+    },
+    {
+      "text": "proximal",
+      "type": "ENTITY",
+      "start": 158,
+      "end": 166
+    },
+    {
+      "text": "distal",
+      "type": "ENTITY",
+      "start": 171,
+      "end": 177
+    },
+    {
+      "text": "GROSS DESCRIPTION",
+      "type": "ENTITY",
+      "start": 189,
+      "end": 206
+    },
+    {
+      "text": "A. RIGHT",
+      "type": "ENTITY",
+      "start": 209,
+      "end": 217
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 233,
+      "end": 238
+    },
+    {
+      "text": "closed segment of colon",
+      "type": "ENTITY",
+      "start": 244,
+      "end": 267
+    },
+    {
+      "text": "terminal",
+      "type": "ENTITY",
+      "start": 278,
+      "end": 286
+    },
+    {
+      "text": "ileum",
+      "type": "ENTITY",
+      "start": 287,
+      "end": 292
+    },
+    {
+      "text": "ileocecal valve",
+      "type": "ENTITY",
+      "start": 294,
+      "end": 309
+    },
+    {
+      "text": "cecum",
+      "type": "ENTITY",
+      "start": 311,
+      "end": 316
+    },
+    {
+      "text": "colon",
+      "type": "ENTITY",
+      "start": 322,
+      "end": 327
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 328,
+      "end": 337
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 347,
+      "end": 353
+    },
+    {
+      "text": "serosa",
+      "type": "ENTITY",
+      "start": 359,
+      "end": 365
+    },
+    {
+      "text": "area",
+      "type": "ENTITY",
+      "start": 373,
+      "end": 377
+    },
+    {
+      "text": "tattooing",
+      "type": "ENTITY",
+      "start": 381,
+      "end": 390
+    },
+    {
+      "text": "approximately",
+      "type": "ENTITY",
+      "start": 391,
+      "end": 404
+    },
+    {
+      "text": "distal margin",
+      "type": "ENTITY",
+      "start": 419,
+      "end": 432
+    },
+    {
+      "text": "vermiform appendix",
+      "type": "ENTITY",
+      "start": 438,
+      "end": 456
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 470,
+      "end": 476
+    },
+    {
+      "text": "width",
+      "type": "ENTITY",
+      "start": 491,
+      "end": 496
+    },
+    {
+      "text": "unremarkable",
+      "type": "ENTITY",
+      "start": 504,
+      "end": 516
+    },
+    {
+      "text": "colon",
+      "type": "ENTITY",
+      "start": 533,
+      "end": 538
+    },
+    {
+      "text": "segment",
+      "type": "ENTITY",
+      "start": 544,
+      "end": 551
+    },
+    {
+      "text": "terminal",
+      "type": "ENTITY",
+      "start": 555,
+      "end": 563
+    },
+    {
+      "text": "ileum",
+      "type": "ENTITY",
+      "start": 564,
+      "end": 569
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 581,
+      "end": 587
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 600,
+      "end": 608
+    },
+    {
+      "text": "right colon",
+      "type": "ENTITY",
+      "start": 610,
+      "end": 621
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 634,
+      "end": 640
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 660,
+      "end": 668
+    },
+    {
+      "text": "colon",
+      "type": "ENTITY",
+      "start": 674,
+      "end": 679
+    },
+    {
+      "text": "circumferential",
+      "type": "ENTITY",
+      "start": 691,
+      "end": 706
+    },
+    {
+      "text": "polypoid",
+      "type": "ENTITY",
+      "start": 708,
+      "end": 716
+    },
+    {
+      "text": "indurated",
+      "type": "ENTITY",
+      "start": 718,
+      "end": 727
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 729,
+      "end": 733
+    },
+    {
+      "text": "serpentine borders",
+      "type": "ENTITY",
+      "start": 739,
+      "end": 757
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 758,
+      "end": 767
+    },
+    {
+      "text": "muscularis propria",
+      "type": "ENTITY",
+      "start": 801,
+      "end": 819
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 825,
+      "end": 829
+    },
+    {
+      "text": "proximal",
+      "type": "ENTITY",
+      "start": 856,
+      "end": 864
+    },
+    {
+      "text": "distal margins",
+      "type": "ENTITY",
+      "start": 869,
+      "end": 883
+    },
+    {
+      "text": "ileocecal valve",
+      "type": "ENTITY",
+      "start": 898,
+      "end": 913
+    },
+    {
+      "text": "colonic polyps",
+      "type": "ENTITY",
+      "start": 927,
+      "end": 941
+    },
+    {
+      "text": "Tissue",
+      "type": "ENTITY",
+      "start": 959,
+      "end": 965
+    },
+    {
+      "text": "procured",
+      "type": "ENTITY",
+      "start": 969,
+      "end": 977
+    },
+    {
+      "text": "Representative sections",
+      "type": "ENTITY",
+      "start": 979,
+      "end": 1002
+    },
+    {
+      "text": "A1",
+      "type": "ENTITY",
+      "start": 1029,
+      "end": 1031
+    },
+    {
+      "text": "proximal margin A2",
+      "type": "ENTITY",
+      "start": 1033,
+      "end": 1051
+    },
+    {
+      "text": "distal margin",
+      "type": "ENTITY",
+      "start": 1053,
+      "end": 1066
+    },
+    {
+      "text": "A3-A8",
+      "type": "ENTITY",
+      "start": 1067,
+      "end": 1072
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 1074,
+      "end": 1078
+    },
+    {
+      "text": "relationship",
+      "type": "ENTITY",
+      "start": 1082,
+      "end": 1094
+    },
+    {
+      "text": "normal",
+      "type": "ENTITY",
+      "start": 1100,
+      "end": 1106
+    },
+    {
+      "text": "mucosal",
+      "type": "ENTITY",
+      "start": 1107,
+      "end": 1114
+    },
+    {
+      "text": "deep margin A9",
+      "type": "ENTITY",
+      "start": 1119,
+      "end": 1133
+    },
+    {
+      "text": "colonic polyps",
+      "type": "ENTITY",
+      "start": 1135,
+      "end": 1149
+    },
+    {
+      "text": "A10",
+      "type": "ENTITY",
+      "start": 1150,
+      "end": 1153
+    },
+    {
+      "text": "normal-appearing mucosa",
+      "type": "ENTITY",
+      "start": 1155,
+      "end": 1178
+    },
+    {
+      "text": "tattooing",
+      "type": "ENTITY",
+      "start": 1199,
+      "end": 1208
+    },
+    {
+      "text": "A11",
+      "type": "ENTITY",
+      "start": 1210,
+      "end": 1213
+    },
+    {
+      "text": "appendix A12",
+      "type": "ENTITY",
+      "start": 1215,
+      "end": 1227
+    },
+    {
+      "text": "proximal",
+      "type": "ENTITY",
+      "start": 1229,
+      "end": 1237
+    },
+    {
+      "text": "lymph nodes A13",
+      "type": "ENTITY",
+      "start": 1241,
+      "end": 1256
+    },
+    {
+      "text": "proximal",
+      "type": "ENTITY",
+      "start": 1258,
+      "end": 1266
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 1270,
+      "end": 1281
+    },
+    {
+      "text": "A14-A15",
+      "type": "ENTITY",
+      "start": 1282,
+      "end": 1289
+    },
+    {
+      "text": "proximal",
+      "type": "ENTITY",
+      "start": 1291,
+      "end": 1299
+    },
+    {
+      "text": "node",
+      "type": "ENTITY",
+      "start": 1303,
+      "end": 1307
+    },
+    {
+      "text": "A16-A23",
+      "type": "ENTITY",
+      "start": 1313,
+      "end": 1320
+    },
+    {
+      "text": "distal",
+      "type": "ENTITY",
+      "start": 1322,
+      "end": 1328
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 1332,
+      "end": 1343
+    },
+    {
+      "text": "A24-A25",
+      "type": "ENTITY",
+      "start": 1349,
+      "end": 1356
+    },
+    {
+      "text": "distal",
+      "type": "ENTITY",
+      "start": 1358,
+      "end": 1364
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 1368,
+      "end": 1379
+    },
+    {
+      "text": "A26-A27",
+      "type": "ENTITY",
+      "start": 1385,
+      "end": 1392
+    },
+    {
+      "text": "distal",
+      "type": "ENTITY",
+      "start": 1394,
+      "end": 1400
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 1404,
+      "end": 1415
+    },
+    {
+      "text": "A28-A33",
+      "type": "ENTITY",
+      "start": 1421,
+      "end": 1428
+    },
+    {
+      "text": "distal",
+      "type": "ENTITY",
+      "start": 1430,
+      "end": 1436
+    },
+    {
+      "text": "lymph node",
+      "type": "ENTITY",
+      "start": 1440,
+      "end": 1450
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 1476,
+      "end": 1487
+    },
+    {
+      "text": "O-Fix",
+      "type": "ENTITY",
+      "start": 1500,
+      "end": 1505
+    },
+    {
+      "text": "DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 1507,
+      "end": 1516
+    },
+    {
+      "text": "COLON",
+      "type": "ENTITY",
+      "start": 1518,
+      "end": 1523
+    },
+    {
+      "text": "RIGHT",
+      "type": "ENTITY",
+      "start": 1525,
+      "end": 1530
+    },
+    {
+      "text": "HEMICOLECTOMY",
+      "type": "ENTITY",
+      "start": 1532,
+      "end": 1545
+    },
+    {
+      "text": "MODERATELY DIFFERENTIATED",
+      "type": "ENTITY",
+      "start": 1573,
+      "end": 1598
+    },
+    {
+      "text": "TUBULOVILLOUS",
+      "type": "ENTITY",
+      "start": 1613,
+      "end": 1626
+    },
+    {
+      "text": "CM",
+      "type": "ENTITY",
+      "start": 1654,
+      "end": 1656
+    },
+    {
+      "text": "TUMOR",
+      "type": "ENTITY",
+      "start": 1660,
+      "end": 1665
+    },
+    {
+      "text": "SUBSEROSAL",
+      "type": "ENTITY",
+      "start": 1679,
+      "end": 1689
+    },
+    {
+      "text": "FAT",
+      "type": "ENTITY",
+      "start": 1690,
+      "end": 1693
+    },
+    {
+      "text": "MARGINS",
+      "type": "ENTITY",
+      "start": 1697,
+      "end": 1704
+    },
+    {
+      "text": "FREE",
+      "type": "ENTITY",
+      "start": 1706,
+      "end": 1710
+    },
+    {
+      "text": "TUMOR",
+      "type": "ENTITY",
+      "start": 1714,
+      "end": 1719
+    },
+    {
+      "text": "HYPERPLASTIC",
+      "type": "ENTITY",
+      "start": 1722,
+      "end": 1734
+    },
+    {
+      "text": "APPENDIX",
+      "type": "ENTITY",
+      "start": 1749,
+      "end": 1757
+    },
+    {
+      "text": "NO TUMOR SEEN",
+      "type": "ENTITY",
+      "start": 1759,
+      "end": 1772
+    },
+    {
+      "text": "METASTATIC",
+      "type": "ENTITY",
+      "start": 1776,
+      "end": 1786
+    },
+    {
+      "text": "FOCAL EXTRANODAL EXTENSION",
+      "type": "ENTITY",
+      "start": 1827,
+      "end": 1853
+    },
+    {
+      "text": "SYNOPTIC",
+      "type": "ENTITY",
+      "start": 1862,
+      "end": 1870
+    },
+    {
+      "text": "REPORT",
+      "type": "ENTITY",
+      "start": 1871,
+      "end": 1877
+    },
+    {
+      "text": "COLON",
+      "type": "ENTITY",
+      "start": 1880,
+      "end": 1885
+    },
+    {
+      "text": "Tumor Site",
+      "type": "ENTITY",
+      "start": 1931,
+      "end": 1941
+    },
+    {
+      "text": "Hepatic flexure",
+      "type": "ENTITY",
+      "start": 1943,
+      "end": 1958
+    },
+    {
+      "text": "Tumor Configuration",
+      "type": "ENTITY",
+      "start": 1959,
+      "end": 1978
+    },
+    {
+      "text": "Infiltrative Ulcerating",
+      "type": "ENTITY",
+      "start": 1980,
+      "end": 2003
+    },
+    {
+      "text": "Tumor size",
+      "type": "ENTITY",
+      "start": 2004,
+      "end": 2014
+    },
+    {
+      "text": "WHO",
+      "type": "ENTITY",
+      "start": 2020,
+      "end": 2023
+    },
+    {
+      "text": "Classification Adenocarcinoma",
+      "type": "ENTITY",
+      "start": 2024,
+      "end": 2053
+    },
+    {
+      "text": "Histologic Grade",
+      "type": "ENTITY",
+      "start": 2061,
+      "end": 2077
+    },
+    {
+      "text": "Moderately differentiated",
+      "type": "ENTITY",
+      "start": 2083,
+      "end": 2108
+    },
+    {
+      "text": "Invasion",
+      "type": "ENTITY",
+      "start": 2119,
+      "end": 2127
+    },
+    {
+      "text": "Subserosa Margins",
+      "type": "ENTITY",
+      "start": 2129,
+      "end": 2146
+    },
+    {
+      "text": "Margin(s",
+      "type": "ENTITY",
+      "start": 2148,
+      "end": 2156
+    },
+    {
+      "text": "uninvolved",
+      "type": "ENTITY",
+      "start": 2158,
+      "end": 2168
+    },
+    {
+      "text": "invasive carcinoma",
+      "type": "ENTITY",
+      "start": 2172,
+      "end": 2190
+    },
+    {
+      "text": "Proximal",
+      "type": "ENTITY",
+      "start": 2192,
+      "end": 2200
+    },
+    {
+      "text": "Distal",
+      "type": "ENTITY",
+      "start": 2202,
+      "end": 2208
+    },
+    {
+      "text": "Radial",
+      "type": "ENTITY",
+      "start": 2210,
+      "end": 2216
+    },
+    {
+      "text": "Perineural Invasion",
+      "type": "ENTITY",
+      "start": 2254,
+      "end": 2273
+    },
+    {
+      "text": "Absent Additional",
+      "type": "ENTITY",
+      "start": 2275,
+      "end": 2292
+    },
+    {
+      "text": "Pathologic Findings",
+      "type": "ENTITY",
+      "start": 2293,
+      "end": 2312
+    },
+    {
+      "text": "Adenoma",
+      "type": "ENTITY",
+      "start": 2314,
+      "end": 2321
+    },
+    {
+      "text": "Extent",
+      "type": "ENTITY",
+      "start": 2322,
+      "end": 2328
+    },
+    {
+      "text": "Resection",
+      "type": "ENTITY",
+      "start": 2332,
+      "end": 2341
+    },
+    {
+      "text": "Complete",
+      "type": "ENTITY",
+      "start": 2348,
+      "end": 2356
+    },
+    {
+      "text": "resection",
+      "type": "ENTITY",
+      "start": 2357,
+      "end": 2366
+    },
+    {
+      "text": "grossly",
+      "type": "ENTITY",
+      "start": 2372,
+      "end": 2379
+    },
+    {
+      "text": "microscopically",
+      "type": "ENTITY",
+      "start": 2384,
+      "end": 2399
+    },
+    {
+      "text": "Positive 2",
+      "type": "ENTITY",
+      "start": 2446,
+      "end": 2456
+    },
+    {
+      "text": "65",
+      "type": "ENTITY",
+      "start": 2459,
+      "end": 2461
+    },
+    {
+      "text": "Extranodal extension",
+      "type": "ENTITY",
+      "start": 2462,
+      "end": 2482
+    },
+    {
+      "text": "Implants",
+      "type": "ENTITY",
+      "start": 2492,
+      "end": 2500
+    },
+    {
+      "text": "Absent Pathological Staging",
+      "type": "ENTITY",
+      "start": 2502,
+      "end": 2529
+    },
+    {
+      "text": "pTNM",
+      "type": "ENTITY",
+      "start": 2531,
+      "end": 2535
+    },
+    {
+      "text": "PRE-OPERATIVE DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 2582,
+      "end": 2605
+    }
+  ],
+  "entity_count": 143,
+  "has_embedding": true
+}

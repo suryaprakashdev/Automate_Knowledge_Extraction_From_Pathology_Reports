@@ -1,0 +1,1652 @@
+{
+  "filename": "da10027b-7cf9-4932-ac7b-dc1164be03f3",
+  "timestamp": "2026-01-05T14:42:19.731802",
+  "entities": [
+    {
+      "text": "Patient",
+      "type": "ENTITY",
+      "start": 16,
+      "end": 23
+    },
+    {
+      "text": "Anatomical Pathology",
+      "type": "ENTITY",
+      "start": 33,
+      "end": 53
+    },
+    {
+      "text": "results",
+      "type": "ENTITY",
+      "start": 54,
+      "end": 61
+    },
+    {
+      "text": "Performed",
+      "type": "ENTITY",
+      "start": 64,
+      "end": 73
+    },
+    {
+      "text": "UUID:58B63340-2A48-4ACB-A6D0-D8DF68A05889",
+      "type": "ENTITY",
+      "start": 79,
+      "end": 120
+    },
+    {
+      "text": "TCGA-UD-AAC5-01A-PR",
+      "type": "ENTITY",
+      "start": 121,
+      "end": 140
+    },
+    {
+      "text": "Redacted M",
+      "type": "ENTITY",
+      "start": 141,
+      "end": 151
+    },
+    {
+      "text": "istopathology",
+      "type": "ENTITY",
+      "start": 152,
+      "end": 165
+    },
+    {
+      "text": "Final",
+      "type": "ENTITY",
+      "start": 177,
+      "end": 182
+    },
+    {
+      "text": "Histopathology",
+      "type": "ENTITY",
+      "start": 190,
+      "end": 204
+    },
+    {
+      "text": "LAB",
+      "type": "ENTITY",
+      "start": 211,
+      "end": 214
+    },
+    {
+      "text": "NO",
+      "type": "ENTITY",
+      "start": 216,
+      "end": 218
+    },
+    {
+      "text": "PATIENT ADDRESS DOCTOR WARD",
+      "type": "ENTITY",
+      "start": 220,
+      "end": 247
+    },
+    {
+      "text": "sex",
+      "type": "ENTITY",
+      "start": 248,
+      "end": 251
+    },
+    {
+      "text": "REQUEST",
+      "type": "ENTITY",
+      "start": 252,
+      "end": 259
+    },
+    {
+      "text": "A. Bronchial lymph node  ",
+      "type": "ENTITY",
+      "start": 307,
+      "end": 332
+    },
+    {
+      "text": "Mediastinal lymph node",
+      "type": "ENTITY",
+      "start": 332,
+      "end": 354
+    },
+    {
+      "text": "Extrapleural pneumonectomy",
+      "type": "ENTITY",
+      "start": 358,
+      "end": 384
+    },
+    {
+      "text": "D. Thymic lymph node CLINICAL",
+      "type": "ENTITY",
+      "start": 385,
+      "end": 414
+    },
+    {
+      "text": "Extrapleural pneumonectomy",
+      "type": "ENTITY",
+      "start": 417,
+      "end": 443
+    },
+    {
+      "text": "mesothelioma",
+      "type": "ENTITY",
+      "start": 448,
+      "end": 460
+    },
+    {
+      "text": "Submitted bronchial",
+      "type": "ENTITY",
+      "start": 462,
+      "end": 481
+    },
+    {
+      "text": "mediastinal",
+      "type": "ENTITY",
+      "start": 483,
+      "end": 494
+    },
+    {
+      "text": "thymic lymph nodes",
+      "type": "ENTITY",
+      "start": 496,
+      "end": 514
+    },
+    {
+      "text": "pericardial fluid",
+      "type": "ENTITY",
+      "start": 519,
+      "end": 536
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 555,
+      "end": 563
+    },
+    {
+      "text": "research",
+      "type": "ENTITY",
+      "start": 573,
+      "end": 581
+    },
+    {
+      "text": "anteromedial part re-attached",
+      "type": "ENTITY",
+      "start": 586,
+      "end": 615
+    },
+    {
+      "text": "resected",
+      "type": "ENTITY",
+      "start": 617,
+      "end": 625
+    },
+    {
+      "text": "lobulated",
+      "type": "ENTITY",
+      "start": 674,
+      "end": 683
+    },
+    {
+      "text": "tissue",
+      "type": "ENTITY",
+      "start": 694,
+      "end": 700
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 744,
+      "end": 752
+    },
+    {
+      "text": "bisected",
+      "type": "ENTITY",
+      "start": 756,
+      "end": 764
+    },
+    {
+      "text": "tissue",
+      "type": "ENTITY",
+      "start": 798,
+      "end": 804
+    },
+    {
+      "text": "surrounding",
+      "type": "ENTITY",
+      "start": 825,
+      "end": 836
+    },
+    {
+      "text": "blood clot",
+      "type": "ENTITY",
+      "start": 837,
+      "end": 847
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 853,
+      "end": 861
+    },
+    {
+      "text": "bisected",
+      "type": "ENTITY",
+      "start": 865,
+      "end": 873
+    },
+    {
+      "text": "ICw-o-3 BLOCK KEY",
+      "type": "ENTITY",
+      "start": 875,
+      "end": 892
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 922,
+      "end": 930
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1000,
+      "end": 1008
+    },
+    {
+      "text": "lung",
+      "type": "ENTITY",
+      "start": 1042,
+      "end": 1046
+    },
+    {
+      "text": "anterior/posterior",
+      "type": "ENTITY",
+      "start": 1055,
+      "end": 1073
+    },
+    {
+      "text": "medial/lateral",
+      "type": "ENTITY",
+      "start": 1083,
+      "end": 1097
+    },
+    {
+      "text": "parietal pleura",
+      "type": "ENTITY",
+      "start": 1109,
+      "end": 1124
+    },
+    {
+      "text": "pericardium",
+      "type": "ENTITY",
+      "start": 1126,
+      "end": 1137
+    },
+    {
+      "text": "hemi-diaphragm",
+      "type": "ENTITY",
+      "start": 1159,
+      "end": 1173
+    },
+    {
+      "text": "apical",
+      "type": "ENTITY",
+      "start": 1203,
+      "end": 1209
+    },
+    {
+      "text": "lateral",
+      "type": "ENTITY",
+      "start": 1222,
+      "end": 1229
+    },
+    {
+      "text": "posterior parietal",
+      "type": "ENTITY",
+      "start": 1234,
+      "end": 1252
+    },
+    {
+      "text": "pleural surfaces",
+      "type": "ENTITY",
+      "start": 1253,
+      "end": 1269
+    },
+    {
+      "text": "grossly thickened",
+      "type": "ENTITY",
+      "start": 1274,
+      "end": 1291
+    },
+    {
+      "text": "pale nodulation",
+      "type": "ENTITY",
+      "start": 1324,
+      "end": 1339
+    },
+    {
+      "text": "medial parietal",
+      "type": "ENTITY",
+      "start": 1346,
+      "end": 1361
+    },
+    {
+      "text": "pleural surface",
+      "type": "ENTITY",
+      "start": 1362,
+      "end": 1377
+    },
+    {
+      "text": "hilum",
+      "type": "ENTITY",
+      "start": 1388,
+      "end": 1393
+    },
+    {
+      "text": "appearances",
+      "type": "ENTITY",
+      "start": 1414,
+      "end": 1425
+    },
+    {
+      "text": "Multiple foci",
+      "type": "ENTITY",
+      "start": 1427,
+      "end": 1440
+    },
+    {
+      "text": "small whitish tumour nodules",
+      "type": "ENTITY",
+      "start": 1444,
+      "end": 1472
+    },
+    {
+      "text": "inner aspect",
+      "type": "ENTITY",
+      "start": 1496,
+      "end": 1508
+    },
+    {
+      "text": "parietal pericardium",
+      "type": "ENTITY",
+      "start": 1516,
+      "end": 1536
+    },
+    {
+      "text": "area",
+      "type": "ENTITY",
+      "start": 1556,
+      "end": 1560
+    },
+    {
+      "text": "defect",
+      "type": "ENTITY",
+      "start": 1587,
+      "end": 1593
+    },
+    {
+      "text": "C38",
+      "type": "ENTITY",
+      "start": 1597,
+      "end": 1600
+    },
+    {
+      "text": "anterolateral pleural wali",
+      "type": "ENTITY",
+      "start": 1606,
+      "end": 1632
+    },
+    {
+      "text": "area",
+      "type": "ENTITY",
+      "start": 1647,
+      "end": 1651
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1682,
+      "end": 1690
+    },
+    {
+      "text": "research",
+      "type": "ENTITY",
+      "start": 1701,
+      "end": 1709
+    },
+    {
+      "text": "receipt",
+      "type": "ENTITY",
+      "start": 1719,
+      "end": 1726
+    },
+    {
+      "text": "anthracotic",
+      "type": "ENTITY",
+      "start": 1745,
+      "end": 1756
+    },
+    {
+      "text": "size",
+      "type": "ENTITY",
+      "start": 1781,
+      "end": 1785
+    },
+    {
+      "text": "macroscopic",
+      "type": "ENTITY",
+      "start": 1853,
+      "end": 1864
+    },
+    {
+      "text": "involvement",
+      "type": "ENTITY",
+      "start": 1865,
+      "end": 1876
+    },
+    {
+      "text": "tumour",
+      "type": "ENTITY",
+      "start": 1880,
+      "end": 1886
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1892,
+      "end": 1900
+    },
+    {
+      "text": "multiple",
+      "type": "ENTITY",
+      "start": 1938,
+      "end": 1946
+    },
+    {
+      "text": "slices",
+      "type": "ENTITY",
+      "start": 1947,
+      "end": 1953
+    },
+    {
+      "text": "apex",
+      "type": "ENTITY",
+      "start": 1959,
+      "end": 1963
+    },
+    {
+      "text": "hemi-diaphragm",
+      "type": "ENTITY",
+      "start": 1967,
+      "end": 1981
+    },
+    {
+      "text": "rind-like cream/white tumour",
+      "type": "ENTITY",
+      "start": 1999,
+      "end": 2027
+    },
+    {
+      "text": "circumference",
+      "type": "ENTITY",
+      "start": 2048,
+      "end": 2061
+    },
+    {
+      "text": "parietal pleura",
+      "type": "ENTITY",
+      "start": 2069,
+      "end": 2084
+    },
+    {
+      "text": "fusion",
+      "type": "ENTITY",
+      "start": 2105,
+      "end": 2111
+    },
+    {
+      "text": "parietal",
+      "type": "ENTITY",
+      "start": 2119,
+      "end": 2127
+    },
+    {
+      "text": "visceral pleura",
+      "type": "ENTITY",
+      "start": 2132,
+      "end": 2147
+    },
+    {
+      "text": "loculated",
+      "type": "ENTITY",
+      "start": 2161,
+      "end": 2170
+    },
+    {
+      "text": "effusion",
+      "type": "ENTITY",
+      "start": 2171,
+      "end": 2179
+    },
+    {
+      "text": "laterally",
+      "type": "ENTITY",
+      "start": 2188,
+      "end": 2197
+    },
+    {
+      "text": "Tumour",
+      "type": "ENTITY",
+      "start": 2199,
+      "end": 2205
+    },
+    {
+      "text": "interlobar septa",
+      "type": "ENTITY",
+      "start": 2223,
+      "end": 2239
+    },
+    {
+      "text": "subpleural",
+      "type": "ENTITY",
+      "start": 2253,
+      "end": 2263
+    },
+    {
+      "text": "lung parenchyma",
+      "type": "ENTITY",
+      "start": 2264,
+      "end": 2279
+    },
+    {
+      "text": "depth",
+      "type": "ENTITY",
+      "start": 2293,
+      "end": 2298
+    },
+    {
+      "text": "involvement",
+      "type": "ENTITY",
+      "start": 2328,
+      "end": 2339
+    },
+    {
+      "text": "mediastinal",
+      "type": "ENTITY",
+      "start": 2343,
+      "end": 2354
+    },
+    {
+      "text": "bridges",
+      "type": "ENTITY",
+      "start": 2392,
+      "end": 2399
+    },
+    {
+      "text": "white tumour",
+      "type": "ENTITY",
+      "start": 2408,
+      "end": 2420
+    },
+    {
+      "text": "proximity",
+      "type": "ENTITY",
+      "start": 2444,
+      "end": 2453
+    },
+    {
+      "text": "anterior",
+      "type": "ENTITY",
+      "start": 2461,
+      "end": 2469
+    },
+    {
+      "text": "posterior pericardial resection margins",
+      "type": "ENTITY",
+      "start": 2474,
+      "end": 2513
+    },
+    {
+      "text": "medial",
+      "type": "ENTITY",
+      "start": 2529,
+      "end": 2535
+    },
+    {
+      "text": "lateral",
+      "type": "ENTITY",
+      "start": 2537,
+      "end": 2544
+    },
+    {
+      "text": "anterior",
+      "type": "ENTITY",
+      "start": 2546,
+      "end": 2554
+    },
+    {
+      "text": "posterior diaphragmatic resection margins",
+      "type": "ENTITY",
+      "start": 2559,
+      "end": 2600
+    },
+    {
+      "text": "Photographs",
+      "type": "ENTITY",
+      "start": 2602,
+      "end": 2613
+    },
+    {
+      "text": "resection",
+      "type": "ENTITY",
+      "start": 2652,
+      "end": 2661
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 2673,
+      "end": 2684
+    },
+    {
+      "text": "lymph node",
+      "type": "ENTITY",
+      "start": 2694,
+      "end": 2704
+    },
+    {
+      "text": "metastatic tumour",
+      "type": "ENTITY",
+      "start": 2706,
+      "end": 2723
+    },
+    {
+      "text": "pericardium resection margin",
+      "type": "ENTITY",
+      "start": 2725,
+      "end": 2753
+    },
+    {
+      "text": "diaphragm resection margin",
+      "type": "ENTITY",
+      "start": 2766,
+      "end": 2792
+    },
+    {
+      "text": "10:posterior diaphragm resection margin",
+      "type": "ENTITY",
+      "start": 2794,
+      "end": 2833
+    },
+    {
+      "text": "12:lateral diaphragm resection margin",
+      "type": "ENTITY",
+      "start": 2873,
+      "end": 2910
+    },
+    {
+      "text": "13:additional hilar nodes",
+      "type": "ENTITY",
+      "start": 2912,
+      "end": 2937
+    },
+    {
+      "text": "parietal pleura",
+      "type": "ENTITY",
+      "start": 2953,
+      "end": 2968
+    },
+    {
+      "text": "16:parietal",
+      "type": "ENTITY",
+      "start": 2970,
+      "end": 2981
+    },
+    {
+      "text": "visceral pleura",
+      "type": "ENTITY",
+      "start": 2986,
+      "end": 3001
+    },
+    {
+      "text": "diaphragm",
+      "type": "ENTITY",
+      "start": 3007,
+      "end": 3016
+    },
+    {
+      "text": "pleura",
+      "type": "ENTITY",
+      "start": 3032,
+      "end": 3038
+    },
+    {
+      "text": "22:visceral pleura",
+      "type": "ENTITY",
+      "start": 3043,
+      "end": 3061
+    },
+    {
+      "text": "lateral",
+      "type": "ENTITY",
+      "start": 3063,
+      "end": 3070
+    },
+    {
+      "text": "lung",
+      "type": "ENTITY",
+      "start": 3082,
+      "end": 3086
+    },
+    {
+      "text": "mediastinal fat",
+      "type": "ENTITY",
+      "start": 3106,
+      "end": 3121
+    },
+    {
+      "text": "27:tumour",
+      "type": "ENTITY",
+      "start": 3126,
+      "end": 3135
+    },
+    {
+      "text": "lung",
+      "type": "ENTITY",
+      "start": 3140,
+      "end": 3144
+    },
+    {
+      "text": "28:tumour",
+      "type": "ENTITY",
+      "start": 3148,
+      "end": 3157
+    },
+    {
+      "text": "lateral pleura",
+      "type": "ENTITY",
+      "start": 3162,
+      "end": 3176
+    },
+    {
+      "text": "surface",
+      "type": "ENTITY",
+      "start": 3186,
+      "end": 3193
+    },
+    {
+      "text": "D. Fatty tissue",
+      "type": "ENTITY",
+      "start": 3195,
+      "end": 3210
+    },
+    {
+      "text": "anthracotic lymph node",
+      "type": "ENTITY",
+      "start": 3245,
+      "end": 3267
+    },
+    {
+      "text": "macrosranic tumour",
+      "type": "ENTITY",
+      "start": 3306,
+      "end": 3324
+    },
+    {
+      "text": "involvement",
+      "type": "ENTITY",
+      "start": 3325,
+      "end": 3336
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 3344,
+      "end": 3352
+    },
+    {
+      "text": "bisected",
+      "type": "ENTITY",
+      "start": 3356,
+      "end": 3364
+    },
+    {
+      "text": "Page",
+      "type": "ENTITY",
+      "start": 3396,
+      "end": 3400
+    },
+    {
+      "text": "Anatomical Pathology",
+      "type": "ENTITY",
+      "start": 3442,
+      "end": 3462
+    },
+    {
+      "text": "results",
+      "type": "ENTITY",
+      "start": 3463,
+      "end": 3470
+    },
+    {
+      "text": "Performed",
+      "type": "ENTITY",
+      "start": 3473,
+      "end": 3482
+    },
+    {
+      "text": "M",
+      "type": "ENTITY",
+      "start": 3488,
+      "end": 3489
+    },
+    {
+      "text": "Histopathology",
+      "type": "ENTITY",
+      "start": 3490,
+      "end": 3504
+    },
+    {
+      "text": "Final",
+      "type": "ENTITY",
+      "start": 3516,
+      "end": 3521
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 3550,
+      "end": 3558
+    },
+    {
+      "text": "lymph node",
+      "type": "ENTITY",
+      "start": 3566,
+      "end": 3576
+    },
+    {
+      "text": "laden",
+      "type": "ENTITY",
+      "start": 3577,
+      "end": 3582
+    },
+    {
+      "text": "histiocytes",
+      "type": "ENTITY",
+      "start": 3588,
+      "end": 3599
+    },
+    {
+      "text": "pigment",
+      "type": "ENTITY",
+      "start": 3619,
+      "end": 3626
+    },
+    {
+      "text": "subcapsular",
+      "type": "ENTITY",
+      "start": 3640,
+      "end": 3651
+    },
+    {
+      "text": "metastatic mesothelioma",
+      "type": "ENTITY",
+      "start": 3687,
+      "end": 3710
+    },
+    {
+      "text": "lmm",
+      "type": "ENTITY",
+      "start": 3722,
+      "end": 3725
+    },
+    {
+      "text": "focal",
+      "type": "ENTITY",
+      "start": 3732,
+      "end": 3737
+    },
+    {
+      "text": "extension",
+      "type": "ENTITY",
+      "start": 3755,
+      "end": 3764
+    },
+    {
+      "text": "distance",
+      "type": "ENTITY",
+      "start": 3770,
+      "end": 3778
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 3806,
+      "end": 3814
+    },
+    {
+      "text": "lymph node",
+      "type": "ENTITY",
+      "start": 3828,
+      "end": 3838
+    },
+    {
+      "text": "metastatic malignant mesothelioma",
+      "type": "ENTITY",
+      "start": 3871,
+      "end": 3904
+    },
+    {
+      "text": "left extrapleural pneumonectomy",
+      "type": "ENTITY",
+      "start": 3932,
+      "end": 3963
+    },
+    {
+      "text": "C.",
+      "type": "ENTITY",
+      "start": 3964,
+      "end": 3966
+    },
+    {
+      "text": "resection margins",
+      "type": "ENTITY",
+      "start": 4001,
+      "end": 4018
+    },
+    {
+      "text": "anterior",
+      "type": "ENTITY",
+      "start": 4024,
+      "end": 4032
+    },
+    {
+      "text": "posterior pericardium",
+      "type": "ENTITY",
+      "start": 4037,
+      "end": 4058
+    },
+    {
+      "text": "anterior",
+      "type": "ENTITY",
+      "start": 4060,
+      "end": 4068
+    },
+    {
+      "text": "posterior",
+      "type": "ENTITY",
+      "start": 4070,
+      "end": 4079
+    },
+    {
+      "text": "medial diaphragm",
+      "type": "ENTITY",
+      "start": 4094,
+      "end": 4110
+    },
+    {
+      "text": "parietal pleura",
+      "type": "ENTITY",
+      "start": 4112,
+      "end": 4127
+    },
+    {
+      "text": "mediastinal fat",
+      "type": "ENTITY",
+      "start": 4133,
+      "end": 4148
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 4154,
+      "end": 4162
+    },
+    {
+      "text": "confirm",
+      "type": "ENTITY",
+      "start": 4163,
+      "end": 4170
+    },
+    {
+      "text": "malignant mesothelioma",
+      "type": "ENTITY",
+      "start": 4172,
+      "end": 4194
+    },
+    {
+      "text": "epithelial growth pattern",
+      "type": "ENTITY",
+      "start": 4225,
+      "end": 4250
+    },
+    {
+      "text": "very small component",
+      "type": "ENTITY",
+      "start": 4258,
+      "end": 4278
+    },
+    {
+      "text": "sarcomatous pattern",
+      "type": "ENTITY",
+      "start": 4287,
+      "end": 4306
+    },
+    {
+      "text": "tumour",
+      "type": "ENTITY",
+      "start": 4333,
+      "end": 4339
+    },
+    {
+      "text": "characterised",
+      "type": "ENTITY",
+      "start": 4343,
+      "end": 4356
+    },
+    {
+      "text": "pavement-like  sheets",
+      "type": "ENTITY",
+      "start": 4361,
+      "end": 4382
+    },
+    {
+      "text": "cells",
+      "type": "ENTITY",
+      "start": 4392,
+      "end": 4397
+    },
+    {
+      "text": "microcystic growth pattern",
+      "type": "ENTITY",
+      "start": 4417,
+      "end": 4443
+    },
+    {
+      "text": "focal necrosis",
+      "type": "ENTITY",
+      "start": 4449,
+      "end": 4463
+    },
+    {
+      "text": "abundant",
+      "type": "ENTITY",
+      "start": 4474,
+      "end": 4482
+    },
+    {
+      "text": "pale basophilic material",
+      "type": "ENTITY",
+      "start": 4483,
+      "end": 4507
+    },
+    {
+      "text": "hyaluronate",
+      "type": "ENTITY",
+      "start": 4526,
+      "end": 4537
+    },
+    {
+      "text": "Alcian blue/hyaluronidase stain",
+      "type": "ENTITY",
+      "start": 4544,
+      "end": 4575
+    },
+    {
+      "text": "malignant cells",
+      "type": "ENTITY",
+      "start": 4581,
+      "end": 4596
+    },
+    {
+      "text": "monotonous",
+      "type": "ENTITY",
+      "start": 4606,
+      "end": 4616
+    },
+    {
+      "text": "oval",
+      "type": "ENTITY",
+      "start": 4627,
+      "end": 4631
+    },
+    {
+      "text": "nucleoli",
+      "type": "ENTITY",
+      "start": 4683,
+      "end": 4691
+    },
+    {
+      "text": "abundant",
+      "type": "ENTITY",
+      "start": 4696,
+      "end": 4704
+    },
+    {
+      "text": "focal areas",
+      "type": "ENTITY",
+      "start": 4738,
+      "end": 4749
+    },
+    {
+      "text": "cells",
+      "type": "ENTITY",
+      "start": 4754,
+      "end": 4759
+    },
+    {
+      "text": "spindled",
+      "type": "ENTITY",
+      "start": 4770,
+      "end": 4778
+    },
+    {
+      "text": "morphology",
+      "type": "ENTITY",
+      "start": 4779,
+      "end": 4789
+    },
+    {
+      "text": "moderate",
+      "type": "ENTITY",
+      "start": 4807,
+      "end": 4815
+    },
+    {
+      "text": "dense",
+      "type": "ENTITY",
+      "start": 4827,
+      "end": 4832
+    },
+    {
+      "text": "collagen",
+      "type": "ENTITY",
+      "start": 4833,
+      "end": 4841
+    },
+    {
+      "text": "Lymphovascular space invasion",
+      "type": "ENTITY",
+      "start": 4843,
+      "end": 4872
+    },
+    {
+      "text": "involvement",
+      "type": "ENTITY",
+      "start": 4903,
+      "end": 4914
+    },
+    {
+      "text": "parietal",
+      "type": "ENTITY",
+      "start": 4922,
+      "end": 4930
+    },
+    {
+      "text": "pleural resection margins",
+      "type": "ENTITY",
+      "start": 4932,
+      "end": 4957
+    },
+    {
+      "text": "Tumour",
+      "type": "ENTITY",
+      "start": 4959,
+      "end": 4965
+    },
+    {
+      "text": "anterior",
+      "type": "ENTITY",
+      "start": 4984,
+      "end": 4992
+    },
+    {
+      "text": "pericardial resection margin",
+      "type": "ENTITY",
+      "start": 4993,
+      "end": 5021
+    },
+    {
+      "text": "anterior",
+      "type": "ENTITY",
+      "start": 5038,
+      "end": 5046
+    },
+    {
+      "text": "posterior",
+      "type": "ENTITY",
+      "start": 5048,
+      "end": 5057
+    },
+    {
+      "text": "medial",
+      "type": "ENTITY",
+      "start": 5059,
+      "end": 5065
+    },
+    {
+      "text": "lateral",
+      "type": "ENTITY",
+      "start": 5070,
+      "end": 5077
+    },
+    {
+      "text": "diaphragmatic resection margins",
+      "type": "ENTITY",
+      "start": 5079,
+      "end": 5110
+    },
+    {
+      "text": "extension",
+      "type": "ENTITY",
+      "start": 5133,
+      "end": 5142
+    },
+    {
+      "text": "lung",
+      "type": "ENTITY",
+      "start": 5148,
+      "end": 5152
+    },
+    {
+      "text": "extension",
+      "type": "ENTITY",
+      "start": 5157,
+      "end": 5166
+    },
+    {
+      "text": "internal surface",
+      "type": "ENTITY",
+      "start": 5174,
+      "end": 5190
+    },
+    {
+      "text": "pericardium",
+      "type": "ENTITY",
+      "start": 5198,
+      "end": 5209
+    },
+    {
+      "text": "invasion",
+      "type": "ENTITY",
+      "start": 5238,
+      "end": 5246
+    },
+    {
+      "text": "mediastinal fat",
+      "type": "ENTITY",
+      "start": 5254,
+      "end": 5269
+    },
+    {
+      "text": "bronchial",
+      "type": "ENTITY",
+      "start": 5275,
+      "end": 5284
+    },
+    {
+      "text": "tumour",
+      "type": "ENTITY",
+      "start": 5315,
+      "end": 5321
+    },
+    {
+      "text": "invasion",
+      "type": "ENTITY",
+      "start": 5338,
+      "end": 5346
+    },
+    {
+      "text": "bronchial tree",
+      "type": "ENTITY",
+      "start": 5354,
+      "end": 5368
+    },
+    {
+      "text": "hilum",
+      "type": "ENTITY",
+      "start": 5376,
+      "end": 5381
+    },
+    {
+      "text": "macroscopically",
+      "type": "ENTITY",
+      "start": 5393,
+      "end": 5408
+    },
+    {
+      "text": "hilar",
+      "type": "ENTITY",
+      "start": 5422,
+      "end": 5427
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 5428,
+      "end": 5439
+    },
+    {
+      "text": "small lymph node",
+      "type": "ENTITY",
+      "start": 5455,
+      "end": 5471
+    },
+    {
+      "text": "near",
+      "type": "ENTITY",
+      "start": 5478,
+      "end": 5482
+    },
+    {
+      "text": "replacement metastatic tumour",
+      "type": "ENTITY",
+      "start": 5493,
+      "end": 5522
+    },
+    {
+      "text": "extracapsular extension",
+      "type": "ENTITY",
+      "start": 5528,
+      "end": 5551
+    },
+    {
+      "text": "distance",
+      "type": "ENTITY",
+      "start": 5557,
+      "end": 5565
+    },
+    {
+      "text": "lymph node",
+      "type": "ENTITY",
+      "start": 5601,
+      "end": 5611
+    },
+    {
+      "text": "abundant",
+      "type": "ENTITY",
+      "start": 5617,
+      "end": 5625
+    },
+    {
+      "text": "histiocytes",
+      "type": "ENTITY",
+      "start": 5626,
+      "end": 5637
+    },
+    {
+      "text": "pigment",
+      "type": "ENTITY",
+      "start": 5657,
+      "end": 5664
+    },
+    {
+      "text": "evidence",
+      "type": "ENTITY",
+      "start": 5678,
+      "end": 5686
+    },
+    {
+      "text": "micrometastasis",
+      "type": "ENTITY",
+      "start": 5690,
+      "end": 5705
+    },
+    {
+      "text": "identified",
+      "type": "ENTITY",
+      "start": 5706,
+      "end": 5716
+    },
+    {
+      "text": "light microscopy",
+      "type": "ENTITY",
+      "start": 5720,
+      "end": 5736
+    },
+    {
+      "text": "A. Bronchial lymph node",
+      "type": "ENTITY",
+      "start": 5750,
+      "end": 5773
+    },
+    {
+      "text": "Micrometastasis",
+      "type": "ENTITY",
+      "start": 5775,
+      "end": 5790
+    },
+    {
+      "text": "metastatic mesothelioma",
+      "type": "ENTITY",
+      "start": 5810,
+      "end": 5833
+    },
+    {
+      "text": "focal extracapsular extension",
+      "type": "ENTITY",
+      "start": 5841,
+      "end": 5870
+    },
+    {
+      "text": "Mediastinal lymph node",
+      "type": "ENTITY",
+      "start": 5876,
+      "end": 5898
+    },
+    {
+      "text": "Micrometastasis",
+      "type": "ENTITY",
+      "start": 5900,
+      "end": 5915
+    },
+    {
+      "text": "malignant mesothelioma",
+      "type": "ENTITY",
+      "start": 5927,
+      "end": 5949
+    },
+    {
+      "text": "C. Extrapleural pneumonectomy",
+      "type": "ENTITY",
+      "start": 5951,
+      "end": 5980
+    },
+    {
+      "text": "involvement",
+      "type": "ENTITY",
+      "start": 5995,
+      "end": 6006
+    },
+    {
+      "text": "malignant mesothelioma",
+      "type": "ENTITY",
+      "start": 6010,
+      "end": 6032
+    },
+    {
+      "text": "epithelial pattern",
+      "type": "ENTITY",
+      "start": 6051,
+      "end": 6069
+    },
+    {
+      "text": "focal",
+      "type": "ENTITY",
+      "start": 6076,
+      "end": 6081
+    },
+    {
+      "text": "sarcomatous pattern",
+      "type": "ENTITY",
+      "start": 6096,
+      "end": 6115
+    },
+    {
+      "text": "Tumour 'lies focally",
+      "type": "ENTITY",
+      "start": 6121,
+      "end": 6141
+    },
+    {
+      "text": "anterior",
+      "type": "ENTITY",
+      "start": 6151,
+      "end": 6159
+    },
+    {
+      "text": "pericardial resection margin",
+      "type": "ENTITY",
+      "start": 6160,
+      "end": 6188
+    },
+    {
+      "text": "anterior",
+      "type": "ENTITY",
+      "start": 6194,
+      "end": 6202
+    },
+    {
+      "text": "posterior",
+      "type": "ENTITY",
+      "start": 6204,
+      "end": 6213
+    },
+    {
+      "text": "medial",
+      "type": "ENTITY",
+      "start": 6215,
+      "end": 6221
+    },
+    {
+      "text": "lateral diaphragmatic resection margins",
+      "type": "ENTITY",
+      "start": 6226,
+      "end": 6265
+    },
+    {
+      "text": "lung parenchyma",
+      "type": "ENTITY",
+      "start": 6304,
+      "end": 6319
+    },
+    {
+      "text": "extension",
+      "type": "ENTITY",
+      "start": 6324,
+      "end": 6333
+    },
+    {
+      "text": "internal surface",
+      "type": "ENTITY",
+      "start": 6341,
+      "end": 6357
+    },
+    {
+      "text": "pericardium",
+      "type": "ENTITY",
+      "start": 6365,
+      "end": 6376
+    },
+    {
+      "text": "parietal pleural margin",
+      "type": "ENTITY",
+      "start": 6403,
+      "end": 6426
+    },
+    {
+      "text": "invasion",
+      "type": "ENTITY",
+      "start": 6446,
+      "end": 6454
+    },
+    {
+      "text": "mediastinal fat",
+      "type": "ENTITY",
+      "start": 6460,
+      "end": 6475
+    },
+    {
+      "text": "Bronchial resection margin",
+      "type": "ENTITY",
+      "start": 6477,
+      "end": 6503
+    },
+    {
+      "text": "tumour",
+      "type": "ENTITY",
+      "start": 6516,
+      "end": 6522
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 6544,
+      "end": 6555
+    },
+    {
+      "text": "is.positive",
+      "type": "ENTITY",
+      "start": 6561,
+      "end": 6572
+    },
+    {
+      "text": "focal extracapsular extension",
+      "type": "ENTITY",
+      "start": 6578,
+      "end": 6607
+    },
+    {
+      "text": "D. Thymic lymph node",
+      "type": "ENTITY",
+      "start": 6615,
+      "end": 6635
+    },
+    {
+      "text": "Negative",
+      "type": "ENTITY",
+      "start": 6637,
+      "end": 6645
+    },
+    {
+      "text": "malignancy",
+      "type": "ENTITY",
+      "start": 6650,
+      "end": 6660
+    },
+    {
+      "text": "micrometastases",
+      "type": "ENTITY",
+      "start": 6665,
+      "end": 6680
+    },
+    {
+      "text": "REGISTRAR",
+      "type": "ENTITY",
+      "start": 6683,
+      "end": 6692
+    },
+    {
+      "text": "DOCTOR REVIEWING",
+      "type": "ENTITY",
+      "start": 6707,
+      "end": 6723
+    },
+    {
+      "text": "DATED",
+      "type": "ENTITY",
+      "start": 6725,
+      "end": 6730
+    },
+    {
+      "text": "ELECTRONICALLY VALIDATED",
+      "type": "ENTITY",
+      "start": 6732,
+      "end": 6756
+    },
+    {
+      "text": "Criteria",
+      "type": "ENTITY",
+      "start": 6758,
+      "end": 6766
+    }
+  ],
+  "entity_count": 274,
+  "has_embedding": true
+}

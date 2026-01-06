@@ -1,0 +1,956 @@
+{
+  "filename": "bf0b027d-b22d-4230-aafa-abf9d975b1b8",
+  "timestamp": "2026-01-05T14:45:10.769830",
+  "entities": [
+    {
+      "text": "Accession",
+      "type": "ENTITY",
+      "start": 30,
+      "end": 39
+    },
+    {
+      "text": "Date",
+      "type": "ENTITY",
+      "start": 56,
+      "end": 60
+    },
+    {
+      "text": "DOB",
+      "type": "ENTITY",
+      "start": 75,
+      "end": 78
+    },
+    {
+      "text": "Dato",
+      "type": "ENTITY",
+      "start": 80,
+      "end": 84
+    },
+    {
+      "text": "Gender",
+      "type": "ENTITY",
+      "start": 97,
+      "end": 103
+    },
+    {
+      "text": "Date of Report",
+      "type": "ENTITY",
+      "start": 105,
+      "end": 119
+    },
+    {
+      "text": "Physician",
+      "type": "ENTITY",
+      "start": 126,
+      "end": 135
+    },
+    {
+      "text": "Billing Type Patient Address",
+      "type": "ENTITY",
+      "start": 148,
+      "end": 176
+    },
+    {
+      "text": "Copy to",
+      "type": "ENTITY",
+      "start": 189,
+      "end": 196
+    },
+    {
+      "text": "Rel",
+      "type": "ENTITY",
+      "start": 198,
+      "end": 201
+    },
+    {
+      "text": "osis & History",
+      "type": "ENTITY",
+      "start": 211,
+      "end": 225
+    },
+    {
+      "text": "right renal mass",
+      "type": "ENTITY",
+      "start": 230,
+      "end": 246
+    },
+    {
+      "text": "Specimens",
+      "type": "ENTITY",
+      "start": 248,
+      "end": 257
+    },
+    {
+      "text": "Kidney",
+      "type": "ENTITY",
+      "start": 272,
+      "end": 278
+    },
+    {
+      "text": "upper pole tumor",
+      "type": "ENTITY",
+      "start": 286,
+      "end": 302
+    },
+    {
+      "text": "biopsy",
+      "type": "ENTITY",
+      "start": 304,
+      "end": 310
+    },
+    {
+      "text": "left",
+      "type": "ENTITY",
+      "start": 331,
+      "end": 335
+    },
+    {
+      "text": "lower pole angiomyolipoma",
+      "type": "ENTITY",
+      "start": 337,
+      "end": 362
+    },
+    {
+      "text": "excision(ll",
+      "type": "ENTITY",
+      "start": 364,
+      "end": 375
+    },
+    {
+      "text": "nodes",
+      "type": "ENTITY",
+      "start": 385,
+      "end": 390
+    },
+    {
+      "text": "paia-aortic,excision",
+      "type": "ENTITY",
+      "start": 391,
+      "end": 411
+    },
+    {
+      "text": "Kidney",
+      "type": "ENTITY",
+      "start": 427,
+      "end": 433
+    },
+    {
+      "text": "left",
+      "type": "ENTITY",
+      "start": 435,
+      "end": 439
+    },
+    {
+      "text": "upper pole tumor",
+      "type": "ENTITY",
+      "start": 441,
+      "end": 457
+    },
+    {
+      "text": "biopsy Tumor Type",
+      "type": "ENTITY",
+      "start": 459,
+      "end": 476
+    },
+    {
+      "text": "coll carcinoma",
+      "type": "ENTITY",
+      "start": 485,
+      "end": 499
+    },
+    {
+      "text": "Papillary type",
+      "type": "ENTITY",
+      "start": 502,
+      "end": 516
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 583,
+      "end": 591
+    },
+    {
+      "text": "Local Invasion",
+      "type": "ENTITY",
+      "start": 604,
+      "end": 618
+    },
+    {
+      "text": "ronal",
+      "type": "ENTITY",
+      "start": 624,
+      "end": 629
+    },
+    {
+      "text": "Not ldentified Renal Vein",
+      "type": "ENTITY",
+      "start": 647,
+      "end": 672
+    },
+    {
+      "text": "Invasion",
+      "type": "ENTITY",
+      "start": 673,
+      "end": 681
+    },
+    {
+      "text": "Surgicat",
+      "type": "ENTITY",
+      "start": 698,
+      "end": 706
+    },
+    {
+      "text": "Free of tumor",
+      "type": "ENTITY",
+      "start": 717,
+      "end": 730
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 732,
+      "end": 737
+    },
+    {
+      "text": "inked renal parenchymal margin",
+      "type": "ENTITY",
+      "start": 766,
+      "end": 796
+    },
+    {
+      "text": "Non-Neoplastic Kidney",
+      "type": "ENTITY",
+      "start": 798,
+      "end": 819
+    },
+    {
+      "text": "Unremarkable Adrenal Gland",
+      "type": "ENTITY",
+      "start": 821,
+      "end": 847
+    },
+    {
+      "text": "Lymph Nodes",
+      "type": "ENTITY",
+      "start": 864,
+      "end": 875
+    },
+    {
+      "text": "renal cell",
+      "type": "ENTITY",
+      "start": 903,
+      "end": 913
+    },
+    {
+      "text": "pT1 Tumor",
+      "type": "ENTITY",
+      "start": 936,
+      "end": 945
+    },
+    {
+      "text": "dimension",
+      "type": "ENTITY",
+      "start": 968,
+      "end": 977
+    },
+    {
+      "text": "kidney",
+      "type": "ENTITY",
+      "start": 993,
+      "end": 999
+    },
+    {
+      "text": "left lower pole angiomyolipona",
+      "type": "ENTITY",
+      "start": 1010,
+      "end": 1040
+    },
+    {
+      "text": "excision(tl",
+      "type": "ENTITY",
+      "start": 1042,
+      "end": 1053
+    },
+    {
+      "text": "Fragmented angionyolipoma",
+      "type": "ENTITY",
+      "start": 1057,
+      "end": 1082
+    },
+    {
+      "text": "nodes",
+      "type": "ENTITY",
+      "start": 1122,
+      "end": 1127
+    },
+    {
+      "text": "para-aortic",
+      "type": "ENTITY",
+      "start": 1129,
+      "end": 1140
+    },
+    {
+      "text": "excision",
+      "type": "ENTITY",
+      "start": 1142,
+      "end": 1150
+    },
+    {
+      "text": "Lymph Nodes",
+      "type": "ENTITY",
+      "start": 1157,
+      "end": 1168
+    },
+    {
+      "text": "nodes",
+      "type": "ENTITY",
+      "start": 1194,
+      "end": 1199
+    },
+    {
+      "text": "case",
+      "type": "ENTITY",
+      "start": 1222,
+      "end": 1226
+    },
+    {
+      "text": "reviewed",
+      "type": "ENTITY",
+      "start": 1231,
+      "end": 1239
+    },
+    {
+      "text": "diagnosis",
+      "type": "ENTITY",
+      "start": 1270,
+      "end": 1279
+    },
+    {
+      "text": "TATTEST",
+      "type": "ENTITY",
+      "start": 1281,
+      "end": 1288
+    },
+    {
+      "text": "OTRER",
+      "type": "ENTITY",
+      "start": 1375,
+      "end": 1380
+    },
+    {
+      "text": "THAT IHAVE",
+      "type": "ENTITY",
+      "start": 1396,
+      "end": 1406
+    },
+    {
+      "text": "REVIEWED",
+      "type": "ENTITY",
+      "start": 1407,
+      "end": 1415
+    },
+    {
+      "text": "APPROVEO",
+      "type": "ENTITY",
+      "start": 1420,
+      "end": 1428
+    },
+    {
+      "text": "Special Studles",
+      "type": "ENTITY",
+      "start": 1441,
+      "end": 1456
+    },
+    {
+      "text": "Resull",
+      "type": "ENTITY",
+      "start": 1458,
+      "end": 1464
+    },
+    {
+      "text": "Special Stain Comment RECUT Gross Description",
+      "type": "ENTITY",
+      "start": 1465,
+      "end": 1510
+    },
+    {
+      "text": "Tho",
+      "type": "ENTITY",
+      "start": 1517,
+      "end": 1520
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1521,
+      "end": 1529
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 1542,
+      "end": 1547
+    },
+    {
+      "text": "frozen section",
+      "type": "ENTITY",
+      "start": 1552,
+      "end": 1566
+    },
+    {
+      "text": "consullation",
+      "type": "ENTITY",
+      "start": 1567,
+      "end": 1579
+    },
+    {
+      "text": "Lent uppor pore renanumor",
+      "type": "ENTITY",
+      "start": 1589,
+      "end": 1614
+    },
+    {
+      "text": "stitch marks",
+      "type": "ENTITY",
+      "start": 1616,
+      "end": 1628
+    },
+    {
+      "text": "deep margin",
+      "type": "ENTITY",
+      "start": 1629,
+      "end": 1640
+    },
+    {
+      "text": "portion",
+      "type": "ENTITY",
+      "start": 1660,
+      "end": 1667
+    },
+    {
+      "text": "brown-tan",
+      "type": "ENTITY",
+      "start": 1671,
+      "end": 1680
+    },
+    {
+      "text": "kidney tissue",
+      "type": "ENTITY",
+      "start": 1682,
+      "end": 1695
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 1696,
+      "end": 1705
+    },
+    {
+      "text": "stitch",
+      "type": "ENTITY",
+      "start": 1730,
+      "end": 1736
+    },
+    {
+      "text": "identified",
+      "type": "ENTITY",
+      "start": 1740,
+      "end": 1750
+    },
+    {
+      "text": "deep margin",
+      "type": "ENTITY",
+      "start": 1767,
+      "end": 1778
+    },
+    {
+      "text": "deep margin",
+      "type": "ENTITY",
+      "start": 1784,
+      "end": 1795
+    },
+    {
+      "text": "black",
+      "type": "ENTITY",
+      "start": 1807,
+      "end": 1812
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1821,
+      "end": 1829
+    },
+    {
+      "text": "white-tan",
+      "type": "ENTITY",
+      "start": 1864,
+      "end": 1873
+    },
+    {
+      "text": "ill",
+      "type": "ENTITY",
+      "start": 1875,
+      "end": 1878
+    },
+    {
+      "text": "nodular tumor",
+      "type": "ENTITY",
+      "start": 1887,
+      "end": 1900
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 1901,
+      "end": 1910
+    },
+    {
+      "text": "Representative sections",
+      "type": "ENTITY",
+      "start": 1930,
+      "end": 1953
+    },
+    {
+      "text": "frozen section",
+      "type": "ENTITY",
+      "start": 1972,
+      "end": 1986
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 2002,
+      "end": 2010
+    },
+    {
+      "text": "brown-tan kidney tissue",
+      "type": "ENTITY",
+      "start": 2037,
+      "end": 2060
+    },
+    {
+      "text": "black",
+      "type": "ENTITY",
+      "start": 2082,
+      "end": 2087
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 2145,
+      "end": 2153
+    },
+    {
+      "text": "protruding",
+      "type": "ENTITY",
+      "start": 2164,
+      "end": 2174
+    },
+    {
+      "text": "white-lan nodular",
+      "type": "ENTITY",
+      "start": 2175,
+      "end": 2192
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 2199,
+      "end": 2208
+    },
+    {
+      "text": "localed",
+      "type": "ENTITY",
+      "start": 2224,
+      "end": 2231
+    },
+    {
+      "text": "abutling",
+      "type": "ENTITY",
+      "start": 2232,
+      "end": 2240
+    },
+    {
+      "text": "deop",
+      "type": "ENTITY",
+      "start": 2245,
+      "end": 2249
+    },
+    {
+      "text": "black margin",
+      "type": "ENTITY",
+      "start": 2250,
+      "end": 2262
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 2270,
+      "end": 2278
+    },
+    {
+      "text": "Representative submilted",
+      "type": "ENTITY",
+      "start": 2280,
+      "end": 2304
+    },
+    {
+      "text": "Section",
+      "type": "ENTITY",
+      "start": 2306,
+      "end": 2313
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 2347,
+      "end": 2355
+    },
+    {
+      "text": "FSC",
+      "type": "ENTITY",
+      "start": 2357,
+      "end": 2360
+    },
+    {
+      "text": "frozen",
+      "type": "ENTITY",
+      "start": 2364,
+      "end": 2370
+    },
+    {
+      "text": "T-represenlativo sections",
+      "type": "ENTITY",
+      "start": 2387,
+      "end": 2412
+    },
+    {
+      "text": "tunor",
+      "type": "ENTITY",
+      "start": 2420,
+      "end": 2425
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 2483,
+      "end": 2491
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 2507,
+      "end": 2515
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 2517,
+      "end": 2524
+    },
+    {
+      "text": "Left renal tower pole",
+      "type": "ENTITY",
+      "start": 2526,
+      "end": 2547
+    },
+    {
+      "text": "lan soll tissue",
+      "type": "ENTITY",
+      "start": 2602,
+      "end": 2617
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 2618,
+      "end": 2627
+    },
+    {
+      "text": "Enlirely submitted",
+      "type": "ENTITY",
+      "start": 2647,
+      "end": 2665
+    },
+    {
+      "text": "Sumary",
+      "type": "ENTITY",
+      "start": 2667,
+      "end": 2673
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 2710,
+      "end": 2718
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 2734,
+      "end": 2742
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 2744,
+      "end": 2751
+    },
+    {
+      "text": "Para-aortic lymph nodes",
+      "type": "ENTITY",
+      "start": 2753,
+      "end": 2776
+    },
+    {
+      "text": "pink-tan firm",
+      "type": "ENTITY",
+      "start": 2799,
+      "end": 2812
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 2813,
+      "end": 2824
+    },
+    {
+      "text": "dimension",
+      "type": "ENTITY",
+      "start": 2864,
+      "end": 2873
+    },
+    {
+      "text": "identified",
+      "type": "ENTITY",
+      "start": 2878,
+      "end": 2888
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 2889,
+      "end": 2900
+    },
+    {
+      "text": "subrmitted",
+      "type": "ENTITY",
+      "start": 2905,
+      "end": 2915
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 2928,
+      "end": 2936
+    },
+    {
+      "text": "LN",
+      "type": "ENTITY",
+      "start": 2939,
+      "end": 2941
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 2945,
+      "end": 2956
+    },
+    {
+      "text": "BLN--",
+      "type": "ENTITY",
+      "start": 2957,
+      "end": 2962
+    },
+    {
+      "text": "bisected",
+      "type": "ENTITY",
+      "start": 2963,
+      "end": 2971
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 2972,
+      "end": 2983
+    },
+    {
+      "text": "Sections",
+      "type": "ENTITY",
+      "start": 2995,
+      "end": 3003
+    },
+    {
+      "text": "Kidney",
+      "type": "ENTITY",
+      "start": 3013,
+      "end": 3019
+    },
+    {
+      "text": "left",
+      "type": "ENTITY",
+      "start": 3021,
+      "end": 3025
+    },
+    {
+      "text": "upper pole",
+      "type": "ENTITY",
+      "start": 3027,
+      "end": 3037
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 3039,
+      "end": 3044
+    },
+    {
+      "text": "pjm Block Sect",
+      "type": "ENTITY",
+      "start": 3057,
+      "end": 3071
+    },
+    {
+      "text": "PCs",
+      "type": "ENTITY",
+      "start": 3078,
+      "end": 3081
+    },
+    {
+      "text": "left",
+      "type": "ENTITY",
+      "start": 3144,
+      "end": 3148
+    },
+    {
+      "text": "lower pole angiomyolipoma",
+      "type": "ENTITY",
+      "start": 3150,
+      "end": 3175
+    },
+    {
+      "text": "excision(tl) Block Sect",
+      "type": "ENTITY",
+      "start": 3177,
+      "end": 3200
+    },
+    {
+      "text": "Lymph nodes",
+      "type": "ENTITY",
+      "start": 3225,
+      "end": 3236
+    },
+    {
+      "text": "para-aortic",
+      "type": "ENTITY",
+      "start": 3238,
+      "end": 3249
+    },
+    {
+      "text": "excision",
+      "type": "ENTITY",
+      "start": 3251,
+      "end": 3259
+    },
+    {
+      "text": "LN",
+      "type": "ENTITY",
+      "start": 3296,
+      "end": 3298
+    },
+    {
+      "text": "Intraoperntive Consultation",
+      "type": "ENTITY",
+      "start": 3301,
+      "end": 3328
+    },
+    {
+      "text": "Nole",
+      "type": "ENTITY",
+      "start": 3330,
+      "end": 3334
+    },
+    {
+      "text": "diagnoses",
+      "type": "ENTITY",
+      "start": 3340,
+      "end": 3349
+    },
+    {
+      "text": "section",
+      "type": "ENTITY",
+      "start": 3364,
+      "end": 3371
+    },
+    {
+      "text": "sample",
+      "type": "ENTITY",
+      "start": 3399,
+      "end": 3405
+    },
+    {
+      "text": "tine",
+      "type": "ENTITY",
+      "start": 3422,
+      "end": 3426
+    },
+    {
+      "text": "intraoperative",
+      "type": "ENTITY",
+      "start": 3434,
+      "end": 3448
+    },
+    {
+      "text": "consullation",
+      "type": "ENTITY",
+      "start": 3449,
+      "end": 3461
+    },
+    {
+      "text": "FROZEN SECTION",
+      "type": "ENTITY",
+      "start": 3465,
+      "end": 3479
+    },
+    {
+      "text": "DIAGNOSI",
+      "type": "ENTITY",
+      "start": 3480,
+      "end": 3488
+    },
+    {
+      "text": "CORTICALNEOPLASM",
+      "type": "ENTITY",
+      "start": 3489,
+      "end": 3505
+    },
+    {
+      "text": "CM",
+      "type": "ENTITY",
+      "start": 3525,
+      "end": 3527
+    },
+    {
+      "text": "INKED MARGIN",
+      "type": "ENTITY",
+      "start": 3531,
+      "end": 3543
+    },
+    {
+      "text": "PERMANENT DIAGNOSIS SAME Page 3",
+      "type": "ENTITY",
+      "start": 3571,
+      "end": 3602
+    },
+    {
+      "text": "END",
+      "type": "ENTITY",
+      "start": 3608,
+      "end": 3611
+    }
+  ],
+  "entity_count": 158,
+  "has_embedding": true
+}

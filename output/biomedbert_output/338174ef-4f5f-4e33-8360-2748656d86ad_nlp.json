@@ -1,0 +1,542 @@
+{
+  "filename": "338174ef-4f5f-4e33-8360-2748656d86ad",
+  "timestamp": "2026-01-05T14:44:08.025696",
+  "entities": [
+    {
+      "text": "TCGA-KM-A7QH-01C-PR",
+      "type": "ENTITY",
+      "start": 58,
+      "end": 77
+    },
+    {
+      "text": "Redacted MEDICAL RECORD Surgical Pathology Report",
+      "type": "ENTITY",
+      "start": 78,
+      "end": 127
+    },
+    {
+      "text": "Surgical Pathology Report",
+      "type": "ENTITY",
+      "start": 129,
+      "end": 154
+    },
+    {
+      "text": "MRN",
+      "type": "ENTITY",
+      "start": 165,
+      "end": 168
+    },
+    {
+      "text": "ACCOUNT",
+      "type": "ENTITY",
+      "start": 170,
+      "end": 177
+    },
+    {
+      "text": "DOB",
+      "type": "ENTITY",
+      "start": 195,
+      "end": 198
+    },
+    {
+      "text": "AGE",
+      "type": "ENTITY",
+      "start": 216,
+      "end": 219
+    },
+    {
+      "text": "SEX",
+      "type": "ENTITY",
+      "start": 221,
+      "end": 224
+    },
+    {
+      "text": "SIGN-OUT",
+      "type": "ENTITY",
+      "start": 228,
+      "end": 236
+    },
+    {
+      "text": "LOCATION",
+      "type": "ENTITY",
+      "start": 254,
+      "end": 262
+    },
+    {
+      "text": "REQUESTING",
+      "type": "ENTITY",
+      "start": 264,
+      "end": 274
+    },
+    {
+      "text": "RoOM",
+      "type": "ENTITY",
+      "start": 276,
+      "end": 280
+    },
+    {
+      "text": "NO",
+      "type": "ENTITY",
+      "start": 290,
+      "end": 292
+    },
+    {
+      "text": "COpIes TO",
+      "type": "ENTITY",
+      "start": 294,
+      "end": 303
+    },
+    {
+      "text": "sremomo DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 305,
+      "end": 322
+    },
+    {
+      "text": "Site",
+      "type": "ENTITY",
+      "start": 324,
+      "end": 328
+    },
+    {
+      "text": "Kidney",
+      "type": "ENTITY",
+      "start": 361,
+      "end": 367
+    },
+    {
+      "text": "right",
+      "type": "ENTITY",
+      "start": 369,
+      "end": 374
+    },
+    {
+      "text": "specimens",
+      "type": "ENTITY",
+      "start": 376,
+      "end": 385
+    },
+    {
+      "text": "excision",
+      "type": "ENTITY",
+      "start": 391,
+      "end": 399
+    },
+    {
+      "text": "Renal cell carcinoma",
+      "type": "ENTITY",
+      "start": 402,
+      "end": 422
+    },
+    {
+      "text": "chromophobe",
+      "type": "ENTITY",
+      "start": 428,
+      "end": 439
+    },
+    {
+      "text": "features",
+      "type": "ENTITY",
+      "start": 440,
+      "end": 448
+    },
+    {
+      "text": "Fuhrman nuclear Grade II/IV",
+      "type": "ENTITY",
+      "start": 450,
+      "end": 477
+    },
+    {
+      "text": "Rib",
+      "type": "ENTITY",
+      "start": 482,
+      "end": 485
+    },
+    {
+      "text": "biopsy",
+      "type": "ENTITY",
+      "start": 487,
+      "end": 493
+    },
+    {
+      "text": "unremarkable rib",
+      "type": "ENTITY",
+      "start": 507,
+      "end": 523
+    },
+    {
+      "text": "gross diagnosis",
+      "type": "ENTITY",
+      "start": 525,
+      "end": 540
+    },
+    {
+      "text": "HISTORY",
+      "type": "ENTITY",
+      "start": 569,
+      "end": 576
+    },
+    {
+      "text": "MAN",
+      "type": "ENTITY",
+      "start": 578,
+      "end": 581
+    },
+    {
+      "text": "BHD",
+      "type": "ENTITY",
+      "start": 587,
+      "end": 590
+    },
+    {
+      "text": "PREOP",
+      "type": "ENTITY",
+      "start": 602,
+      "end": 607
+    },
+    {
+      "text": "DX",
+      "type": "ENTITY",
+      "start": 636,
+      "end": 638
+    },
+    {
+      "text": "SOLID RENAL MASS OPERATIVE FINDINGS",
+      "type": "ENTITY",
+      "start": 640,
+      "end": 675
+    },
+    {
+      "text": "CM",
+      "type": "ENTITY",
+      "start": 679,
+      "end": 681
+    },
+    {
+      "text": "SOLiD",
+      "type": "ENTITY",
+      "start": 682,
+      "end": 687
+    },
+    {
+      "text": "MID",
+      "type": "ENTITY",
+      "start": 696,
+      "end": 699
+    },
+    {
+      "text": "POLE",
+      "type": "ENTITY",
+      "start": 700,
+      "end": 704
+    },
+    {
+      "text": "RIGHT KIDNEY",
+      "type": "ENTITY",
+      "start": 708,
+      "end": 720
+    },
+    {
+      "text": "CM",
+      "type": "ENTITY",
+      "start": 728,
+      "end": 730
+    },
+    {
+      "text": "MASS",
+      "type": "ENTITY",
+      "start": 731,
+      "end": 735
+    },
+    {
+      "text": "iN",
+      "type": "ENTITY",
+      "start": 736,
+      "end": 738
+    },
+    {
+      "text": "RIGHT KIDNEY SPECIMENS SUBMITTED",
+      "type": "ENTITY",
+      "start": 759,
+      "end": 791
+    },
+    {
+      "text": "KiDNEY",
+      "type": "ENTITY",
+      "start": 814,
+      "end": 820
+    },
+    {
+      "text": "RIB",
+      "type": "ENTITY",
+      "start": 831,
+      "end": 834
+    },
+    {
+      "text": "DEscRIPTiON",
+      "type": "ENTITY",
+      "start": 841,
+      "end": 852
+    },
+    {
+      "text": "Received",
+      "type": "ENTITY",
+      "start": 854,
+      "end": 862
+    },
+    {
+      "text": "containers",
+      "type": "ENTITY",
+      "start": 877,
+      "end": 887
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 888,
+      "end": 895
+    },
+    {
+      "text": "patient's",
+      "type": "ENTITY",
+      "start": 905,
+      "end": 914
+    },
+    {
+      "text": "number",
+      "type": "ENTITY",
+      "start": 924,
+      "end": 930
+    },
+    {
+      "text": "yellow-white soft tissue",
+      "type": "ENTITY",
+      "start": 973,
+      "end": 997
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 998,
+      "end": 1007
+    },
+    {
+      "text": "fragment",
+      "type": "ENTITY",
+      "start": 1033,
+      "end": 1041
+    },
+    {
+      "text": "tissue",
+      "type": "ENTITY",
+      "start": 1045,
+      "end": 1051
+    },
+    {
+      "text": "incised",
+      "type": "ENTITY",
+      "start": 1072,
+      "end": 1079
+    },
+    {
+      "text": "portion",
+      "type": "ENTITY",
+      "start": 1119,
+      "end": 1126
+    },
+    {
+      "text": "cassettes",
+      "type": "ENTITY",
+      "start": 1176,
+      "end": 1185
+    },
+    {
+      "text": "1B",
+      "type": "ENTITY",
+      "start": 1201,
+      "end": 1203
+    },
+    {
+      "text": "soft tissue",
+      "type": "ENTITY",
+      "start": 1268,
+      "end": 1279
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 1280,
+      "end": 1289
+    },
+    {
+      "text": "overall",
+      "type": "ENTITY",
+      "start": 1310,
+      "end": 1317
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1323,
+      "end": 1331
+    },
+    {
+      "text": "solitary mass measuring",
+      "type": "ENTITY",
+      "start": 1345,
+      "end": 1368
+    },
+    {
+      "text": "fibroadipose tissue",
+      "type": "ENTITY",
+      "start": 1403,
+      "end": 1422
+    },
+    {
+      "text": "grossly-appearing normal kidney",
+      "type": "ENTITY",
+      "start": 1426,
+      "end": 1457
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1463,
+      "end": 1471
+    },
+    {
+      "text": "incised",
+      "type": "ENTITY",
+      "start": 1492,
+      "end": 1499
+    },
+    {
+      "text": "red",
+      "type": "ENTITY",
+      "start": 1514,
+      "end": 1517
+    },
+    {
+      "text": "friable",
+      "type": "ENTITY",
+      "start": 1519,
+      "end": 1526
+    },
+    {
+      "text": "aold-tan tissue",
+      "type": "ENTITY",
+      "start": 1553,
+      "end": 1568
+    },
+    {
+      "text": "capsule",
+      "type": "ENTITY",
+      "start": 1585,
+      "end": 1592
+    },
+    {
+      "text": "Representative",
+      "type": "ENTITY",
+      "start": 1609,
+      "end": 1623
+    },
+    {
+      "text": "portions",
+      "type": "ENTITY",
+      "start": 1624,
+      "end": 1632
+    },
+    {
+      "text": "representative",
+      "type": "ENTITY",
+      "start": 1653,
+      "end": 1667
+    },
+    {
+      "text": "portions",
+      "type": "ENTITY",
+      "start": 1668,
+      "end": 1676
+    },
+    {
+      "text": "cassettes",
+      "type": "ENTITY",
+      "start": 1694,
+      "end": 1703
+    },
+    {
+      "text": "2A-2F",
+      "type": "ENTITY",
+      "start": 1704,
+      "end": 1709
+    },
+    {
+      "text": "Patient Identification Page 1\n\n--- Page 2 ---\nMEDICAL RECORD Surgical Pathology Report 3",
+      "type": "ENTITY",
+      "start": 1711,
+      "end": 1799
+    },
+    {
+      "text": "tissue",
+      "type": "ENTITY",
+      "start": 1846,
+      "end": 1852
+    },
+    {
+      "text": "consistent with",
+      "type": "ENTITY",
+      "start": 1854,
+      "end": 1869
+    },
+    {
+      "text": "rib",
+      "type": "ENTITY",
+      "start": 1870,
+      "end": 1873
+    },
+    {
+      "text": "sott",
+      "type": "ENTITY",
+      "start": 1887,
+      "end": 1891
+    },
+    {
+      "text": "tissue",
+      "type": "ENTITY",
+      "start": 1892,
+      "end": 1898
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 1899,
+      "end": 1908
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1933,
+      "end": 1941
+    },
+    {
+      "text": "gross diagnosis",
+      "type": "ENTITY",
+      "start": 1959,
+      "end": 1974
+    },
+    {
+      "text": "Printed",
+      "type": "ENTITY",
+      "start": 1982,
+      "end": 1989
+    },
+    {
+      "text": "Identification",
+      "type": "ENTITY",
+      "start": 1999,
+      "end": 2013
+    }
+  ],
+  "entity_count": 89,
+  "has_embedding": true
+}

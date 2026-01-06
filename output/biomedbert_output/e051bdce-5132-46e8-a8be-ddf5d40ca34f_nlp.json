@@ -1,0 +1,758 @@
+{
+  "filename": "e051bdce-5132-46e8-a8be-ddf5d40ca34f",
+  "timestamp": "2026-01-05T14:44:11.953306",
+  "entities": [
+    {
+      "text": "DOB",
+      "type": "ENTITY",
+      "start": 88,
+      "end": 91
+    },
+    {
+      "text": "Sex",
+      "type": "ENTITY",
+      "start": 92,
+      "end": 95
+    },
+    {
+      "text": "Physician",
+      "type": "ENTITY",
+      "start": 99,
+      "end": 108
+    },
+    {
+      "text": "Pathologist",
+      "type": "ENTITY",
+      "start": 119,
+      "end": 130
+    },
+    {
+      "text": "Accession",
+      "type": "ENTITY",
+      "start": 132,
+      "end": 141
+    },
+    {
+      "text": "Case type",
+      "type": "ENTITY",
+      "start": 143,
+      "end": 152
+    },
+    {
+      "text": "Surgical History ** Case",
+      "type": "ENTITY",
+      "start": 154,
+      "end": 178
+    },
+    {
+      "text": "imported",
+      "type": "ENTITY",
+      "start": 179,
+      "end": 187
+    },
+    {
+      "text": "legacy computer system",
+      "type": "ENTITY",
+      "start": 193,
+      "end": 215
+    },
+    {
+      "text": "report",
+      "type": "ENTITY",
+      "start": 236,
+      "end": 242
+    },
+    {
+      "text": "original",
+      "type": "ENTITY",
+      "start": 262,
+      "end": 270
+    },
+    {
+      "text": "case",
+      "type": "ENTITY",
+      "start": 271,
+      "end": 275
+    },
+    {
+      "text": "** **",
+      "type": "ENTITY",
+      "start": 277,
+      "end": 282
+    },
+    {
+      "text": "cases",
+      "type": "ENTITY",
+      "start": 287,
+      "end": 292
+    },
+    {
+      "text": "section",
+      "type": "ENTITY",
+      "start": 307,
+      "end": 314
+    },
+    {
+      "text": "RECD",
+      "type": "ENTITY",
+      "start": 398,
+      "end": 402
+    },
+    {
+      "text": "covify",
+      "type": "ENTITY",
+      "start": 404,
+      "end": 410
+    },
+    {
+      "text": "c0b.9",
+      "type": "ENTITY",
+      "start": 411,
+      "end": 416
+    },
+    {
+      "text": "PHOTO",
+      "type": "ENTITY",
+      "start": 417,
+      "end": 422
+    },
+    {
+      "text": "NO Site",
+      "type": "ENTITY",
+      "start": 424,
+      "end": 431
+    },
+    {
+      "text": "DX",
+      "type": "ENTITY",
+      "start": 436,
+      "end": 438
+    },
+    {
+      "text": "D",
+      "type": "ENTITY",
+      "start": 452,
+      "end": 453
+    },
+    {
+      "text": "CLaVIcLE: Bone",
+      "type": "ENTITY",
+      "start": 497,
+      "end": 511
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 516,
+      "end": 521
+    },
+    {
+      "text": "portion",
+      "type": "ENTITY",
+      "start": 545,
+      "end": 552
+    },
+    {
+      "text": "mandibuiar bone",
+      "type": "ENTITY",
+      "start": 556,
+      "end": 571
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 577,
+      "end": 585
+    },
+    {
+      "text": "squamous carcinoma",
+      "type": "ENTITY",
+      "start": 594,
+      "end": 612
+    },
+    {
+      "text": "invading",
+      "type": "ENTITY",
+      "start": 613,
+      "end": 621
+    },
+    {
+      "text": "bone",
+      "type": "ENTITY",
+      "start": 626,
+      "end": 630
+    },
+    {
+      "text": "anterior",
+      "type": "ENTITY",
+      "start": 656,
+      "end": 664
+    },
+    {
+      "text": "bony resection margin",
+      "type": "ENTITY",
+      "start": 665,
+      "end": 686
+    },
+    {
+      "text": "Section",
+      "type": "ENTITY",
+      "start": 688,
+      "end": 695
+    },
+    {
+      "text": "coDe",
+      "type": "ENTITY",
+      "start": 696,
+      "end": 700
+    },
+    {
+      "text": "A21",
+      "type": "ENTITY",
+      "start": 702,
+      "end": 705
+    },
+    {
+      "text": "representative",
+      "type": "ENTITY",
+      "start": 707,
+      "end": 721
+    },
+    {
+      "text": "section",
+      "type": "ENTITY",
+      "start": 722,
+      "end": 729
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 733,
+      "end": 738
+    },
+    {
+      "text": "mandible",
+      "type": "ENTITY",
+      "start": 743,
+      "end": 751
+    },
+    {
+      "text": "A22-A29.",
+      "type": "ENTITY",
+      "start": 753,
+      "end": 761
+    },
+    {
+      "text": "anterior",
+      "type": "ENTITY",
+      "start": 762,
+      "end": 770
+    },
+    {
+      "text": "margin",
+      "type": "ENTITY",
+      "start": 771,
+      "end": 777
+    },
+    {
+      "text": "perpendicular",
+      "type": "ENTITY",
+      "start": 779,
+      "end": 792
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 793,
+      "end": 801
+    },
+    {
+      "text": "K",
+      "type": "ENTITY",
+      "start": 803,
+      "end": 804
+    },
+    {
+      "text": "representative",
+      "type": "ENTITY",
+      "start": 806,
+      "end": 820
+    },
+    {
+      "text": "clavicle",
+      "type": "ENTITY",
+      "start": 832,
+      "end": 840
+    },
+    {
+      "text": "LEFT RADICAL NECK",
+      "type": "ENTITY",
+      "start": 855,
+      "end": 872
+    },
+    {
+      "text": "DISSECTION",
+      "type": "ENTITY",
+      "start": 873,
+      "end": 883
+    },
+    {
+      "text": "LEFT",
+      "type": "ENTITY",
+      "start": 885,
+      "end": 889
+    },
+    {
+      "text": "HEMIMANDIBULECTOMY",
+      "type": "ENTITY",
+      "start": 890,
+      "end": 908
+    },
+    {
+      "text": "SQUAMOUS CARCINOMA",
+      "type": "ENTITY",
+      "start": 910,
+      "end": 928
+    },
+    {
+      "text": "WELL",
+      "type": "ENTITY",
+      "start": 929,
+      "end": 933
+    },
+    {
+      "text": "BUCCAL",
+      "type": "ENTITY",
+      "start": 953,
+      "end": 959
+    },
+    {
+      "text": "SUBMANDIBULAR",
+      "type": "ENTITY",
+      "start": 1006,
+      "end": 1019
+    },
+    {
+      "text": "Margins",
+      "type": "ENTITY",
+      "start": 1033,
+      "end": 1040
+    },
+    {
+      "text": "resection free of tumor",
+      "type": "ENTITY",
+      "start": 1044,
+      "end": 1067
+    },
+    {
+      "text": "vascular invasion",
+      "type": "ENTITY",
+      "start": 1084,
+      "end": 1101
+    },
+    {
+      "text": "METASTATIC SQUAMOUS CARCINOMA",
+      "type": "ENTITY",
+      "start": 1103,
+      "end": 1132
+    },
+    {
+      "text": "SUBDIGASTRIC",
+      "type": "ENTITY",
+      "start": 1170,
+      "end": 1182
+    },
+    {
+      "text": "O/8",
+      "type": "ENTITY",
+      "start": 1184,
+      "end": 1187
+    },
+    {
+      "text": "MIDJUGULAR",
+      "type": "ENTITY",
+      "start": 1188,
+      "end": 1198
+    },
+    {
+      "text": "POSTERIOR CERVICAL",
+      "type": "ENTITY",
+      "start": 1218,
+      "end": 1236
+    },
+    {
+      "text": "O/5 MIDPOSTERIOR",
+      "type": "ENTITY",
+      "start": 1238,
+      "end": 1254
+    },
+    {
+      "text": "CERVICAL",
+      "type": "ENTITY",
+      "start": 1255,
+      "end": 1263
+    },
+    {
+      "text": "O/1 LOWER POSTERIOR CERVICAL",
+      "type": "ENTITY",
+      "start": 1265,
+      "end": 1293
+    },
+    {
+      "text": "SeE COMMENT",
+      "type": "ENTITY",
+      "start": 1297,
+      "end": 1308
+    },
+    {
+      "text": "Squamous mucosa",
+      "type": "ENTITY",
+      "start": 1337,
+      "end": 1352
+    },
+    {
+      "text": "soft tissue",
+      "type": "ENTITY",
+      "start": 1357,
+      "end": 1368
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1373,
+      "end": 1378
+    },
+    {
+      "text": "DISTAL MUCOSAL MARGIN",
+      "type": "ENTITY",
+      "start": 1392,
+      "end": 1413
+    },
+    {
+      "text": "Squamous mucosa",
+      "type": "ENTITY",
+      "start": 1415,
+      "end": 1430
+    },
+    {
+      "text": "pseudoepitheliomatous hyperplasia",
+      "type": "ENTITY",
+      "start": 1436,
+      "end": 1469
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1474,
+      "end": 1479
+    },
+    {
+      "text": "Squamous mucosa",
+      "type": "ENTITY",
+      "start": 1517,
+      "end": 1532
+    },
+    {
+      "text": "soft tissue",
+      "type": "ENTITY",
+      "start": 1537,
+      "end": 1548
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1553,
+      "end": 1558
+    },
+    {
+      "text": "pseudoepitheliomatous hyperplasia",
+      "type": "ENTITY",
+      "start": 1619,
+      "end": 1652
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1657,
+      "end": 1662
+    },
+    {
+      "text": "mUSCLE",
+      "type": "ENTITY",
+      "start": 1686,
+      "end": 1692
+    },
+    {
+      "text": "Skeletal muscle",
+      "type": "ENTITY",
+      "start": 1694,
+      "end": 1709
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1714,
+      "end": 1719
+    },
+    {
+      "text": "Skeletal muscle",
+      "type": "ENTITY",
+      "start": 1750,
+      "end": 1765
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1770,
+      "end": 1775
+    },
+    {
+      "text": "FAT",
+      "type": "ENTITY",
+      "start": 1796,
+      "end": 1799
+    },
+    {
+      "text": "Skeletal muscle",
+      "type": "ENTITY",
+      "start": 1800,
+      "end": 1815
+    },
+    {
+      "text": "fibroadipose tissue",
+      "type": "ENTITY",
+      "start": 1820,
+      "end": 1839
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1844,
+      "end": 1849
+    },
+    {
+      "text": "Pathology\n\n--- Page 2 ---\nDOB",
+      "type": "ENTITY",
+      "start": 1936,
+      "end": 1965
+    },
+    {
+      "text": "Sex",
+      "type": "ENTITY",
+      "start": 1967,
+      "end": 1970
+    },
+    {
+      "text": "Pathologist",
+      "type": "ENTITY",
+      "start": 1996,
+      "end": 2007
+    },
+    {
+      "text": "Accession",
+      "type": "ENTITY",
+      "start": 2009,
+      "end": 2018
+    },
+    {
+      "text": "Case type",
+      "type": "ENTITY",
+      "start": 2020,
+      "end": 2029
+    },
+    {
+      "text": "Surgical History",
+      "type": "ENTITY",
+      "start": 2031,
+      "end": 2047
+    },
+    {
+      "text": "Masseter muscle",
+      "type": "ENTITY",
+      "start": 2053,
+      "end": 2068
+    },
+    {
+      "text": "Skeletal muscle",
+      "type": "ENTITY",
+      "start": 2070,
+      "end": 2085
+    },
+    {
+      "text": "fibroconnective tissue",
+      "type": "ENTITY",
+      "start": 2090,
+      "end": 2112
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 2117,
+      "end": 2122
+    },
+    {
+      "text": "SOFT TISSUE",
+      "type": "ENTITY",
+      "start": 2136,
+      "end": 2147
+    },
+    {
+      "text": "Bone",
+      "type": "ENTITY",
+      "start": 2178,
+      "end": 2182
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 2187,
+      "end": 2192
+    },
+    {
+      "text": "decalcification",
+      "type": "ENTITY",
+      "start": 2229,
+      "end": 2244
+    },
+    {
+      "text": "comment",
+      "type": "ENTITY",
+      "start": 2251,
+      "end": 2258
+    },
+    {
+      "text": "Multiple teeth",
+      "type": "ENTITY",
+      "start": 2272,
+      "end": 2286
+    },
+    {
+      "text": "enamel caps",
+      "type": "ENTITY",
+      "start": 2292,
+      "end": 2303
+    },
+    {
+      "text": "gross examination",
+      "type": "ENTITY",
+      "start": 2305,
+      "end": 2322
+    },
+    {
+      "text": "COMMENT",
+      "type": "ENTITY",
+      "start": 2329,
+      "end": 2336
+    },
+    {
+      "text": "Bone Lab for decalcification",
+      "type": "ENTITY",
+      "start": 2363,
+      "end": 2391
+    },
+    {
+      "text": "sectioning",
+      "type": "ENTITY",
+      "start": 2396,
+      "end": 2406
+    },
+    {
+      "text": "lymph node",
+      "type": "ENTITY",
+      "start": 2447,
+      "end": 2457
+    },
+    {
+      "text": "metastatic tumor",
+      "type": "ENTITY",
+      "start": 2469,
+      "end": 2485
+    },
+    {
+      "text": "dimension",
+      "type": "ENTITY",
+      "start": 2508,
+      "end": 2517
+    },
+    {
+      "text": "metastatic tumor",
+      "type": "ENTITY",
+      "start": 2542,
+      "end": 2558
+    },
+    {
+      "text": "no extranodal extension",
+      "type": "ENTITY",
+      "start": 2563,
+      "end": 2586
+    },
+    {
+      "text": "DISSECTION",
+      "type": "ENTITY",
+      "start": 2620,
+      "end": 2630
+    },
+    {
+      "text": "LEFT HEMIMANDIBULECTOMY",
+      "type": "ENTITY",
+      "start": 2632,
+      "end": 2655
+    },
+    {
+      "text": "E PROXIMAL MUCOSAL MARGIN",
+      "type": "ENTITY",
+      "start": 2737,
+      "end": 2762
+    },
+    {
+      "text": "PTERYGOID",
+      "type": "ENTITY",
+      "start": 2764,
+      "end": 2773
+    },
+    {
+      "text": "MUSCLE",
+      "type": "ENTITY",
+      "start": 2774,
+      "end": 2780
+    },
+    {
+      "text": "SOFT TISSUE",
+      "type": "ENTITY",
+      "start": 2840,
+      "end": 2851
+    },
+    {
+      "text": "Left clavicle",
+      "type": "ENTITY",
+      "start": 2886,
+      "end": 2899
+    },
+    {
+      "text": "L TEETH",
+      "type": "ENTITY",
+      "start": 2901,
+      "end": 2908
+    },
+    {
+      "text": "SNOMED CODES",
+      "type": "ENTITY",
+      "start": 2910,
+      "end": 2922
+    },
+    {
+      "text": "Case Pathology Report File",
+      "type": "ENTITY",
+      "start": 2982,
+      "end": 3008
+    },
+    {
+      "text": "Pathology",
+      "type": "ENTITY",
+      "start": 3016,
+      "end": 3025
+    }
+  ],
+  "entity_count": 125,
+  "has_embedding": true
+}

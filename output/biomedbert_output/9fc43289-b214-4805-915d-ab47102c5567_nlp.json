@@ -1,0 +1,800 @@
+{
+  "filename": "9fc43289-b214-4805-915d-ab47102c5567",
+  "timestamp": "2026-01-05T14:42:05.077851",
+  "entities": [
+    {
+      "text": "Tumor",
+      "type": "ENTITY",
+      "start": 86,
+      "end": 91
+    },
+    {
+      "text": "Characteristics",
+      "type": "ENTITY",
+      "start": 92,
+      "end": 107
+    },
+    {
+      "text": "Histologic type",
+      "type": "ENTITY",
+      "start": 112,
+      "end": 127
+    },
+    {
+      "text": "Papillary renal cell carcinoma",
+      "type": "ENTITY",
+      "start": 129,
+      "end": 159
+    },
+    {
+      "text": "Tumor site",
+      "type": "ENTITY",
+      "start": 164,
+      "end": 174
+    },
+    {
+      "text": "Left kidney",
+      "type": "ENTITY",
+      "start": 175,
+      "end": 186
+    },
+    {
+      "text": "lower pole",
+      "type": "ENTITY",
+      "start": 188,
+      "end": 198
+    },
+    {
+      "text": "focality",
+      "type": "ENTITY",
+      "start": 208,
+      "end": 216
+    },
+    {
+      "text": "Unifocal",
+      "type": "ENTITY",
+      "start": 218,
+      "end": 226
+    },
+    {
+      "text": "Macroscopic",
+      "type": "ENTITY",
+      "start": 262,
+      "end": 273
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 284,
+      "end": 289
+    },
+    {
+      "text": "Tumor",
+      "type": "ENTITY",
+      "start": 291,
+      "end": 296
+    },
+    {
+      "text": "kidney",
+      "type": "ENTITY",
+      "start": 308,
+      "end": 314
+    },
+    {
+      "text": "Microscopic",
+      "type": "ENTITY",
+      "start": 319,
+      "end": 330
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 341,
+      "end": 346
+    },
+    {
+      "text": "Tumor",
+      "type": "ENTITY",
+      "start": 348,
+      "end": 353
+    },
+    {
+      "text": "kidney",
+      "type": "ENTITY",
+      "start": 365,
+      "end": 371
+    },
+    {
+      "text": "Nuclear grade",
+      "type": "ENTITY",
+      "start": 373,
+      "end": 386
+    },
+    {
+      "text": "Fuhrman grade 2",
+      "type": "ENTITY",
+      "start": 388,
+      "end": 403
+    },
+    {
+      "text": "Lymphovascular space invasion",
+      "type": "ENTITY",
+      "start": 416,
+      "end": 445
+    },
+    {
+      "text": "Sarcomatoid",
+      "type": "ENTITY",
+      "start": 465,
+      "end": 476
+    },
+    {
+      "text": "features",
+      "type": "ENTITY",
+      "start": 477,
+      "end": 485
+    },
+    {
+      "text": "Surgical Margin Status",
+      "type": "ENTITY",
+      "start": 503,
+      "end": 525
+    },
+    {
+      "text": "Surgical margins",
+      "type": "ENTITY",
+      "start": 527,
+      "end": 543
+    },
+    {
+      "text": "ureter",
+      "type": "ENTITY",
+      "start": 554,
+      "end": 560
+    },
+    {
+      "text": "renal vein",
+      "type": "ENTITY",
+      "start": 562,
+      "end": 572
+    },
+    {
+      "text": "renal artery",
+      "type": "ENTITY",
+      "start": 574,
+      "end": 586
+    },
+    {
+      "text": "soft tissue",
+      "type": "ENTITY",
+      "start": 592,
+      "end": 603
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 608,
+      "end": 616
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 621,
+      "end": 626
+    },
+    {
+      "text": "Lymph Node Status",
+      "type": "ENTITY",
+      "start": 628,
+      "end": 645
+    },
+    {
+      "text": "No lymph nodes",
+      "type": "ENTITY",
+      "start": 647,
+      "end": 661
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 676,
+      "end": 684
+    },
+    {
+      "text": "Nonneoplastic renal parenchyma",
+      "type": "ENTITY",
+      "start": 693,
+      "end": 723
+    },
+    {
+      "text": "sclerotic",
+      "type": "ENTITY",
+      "start": 739,
+      "end": 748
+    },
+    {
+      "text": "glomeruli",
+      "type": "ENTITY",
+      "start": 749,
+      "end": 758
+    },
+    {
+      "text": "mild",
+      "type": "ENTITY",
+      "start": 763,
+      "end": 767
+    },
+    {
+      "text": "moderate",
+      "type": "ENTITY",
+      "start": 771,
+      "end": 779
+    },
+    {
+      "text": "arteriosclerosis",
+      "type": "ENTITY",
+      "start": 780,
+      "end": 796
+    },
+    {
+      "text": "stage",
+      "type": "ENTITY",
+      "start": 805,
+      "end": 810
+    },
+    {
+      "text": "NX",
+      "type": "ENTITY",
+      "start": 816,
+      "end": 818
+    },
+    {
+      "text": "Histologic sections",
+      "type": "ENTITY",
+      "start": 831,
+      "end": 850
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 858,
+      "end": 863
+    },
+    {
+      "text": "left lower pole",
+      "type": "ENTITY",
+      "start": 875,
+      "end": 890
+    },
+    {
+      "text": "papillary",
+      "type": "ENTITY",
+      "start": 903,
+      "end": 912
+    },
+    {
+      "text": "architecture",
+      "type": "ENTITY",
+      "start": 913,
+      "end": 925
+    },
+    {
+      "text": "tumor cells",
+      "type": "ENTITY",
+      "start": 938,
+      "end": 949
+    },
+    {
+      "text": "oncocytic",
+      "type": "ENTITY",
+      "start": 958,
+      "end": 967
+    },
+    {
+      "text": "appearance",
+      "type": "ENTITY",
+      "start": 968,
+      "end": 978
+    },
+    {
+      "text": "immunohistochemical staining",
+      "type": "ENTITY",
+      "start": 990,
+      "end": 1018
+    },
+    {
+      "text": "CD117,vimentin",
+      "type": "ENTITY",
+      "start": 1023,
+      "end": 1037
+    },
+    {
+      "text": "cytokeratin 7",
+      "type": "ENTITY",
+      "start": 1043,
+      "end": 1056
+    },
+    {
+      "text": "block 1",
+      "type": "ENTITY",
+      "start": 1073,
+      "end": 1080
+    },
+    {
+      "text": "oncocytoma",
+      "type": "ENTITY",
+      "start": 1095,
+      "end": 1105
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1110,
+      "end": 1115
+    },
+    {
+      "text": "positive",
+      "type": "ENTITY",
+      "start": 1119,
+      "end": 1127
+    },
+    {
+      "text": "cytokeratin 7",
+      "type": "ENTITY",
+      "start": 1132,
+      "end": 1145
+    },
+    {
+      "text": "vimentin",
+      "type": "ENTITY",
+      "start": 1150,
+      "end": 1158
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 1163,
+      "end": 1171
+    },
+    {
+      "text": "CD117",
+      "type": "ENTITY",
+      "start": 1176,
+      "end": 1181
+    },
+    {
+      "text": "diagnosis",
+      "type": "ENTITY",
+      "start": 1195,
+      "end": 1204
+    },
+    {
+      "text": "papillary renal cell carcinoma",
+      "type": "ENTITY",
+      "start": 1210,
+      "end": 1240
+    },
+    {
+      "text": "oncocytoma",
+      "type": "ENTITY",
+      "start": 1256,
+      "end": 1266
+    },
+    {
+      "text": "Diagnosis",
+      "type": "ENTITY",
+      "start": 1321,
+      "end": 1330
+    },
+    {
+      "text": "Postoperative Diagnosis",
+      "type": "ENTITY",
+      "start": 1343,
+      "end": 1366
+    },
+    {
+      "text": "Symptoms/Radiologic",
+      "type": "ENTITY",
+      "start": 1368,
+      "end": 1387
+    },
+    {
+      "text": "Findings",
+      "type": "ENTITY",
+      "start": 1388,
+      "end": 1396
+    },
+    {
+      "text": "Left kidney",
+      "type": "ENTITY",
+      "start": 1409,
+      "end": 1420
+    },
+    {
+      "text": "DATA GROSS DESCRIPTION",
+      "type": "ENTITY",
+      "start": 1430,
+      "end": 1452
+    },
+    {
+      "text": "kidney",
+      "type": "ENTITY",
+      "start": 1472,
+      "end": 1478
+    },
+    {
+      "text": "perinephric",
+      "type": "ENTITY",
+      "start": 1493,
+      "end": 1504
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 1509,
+      "end": 1518
+    },
+    {
+      "text": "weighs 814 grams",
+      "type": "ENTITY",
+      "start": 1544,
+      "end": 1560
+    },
+    {
+      "text": "adrenal gland",
+      "type": "ENTITY",
+      "start": 1574,
+      "end": 1587
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1604,
+      "end": 1612
+    },
+    {
+      "text": "ureter",
+      "type": "ENTITY",
+      "start": 1618,
+      "end": 1624
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 1625,
+      "end": 1633
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 1645,
+      "end": 1651
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 1672,
+      "end": 1680
+    },
+    {
+      "text": "ureter",
+      "type": "ENTITY",
+      "start": 1697,
+      "end": 1703
+    },
+    {
+      "text": "mucosal",
+      "type": "ENTITY",
+      "start": 1708,
+      "end": 1715
+    },
+    {
+      "text": "light tan",
+      "type": "ENTITY",
+      "start": 1727,
+      "end": 1736
+    },
+    {
+      "text": "lesions",
+      "type": "ENTITY",
+      "start": 1766,
+      "end": 1773
+    },
+    {
+      "text": "identified",
+      "type": "ENTITY",
+      "start": 1774,
+      "end": 1784
+    },
+    {
+      "text": "lumen",
+      "type": "ENTITY",
+      "start": 1796,
+      "end": 1801
+    },
+    {
+      "text": "renal artery stump",
+      "type": "ENTITY",
+      "start": 1807,
+      "end": 1825
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 1826,
+      "end": 1834
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 1845,
+      "end": 1851
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 1866,
+      "end": 1874
+    },
+    {
+      "text": "renal vein stump",
+      "type": "ENTITY",
+      "start": 1908,
+      "end": 1924
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 1925,
+      "end": 1933
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 1944,
+      "end": 1950
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 1965,
+      "end": 1973
+    },
+    {
+      "text": "unremarkable",
+      "type": "ENTITY",
+      "start": 1994,
+      "end": 2006
+    },
+    {
+      "text": "hilum",
+      "type": "ENTITY",
+      "start": 2014,
+      "end": 2019
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 2033,
+      "end": 2044
+    },
+    {
+      "text": "identified",
+      "type": "ENTITY",
+      "start": 2045,
+      "end": 2055
+    },
+    {
+      "text": "soft tissue",
+      "type": "ENTITY",
+      "start": 2061,
+      "end": 2072
+    },
+    {
+      "text": "shaggy",
+      "type": "ENTITY",
+      "start": 2121,
+      "end": 2127
+    },
+    {
+      "text": "adhesions",
+      "type": "ENTITY",
+      "start": 2133,
+      "end": 2142
+    },
+    {
+      "text": "martin",
+      "type": "ENTITY",
+      "start": 2148,
+      "end": 2154
+    },
+    {
+      "text": "kidney",
+      "type": "ENTITY",
+      "start": 2169,
+      "end": 2175
+    },
+    {
+      "text": "bisected",
+      "type": "ENTITY",
+      "start": 2179,
+      "end": 2187
+    },
+    {
+      "text": "circumscribed brown tan hemorrhagic mass",
+      "type": "ENTITY",
+      "start": 2202,
+      "end": 2242
+    },
+    {
+      "text": "lower pole",
+      "type": "ENTITY",
+      "start": 2254,
+      "end": 2264
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 2265,
+      "end": 2274
+    },
+    {
+      "text": "sectioning",
+      "type": "ENTITY",
+      "start": 2298,
+      "end": 2308
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 2313,
+      "end": 2317
+    },
+    {
+      "text": "capsule",
+      "type": "ENTITY",
+      "start": 2350,
+      "end": 2357
+    },
+    {
+      "text": "lesion",
+      "type": "ENTITY",
+      "start": 2371,
+      "end": 2377
+    },
+    {
+      "text": "surrounding",
+      "type": "ENTITY",
+      "start": 2387,
+      "end": 2398
+    },
+    {
+      "text": "perinephric fat",
+      "type": "ENTITY",
+      "start": 2399,
+      "end": 2414
+    },
+    {
+      "text": "identified",
+      "type": "ENTITY",
+      "start": 2415,
+      "end": 2425
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 2431,
+      "end": 2435
+    },
+    {
+      "text": "deep margin",
+      "type": "ENTITY",
+      "start": 2460,
+      "end": 2471
+    },
+    {
+      "text": "renal cortex",
+      "type": "ENTITY",
+      "start": 2477,
+      "end": 2489
+    },
+    {
+      "text": "brown tan",
+      "type": "ENTITY",
+      "start": 2493,
+      "end": 2502
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 2503,
+      "end": 2512
+    },
+    {
+      "text": "cortical medullary junction",
+      "type": "ENTITY",
+      "start": 2546,
+      "end": 2573
+    },
+    {
+      "text": "lesions",
+      "type": "ENTITY",
+      "start": 2584,
+      "end": 2591
+    },
+    {
+      "text": "identified",
+      "type": "ENTITY",
+      "start": 2596,
+      "end": 2606
+    },
+    {
+      "text": "renal calyces",
+      "type": "ENTITY",
+      "start": 2612,
+      "end": 2625
+    },
+    {
+      "text": "Representative sections",
+      "type": "ENTITY",
+      "start": 2626,
+      "end": 2649
+    },
+    {
+      "text": "cassettes",
+      "type": "ENTITY",
+      "start": 2667,
+      "end": 2676
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 2687,
+      "end": 2695
+    },
+    {
+      "text": "4;ureter-5renal",
+      "type": "ENTITY",
+      "start": 2715,
+      "end": 2730
+    },
+    {
+      "text": "uninvolved",
+      "type": "ENTITY",
+      "start": 2747,
+      "end": 2757
+    },
+    {
+      "text": "perpendicular",
+      "type": "ENTITY",
+      "start": 2768,
+      "end": 2781
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 2782,
+      "end": 2790
+    },
+    {
+      "text": "deep margin",
+      "type": "ENTITY",
+      "start": 2806,
+      "end": 2817
+    },
+    {
+      "text": "overlying",
+      "type": "ENTITY",
+      "start": 2818,
+      "end": 2827
+    },
+    {
+      "text": "mass--8",
+      "type": "ENTITY",
+      "start": 2832,
+      "end": 2839
+    }
+  ],
+  "entity_count": 132,
+  "has_embedding": true
+}

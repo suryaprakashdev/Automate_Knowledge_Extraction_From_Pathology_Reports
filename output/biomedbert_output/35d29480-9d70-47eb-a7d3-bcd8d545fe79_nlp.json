@@ -1,0 +1,1604 @@
+{
+  "filename": "35d29480-9d70-47eb-a7d3-bcd8d545fe79",
+  "timestamp": "2026-01-05T14:42:09.361330",
+  "entities": [
+    {
+      "text": "Accession",
+      "type": "ENTITY",
+      "start": 30,
+      "end": 39
+    },
+    {
+      "text": "Date",
+      "type": "ENTITY",
+      "start": 56,
+      "end": 60
+    },
+    {
+      "text": "DOB",
+      "type": "ENTITY",
+      "start": 74,
+      "end": 77
+    },
+    {
+      "text": "Date",
+      "type": "ENTITY",
+      "start": 79,
+      "end": 83
+    },
+    {
+      "text": "Date",
+      "type": "ENTITY",
+      "start": 103,
+      "end": 107
+    },
+    {
+      "text": "Repord Ref",
+      "type": "ENTITY",
+      "start": 111,
+      "end": 121
+    },
+    {
+      "text": "Physician",
+      "type": "ENTITY",
+      "start": 123,
+      "end": 132
+    },
+    {
+      "text": "Patient",
+      "type": "ENTITY",
+      "start": 145,
+      "end": 152
+    },
+    {
+      "text": "Billing Type",
+      "type": "ENTITY",
+      "start": 162,
+      "end": 174
+    },
+    {
+      "text": "Copy",
+      "type": "ENTITY",
+      "start": 187,
+      "end": 191
+    },
+    {
+      "text": "right renal mass",
+      "type": "ENTITY",
+      "start": 226,
+      "end": 242
+    },
+    {
+      "text": "caval thrombus",
+      "type": "ENTITY",
+      "start": 247,
+      "end": 261
+    },
+    {
+      "text": "Specimens",
+      "type": "ENTITY",
+      "start": 263,
+      "end": 272
+    },
+    {
+      "text": "SP",
+      "type": "ENTITY",
+      "start": 287,
+      "end": 289
+    },
+    {
+      "text": "Right kidney",
+      "type": "ENTITY",
+      "start": 291,
+      "end": 303
+    },
+    {
+      "text": "renal vein thrombus",
+      "type": "ENTITY",
+      "start": 305,
+      "end": 324
+    },
+    {
+      "text": "vena caval thrombus",
+      "type": "ENTITY",
+      "start": 326,
+      "end": 345
+    },
+    {
+      "text": "radical nephrectomy 2 SP",
+      "type": "ENTITY",
+      "start": 347,
+      "end": 371
+    },
+    {
+      "text": "Portion ol right gonadal vein",
+      "type": "ENTITY",
+      "start": 373,
+      "end": 402
+    },
+    {
+      "text": "biopsy",
+      "type": "ENTITY",
+      "start": 404,
+      "end": 410
+    },
+    {
+      "text": "SP",
+      "type": "ENTITY",
+      "start": 415,
+      "end": 417
+    },
+    {
+      "text": "Para caval",
+      "type": "ENTITY",
+      "start": 419,
+      "end": 429
+    },
+    {
+      "text": "pre",
+      "type": "ENTITY",
+      "start": 434,
+      "end": 437
+    },
+    {
+      "text": "caval lynph nodes",
+      "type": "ENTITY",
+      "start": 438,
+      "end": 455
+    },
+    {
+      "text": "excision",
+      "type": "ENTITY",
+      "start": 457,
+      "end": 465
+    },
+    {
+      "text": "Right renal lymph nodes",
+      "type": "ENTITY",
+      "start": 475,
+      "end": 498
+    },
+    {
+      "text": "excision",
+      "type": "ENTITY",
+      "start": 500,
+      "end": 508
+    },
+    {
+      "text": "DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 510,
+      "end": 519
+    },
+    {
+      "text": "SP",
+      "type": "ENTITY",
+      "start": 524,
+      "end": 526
+    },
+    {
+      "text": "Right kidnoy",
+      "type": "ENTITY",
+      "start": 528,
+      "end": 540
+    },
+    {
+      "text": "renal vein thrombus",
+      "type": "ENTITY",
+      "start": 542,
+      "end": 561
+    },
+    {
+      "text": "vona caval",
+      "type": "ENTITY",
+      "start": 563,
+      "end": 573
+    },
+    {
+      "text": "thrombus",
+      "type": "ENTITY",
+      "start": 574,
+      "end": 582
+    },
+    {
+      "text": "radical nephrectomy",
+      "type": "ENTITY",
+      "start": 584,
+      "end": 603
+    },
+    {
+      "text": "Tumor Type",
+      "type": "ENTITY",
+      "start": 605,
+      "end": 615
+    },
+    {
+      "text": "Renal cell carcinoma",
+      "type": "ENTITY",
+      "start": 617,
+      "end": 637
+    },
+    {
+      "text": "Unclassified",
+      "type": "ENTITY",
+      "start": 640,
+      "end": 652
+    },
+    {
+      "text": "Tumor Size",
+      "type": "ENTITY",
+      "start": 693,
+      "end": 703
+    },
+    {
+      "text": "Greatesl",
+      "type": "ENTITY",
+      "start": 705,
+      "end": 713
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 714,
+      "end": 722
+    },
+    {
+      "text": "Local Invasion",
+      "type": "ENTITY",
+      "start": 735,
+      "end": 749
+    },
+    {
+      "text": "renal cortical types",
+      "type": "ENTITY",
+      "start": 755,
+      "end": 775
+    },
+    {
+      "text": "renal sinus fat",
+      "type": "ENTITY",
+      "start": 787,
+      "end": 802
+    },
+    {
+      "text": "ronal",
+      "type": "ENTITY",
+      "start": 812,
+      "end": 817
+    },
+    {
+      "text": "hllar fat Renal Vein",
+      "type": "ENTITY",
+      "start": 818,
+      "end": 838
+    },
+    {
+      "text": "Invasion",
+      "type": "ENTITY",
+      "start": 839,
+      "end": 847
+    },
+    {
+      "text": "Identified",
+      "type": "ENTITY",
+      "start": 849,
+      "end": 859
+    },
+    {
+      "text": "Tumor",
+      "type": "ENTITY",
+      "start": 860,
+      "end": 865
+    },
+    {
+      "text": "muscular veins",
+      "type": "ENTITY",
+      "start": 882,
+      "end": 896
+    },
+    {
+      "text": "renal sinus/hilum Surgical Margins",
+      "type": "ENTITY",
+      "start": 918,
+      "end": 952
+    },
+    {
+      "text": "Tumor",
+      "type": "ENTITY",
+      "start": 954,
+      "end": 959
+    },
+    {
+      "text": "renal vein margin",
+      "type": "ENTITY",
+      "start": 971,
+      "end": 988
+    },
+    {
+      "text": "Unremarkable Adrenal Gland",
+      "type": "ENTITY",
+      "start": 1014,
+      "end": 1040
+    },
+    {
+      "text": "Lymph Nodes",
+      "type": "ENTITY",
+      "start": 1057,
+      "end": 1068
+    },
+    {
+      "text": "renal cell",
+      "type": "ENTITY",
+      "start": 1097,
+      "end": 1107
+    },
+    {
+      "text": "Tumor",
+      "type": "ENTITY",
+      "start": 1136,
+      "end": 1141
+    },
+    {
+      "text": "grossly",
+      "type": "ENTITY",
+      "start": 1142,
+      "end": 1149
+    },
+    {
+      "text": "renal",
+      "type": "ENTITY",
+      "start": 1167,
+      "end": 1172
+    },
+    {
+      "text": "vein(s)",
+      "type": "ENTITY",
+      "start": 1173,
+      "end": 1180
+    },
+    {
+      "text": "vena cava",
+      "type": "ENTITY",
+      "start": 1184,
+      "end": 1193
+    },
+    {
+      "text": "diaphragm",
+      "type": "ENTITY",
+      "start": 1204,
+      "end": 1213
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1224,
+      "end": 1229
+    },
+    {
+      "text": "papillary",
+      "type": "ENTITY",
+      "start": 1251,
+      "end": 1260
+    },
+    {
+      "text": "focally",
+      "type": "ENTITY",
+      "start": 1265,
+      "end": 1272
+    },
+    {
+      "text": "solid archilecture",
+      "type": "ENTITY",
+      "start": 1273,
+      "end": 1291
+    },
+    {
+      "text": "cells",
+      "type": "ENTITY",
+      "start": 1311,
+      "end": 1316
+    },
+    {
+      "text": "eosinophilic cyloplasm",
+      "type": "ENTITY",
+      "start": 1331,
+      "end": 1353
+    },
+    {
+      "text": "Immunohistochemical stains",
+      "type": "ENTITY",
+      "start": 1378,
+      "end": 1404
+    },
+    {
+      "text": "positive",
+      "type": "ENTITY",
+      "start": 1418,
+      "end": 1426
+    },
+    {
+      "text": "racemase",
+      "type": "ENTITY",
+      "start": 1431,
+      "end": 1439
+    },
+    {
+      "text": "CD10",
+      "type": "ENTITY",
+      "start": 1444,
+      "end": 1448
+    },
+    {
+      "text": "luminal",
+      "type": "ENTITY",
+      "start": 1466,
+      "end": 1473
+    },
+    {
+      "text": "paltorn",
+      "type": "ENTITY",
+      "start": 1475,
+      "end": 1482
+    },
+    {
+      "text": "patchy positivity",
+      "type": "ENTITY",
+      "start": 1490,
+      "end": 1507
+    },
+    {
+      "text": "CA-IX",
+      "type": "ENTITY",
+      "start": 1512,
+      "end": 1517
+    },
+    {
+      "text": "CK7",
+      "type": "ENTITY",
+      "start": 1540,
+      "end": 1543
+    },
+    {
+      "text": "TFE-3",
+      "type": "ENTITY",
+      "start": 1553,
+      "end": 1558
+    },
+    {
+      "text": "TFE-B",
+      "type": "ENTITY",
+      "start": 1560,
+      "end": 1565
+    },
+    {
+      "text": "CEA",
+      "type": "ENTITY",
+      "start": 1570,
+      "end": 1573
+    },
+    {
+      "text": "findings",
+      "type": "ENTITY",
+      "start": 1629,
+      "end": 1637
+    },
+    {
+      "text": "cell carcinoma",
+      "type": "ENTITY",
+      "start": 1667,
+      "end": 1681
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1688,
+      "end": 1693
+    },
+    {
+      "text": "origin",
+      "type": "ENTITY",
+      "start": 1712,
+      "end": 1718
+    },
+    {
+      "text": "case",
+      "type": "ENTITY",
+      "start": 1725,
+      "end": 1729
+    },
+    {
+      "text": "reviewed",
+      "type": "ENTITY",
+      "start": 1739,
+      "end": 1747
+    },
+    {
+      "text": "wit",
+      "type": "ENTITY",
+      "start": 1748,
+      "end": 1751
+    },
+    {
+      "text": "diagnosis",
+      "type": "ENTITY",
+      "start": 1776,
+      "end": 1785
+    },
+    {
+      "text": "SP",
+      "type": "ENTITY",
+      "start": 1791,
+      "end": 1793
+    },
+    {
+      "text": "Portion",
+      "type": "ENTITY",
+      "start": 1795,
+      "end": 1802
+    },
+    {
+      "text": "right gonadal vein",
+      "type": "ENTITY",
+      "start": 1806,
+      "end": 1824
+    },
+    {
+      "text": "biopsy",
+      "type": "ENTITY",
+      "start": 1826,
+      "end": 1832
+    },
+    {
+      "text": "Benign",
+      "type": "ENTITY",
+      "start": 1834,
+      "end": 1840
+    },
+    {
+      "text": "segment",
+      "type": "ENTITY",
+      "start": 1841,
+      "end": 1848
+    },
+    {
+      "text": "vascylar tissue",
+      "type": "ENTITY",
+      "start": 1852,
+      "end": 1867
+    },
+    {
+      "text": "SP",
+      "type": "ENTITY",
+      "start": 1872,
+      "end": 1874
+    },
+    {
+      "text": "Para caval",
+      "type": "ENTITY",
+      "start": 1876,
+      "end": 1886
+    },
+    {
+      "text": "pre",
+      "type": "ENTITY",
+      "start": 1891,
+      "end": 1894
+    },
+    {
+      "text": "caval lymph nodes",
+      "type": "ENTITY",
+      "start": 1895,
+      "end": 1912
+    },
+    {
+      "text": "oxcision",
+      "type": "ENTITY",
+      "start": 1914,
+      "end": 1922
+    },
+    {
+      "text": "Lymph Nodes",
+      "type": "ENTITY",
+      "start": 1924,
+      "end": 1935
+    },
+    {
+      "text": "nodes",
+      "type": "ENTITY",
+      "start": 1960,
+      "end": 1965
+    },
+    {
+      "text": "SP",
+      "type": "ENTITY",
+      "start": 1979,
+      "end": 1981
+    },
+    {
+      "text": "Right renal lymph nodes",
+      "type": "ENTITY",
+      "start": 1983,
+      "end": 2006
+    },
+    {
+      "text": "excision",
+      "type": "ENTITY",
+      "start": 2008,
+      "end": 2016
+    },
+    {
+      "text": "Nodes",
+      "type": "ENTITY",
+      "start": 2025,
+      "end": 2030
+    },
+    {
+      "text": "ganglioneurona",
+      "type": "ENTITY",
+      "start": 2034,
+      "end": 2048
+    },
+    {
+      "text": "adjacent",
+      "type": "ENTITY",
+      "start": 2062,
+      "end": 2070
+    },
+    {
+      "text": "benign",
+      "type": "ENTITY",
+      "start": 2071,
+      "end": 2077
+    },
+    {
+      "text": "adrenal tissue",
+      "type": "ENTITY",
+      "start": 2078,
+      "end": 2092
+    },
+    {
+      "text": "tymph nodes",
+      "type": "ENTITY",
+      "start": 2106,
+      "end": 2117
+    },
+    {
+      "text": "Somo",
+      "type": "ENTITY",
+      "start": 2129,
+      "end": 2133
+    },
+    {
+      "text": "immunohistochemistry",
+      "type": "ENTITY",
+      "start": 2141,
+      "end": 2161
+    },
+    {
+      "text": "ISh",
+      "type": "ENTITY",
+      "start": 2166,
+      "end": 2169
+    },
+    {
+      "text": "tesls",
+      "type": "ENTITY",
+      "start": 2170,
+      "end": 2175
+    },
+    {
+      "text": "performance",
+      "type": "ENTITY",
+      "start": 2201,
+      "end": 2212
+    },
+    {
+      "text": "Department o! Pathology",
+      "type": "ENTITY",
+      "start": 2252,
+      "end": 2275
+    },
+    {
+      "text": "cleared",
+      "type": "ENTITY",
+      "start": 2296,
+      "end": 2303
+    },
+    {
+      "text": "US",
+      "type": "ENTITY",
+      "start": 2323,
+      "end": 2325
+    },
+    {
+      "text": "Tho",
+      "type": "ENTITY",
+      "start": 2356,
+      "end": 2359
+    },
+    {
+      "text": "FDA",
+      "type": "ENTITY",
+      "start": 2360,
+      "end": 2363
+    },
+    {
+      "text": "datermined",
+      "type": "ENTITY",
+      "start": 2368,
+      "end": 2378
+    },
+    {
+      "text": "clearance",
+      "type": "ENTITY",
+      "start": 2389,
+      "end": 2398
+    },
+    {
+      "text": "approval",
+      "type": "ENTITY",
+      "start": 2403,
+      "end": 2411
+    },
+    {
+      "text": "tests",
+      "type": "ENTITY",
+      "start": 2436,
+      "end": 2441
+    },
+    {
+      "text": "clinical purposes",
+      "type": "ENTITY",
+      "start": 2455,
+      "end": 2472
+    },
+    {
+      "text": "renarded",
+      "type": "ENTITY",
+      "start": 2493,
+      "end": 2501
+    },
+    {
+      "text": "invesligational",
+      "type": "ENTITY",
+      "start": 2505,
+      "end": 2520
+    },
+    {
+      "text": "research",
+      "type": "ENTITY",
+      "start": 2528,
+      "end": 2536
+    },
+    {
+      "text": "Thns",
+      "type": "ENTITY",
+      "start": 2538,
+      "end": 2542
+    },
+    {
+      "text": "Iaboralory",
+      "type": "ENTITY",
+      "start": 2544,
+      "end": 2554
+    },
+    {
+      "text": "Clinical Lahoratory improvement",
+      "type": "ENTITY",
+      "start": 2578,
+      "end": 2609
+    },
+    {
+      "text": "Amondmonts",
+      "type": "ENTITY",
+      "start": 2610,
+      "end": 2620
+    },
+    {
+      "text": "conplexity",
+      "type": "ENTITY",
+      "start": 2646,
+      "end": 2656
+    },
+    {
+      "text": "clinical",
+      "type": "ENTITY",
+      "start": 2657,
+      "end": 2665
+    },
+    {
+      "text": "IS",
+      "type": "ENTITY",
+      "start": 2718,
+      "end": 2720
+    },
+    {
+      "text": "THAT I",
+      "type": "ENTITY",
+      "start": 2799,
+      "end": 2805
+    },
+    {
+      "text": "CA-1X",
+      "type": "ENTITY",
+      "start": 2893,
+      "end": 2898
+    },
+    {
+      "text": "CD10",
+      "type": "ENTITY",
+      "start": 2900,
+      "end": 2904
+    },
+    {
+      "text": "CK7 CEA",
+      "type": "ENTITY",
+      "start": 2914,
+      "end": 2921
+    },
+    {
+      "text": "IMM",
+      "type": "ENTITY",
+      "start": 2931,
+      "end": 2934
+    },
+    {
+      "text": "RECUT",
+      "type": "ENTITY",
+      "start": 2935,
+      "end": 2940
+    },
+    {
+      "text": "NEG",
+      "type": "ENTITY",
+      "start": 2941,
+      "end": 2944
+    },
+    {
+      "text": "CONI IGH",
+      "type": "ENTITY",
+      "start": 2945,
+      "end": 2953
+    },
+    {
+      "text": "Gross Description",
+      "type": "ENTITY",
+      "start": 2954,
+      "end": 2971
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 2980,
+      "end": 2988
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 3001,
+      "end": 3006
+    },
+    {
+      "text": "renal vein thrombus",
+      "type": "ENTITY",
+      "start": 3030,
+      "end": 3049
+    },
+    {
+      "text": "vena caval thrombus",
+      "type": "ENTITY",
+      "start": 3051,
+      "end": 3070
+    },
+    {
+      "text": "xidney",
+      "type": "ENTITY",
+      "start": 3090,
+      "end": 3096
+    },
+    {
+      "text": "ureter",
+      "type": "ENTITY",
+      "start": 3113,
+      "end": 3119
+    },
+    {
+      "text": "renal vossels",
+      "type": "ENTITY",
+      "start": 3121,
+      "end": 3134
+    },
+    {
+      "text": "perinephric fat",
+      "type": "ENTITY",
+      "start": 3139,
+      "end": 3154
+    },
+    {
+      "text": "kidney",
+      "type": "ENTITY",
+      "start": 3184,
+      "end": 3190
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 3191,
+      "end": 3199
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 3243,
+      "end": 3251
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 3262,
+      "end": 3268
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 3283,
+      "end": 3291
+    },
+    {
+      "text": "renal vein",
+      "type": "ENTITY",
+      "start": 3306,
+      "end": 3316
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 3317,
+      "end": 3325
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 3336,
+      "end": 3342
+    },
+    {
+      "text": "filled with",
+      "type": "ENTITY",
+      "start": 3386,
+      "end": 3397
+    },
+    {
+      "text": "tan",
+      "type": "ENTITY",
+      "start": 3398,
+      "end": 3401
+    },
+    {
+      "text": "friable feshy lumor",
+      "type": "ENTITY",
+      "start": 3403,
+      "end": 3422
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 3423,
+      "end": 3427
+    },
+    {
+      "text": "ureter margin",
+      "type": "ENTITY",
+      "start": 3433,
+      "end": 3446
+    },
+    {
+      "text": "kidney",
+      "type": "ENTITY",
+      "start": 3476,
+      "end": 3482
+    },
+    {
+      "text": "bivalved",
+      "type": "ENTITY",
+      "start": 3504,
+      "end": 3512
+    },
+    {
+      "text": "irregular",
+      "type": "ENTITY",
+      "start": 3545,
+      "end": 3554
+    },
+    {
+      "text": "lobulaled",
+      "type": "ENTITY",
+      "start": 3555,
+      "end": 3564
+    },
+    {
+      "text": "friable",
+      "type": "ENTITY",
+      "start": 3566,
+      "end": 3573
+    },
+    {
+      "text": "comptelely replacing upper pole",
+      "type": "ENTITY",
+      "start": 3590,
+      "end": 3621
+    },
+    {
+      "text": "kidney",
+      "type": "ENTITY",
+      "start": 3632,
+      "end": 3638
+    },
+    {
+      "text": "tumor grossly",
+      "type": "ENTITY",
+      "start": 3644,
+      "end": 3657
+    },
+    {
+      "text": "invades",
+      "type": "ENTITY",
+      "start": 3658,
+      "end": 3665
+    },
+    {
+      "text": "renal sinus",
+      "type": "ENTITY",
+      "start": 3675,
+      "end": 3686
+    },
+    {
+      "text": "renal vein",
+      "type": "ENTITY",
+      "start": 3691,
+      "end": 3701
+    },
+    {
+      "text": "Sections",
+      "type": "ENTITY",
+      "start": 3703,
+      "end": 3711
+    },
+    {
+      "text": "kidney",
+      "type": "ENTITY",
+      "start": 3741,
+      "end": 3747
+    },
+    {
+      "text": "pink brown parenchyma",
+      "type": "ENTITY",
+      "start": 3757,
+      "end": 3778
+    },
+    {
+      "text": "cortico-modul",
+      "type": "ENTITY",
+      "start": 3800,
+      "end": 3813
+    },
+    {
+      "text": "nclion",
+      "type": "ENTITY",
+      "start": 3814,
+      "end": 3820
+    },
+    {
+      "text": "cortex",
+      "type": "ENTITY",
+      "start": 3826,
+      "end": 3832
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 3833,
+      "end": 3841
+    },
+    {
+      "text": "specinen",
+      "type": "ENTITY",
+      "start": 3854,
+      "end": 3862
+    },
+    {
+      "text": "photographed",
+      "type": "ENTITY",
+      "start": 3866,
+      "end": 3878
+    },
+    {
+      "text": "Representative soctions",
+      "type": "ENTITY",
+      "start": 3880,
+      "end": 3903
+    },
+    {
+      "text": "permanont",
+      "type": "ENTITY",
+      "start": 3929,
+      "end": 3938
+    },
+    {
+      "text": "seclions",
+      "type": "ENTITY",
+      "start": 3939,
+      "end": 3947
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 3960,
+      "end": 3968
+    },
+    {
+      "text": "RAM",
+      "type": "ENTITY",
+      "start": 3972,
+      "end": 3975
+    },
+    {
+      "text": "renal artery margin",
+      "type": "ENTITY",
+      "start": 3978,
+      "end": 3997
+    },
+    {
+      "text": "RVM",
+      "type": "ENTITY",
+      "start": 3999,
+      "end": 4002
+    },
+    {
+      "text": "ronal vein margin",
+      "type": "ENTITY",
+      "start": 4006,
+      "end": 4023
+    },
+    {
+      "text": "UM",
+      "type": "ENTITY",
+      "start": 4025,
+      "end": 4027
+    },
+    {
+      "text": "ureteral margin",
+      "type": "ENTITY",
+      "start": 4031,
+      "end": 4046
+    },
+    {
+      "text": "RV",
+      "type": "ENTITY",
+      "start": 4086,
+      "end": 4088
+    },
+    {
+      "text": "senal vein THF-- tumor",
+      "type": "ENTITY",
+      "start": 4092,
+      "end": 4114
+    },
+    {
+      "text": "hilum",
+      "type": "ENTITY",
+      "start": 4120,
+      "end": 4125
+    },
+    {
+      "text": "TPF",
+      "type": "ENTITY",
+      "start": 4127,
+      "end": 4130
+    },
+    {
+      "text": "lumor",
+      "type": "ENTITY",
+      "start": 4134,
+      "end": 4139
+    },
+    {
+      "text": "perirenal fat K",
+      "type": "ENTITY",
+      "start": 4143,
+      "end": 4158
+    },
+    {
+      "text": "representative",
+      "type": "ENTITY",
+      "start": 4162,
+      "end": 4176
+    },
+    {
+      "text": "section",
+      "type": "ENTITY",
+      "start": 4177,
+      "end": 4184
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 4211,
+      "end": 4219
+    },
+    {
+      "text": "fornalin",
+      "type": "ENTITY",
+      "start": 4235,
+      "end": 4243
+    },
+    {
+      "text": "right gonadal vein",
+      "type": "ENTITY",
+      "start": 4265,
+      "end": 4283
+    },
+    {
+      "text": "consisls",
+      "type": "ENTITY",
+      "start": 4289,
+      "end": 4297
+    },
+    {
+      "text": "segment",
+      "type": "ENTITY",
+      "start": 4303,
+      "end": 4310
+    },
+    {
+      "text": "vein",
+      "type": "ENTITY",
+      "start": 4314,
+      "end": 4318
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 4319,
+      "end": 4328
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 4340,
+      "end": 4346
+    },
+    {
+      "text": "average",
+      "type": "ENTITY",
+      "start": 4361,
+      "end": 4368
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 4369,
+      "end": 4377
+    },
+    {
+      "text": "seclions",
+      "type": "ENTITY",
+      "start": 4390,
+      "end": 4398
+    },
+    {
+      "text": "M--margin U--representative",
+      "type": "ENTITY",
+      "start": 4401,
+      "end": 4428
+    },
+    {
+      "text": "section",
+      "type": "ENTITY",
+      "start": 4429,
+      "end": 4436
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 4457,
+      "end": 4465
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 4481,
+      "end": 4489
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 4491,
+      "end": 4498
+    },
+    {
+      "text": "precaval lymph nodes",
+      "type": "ENTITY",
+      "start": 4514,
+      "end": 4534
+    },
+    {
+      "text": "mullipte pink tan firm",
+      "type": "ENTITY",
+      "start": 4552,
+      "end": 4574
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 4575,
+      "end": 4586
+    },
+    {
+      "text": "grealest dimension",
+      "type": "ENTITY",
+      "start": 4618,
+      "end": 4636
+    },
+    {
+      "text": "identilied",
+      "type": "ENTITY",
+      "start": 4642,
+      "end": 4652
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 4653,
+      "end": 4664
+    },
+    {
+      "text": "submilled",
+      "type": "ENTITY",
+      "start": 4669,
+      "end": 4678
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 4692,
+      "end": 4700
+    },
+    {
+      "text": "LN",
+      "type": "ENTITY",
+      "start": 4703,
+      "end": 4705
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 4709,
+      "end": 4720
+    },
+    {
+      "text": "bisected",
+      "type": "ENTITY",
+      "start": 4727,
+      "end": 4735
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 4736,
+      "end": 4747
+    },
+    {
+      "text": "atlachod fat",
+      "type": "ENTITY",
+      "start": 4773,
+      "end": 4785
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 4786,
+      "end": 4795
+    },
+    {
+      "text": "overall",
+      "type": "ENTITY",
+      "start": 4818,
+      "end": 4825
+    },
+    {
+      "text": "dimension",
+      "type": "ENTITY",
+      "start": 4826,
+      "end": 4835
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 4846,
+      "end": 4857
+    },
+    {
+      "text": "specinnen",
+      "type": "ENTITY",
+      "start": 4882,
+      "end": 4891
+    },
+    {
+      "text": "LN",
+      "type": "ENTITY",
+      "start": 4944,
+      "end": 4946
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 4950,
+      "end": 4961
+    },
+    {
+      "text": "TLN--",
+      "type": "ENTITY",
+      "start": 4962,
+      "end": 4967
+    },
+    {
+      "text": "trisected lyniph nodes",
+      "type": "ENTITY",
+      "start": 4968,
+      "end": 4990
+    },
+    {
+      "text": "ADR--adrenal gland F--fal",
+      "type": "ENTITY",
+      "start": 4991,
+      "end": 5016
+    },
+    {
+      "text": "Sections",
+      "type": "ENTITY",
+      "start": 5028,
+      "end": 5036
+    },
+    {
+      "text": "SP",
+      "type": "ENTITY",
+      "start": 5046,
+      "end": 5048
+    },
+    {
+      "text": "Right kidney",
+      "type": "ENTITY",
+      "start": 5050,
+      "end": 5062
+    },
+    {
+      "text": "renal vein thrombus",
+      "type": "ENTITY",
+      "start": 5064,
+      "end": 5083
+    },
+    {
+      "text": "vena caval thrombus",
+      "type": "ENTITY",
+      "start": 5085,
+      "end": 5104
+    },
+    {
+      "text": "radical nephrectomy",
+      "type": "ENTITY",
+      "start": 5106,
+      "end": 5125
+    },
+    {
+      "text": "Block Sect",
+      "type": "ENTITY",
+      "start": 5127,
+      "end": 5137
+    },
+    {
+      "text": "RVM",
+      "type": "ENTITY",
+      "start": 5171,
+      "end": 5174
+    },
+    {
+      "text": "SP",
+      "type": "ENTITY",
+      "start": 5210,
+      "end": 5212
+    },
+    {
+      "text": "Portion",
+      "type": "ENTITY",
+      "start": 5214,
+      "end": 5221
+    },
+    {
+      "text": "right gonadal vein",
+      "type": "ENTITY",
+      "start": 5225,
+      "end": 5243
+    },
+    {
+      "text": "biopsy",
+      "type": "ENTITY",
+      "start": 5245,
+      "end": 5251
+    },
+    {
+      "text": "Block Sect",
+      "type": "ENTITY",
+      "start": 5253,
+      "end": 5263
+    },
+    {
+      "text": "PCs",
+      "type": "ENTITY",
+      "start": 5270,
+      "end": 5273
+    },
+    {
+      "text": "Para caval",
+      "type": "ENTITY",
+      "start": 5296,
+      "end": 5306
+    },
+    {
+      "text": "pre",
+      "type": "ENTITY",
+      "start": 5311,
+      "end": 5314
+    },
+    {
+      "text": "caval lymph nodes",
+      "type": "ENTITY",
+      "start": 5315,
+      "end": 5332
+    },
+    {
+      "text": "excision",
+      "type": "ENTITY",
+      "start": 5334,
+      "end": 5342
+    },
+    {
+      "text": "Block Sect",
+      "type": "ENTITY",
+      "start": 5344,
+      "end": 5354
+    },
+    {
+      "text": "Sito",
+      "type": "ENTITY",
+      "start": 5356,
+      "end": 5360
+    },
+    {
+      "text": "SP",
+      "type": "ENTITY",
+      "start": 5388,
+      "end": 5390
+    },
+    {
+      "text": "Right renal lymph nodes",
+      "type": "ENTITY",
+      "start": 5392,
+      "end": 5415
+    },
+    {
+      "text": "excision",
+      "type": "ENTITY",
+      "start": 5417,
+      "end": 5425
+    },
+    {
+      "text": "END",
+      "type": "ENTITY",
+      "start": 5511,
+      "end": 5514
+    }
+  ],
+  "entity_count": 266,
+  "has_embedding": true
+}

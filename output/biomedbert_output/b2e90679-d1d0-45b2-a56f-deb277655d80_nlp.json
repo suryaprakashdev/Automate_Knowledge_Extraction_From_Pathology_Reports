@@ -1,0 +1,668 @@
+{
+  "filename": "b2e90679-d1d0-45b2-a56f-deb277655d80",
+  "timestamp": "2026-01-05T14:43:02.658658",
+  "entities": [
+    {
+      "text": "Carcioma mfltnatrg",
+      "type": "ENTITY",
+      "start": 24,
+      "end": 42
+    },
+    {
+      "text": "NOs",
+      "type": "ENTITY",
+      "start": 64,
+      "end": 67
+    },
+    {
+      "text": "breast",
+      "type": "ENTITY",
+      "start": 79,
+      "end": 85
+    },
+    {
+      "text": "Pathology Form Specimen Information",
+      "type": "ENTITY",
+      "start": 93,
+      "end": 128
+    },
+    {
+      "text": "Time",
+      "type": "ENTITY",
+      "start": 149,
+      "end": 153
+    },
+    {
+      "text": "samples",
+      "type": "ENTITY",
+      "start": 201,
+      "end": 208
+    },
+    {
+      "text": "Frozen",
+      "type": "ENTITY",
+      "start": 220,
+      "end": 226
+    },
+    {
+      "text": "Diseased",
+      "type": "ENTITY",
+      "start": 267,
+      "end": 275
+    },
+    {
+      "text": "Normal Diseased Norma!",
+      "type": "ENTITY",
+      "start": 292,
+      "end": 314
+    },
+    {
+      "text": "Diseased",
+      "type": "ENTITY",
+      "start": 315,
+      "end": 323
+    },
+    {
+      "text": "LN2 Time",
+      "type": "ENTITY",
+      "start": 345,
+      "end": 353
+    },
+    {
+      "text": "Formalin Time",
+      "type": "ENTITY",
+      "start": 357,
+      "end": 370
+    },
+    {
+      "text": "LN2",
+      "type": "ENTITY",
+      "start": 374,
+      "end": 377
+    },
+    {
+      "text": "KSEK",
+      "type": "ENTITY",
+      "start": 394,
+      "end": 398
+    },
+    {
+      "text": "Primary",
+      "type": "ENTITY",
+      "start": 425,
+      "end": 432
+    },
+    {
+      "text": "Tumor Organ Size",
+      "type": "ENTITY",
+      "start": 433,
+      "end": 449
+    },
+    {
+      "text": "Extension",
+      "type": "ENTITY",
+      "start": 450,
+      "end": 459
+    },
+    {
+      "text": "Tumor",
+      "type": "ENTITY",
+      "start": 463,
+      "end": 468
+    },
+    {
+      "text": "NAT",
+      "type": "ENTITY",
+      "start": 481,
+      "end": 484
+    },
+    {
+      "text": "Lymph Nodes",
+      "type": "ENTITY",
+      "start": 504,
+      "end": 515
+    },
+    {
+      "text": "Location",
+      "type": "ENTITY",
+      "start": 516,
+      "end": 524
+    },
+    {
+      "text": "Examined",
+      "type": "ENTITY",
+      "start": 527,
+      "end": 535
+    },
+    {
+      "text": "Metastasized",
+      "type": "ENTITY",
+      "start": 538,
+      "end": 550
+    },
+    {
+      "text": "Location",
+      "type": "ENTITY",
+      "start": 594,
+      "end": 602
+    },
+    {
+      "text": "NO",
+      "type": "ENTITY",
+      "start": 608,
+      "end": 610
+    },
+    {
+      "text": "Pathological Staging",
+      "type": "ENTITY",
+      "start": 611,
+      "end": 631
+    },
+    {
+      "text": "pTg",
+      "type": "ENTITY",
+      "start": 639,
+      "end": 642
+    },
+    {
+      "text": "Stage",
+      "type": "ENTITY",
+      "start": 643,
+      "end": 648
+    },
+    {
+      "text": "ILA",
+      "type": "ENTITY",
+      "start": 650,
+      "end": 653
+    },
+    {
+      "text": "Notes",
+      "type": "ENTITY",
+      "start": 656,
+      "end": 661
+    },
+    {
+      "text": "TCGA-C8-A120-01A-PR",
+      "type": "ENTITY",
+      "start": 714,
+      "end": 733
+    },
+    {
+      "text": "Microscopic Description .wwwww",
+      "type": "ENTITY",
+      "start": 755,
+      "end": 785
+    },
+    {
+      "text": "Cell",
+      "type": "ENTITY",
+      "start": 813,
+      "end": 817
+    },
+    {
+      "text": "Distribution",
+      "type": "ENTITY",
+      "start": 818,
+      "end": 830
+    },
+    {
+      "text": "Structural Pattern",
+      "type": "ENTITY",
+      "start": 833,
+      "end": 851
+    },
+    {
+      "text": "Lymphocytic Infiltration",
+      "type": "ENTITY",
+      "start": 916,
+      "end": 940
+    },
+    {
+      "text": "Clusterized",
+      "type": "ENTITY",
+      "start": 992,
+      "end": 1003
+    },
+    {
+      "text": "Myxoid Change Indian File",
+      "type": "ENTITY",
+      "start": 1037,
+      "end": 1062
+    },
+    {
+      "text": "CellularDifferentiation",
+      "type": "ENTITY",
+      "start": 1089,
+      "end": 1112
+    },
+    {
+      "text": "Adenomatous",
+      "type": "ENTITY",
+      "start": 1125,
+      "end": 1136
+    },
+    {
+      "text": "Lymphomatous  Squamoid Cell",
+      "type": "ENTITY",
+      "start": 1151,
+      "end": 1178
+    },
+    {
+      "text": "Round Cell",
+      "type": "ENTITY",
+      "start": 1197,
+      "end": 1207
+    },
+    {
+      "text": "Stratification",
+      "type": "ENTITY",
+      "start": 1237,
+      "end": 1251
+    },
+    {
+      "text": "Fibroblast Small Cel!  Keratin  Secretion",
+      "type": "ENTITY",
+      "start": 1252,
+      "end": 1293
+    },
+    {
+      "text": "Osteoblast  RS",
+      "type": "ENTITY",
+      "start": 1294,
+      "end": 1308
+    },
+    {
+      "text": "Cell/RS",
+      "type": "ENTITY",
+      "start": 1309,
+      "end": 1316
+    },
+    {
+      "text": "Desmosome",
+      "type": "ENTITY",
+      "start": 1322,
+      "end": 1331
+    },
+    {
+      "text": "Intracyt",
+      "type": "ENTITY",
+      "start": 1332,
+      "end": 1340
+    },
+    {
+      "text": "Cell Pear!",
+      "type": "ENTITY",
+      "start": 1369,
+      "end": 1379
+    },
+    {
+      "text": "Gland",
+      "type": "ENTITY",
+      "start": 1380,
+      "end": 1385
+    },
+    {
+      "text": "formation",
+      "type": "ENTITY",
+      "start": 1386,
+      "end": 1395
+    },
+    {
+      "text": "Myoblast",
+      "type": "ENTITY",
+      "start": 1396,
+      "end": 1404
+    },
+    {
+      "text": "Plasma Cell",
+      "type": "ENTITY",
+      "start": 1405,
+      "end": 1416
+    },
+    {
+      "text": "Cellular Differentiation",
+      "type": "ENTITY",
+      "start": 1417,
+      "end": 1441
+    },
+    {
+      "text": "Well Moderate",
+      "type": "ENTITY",
+      "start": 1443,
+      "end": 1456
+    },
+    {
+      "text": "awsNuclearAppearanceawa",
+      "type": "ENTITY",
+      "start": 1463,
+      "end": 1486
+    },
+    {
+      "text": "Nuclear Atypia",
+      "type": "ENTITY",
+      "start": 1488,
+      "end": 1502
+    },
+    {
+      "text": "II III Aniso",
+      "type": "ENTITY",
+      "start": 1509,
+      "end": 1521
+    },
+    {
+      "text": "Nucleosis",
+      "type": "ENTITY",
+      "start": 1522,
+      "end": 1531
+    },
+    {
+      "text": "Hyperchromatism",
+      "type": "ENTITY",
+      "start": 1534,
+      "end": 1549
+    },
+    {
+      "text": "Nucleolar",
+      "type": "ENTITY",
+      "start": 1552,
+      "end": 1561
+    },
+    {
+      "text": "Multinucleated Giant Cell Mitotic Activity Nuclear Grade",
+      "type": "ENTITY",
+      "start": 1574,
+      "end": 1630
+    },
+    {
+      "text": "Date ER",
+      "type": "ENTITY",
+      "start": 1655,
+      "end": 1662
+    },
+    {
+      "text": "PR",
+      "type": "ENTITY",
+      "start": 1683,
+      "end": 1685
+    },
+    {
+      "text": "Positive",
+      "type": "ENTITY",
+      "start": 1797,
+      "end": 1805
+    },
+    {
+      "text": "Histological Diagnosis",
+      "type": "ENTITY",
+      "start": 1898,
+      "end": 1920
+    },
+    {
+      "text": "makWae Grade",
+      "type": "ENTITY",
+      "start": 1922,
+      "end": 1934
+    },
+    {
+      "text": "Comments",
+      "type": "ENTITY",
+      "start": 1939,
+      "end": 1947
+    },
+    {
+      "text": "Principal Investigator Date\n\n--- Page 3 ---\nCONsOLIDaTeD",
+      "type": "ENTITY",
+      "start": 1951,
+      "end": 2007
+    },
+    {
+      "text": "DIAgnOsTIc",
+      "type": "ENTITY",
+      "start": 2008,
+      "end": 2018
+    },
+    {
+      "text": "paThOLOgy",
+      "type": "ENTITY",
+      "start": 2019,
+      "end": 2028
+    },
+    {
+      "text": "Appearance",
+      "type": "ENTITY",
+      "start": 2047,
+      "end": 2057
+    },
+    {
+      "text": "Histological pattern",
+      "type": "ENTITY",
+      "start": 2059,
+      "end": 2079
+    },
+    {
+      "text": "CELL DISTRIBUTION",
+      "type": "ENTITY",
+      "start": 2081,
+      "end": 2098
+    },
+    {
+      "text": "Mosaic Streaming Necrosis",
+      "type": "ENTITY",
+      "start": 2126,
+      "end": 2151
+    },
+    {
+      "text": "Storiform",
+      "type": "ENTITY",
+      "start": 2152,
+      "end": 2161
+    },
+    {
+      "text": "Vascular Invasion X",
+      "type": "ENTITY",
+      "start": 2197,
+      "end": 2216
+    },
+    {
+      "text": "Palisading",
+      "type": "ENTITY",
+      "start": 2217,
+      "end": 2227
+    },
+    {
+      "text": "Clusterized XCystic Degeneration",
+      "type": "ENTITY",
+      "start": 2228,
+      "end": 2260
+    },
+    {
+      "text": "Alveolar Formation Bleeding Indian File XMyxoid",
+      "type": "ENTITY",
+      "start": 2261,
+      "end": 2308
+    },
+    {
+      "text": "Cellular features",
+      "type": "ENTITY",
+      "start": 2319,
+      "end": 2336
+    },
+    {
+      "text": "Psammoma/Calcification",
+      "type": "ENTITY",
+      "start": 2338,
+      "end": 2360
+    },
+    {
+      "text": "Sguamous",
+      "type": "ENTITY",
+      "start": 2361,
+      "end": 2369
+    },
+    {
+      "text": "Adenomatous Squamoid Cell",
+      "type": "ENTITY",
+      "start": 2372,
+      "end": 2397
+    },
+    {
+      "text": "Sarcomatous Glandular cel!",
+      "type": "ENTITY",
+      "start": 2400,
+      "end": 2426
+    },
+    {
+      "text": "Lymphomatous Spindle Cell",
+      "type": "ENTITY",
+      "start": 2429,
+      "end": 2454
+    },
+    {
+      "text": "Fibroblast Secretion Small Cell Desmosome X",
+      "type": "ENTITY",
+      "start": 2507,
+      "end": 2550
+    },
+    {
+      "text": "Osteoblast RS",
+      "type": "ENTITY",
+      "start": 2551,
+      "end": 2564
+    },
+    {
+      "text": "Cell/RS",
+      "type": "ENTITY",
+      "start": 2565,
+      "end": 2572
+    },
+    {
+      "text": "Intracyt",
+      "type": "ENTITY",
+      "start": 2578,
+      "end": 2586
+    },
+    {
+      "text": "Lipoblast Pear!",
+      "type": "ENTITY",
+      "start": 2596,
+      "end": 2611
+    },
+    {
+      "text": "Cell K",
+      "type": "ENTITY",
+      "start": 2636,
+      "end": 2642
+    },
+    {
+      "text": "Myoblast",
+      "type": "ENTITY",
+      "start": 2643,
+      "end": 2651
+    },
+    {
+      "text": "Specified",
+      "type": "ENTITY",
+      "start": 2662,
+      "end": 2671
+    },
+    {
+      "text": "Plasma Cell D",
+      "type": "ENTITY",
+      "start": 2673,
+      "end": 2686
+    },
+    {
+      "text": "Differentiation",
+      "type": "ENTITY",
+      "start": 2709,
+      "end": 2724
+    },
+    {
+      "text": "Well  Moderately",
+      "type": "ENTITY",
+      "start": 2726,
+      "end": 2742
+    },
+    {
+      "text": "Atypia",
+      "type": "ENTITY",
+      "start": 2758,
+      "end": 2764
+    },
+    {
+      "text": "Nuckar",
+      "type": "ENTITY",
+      "start": 2766,
+      "end": 2772
+    },
+    {
+      "text": "Appearance",
+      "type": "ENTITY",
+      "start": 2773,
+      "end": 2783
+    },
+    {
+      "text": "Aniso",
+      "type": "ENTITY",
+      "start": 2784,
+      "end": 2789
+    },
+    {
+      "text": "Nucleosis II",
+      "type": "ENTITY",
+      "start": 2790,
+      "end": 2802
+    },
+    {
+      "text": "Hyperchromatism",
+      "type": "ENTITY",
+      "start": 2803,
+      "end": 2818
+    },
+    {
+      "text": "Nucleolar",
+      "type": "ENTITY",
+      "start": 2819,
+      "end": 2828
+    },
+    {
+      "text": "Giant Cell Mitotic Activity",
+      "type": "ENTITY",
+      "start": 2854,
+      "end": 2881
+    },
+    {
+      "text": "Nuckar Grade V",
+      "type": "ENTITY",
+      "start": 2882,
+      "end": 2896
+    },
+    {
+      "text": "o-3 Comments",
+      "type": "ENTITY",
+      "start": 2902,
+      "end": 2914
+    },
+    {
+      "text": "PATHOIO",
+      "type": "ENTITY",
+      "start": 2937,
+      "end": 2944
+    },
+    {
+      "text": "FINDINGS",
+      "type": "ENTITY",
+      "start": 2964,
+      "end": 2972
+    },
+    {
+      "text": "CONTRIBUTOR",
+      "type": "ENTITY",
+      "start": 2976,
+      "end": 2987
+    }
+  ],
+  "entity_count": 110,
+  "has_embedding": true
+}

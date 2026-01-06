@@ -1,0 +1,1982 @@
+{
+  "filename": "7245cede-7ed9-47c5-8571-8c99197feb08",
+  "timestamp": "2026-01-05T14:41:23.462847",
+  "entities": [
+    {
+      "text": "TCGA-NH-A8F7-01A-PR",
+      "type": "ENTITY",
+      "start": 58,
+      "end": 77
+    },
+    {
+      "text": "RUN",
+      "type": "ENTITY",
+      "start": 87,
+      "end": 90
+    },
+    {
+      "text": "PAGE",
+      "type": "ENTITY",
+      "start": 97,
+      "end": 101
+    },
+    {
+      "text": "RUN",
+      "type": "ENTITY",
+      "start": 104,
+      "end": 107
+    },
+    {
+      "text": "RUN",
+      "type": "ENTITY",
+      "start": 128,
+      "end": 131
+    },
+    {
+      "text": "USER",
+      "type": "ENTITY",
+      "start": 132,
+      "end": 136
+    },
+    {
+      "text": "ACCT",
+      "type": "ENTITY",
+      "start": 138,
+      "end": 142
+    },
+    {
+      "text": "LOC",
+      "type": "ENTITY",
+      "start": 146,
+      "end": 149
+    },
+    {
+      "text": "PATIENT",
+      "type": "ENTITY",
+      "start": 151,
+      "end": 158
+    },
+    {
+      "text": "AGE/SX",
+      "type": "ENTITY",
+      "start": 160,
+      "end": 166
+    },
+    {
+      "text": "ROOM",
+      "type": "ENTITY",
+      "start": 172,
+      "end": 176
+    },
+    {
+      "text": "REG DR",
+      "type": "ENTITY",
+      "start": 179,
+      "end": 185
+    },
+    {
+      "text": "DOB",
+      "type": "ENTITY",
+      "start": 187,
+      "end": 190
+    },
+    {
+      "text": "BED",
+      "type": "ENTITY",
+      "start": 192,
+      "end": 195
+    },
+    {
+      "text": "SPEC",
+      "type": "ENTITY",
+      "start": 205,
+      "end": 209
+    },
+    {
+      "text": "RECD",
+      "type": "ENTITY",
+      "start": 213,
+      "end": 217
+    },
+    {
+      "text": "PERFORMED",
+      "type": "ENTITY",
+      "start": 228,
+      "end": 237
+    },
+    {
+      "text": "FORMALIN",
+      "type": "ENTITY",
+      "start": 249,
+      "end": 257
+    },
+    {
+      "text": "COLL",
+      "type": "ENTITY",
+      "start": 264,
+      "end": 268
+    },
+    {
+      "text": "COLD ISCHEMA",
+      "type": "ENTITY",
+      "start": 271,
+      "end": 283
+    },
+    {
+      "text": "TIME",
+      "type": "ENTITY",
+      "start": 284,
+      "end": 288
+    },
+    {
+      "text": "mins",
+      "type": "ENTITY",
+      "start": 290,
+      "end": 294
+    },
+    {
+      "text": "Pre-Op Diagnosis",
+      "type": "ENTITY",
+      "start": 319,
+      "end": 335
+    },
+    {
+      "text": "Remarks",
+      "type": "ENTITY",
+      "start": 337,
+      "end": 344
+    },
+    {
+      "text": "Specimen(s)",
+      "type": "ENTITY",
+      "start": 346,
+      "end": 357
+    },
+    {
+      "text": "A. Subtotal colectomy",
+      "type": "ENTITY",
+      "start": 360,
+      "end": 381
+    },
+    {
+      "text": "left tube",
+      "type": "ENTITY",
+      "start": 387,
+      "end": 396
+    },
+    {
+      "text": "ovary",
+      "type": "ENTITY",
+      "start": 401,
+      "end": 406
+    },
+    {
+      "text": "B. Right tube",
+      "type": "ENTITY",
+      "start": 408,
+      "end": 421
+    },
+    {
+      "text": "ovary Sali",
+      "type": "ENTITY",
+      "start": 426,
+      "end": 436
+    },
+    {
+      "text": "Diqmid",
+      "type": "ENTITY",
+      "start": 439,
+      "end": 445
+    },
+    {
+      "text": "eslers",
+      "type": "ENTITY",
+      "start": 446,
+      "end": 452
+    },
+    {
+      "text": "Ci8.7",
+      "type": "ENTITY",
+      "start": 453,
+      "end": 458
+    },
+    {
+      "text": "COLON",
+      "type": "ENTITY",
+      "start": 492,
+      "end": 497
+    },
+    {
+      "text": "TERMINAL",
+      "type": "ENTITY",
+      "start": 499,
+      "end": 507
+    },
+    {
+      "text": "OMENTUM",
+      "type": "ENTITY",
+      "start": 528,
+      "end": 535
+    },
+    {
+      "text": "SUBTOTAL COLECTOMY",
+      "type": "ENTITY",
+      "start": 537,
+      "end": 555
+    },
+    {
+      "text": "TUMOR",
+      "type": "ENTITY",
+      "start": 559,
+      "end": 564
+    },
+    {
+      "text": "CECUMS",
+      "type": "ENTITY",
+      "start": 612,
+      "end": 618
+    },
+    {
+      "text": "UNINVOLVED",
+      "type": "ENTITY",
+      "start": 756,
+      "end": 766
+    },
+    {
+      "text": "CLOSEST",
+      "type": "ENTITY",
+      "start": 772,
+      "end": 779
+    },
+    {
+      "text": "RADIAL",
+      "type": "ENTITY",
+      "start": 787,
+      "end": 793
+    },
+    {
+      "text": "CM",
+      "type": "ENTITY",
+      "start": 798,
+      "end": 800
+    },
+    {
+      "text": "METASTATIC",
+      "type": "ENTITY",
+      "start": 804,
+      "end": 814
+    },
+    {
+      "text": "TUMOR",
+      "type": "ENTITY",
+      "start": 825,
+      "end": 830
+    },
+    {
+      "text": "ADENOCARCINOMA",
+      "type": "ENTITY",
+      "start": 860,
+      "end": 874
+    },
+    {
+      "text": "SIGMOID",
+      "type": "ENTITY",
+      "start": 876,
+      "end": 883
+    },
+    {
+      "text": "FOCALLY",
+      "type": "ENTITY",
+      "start": 904,
+      "end": 911
+    },
+    {
+      "text": "NO",
+      "type": "ENTITY",
+      "start": 944,
+      "end": 946
+    },
+    {
+      "text": "APPEAR",
+      "type": "ENTITY",
+      "start": 993,
+      "end": 999
+    },
+    {
+      "text": "UNINVOLVED",
+      "type": "ENTITY",
+      "start": 1000,
+      "end": 1010
+    },
+    {
+      "text": "CLOSEST",
+      "type": "ENTITY",
+      "start": 1016,
+      "end": 1023
+    },
+    {
+      "text": "DISTAL",
+      "type": "ENTITY",
+      "start": 1031,
+      "end": 1037
+    },
+    {
+      "text": "CM",
+      "type": "ENTITY",
+      "start": 1043,
+      "end": 1045
+    },
+    {
+      "text": "TUMOR Secer",
+      "type": "ENTITY",
+      "start": 1051,
+      "end": 1062
+    },
+    {
+      "text": "OVARY",
+      "type": "ENTITY",
+      "start": 1087,
+      "end": 1092
+    },
+    {
+      "text": "ted mhfris",
+      "type": "ENTITY",
+      "start": 1118,
+      "end": 1128
+    },
+    {
+      "text": "RIGHT",
+      "type": "ENTITY",
+      "start": 1172,
+      "end": 1177
+    },
+    {
+      "text": "FALLOPIAN TUBE",
+      "type": "ENTITY",
+      "start": 1178,
+      "end": 1192
+    },
+    {
+      "text": "OVARY",
+      "type": "ENTITY",
+      "start": 1197,
+      "end": 1202
+    },
+    {
+      "text": "SALPINGO-OOPHORECTOMY",
+      "type": "ENTITY",
+      "start": 1204,
+      "end": 1225
+    },
+    {
+      "text": "FIMBRIATED",
+      "type": "ENTITY",
+      "start": 1259,
+      "end": 1269
+    },
+    {
+      "text": "END",
+      "type": "ENTITY",
+      "start": 1270,
+      "end": 1273
+    },
+    {
+      "text": "FALLOPIAN TUBE COMMENT(S",
+      "type": "ENTITY",
+      "start": 1277,
+      "end": 1301
+    },
+    {
+      "text": "subtotal colectomy",
+      "type": "ENTITY",
+      "start": 1307,
+      "end": 1325
+    },
+    {
+      "text": "separate",
+      "type": "ENTITY",
+      "start": 1340,
+      "end": 1348
+    },
+    {
+      "text": "histologically",
+      "type": "ENTITY",
+      "start": 1353,
+      "end": 1367
+    },
+    {
+      "text": "indistinguishable",
+      "type": "ENTITY",
+      "start": 1368,
+      "end": 1385
+    },
+    {
+      "text": "adenocarcinomas",
+      "type": "ENTITY",
+      "start": 1413,
+      "end": 1428
+    },
+    {
+      "text": "Tumor",
+      "type": "ENTITY",
+      "start": 1430,
+      "end": 1435
+    },
+    {
+      "text": "cecum",
+      "type": "ENTITY",
+      "start": 1458,
+      "end": 1463
+    },
+    {
+      "text": "metastasis",
+      "type": "ENTITY",
+      "start": 1505,
+      "end": 1515
+    },
+    {
+      "text": "regional",
+      "type": "ENTITY",
+      "start": 1519,
+      "end": 1527
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 1528,
+      "end": 1539
+    },
+    {
+      "text": "Tumor",
+      "type": "ENTITY",
+      "start": 1541,
+      "end": 1546
+    },
+    {
+      "text": "sigmoid colon",
+      "type": "ENTITY",
+      "start": 1569,
+      "end": 1582
+    },
+    {
+      "text": "regional",
+      "type": "ENTITY",
+      "start": 1591,
+      "end": 1599
+    },
+    {
+      "text": "synoptic",
+      "type": "ENTITY",
+      "start": 1641,
+      "end": 1649
+    },
+    {
+      "text": "metastatic tumor",
+      "type": "ENTITY",
+      "start": 1678,
+      "end": 1694
+    },
+    {
+      "text": "associated with",
+      "type": "ENTITY",
+      "start": 1701,
+      "end": 1716
+    },
+    {
+      "text": "cecal adenocarcinoma",
+      "type": "ENTITY",
+      "start": 1735,
+      "end": 1755
+    },
+    {
+      "text": "RUN",
+      "type": "ENTITY",
+      "start": 1809,
+      "end": 1812
+    },
+    {
+      "text": "Specimen",
+      "type": "ENTITY",
+      "start": 1819,
+      "end": 1827
+    },
+    {
+      "text": "RUN",
+      "type": "ENTITY",
+      "start": 1860,
+      "end": 1863
+    },
+    {
+      "text": "USER",
+      "type": "ENTITY",
+      "start": 1864,
+      "end": 1868
+    },
+    {
+      "text": "SPEC",
+      "type": "ENTITY",
+      "start": 1870,
+      "end": 1874
+    },
+    {
+      "text": "PATIENT",
+      "type": "ENTITY",
+      "start": 1877,
+      "end": 1884
+    },
+    {
+      "text": "COmment(s",
+      "type": "ENTITY",
+      "start": 1901,
+      "end": 1910
+    },
+    {
+      "text": "CECAL TUMOR",
+      "type": "ENTITY",
+      "start": 1964,
+      "end": 1975
+    },
+    {
+      "text": "CAP",
+      "type": "ENTITY",
+      "start": 1979,
+      "end": 1982
+    },
+    {
+      "text": "Torminal",
+      "type": "ENTITY",
+      "start": 1992,
+      "end": 2000
+    },
+    {
+      "text": "ileum",
+      "type": "ENTITY",
+      "start": 2001,
+      "end": 2006
+    },
+    {
+      "text": "cecum",
+      "type": "ENTITY",
+      "start": 2008,
+      "end": 2013
+    },
+    {
+      "text": "appendix",
+      "type": "ENTITY",
+      "start": 2015,
+      "end": 2023
+    },
+    {
+      "text": "ascending colon",
+      "type": "ENTITY",
+      "start": 2025,
+      "end": 2040
+    },
+    {
+      "text": "Specimen",
+      "type": "ENTITY",
+      "start": 2042,
+      "end": 2050
+    },
+    {
+      "text": "transverse colon",
+      "type": "ENTITY",
+      "start": 2052,
+      "end": 2068
+    },
+    {
+      "text": "descending colon",
+      "type": "ENTITY",
+      "start": 2070,
+      "end": 2086
+    },
+    {
+      "text": "sigmoid colon",
+      "type": "ENTITY",
+      "start": 2088,
+      "end": 2101
+    },
+    {
+      "text": "bilateral",
+      "type": "ENTITY",
+      "start": 2103,
+      "end": 2112
+    },
+    {
+      "text": "ovaries",
+      "type": "ENTITY",
+      "start": 2113,
+      "end": 2120
+    },
+    {
+      "text": "fallopian tubes",
+      "type": "ENTITY",
+      "start": 2125,
+      "end": 2140
+    },
+    {
+      "text": "omentum",
+      "type": "ENTITY",
+      "start": 2142,
+      "end": 2149
+    },
+    {
+      "text": "Subtotal colectomy",
+      "type": "ENTITY",
+      "start": 2151,
+      "end": 2169
+    },
+    {
+      "text": "BSO",
+      "type": "ENTITY",
+      "start": 2175,
+      "end": 2178
+    },
+    {
+      "text": "Procedures",
+      "type": "ENTITY",
+      "start": 2179,
+      "end": 2189
+    },
+    {
+      "text": "CECAL TUMOR",
+      "type": "ENTITY",
+      "start": 2191,
+      "end": 2202
+    },
+    {
+      "text": "Tumor Site",
+      "type": "ENTITY",
+      "start": 2204,
+      "end": 2214
+    },
+    {
+      "text": "Cecum",
+      "type": "ENTITY",
+      "start": 2216,
+      "end": 2221
+    },
+    {
+      "text": "Tumor Size",
+      "type": "ENTITY",
+      "start": 2222,
+      "end": 2232
+    },
+    {
+      "text": "dimensions",
+      "type": "ENTITY",
+      "start": 2253,
+      "end": 2263
+    },
+    {
+      "text": "Macroscopic Tumor Perforation",
+      "type": "ENTITY",
+      "start": 2280,
+      "end": 2309
+    },
+    {
+      "text": "Histologic Type",
+      "type": "ENTITY",
+      "start": 2312,
+      "end": 2327
+    },
+    {
+      "text": "Adenocarcinoma",
+      "type": "ENTITY",
+      "start": 2329,
+      "end": 2343
+    },
+    {
+      "text": "Histologic Grade",
+      "type": "ENTITY",
+      "start": 2344,
+      "end": 2360
+    },
+    {
+      "text": "Low-grade",
+      "type": "ENTITY",
+      "start": 2362,
+      "end": 2371
+    },
+    {
+      "text": "Microscopic Tumor Extension",
+      "type": "ENTITY",
+      "start": 2372,
+      "end": 2399
+    },
+    {
+      "text": "Tumor",
+      "type": "ENTITY",
+      "start": 2401,
+      "end": 2406
+    },
+    {
+      "text": "invades",
+      "type": "ENTITY",
+      "start": 2407,
+      "end": 2414
+    },
+    {
+      "text": "muscularis propria",
+      "type": "ENTITY",
+      "start": 2427,
+      "end": 2445
+    },
+    {
+      "text": "subserosal adipose tissue",
+      "type": "ENTITY",
+      "start": 2455,
+      "end": 2480
+    },
+    {
+      "text": "nonperitonealized pericolic",
+      "type": "ENTITY",
+      "start": 2488,
+      "end": 2515
+    },
+    {
+      "text": "perirectal soft tissues",
+      "type": "ENTITY",
+      "start": 2519,
+      "end": 2542
+    },
+    {
+      "text": "serosal surface Proximal",
+      "type": "ENTITY",
+      "start": 2570,
+      "end": 2594
+    },
+    {
+      "text": "distal",
+      "type": "ENTITY",
+      "start": 2596,
+      "end": 2602
+    },
+    {
+      "text": "radial margins",
+      "type": "ENTITY",
+      "start": 2607,
+      "end": 2621
+    },
+    {
+      "text": "Margins",
+      "type": "ENTITY",
+      "start": 2640,
+      "end": 2647
+    },
+    {
+      "text": "metastatic tumor",
+      "type": "ENTITY",
+      "start": 2654,
+      "end": 2670
+    },
+    {
+      "text": "radial margin",
+      "type": "ENTITY",
+      "start": 2686,
+      "end": 2699
+    },
+    {
+      "text": "ileocecal junction",
+      "type": "ENTITY",
+      "start": 2703,
+      "end": 2721
+    },
+    {
+      "text": "Treatment",
+      "type": "ENTITY",
+      "start": 2722,
+      "end": 2731
+    },
+    {
+      "text": "Effect",
+      "type": "ENTITY",
+      "start": 2732,
+      "end": 2738
+    },
+    {
+      "text": "No prior",
+      "type": "ENTITY",
+      "start": 2740,
+      "end": 2748
+    },
+    {
+      "text": "treatment",
+      "type": "ENTITY",
+      "start": 2749,
+      "end": 2758
+    },
+    {
+      "text": "Lymph-Vascular Invasion",
+      "type": "ENTITY",
+      "start": 2759,
+      "end": 2782
+    },
+    {
+      "text": "Perineural Invasion",
+      "type": "ENTITY",
+      "start": 2806,
+      "end": 2825
+    },
+    {
+      "text": "Tumor Deposits",
+      "type": "ENTITY",
+      "start": 2827,
+      "end": 2841
+    },
+    {
+      "text": "Primary Tumor",
+      "type": "ENTITY",
+      "start": 2851,
+      "end": 2864
+    },
+    {
+      "text": "pT3 Pathologic Staging",
+      "type": "ENTITY",
+      "start": 2866,
+      "end": 2888
+    },
+    {
+      "text": "Regional Lymph Nodes",
+      "type": "ENTITY",
+      "start": 2890,
+      "end": 2910
+    },
+    {
+      "text": "pN2b Number examined",
+      "type": "ENTITY",
+      "start": 2912,
+      "end": 2932
+    },
+    {
+      "text": "Distant Metastasis",
+      "type": "ENTITY",
+      "start": 2956,
+      "end": 2974
+    },
+    {
+      "text": "pMib",
+      "type": "ENTITY",
+      "start": 2976,
+      "end": 2980
+    },
+    {
+      "text": "metastasis",
+      "type": "ENTITY",
+      "start": 2983,
+      "end": 2993
+    },
+    {
+      "text": "left",
+      "type": "ENTITY",
+      "start": 2997,
+      "end": 3001
+    },
+    {
+      "text": "ovary",
+      "type": "ENTITY",
+      "start": 3003,
+      "end": 3008
+    },
+    {
+      "text": "right fallopian tube",
+      "type": "ENTITY",
+      "start": 3010,
+      "end": 3030
+    },
+    {
+      "text": "omentum",
+      "type": "ENTITY",
+      "start": 3035,
+      "end": 3042
+    },
+    {
+      "text": "SIGMOID TUMOR",
+      "type": "ENTITY",
+      "start": 3044,
+      "end": 3057
+    },
+    {
+      "text": "Sigmoid colon",
+      "type": "ENTITY",
+      "start": 3058,
+      "end": 3071
+    },
+    {
+      "text": "Tumor Site",
+      "type": "ENTITY",
+      "start": 3072,
+      "end": 3082
+    },
+    {
+      "text": "dimensions",
+      "type": "ENTITY",
+      "start": 3103,
+      "end": 3113
+    },
+    {
+      "text": "Tumor Size",
+      "type": "ENTITY",
+      "start": 3115,
+      "end": 3125
+    },
+    {
+      "text": "Macroscopic Tumor Perforation",
+      "type": "ENTITY",
+      "start": 3127,
+      "end": 3156
+    },
+    {
+      "text": "Histologic Type",
+      "type": "ENTITY",
+      "start": 3173,
+      "end": 3188
+    },
+    {
+      "text": "Adenocarcinoma",
+      "type": "ENTITY",
+      "start": 3190,
+      "end": 3204
+    },
+    {
+      "text": "Histologic Grade",
+      "type": "ENTITY",
+      "start": 3205,
+      "end": 3221
+    },
+    {
+      "text": "Low-grade",
+      "type": "ENTITY",
+      "start": 3223,
+      "end": 3232
+    },
+    {
+      "text": "Tumor",
+      "type": "ENTITY",
+      "start": 3233,
+      "end": 3238
+    },
+    {
+      "text": "invades",
+      "type": "ENTITY",
+      "start": 3239,
+      "end": 3246
+    },
+    {
+      "text": "muscularis propria",
+      "type": "ENTITY",
+      "start": 3259,
+      "end": 3277
+    },
+    {
+      "text": "Microscopic Tumor Extension",
+      "type": "ENTITY",
+      "start": 3287,
+      "end": 3314
+    },
+    {
+      "text": "subserosal adipose tissue",
+      "type": "ENTITY",
+      "start": 3316,
+      "end": 3341
+    },
+    {
+      "text": "nonperitonealized pericolic",
+      "type": "ENTITY",
+      "start": 3349,
+      "end": 3376
+    },
+    {
+      "text": "perirectal soft tissues",
+      "type": "ENTITY",
+      "start": 3380,
+      "end": 3403
+    },
+    {
+      "text": "serosal surface Proximal",
+      "type": "ENTITY",
+      "start": 3431,
+      "end": 3455
+    },
+    {
+      "text": "distal",
+      "type": "ENTITY",
+      "start": 3457,
+      "end": 3463
+    },
+    {
+      "text": "radial margins",
+      "type": "ENTITY",
+      "start": 3468,
+      "end": 3482
+    },
+    {
+      "text": "Margins",
+      "type": "ENTITY",
+      "start": 3501,
+      "end": 3508
+    },
+    {
+      "text": "metastatic tumor",
+      "type": "ENTITY",
+      "start": 3515,
+      "end": 3531
+    },
+    {
+      "text": "distal margin",
+      "type": "ENTITY",
+      "start": 3549,
+      "end": 3562
+    },
+    {
+      "text": "treatment",
+      "type": "ENTITY",
+      "start": 3572,
+      "end": 3581
+    },
+    {
+      "text": "Treatment Effect",
+      "type": "ENTITY",
+      "start": 3582,
+      "end": 3598
+    },
+    {
+      "text": "Lymph-Vascular Invasion",
+      "type": "ENTITY",
+      "start": 3614,
+      "end": 3637
+    },
+    {
+      "text": "Perineural Invasion",
+      "type": "ENTITY",
+      "start": 3654,
+      "end": 3673
+    },
+    {
+      "text": "Tumor Deposits",
+      "type": "ENTITY",
+      "start": 3675,
+      "end": 3689
+    },
+    {
+      "text": "Pathologic Staging",
+      "type": "ENTITY",
+      "start": 3706,
+      "end": 3724
+    },
+    {
+      "text": "Primary Tumor",
+      "type": "ENTITY",
+      "start": 3726,
+      "end": 3739
+    },
+    {
+      "text": "pT3 ** CONTINUED",
+      "type": "ENTITY",
+      "start": 3741,
+      "end": 3757
+    },
+    {
+      "text": "PAGE",
+      "type": "ENTITY",
+      "start": 3800,
+      "end": 3804
+    },
+    {
+      "text": "RUN",
+      "type": "ENTITY",
+      "start": 3807,
+      "end": 3810
+    },
+    {
+      "text": "Specimen Inquiry RUN USER",
+      "type": "ENTITY",
+      "start": 3817,
+      "end": 3842
+    },
+    {
+      "text": "SPEC",
+      "type": "ENTITY",
+      "start": 3858,
+      "end": 3862
+    },
+    {
+      "text": "PATIENT",
+      "type": "ENTITY",
+      "start": 3867,
+      "end": 3874
+    },
+    {
+      "text": "Regional",
+      "type": "ENTITY",
+      "start": 3911,
+      "end": 3919
+    },
+    {
+      "text": "Number",
+      "type": "ENTITY",
+      "start": 3937,
+      "end": 3943
+    },
+    {
+      "text": "Distant Metastasis",
+      "type": "ENTITY",
+      "start": 3976,
+      "end": 3994
+    },
+    {
+      "text": "GROSS DESCRIPTION",
+      "type": "ENTITY",
+      "start": 4011,
+      "end": 4028
+    },
+    {
+      "text": "Specimen A",
+      "type": "ENTITY",
+      "start": 4030,
+      "end": 4040
+    },
+    {
+      "text": "fresh state labeled",
+      "type": "ENTITY",
+      "start": 4060,
+      "end": 4079
+    },
+    {
+      "text": "left tube",
+      "type": "ENTITY",
+      "start": 4105,
+      "end": 4114
+    },
+    {
+      "text": "Ovary",
+      "type": "ENTITY",
+      "start": 4119,
+      "end": 4124
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 4131,
+      "end": 4139
+    },
+    {
+      "text": "terminal",
+      "type": "ENTITY",
+      "start": 4176,
+      "end": 4184
+    },
+    {
+      "text": "ileum",
+      "type": "ENTITY",
+      "start": 4185,
+      "end": 4190
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 4191,
+      "end": 4200
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 4209,
+      "end": 4217
+    },
+    {
+      "text": "Vermiform appendix",
+      "type": "ENTITY",
+      "start": 4219,
+      "end": 4237
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 4238,
+      "end": 4247
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 4256,
+      "end": 4262
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 4276,
+      "end": 4284
+    },
+    {
+      "text": "intestine",
+      "type": "ENTITY",
+      "start": 4301,
+      "end": 4310
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 4311,
+      "end": 4320
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 4343,
+      "end": 4351
+    },
+    {
+      "text": "omentum",
+      "type": "ENTITY",
+      "start": 4362,
+      "end": 4369
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 4370,
+      "end": 4379
+    },
+    {
+      "text": "thickness",
+      "type": "ENTITY",
+      "start": 4405,
+      "end": 4414
+    },
+    {
+      "text": "ovary",
+      "type": "ENTITY",
+      "start": 4418,
+      "end": 4423
+    },
+    {
+      "text": "fallopian tube",
+      "type": "ENTITY",
+      "start": 4428,
+      "end": 4442
+    },
+    {
+      "text": "area",
+      "type": "ENTITY",
+      "start": 4459,
+      "end": 4463
+    },
+    {
+      "text": "sigmoid colon",
+      "type": "ENTITY",
+      "start": 4471,
+      "end": 4484
+    },
+    {
+      "text": "Mesentery",
+      "type": "ENTITY",
+      "start": 4486,
+      "end": 4495
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 4496,
+      "end": 4505
+    },
+    {
+      "text": "radial",
+      "type": "ENTITY",
+      "start": 4520,
+      "end": 4526
+    },
+    {
+      "text": "dimension",
+      "type": "ENTITY",
+      "start": 4527,
+      "end": 4536
+    },
+    {
+      "text": "ileocecal junction",
+      "type": "ENTITY",
+      "start": 4544,
+      "end": 4562
+    },
+    {
+      "text": "radial",
+      "type": "ENTITY",
+      "start": 4581,
+      "end": 4587
+    },
+    {
+      "text": "dimension",
+      "type": "ENTITY",
+      "start": 4588,
+      "end": 4597
+    },
+    {
+      "text": "sigmoid colon",
+      "type": "ENTITY",
+      "start": 4605,
+      "end": 4618
+    },
+    {
+      "text": "Adhesions",
+      "type": "ENTITY",
+      "start": 4620,
+      "end": 4629
+    },
+    {
+      "text": "ileocecal junction",
+      "type": "ENTITY",
+      "start": 4647,
+      "end": 4665
+    },
+    {
+      "text": "ovary",
+      "type": "ENTITY",
+      "start": 4682,
+      "end": 4687
+    },
+    {
+      "text": "sigmoid colon",
+      "type": "ENTITY",
+      "start": 4692,
+      "end": 4705
+    },
+    {
+      "text": "tumorous",
+      "type": "ENTITY",
+      "start": 4722,
+      "end": 4730
+    },
+    {
+      "text": "mesentery",
+      "type": "ENTITY",
+      "start": 4746,
+      "end": 4755
+    },
+    {
+      "text": "ileocecal junction",
+      "type": "ENTITY",
+      "start": 4763,
+      "end": 4781
+    },
+    {
+      "text": "oment",
+      "type": "ENTITY",
+      "start": 4793,
+      "end": 4798
+    },
+    {
+      "text": "omental",
+      "type": "ENTITY",
+      "start": 4808,
+      "end": 4815
+    },
+    {
+      "text": "tumor nodule",
+      "type": "ENTITY",
+      "start": 4816,
+      "end": 4828
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 4829,
+      "end": 4837
+    },
+    {
+      "text": "dimsnsion",
+      "type": "ENTITY",
+      "start": 4855,
+      "end": 4864
+    },
+    {
+      "text": "mesenteric nodules",
+      "type": "ENTITY",
+      "start": 4885,
+      "end": 4903
+    },
+    {
+      "text": "ileocecal junction",
+      "type": "ENTITY",
+      "start": 4911,
+      "end": 4929
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 4930,
+      "end": 4939
+    },
+    {
+      "text": "dimension",
+      "type": "ENTITY",
+      "start": 4965,
+      "end": 4974
+    },
+    {
+      "text": "bowel",
+      "type": "ENTITY",
+      "start": 4980,
+      "end": 4985
+    },
+    {
+      "text": "circumferential fungating tumor",
+      "type": "ENTITY",
+      "start": 5008,
+      "end": 5039
+    },
+    {
+      "text": "cecum",
+      "type": "ENTITY",
+      "start": 5047,
+      "end": 5052
+    },
+    {
+      "text": "approximately",
+      "type": "ENTITY",
+      "start": 5053,
+      "end": 5066
+    },
+    {
+      "text": "ileocecal valve",
+      "type": "ENTITY",
+      "start": 5081,
+      "end": 5096
+    },
+    {
+      "text": "tumor measures",
+      "type": "ENTITY",
+      "start": 5103,
+      "end": 5117
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 5135,
+      "end": 5141
+    },
+    {
+      "text": "bowel",
+      "type": "ENTITY",
+      "start": 5149,
+      "end": 5154
+    },
+    {
+      "text": "bowel",
+      "type": "ENTITY",
+      "start": 5159,
+      "end": 5164
+    },
+    {
+      "text": "area",
+      "type": "ENTITY",
+      "start": 5185,
+      "end": 5189
+    },
+    {
+      "text": "circumferential",
+      "type": "ENTITY",
+      "start": 5200,
+      "end": 5215
+    },
+    {
+      "text": "mucosal tumor",
+      "type": "ENTITY",
+      "start": 5226,
+      "end": 5239
+    },
+    {
+      "text": "identified",
+      "type": "ENTITY",
+      "start": 5243,
+      "end": 5253
+    },
+    {
+      "text": "distal margin",
+      "type": "ENTITY",
+      "start": 5269,
+      "end": 5282
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 5296,
+      "end": 5301
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 5302,
+      "end": 5310
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 5328,
+      "end": 5334
+    },
+    {
+      "text": "bowel",
+      "type": "ENTITY",
+      "start": 5342,
+      "end": 5347
+    },
+    {
+      "text": "bowel",
+      "type": "ENTITY",
+      "start": 5362,
+      "end": 5367
+    },
+    {
+      "text": "area",
+      "type": "ENTITY",
+      "start": 5393,
+      "end": 5397
+    },
+    {
+      "text": "ovary",
+      "type": "ENTITY",
+      "start": 5412,
+      "end": 5417
+    },
+    {
+      "text": "enlarged",
+      "type": "ENTITY",
+      "start": 5426,
+      "end": 5434
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 5436,
+      "end": 5445
+    },
+    {
+      "text": "smooth tan surface",
+      "type": "ENTITY",
+      "start": 5471,
+      "end": 5489
+    },
+    {
+      "text": "cut surface",
+      "type": "ENTITY",
+      "start": 5495,
+      "end": 5506
+    },
+    {
+      "text": "soft tan tumorous tissue",
+      "type": "ENTITY",
+      "start": 5516,
+      "end": 5540
+    },
+    {
+      "text": "ovary",
+      "type": "ENTITY",
+      "start": 5562,
+      "end": 5567
+    },
+    {
+      "text": "fallopian tube",
+      "type": "ENTITY",
+      "start": 5573,
+      "end": 5587
+    },
+    {
+      "text": "fimbriated",
+      "type": "ENTITY",
+      "start": 5593,
+      "end": 5603
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 5608,
+      "end": 5616
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 5627,
+      "end": 5633
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 5647,
+      "end": 5655
+    },
+    {
+      "text": "gross features",
+      "type": "ENTITY",
+      "start": 5670,
+      "end": 5684
+    },
+    {
+      "text": "O.R.",
+      "type": "ENTITY",
+      "start": 5711,
+      "end": 5715
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 5723,
+      "end": 5731
+    },
+    {
+      "text": "overnight",
+      "type": "ENTITY",
+      "start": 5750,
+      "end": 5759
+    },
+    {
+      "text": "sectioning",
+      "type": "ENTITY",
+      "start": 5769,
+      "end": 5779
+    },
+    {
+      "text": "Representativs sections",
+      "type": "ENTITY",
+      "start": 5781,
+      "end": 5804
+    },
+    {
+      "text": "A1 terminal ileum A2 vermiform",
+      "type": "ENTITY",
+      "start": 5831,
+      "end": 5861
+    },
+    {
+      "text": "cecal",
+      "type": "ENTITY",
+      "start": 5878,
+      "end": 5883
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 5897,
+      "end": 5908
+    },
+    {
+      "text": "mesentery",
+      "type": "ENTITY",
+      "start": 5912,
+      "end": 5921
+    },
+    {
+      "text": "regional",
+      "type": "ENTITY",
+      "start": 5922,
+      "end": 5930
+    },
+    {
+      "text": "cecal tumor",
+      "type": "ENTITY",
+      "start": 5934,
+      "end": 5945
+    },
+    {
+      "text": "apex",
+      "type": "ENTITY",
+      "start": 5951,
+      "end": 5955
+    },
+    {
+      "text": "ileocecal mesentery A14",
+      "type": "ENTITY",
+      "start": 5959,
+      "end": 5982
+    },
+    {
+      "text": "omental",
+      "type": "ENTITY",
+      "start": 5983,
+      "end": 5990
+    },
+    {
+      "text": "left ovary",
+      "type": "ENTITY",
+      "start": 6013,
+      "end": 6023
+    },
+    {
+      "text": "tube A17-20-",
+      "type": "ENTITY",
+      "start": 6028,
+      "end": 6040
+    },
+    {
+      "text": "distal",
+      "type": "ENTITY",
+      "start": 6041,
+      "end": 6047
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 6048,
+      "end": 6053
+    },
+    {
+      "text": "A21 distal",
+      "type": "ENTITY",
+      "start": 6054,
+      "end": 6064
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 6080,
+      "end": 6091
+    },
+    {
+      "text": "mesentery",
+      "type": "ENTITY",
+      "start": 6096,
+      "end": 6105
+    },
+    {
+      "text": "regional",
+      "type": "ENTITY",
+      "start": 6106,
+      "end": 6114
+    },
+    {
+      "text": "distal tumor",
+      "type": "ENTITY",
+      "start": 6118,
+      "end": 6130
+    },
+    {
+      "text": "NOTE",
+      "type": "ENTITY",
+      "start": 6132,
+      "end": 6136
+    },
+    {
+      "text": "tumors",
+      "type": "ENTITY",
+      "start": 6143,
+      "end": 6149
+    },
+    {
+      "text": "invade",
+      "type": "ENTITY",
+      "start": 6150,
+      "end": 6156
+    },
+    {
+      "text": "thickness",
+      "type": "ENTITY",
+      "start": 6166,
+      "end": 6175
+    },
+    {
+      "text": "bowel wall",
+      "type": "ENTITY",
+      "start": 6183,
+      "end": 6193
+    },
+    {
+      "text": "bowel wall",
+      "type": "ENTITY",
+      "start": 6224,
+      "end": 6234
+    },
+    {
+      "text": "Specimen B",
+      "type": "ENTITY",
+      "start": 6236,
+      "end": 6246
+    },
+    {
+      "text": "formalin labeled",
+      "type": "ENTITY",
+      "start": 6262,
+      "end": 6278
+    },
+    {
+      "text": "ovary",
+      "type": "ENTITY",
+      "start": 6295,
+      "end": 6300
+    },
+    {
+      "text": "ovary",
+      "type": "ENTITY",
+      "start": 6314,
+      "end": 6319
+    },
+    {
+      "text": "** CONTINUED",
+      "type": "ENTITY",
+      "start": 6325,
+      "end": 6337
+    },
+    {
+      "text": "PAGE",
+      "type": "ENTITY",
+      "start": 6380,
+      "end": 6384
+    },
+    {
+      "text": "RUN",
+      "type": "ENTITY",
+      "start": 6387,
+      "end": 6390
+    },
+    {
+      "text": "Specimen Inquiry RUN USER",
+      "type": "ENTITY",
+      "start": 6397,
+      "end": 6422
+    },
+    {
+      "text": "SPEC",
+      "type": "ENTITY",
+      "start": 6438,
+      "end": 6442
+    },
+    {
+      "text": "PATIENT",
+      "type": "ENTITY",
+      "start": 6446,
+      "end": 6453
+    },
+    {
+      "text": "fallopian tube",
+      "type": "ENTITY",
+      "start": 6507,
+      "end": 6521
+    },
+    {
+      "text": "tube",
+      "type": "ENTITY",
+      "start": 6527,
+      "end": 6531
+    },
+    {
+      "text": "fimbriated ond measures",
+      "type": "ENTITY",
+      "start": 6537,
+      "end": 6560
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 6571,
+      "end": 6577
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 6591,
+      "end": 6599
+    },
+    {
+      "text": "ovary",
+      "type": "ENTITY",
+      "start": 6605,
+      "end": 6610
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 6611,
+      "end": 6619
+    },
+    {
+      "text": "normal",
+      "type": "ENTITY",
+      "start": 6647,
+      "end": 6653
+    },
+    {
+      "text": "wrinkled tan obvious tumor",
+      "type": "ENTITY",
+      "start": 6664,
+      "end": 6690
+    },
+    {
+      "text": "cassettes B1",
+      "type": "ENTITY",
+      "start": 6734,
+      "end": 6746
+    },
+    {
+      "text": "B2",
+      "type": "ENTITY",
+      "start": 6751,
+      "end": 6753
+    },
+    {
+      "text": "SUBTOTAL COLECTOMY",
+      "type": "ENTITY",
+      "start": 6785,
+      "end": 6803
+    },
+    {
+      "text": "GROSS EXAM:S  TWO",
+      "type": "ENTITY",
+      "start": 6805,
+      "end": 6822
+    },
+    {
+      "text": "CM",
+      "type": "ENTITY",
+      "start": 6891,
+      "end": 6893
+    },
+    {
+      "text": "DISTAL",
+      "type": "ENTITY",
+      "start": 6904,
+      "end": 6910
+    },
+    {
+      "text": "TO DR",
+      "type": "ENTITY",
+      "start": 6963,
+      "end": 6968
+    },
+    {
+      "text": "O.R.",
+      "type": "ENTITY",
+      "start": 6977,
+      "end": 6981
+    },
+    {
+      "text": "AT TUMOR HARVESTED",
+      "type": "ENTITY",
+      "start": 6982,
+      "end": 7000
+    },
+    {
+      "text": "TISSUE BANKING",
+      "type": "ENTITY",
+      "start": 7005,
+      "end": 7019
+    },
+    {
+      "text": "PHOTO ICUMENTATION",
+      "type": "ENTITY",
+      "start": 7020,
+      "end": 7038
+    },
+    {
+      "text": "Image Signed .(signature",
+      "type": "ENTITY",
+      "start": 7039,
+      "end": 7063
+    },
+    {
+      "text": "END",
+      "type": "ENTITY",
+      "start": 7076,
+      "end": 7079
+    }
+  ],
+  "entity_count": 329,
+  "has_embedding": true
+}

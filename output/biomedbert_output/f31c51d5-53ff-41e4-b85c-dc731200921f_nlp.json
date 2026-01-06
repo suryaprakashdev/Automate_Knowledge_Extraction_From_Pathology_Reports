@@ -1,0 +1,2876 @@
+{
+  "filename": "f31c51d5-53ff-41e4-b85c-dc731200921f",
+  "timestamp": "2026-01-05T14:43:35.929606",
+  "entities": [
+    {
+      "text": "TCGA-DS-A7WF-01A-PR  Redacted Patient",
+      "type": "ENTITY",
+      "start": 58,
+      "end": 95
+    },
+    {
+      "text": "Hospital",
+      "type": "ENTITY",
+      "start": 112,
+      "end": 120
+    },
+    {
+      "text": "Path",
+      "type": "ENTITY",
+      "start": 125,
+      "end": 129
+    },
+    {
+      "text": "AgeSex",
+      "type": "ENTITY",
+      "start": 160,
+      "end": 166
+    },
+    {
+      "text": "Copies",
+      "type": "ENTITY",
+      "start": 168,
+      "end": 174
+    },
+    {
+      "text": "Assistrat",
+      "type": "ENTITY",
+      "start": 180,
+      "end": 189
+    },
+    {
+      "text": "Location",
+      "type": "ENTITY",
+      "start": 191,
+      "end": 199
+    },
+    {
+      "text": "Date of Procedure",
+      "type": "ENTITY",
+      "start": 201,
+      "end": 218
+    },
+    {
+      "text": "Receiv'ed",
+      "type": "ENTITY",
+      "start": 225,
+      "end": 234
+    },
+    {
+      "text": "DLAGNOSIS",
+      "type": "ENTITY",
+      "start": 262,
+      "end": 271
+    },
+    {
+      "text": "A. UTERUS",
+      "type": "ENTITY",
+      "start": 273,
+      "end": 282
+    },
+    {
+      "text": "CERVIX",
+      "type": "ENTITY",
+      "start": 287,
+      "end": 293
+    },
+    {
+      "text": "RADICAL HYSTERECTOMY",
+      "type": "ENTITY",
+      "start": 295,
+      "end": 315
+    },
+    {
+      "text": "Primary cervical adenosquamous carcinoma",
+      "type": "ENTITY",
+      "start": 317,
+      "end": 357
+    },
+    {
+      "text": "Histologic grade",
+      "type": "ENTITY",
+      "start": 358,
+      "end": 374
+    },
+    {
+      "text": "Poorty-differentiated",
+      "type": "ENTITY",
+      "start": 376,
+      "end": 397
+    },
+    {
+      "text": "grade III/III Tumor stze",
+      "type": "ENTITY",
+      "start": 399,
+      "end": 423
+    },
+    {
+      "text": "tumer",
+      "type": "ENTITY",
+      "start": 429,
+      "end": 434
+    },
+    {
+      "text": "circumferential",
+      "type": "ENTITY",
+      "start": 438,
+      "end": 453
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 454,
+      "end": 463
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 474,
+      "end": 482
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 496,
+      "end": 502
+    },
+    {
+      "text": "Depth",
+      "type": "ENTITY",
+      "start": 503,
+      "end": 508
+    },
+    {
+      "text": "stromal",
+      "type": "ENTITY",
+      "start": 512,
+      "end": 519
+    },
+    {
+      "text": "invasioa",
+      "type": "ENTITY",
+      "start": 520,
+      "end": 528
+    },
+    {
+      "text": "maximum",
+      "type": "ENTITY",
+      "start": 540,
+      "end": 547
+    },
+    {
+      "text": "thickness",
+      "type": "ENTITY",
+      "start": 548,
+      "end": 557
+    },
+    {
+      "text": "stromal Invasion",
+      "type": "ENTITY",
+      "start": 561,
+      "end": 577
+    },
+    {
+      "text": "thickness",
+      "type": "ENTITY",
+      "start": 593,
+      "end": 602
+    },
+    {
+      "text": "cervix",
+      "type": "ENTITY",
+      "start": 610,
+      "end": 616
+    },
+    {
+      "text": "area",
+      "type": "ENTITY",
+      "start": 624,
+      "end": 628
+    },
+    {
+      "text": "maximal",
+      "type": "ENTITY",
+      "start": 632,
+      "end": 639
+    },
+    {
+      "text": "stromal iavasioa",
+      "type": "ENTITY",
+      "start": 640,
+      "end": 656
+    },
+    {
+      "text": "pT1b2 N0 Mx Focl",
+      "type": "ENTITY",
+      "start": 689,
+      "end": 705
+    },
+    {
+      "text": "adenocarcinoma",
+      "type": "ENTITY",
+      "start": 709,
+      "end": 723
+    },
+    {
+      "text": "in situ",
+      "type": "ENTITY",
+      "start": 724,
+      "end": 731
+    },
+    {
+      "text": "adjacent",
+      "type": "ENTITY",
+      "start": 740,
+      "end": 748
+    },
+    {
+      "text": "focl",
+      "type": "ENTITY",
+      "start": 752,
+      "end": 756
+    },
+    {
+      "text": "invasive carcinoma",
+      "type": "ENTITY",
+      "start": 760,
+      "end": 778
+    },
+    {
+      "text": "Focl",
+      "type": "ENTITY",
+      "start": 779,
+      "end": 783
+    },
+    {
+      "text": "consistent with",
+      "type": "ENTITY",
+      "start": 784,
+      "end": 799
+    },
+    {
+      "text": "lymphoyascular space invasion",
+      "type": "ENTITY",
+      "start": 800,
+      "end": 829
+    },
+    {
+      "text": "No vaginal",
+      "type": "ENTITY",
+      "start": 839,
+      "end": 849
+    },
+    {
+      "text": "identifiedd",
+      "type": "ENTITY",
+      "start": 863,
+      "end": 874
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 879,
+      "end": 884
+    },
+    {
+      "text": "uterine corpus",
+      "type": "ENTITY",
+      "start": 906,
+      "end": 920
+    },
+    {
+      "text": "parametrial iavolvemeat",
+      "type": "ENTITY",
+      "start": 925,
+      "end": 948
+    },
+    {
+      "text": "ideatified",
+      "type": "ENTITY",
+      "start": 952,
+      "end": 962
+    },
+    {
+      "text": "surgical margins",
+      "type": "ENTITY",
+      "start": 967,
+      "end": 983
+    },
+    {
+      "text": "free",
+      "type": "ENTITY",
+      "start": 988,
+      "end": 992
+    },
+    {
+      "text": "involvement",
+      "type": "ENTITY",
+      "start": 998,
+      "end": 1009
+    },
+    {
+      "text": "deep cervical",
+      "type": "ENTITY",
+      "start": 1011,
+      "end": 1024
+    },
+    {
+      "text": "vaginal",
+      "type": "ENTITY",
+      "start": 1026,
+      "end": 1033
+    },
+    {
+      "text": "parametrial",
+      "type": "ENTITY",
+      "start": 1035,
+      "end": 1046
+    },
+    {
+      "text": "eadometrium",
+      "type": "ENTITY",
+      "start": 1052,
+      "end": 1063
+    },
+    {
+      "text": "secretory",
+      "type": "ENTITY",
+      "start": 1067,
+      "end": 1076
+    },
+    {
+      "text": "myometrium",
+      "type": "ENTITY",
+      "start": 1081,
+      "end": 1091
+    },
+    {
+      "text": "B. LEFT",
+      "type": "ENTITY",
+      "start": 1109,
+      "end": 1116
+    },
+    {
+      "text": "FALLOPIAN",
+      "type": "ENTITY",
+      "start": 1127,
+      "end": 1136
+    },
+    {
+      "text": "LEFT",
+      "type": "ENTITY",
+      "start": 1143,
+      "end": 1147
+    },
+    {
+      "text": "Left ovary",
+      "type": "ENTITY",
+      "start": 1171,
+      "end": 1181
+    },
+    {
+      "text": "follicles",
+      "type": "ENTITY",
+      "start": 1190,
+      "end": 1199
+    },
+    {
+      "text": "surface",
+      "type": "ENTITY",
+      "start": 1204,
+      "end": 1211
+    },
+    {
+      "text": "adenofbromatous",
+      "type": "ENTITY",
+      "start": 1212,
+      "end": 1227
+    },
+    {
+      "text": "chaage",
+      "type": "ENTITY",
+      "start": 1228,
+      "end": 1234
+    },
+    {
+      "text": "Left fallopian tube",
+      "type": "ENTITY",
+      "start": 1235,
+      "end": 1254
+    },
+    {
+      "text": "changes",
+      "type": "ENTITY",
+      "start": 1294,
+      "end": 1301
+    },
+    {
+      "text": "C. RIGHT",
+      "type": "ENTITY",
+      "start": 1328,
+      "end": 1336
+    },
+    {
+      "text": "FALLOPIAN",
+      "type": "ENTITY",
+      "start": 1347,
+      "end": 1356
+    },
+    {
+      "text": "RIGHT",
+      "type": "ENTITY",
+      "start": 1363,
+      "end": 1368
+    },
+    {
+      "text": "follicles",
+      "type": "ENTITY",
+      "start": 1413,
+      "end": 1422
+    },
+    {
+      "text": "corpus luteum",
+      "type": "ENTITY",
+      "start": 1424,
+      "end": 1437
+    },
+    {
+      "text": "surface adhesions",
+      "type": "ENTITY",
+      "start": 1442,
+      "end": 1459
+    },
+    {
+      "text": "Right fallopian tube",
+      "type": "ENTITY",
+      "start": 1460,
+      "end": 1480
+    },
+    {
+      "text": "histopathologic",
+      "type": "ENTITY",
+      "start": 1504,
+      "end": 1519
+    },
+    {
+      "text": "No malignancy",
+      "type": "ENTITY",
+      "start": 1529,
+      "end": 1542
+    },
+    {
+      "text": "ICD",
+      "type": "ENTITY",
+      "start": 1554,
+      "end": 1557
+    },
+    {
+      "text": "O-3 D. RIGHT PELVIC LYMPH",
+      "type": "ENTITY",
+      "start": 1558,
+      "end": 1583
+    },
+    {
+      "text": "EXCISION",
+      "type": "ENTITY",
+      "start": 1590,
+      "end": 1598
+    },
+    {
+      "text": "No tumor",
+      "type": "ENTITY",
+      "start": 1600,
+      "end": 1608
+    },
+    {
+      "text": "identified",
+      "type": "ENTITY",
+      "start": 1609,
+      "end": 1619
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 1628,
+      "end": 1639
+    },
+    {
+      "text": "arcinsre",
+      "type": "ENTITY",
+      "start": 1646,
+      "end": 1654
+    },
+    {
+      "text": "Cdexsegucemsue",
+      "type": "ENTITY",
+      "start": 1656,
+      "end": 1670
+    },
+    {
+      "text": "E. RIGHT",
+      "type": "ENTITY",
+      "start": 1671,
+      "end": 1679
+    },
+    {
+      "text": "EXCISION",
+      "type": "ENTITY",
+      "start": 1696,
+      "end": 1704
+    },
+    {
+      "text": "O8560f3",
+      "type": "ENTITY",
+      "start": 1706,
+      "end": 1713
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1717,
+      "end": 1722
+    },
+    {
+      "text": "identified",
+      "type": "ENTITY",
+      "start": 1723,
+      "end": 1733
+    },
+    {
+      "text": "lymph aodes",
+      "type": "ENTITY",
+      "start": 1743,
+      "end": 1754
+    },
+    {
+      "text": "Sube Csriy",
+      "type": "ENTITY",
+      "start": 1761,
+      "end": 1771
+    },
+    {
+      "text": "NOS",
+      "type": "ENTITY",
+      "start": 1772,
+      "end": 1775
+    },
+    {
+      "text": "F. RIGHI",
+      "type": "ENTITY",
+      "start": 1776,
+      "end": 1784
+    },
+    {
+      "text": "BIOPSY",
+      "type": "ENTITY",
+      "start": 1802,
+      "end": 1808
+    },
+    {
+      "text": "twe lymph nodes",
+      "type": "ENTITY",
+      "start": 1833,
+      "end": 1848
+    },
+    {
+      "text": "EXCISION",
+      "type": "ENTITY",
+      "start": 1889,
+      "end": 1897
+    },
+    {
+      "text": "identified",
+      "type": "ENTITY",
+      "start": 1920,
+      "end": 1930
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 1939,
+      "end": 1950
+    },
+    {
+      "text": "Patient Case(s",
+      "type": "ENTITY",
+      "start": 1957,
+      "end": 1971
+    },
+    {
+      "text": "PATIENT",
+      "type": "ENTITY",
+      "start": 1986,
+      "end": 1993
+    },
+    {
+      "text": "NOTIFIED",
+      "type": "ENTITY",
+      "start": 1994,
+      "end": 2002
+    },
+    {
+      "text": "DR",
+      "type": "ENTITY",
+      "start": 2014,
+      "end": 2016
+    },
+    {
+      "text": "NURSE",
+      "type": "ENTITY",
+      "start": 2018,
+      "end": 2023
+    },
+    {
+      "text": "PATH",
+      "type": "ENTITY",
+      "start": 2054,
+      "end": 2058
+    },
+    {
+      "text": "H. LEFT OBTURATOR NODE",
+      "type": "ENTITY",
+      "start": 2062,
+      "end": 2084
+    },
+    {
+      "text": "EXCISION",
+      "type": "ENTITY",
+      "start": 2086,
+      "end": 2094
+    },
+    {
+      "text": "No tumor",
+      "type": "ENTITY",
+      "start": 2096,
+      "end": 2104
+    },
+    {
+      "text": "identified",
+      "type": "ENTITY",
+      "start": 2105,
+      "end": 2115
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 2125,
+      "end": 2136
+    },
+    {
+      "text": "PERIAORTIC",
+      "type": "ENTITY",
+      "start": 2151,
+      "end": 2161
+    },
+    {
+      "text": "EXCISION",
+      "type": "ENTITY",
+      "start": 2174,
+      "end": 2182
+    },
+    {
+      "text": "identified",
+      "type": "ENTITY",
+      "start": 2194,
+      "end": 2204
+    },
+    {
+      "text": "twe lymph nodes",
+      "type": "ENTITY",
+      "start": 2208,
+      "end": 2223
+    },
+    {
+      "text": "APPENDECTOMY",
+      "type": "ENTITY",
+      "start": 2243,
+      "end": 2255
+    },
+    {
+      "text": "malignancy",
+      "type": "ENTITY",
+      "start": 2292,
+      "end": 2302
+    },
+    {
+      "text": "NOTE",
+      "type": "ENTITY",
+      "start": 2314,
+      "end": 2318
+    },
+    {
+      "text": "Pancytokeratin immunostain",
+      "type": "ENTITY",
+      "start": 2320,
+      "end": 2346
+    },
+    {
+      "text": "lymph node specimens",
+      "type": "ENTITY",
+      "start": 2364,
+      "end": 2384
+    },
+    {
+      "text": "B-I",
+      "type": "ENTITY",
+      "start": 2386,
+      "end": 2389
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 2394,
+      "end": 2402
+    },
+    {
+      "text": "Synaptophysin",
+      "type": "ENTITY",
+      "start": 2404,
+      "end": 2417
+    },
+    {
+      "text": "chromogranin",
+      "type": "ENTITY",
+      "start": 2422,
+      "end": 2434
+    },
+    {
+      "text": "blocks A9",
+      "type": "ENTITY",
+      "start": 2448,
+      "end": 2457
+    },
+    {
+      "text": "section",
+      "type": "ENTITY",
+      "start": 2459,
+      "end": 2466
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 2474,
+      "end": 2479
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 2495,
+      "end": 2503
+    },
+    {
+      "text": "Cervical cancer",
+      "type": "ENTITY",
+      "start": 2514,
+      "end": 2529
+    },
+    {
+      "text": "diagnosis",
+      "type": "ENTITY",
+      "start": 2547,
+      "end": 2556
+    },
+    {
+      "text": "A. UTERUS",
+      "type": "ENTITY",
+      "start": 2565,
+      "end": 2574
+    },
+    {
+      "text": "CERVIX",
+      "type": "ENTITY",
+      "start": 2579,
+      "end": 2585
+    },
+    {
+      "text": "Labeled",
+      "type": "ENTITY",
+      "start": 2586,
+      "end": 2593
+    },
+    {
+      "text": "patient's",
+      "type": "ENTITY",
+      "start": 2603,
+      "end": 2612
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 2619,
+      "end": 2626
+    },
+    {
+      "text": "*uterus",
+      "type": "ENTITY",
+      "start": 2627,
+      "end": 2634
+    },
+    {
+      "text": "cervix",
+      "type": "ENTITY",
+      "start": 2639,
+      "end": 2645
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 2664,
+      "end": 2672
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 2727,
+      "end": 2735
+    },
+    {
+      "text": "bilateral",
+      "type": "ENTITY",
+      "start": 2744,
+      "end": 2753
+    },
+    {
+      "text": "adnexa",
+      "type": "ENTITY",
+      "start": 2754,
+      "end": 2760
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 2767,
+      "end": 2775
+    },
+    {
+      "text": "fundus",
+      "type": "ENTITY",
+      "start": 2788,
+      "end": 2794
+    },
+    {
+      "text": "ectocervix",
+      "type": "ENTITY",
+      "start": 2798,
+      "end": 2808
+    },
+    {
+      "text": "cormu",
+      "type": "ENTITY",
+      "start": 2830,
+      "end": 2835
+    },
+    {
+      "text": "anterior",
+      "type": "ENTITY",
+      "start": 2852,
+      "end": 2860
+    },
+    {
+      "text": "posterior",
+      "type": "ENTITY",
+      "start": 2864,
+      "end": 2873
+    },
+    {
+      "text": "serosal surface",
+      "type": "ENTITY",
+      "start": 2879,
+      "end": 2894
+    },
+    {
+      "text": "tan-pink",
+      "type": "ENTITY",
+      "start": 2898,
+      "end": 2906
+    },
+    {
+      "text": "smooth",
+      "type": "ENTITY",
+      "start": 2907,
+      "end": 2913
+    },
+    {
+      "text": "glistening",
+      "type": "ENTITY",
+      "start": 2918,
+      "end": 2928
+    },
+    {
+      "text": "gross pathologic lesion",
+      "type": "ENTITY",
+      "start": 2937,
+      "end": 2960
+    },
+    {
+      "text": "fungating",
+      "type": "ENTITY",
+      "start": 2984,
+      "end": 2993
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 2994,
+      "end": 2998
+    },
+    {
+      "text": "heaped edges",
+      "type": "ENTITY",
+      "start": 3004,
+      "end": 3016
+    },
+    {
+      "text": "circumference",
+      "type": "ENTITY",
+      "start": 3038,
+      "end": 3051
+    },
+    {
+      "text": "cervix",
+      "type": "ENTITY",
+      "start": 3059,
+      "end": 3065
+    },
+    {
+      "text": "invading",
+      "type": "ENTITY",
+      "start": 3070,
+      "end": 3078
+    },
+    {
+      "text": "endocervical canal",
+      "type": "ENTITY",
+      "start": 3089,
+      "end": 3107
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 3114,
+      "end": 3122
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 3132,
+      "end": 3138
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 3156,
+      "end": 3164
+    },
+    {
+      "text": "measure",
+      "type": "ENTITY",
+      "start": 3195,
+      "end": 3202
+    },
+    {
+      "text": "maximal",
+      "type": "ENTITY",
+      "start": 3207,
+      "end": 3214
+    },
+    {
+      "text": "thickness",
+      "type": "ENTITY",
+      "start": 3215,
+      "end": 3224
+    },
+    {
+      "text": "rim",
+      "type": "ENTITY",
+      "start": 3237,
+      "end": 3240
+    },
+    {
+      "text": "vaginal cuff",
+      "type": "ENTITY",
+      "start": 3244,
+      "end": 3256
+    },
+    {
+      "text": "posterior",
+      "type": "ENTITY",
+      "start": 3284,
+      "end": 3293
+    },
+    {
+      "text": "cervix",
+      "type": "ENTITY",
+      "start": 3308,
+      "end": 3314
+    },
+    {
+      "text": "anterior",
+      "type": "ENTITY",
+      "start": 3335,
+      "end": 3343
+    },
+    {
+      "text": "margin",
+      "type": "ENTITY",
+      "start": 3344,
+      "end": 3350
+    },
+    {
+      "text": "cervix",
+      "type": "ENTITY",
+      "start": 3358,
+      "end": 3364
+    },
+    {
+      "text": "inked blue",
+      "type": "ENTITY",
+      "start": 3393,
+      "end": 3403
+    },
+    {
+      "text": "anterior",
+      "type": "ENTITY",
+      "start": 3411,
+      "end": 3419
+    },
+    {
+      "text": "black",
+      "type": "ENTITY",
+      "start": 3424,
+      "end": 3429
+    },
+    {
+      "text": "posterior",
+      "type": "ENTITY",
+      "start": 3437,
+      "end": 3446
+    },
+    {
+      "text": "surface",
+      "type": "ENTITY",
+      "start": 3447,
+      "end": 3454
+    },
+    {
+      "text": "endometrium",
+      "type": "ENTITY",
+      "start": 3460,
+      "end": 3471
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 3472,
+      "end": 3480
+    },
+    {
+      "text": "fundus",
+      "type": "ENTITY",
+      "start": 3486,
+      "end": 3492
+    },
+    {
+      "text": "fungating",
+      "type": "ENTITY",
+      "start": 3512,
+      "end": 3521
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 3522,
+      "end": 3526
+    },
+    {
+      "text": "ectocervix",
+      "type": "ENTITY",
+      "start": 3534,
+      "end": 3544
+    },
+    {
+      "text": "endocervical canal",
+      "type": "ENTITY",
+      "start": 3567,
+      "end": 3585
+    },
+    {
+      "text": "maximum",
+      "type": "ENTITY",
+      "start": 3592,
+      "end": 3599
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 3600,
+      "end": 3606
+    },
+    {
+      "text": "endometrium",
+      "type": "ENTITY",
+      "start": 3622,
+      "end": 3633
+    },
+    {
+      "text": "smooth",
+      "type": "ENTITY",
+      "start": 3649,
+      "end": 3655
+    },
+    {
+      "text": "tan-white mucosa",
+      "type": "ENTITY",
+      "start": 3662,
+      "end": 3678
+    },
+    {
+      "text": "gross pathologic lesion",
+      "type": "ENTITY",
+      "start": 3687,
+      "end": 3710
+    },
+    {
+      "text": "endocervical canal",
+      "type": "ENTITY",
+      "start": 3716,
+      "end": 3734
+    },
+    {
+      "text": "transformation",
+      "type": "ENTITY",
+      "start": 3736,
+      "end": 3750
+    },
+    {
+      "text": "zone",
+      "type": "ENTITY",
+      "start": 3751,
+      "end": 3755
+    },
+    {
+      "text": "entire cervix",
+      "type": "ENTITY",
+      "start": 3760,
+      "end": 3773
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 3804,
+      "end": 3809
+    },
+    {
+      "text": "endometrium",
+      "type": "ENTITY",
+      "start": 3815,
+      "end": 3826
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 3827,
+      "end": 3835
+    },
+    {
+      "text": "maximum",
+      "type": "ENTITY",
+      "start": 3838,
+      "end": 3845
+    },
+    {
+      "text": "thickness",
+      "type": "ENTITY",
+      "start": 3846,
+      "end": 3855
+    },
+    {
+      "text": "myometrium",
+      "type": "ENTITY",
+      "start": 3877,
+      "end": 3887
+    },
+    {
+      "text": "maximal",
+      "type": "ENTITY",
+      "start": 3903,
+      "end": 3910
+    },
+    {
+      "text": "thickness",
+      "type": "ENTITY",
+      "start": 3911,
+      "end": 3920
+    },
+    {
+      "text": "Sectioning",
+      "type": "ENTITY",
+      "start": 3932,
+      "end": 3942
+    },
+    {
+      "text": "anterior",
+      "type": "ENTITY",
+      "start": 3950,
+      "end": 3958
+    },
+    {
+      "text": "cervix",
+      "type": "ENTITY",
+      "start": 3974,
+      "end": 3980
+    },
+    {
+      "text": "fiumgating",
+      "type": "ENTITY",
+      "start": 3996,
+      "end": 4006
+    },
+    {
+      "text": "tunor",
+      "type": "ENTITY",
+      "start": 4007,
+      "end": 4012
+    },
+    {
+      "text": "cervical wall",
+      "type": "ENTITY",
+      "start": 4071,
+      "end": 4084
+    },
+    {
+      "text": "penetrate",
+      "type": "ENTITY",
+      "start": 4098,
+      "end": 4107
+    },
+    {
+      "text": "serosal surface",
+      "type": "ENTITY",
+      "start": 4123,
+      "end": 4138
+    },
+    {
+      "text": "Sectioning",
+      "type": "ENTITY",
+      "start": 4140,
+      "end": 4150
+    },
+    {
+      "text": "anterior",
+      "type": "ENTITY",
+      "start": 4158,
+      "end": 4166
+    },
+    {
+      "text": "corpus",
+      "type": "ENTITY",
+      "start": 4167,
+      "end": 4173
+    },
+    {
+      "text": "tan-pink",
+      "type": "ENTITY",
+      "start": 4201,
+      "end": 4209
+    },
+    {
+      "text": "parenchyma",
+      "type": "ENTITY",
+      "start": 4210,
+      "end": 4220
+    },
+    {
+      "text": "gross pathologic lesion",
+      "type": "ENTITY",
+      "start": 4229,
+      "end": 4252
+    },
+    {
+      "text": "Sectioning",
+      "type": "ENTITY",
+      "start": 4254,
+      "end": 4264
+    },
+    {
+      "text": "posterior cervix",
+      "type": "ENTITY",
+      "start": 4272,
+      "end": 4288
+    },
+    {
+      "text": "firm",
+      "type": "ENTITY",
+      "start": 4304,
+      "end": 4308
+    },
+    {
+      "text": "friable",
+      "type": "ENTITY",
+      "start": 4310,
+      "end": 4317
+    },
+    {
+      "text": "thickness",
+      "type": "ENTITY",
+      "start": 4390,
+      "end": 4399
+    },
+    {
+      "text": "cervix",
+      "type": "ENTITY",
+      "start": 4407,
+      "end": 4413
+    },
+    {
+      "text": "Sectioning",
+      "type": "ENTITY",
+      "start": 4415,
+      "end": 4425
+    },
+    {
+      "text": "posterior corpus",
+      "type": "ENTITY",
+      "start": 4433,
+      "end": 4449
+    },
+    {
+      "text": "tan-white",
+      "type": "ENTITY",
+      "start": 4482,
+      "end": 4491
+    },
+    {
+      "text": "parenchyma",
+      "type": "ENTITY",
+      "start": 4492,
+      "end": 4502
+    },
+    {
+      "text": "gross pathologic lesion",
+      "type": "ENTITY",
+      "start": 4511,
+      "end": 4534
+    },
+    {
+      "text": "Representative sections",
+      "type": "ENTITY",
+      "start": 4536,
+      "end": 4559
+    },
+    {
+      "text": "Al",
+      "type": "ENTITY",
+      "start": 4575,
+      "end": 4577
+    },
+    {
+      "text": "A2",
+      "type": "ENTITY",
+      "start": 4579,
+      "end": 4581
+    },
+    {
+      "text": "Anterior cervix",
+      "type": "ENTITY",
+      "start": 4583,
+      "end": 4598
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 4600,
+      "end": 4605
+    },
+    {
+      "text": "bisected",
+      "type": "ENTITY",
+      "start": 4607,
+      "end": 4615
+    },
+    {
+      "text": "A3",
+      "type": "ENTITY",
+      "start": 4625,
+      "end": 4627
+    },
+    {
+      "text": "Anterior cervix",
+      "type": "ENTITY",
+      "start": 4629,
+      "end": 4644
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 4646,
+      "end": 4651
+    },
+    {
+      "text": "A5",
+      "type": "ENTITY",
+      "start": 4660,
+      "end": 4662
+    },
+    {
+      "text": "Anterior cervix",
+      "type": "ENTITY",
+      "start": 4664,
+      "end": 4679
+    },
+    {
+      "text": "tunor",
+      "type": "ENTITY",
+      "start": 4681,
+      "end": 4686
+    },
+    {
+      "text": "bisected",
+      "type": "ENTITY",
+      "start": 4688,
+      "end": 4696
+    },
+    {
+      "text": "A6",
+      "type": "ENTITY",
+      "start": 4706,
+      "end": 4708
+    },
+    {
+      "text": "A7",
+      "type": "ENTITY",
+      "start": 4710,
+      "end": 4712
+    },
+    {
+      "text": "Anterior",
+      "type": "ENTITY",
+      "start": 4714,
+      "end": 4722
+    },
+    {
+      "text": "bisected",
+      "type": "ENTITY",
+      "start": 4746,
+      "end": 4754
+    },
+    {
+      "text": "A8",
+      "type": "ENTITY",
+      "start": 4765,
+      "end": 4767
+    },
+    {
+      "text": "Anterior corpus-1 A9",
+      "type": "ENTITY",
+      "start": 4769,
+      "end": 4789
+    },
+    {
+      "text": "Posterior cervix",
+      "type": "ENTITY",
+      "start": 4796,
+      "end": 4812
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 4814,
+      "end": 4819
+    },
+    {
+      "text": "bisected",
+      "type": "ENTITY",
+      "start": 4821,
+      "end": 4829
+    },
+    {
+      "text": "I",
+      "type": "ENTITY",
+      "start": 4832,
+      "end": 4833
+    },
+    {
+      "text": "A12",
+      "type": "ENTITY",
+      "start": 4844,
+      "end": 4847
+    },
+    {
+      "text": "Posterior cervix",
+      "type": "ENTITY",
+      "start": 4849,
+      "end": 4865
+    },
+    {
+      "text": "umor",
+      "type": "ENTITY",
+      "start": 4867,
+      "end": 4871
+    },
+    {
+      "text": "bisected",
+      "type": "ENTITY",
+      "start": 4873,
+      "end": 4881
+    },
+    {
+      "text": "I",
+      "type": "ENTITY",
+      "start": 4884,
+      "end": 4885
+    },
+    {
+      "text": "A13",
+      "type": "ENTITY",
+      "start": 4891,
+      "end": 4894
+    },
+    {
+      "text": "A14",
+      "type": "ENTITY",
+      "start": 4896,
+      "end": 4899
+    },
+    {
+      "text": "Posterior cervix",
+      "type": "ENTITY",
+      "start": 4901,
+      "end": 4917
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 4919,
+      "end": 4924
+    },
+    {
+      "text": "bisected",
+      "type": "ENTITY",
+      "start": 4926,
+      "end": 4934
+    },
+    {
+      "text": "A15",
+      "type": "ENTITY",
+      "start": 4944,
+      "end": 4947
+    },
+    {
+      "text": "Posterior corpus -1 A16",
+      "type": "ENTITY",
+      "start": 4949,
+      "end": 4972
+    },
+    {
+      "text": "Posterior",
+      "type": "ENTITY",
+      "start": 4974,
+      "end": 4983
+    },
+    {
+      "text": "uterine segment",
+      "type": "ENTITY",
+      "start": 4990,
+      "end": 5005
+    },
+    {
+      "text": "B. LEFT",
+      "type": "ENTITY",
+      "start": 5010,
+      "end": 5017
+    },
+    {
+      "text": "FALLOPIAN",
+      "type": "ENTITY",
+      "start": 5028,
+      "end": 5037
+    },
+    {
+      "text": "Labeled",
+      "type": "ENTITY",
+      "start": 5043,
+      "end": 5050
+    },
+    {
+      "text": "patient's",
+      "type": "ENTITY",
+      "start": 5060,
+      "end": 5069
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 5076,
+      "end": 5083
+    },
+    {
+      "text": "left ovary",
+      "type": "ENTITY",
+      "start": 5085,
+      "end": 5095
+    },
+    {
+      "text": "fallopian tube",
+      "type": "ENTITY",
+      "start": 5100,
+      "end": 5114
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 5133,
+      "end": 5141
+    },
+    {
+      "text": "intact",
+      "type": "ENTITY",
+      "start": 5148,
+      "end": 5154
+    },
+    {
+      "text": "fallopian tube",
+      "type": "ENTITY",
+      "start": 5155,
+      "end": 5169
+    },
+    {
+      "text": "ovary",
+      "type": "ENTITY",
+      "start": 5174,
+      "end": 5179
+    },
+    {
+      "text": "measure",
+      "type": "ENTITY",
+      "start": 5186,
+      "end": 5193
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 5204,
+      "end": 5210
+    },
+    {
+      "text": "ovarian adnexal",
+      "type": "ENTITY",
+      "start": 5291,
+      "end": 5306
+    },
+    {
+      "text": "tissue",
+      "type": "ENTITY",
+      "start": 5307,
+      "end": 5313
+    },
+    {
+      "text": "external",
+      "type": "ENTITY",
+      "start": 5319,
+      "end": 5327
+    },
+    {
+      "text": "surface",
+      "type": "ENTITY",
+      "start": 5328,
+      "end": 5335
+    },
+    {
+      "text": "ovary",
+      "type": "ENTITY",
+      "start": 5343,
+      "end": 5348
+    },
+    {
+      "text": "tan-white",
+      "type": "ENTITY",
+      "start": 5364,
+      "end": 5373
+    },
+    {
+      "text": "PATH",
+      "type": "ENTITY",
+      "start": 5445,
+      "end": 5449
+    },
+    {
+      "text": "surface",
+      "type": "ENTITY",
+      "start": 5453,
+      "end": 5460
+    },
+    {
+      "text": "gross pathologic lesion",
+      "type": "ENTITY",
+      "start": 5469,
+      "end": 5492
+    },
+    {
+      "text": "sectioning",
+      "type": "ENTITY",
+      "start": 5499,
+      "end": 5509
+    },
+    {
+      "text": "ovary",
+      "type": "ENTITY",
+      "start": 5514,
+      "end": 5519
+    },
+    {
+      "text": "cystic lesions",
+      "type": "ENTITY",
+      "start": 5539,
+      "end": 5553
+    },
+    {
+      "text": "white corpora",
+      "type": "ENTITY",
+      "start": 5565,
+      "end": 5578
+    },
+    {
+      "text": "albicantia",
+      "type": "ENTITY",
+      "start": 5579,
+      "end": 5589
+    },
+    {
+      "text": "gross pathologic lesion",
+      "type": "ENTITY",
+      "start": 5615,
+      "end": 5638
+    },
+    {
+      "text": "cysts",
+      "type": "ENTITY",
+      "start": 5646,
+      "end": 5651
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 5652,
+      "end": 5660
+    },
+    {
+      "text": "Sectioning",
+      "type": "ENTITY",
+      "start": 5707,
+      "end": 5717
+    },
+    {
+      "text": "fallopian tube",
+      "type": "ENTITY",
+      "start": 5725,
+      "end": 5739
+    },
+    {
+      "text": "patent",
+      "type": "ENTITY",
+      "start": 5755,
+      "end": 5761
+    },
+    {
+      "text": "lumen",
+      "type": "ENTITY",
+      "start": 5771,
+      "end": 5776
+    },
+    {
+      "text": "maximum",
+      "type": "ENTITY",
+      "start": 5784,
+      "end": 5791
+    },
+    {
+      "text": "dimension",
+      "type": "ENTITY",
+      "start": 5792,
+      "end": 5801
+    },
+    {
+      "text": "Representative sections",
+      "type": "ENTITY",
+      "start": 5813,
+      "end": 5836
+    },
+    {
+      "text": "B1",
+      "type": "ENTITY",
+      "start": 5852,
+      "end": 5854
+    },
+    {
+      "text": "Fallopian tube",
+      "type": "ENTITY",
+      "start": 5870,
+      "end": 5884
+    },
+    {
+      "text": "C. RIGHT",
+      "type": "ENTITY",
+      "start": 5889,
+      "end": 5897
+    },
+    {
+      "text": "FALLOPIAN",
+      "type": "ENTITY",
+      "start": 5908,
+      "end": 5917
+    },
+    {
+      "text": "Labeled",
+      "type": "ENTITY",
+      "start": 5923,
+      "end": 5930
+    },
+    {
+      "text": "patient's",
+      "type": "ENTITY",
+      "start": 5940,
+      "end": 5949
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 5956,
+      "end": 5963
+    },
+    {
+      "text": "fallopian tube",
+      "type": "ENTITY",
+      "start": 5981,
+      "end": 5995
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 6014,
+      "end": 6022
+    },
+    {
+      "text": "intact",
+      "type": "ENTITY",
+      "start": 6029,
+      "end": 6035
+    },
+    {
+      "text": "fallopian tube",
+      "type": "ENTITY",
+      "start": 6037,
+      "end": 6051
+    },
+    {
+      "text": "ovary",
+      "type": "ENTITY",
+      "start": 6056,
+      "end": 6061
+    },
+    {
+      "text": "measure",
+      "type": "ENTITY",
+      "start": 6068,
+      "end": 6075
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 6086,
+      "end": 6092
+    },
+    {
+      "text": "external",
+      "type": "ENTITY",
+      "start": 6151,
+      "end": 6159
+    },
+    {
+      "text": "surface",
+      "type": "ENTITY",
+      "start": 6160,
+      "end": 6167
+    },
+    {
+      "text": "ovary",
+      "type": "ENTITY",
+      "start": 6175,
+      "end": 6180
+    },
+    {
+      "text": "multiple",
+      "type": "ENTITY",
+      "start": 6194,
+      "end": 6202
+    },
+    {
+      "text": "red-brown discolored",
+      "type": "ENTITY",
+      "start": 6203,
+      "end": 6223
+    },
+    {
+      "text": "hemorrhagic",
+      "type": "ENTITY",
+      "start": 6233,
+      "end": 6244
+    },
+    {
+      "text": "cystic structures",
+      "type": "ENTITY",
+      "start": 6246,
+      "end": 6263
+    },
+    {
+      "text": "white gyrates",
+      "type": "ENTITY",
+      "start": 6275,
+      "end": 6288
+    },
+    {
+      "text": "appearance",
+      "type": "ENTITY",
+      "start": 6289,
+      "end": 6299
+    },
+    {
+      "text": "sectioning",
+      "type": "ENTITY",
+      "start": 6306,
+      "end": 6316
+    },
+    {
+      "text": "ovary",
+      "type": "ENTITY",
+      "start": 6321,
+      "end": 6326
+    },
+    {
+      "text": "smooth-walled cystic structures",
+      "type": "ENTITY",
+      "start": 6349,
+      "end": 6380
+    },
+    {
+      "text": "red-brown viscous material",
+      "type": "ENTITY",
+      "start": 6398,
+      "end": 6424
+    },
+    {
+      "text": "chocolate cyst",
+      "type": "ENTITY",
+      "start": 6426,
+      "end": 6440
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 6448,
+      "end": 6456
+    },
+    {
+      "text": "cysts",
+      "type": "ENTITY",
+      "start": 6492,
+      "end": 6497
+    },
+    {
+      "text": "smooth-walled",
+      "type": "ENTITY",
+      "start": 6502,
+      "end": 6515
+    },
+    {
+      "text": "thin translucent",
+      "type": "ENTITY",
+      "start": 6527,
+      "end": 6543
+    },
+    {
+      "text": "lumens",
+      "type": "ENTITY",
+      "start": 6563,
+      "end": 6569
+    },
+    {
+      "text": "size",
+      "type": "ENTITY",
+      "start": 6589,
+      "end": 6593
+    },
+    {
+      "text": "0.I",
+      "type": "ENTITY",
+      "start": 6647,
+      "end": 6650
+    },
+    {
+      "text": "Representative sections",
+      "type": "ENTITY",
+      "start": 6661,
+      "end": 6684
+    },
+    {
+      "text": "C1",
+      "type": "ENTITY",
+      "start": 6686,
+      "end": 6688
+    },
+    {
+      "text": "Ovary C2",
+      "type": "ENTITY",
+      "start": 6690,
+      "end": 6698
+    },
+    {
+      "text": "Fallopian tube D. RIGHT",
+      "type": "ENTITY",
+      "start": 6700,
+      "end": 6723
+    },
+    {
+      "text": "Labeled",
+      "type": "ENTITY",
+      "start": 6736,
+      "end": 6743
+    },
+    {
+      "text": "patient's",
+      "type": "ENTITY",
+      "start": 6753,
+      "end": 6762
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 6769,
+      "end": 6776
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 6814,
+      "end": 6822
+    },
+    {
+      "text": "fragment",
+      "type": "ENTITY",
+      "start": 6828,
+      "end": 6836
+    },
+    {
+      "text": "Multiple",
+      "type": "ENTITY",
+      "start": 6872,
+      "end": 6880
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 6896,
+      "end": 6907
+    },
+    {
+      "text": "identified",
+      "type": "ENTITY",
+      "start": 6912,
+      "end": 6922
+    },
+    {
+      "text": "size",
+      "type": "ENTITY",
+      "start": 6934,
+      "end": 6938
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 6966,
+      "end": 6975
+    },
+    {
+      "text": "Entirely submitted",
+      "type": "ENTITY",
+      "start": 6984,
+      "end": 7002
+    },
+    {
+      "text": "D1",
+      "type": "ENTITY",
+      "start": 7004,
+      "end": 7006
+    },
+    {
+      "text": "E. RIGHT",
+      "type": "ENTITY",
+      "start": 7010,
+      "end": 7018
+    },
+    {
+      "text": "Labeled",
+      "type": "ENTITY",
+      "start": 7034,
+      "end": 7041
+    },
+    {
+      "text": "patient's",
+      "type": "ENTITY",
+      "start": 7051,
+      "end": 7060
+    },
+    {
+      "text": "right obturator node",
+      "type": "ENTITY",
+      "start": 7075,
+      "end": 7095
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 7114,
+      "end": 7122
+    },
+    {
+      "text": "fibroadipose tissue",
+      "type": "ENTITY",
+      "start": 7159,
+      "end": 7178
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 7199,
+      "end": 7210
+    },
+    {
+      "text": "size",
+      "type": "ENTITY",
+      "start": 7222,
+      "end": 7226
+    },
+    {
+      "text": "Entirely submitted",
+      "type": "ENTITY",
+      "start": 7250,
+      "end": 7268
+    },
+    {
+      "text": "El",
+      "type": "ENTITY",
+      "start": 7270,
+      "end": 7272
+    },
+    {
+      "text": "PERIAORTIC",
+      "type": "ENTITY",
+      "start": 7285,
+      "end": 7295
+    },
+    {
+      "text": "NODE",
+      "type": "ENTITY",
+      "start": 7296,
+      "end": 7300
+    },
+    {
+      "text": "Labeled",
+      "type": "ENTITY",
+      "start": 7301,
+      "end": 7308
+    },
+    {
+      "text": "patient's",
+      "type": "ENTITY",
+      "start": 7318,
+      "end": 7327
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 7334,
+      "end": 7341
+    },
+    {
+      "text": "fornalin",
+      "type": "ENTITY",
+      "start": 7383,
+      "end": 7391
+    },
+    {
+      "text": "fragments",
+      "type": "ENTITY",
+      "start": 7400,
+      "end": 7409
+    },
+    {
+      "text": "yellow fibroadipose tissue",
+      "type": "ENTITY",
+      "start": 7418,
+      "end": 7444
+    },
+    {
+      "text": "single lymph node",
+      "type": "ENTITY",
+      "start": 7463,
+      "end": 7480
+    },
+    {
+      "text": "measure",
+      "type": "ENTITY",
+      "start": 7487,
+      "end": 7494
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 7542,
+      "end": 7550
+    },
+    {
+      "text": "G. LEFT",
+      "type": "ENTITY",
+      "start": 7580,
+      "end": 7587
+    },
+    {
+      "text": "NODE",
+      "type": "ENTITY",
+      "start": 7595,
+      "end": 7599
+    },
+    {
+      "text": "Labeled",
+      "type": "ENTITY",
+      "start": 7600,
+      "end": 7607
+    },
+    {
+      "text": "patient's",
+      "type": "ENTITY",
+      "start": 7617,
+      "end": 7626
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 7633,
+      "end": 7640
+    },
+    {
+      "text": "left pelvic node",
+      "type": "ENTITY",
+      "start": 7642,
+      "end": 7658
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 7677,
+      "end": 7685
+    },
+    {
+      "text": "tan-white",
+      "type": "ENTITY",
+      "start": 7752,
+      "end": 7761
+    },
+    {
+      "text": "fibroconmective tissue",
+      "type": "ENTITY",
+      "start": 7762,
+      "end": 7784
+    },
+    {
+      "text": "admixed",
+      "type": "ENTITY",
+      "start": 7785,
+      "end": 7792
+    },
+    {
+      "text": "soft brown lymph nodes",
+      "type": "ENTITY",
+      "start": 7804,
+      "end": 7826
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 7827,
+      "end": 7836
+    },
+    {
+      "text": "dimension",
+      "type": "ENTITY",
+      "start": 7875,
+      "end": 7884
+    },
+    {
+      "text": "Entirely submitted",
+      "type": "ENTITY",
+      "start": 7891,
+      "end": 7909
+    },
+    {
+      "text": "H. LEFT OBTURATOR",
+      "type": "ENTITY",
+      "start": 7917,
+      "end": 7934
+    },
+    {
+      "text": "Labeled",
+      "type": "ENTITY",
+      "start": 7940,
+      "end": 7947
+    },
+    {
+      "text": "patient's",
+      "type": "ENTITY",
+      "start": 7957,
+      "end": 7966
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 7973,
+      "end": 7980
+    },
+    {
+      "text": "left obturator node",
+      "type": "ENTITY",
+      "start": 7982,
+      "end": 8001
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 8020,
+      "end": 8028
+    },
+    {
+      "text": "soft yellow lobulated adipose tissue",
+      "type": "ENTITY",
+      "start": 8053,
+      "end": 8089
+    },
+    {
+      "text": "lymph node",
+      "type": "ENTITY",
+      "start": 8115,
+      "end": 8125
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 8132,
+      "end": 8140
+    },
+    {
+      "text": "dimension",
+      "type": "ENTITY",
+      "start": 8160,
+      "end": 8169
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 8175,
+      "end": 8183
+    },
+    {
+      "text": "HI",
+      "type": "ENTITY",
+      "start": 8207,
+      "end": 8209
+    },
+    {
+      "text": "LEFT PERIAORTIC",
+      "type": "ENTITY",
+      "start": 8216,
+      "end": 8231
+    },
+    {
+      "text": "NODE",
+      "type": "ENTITY",
+      "start": 8232,
+      "end": 8236
+    },
+    {
+      "text": "Labeled",
+      "type": "ENTITY",
+      "start": 8237,
+      "end": 8244
+    },
+    {
+      "text": "patient's",
+      "type": "ENTITY",
+      "start": 8254,
+      "end": 8263
+    },
+    {
+      "text": "labeied",
+      "type": "ENTITY",
+      "start": 8270,
+      "end": 8277
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 8317,
+      "end": 8325
+    },
+    {
+      "text": "fragments",
+      "type": "ENTITY",
+      "start": 8334,
+      "end": 8343
+    },
+    {
+      "text": "soft yellow lobulated adipose tissue",
+      "type": "ENTITY",
+      "start": 8347,
+      "end": 8383
+    },
+    {
+      "text": "single lymph node",
+      "type": "ENTITY",
+      "start": 8405,
+      "end": 8422
+    },
+    {
+      "text": "measure",
+      "type": "ENTITY",
+      "start": 8433,
+      "end": 8440
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 8488,
+      "end": 8496
+    },
+    {
+      "text": "PATH",
+      "type": "ENTITY",
+      "start": 8590,
+      "end": 8594
+    },
+    {
+      "text": "Labeled",
+      "type": "ENTITY",
+      "start": 8610,
+      "end": 8617
+    },
+    {
+      "text": "patient's",
+      "type": "ENTITY",
+      "start": 8627,
+      "end": 8636
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 8643,
+      "end": 8650
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 8679,
+      "end": 8687
+    },
+    {
+      "text": "intact",
+      "type": "ENTITY",
+      "start": 8694,
+      "end": 8700
+    },
+    {
+      "text": "vermiform",
+      "type": "ENTITY",
+      "start": 8701,
+      "end": 8710
+    },
+    {
+      "text": "appendix",
+      "type": "ENTITY",
+      "start": 8711,
+      "end": 8719
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 8720,
+      "end": 8728
+    },
+    {
+      "text": "moderate",
+      "type": "ENTITY",
+      "start": 8764,
+      "end": 8772
+    },
+    {
+      "text": "amount",
+      "type": "ENTITY",
+      "start": 8773,
+      "end": 8779
+    },
+    {
+      "text": "periappendiceal",
+      "type": "ENTITY",
+      "start": 8792,
+      "end": 8807
+    },
+    {
+      "text": "external",
+      "type": "ENTITY",
+      "start": 8842,
+      "end": 8850
+    },
+    {
+      "text": "surface",
+      "type": "ENTITY",
+      "start": 8851,
+      "end": 8858
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 8866,
+      "end": 8874
+    },
+    {
+      "text": "external",
+      "type": "ENTITY",
+      "start": 8880,
+      "end": 8888
+    },
+    {
+      "text": "surface",
+      "type": "ENTITY",
+      "start": 8889,
+      "end": 8896
+    },
+    {
+      "text": "tan-pink",
+      "type": "ENTITY",
+      "start": 8900,
+      "end": 8908
+    },
+    {
+      "text": "smooth",
+      "type": "ENTITY",
+      "start": 8909,
+      "end": 8915
+    },
+    {
+      "text": "glistening",
+      "type": "ENTITY",
+      "start": 8920,
+      "end": 8930
+    },
+    {
+      "text": "pathologic lesion",
+      "type": "ENTITY",
+      "start": 8939,
+      "end": 8956
+    },
+    {
+      "text": "Sectioning",
+      "type": "ENTITY",
+      "start": 8958,
+      "end": 8968
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 8976,
+      "end": 8984
+    },
+    {
+      "text": "patent",
+      "type": "ENTITY",
+      "start": 9000,
+      "end": 9006
+    },
+    {
+      "text": "stellate",
+      "type": "ENTITY",
+      "start": 9007,
+      "end": 9015
+    },
+    {
+      "text": "Iunen",
+      "type": "ENTITY",
+      "start": 9016,
+      "end": 9021
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 9022,
+      "end": 9031
+    },
+    {
+      "text": "maximal",
+      "type": "ENTITY",
+      "start": 9042,
+      "end": 9049
+    },
+    {
+      "text": "dimension",
+      "type": "ENTITY",
+      "start": 9050,
+      "end": 9059
+    },
+    {
+      "text": "Representative sections",
+      "type": "ENTITY",
+      "start": 9061,
+      "end": 9084
+    },
+    {
+      "text": "Proximal",
+      "type": "ENTITY",
+      "start": 9104,
+      "end": 9112
+    },
+    {
+      "text": "mid",
+      "type": "ENTITY",
+      "start": 9114,
+      "end": 9117
+    },
+    {
+      "text": "distal appendix",
+      "type": "ENTITY",
+      "start": 9122,
+      "end": 9137
+    },
+    {
+      "text": "Gross",
+      "type": "ENTITY",
+      "start": 9142,
+      "end": 9147
+    },
+    {
+      "text": "OPERATIVE",
+      "type": "ENTITY",
+      "start": 9160,
+      "end": 9169
+    },
+    {
+      "text": "GROSS",
+      "type": "ENTITY",
+      "start": 9194,
+      "end": 9199
+    },
+    {
+      "text": "GROSS",
+      "type": "ENTITY",
+      "start": 9202,
+      "end": 9207
+    },
+    {
+      "text": "CX-UX",
+      "type": "ENTITY",
+      "start": 9209,
+      "end": 9214
+    },
+    {
+      "text": "Cx tumor",
+      "type": "ENTITY",
+      "start": 9217,
+      "end": 9225
+    },
+    {
+      "text": "circumferential",
+      "type": "ENTITY",
+      "start": 9226,
+      "end": 9241
+    },
+    {
+      "text": "endocervix",
+      "type": "ENTITY",
+      "start": 9255,
+      "end": 9265
+    },
+    {
+      "text": "lower",
+      "type": "ENTITY",
+      "start": 9282,
+      "end": 9287
+    },
+    {
+      "text": "uterine segment",
+      "type": "ENTITY",
+      "start": 9288,
+      "end": 9303
+    },
+    {
+      "text": "Vaginal mucosa",
+      "type": "ENTITY",
+      "start": 9304,
+      "end": 9318
+    },
+    {
+      "text": "cervix soft tissues",
+      "type": "ENTITY",
+      "start": 9323,
+      "end": 9342
+    },
+    {
+      "text": "grossly free of tumor margin",
+      "type": "ENTITY",
+      "start": 9343,
+      "end": 9371
+    },
+    {
+      "text": "portion of tumor",
+      "type": "ENTITY",
+      "start": 9373,
+      "end": 9389
+    },
+    {
+      "text": "research",
+      "type": "ENTITY",
+      "start": 9404,
+      "end": 9412
+    },
+    {
+      "text": "SPECIMEN D",
+      "type": "ENTITY",
+      "start": 9414,
+      "end": 9424
+    },
+    {
+      "text": "RIGHT PELVIC LYMPH",
+      "type": "ENTITY",
+      "start": 9426,
+      "end": 9444
+    },
+    {
+      "text": "Negative",
+      "type": "ENTITY",
+      "start": 9453,
+      "end": 9461
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 9466,
+      "end": 9471
+    },
+    {
+      "text": "reporr",
+      "type": "ENTITY",
+      "start": 9480,
+      "end": 9486
+    },
+    {
+      "text": "immunohistochemical test",
+      "type": "ENTITY",
+      "start": 9496,
+      "end": 9520
+    },
+    {
+      "text": "results",
+      "type": "ENTITY",
+      "start": 9521,
+      "end": 9528
+    },
+    {
+      "text": "Vimarnue immimohistnchemical tests",
+      "type": "ENTITY",
+      "start": 9558,
+      "end": 9592
+    },
+    {
+      "text": "performance",
+      "type": "ENTITY",
+      "start": 9618,
+      "end": 9629
+    },
+    {
+      "text": "characteristics",
+      "type": "ENTITY",
+      "start": 9630,
+      "end": 9645
+    },
+    {
+      "text": "inmunonistochenical tests",
+      "type": "ENTITY",
+      "start": 9666,
+      "end": 9691
+    },
+    {
+      "text": "cleared",
+      "type": "ENTITY",
+      "start": 9706,
+      "end": 9713
+    },
+    {
+      "text": "U.S.",
+      "type": "ENTITY",
+      "start": 9734,
+      "end": 9738
+    },
+    {
+      "text": "FDA",
+      "type": "ENTITY",
+      "start": 9769,
+      "end": 9772
+    },
+    {
+      "text": "FDA",
+      "type": "ENTITY",
+      "start": 9779,
+      "end": 9782
+    },
+    {
+      "text": "approval",
+      "type": "ENTITY",
+      "start": 9783,
+      "end": 9791
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 9841,
+      "end": 9849
+    },
+    {
+      "text": "result",
+      "type": "ENTITY",
+      "start": 9867,
+      "end": 9873
+    },
+    {
+      "text": "reviewed",
+      "type": "ENTITY",
+      "start": 9875,
+      "end": 9883
+    },
+    {
+      "text": "report",
+      "type": "ENTITY",
+      "start": 9888,
+      "end": 9894
+    },
+    {
+      "text": "signed",
+      "type": "ENTITY",
+      "start": 9899,
+      "end": 9905
+    },
+    {
+      "text": "electronically",
+      "type": "ENTITY",
+      "start": 9909,
+      "end": 9923
+    }
+  ],
+  "entity_count": 478,
+  "has_embedding": true
+}

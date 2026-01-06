@@ -1,0 +1,1544 @@
+{
+  "filename": "4a7e45ad-6542-44ce-97db-6a54733ad707",
+  "timestamp": "2026-01-05T14:41:54.315660",
+  "entities": [
+    {
+      "text": "Clinical Diagnosis & History",
+      "type": "ENTITY",
+      "start": 42,
+      "end": 70
+    },
+    {
+      "text": "RLQ",
+      "type": "ENTITY",
+      "start": 72,
+      "end": 75
+    },
+    {
+      "text": "tenderness",
+      "type": "ENTITY",
+      "start": 76,
+      "end": 86
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 106,
+      "end": 110
+    },
+    {
+      "text": "hepatic flexure",
+      "type": "ENTITY",
+      "start": 114,
+      "end": 129
+    },
+    {
+      "text": "colon",
+      "type": "ENTITY",
+      "start": 133,
+      "end": 138
+    },
+    {
+      "text": "mass lymphoplasmacytic infiltration",
+      "type": "ENTITY",
+      "start": 143,
+      "end": 178
+    },
+    {
+      "text": "lamina propria",
+      "type": "ENTITY",
+      "start": 182,
+      "end": 196
+    },
+    {
+      "text": "Carcinoma",
+      "type": "ENTITY",
+      "start": 198,
+      "end": 207
+    },
+    {
+      "text": "hepatic flexure",
+      "type": "ENTITY",
+      "start": 211,
+      "end": 226
+    },
+    {
+      "text": "liver mass",
+      "type": "ENTITY",
+      "start": 232,
+      "end": 242
+    },
+    {
+      "text": "Specimens",
+      "type": "ENTITY",
+      "start": 244,
+      "end": 253
+    },
+    {
+      "text": "Lymph node",
+      "type": "ENTITY",
+      "start": 268,
+      "end": 278
+    },
+    {
+      "text": "superior mesentery artery",
+      "type": "ENTITY",
+      "start": 288,
+      "end": 313
+    },
+    {
+      "text": "excision 2",
+      "type": "ENTITY",
+      "start": 315,
+      "end": 325
+    },
+    {
+      "text": "Lymph node",
+      "type": "ENTITY",
+      "start": 327,
+      "end": 337
+    },
+    {
+      "text": "middle colic",
+      "type": "ENTITY",
+      "start": 339,
+      "end": 351
+    },
+    {
+      "text": "excision",
+      "type": "ENTITY",
+      "start": 353,
+      "end": 361
+    },
+    {
+      "text": "Colon",
+      "type": "ENTITY",
+      "start": 366,
+      "end": 371
+    },
+    {
+      "text": "right",
+      "type": "ENTITY",
+      "start": 373,
+      "end": 378
+    },
+    {
+      "text": "hemi-colectomy",
+      "type": "ENTITY",
+      "start": 380,
+      "end": 394
+    },
+    {
+      "text": "DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 395,
+      "end": 404
+    },
+    {
+      "text": "Lymph node",
+      "type": "ENTITY",
+      "start": 409,
+      "end": 419
+    },
+    {
+      "text": "superior mesentery artery",
+      "type": "ENTITY",
+      "start": 429,
+      "end": 454
+    },
+    {
+      "text": "excision",
+      "type": "ENTITY",
+      "start": 456,
+      "end": 464
+    },
+    {
+      "text": "adenocarcinoma",
+      "type": "ENTITY",
+      "start": 503,
+      "end": 517
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 533,
+      "end": 544
+    },
+    {
+      "text": "Lymph node",
+      "type": "ENTITY",
+      "start": 555,
+      "end": 565
+    },
+    {
+      "text": "middle colic",
+      "type": "ENTITY",
+      "start": 567,
+      "end": 579
+    },
+    {
+      "text": "excision",
+      "type": "ENTITY",
+      "start": 581,
+      "end": 589
+    },
+    {
+      "text": "benign lymph node 0/1",
+      "type": "ENTITY",
+      "start": 596,
+      "end": 617
+    },
+    {
+      "text": "Colon",
+      "type": "ENTITY",
+      "start": 623,
+      "end": 628
+    },
+    {
+      "text": "right",
+      "type": "ENTITY",
+      "start": 630,
+      "end": 635
+    },
+    {
+      "text": "hemi-colectomy",
+      "type": "ENTITY",
+      "start": 637,
+      "end": 651
+    },
+    {
+      "text": "Tumor Type",
+      "type": "ENTITY",
+      "start": 654,
+      "end": 664
+    },
+    {
+      "text": "Adenocarcinoma",
+      "type": "ENTITY",
+      "start": 666,
+      "end": 680
+    },
+    {
+      "text": "Histologic Grade",
+      "type": "ENTITY",
+      "start": 681,
+      "end": 697
+    },
+    {
+      "text": "Tumor",
+      "type": "ENTITY",
+      "start": 725,
+      "end": 730
+    },
+    {
+      "text": "Location",
+      "type": "ENTITY",
+      "start": 731,
+      "end": 739
+    },
+    {
+      "text": "Cecum",
+      "type": "ENTITY",
+      "start": 741,
+      "end": 746
+    },
+    {
+      "text": "Tumor Size",
+      "type": "ENTITY",
+      "start": 747,
+      "end": 757
+    },
+    {
+      "text": "Length",
+      "type": "ENTITY",
+      "start": 759,
+      "end": 765
+    },
+    {
+      "text": "Width",
+      "type": "ENTITY",
+      "start": 774,
+      "end": 779
+    },
+    {
+      "text": "Maximal",
+      "type": "ENTITY",
+      "start": 788,
+      "end": 795
+    },
+    {
+      "text": "thickness",
+      "type": "ENTITY",
+      "start": 796,
+      "end": 805
+    },
+    {
+      "text": "Tumor Budding",
+      "type": "ENTITY",
+      "start": 817,
+      "end": 830
+    },
+    {
+      "text": "Increased",
+      "type": "ENTITY",
+      "start": 842,
+      "end": 851
+    },
+    {
+      "text": "Tumor Infiltrating",
+      "type": "ENTITY",
+      "start": 852,
+      "end": 870
+    },
+    {
+      "text": "Lymphocytes",
+      "type": "ENTITY",
+      "start": 871,
+      "end": 882
+    },
+    {
+      "text": "Absent Precursor Lesions",
+      "type": "ENTITY",
+      "start": 885,
+      "end": 909
+    },
+    {
+      "text": "Tumor Invasion",
+      "type": "ENTITY",
+      "start": 934,
+      "end": 948
+    },
+    {
+      "text": "Subserosal",
+      "type": "ENTITY",
+      "start": 951,
+      "end": 961
+    },
+    {
+      "text": "adipose tissue",
+      "type": "ENTITY",
+      "start": 962,
+      "end": 976
+    },
+    {
+      "text": "mesenteric fat Gross Tumor Perforation",
+      "type": "ENTITY",
+      "start": 984,
+      "end": 1022
+    },
+    {
+      "text": "**",
+      "type": "ENTITY",
+      "start": 1024,
+      "end": 1026
+    },
+    {
+      "text": "Lymphovascular Invasion",
+      "type": "ENTITY",
+      "start": 1096,
+      "end": 1119
+    },
+    {
+      "text": "Identified",
+      "type": "ENTITY",
+      "start": 1121,
+      "end": 1131
+    },
+    {
+      "text": "Venous Invasion",
+      "type": "ENTITY",
+      "start": 1138,
+      "end": 1153
+    },
+    {
+      "text": "Perineural Invasion",
+      "type": "ENTITY",
+      "start": 1171,
+      "end": 1190
+    },
+    {
+      "text": "Identified Surgical Margins",
+      "type": "ENTITY",
+      "start": 1192,
+      "end": 1219
+    },
+    {
+      "text": "Free of",
+      "type": "ENTITY",
+      "start": 1221,
+      "end": 1228
+    },
+    {
+      "text": "Dysplasia",
+      "type": "ENTITY",
+      "start": 1249,
+      "end": 1258
+    },
+    {
+      "text": "carcinoma",
+      "type": "ENTITY",
+      "start": 1274,
+      "end": 1283
+    },
+    {
+      "text": "Non-Neoplastic Bowel",
+      "type": "ENTITY",
+      "start": 1301,
+      "end": 1321
+    },
+    {
+      "text": "Unremarkable Appendix",
+      "type": "ENTITY",
+      "start": 1323,
+      "end": 1344
+    },
+    {
+      "text": "Lymph Nodes",
+      "type": "ENTITY",
+      "start": 1363,
+      "end": 1374
+    },
+    {
+      "text": "Number",
+      "type": "ENTITY",
+      "start": 1376,
+      "end": 1382
+    },
+    {
+      "text": "metastasis",
+      "type": "ENTITY",
+      "start": 1388,
+      "end": 1398
+    },
+    {
+      "text": "Tumor deposits",
+      "type": "ENTITY",
+      "start": 1429,
+      "end": 1443
+    },
+    {
+      "text": "pericolorectal",
+      "type": "ENTITY",
+      "start": 1447,
+      "end": 1461
+    },
+    {
+      "text": "soft tissue",
+      "type": "ENTITY",
+      "start": 1462,
+      "end": 1473
+    },
+    {
+      "text": "Identified",
+      "type": "ENTITY",
+      "start": 1475,
+      "end": 1485
+    },
+    {
+      "text": "Identified",
+      "type": "ENTITY",
+      "start": 1486,
+      "end": 1496
+    },
+    {
+      "text": "Tumor Staging",
+      "type": "ENTITY",
+      "start": 1508,
+      "end": 1521
+    },
+    {
+      "text": "AJcc",
+      "type": "ENTITY",
+      "start": 1523,
+      "end": 1527
+    },
+    {
+      "text": "pT3",
+      "type": "ENTITY",
+      "start": 1542,
+      "end": 1545
+    },
+    {
+      "text": "Tumor",
+      "type": "ENTITY",
+      "start": 1547,
+      "end": 1552
+    },
+    {
+      "text": "muscularis propria",
+      "type": "ENTITY",
+      "start": 1573,
+      "end": 1591
+    },
+    {
+      "text": "pericolorectal tissues",
+      "type": "ENTITY",
+      "start": 1597,
+      "end": 1619
+    },
+    {
+      "text": "Lymph Node Stage",
+      "type": "ENTITY",
+      "start": 1621,
+      "end": 1637
+    },
+    {
+      "text": "AJcc",
+      "type": "ENTITY",
+      "start": 1639,
+      "end": 1643
+    },
+    {
+      "text": "N2b",
+      "type": "ENTITY",
+      "start": 1658,
+      "end": 1661
+    },
+    {
+      "text": "Metastasis",
+      "type": "ENTITY",
+      "start": 1663,
+      "end": 1673
+    },
+    {
+      "text": "regional",
+      "type": "ENTITY",
+      "start": 1691,
+      "end": 1699
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 1700,
+      "end": 1711
+    },
+    {
+      "text": "Results",
+      "type": "ENTITY",
+      "start": 1719,
+      "end": 1726
+    },
+    {
+      "text": "immunohistochemical staining",
+      "type": "ENTITY",
+      "start": 1730,
+      "end": 1758
+    },
+    {
+      "text": "DNA mismatch repair",
+      "type": "ENTITY",
+      "start": 1763,
+      "end": 1782
+    },
+    {
+      "text": "proteins",
+      "type": "ENTITY",
+      "start": 1784,
+      "end": 1792
+    },
+    {
+      "text": "MLHl",
+      "type": "ENTITY",
+      "start": 1810,
+      "end": 1814
+    },
+    {
+      "text": "Staining",
+      "type": "ENTITY",
+      "start": 1816,
+      "end": 1824
+    },
+    {
+      "text": "tumor MSH2",
+      "type": "ENTITY",
+      "start": 1836,
+      "end": 1846
+    },
+    {
+      "text": "Staining",
+      "type": "ENTITY",
+      "start": 1848,
+      "end": 1856
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1868,
+      "end": 1873
+    },
+    {
+      "text": "MSH6",
+      "type": "ENTITY",
+      "start": 1874,
+      "end": 1878
+    },
+    {
+      "text": "Staining",
+      "type": "ENTITY",
+      "start": 1880,
+      "end": 1888
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1900,
+      "end": 1905
+    },
+    {
+      "text": "PMS2",
+      "type": "ENTITY",
+      "start": 1906,
+      "end": 1910
+    },
+    {
+      "text": "Staining",
+      "type": "ENTITY",
+      "start": 1912,
+      "end": 1920
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1932,
+      "end": 1937
+    },
+    {
+      "text": "Immunohistochemical staining",
+      "type": "ENTITY",
+      "start": 1949,
+      "end": 1977
+    },
+    {
+      "text": "tested",
+      "type": "ENTITY",
+      "start": 1986,
+      "end": 1992
+    },
+    {
+      "text": "DNA mismatch repair proteins",
+      "type": "ENTITY",
+      "start": 1993,
+      "end": 2021
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 2041,
+      "end": 2046
+    },
+    {
+      "text": "immunohistochemistry",
+      "type": "ENTITY",
+      "start": 2060,
+      "end": 2080
+    },
+    {
+      "text": "Ish tests",
+      "type": "ENTITY",
+      "start": 2085,
+      "end": 2094
+    },
+    {
+      "text": "performance",
+      "type": "ENTITY",
+      "start": 2120,
+      "end": 2131
+    },
+    {
+      "text": "characteristics",
+      "type": "ENTITY",
+      "start": 2132,
+      "end": 2147
+    },
+    {
+      "text": "Department of Pathology",
+      "type": "ENTITY",
+      "start": 2171,
+      "end": 2194
+    },
+    {
+      "text": "Administration",
+      "type": "ENTITY",
+      "start": 2197,
+      "end": 2211
+    },
+    {
+      "text": "FDA",
+      "type": "ENTITY",
+      "start": 2217,
+      "end": 2220
+    },
+    {
+      "text": "clearance",
+      "type": "ENTITY",
+      "start": 2246,
+      "end": 2255
+    },
+    {
+      "text": "approval",
+      "type": "ENTITY",
+      "start": 2259,
+      "end": 2267
+    },
+    {
+      "text": "tests",
+      "type": "ENTITY",
+      "start": 2293,
+      "end": 2298
+    },
+    {
+      "text": "clinical purposes",
+      "type": "ENTITY",
+      "start": 2312,
+      "end": 2329
+    },
+    {
+      "text": "investigational",
+      "type": "ENTITY",
+      "start": 2363,
+      "end": 2378
+    },
+    {
+      "text": "research",
+      "type": "ENTITY",
+      "start": 2386,
+      "end": 2394
+    },
+    {
+      "text": "laboratory",
+      "type": "ENTITY",
+      "start": 2401,
+      "end": 2411
+    },
+    {
+      "text": "Clinical Laboratory Improvement Amendments of",
+      "type": "ENTITY",
+      "start": 2435,
+      "end": 2480
+    },
+    {
+      "text": "CLIA",
+      "type": "ENTITY",
+      "start": 2482,
+      "end": 2486
+    },
+    {
+      "text": "qualified",
+      "type": "ENTITY",
+      "start": 2490,
+      "end": 2499
+    },
+    {
+      "text": "clinical",
+      "type": "ENTITY",
+      "start": 2527,
+      "end": 2535
+    },
+    {
+      "text": "laboratory testing",
+      "type": "ENTITY",
+      "start": 2536,
+      "end": 2554
+    },
+    {
+      "text": "ATTEST",
+      "type": "ENTITY",
+      "start": 2558,
+      "end": 2564
+    },
+    {
+      "text": "ABOVE DIAGNOSIS IS",
+      "type": "ENTITY",
+      "start": 2574,
+      "end": 2592
+    },
+    {
+      "text": "OFS",
+      "type": "ENTITY",
+      "start": 2628,
+      "end": 2631
+    },
+    {
+      "text": "SLIDES",
+      "type": "ENTITY",
+      "start": 2636,
+      "end": 2642
+    },
+    {
+      "text": "THAT I",
+      "type": "ENTITY",
+      "start": 2672,
+      "end": 2678
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 2806,
+      "end": 2814
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 2827,
+      "end": 2832
+    },
+    {
+      "text": "frozen section",
+      "type": "ENTITY",
+      "start": 2837,
+      "end": 2851
+    },
+    {
+      "text": "mesenteric artery lymph node",
+      "type": "ENTITY",
+      "start": 2878,
+      "end": 2906
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 2916,
+      "end": 2927
+    },
+    {
+      "text": "measure",
+      "type": "ENTITY",
+      "start": 2933,
+      "end": 2940
+    },
+    {
+      "text": "dimension",
+      "type": "ENTITY",
+      "start": 2958,
+      "end": 2967
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 2973,
+      "end": 2984
+    },
+    {
+      "text": "frozen section",
+      "type": "ENTITY",
+      "start": 3012,
+      "end": 3026
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 3039,
+      "end": 3047
+    },
+    {
+      "text": "FSc-frozen section control 2",
+      "type": "ENTITY",
+      "start": 3049,
+      "end": 3077
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 3083,
+      "end": 3091
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 3104,
+      "end": 3109
+    },
+    {
+      "text": "frozen section",
+      "type": "ENTITY",
+      "start": 3114,
+      "end": 3128
+    },
+    {
+      "text": "middle colic lymph node",
+      "type": "ENTITY",
+      "start": 3138,
+      "end": 3161
+    },
+    {
+      "text": "lymph node",
+      "type": "ENTITY",
+      "start": 3175,
+      "end": 3185
+    },
+    {
+      "text": "lymph node",
+      "type": "ENTITY",
+      "start": 3191,
+      "end": 3201
+    },
+    {
+      "text": "bisected",
+      "type": "ENTITY",
+      "start": 3205,
+      "end": 3213
+    },
+    {
+      "text": "frozen section",
+      "type": "ENTITY",
+      "start": 3242,
+      "end": 3256
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 3269,
+      "end": 3277
+    },
+    {
+      "text": "FSC-frozen",
+      "type": "ENTITY",
+      "start": 3279,
+      "end": 3289
+    },
+    {
+      "text": "section control",
+      "type": "ENTITY",
+      "start": 3292,
+      "end": 3307
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 3316,
+      "end": 3324
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 3337,
+      "end": 3342
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 3344,
+      "end": 3351
+    },
+    {
+      "text": "segment",
+      "type": "ENTITY",
+      "start": 3394,
+      "end": 3401
+    },
+    {
+      "text": "terminal",
+      "type": "ENTITY",
+      "start": 3405,
+      "end": 3413
+    },
+    {
+      "text": "ileum",
+      "type": "ENTITY",
+      "start": 3414,
+      "end": 3419
+    },
+    {
+      "text": "cecum",
+      "type": "ENTITY",
+      "start": 3421,
+      "end": 3426
+    },
+    {
+      "text": "ascending colon",
+      "type": "ENTITY",
+      "start": 3431,
+      "end": 3446
+    },
+    {
+      "text": "terminal",
+      "type": "ENTITY",
+      "start": 3452,
+      "end": 3460
+    },
+    {
+      "text": "ileum",
+      "type": "ENTITY",
+      "start": 3461,
+      "end": 3466
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 3467,
+      "end": 3475
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 3485,
+      "end": 3491
+    },
+    {
+      "text": "circumference",
+      "type": "ENTITY",
+      "start": 3504,
+      "end": 3517
+    },
+    {
+      "text": "proximal",
+      "type": "ENTITY",
+      "start": 3526,
+      "end": 3534
+    },
+    {
+      "text": "colon",
+      "type": "ENTITY",
+      "start": 3566,
+      "end": 3571
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 3572,
+      "end": 3580
+    },
+    {
+      "text": "length with",
+      "type": "ENTITY",
+      "start": 3587,
+      "end": 3598
+    },
+    {
+      "text": "circumference",
+      "type": "ENTITY",
+      "start": 3601,
+      "end": 3614
+    },
+    {
+      "text": "distal",
+      "type": "ENTITY",
+      "start": 3630,
+      "end": 3636
+    },
+    {
+      "text": "appendix",
+      "type": "ENTITY",
+      "start": 3658,
+      "end": 3666
+    },
+    {
+      "text": "intestinal serosa",
+      "type": "ENTITY",
+      "start": 3687,
+      "end": 3704
+    },
+    {
+      "text": "pink tan",
+      "type": "ENTITY",
+      "start": 3708,
+      "end": 3716
+    },
+    {
+      "text": "smooth",
+      "type": "ENTITY",
+      "start": 3721,
+      "end": 3727
+    },
+    {
+      "text": "Focally hemorrhagic lobulated yellow tan adipose",
+      "type": "ENTITY",
+      "start": 3730,
+      "end": 3778
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 3787,
+      "end": 3796
+    },
+    {
+      "text": "thickness",
+      "type": "ENTITY",
+      "start": 3811,
+      "end": 3820
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 3826,
+      "end": 3834
+    },
+    {
+      "text": "circumferential mass lesion",
+      "type": "ENTITY",
+      "start": 3857,
+      "end": 3884
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 3885,
+      "end": 3894
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 3903,
+      "end": 3909
+    },
+    {
+      "text": "width",
+      "type": "ENTITY",
+      "start": 3922,
+      "end": 3927
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 3933,
+      "end": 3937
+    },
+    {
+      "text": "cecum",
+      "type": "ENTITY",
+      "start": 3956,
+      "end": 3961
+    },
+    {
+      "text": "proximal",
+      "type": "ENTITY",
+      "start": 3979,
+      "end": 3987
+    },
+    {
+      "text": "distal margin",
+      "type": "ENTITY",
+      "start": 4014,
+      "end": 4027
+    },
+    {
+      "text": "Sectioning",
+      "type": "ENTITY",
+      "start": 4029,
+      "end": 4039
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 4055,
+      "end": 4060
+    },
+    {
+      "text": "invades",
+      "type": "ENTITY",
+      "start": 4061,
+      "end": 4068
+    },
+    {
+      "text": "fat",
+      "type": "ENTITY",
+      "start": 4073,
+      "end": 4076
+    },
+    {
+      "text": "depth",
+      "type": "ENTITY",
+      "start": 4082,
+      "end": 4087
+    },
+    {
+      "text": "invasion",
+      "type": "ENTITY",
+      "start": 4091,
+      "end": 4099
+    },
+    {
+      "text": "grossly",
+      "type": "ENTITY",
+      "start": 4110,
+      "end": 4117
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 4140,
+      "end": 4144
+    },
+    {
+      "text": "conglomerate",
+      "type": "ENTITY",
+      "start": 4166,
+      "end": 4178
+    },
+    {
+      "text": "nodules",
+      "type": "ENTITY",
+      "start": 4187,
+      "end": 4194
+    },
+    {
+      "text": "yellow/white cut surface",
+      "type": "ENTITY",
+      "start": 4200,
+      "end": 4224
+    },
+    {
+      "text": "distance",
+      "type": "ENTITY",
+      "start": 4226,
+      "end": 4234
+    },
+    {
+      "text": "tumor surface",
+      "type": "ENTITY",
+      "start": 4241,
+      "end": 4254
+    },
+    {
+      "text": "conglomerate",
+      "type": "ENTITY",
+      "start": 4285,
+      "end": 4297
+    },
+    {
+      "text": "mucosa",
+      "type": "ENTITY",
+      "start": 4325,
+      "end": 4331
+    },
+    {
+      "text": "unremarkable",
+      "type": "ENTITY",
+      "start": 4335,
+      "end": 4347
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 4353,
+      "end": 4361
+    },
+    {
+      "text": "lymph node dissection",
+      "type": "ENTITY",
+      "start": 4379,
+      "end": 4400
+    },
+    {
+      "text": "adipose tissue",
+      "type": "ENTITY",
+      "start": 4416,
+      "end": 4430
+    },
+    {
+      "text": "examined",
+      "type": "ENTITY",
+      "start": 4445,
+      "end": 4453
+    },
+    {
+      "text": "identified",
+      "type": "ENTITY",
+      "start": 4462,
+      "end": 4472
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 4473,
+      "end": 4484
+    },
+    {
+      "text": "Representative sections",
+      "type": "ENTITY",
+      "start": 4500,
+      "end": 4523
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 4532,
+      "end": 4540
+    },
+    {
+      "text": "permanent",
+      "type": "ENTITY",
+      "start": 4559,
+      "end": 4568
+    },
+    {
+      "text": "Tps",
+      "type": "ENTITY",
+      "start": 4586,
+      "end": 4589
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 4603,
+      "end": 4611
+    },
+    {
+      "text": "T",
+      "type": "ENTITY",
+      "start": 4658,
+      "end": 4659
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 4662,
+      "end": 4667
+    },
+    {
+      "text": "RS",
+      "type": "ENTITY",
+      "start": 4668,
+      "end": 4670
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 4687,
+      "end": 4695
+    },
+    {
+      "text": "LN",
+      "type": "ENTITY",
+      "start": 4696,
+      "end": 4698
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 4701,
+      "end": 4712
+    },
+    {
+      "text": "BLN",
+      "type": "ENTITY",
+      "start": 4713,
+      "end": 4716
+    },
+    {
+      "text": "bisected",
+      "type": "ENTITY",
+      "start": 4719,
+      "end": 4727
+    },
+    {
+      "text": "lymph nodes C",
+      "type": "ENTITY",
+      "start": 4728,
+      "end": 4741
+    },
+    {
+      "text": "conglomerate",
+      "type": "ENTITY",
+      "start": 4744,
+      "end": 4756
+    },
+    {
+      "text": "nodes",
+      "type": "ENTITY",
+      "start": 4762,
+      "end": 4767
+    },
+    {
+      "text": "representative",
+      "type": "ENTITY",
+      "start": 4769,
+      "end": 4783
+    },
+    {
+      "text": "section",
+      "type": "ENTITY",
+      "start": 4784,
+      "end": 4791
+    },
+    {
+      "text": "Sections",
+      "type": "ENTITY",
+      "start": 4861,
+      "end": 4869
+    },
+    {
+      "text": "superior artery",
+      "type": "ENTITY",
+      "start": 4901,
+      "end": 4916
+    },
+    {
+      "text": "Block Sect",
+      "type": "ENTITY",
+      "start": 4918,
+      "end": 4928
+    },
+    {
+      "text": "Lymph node",
+      "type": "ENTITY",
+      "start": 4955,
+      "end": 4965
+    },
+    {
+      "text": "middle colic",
+      "type": "ENTITY",
+      "start": 4967,
+      "end": 4979
+    },
+    {
+      "text": "excision Block Sect",
+      "type": "ENTITY",
+      "start": 4981,
+      "end": 5000
+    },
+    {
+      "text": "PCs",
+      "type": "ENTITY",
+      "start": 5007,
+      "end": 5010
+    },
+    {
+      "text": "Colon",
+      "type": "ENTITY",
+      "start": 5025,
+      "end": 5030
+    },
+    {
+      "text": "right",
+      "type": "ENTITY",
+      "start": 5032,
+      "end": 5037
+    },
+    {
+      "text": "hemi-colectomy Block Sect",
+      "type": "ENTITY",
+      "start": 5039,
+      "end": 5064
+    },
+    {
+      "text": "PCs",
+      "type": "ENTITY",
+      "start": 5072,
+      "end": 5075
+    },
+    {
+      "text": "LN",
+      "type": "ENTITY",
+      "start": 5095,
+      "end": 5097
+    },
+    {
+      "text": "RS",
+      "type": "ENTITY",
+      "start": 5107,
+      "end": 5109
+    },
+    {
+      "text": "Intraoperative Consultation",
+      "type": "ENTITY",
+      "start": 5110,
+      "end": 5137
+    },
+    {
+      "text": "diagnoses",
+      "type": "ENTITY",
+      "start": 5149,
+      "end": 5158
+    },
+    {
+      "text": "section",
+      "type": "ENTITY",
+      "start": 5173,
+      "end": 5180
+    },
+    {
+      "text": "tissue",
+      "type": "ENTITY",
+      "start": 5201,
+      "end": 5207
+    },
+    {
+      "text": "time",
+      "type": "ENTITY",
+      "start": 5231,
+      "end": 5235
+    },
+    {
+      "text": "intraoperative consultation",
+      "type": "ENTITY",
+      "start": 5243,
+      "end": 5270
+    },
+    {
+      "text": "Frozen Section",
+      "type": "ENTITY",
+      "start": 5272,
+      "end": 5286
+    },
+    {
+      "text": "Diagnosis",
+      "type": "ENTITY",
+      "start": 5287,
+      "end": 5296
+    },
+    {
+      "text": "Base",
+      "type": "ENTITY",
+      "start": 5298,
+      "end": 5302
+    },
+    {
+      "text": "superior artery lymph node Positive",
+      "type": "ENTITY",
+      "start": 5306,
+      "end": 5341
+    },
+    {
+      "text": "metastatic adenocarcinoma",
+      "type": "ENTITY",
+      "start": 5346,
+      "end": 5371
+    },
+    {
+      "text": "Permanent Diagnosis",
+      "type": "ENTITY",
+      "start": 5373,
+      "end": 5392
+    },
+    {
+      "text": "SAME 2",
+      "type": "ENTITY",
+      "start": 5394,
+      "end": 5400
+    },
+    {
+      "text": "Frozen Section",
+      "type": "ENTITY",
+      "start": 5402,
+      "end": 5416
+    },
+    {
+      "text": "Diagnosis",
+      "type": "ENTITY",
+      "start": 5417,
+      "end": 5426
+    },
+    {
+      "text": "Middle colic lymph node Benign",
+      "type": "ENTITY",
+      "start": 5428,
+      "end": 5458
+    },
+    {
+      "text": "Permanent Diagnosis",
+      "type": "ENTITY",
+      "start": 5460,
+      "end": 5479
+    },
+    {
+      "text": "SAME",
+      "type": "ENTITY",
+      "start": 5481,
+      "end": 5485
+    }
+  ],
+  "entity_count": 256,
+  "has_embedding": true
+}

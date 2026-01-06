@@ -1,0 +1,506 @@
+{
+  "filename": "27bca6d5-1913-49e2-b1d7-a856419faae6",
+  "timestamp": "2026-01-05T14:41:31.741962",
+  "entities": [
+    {
+      "text": "DOB",
+      "type": "ENTITY",
+      "start": 46,
+      "end": 49
+    },
+    {
+      "text": "Sex",
+      "type": "ENTITY",
+      "start": 51,
+      "end": 54
+    },
+    {
+      "text": "Physician",
+      "type": "ENTITY",
+      "start": 59,
+      "end": 68
+    },
+    {
+      "text": "Pathologist",
+      "type": "ENTITY",
+      "start": 80,
+      "end": 91
+    },
+    {
+      "text": "Accession",
+      "type": "ENTITY",
+      "start": 93,
+      "end": 102
+    },
+    {
+      "text": "Case type",
+      "type": "ENTITY",
+      "start": 104,
+      "end": 113
+    },
+    {
+      "text": "Surgical History **",
+      "type": "ENTITY",
+      "start": 115,
+      "end": 134
+    },
+    {
+      "text": "cases",
+      "type": "ENTITY",
+      "start": 139,
+      "end": 144
+    },
+    {
+      "text": "section",
+      "type": "ENTITY",
+      "start": 159,
+      "end": 166
+    },
+    {
+      "text": "**",
+      "type": "ENTITY",
+      "start": 199,
+      "end": 201
+    },
+    {
+      "text": "Suppi",
+      "type": "ENTITY",
+      "start": 202,
+      "end": 207
+    },
+    {
+      "text": "FmentaL",
+      "type": "ENTITY",
+      "start": 208,
+      "end": 215
+    },
+    {
+      "text": "SUPPLEMENTAL REPORT DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 223,
+      "end": 252
+    },
+    {
+      "text": "THYROID",
+      "type": "ENTITY",
+      "start": 382,
+      "end": 389
+    },
+    {
+      "text": "PRELARYNGEAL",
+      "type": "ENTITY",
+      "start": 405,
+      "end": 417
+    },
+    {
+      "text": "Soft tissue",
+      "type": "ENTITY",
+      "start": 418,
+      "end": 429
+    },
+    {
+      "text": "comment",
+      "type": "ENTITY",
+      "start": 445,
+      "end": 452
+    },
+    {
+      "text": "results",
+      "type": "ENTITY",
+      "start": 507,
+      "end": 514
+    },
+    {
+      "text": "section",
+      "type": "ENTITY",
+      "start": 518,
+      "end": 525
+    },
+    {
+      "text": "decalcification",
+      "type": "ENTITY",
+      "start": 541,
+      "end": 556
+    },
+    {
+      "text": "report",
+      "type": "ENTITY",
+      "start": 563,
+      "end": 569
+    },
+    {
+      "text": "diagnosis",
+      "type": "ENTITY",
+      "start": 608,
+      "end": 617
+    },
+    {
+      "text": "DIAGNOSIS A",
+      "type": "ENTITY",
+      "start": 619,
+      "end": 630
+    },
+    {
+      "text": "mOderATeLy DifFEREnTIaTed SqUAMoUs",
+      "type": "ENTITY",
+      "start": 663,
+      "end": 697
+    },
+    {
+      "text": "CEll CArcInOMA",
+      "type": "ENTITY",
+      "start": 698,
+      "end": 712
+    },
+    {
+      "text": "INVASIVE MODERATELY",
+      "type": "ENTITY",
+      "start": 742,
+      "end": 761
+    },
+    {
+      "text": "SQUAMOUS CELL",
+      "type": "ENTITY",
+      "start": 777,
+      "end": 790
+    },
+    {
+      "text": "COMMISSURE",
+      "type": "ENTITY",
+      "start": 820,
+      "end": 830
+    },
+    {
+      "text": "RIGHT",
+      "type": "ENTITY",
+      "start": 832,
+      "end": 837
+    },
+    {
+      "text": "LEFT TRUE",
+      "type": "ENTITY",
+      "start": 842,
+      "end": 851
+    },
+    {
+      "text": "VOCAL CORDS",
+      "type": "ENTITY",
+      "start": 862,
+      "end": 873
+    },
+    {
+      "text": "THYROID CARTILAGE",
+      "type": "ENTITY",
+      "start": 891,
+      "end": 908
+    },
+    {
+      "text": "EXTENSION",
+      "type": "ENTITY",
+      "start": 913,
+      "end": 922
+    },
+    {
+      "text": "PRE-LARYNGEAL",
+      "type": "ENTITY",
+      "start": 928,
+      "end": 941
+    },
+    {
+      "text": "extension",
+      "type": "ENTITY",
+      "start": 969,
+      "end": 978
+    },
+    {
+      "text": "See COmmEnT) Tracheal",
+      "type": "ENTITY",
+      "start": 981,
+      "end": 1002
+    },
+    {
+      "text": "mucosal",
+      "type": "ENTITY",
+      "start": 1004,
+      "end": 1011
+    },
+    {
+      "text": "anterior",
+      "type": "ENTITY",
+      "start": 1016,
+      "end": 1024
+    },
+    {
+      "text": "soft tissue margins",
+      "type": "ENTITY",
+      "start": 1025,
+      "end": 1044
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1049,
+      "end": 1054
+    },
+    {
+      "text": "Right",
+      "type": "ENTITY",
+      "start": 1064,
+      "end": 1069
+    },
+    {
+      "text": "left aryepiglottic",
+      "type": "ENTITY",
+      "start": 1074,
+      "end": 1092
+    },
+    {
+      "text": "folds",
+      "type": "ENTITY",
+      "start": 1093,
+      "end": 1098
+    },
+    {
+      "text": "pyriform sinuses",
+      "type": "ENTITY",
+      "start": 1100,
+      "end": 1116
+    },
+    {
+      "text": "epiglottis",
+      "type": "ENTITY",
+      "start": 1122,
+      "end": 1132
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1138,
+      "end": 1143
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 1160,
+      "end": 1171
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1176,
+      "end": 1181
+    },
+    {
+      "text": "Right neck dissection",
+      "type": "ENTITY",
+      "start": 1192,
+      "end": 1213
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 1219,
+      "end": 1230
+    },
+    {
+      "text": "subdigastric",
+      "type": "ENTITY",
+      "start": 1254,
+      "end": 1266
+    },
+    {
+      "text": "Left neck dissection",
+      "type": "ENTITY",
+      "start": 1269,
+      "end": 1289
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 1297,
+      "end": 1308
+    },
+    {
+      "text": "subdigastric",
+      "type": "ENTITY",
+      "start": 1333,
+      "end": 1345
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 1352,
+      "end": 1363
+    },
+    {
+      "text": "anterior midline",
+      "type": "ENTITY",
+      "start": 1364,
+      "end": 1380
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1385,
+      "end": 1390
+    },
+    {
+      "text": "Lymphocytic thyroiditis",
+      "type": "ENTITY",
+      "start": 1400,
+      "end": 1423
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1452,
+      "end": 1457
+    },
+    {
+      "text": "Sections",
+      "type": "ENTITY",
+      "start": 1468,
+      "end": 1476
+    },
+    {
+      "text": "decalcification",
+      "type": "ENTITY",
+      "start": 1493,
+      "end": 1508
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1557,
+      "end": 1562
+    },
+    {
+      "text": "anterior",
+      "type": "ENTITY",
+      "start": 1608,
+      "end": 1616
+    },
+    {
+      "text": "commissure",
+      "type": "ENTITY",
+      "start": 1618,
+      "end": 1628
+    },
+    {
+      "text": "extension",
+      "type": "ENTITY",
+      "start": 1634,
+      "end": 1643
+    },
+    {
+      "text": "thyroid cartilage",
+      "type": "ENTITY",
+      "start": 1657,
+      "end": 1674
+    },
+    {
+      "text": "anterior",
+      "type": "ENTITY",
+      "start": 1684,
+      "end": 1692
+    },
+    {
+      "text": "soft tissues",
+      "type": "ENTITY",
+      "start": 1693,
+      "end": 1705
+    },
+    {
+      "text": "submucosal",
+      "type": "ENTITY",
+      "start": 1725,
+      "end": 1735
+    },
+    {
+      "text": "extension",
+      "type": "ENTITY",
+      "start": 1736,
+      "end": 1745
+    },
+    {
+      "text": "right",
+      "type": "ENTITY",
+      "start": 1755,
+      "end": 1760
+    },
+    {
+      "text": "left true",
+      "type": "ENTITY",
+      "start": 1765,
+      "end": 1774
+    },
+    {
+      "text": "false",
+      "type": "ENTITY",
+      "start": 1779,
+      "end": 1784
+    },
+    {
+      "text": "vocal cords",
+      "type": "ENTITY",
+      "start": 1785,
+      "end": 1796
+    },
+    {
+      "text": "Pathology\n\n--- Page 2 ---\nHistory Case Pathology Report",
+      "type": "ENTITY",
+      "start": 1876,
+      "end": 1931
+    },
+    {
+      "text": "DOb",
+      "type": "ENTITY",
+      "start": 1933,
+      "end": 1936
+    },
+    {
+      "text": "Sex",
+      "type": "ENTITY",
+      "start": 1938,
+      "end": 1941
+    },
+    {
+      "text": "Physician",
+      "type": "ENTITY",
+      "start": 1945,
+      "end": 1954
+    },
+    {
+      "text": "Pathologist",
+      "type": "ENTITY",
+      "start": 1956,
+      "end": 1967
+    },
+    {
+      "text": "Case type",
+      "type": "ENTITY",
+      "start": 1981,
+      "end": 1990
+    },
+    {
+      "text": "Surgical Historye SPECIMEN",
+      "type": "ENTITY",
+      "start": 1992,
+      "end": 2018
+    },
+    {
+      "text": "SNOMED CODES",
+      "type": "ENTITY",
+      "start": 2072,
+      "end": 2084
+    },
+    {
+      "text": "Pathology",
+      "type": "ENTITY",
+      "start": 2178,
+      "end": 2187
+    }
+  ],
+  "entity_count": 83,
+  "has_embedding": true
+}

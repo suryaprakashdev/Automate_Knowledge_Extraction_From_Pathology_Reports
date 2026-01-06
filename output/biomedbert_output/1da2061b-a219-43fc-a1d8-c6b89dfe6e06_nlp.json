@@ -1,0 +1,584 @@
+{
+  "filename": "1da2061b-a219-43fc-a1d8-c6b89dfe6e06",
+  "timestamp": "2026-01-05T14:44:13.484426",
+  "entities": [
+    {
+      "text": "TCGA-E9-A54X-01A-PR",
+      "type": "ENTITY",
+      "start": 58,
+      "end": 77
+    },
+    {
+      "text": "Redacted Gross Description",
+      "type": "ENTITY",
+      "start": 78,
+      "end": 104
+    },
+    {
+      "text": "fragment",
+      "type": "ENTITY",
+      "start": 117,
+      "end": 125
+    },
+    {
+      "text": "breast tissue",
+      "type": "ENTITY",
+      "start": 133,
+      "end": 146
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 154,
+      "end": 159
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 178,
+      "end": 186
+    },
+    {
+      "text": "breast tissue",
+      "type": "ENTITY",
+      "start": 207,
+      "end": 220
+    },
+    {
+      "text": "isolated",
+      "type": "ENTITY",
+      "start": 237,
+      "end": 245
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 246,
+      "end": 257
+    },
+    {
+      "text": "Microscopic Description",
+      "type": "ENTITY",
+      "start": 259,
+      "end": 282
+    },
+    {
+      "text": "Mucinous carcinoma",
+      "type": "ENTITY",
+      "start": 284,
+      "end": 302
+    },
+    {
+      "text": "breast",
+      "type": "ENTITY",
+      "start": 310,
+      "end": 316
+    },
+    {
+      "text": "G-2",
+      "type": "ENTITY",
+      "start": 318,
+      "end": 321
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 336,
+      "end": 347
+    },
+    {
+      "text": "sinus histiocytosis",
+      "type": "ENTITY",
+      "start": 361,
+      "end": 380
+    },
+    {
+      "text": "IHC-stainings",
+      "type": "ENTITY",
+      "start": 382,
+      "end": 395
+    },
+    {
+      "text": "Estrogen receptor",
+      "type": "ENTITY",
+      "start": 397,
+      "end": 414
+    },
+    {
+      "text": "positive",
+      "type": "ENTITY",
+      "start": 417,
+      "end": 425
+    },
+    {
+      "text": "reaction",
+      "type": "ENTITY",
+      "start": 426,
+      "end": 434
+    },
+    {
+      "text": "Progesterone receptor",
+      "type": "ENTITY",
+      "start": 443,
+      "end": 464
+    },
+    {
+      "text": "positive",
+      "type": "ENTITY",
+      "start": 467,
+      "end": 475
+    },
+    {
+      "text": "reaction",
+      "type": "ENTITY",
+      "start": 476,
+      "end": 484
+    },
+    {
+      "text": "Her-2/neu",
+      "type": "ENTITY",
+      "start": 493,
+      "end": 502
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 505,
+      "end": 513
+    },
+    {
+      "text": "reaction",
+      "type": "ENTITY",
+      "start": 514,
+      "end": 522
+    },
+    {
+      "text": "Ki67",
+      "type": "ENTITY",
+      "start": 524,
+      "end": 528
+    },
+    {
+      "text": "Diagnosis",
+      "type": "ENTITY",
+      "start": 536,
+      "end": 545
+    },
+    {
+      "text": "Tumor Features",
+      "type": "ENTITY",
+      "start": 555,
+      "end": 569
+    },
+    {
+      "text": "Indeterminate",
+      "type": "ENTITY",
+      "start": 571,
+      "end": 584
+    },
+    {
+      "text": "Tumor Extent",
+      "type": "ENTITY",
+      "start": 586,
+      "end": 598
+    },
+    {
+      "text": "T1 tumor size 2",
+      "type": "ENTITY",
+      "start": 600,
+      "end": 615
+    },
+    {
+      "text": "Venous Invasion",
+      "type": "ENTITY",
+      "start": 628,
+      "end": 643
+    },
+    {
+      "text": "Absent",
+      "type": "ENTITY",
+      "start": 645,
+      "end": 651
+    },
+    {
+      "text": "Margins",
+      "type": "ENTITY",
+      "start": 653,
+      "end": 660
+    },
+    {
+      "text": "Absent",
+      "type": "ENTITY",
+      "start": 662,
+      "end": 668
+    },
+    {
+      "text": "Treatment Effect",
+      "type": "ENTITY",
+      "start": 670,
+      "end": 686
+    },
+    {
+      "text": "Comments",
+      "type": "ENTITY",
+      "start": 688,
+      "end": 696
+    },
+    {
+      "text": "BREAST TISSUE CHECKLIST",
+      "type": "ENTITY",
+      "start": 722,
+      "end": 745
+    },
+    {
+      "text": "Specimen type",
+      "type": "ENTITY",
+      "start": 746,
+      "end": 759
+    },
+    {
+      "text": "Lumpectomy",
+      "type": "ENTITY",
+      "start": 761,
+      "end": 771
+    },
+    {
+      "text": "Specimen",
+      "type": "ENTITY",
+      "start": 781,
+      "end": 789
+    },
+    {
+      "text": "Tumor site",
+      "type": "ENTITY",
+      "start": 833,
+      "end": 843
+    },
+    {
+      "text": "Breast Tumor size",
+      "type": "ENTITY",
+      "start": 845,
+      "end": 862
+    },
+    {
+      "text": "Grossly",
+      "type": "ENTITY",
+      "start": 873,
+      "end": 880
+    },
+    {
+      "text": "lesion",
+      "type": "ENTITY",
+      "start": 889,
+      "end": 895
+    },
+    {
+      "text": "Histologic type",
+      "type": "ENTITY",
+      "start": 901,
+      "end": 916
+    },
+    {
+      "text": "Adenocarcinoma",
+      "type": "ENTITY",
+      "start": 918,
+      "end": 932
+    },
+    {
+      "text": "mucinous type",
+      "type": "ENTITY",
+      "start": 934,
+      "end": 947
+    },
+    {
+      "text": "Histologic grade",
+      "type": "ENTITY",
+      "start": 949,
+      "end": 965
+    },
+    {
+      "text": "Moderately",
+      "type": "ENTITY",
+      "start": 967,
+      "end": 977
+    },
+    {
+      "text": "differentiated",
+      "type": "ENTITY",
+      "start": 978,
+      "end": 992
+    },
+    {
+      "text": "Tumor",
+      "type": "ENTITY",
+      "start": 994,
+      "end": 999
+    },
+    {
+      "text": "Not specified",
+      "type": "ENTITY",
+      "start": 1008,
+      "end": 1021
+    },
+    {
+      "text": "Lymph nodes",
+      "type": "ENTITY",
+      "start": 1022,
+      "end": 1033
+    },
+    {
+      "text": "positive",
+      "type": "ENTITY",
+      "start": 1039,
+      "end": 1047
+    },
+    {
+      "text": "metastasis",
+      "type": "ENTITY",
+      "start": 1052,
+      "end": 1062
+    },
+    {
+      "text": "Axillary",
+      "type": "ENTITY",
+      "start": 1064,
+      "end": 1072
+    },
+    {
+      "text": "Extracapsular",
+      "type": "ENTITY",
+      "start": 1079,
+      "end": 1092
+    },
+    {
+      "text": "invasion",
+      "type": "ENTITY",
+      "start": 1093,
+      "end": 1101
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 1109,
+      "end": 1120
+    },
+    {
+      "text": "Not specified Margins",
+      "type": "ENTITY",
+      "start": 1122,
+      "end": 1143
+    },
+    {
+      "text": "Uninvolved",
+      "type": "ENTITY",
+      "start": 1145,
+      "end": 1155
+    },
+    {
+      "text": "Histologic Score",
+      "type": "ENTITY",
+      "start": 1168,
+      "end": 1184
+    },
+    {
+      "text": "Tubule formation",
+      "type": "ENTITY",
+      "start": 1185,
+      "end": 1201
+    },
+    {
+      "text": "Nuclear pleomorphism",
+      "type": "ENTITY",
+      "start": 1217,
+      "end": 1237
+    },
+    {
+      "text": "Not specified Mitotic count",
+      "type": "ENTITY",
+      "start": 1239,
+      "end": 1266
+    },
+    {
+      "text": "Not specified",
+      "type": "ENTITY",
+      "start": 1274,
+      "end": 1287
+    },
+    {
+      "text": "Score",
+      "type": "ENTITY",
+      "start": 1363,
+      "end": 1368
+    },
+    {
+      "text": "Evidence",
+      "type": "ENTITY",
+      "start": 1390,
+      "end": 1398
+    },
+    {
+      "text": "neo-adjuvant",
+      "type": "ENTITY",
+      "start": 1402,
+      "end": 1414
+    },
+    {
+      "text": "treatment",
+      "type": "ENTITY",
+      "start": 1415,
+      "end": 1424
+    },
+    {
+      "text": "Not specified",
+      "type": "ENTITY",
+      "start": 1426,
+      "end": 1439
+    },
+    {
+      "text": "pathologic",
+      "type": "ENTITY",
+      "start": 1451,
+      "end": 1461
+    },
+    {
+      "text": "findings",
+      "type": "ENTITY",
+      "start": 1462,
+      "end": 1470
+    },
+    {
+      "text": "Tumor Features",
+      "type": "ENTITY",
+      "start": 1472,
+      "end": 1486
+    },
+    {
+      "text": "Indeterminate",
+      "type": "ENTITY",
+      "start": 1488,
+      "end": 1501
+    },
+    {
+      "text": "Tumor Extent",
+      "type": "ENTITY",
+      "start": 1503,
+      "end": 1515
+    },
+    {
+      "text": "T1 tumor size 2",
+      "type": "ENTITY",
+      "start": 1517,
+      "end": 1532
+    },
+    {
+      "text": "Venous Invasion",
+      "type": "ENTITY",
+      "start": 1545,
+      "end": 1560
+    },
+    {
+      "text": "Absent",
+      "type": "ENTITY",
+      "start": 1562,
+      "end": 1568
+    },
+    {
+      "text": "Margins",
+      "type": "ENTITY",
+      "start": 1570,
+      "end": 1577
+    },
+    {
+      "text": "Absent",
+      "type": "ENTITY",
+      "start": 1579,
+      "end": 1585
+    },
+    {
+      "text": "Treatment Effect",
+      "type": "ENTITY",
+      "start": 1587,
+      "end": 1603
+    },
+    {
+      "text": "IHC-stainings",
+      "type": "ENTITY",
+      "start": 1605,
+      "end": 1618
+    },
+    {
+      "text": "Estrogen receptor",
+      "type": "ENTITY",
+      "start": 1620,
+      "end": 1637
+    },
+    {
+      "text": "positive",
+      "type": "ENTITY",
+      "start": 1640,
+      "end": 1648
+    },
+    {
+      "text": "reaction",
+      "type": "ENTITY",
+      "start": 1649,
+      "end": 1657
+    },
+    {
+      "text": "Progesterone receptor",
+      "type": "ENTITY",
+      "start": 1666,
+      "end": 1687
+    },
+    {
+      "text": "positive",
+      "type": "ENTITY",
+      "start": 1690,
+      "end": 1698
+    },
+    {
+      "text": "reaction",
+      "type": "ENTITY",
+      "start": 1699,
+      "end": 1707
+    },
+    {
+      "text": "Her-2/neu",
+      "type": "ENTITY",
+      "start": 1716,
+      "end": 1725
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 1728,
+      "end": 1736
+    },
+    {
+      "text": "reaction",
+      "type": "ENTITY",
+      "start": 1737,
+      "end": 1745
+    },
+    {
+      "text": "Ki67",
+      "type": "ENTITY",
+      "start": 1747,
+      "end": 1751
+    },
+    {
+      "text": "Comments",
+      "type": "ENTITY",
+      "start": 1759,
+      "end": 1767
+    },
+    {
+      "text": "Breast- left",
+      "type": "ENTITY",
+      "start": 1769,
+      "end": 1781
+    }
+  ],
+  "entity_count": 96,
+  "has_embedding": true
+}

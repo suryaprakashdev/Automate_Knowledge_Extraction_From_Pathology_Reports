@@ -1,0 +1,1310 @@
+{
+  "filename": "202cb605-962d-4827-aa11-18064c732fb2",
+  "timestamp": "2026-01-05T14:41:36.443252",
+  "entities": [
+    {
+      "text": "Doctor's Information",
+      "type": "ENTITY",
+      "start": 27,
+      "end": 47
+    },
+    {
+      "text": "UUID:15F6D8D6-878A-410F-8289-D3CEAB7E5D21",
+      "type": "ENTITY",
+      "start": 50,
+      "end": 91
+    },
+    {
+      "text": "TCGA-OR-A5JG-01A-PR",
+      "type": "ENTITY",
+      "start": 92,
+      "end": 111
+    },
+    {
+      "text": "Redacted",
+      "type": "ENTITY",
+      "start": 112,
+      "end": 120
+    },
+    {
+      "text": "treating",
+      "type": "ENTITY",
+      "start": 177,
+      "end": 185
+    },
+    {
+      "text": "physicians",
+      "type": "ENTITY",
+      "start": 186,
+      "end": 196
+    },
+    {
+      "text": "surgeons immunohistochemistry",
+      "type": "ENTITY",
+      "start": 201,
+      "end": 230
+    },
+    {
+      "text": "L  multiple",
+      "type": "ENTITY",
+      "start": 235,
+      "end": 246
+    },
+    {
+      "text": "markers",
+      "type": "ENTITY",
+      "start": 247,
+      "end": 254
+    },
+    {
+      "text": "adrenal cortical carcinoma",
+      "type": "ENTITY",
+      "start": 276,
+      "end": 302
+    },
+    {
+      "text": "removed",
+      "type": "ENTITY",
+      "start": 303,
+      "end": 310
+    },
+    {
+      "text": "Weiss score",
+      "type": "ENTITY",
+      "start": 318,
+      "end": 329
+    },
+    {
+      "text": "tumour",
+      "type": "ENTITY",
+      "start": 337,
+      "end": 343
+    },
+    {
+      "text": "mitotic rate",
+      "type": "ENTITY",
+      "start": 354,
+      "end": 366
+    },
+    {
+      "text": "HPF",
+      "type": "ENTITY",
+      "start": 389,
+      "end": 392
+    },
+    {
+      "text": "immunohistochemical",
+      "type": "ENTITY",
+      "start": 400,
+      "end": 419
+    },
+    {
+      "text": "IGF2",
+      "type": "ENTITY",
+      "start": 446,
+      "end": 450
+    },
+    {
+      "text": "Negative",
+      "type": "ENTITY",
+      "start": 452,
+      "end": 460
+    },
+    {
+      "text": "score",
+      "type": "ENTITY",
+      "start": 462,
+      "end": 467
+    },
+    {
+      "text": "Glucocorticoid Receptor",
+      "type": "ENTITY",
+      "start": 472,
+      "end": 495
+    },
+    {
+      "text": "Focal weak staining",
+      "type": "ENTITY",
+      "start": 497,
+      "end": 516
+    },
+    {
+      "text": "score",
+      "type": "ENTITY",
+      "start": 518,
+      "end": 523
+    },
+    {
+      "text": "Ki-67 proliferative index",
+      "type": "ENTITY",
+      "start": 529,
+      "end": 554
+    },
+    {
+      "text": "ACADVL",
+      "type": "ENTITY",
+      "start": 560,
+      "end": 566
+    },
+    {
+      "text": "Positive REPORTING PATHOLOGIST",
+      "type": "ENTITY",
+      "start": 568,
+      "end": 598
+    },
+    {
+      "text": "Electronic Signature",
+      "type": "ENTITY",
+      "start": 601,
+      "end": 621
+    },
+    {
+      "text": "cor tex c74",
+      "type": "ENTITY",
+      "start": 668,
+      "end": 679
+    },
+    {
+      "text": "FD",
+      "type": "ENTITY",
+      "start": 685,
+      "end": 687
+    },
+    {
+      "text": "Tumour near left renal artery",
+      "type": "ENTITY",
+      "start": 783,
+      "end": 812
+    },
+    {
+      "text": "Tumour near left coelac artery",
+      "type": "ENTITY",
+      "start": 817,
+      "end": 847
+    },
+    {
+      "text": "Adrenal gland",
+      "type": "ENTITY",
+      "start": 852,
+      "end": 865
+    },
+    {
+      "text": "left kidney",
+      "type": "ENTITY",
+      "start": 870,
+      "end": 881
+    },
+    {
+      "text": "Lymph node",
+      "type": "ENTITY",
+      "start": 886,
+      "end": 896
+    },
+    {
+      "text": "curvature",
+      "type": "ENTITY",
+      "start": 908,
+      "end": 917
+    },
+    {
+      "text": "stomach",
+      "type": "ENTITY",
+      "start": 921,
+      "end": 928
+    },
+    {
+      "text": "Lymph node near splenic vein",
+      "type": "ENTITY",
+      "start": 933,
+      "end": 961
+    },
+    {
+      "text": "Aetra aortic lymph node",
+      "type": "ENTITY",
+      "start": 966,
+      "end": 989
+    },
+    {
+      "text": "Aorto-caval node",
+      "type": "ENTITY",
+      "start": 994,
+      "end": 1010
+    },
+    {
+      "text": "left renal vein",
+      "type": "ENTITY",
+      "start": 1023,
+      "end": 1038
+    },
+    {
+      "text": "Tumour",
+      "type": "ENTITY",
+      "start": 1043,
+      "end": 1049
+    },
+    {
+      "text": "Left radical neck dissection",
+      "type": "ENTITY",
+      "start": 1072,
+      "end": 1100
+    },
+    {
+      "text": "Peritoneal",
+      "type": "ENTITY",
+      "start": 1106,
+      "end": 1116
+    },
+    {
+      "text": "tiuid Clinical History",
+      "type": "ENTITY",
+      "start": 1117,
+      "end": 1139
+    },
+    {
+      "text": "Tumour",
+      "type": "ENTITY",
+      "start": 1141,
+      "end": 1147
+    },
+    {
+      "text": "duct",
+      "type": "ENTITY",
+      "start": 1160,
+      "end": 1164
+    },
+    {
+      "text": "adreno",
+      "type": "ENTITY",
+      "start": 1179,
+      "end": 1185
+    },
+    {
+      "text": "cortical cancer",
+      "type": "ENTITY",
+      "start": 1186,
+      "end": 1201
+    },
+    {
+      "text": "peritoneal",
+      "type": "ENTITY",
+      "start": 1203,
+      "end": 1213
+    },
+    {
+      "text": "fluid",
+      "type": "ENTITY",
+      "start": 1214,
+      "end": 1219
+    },
+    {
+      "text": "Tumour leit Tumour near left renal artery",
+      "type": "ENTITY",
+      "start": 1221,
+      "end": 1262
+    },
+    {
+      "text": "Tumour near coeliac artery",
+      "type": "ENTITY",
+      "start": 1264,
+      "end": 1290
+    },
+    {
+      "text": "Left adrenal gland",
+      "type": "ENTITY",
+      "start": 1292,
+      "end": 1310
+    },
+    {
+      "text": "left kidney",
+      "type": "ENTITY",
+      "start": 1315,
+      "end": 1326
+    },
+    {
+      "text": "Lymph node near great curvature of stonach",
+      "type": "ENTITY",
+      "start": 1328,
+      "end": 1370
+    },
+    {
+      "text": "Lyrmph node near splenic vein",
+      "type": "ENTITY",
+      "start": 1372,
+      "end": 1401
+    },
+    {
+      "text": "Rotro aortic",
+      "type": "ENTITY",
+      "start": 1403,
+      "end": 1415
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 1416,
+      "end": 1427
+    },
+    {
+      "text": "Aorto cable lymph nodes",
+      "type": "ENTITY",
+      "start": 1429,
+      "end": 1452
+    },
+    {
+      "text": "tront",
+      "type": "ENTITY",
+      "start": 1456,
+      "end": 1461
+    },
+    {
+      "text": "left renal vein",
+      "type": "ENTITY",
+      "start": 1466,
+      "end": 1481
+    },
+    {
+      "text": "Left cervical zone",
+      "type": "ENTITY",
+      "start": 1483,
+      "end": 1501
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 1508,
+      "end": 1519
+    },
+    {
+      "text": "Silk suture",
+      "type": "ENTITY",
+      "start": 1524,
+      "end": 1535
+    },
+    {
+      "text": "thoraclc",
+      "type": "ENTITY",
+      "start": 1539,
+      "end": 1547
+    },
+    {
+      "text": "duct.e",
+      "type": "ENTITY",
+      "start": 1548,
+      "end": 1554
+    },
+    {
+      "text": "Macroscopic Description",
+      "type": "ENTITY",
+      "start": 1556,
+      "end": 1579
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1588,
+      "end": 1596
+    },
+    {
+      "text": "lobulated grey rodule",
+      "type": "ENTITY",
+      "start": 1611,
+      "end": 1632
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1656,
+      "end": 1664
+    },
+    {
+      "text": "grey nodules",
+      "type": "ENTITY",
+      "start": 1681,
+      "end": 1693
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1730,
+      "end": 1738
+    },
+    {
+      "text": "grey nodule",
+      "type": "ENTITY",
+      "start": 1753,
+      "end": 1764
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1789,
+      "end": 1797
+    },
+    {
+      "text": "left kidney",
+      "type": "ENTITY",
+      "start": 1812,
+      "end": 1823
+    },
+    {
+      "text": "left adrenal",
+      "type": "ENTITY",
+      "start": 1825,
+      "end": 1837
+    },
+    {
+      "text": "gland",
+      "type": "ENTITY",
+      "start": 1839,
+      "end": 1844
+    },
+    {
+      "text": "adjacent",
+      "type": "ENTITY",
+      "start": 1846,
+      "end": 1854
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 1855,
+      "end": 1866
+    },
+    {
+      "text": "surrounding",
+      "type": "ENTITY",
+      "start": 1871,
+      "end": 1882
+    },
+    {
+      "text": "fatty tissue",
+      "type": "ENTITY",
+      "start": 1884,
+      "end": 1896
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 1907,
+      "end": 1916
+    },
+    {
+      "text": "kidney",
+      "type": "ENTITY",
+      "start": 1960,
+      "end": 1966
+    },
+    {
+      "text": "no signlflcant",
+      "type": "ENTITY",
+      "start": 1996,
+      "end": 2010
+    },
+    {
+      "text": "abnormality",
+      "type": "ENTITY",
+      "start": 2011,
+      "end": 2022
+    },
+    {
+      "text": "Reterred",
+      "type": "ENTITY",
+      "start": 2055,
+      "end": 2063
+    },
+    {
+      "text": "adrenal",
+      "type": "ENTITY",
+      "start": 2090,
+      "end": 2097
+    },
+    {
+      "text": "giand",
+      "type": "ENTITY",
+      "start": 2098,
+      "end": 2103
+    },
+    {
+      "text": "lobulated grey soud tumour",
+      "type": "ENTITY",
+      "start": 2141,
+      "end": 2167
+    },
+    {
+      "text": "photographs",
+      "type": "ENTITY",
+      "start": 2173,
+      "end": 2184
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 2211,
+      "end": 2222
+    },
+    {
+      "text": "diamster",
+      "type": "ENTITY",
+      "start": 2237,
+      "end": 2245
+    },
+    {
+      "text": "presemt",
+      "type": "ENTITY",
+      "start": 2250,
+      "end": 2257
+    },
+    {
+      "text": "renal valn",
+      "type": "ENTITY",
+      "start": 2263,
+      "end": 2273
+    },
+    {
+      "text": "no significant",
+      "type": "ENTITY",
+      "start": 2280,
+      "end": 2294
+    },
+    {
+      "text": "abnormality",
+      "type": "ENTITY",
+      "start": 2295,
+      "end": 2306
+    },
+    {
+      "text": "Kidney B-D",
+      "type": "ENTITY",
+      "start": 2311,
+      "end": 2321
+    },
+    {
+      "text": "Adrenal tumour",
+      "type": "ENTITY",
+      "start": 2323,
+      "end": 2337
+    },
+    {
+      "text": "Lymph nodes",
+      "type": "ENTITY",
+      "start": 2344,
+      "end": 2355
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 2369,
+      "end": 2377
+    },
+    {
+      "text": "lymph node",
+      "type": "ENTITY",
+      "start": 2392,
+      "end": 2402
+    },
+    {
+      "text": "adjacent",
+      "type": "ENTITY",
+      "start": 2422,
+      "end": 2430
+    },
+    {
+      "text": "fatty tissue",
+      "type": "ENTITY",
+      "start": 2431,
+      "end": 2443
+    },
+    {
+      "text": "A-8",
+      "type": "ENTITY",
+      "start": 2446,
+      "end": 2449
+    },
+    {
+      "text": "RST",
+      "type": "ENTITY",
+      "start": 2451,
+      "end": 2454
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 2465,
+      "end": 2473
+    },
+    {
+      "text": "lymph node",
+      "type": "ENTITY",
+      "start": 2488,
+      "end": 2498
+    },
+    {
+      "text": "adjacent",
+      "type": "ENTITY",
+      "start": 2518,
+      "end": 2526
+    },
+    {
+      "text": "fatty tissue",
+      "type": "ENTITY",
+      "start": 2527,
+      "end": 2539
+    },
+    {
+      "text": "RST",
+      "type": "ENTITY",
+      "start": 2547,
+      "end": 2550
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 2561,
+      "end": 2569
+    },
+    {
+      "text": "fatty tissue",
+      "type": "ENTITY",
+      "start": 2582,
+      "end": 2594
+    },
+    {
+      "text": "iymph nodes",
+      "type": "ENTITY",
+      "start": 2621,
+      "end": 2632
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 2647,
+      "end": 2655
+    },
+    {
+      "text": "RST",
+      "type": "ENTITY",
+      "start": 2661,
+      "end": 2664
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 2675,
+      "end": 2683
+    },
+    {
+      "text": "fatty tissue",
+      "type": "ENTITY",
+      "start": 2696,
+      "end": 2708
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 2734,
+      "end": 2745
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 2755,
+      "end": 2763
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 2773,
+      "end": 2781
+    },
+    {
+      "text": "piece",
+      "type": "ENTITY",
+      "start": 2796,
+      "end": 2801
+    },
+    {
+      "text": "grey tissue",
+      "type": "ENTITY",
+      "start": 2805,
+      "end": 2816
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 2853,
+      "end": 2861
+    },
+    {
+      "text": "consisis",
+      "type": "ENTITY",
+      "start": 2862,
+      "end": 2870
+    },
+    {
+      "text": "triangular plece",
+      "type": "ENTITY",
+      "start": 2876,
+      "end": 2892
+    },
+    {
+      "text": "fatty tissue",
+      "type": "ENTITY",
+      "start": 2896,
+      "end": 2908
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 2935,
+      "end": 2946
+    },
+    {
+      "text": "silk suture",
+      "type": "ENTITY",
+      "start": 2978,
+      "end": 2989
+    },
+    {
+      "text": "portlon",
+      "type": "ENTITY",
+      "start": 3012,
+      "end": 3019
+    },
+    {
+      "text": "thoracic duct",
+      "type": "ENTITY",
+      "start": 3023,
+      "end": 3036
+    },
+    {
+      "text": "Thorackc duct",
+      "type": "ENTITY",
+      "start": 3071,
+      "end": 3084
+    },
+    {
+      "text": "B",
+      "type": "ENTITY",
+      "start": 3086,
+      "end": 3087
+    },
+    {
+      "text": "Lymph node adjacent",
+      "type": "ENTITY",
+      "start": 3089,
+      "end": 3108
+    },
+    {
+      "text": "thoracic",
+      "type": "ENTITY",
+      "start": 3112,
+      "end": 3120
+    },
+    {
+      "text": "C&D",
+      "type": "ENTITY",
+      "start": 3122,
+      "end": 3125
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 3133,
+      "end": 3144
+    },
+    {
+      "text": "Reterred",
+      "type": "ENTITY",
+      "start": 3149,
+      "end": 3157
+    },
+    {
+      "text": "Pago 2",
+      "type": "ENTITY",
+      "start": 3162,
+      "end": 3168
+    },
+    {
+      "text": "Sectlons",
+      "type": "ENTITY",
+      "start": 3224,
+      "end": 3232
+    },
+    {
+      "text": "nodules",
+      "type": "ENTITY",
+      "start": 3238,
+      "end": 3245
+    },
+    {
+      "text": "metastatic adrenal",
+      "type": "ENTITY",
+      "start": 3249,
+      "end": 3267
+    },
+    {
+      "text": "cortical carcinoma",
+      "type": "ENTITY",
+      "start": 3268,
+      "end": 3286
+    },
+    {
+      "text": "shests",
+      "type": "ENTITY",
+      "start": 3299,
+      "end": 3305
+    },
+    {
+      "text": "Islands",
+      "type": "ENTITY",
+      "start": 3310,
+      "end": 3317
+    },
+    {
+      "text": "Sections",
+      "type": "ENTITY",
+      "start": 3323,
+      "end": 3331
+    },
+    {
+      "text": "adrenal gland",
+      "type": "ENTITY",
+      "start": 3339,
+      "end": 3352
+    },
+    {
+      "text": "adrenal cortical carcinona",
+      "type": "ENTITY",
+      "start": 3358,
+      "end": 3384
+    },
+    {
+      "text": "adrenal gland",
+      "type": "ENTITY",
+      "start": 3418,
+      "end": 3431
+    },
+    {
+      "text": "nodules",
+      "type": "ENTITY",
+      "start": 3447,
+      "end": 3454
+    },
+    {
+      "text": "matastatic",
+      "type": "ENTITY",
+      "start": 3458,
+      "end": 3468
+    },
+    {
+      "text": "cortical carcinoma",
+      "type": "ENTITY",
+      "start": 3477,
+      "end": 3495
+    },
+    {
+      "text": "hllum",
+      "type": "ENTITY",
+      "start": 3509,
+      "end": 3514
+    },
+    {
+      "text": "kidney",
+      "type": "ENTITY",
+      "start": 3522,
+      "end": 3528
+    },
+    {
+      "text": "tumour abuts",
+      "type": "ENTITY",
+      "start": 3539,
+      "end": 3551
+    },
+    {
+      "text": "resection margin",
+      "type": "ENTITY",
+      "start": 3556,
+      "end": 3572
+    },
+    {
+      "text": "tumour",
+      "type": "ENTITY",
+      "start": 3578,
+      "end": 3584
+    },
+    {
+      "text": "positive staining",
+      "type": "ENTITY",
+      "start": 3591,
+      "end": 3608
+    },
+    {
+      "text": "Inhibin A",
+      "type": "ENTITY",
+      "start": 3613,
+      "end": 3622
+    },
+    {
+      "text": "Melan A",
+      "type": "ENTITY",
+      "start": 3627,
+      "end": 3634
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 3641,
+      "end": 3649
+    },
+    {
+      "text": "Cytokeratin",
+      "type": "ENTITY",
+      "start": 3663,
+      "end": 3674
+    },
+    {
+      "text": "EMA",
+      "type": "ENTITY",
+      "start": 3676,
+      "end": 3679
+    },
+    {
+      "text": "chromogranin",
+      "type": "ENTITY",
+      "start": 3684,
+      "end": 3696
+    },
+    {
+      "text": "Proninent",
+      "type": "ENTITY",
+      "start": 3698,
+      "end": 3707
+    },
+    {
+      "text": "lymphatic invasion",
+      "type": "ENTITY",
+      "start": 3708,
+      "end": 3726
+    },
+    {
+      "text": "kidnoy",
+      "type": "ENTITY",
+      "start": 3743,
+      "end": 3749
+    },
+    {
+      "text": "shaws",
+      "type": "ENTITY",
+      "start": 3750,
+      "end": 3755
+    },
+    {
+      "text": "malignancy",
+      "type": "ENTITY",
+      "start": 3771,
+      "end": 3781
+    },
+    {
+      "text": "Referred",
+      "type": "ENTITY",
+      "start": 3795,
+      "end": 3803
+    },
+    {
+      "text": "documont",
+      "type": "ENTITY",
+      "start": 3814,
+      "end": 3822
+    },
+    {
+      "text": "accerdance",
+      "type": "ENTITY",
+      "start": 3833,
+      "end": 3843
+    },
+    {
+      "text": "Sections",
+      "type": "ENTITY",
+      "start": 3875,
+      "end": 3883
+    },
+    {
+      "text": "metastatic adrena",
+      "type": "ENTITY",
+      "start": 3889,
+      "end": 3906
+    },
+    {
+      "text": "cortical carcinoma",
+      "type": "ENTITY",
+      "start": 3908,
+      "end": 3926
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 3937,
+      "end": 3948
+    },
+    {
+      "text": "Sections",
+      "type": "ENTITY",
+      "start": 3954,
+      "end": 3962
+    },
+    {
+      "text": "lymph rodes",
+      "type": "ENTITY",
+      "start": 3970,
+      "end": 3981
+    },
+    {
+      "text": "malignancy",
+      "type": "ENTITY",
+      "start": 4002,
+      "end": 4012
+    },
+    {
+      "text": "Sections",
+      "type": "ENTITY",
+      "start": 4018,
+      "end": 4026
+    },
+    {
+      "text": "thorackc duct wall",
+      "type": "ENTITY",
+      "start": 4032,
+      "end": 4050
+    },
+    {
+      "text": "evidenca",
+      "type": "ENTITY",
+      "start": 4060,
+      "end": 4068
+    },
+    {
+      "text": "malignancy",
+      "type": "ENTITY",
+      "start": 4072,
+      "end": 4082
+    },
+    {
+      "text": "Sections",
+      "type": "ENTITY",
+      "start": 4089,
+      "end": 4097
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 4105,
+      "end": 4116
+    },
+    {
+      "text": "metastatic adrenal cortical carcinoma",
+      "type": "ENTITY",
+      "start": 4122,
+      "end": 4159
+    },
+    {
+      "text": "thoracic duct",
+      "type": "ENTITY",
+      "start": 4165,
+      "end": 4178
+    },
+    {
+      "text": "segment",
+      "type": "ENTITY",
+      "start": 4179,
+      "end": 4186
+    },
+    {
+      "text": "evidence",
+      "type": "ENTITY",
+      "start": 4196,
+      "end": 4204
+    },
+    {
+      "text": "malignancy",
+      "type": "ENTITY",
+      "start": 4208,
+      "end": 4218
+    },
+    {
+      "text": "LEFt",
+      "type": "ENTITY",
+      "start": 4242,
+      "end": 4246
+    },
+    {
+      "text": "CRUS",
+      "type": "ENTITY",
+      "start": 4247,
+      "end": 4251
+    },
+    {
+      "text": "ADRENAL",
+      "type": "ENTITY",
+      "start": 4263,
+      "end": 4270
+    },
+    {
+      "text": "CORTICAL CARCINOMA",
+      "type": "ENTITY",
+      "start": 4271,
+      "end": 4289
+    },
+    {
+      "text": "NEAR LEFT RENAL ARTERY",
+      "type": "ENTITY",
+      "start": 4298,
+      "end": 4320
+    },
+    {
+      "text": "METASTATIC",
+      "type": "ENTITY",
+      "start": 4323,
+      "end": 4333
+    },
+    {
+      "text": "CORTICAL CARCINOMA",
+      "type": "ENTITY",
+      "start": 4342,
+      "end": 4360
+    },
+    {
+      "text": "LEFT COELIAC ARTERY",
+      "type": "ENTITY",
+      "start": 4369,
+      "end": 4388
+    },
+    {
+      "text": "METASTATIC",
+      "type": "ENTITY",
+      "start": 4391,
+      "end": 4401
+    },
+    {
+      "text": "CORTICAL CARCINOMA",
+      "type": "ENTITY",
+      "start": 4410,
+      "end": 4428
+    },
+    {
+      "text": "CORTICAL CARCINOMA",
+      "type": "ENTITY",
+      "start": 4456,
+      "end": 4474
+    },
+    {
+      "text": "LEFT",
+      "type": "ENTITY",
+      "start": 4475,
+      "end": 4479
+    },
+    {
+      "text": "NO",
+      "type": "ENTITY",
+      "start": 4487,
+      "end": 4489
+    },
+    {
+      "text": "MALIGNANCY",
+      "type": "ENTITY",
+      "start": 4502,
+      "end": 4512
+    },
+    {
+      "text": "NODES",
+      "type": "ENTITY",
+      "start": 4519,
+      "end": 4524
+    },
+    {
+      "text": "GREATER CURVATURE",
+      "type": "ENTITY",
+      "start": 4526,
+      "end": 4543
+    },
+    {
+      "text": "STOMACH",
+      "type": "ENTITY",
+      "start": 4547,
+      "end": 4554
+    },
+    {
+      "text": "CORTICAL CARCINOMA",
+      "type": "ENTITY",
+      "start": 4574,
+      "end": 4592
+    },
+    {
+      "text": "METASTATIC",
+      "type": "ENTITY",
+      "start": 4624,
+      "end": 4634
+    },
+    {
+      "text": "CORTICAL CARCINOMA RETRO",
+      "type": "ENTITY",
+      "start": 4643,
+      "end": 4667
+    },
+    {
+      "text": "AORTIC",
+      "type": "ENTITY",
+      "start": 4668,
+      "end": 4674
+    },
+    {
+      "text": "CORTICAL ** CARCINOMA",
+      "type": "ENTITY",
+      "start": 4705,
+      "end": 4726
+    },
+    {
+      "text": "LEFT RENAL",
+      "type": "ENTITY",
+      "start": 4756,
+      "end": 4766
+    },
+    {
+      "text": "NO",
+      "type": "ENTITY",
+      "start": 4772,
+      "end": 4774
+    },
+    {
+      "text": "NO",
+      "type": "ENTITY",
+      "start": 4823,
+      "end": 4825
+    },
+    {
+      "text": "MALIGNANCY",
+      "type": "ENTITY",
+      "start": 4838,
+      "end": 4848
+    },
+    {
+      "text": "CORTICAL ADRENAL",
+      "type": "ENTITY",
+      "start": 4889,
+      "end": 4905
+    },
+    {
+      "text": "Paga",
+      "type": "ENTITY",
+      "start": 4933,
+      "end": 4937
+    },
+    {
+      "text": "Roferred",
+      "type": "ENTITY",
+      "start": 4945,
+      "end": 4953
+    }
+  ],
+  "entity_count": 217,
+  "has_embedding": true
+}

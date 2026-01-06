@@ -1,0 +1,836 @@
+{
+  "filename": "9543fd41-1d60-46e9-92f6-eefc7c904664",
+  "timestamp": "2026-01-05T14:45:03.441539",
+  "entities": [
+    {
+      "text": "patient",
+      "type": "ENTITY",
+      "start": 20,
+      "end": 27
+    },
+    {
+      "text": "status-post",
+      "type": "ENTITY",
+      "start": 33,
+      "end": 44
+    },
+    {
+      "text": "AAA repair",
+      "type": "ENTITY",
+      "start": 45,
+      "end": 55
+    },
+    {
+      "text": "status-post exploratory laparotorny",
+      "type": "ENTITY",
+      "start": 57,
+      "end": 92
+    },
+    {
+      "text": "PRE",
+      "type": "ENTITY",
+      "start": 95,
+      "end": 98
+    },
+    {
+      "text": "OP DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 99,
+      "end": 111
+    },
+    {
+      "text": "Ischemic bowel",
+      "type": "ENTITY",
+      "start": 113,
+      "end": 127
+    },
+    {
+      "text": "Exploralory laparotomy",
+      "type": "ENTITY",
+      "start": 165,
+      "end": 187
+    },
+    {
+      "text": "Collection Date Colon",
+      "type": "ENTITY",
+      "start": 205,
+      "end": 226
+    },
+    {
+      "text": "colectomy",
+      "type": "ENTITY",
+      "start": 234,
+      "end": 243
+    },
+    {
+      "text": "INVASIVE",
+      "type": "ENTITY",
+      "start": 246,
+      "end": 254
+    },
+    {
+      "text": "WELL DIFFERENTIATED",
+      "type": "ENTITY",
+      "start": 255,
+      "end": 274
+    },
+    {
+      "text": "CM",
+      "type": "ENTITY",
+      "start": 298,
+      "end": 300
+    },
+    {
+      "text": "ARISING",
+      "type": "ENTITY",
+      "start": 303,
+      "end": 310
+    },
+    {
+      "text": "TUBULQVILLQUS.ADENOMA",
+      "type": "ENTITY",
+      "start": 316,
+      "end": 337
+    },
+    {
+      "text": "InvaDing",
+      "type": "ENTITY",
+      "start": 340,
+      "end": 348
+    },
+    {
+      "text": "NO",
+      "type": "ENTITY",
+      "start": 382,
+      "end": 384
+    },
+    {
+      "text": "Angiolymphatic",
+      "type": "ENTITY",
+      "start": 385,
+      "end": 399
+    },
+    {
+      "text": "Perineural",
+      "type": "ENTITY",
+      "start": 403,
+      "end": 413
+    },
+    {
+      "text": "invasion",
+      "type": "ENTITY",
+      "start": 415,
+      "end": 423
+    },
+    {
+      "text": "C. SURGICAL",
+      "type": "ENTITY",
+      "start": 431,
+      "end": 442
+    },
+    {
+      "text": "RESECTION FREE OF",
+      "type": "ENTITY",
+      "start": 454,
+      "end": 471
+    },
+    {
+      "text": "TUMOR",
+      "type": "ENTITY",
+      "start": 472,
+      "end": 477
+    },
+    {
+      "text": "pericolic",
+      "type": "ENTITY",
+      "start": 499,
+      "end": 508
+    },
+    {
+      "text": "Lymph nodes free of tumor",
+      "type": "ENTITY",
+      "start": 509,
+      "end": 534
+    },
+    {
+      "text": "PATHOLOGICALSTAGE",
+      "type": "ENTITY",
+      "start": 536,
+      "end": 553
+    },
+    {
+      "text": "T2,NO,MX.DUKE'S STAGE",
+      "type": "ENTITY",
+      "start": 555,
+      "end": 576
+    },
+    {
+      "text": "F. AsTLer-COller Stage",
+      "type": "ENTITY",
+      "start": 579,
+      "end": 601
+    },
+    {
+      "text": "G. SMALL",
+      "type": "ENTITY",
+      "start": 606,
+      "end": 614
+    },
+    {
+      "text": "TUBULAR ADENOMAS",
+      "type": "ENTITY",
+      "start": 615,
+      "end": 631
+    },
+    {
+      "text": "AppenDiceal",
+      "type": "ENTITY",
+      "start": 650,
+      "end": 661
+    },
+    {
+      "text": "CArcinoiD",
+      "type": "ENTITY",
+      "start": 662,
+      "end": 671
+    },
+    {
+      "text": "Cm}",
+      "type": "ENTITY",
+      "start": 677,
+      "end": 680
+    },
+    {
+      "text": "comment",
+      "type": "ENTITY",
+      "start": 686,
+      "end": 693
+    },
+    {
+      "text": "adenocarcinoma",
+      "type": "ENTITY",
+      "start": 709,
+      "end": 723
+    },
+    {
+      "text": "focally mucin",
+      "type": "ENTITY",
+      "start": 733,
+      "end": 746
+    },
+    {
+      "text": "thickness",
+      "type": "ENTITY",
+      "start": 773,
+      "end": 782
+    },
+    {
+      "text": "muscle wall",
+      "type": "ENTITY",
+      "start": 790,
+      "end": 801
+    },
+    {
+      "text": "abuts",
+      "type": "ENTITY",
+      "start": 806,
+      "end": 811
+    },
+    {
+      "text": "invade",
+      "type": "ENTITY",
+      "start": 825,
+      "end": 831
+    },
+    {
+      "text": "adjacent",
+      "type": "ENTITY",
+      "start": 832,
+      "end": 840
+    },
+    {
+      "text": "subserosal fat  ",
+      "type": "ENTITY",
+      "start": 841,
+      "end": 857
+    },
+    {
+      "text": "incidental",
+      "type": "ENTITY",
+      "start": 861,
+      "end": 871
+    },
+    {
+      "text": "carcinoid",
+      "type": "ENTITY",
+      "start": 872,
+      "end": 881
+    },
+    {
+      "text": "vermiform appendix",
+      "type": "ENTITY",
+      "start": 889,
+      "end": 907
+    },
+    {
+      "text": "sumucosa",
+      "type": "ENTITY",
+      "start": 933,
+      "end": 941
+    },
+    {
+      "text": "necrosis",
+      "type": "ENTITY",
+      "start": 972,
+      "end": 980
+    },
+    {
+      "text": "SyNoPTic",
+      "type": "ENTITY",
+      "start": 983,
+      "end": 991
+    },
+    {
+      "text": "PrImaRy",
+      "type": "ENTITY",
+      "start": 994,
+      "end": 1001
+    },
+    {
+      "text": "COL",
+      "type": "ENTITY",
+      "start": 1002,
+      "end": 1005
+    },
+    {
+      "text": "REcTAl",
+      "type": "ENTITY",
+      "start": 1013,
+      "end": 1019
+    },
+    {
+      "text": "Location",
+      "type": "ENTITY",
+      "start": 1029,
+      "end": 1037
+    },
+    {
+      "text": "Jleocecal Region",
+      "type": "ENTITY",
+      "start": 1044,
+      "end": 1060
+    },
+    {
+      "text": "Descending Colon 2",
+      "type": "ENTITY",
+      "start": 1064,
+      "end": 1082
+    },
+    {
+      "text": "Ascending Colon 5",
+      "type": "ENTITY",
+      "start": 1084,
+      "end": 1101
+    },
+    {
+      "text": "Sigmoid Colon 3",
+      "type": "ENTITY",
+      "start": 1103,
+      "end": 1118
+    },
+    {
+      "text": "Transverse Colon 6",
+      "type": "ENTITY",
+      "start": 1120,
+      "end": 1138
+    },
+    {
+      "text": "Rectum B. Procedure",
+      "type": "ENTITY",
+      "start": 1140,
+      "end": 1159
+    },
+    {
+      "text": "Segmental",
+      "type": "ENTITY",
+      "start": 1163,
+      "end": 1172
+    },
+    {
+      "text": "Colectomy",
+      "type": "ENTITY",
+      "start": 1173,
+      "end": 1182
+    },
+    {
+      "text": "Total Colectomy",
+      "type": "ENTITY",
+      "start": 1191,
+      "end": 1206
+    },
+    {
+      "text": "C. Size of Tumor",
+      "type": "ENTITY",
+      "start": 1207,
+      "end": 1223
+    },
+    {
+      "text": "maximum",
+      "type": "ENTITY",
+      "start": 1225,
+      "end": 1232
+    },
+    {
+      "text": "dirnension",
+      "type": "ENTITY",
+      "start": 1233,
+      "end": 1243
+    },
+    {
+      "text": "Adenocarcinoma",
+      "type": "ENTITY",
+      "start": 1266,
+      "end": 1280
+    },
+    {
+      "text": "Squamous Cell Carcinoma 2",
+      "type": "ENTITY",
+      "start": 1289,
+      "end": 1314
+    },
+    {
+      "text": "Adenocarcinoma",
+      "type": "ENTITY",
+      "start": 1316,
+      "end": 1330
+    },
+    {
+      "text": "background",
+      "type": "ENTITY",
+      "start": 1344,
+      "end": 1354
+    },
+    {
+      "text": "Undifferentiated Carcinoma",
+      "type": "ENTITY",
+      "start": 1360,
+      "end": 1386
+    },
+    {
+      "text": "adenoma",
+      "type": "ENTITY",
+      "start": 1394,
+      "end": 1401
+    },
+    {
+      "text": "Sarcoma 3",
+      "type": "ENTITY",
+      "start": 1407,
+      "end": 1416
+    },
+    {
+      "text": "Adenocarcinoma",
+      "type": "ENTITY",
+      "start": 1418,
+      "end": 1432
+    },
+    {
+      "text": "Srnooth Muscle Tumor",
+      "type": "ENTITY",
+      "start": 1461,
+      "end": 1481
+    },
+    {
+      "text": "inflammatory bowel disease",
+      "type": "ENTITY",
+      "start": 1486,
+      "end": 1512
+    },
+    {
+      "text": "Gastrointestinal strornal tumor 4",
+      "type": "ENTITY",
+      "start": 1517,
+      "end": 1550
+    },
+    {
+      "text": "Adenosquamous carcinomia 14",
+      "type": "ENTITY",
+      "start": 1552,
+      "end": 1579
+    },
+    {
+      "text": "Lymphoma",
+      "type": "ENTITY",
+      "start": 1581,
+      "end": 1589
+    },
+    {
+      "text": "Neuroendocrine Tumor)15",
+      "type": "ENTITY",
+      "start": 1611,
+      "end": 1634
+    },
+    {
+      "text": "Mucinous Adenocarcinoma",
+      "type": "ENTITY",
+      "start": 1645,
+      "end": 1668
+    },
+    {
+      "text": "Signet ring cell type Adenocarcinoma 8",
+      "type": "ENTITY",
+      "start": 1672,
+      "end": 1710
+    },
+    {
+      "text": "Neuroendocrine Carcinoma",
+      "type": "ENTITY",
+      "start": 1712,
+      "end": 1736
+    },
+    {
+      "text": "E. Grade",
+      "type": "ENTITY",
+      "start": 1737,
+      "end": 1745
+    },
+    {
+      "text": "Moderately",
+      "type": "ENTITY",
+      "start": 1775,
+      "end": 1785
+    },
+    {
+      "text": "Extent",
+      "type": "ENTITY",
+      "start": 1825,
+      "end": 1831
+    },
+    {
+      "text": "Infiltration",
+      "type": "ENTITY",
+      "start": 1835,
+      "end": 1847
+    },
+    {
+      "text": "mucosa",
+      "type": "ENTITY",
+      "start": 1870,
+      "end": 1876
+    },
+    {
+      "text": "muscularis propria",
+      "type": "ENTITY",
+      "start": 1900,
+      "end": 1918
+    },
+    {
+      "text": "serosal 2",
+      "type": "ENTITY",
+      "start": 1924,
+      "end": 1933
+    },
+    {
+      "text": "adipose tissue",
+      "type": "ENTITY",
+      "start": 1951,
+      "end": 1965
+    },
+    {
+      "text": "muscularis propria",
+      "type": "ENTITY",
+      "start": 1980,
+      "end": 1998
+    },
+    {
+      "text": "adjacent",
+      "type": "ENTITY",
+      "start": 2012,
+      "end": 2020
+    },
+    {
+      "text": "organs/ pelvic",
+      "type": "ENTITY",
+      "start": 2021,
+      "end": 2035
+    },
+    {
+      "text": "H. Surgicat Margins",
+      "type": "ENTITY",
+      "start": 2083,
+      "end": 2102
+    },
+    {
+      "text": "Regional",
+      "type": "ENTITY",
+      "start": 2125,
+      "end": 2133
+    },
+    {
+      "text": "Involvement",
+      "type": "ENTITY",
+      "start": 2145,
+      "end": 2156
+    },
+    {
+      "text": "regional",
+      "type": "ENTITY",
+      "start": 2174,
+      "end": 2182
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 2183,
+      "end": 2194
+    },
+    {
+      "text": "Q/25 K",
+      "type": "ENTITY",
+      "start": 2238,
+      "end": 2244
+    },
+    {
+      "text": "Extracapsular",
+      "type": "ENTITY",
+      "start": 2245,
+      "end": 2258
+    },
+    {
+      "text": "spread",
+      "type": "ENTITY",
+      "start": 2259,
+      "end": 2265
+    },
+    {
+      "text": "Associated conditions",
+      "type": "ENTITY",
+      "start": 2283,
+      "end": 2304
+    },
+    {
+      "text": "Ulcerative colitis",
+      "type": "ENTITY",
+      "start": 2313,
+      "end": 2331
+    },
+    {
+      "text": "History/",
+      "type": "ENTITY",
+      "start": 2354,
+      "end": 2362
+    },
+    {
+      "text": "presence",
+      "type": "ENTITY",
+      "start": 2363,
+      "end": 2371
+    },
+    {
+      "text": "adenomatous polyps",
+      "type": "ENTITY",
+      "start": 2375,
+      "end": 2393
+    },
+    {
+      "text": "Multiple polyposis syndromes",
+      "type": "ENTITY",
+      "start": 2398,
+      "end": 2426
+    },
+    {
+      "text": "Divericulosis",
+      "type": "ENTITY",
+      "start": 2431,
+      "end": 2444
+    },
+    {
+      "text": "M. TNM Stage",
+      "type": "ENTITY",
+      "start": 2446,
+      "end": 2458
+    },
+    {
+      "text": "T2NQMX N Dukes' Stage",
+      "type": "ENTITY",
+      "start": 2460,
+      "end": 2481
+    },
+    {
+      "text": "musculans",
+      "type": "ENTITY",
+      "start": 2514,
+      "end": 2523
+    },
+    {
+      "text": "muscularis",
+      "type": "ENTITY",
+      "start": 2539,
+      "end": 2549
+    },
+    {
+      "text": "subserosa",
+      "type": "ENTITY",
+      "start": 2555,
+      "end": 2564
+    },
+    {
+      "text": "subserosa",
+      "type": "ENTITY",
+      "start": 2580,
+      "end": 2589
+    },
+    {
+      "text": "adjacent",
+      "type": "ENTITY",
+      "start": 2604,
+      "end": 2612
+    },
+    {
+      "text": "organ/pelvic",
+      "type": "ENTITY",
+      "start": 2613,
+      "end": 2625
+    },
+    {
+      "text": "wall/regional",
+      "type": "ENTITY",
+      "start": 2626,
+      "end": 2639
+    },
+    {
+      "text": "distant lymph nodes",
+      "type": "ENTITY",
+      "start": 2643,
+      "end": 2662
+    },
+    {
+      "text": "Astler",
+      "type": "ENTITY",
+      "start": 2664,
+      "end": 2670
+    },
+    {
+      "text": "Coller",
+      "type": "ENTITY",
+      "start": 2673,
+      "end": 2679
+    },
+    {
+      "text": "Stage",
+      "type": "ENTITY",
+      "start": 2680,
+      "end": 2685
+    },
+    {
+      "text": "muscularis propria",
+      "type": "ENTITY",
+      "start": 2716,
+      "end": 2734
+    },
+    {
+      "text": "B1",
+      "type": "ENTITY",
+      "start": 2738,
+      "end": 2740
+    },
+    {
+      "text": "muscularis propria",
+      "type": "ENTITY",
+      "start": 2742,
+      "end": 2760
+    },
+    {
+      "text": "LN",
+      "type": "ENTITY",
+      "start": 2778,
+      "end": 2780
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 2781,
+      "end": 2789
+    },
+    {
+      "text": "B2",
+      "type": "ENTITY",
+      "start": 2795,
+      "end": 2797
+    },
+    {
+      "text": "muscularis propria",
+      "type": "ENTITY",
+      "start": 2807,
+      "end": 2825
+    },
+    {
+      "text": "subserosal",
+      "type": "ENTITY",
+      "start": 2831,
+      "end": 2841
+    },
+    {
+      "text": "fibroadipose tissue",
+      "type": "ENTITY",
+      "start": 2842,
+      "end": 2861
+    },
+    {
+      "text": "LN negative",
+      "type": "ENTITY",
+      "start": 2863,
+      "end": 2874
+    },
+    {
+      "text": "C1",
+      "type": "ENTITY",
+      "start": 2880,
+      "end": 2882
+    },
+    {
+      "text": "muscularis propria",
+      "type": "ENTITY",
+      "start": 2895,
+      "end": 2913
+    },
+    {
+      "text": "serosa",
+      "type": "ENTITY",
+      "start": 2930,
+      "end": 2936
+    },
+    {
+      "text": "LN",
+      "type": "ENTITY",
+      "start": 2938,
+      "end": 2940
+    },
+    {
+      "text": "positive",
+      "type": "ENTITY",
+      "start": 2941,
+      "end": 2949
+    },
+    {
+      "text": "invades",
+      "type": "ENTITY",
+      "start": 2958,
+      "end": 2965
+    },
+    {
+      "text": "serosal adipose tissue",
+      "type": "ENTITY",
+      "start": 2966,
+      "end": 2988
+    },
+    {
+      "text": "LN positive",
+      "type": "ENTITY",
+      "start": 2990,
+      "end": 3001
+    }
+  ],
+  "entity_count": 138,
+  "has_embedding": true
+}

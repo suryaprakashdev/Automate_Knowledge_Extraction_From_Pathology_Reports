@@ -1,0 +1,2318 @@
+{
+  "filename": "2da8a4ce-f798-4766-9cf6-11a754e853e2",
+  "timestamp": "2026-01-05T14:44:01.460734",
+  "entities": [
+    {
+      "text": "Redacted TCGA-DK-A3IM-01A-PR SURGICAL",
+      "type": "ENTITY",
+      "start": 58,
+      "end": 95
+    },
+    {
+      "text": "Patient",
+      "type": "ENTITY",
+      "start": 115,
+      "end": 122
+    },
+    {
+      "text": "Accession",
+      "type": "ENTITY",
+      "start": 129,
+      "end": 138
+    },
+    {
+      "text": "DOB",
+      "type": "ENTITY",
+      "start": 174,
+      "end": 177
+    },
+    {
+      "text": "Age",
+      "type": "ENTITY",
+      "start": 180,
+      "end": 183
+    },
+    {
+      "text": "Location",
+      "type": "ENTITY",
+      "start": 185,
+      "end": 193
+    },
+    {
+      "text": "Date",
+      "type": "ENTITY",
+      "start": 195,
+      "end": 199
+    },
+    {
+      "text": "Receipt",
+      "type": "ENTITY",
+      "start": 203,
+      "end": 210
+    },
+    {
+      "text": "Gender",
+      "type": "ENTITY",
+      "start": 212,
+      "end": 218
+    },
+    {
+      "text": "Physician",
+      "type": "ENTITY",
+      "start": 261,
+      "end": 270
+    },
+    {
+      "text": "Patient",
+      "type": "ENTITY",
+      "start": 283,
+      "end": 290
+    },
+    {
+      "text": "Billing Type",
+      "type": "ENTITY",
+      "start": 300,
+      "end": 312
+    },
+    {
+      "text": "Copy to",
+      "type": "ENTITY",
+      "start": 335,
+      "end": 342
+    },
+    {
+      "text": "Clinical Diagnosis & History",
+      "type": "ENTITY",
+      "start": 357,
+      "end": 385
+    },
+    {
+      "text": "male",
+      "type": "ENTITY",
+      "start": 398,
+      "end": 402
+    },
+    {
+      "text": "bladder",
+      "type": "ENTITY",
+      "start": 408,
+      "end": 415
+    },
+    {
+      "text": "Soft tissue bladder margin",
+      "type": "ENTITY",
+      "start": 478,
+      "end": 504
+    },
+    {
+      "text": "Bladder diverticulum",
+      "type": "ENTITY",
+      "start": 515,
+      "end": 535
+    },
+    {
+      "text": "urachus",
+      "type": "ENTITY",
+      "start": 537,
+      "end": 544
+    },
+    {
+      "text": "perivesicle tissue",
+      "type": "ENTITY",
+      "start": 546,
+      "end": 564
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 566,
+      "end": 577
+    },
+    {
+      "text": "upper portion of bladder",
+      "type": "ENTITY",
+      "start": 579,
+      "end": 603
+    },
+    {
+      "text": "distal right ureter 3",
+      "type": "ENTITY",
+      "start": 605,
+      "end": 626
+    },
+    {
+      "text": "Right vas deferens 4",
+      "type": "ENTITY",
+      "start": 628,
+      "end": 648
+    },
+    {
+      "text": "Right pelvic lymph nodes",
+      "type": "ENTITY",
+      "start": 650,
+      "end": 674
+    },
+    {
+      "text": "Perivesical fat",
+      "type": "ENTITY",
+      "start": 678,
+      "end": 693
+    },
+    {
+      "text": "Piece",
+      "type": "ENTITY",
+      "start": 697,
+      "end": 702
+    },
+    {
+      "text": "omentum",
+      "type": "ENTITY",
+      "start": 706,
+      "end": 713
+    },
+    {
+      "text": "Periureteral tissue",
+      "type": "ENTITY",
+      "start": 717,
+      "end": 736
+    },
+    {
+      "text": "Perivesical tissue DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 741,
+      "end": 769
+    },
+    {
+      "text": "Soft tissue",
+      "type": "ENTITY",
+      "start": 774,
+      "end": 785
+    },
+    {
+      "text": "bladder margin",
+      "type": "ENTITY",
+      "start": 787,
+      "end": 801
+    },
+    {
+      "text": "excision",
+      "type": "ENTITY",
+      "start": 803,
+      "end": 811
+    },
+    {
+      "text": "Benign",
+      "type": "ENTITY",
+      "start": 820,
+      "end": 826
+    },
+    {
+      "text": "fibroadipose tissue.e 2",
+      "type": "ENTITY",
+      "start": 827,
+      "end": 850
+    },
+    {
+      "text": "diverticulum",
+      "type": "ENTITY",
+      "start": 861,
+      "end": 873
+    },
+    {
+      "text": "urachus",
+      "type": "ENTITY",
+      "start": 875,
+      "end": 882
+    },
+    {
+      "text": "perivesicle tissue",
+      "type": "ENTITY",
+      "start": 884,
+      "end": 902
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 904,
+      "end": 915
+    },
+    {
+      "text": "upper portion of bladder",
+      "type": "ENTITY",
+      "start": 917,
+      "end": 941
+    },
+    {
+      "text": "distal right ureter",
+      "type": "ENTITY",
+      "start": 943,
+      "end": 962
+    },
+    {
+      "text": "Tumor Type",
+      "type": "ENTITY",
+      "start": 964,
+      "end": 974
+    },
+    {
+      "text": "Urothelial carcinoma",
+      "type": "ENTITY",
+      "start": 976,
+      "end": 996
+    },
+    {
+      "text": "histologic",
+      "type": "ENTITY",
+      "start": 1008,
+      "end": 1018
+    },
+    {
+      "text": "features",
+      "type": "ENTITY",
+      "start": 1019,
+      "end": 1027
+    },
+    {
+      "text": "urothelial carcinoma",
+      "type": "ENTITY",
+      "start": 1041,
+      "end": 1061
+    },
+    {
+      "text": "NOs",
+      "type": "ENTITY",
+      "start": 1062,
+      "end": 1065
+    },
+    {
+      "text": "keratinizing  squamous",
+      "type": "ENTITY",
+      "start": 1067,
+      "end": 1089
+    },
+    {
+      "text": "bladder",
+      "type": "ENTITY",
+      "start": 1132,
+      "end": 1139
+    },
+    {
+      "text": "Histologic Grade",
+      "type": "ENTITY",
+      "start": 1153,
+      "end": 1169
+    },
+    {
+      "text": "Pattern",
+      "type": "ENTITY",
+      "start": 1191,
+      "end": 1198
+    },
+    {
+      "text": "growth",
+      "type": "ENTITY",
+      "start": 1202,
+      "end": 1208
+    },
+    {
+      "text": "Non-Invasive component",
+      "type": "ENTITY",
+      "start": 1216,
+      "end": 1238
+    },
+    {
+      "text": "Papillary",
+      "type": "ENTITY",
+      "start": 1241,
+      "end": 1250
+    },
+    {
+      "text": "flat go7if3",
+      "type": "ENTITY",
+      "start": 1255,
+      "end": 1266
+    },
+    {
+      "text": "newrmdotrm Pattern",
+      "type": "ENTITY",
+      "start": 1280,
+      "end": 1298
+    },
+    {
+      "text": "growth",
+      "type": "ENTITY",
+      "start": 1302,
+      "end": 1308
+    },
+    {
+      "text": "Invasive component",
+      "type": "ENTITY",
+      "start": 1316,
+      "end": 1334
+    },
+    {
+      "text": "Cod+",
+      "type": "ENTITY",
+      "start": 1358,
+      "end": 1362
+    },
+    {
+      "text": "Tumor Multicentricity",
+      "type": "ENTITY",
+      "start": 1372,
+      "end": 1393
+    },
+    {
+      "text": "Cl7.9",
+      "type": "ENTITY",
+      "start": 1423,
+      "end": 1428
+    },
+    {
+      "text": "Bladder",
+      "type": "ENTITY",
+      "start": 1429,
+      "end": 1436
+    },
+    {
+      "text": "Local Invasion",
+      "type": "ENTITY",
+      "start": 1437,
+      "end": 1451
+    },
+    {
+      "text": "Perivesical",
+      "type": "ENTITY",
+      "start": 1460,
+      "end": 1471
+    },
+    {
+      "text": "soft tissues",
+      "type": "ENTITY",
+      "start": 1472,
+      "end": 1484
+    },
+    {
+      "text": "Extravesical Tumor Extension:e Right ureter uninvolved",
+      "type": "ENTITY",
+      "start": 1485,
+      "end": 1539
+    },
+    {
+      "text": "Left ureter uninvolved",
+      "type": "ENTITY",
+      "start": 1540,
+      "end": 1562
+    },
+    {
+      "text": "Urethra",
+      "type": "ENTITY",
+      "start": 1563,
+      "end": 1570
+    },
+    {
+      "text": "Vascular Invasion",
+      "type": "ENTITY",
+      "start": 1582,
+      "end": 1599
+    },
+    {
+      "text": "Identified",
+      "type": "ENTITY",
+      "start": 1601,
+      "end": 1611
+    },
+    {
+      "text": "Identified",
+      "type": "ENTITY",
+      "start": 1699,
+      "end": 1709
+    },
+    {
+      "text": "Free of",
+      "type": "ENTITY",
+      "start": 1728,
+      "end": 1735
+    },
+    {
+      "text": "Exhibiting",
+      "type": "ENTITY",
+      "start": 1765,
+      "end": 1775
+    },
+    {
+      "text": "chronic cystitis",
+      "type": "ENTITY",
+      "start": 1776,
+      "end": 1792
+    },
+    {
+      "text": "Exhibiting",
+      "type": "ENTITY",
+      "start": 1793,
+      "end": 1803
+    },
+    {
+      "text": "denudation",
+      "type": "ENTITY",
+      "start": 1804,
+      "end": 1814
+    },
+    {
+      "text": "Prostate",
+      "type": "ENTITY",
+      "start": 1815,
+      "end": 1823
+    },
+    {
+      "text": "Seminal Vesicles",
+      "type": "ENTITY",
+      "start": 1840,
+      "end": 1856
+    },
+    {
+      "text": "Perivesical Lymph Nodes",
+      "type": "ENTITY",
+      "start": 1873,
+      "end": 1896
+    },
+    {
+      "text": "Pathologic Stage",
+      "type": "ENTITY",
+      "start": 1917,
+      "end": 1933
+    },
+    {
+      "text": "AJCC",
+      "type": "ENTITY",
+      "start": 1938,
+      "end": 1942
+    },
+    {
+      "text": "pT3",
+      "type": "ENTITY",
+      "start": 1950,
+      "end": 1953
+    },
+    {
+      "text": "Invasion",
+      "type": "ENTITY",
+      "start": 1955,
+      "end": 1963
+    },
+    {
+      "text": "perivesicle soft tissue",
+      "type": "ENTITY",
+      "start": 1967,
+      "end": 1990
+    },
+    {
+      "text": "deferens",
+      "type": "ENTITY",
+      "start": 1998,
+      "end": 2006
+    },
+    {
+      "text": "right",
+      "type": "ENTITY",
+      "start": 2008,
+      "end": 2013
+    },
+    {
+      "text": "resection",
+      "type": "ENTITY",
+      "start": 2015,
+      "end": 2024
+    },
+    {
+      "text": "Benign",
+      "type": "ENTITY",
+      "start": 2028,
+      "end": 2034
+    },
+    {
+      "text": "Right pelvic lymph nodes",
+      "type": "ENTITY",
+      "start": 2049,
+      "end": 2073
+    },
+    {
+      "text": "Lymph Node Dissection",
+      "type": "ENTITY",
+      "start": 2077,
+      "end": 2098
+    },
+    {
+      "text": "Benign",
+      "type": "ENTITY",
+      "start": 2100,
+      "end": 2106
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 2107,
+      "end": 2118
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 2129,
+      "end": 2140
+    },
+    {
+      "text": "Soft tissue",
+      "type": "ENTITY",
+      "start": 2153,
+      "end": 2164
+    },
+    {
+      "text": "perivesical fat",
+      "type": "ENTITY",
+      "start": 2167,
+      "end": 2182
+    },
+    {
+      "text": "excision",
+      "type": "ENTITY",
+      "start": 2184,
+      "end": 2192
+    },
+    {
+      "text": "Benign",
+      "type": "ENTITY",
+      "start": 2196,
+      "end": 2202
+    },
+    {
+      "text": "fibroadipose tissue",
+      "type": "ENTITY",
+      "start": 2203,
+      "end": 2222
+    },
+    {
+      "text": "Omentum",
+      "type": "ENTITY",
+      "start": 2227,
+      "end": 2234
+    },
+    {
+      "text": "resection",
+      "type": "ENTITY",
+      "start": 2236,
+      "end": 2245
+    },
+    {
+      "text": "Benign",
+      "type": "ENTITY",
+      "start": 2249,
+      "end": 2255
+    },
+    {
+      "text": "adipose tissue",
+      "type": "ENTITY",
+      "start": 2256,
+      "end": 2270
+    },
+    {
+      "text": "Soft tissue",
+      "type": "ENTITY",
+      "start": 2272,
+      "end": 2283
+    },
+    {
+      "text": "periureteral tissue",
+      "type": "ENTITY",
+      "start": 2285,
+      "end": 2304
+    },
+    {
+      "text": "excision",
+      "type": "ENTITY",
+      "start": 2306,
+      "end": 2314
+    },
+    {
+      "text": "Benign",
+      "type": "ENTITY",
+      "start": 2318,
+      "end": 2324
+    },
+    {
+      "text": "fibrovascular",
+      "type": "ENTITY",
+      "start": 2325,
+      "end": 2338
+    },
+    {
+      "text": "adipose tissue",
+      "type": "ENTITY",
+      "start": 2343,
+      "end": 2357
+    },
+    {
+      "text": "Soft tissue",
+      "type": "ENTITY",
+      "start": 2362,
+      "end": 2373
+    },
+    {
+      "text": "perivesical tissue",
+      "type": "ENTITY",
+      "start": 2375,
+      "end": 2393
+    },
+    {
+      "text": "excision",
+      "type": "ENTITY",
+      "start": 2395,
+      "end": 2403
+    },
+    {
+      "text": "Benign",
+      "type": "ENTITY",
+      "start": 2407,
+      "end": 2413
+    },
+    {
+      "text": "fibroadipose tissue",
+      "type": "ENTITY",
+      "start": 2414,
+      "end": 2433
+    },
+    {
+      "text": "ATTEST",
+      "type": "ENTITY",
+      "start": 2437,
+      "end": 2443
+    },
+    {
+      "text": "ABOVE DIAGNOSIS IS",
+      "type": "ENTITY",
+      "start": 2453,
+      "end": 2471
+    },
+    {
+      "text": "THAT I",
+      "type": "ENTITY",
+      "start": 2550,
+      "end": 2556
+    },
+    {
+      "text": "*** Report",
+      "type": "ENTITY",
+      "start": 2597,
+      "end": 2607
+    },
+    {
+      "text": "Electronically Signed",
+      "type": "ENTITY",
+      "start": 2608,
+      "end": 2629
+    },
+    {
+      "text": "SYN",
+      "type": "ENTITY",
+      "start": 2684,
+      "end": 2687
+    },
+    {
+      "text": "CHR",
+      "type": "ENTITY",
+      "start": 2688,
+      "end": 2691
+    },
+    {
+      "text": "RECUT",
+      "type": "ENTITY",
+      "start": 2760,
+      "end": 2765
+    },
+    {
+      "text": "IMM",
+      "type": "ENTITY",
+      "start": 2766,
+      "end": 2769
+    },
+    {
+      "text": "RECUT",
+      "type": "ENTITY",
+      "start": 2770,
+      "end": 2775
+    },
+    {
+      "text": "NEG",
+      "type": "ENTITY",
+      "start": 2776,
+      "end": 2779
+    },
+    {
+      "text": "CONT",
+      "type": "ENTITY",
+      "start": 2780,
+      "end": 2784
+    },
+    {
+      "text": "Gross Description",
+      "type": "ENTITY",
+      "start": 2785,
+      "end": 2802
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 2809,
+      "end": 2817
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 2830,
+      "end": 2835
+    },
+    {
+      "text": "frozen section",
+      "type": "ENTITY",
+      "start": 2840,
+      "end": 2854
+    },
+    {
+      "text": "consultation",
+      "type": "ENTITY",
+      "start": 2855,
+      "end": 2867
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 2869,
+      "end": 2876
+    },
+    {
+      "text": "Soft tissue",
+      "type": "ENTITY",
+      "start": 2879,
+      "end": 2890
+    },
+    {
+      "text": "fragment",
+      "type": "ENTITY",
+      "start": 2930,
+      "end": 2938
+    },
+    {
+      "text": "soft pink",
+      "type": "ENTITY",
+      "start": 2942,
+      "end": 2951
+    },
+    {
+      "text": "yellow tissue",
+      "type": "ENTITY",
+      "start": 2956,
+      "end": 2969
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 2994,
+      "end": 3002
+    },
+    {
+      "text": "frozen",
+      "type": "ENTITY",
+      "start": 3015,
+      "end": 3021
+    },
+    {
+      "text": "cassette",
+      "type": "ENTITY",
+      "start": 3043,
+      "end": 3051
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 3064,
+      "end": 3072
+    },
+    {
+      "text": "FSC",
+      "type": "ENTITY",
+      "start": 3074,
+      "end": 3077
+    },
+    {
+      "text": "frozen",
+      "type": "ENTITY",
+      "start": 3080,
+      "end": 3086
+    },
+    {
+      "text": "control",
+      "type": "ENTITY",
+      "start": 3095,
+      "end": 3102
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 3112,
+      "end": 3120
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 3133,
+      "end": 3138
+    },
+    {
+      "text": "perivesicular",
+      "type": "ENTITY",
+      "start": 3157,
+      "end": 3170
+    },
+    {
+      "text": "upper portion of bladder",
+      "type": "ENTITY",
+      "start": 3191,
+      "end": 3215
+    },
+    {
+      "text": "bladder diverticulum",
+      "type": "ENTITY",
+      "start": 3217,
+      "end": 3237
+    },
+    {
+      "text": "distal right ureter",
+      "type": "ENTITY",
+      "start": 3239,
+      "end": 3258
+    },
+    {
+      "text": "portion",
+      "type": "ENTITY",
+      "start": 3278,
+      "end": 3285
+    },
+    {
+      "text": "bladder",
+      "type": "ENTITY",
+      "start": 3289,
+      "end": 3296
+    },
+    {
+      "text": "diverticulum",
+      "type": "ENTITY",
+      "start": 3298,
+      "end": 3310
+    },
+    {
+      "text": "portion of ureter",
+      "type": "ENTITY",
+      "start": 3312,
+      "end": 3329
+    },
+    {
+      "text": "perivesicular",
+      "type": "ENTITY",
+      "start": 3335,
+      "end": 3348
+    },
+    {
+      "text": "tissue",
+      "type": "ENTITY",
+      "start": 3349,
+      "end": 3355
+    },
+    {
+      "text": "portion",
+      "type": "ENTITY",
+      "start": 3361,
+      "end": 3368
+    },
+    {
+      "text": "bladder",
+      "type": "ENTITY",
+      "start": 3372,
+      "end": 3379
+    },
+    {
+      "text": "dusky purple-pink",
+      "type": "ENTITY",
+      "start": 3406,
+      "end": 3423
+    },
+    {
+      "text": "mucosa",
+      "type": "ENTITY",
+      "start": 3451,
+      "end": 3457
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 3458,
+      "end": 3467
+    },
+    {
+      "text": "perivesicular",
+      "type": "ENTITY",
+      "start": 3497,
+      "end": 3510
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 3518,
+      "end": 3527
+    },
+    {
+      "text": "closed pouch",
+      "type": "ENTITY",
+      "start": 3562,
+      "end": 3574
+    },
+    {
+      "text": "diverticulum",
+      "type": "ENTITY",
+      "start": 3580,
+      "end": 3592
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 3593,
+      "end": 3601
+    },
+    {
+      "text": "bladder mucosa",
+      "type": "ENTITY",
+      "start": 3674,
+      "end": 3688
+    },
+    {
+      "text": "anterior",
+      "type": "ENTITY",
+      "start": 3695,
+      "end": 3703
+    },
+    {
+      "text": "diverticulum",
+      "type": "ENTITY",
+      "start": 3716,
+      "end": 3728
+    },
+    {
+      "text": "transmural defect",
+      "type": "ENTITY",
+      "start": 3753,
+      "end": 3770
+    },
+    {
+      "text": "urachus",
+      "type": "ENTITY",
+      "start": 3785,
+      "end": 3792
+    },
+    {
+      "text": "tissue",
+      "type": "ENTITY",
+      "start": 3798,
+      "end": 3804
+    },
+    {
+      "text": "defect",
+      "type": "ENTITY",
+      "start": 3821,
+      "end": 3827
+    },
+    {
+      "text": "anterior",
+      "type": "ENTITY",
+      "start": 3859,
+      "end": 3867
+    },
+    {
+      "text": "aspect",
+      "type": "ENTITY",
+      "start": 3868,
+      "end": 3874
+    },
+    {
+      "text": "inked black",
+      "type": "ENTITY",
+      "start": 3878,
+      "end": 3889
+    },
+    {
+      "text": "posterior",
+      "type": "ENTITY",
+      "start": 3896,
+      "end": 3905
+    },
+    {
+      "text": "surface",
+      "type": "ENTITY",
+      "start": 3906,
+      "end": 3913
+    },
+    {
+      "text": "diverticulum",
+      "type": "ENTITY",
+      "start": 3926,
+      "end": 3938
+    },
+    {
+      "text": "bladder",
+      "type": "ENTITY",
+      "start": 3943,
+      "end": 3950
+    },
+    {
+      "text": "perivesicular",
+      "type": "ENTITY",
+      "start": 3951,
+      "end": 3964
+    },
+    {
+      "text": "inked blue",
+      "type": "ENTITY",
+      "start": 3976,
+      "end": 3986
+    },
+    {
+      "text": "right aspect",
+      "type": "ENTITY",
+      "start": 3993,
+      "end": 4005
+    },
+    {
+      "text": "diverticulum",
+      "type": "ENTITY",
+      "start": 4013,
+      "end": 4025
+    },
+    {
+      "text": "adhered",
+      "type": "ENTITY",
+      "start": 4033,
+      "end": 4040
+    },
+    {
+      "text": "segment",
+      "type": "ENTITY",
+      "start": 4041,
+      "end": 4048
+    },
+    {
+      "text": "ureter",
+      "type": "ENTITY",
+      "start": 4052,
+      "end": 4058
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 4059,
+      "end": 4068
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 4079,
+      "end": 4085
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 4099,
+      "end": 4107
+    },
+    {
+      "text": "ureter",
+      "type": "ENTITY",
+      "start": 4113,
+      "end": 4119
+    },
+    {
+      "text": "clip",
+      "type": "ENTITY",
+      "start": 4128,
+      "end": 4132
+    },
+    {
+      "text": "diverticulum",
+      "type": "ENTITY",
+      "start": 4165,
+      "end": 4177
+    },
+    {
+      "text": "yellow-brown",
+      "type": "ENTITY",
+      "start": 4200,
+      "end": 4212
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 4247,
+      "end": 4256
+    },
+    {
+      "text": "transmural defect",
+      "type": "ENTITY",
+      "start": 4293,
+      "end": 4310
+    },
+    {
+      "text": "bladder mucosa",
+      "type": "ENTITY",
+      "start": 4340,
+      "end": 4354
+    },
+    {
+      "text": "adjacent",
+      "type": "ENTITY",
+      "start": 4376,
+      "end": 4384
+    },
+    {
+      "text": "papillary nodule",
+      "type": "ENTITY",
+      "start": 4392,
+      "end": 4408
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 4409,
+      "end": 4418
+    },
+    {
+      "text": "fungating tumor",
+      "type": "ENTITY",
+      "start": 4455,
+      "end": 4470
+    },
+    {
+      "text": "transmural defects",
+      "type": "ENTITY",
+      "start": 4488,
+      "end": 4506
+    },
+    {
+      "text": "bladder mucosa",
+      "type": "ENTITY",
+      "start": 4537,
+      "end": 4551
+    },
+    {
+      "text": "sectioning",
+      "type": "ENTITY",
+      "start": 4558,
+      "end": 4568
+    },
+    {
+      "text": "tumor nodules",
+      "type": "ENTITY",
+      "start": 4577,
+      "end": 4590
+    },
+    {
+      "text": "papillary",
+      "type": "ENTITY",
+      "start": 4609,
+      "end": 4618
+    },
+    {
+      "text": "extension",
+      "type": "ENTITY",
+      "start": 4619,
+      "end": 4628
+    },
+    {
+      "text": "depth",
+      "type": "ENTITY",
+      "start": 4634,
+      "end": 4639
+    },
+    {
+      "text": "bladder",
+      "type": "ENTITY",
+      "start": 4664,
+      "end": 4671
+    },
+    {
+      "text": "diverticulum mucosa",
+      "type": "ENTITY",
+      "start": 4672,
+      "end": 4691
+    },
+    {
+      "text": "yellow",
+      "type": "ENTITY",
+      "start": 4695,
+      "end": 4701
+    },
+    {
+      "text": "smooth",
+      "type": "ENTITY",
+      "start": 4706,
+      "end": 4712
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 4720,
+      "end": 4725
+    },
+    {
+      "text": "ureter",
+      "type": "ENTITY",
+      "start": 4754,
+      "end": 4760
+    },
+    {
+      "text": "ureter",
+      "type": "ENTITY",
+      "start": 4769,
+      "end": 4775
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 4807,
+      "end": 4812
+    },
+    {
+      "text": "ureter margins",
+      "type": "ENTITY",
+      "start": 4826,
+      "end": 4840
+    },
+    {
+      "text": "shaved",
+      "type": "ENTITY",
+      "start": 4845,
+      "end": 4851
+    },
+    {
+      "text": "submitted",
+      "type": "ENTITY",
+      "start": 4856,
+      "end": 4865
+    },
+    {
+      "text": "Perpendicular",
+      "type": "ENTITY",
+      "start": 4875,
+      "end": 4888
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 4889,
+      "end": 4897
+    },
+    {
+      "text": "bladder mucosa",
+      "type": "ENTITY",
+      "start": 4905,
+      "end": 4919
+    },
+    {
+      "text": "margins",
+      "type": "ENTITY",
+      "start": 4920,
+      "end": 4927
+    },
+    {
+      "text": "ner clock",
+      "type": "ENTITY",
+      "start": 4942,
+      "end": 4951
+    },
+    {
+      "text": "o'clock",
+      "type": "ENTITY",
+      "start": 4965,
+      "end": 4972
+    },
+    {
+      "text": "pathology",
+      "type": "ENTITY",
+      "start": 4999,
+      "end": 5008
+    },
+    {
+      "text": "diverticulum",
+      "type": "ENTITY",
+      "start": 5016,
+      "end": 5028
+    },
+    {
+      "text": "Gross photos",
+      "type": "ENTITY",
+      "start": 5047,
+      "end": 5059
+    },
+    {
+      "text": "Representative sections",
+      "type": "ENTITY",
+      "start": 5081,
+      "end": 5104
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 5131,
+      "end": 5139
+    },
+    {
+      "text": "BM3",
+      "type": "ENTITY",
+      "start": 5141,
+      "end": 5144
+    },
+    {
+      "text": "bladder",
+      "type": "ENTITY",
+      "start": 5147,
+      "end": 5154
+    },
+    {
+      "text": "margin",
+      "type": "ENTITY",
+      "start": 5155,
+      "end": 5161
+    },
+    {
+      "text": "o'clock",
+      "type": "ENTITY",
+      "start": 5164,
+      "end": 5171
+    },
+    {
+      "text": "lateral margin 6 o'clock",
+      "type": "ENTITY",
+      "start": 5177,
+      "end": 5201
+    },
+    {
+      "text": "diverticulum",
+      "type": "ENTITY",
+      "start": 5216,
+      "end": 5228
+    },
+    {
+      "text": "BM9",
+      "type": "ENTITY",
+      "start": 5246,
+      "end": 5249
+    },
+    {
+      "text": "bladder",
+      "type": "ENTITY",
+      "start": 5252,
+      "end": 5259
+    },
+    {
+      "text": "margin",
+      "type": "ENTITY",
+      "start": 5260,
+      "end": 5266
+    },
+    {
+      "text": "TB",
+      "type": "ENTITY",
+      "start": 5277,
+      "end": 5279
+    },
+    {
+      "text": "diverticulum",
+      "type": "ENTITY",
+      "start": 5282,
+      "end": 5294
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 5295,
+      "end": 5300
+    },
+    {
+      "text": "portion",
+      "type": "ENTITY",
+      "start": 5313,
+      "end": 5320
+    },
+    {
+      "text": "bladder",
+      "type": "ENTITY",
+      "start": 5324,
+      "end": 5331
+    },
+    {
+      "text": "TN",
+      "type": "ENTITY",
+      "start": 5332,
+      "end": 5334
+    },
+    {
+      "text": "diverticulum",
+      "type": "ENTITY",
+      "start": 5337,
+      "end": 5349
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 5350,
+      "end": 5355
+    },
+    {
+      "text": "nodule",
+      "type": "ENTITY",
+      "start": 5367,
+      "end": 5373
+    },
+    {
+      "text": "ND",
+      "type": "ENTITY",
+      "start": 5374,
+      "end": 5376
+    },
+    {
+      "text": "smaller",
+      "type": "ENTITY",
+      "start": 5379,
+      "end": 5386
+    },
+    {
+      "text": "nodule",
+      "type": "ENTITY",
+      "start": 5387,
+      "end": 5393
+    },
+    {
+      "text": "transmural defect",
+      "type": "ENTITY",
+      "start": 5397,
+      "end": 5414
+    },
+    {
+      "text": "TU",
+      "type": "ENTITY",
+      "start": 5415,
+      "end": 5417
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 5420,
+      "end": 5425
+    },
+    {
+      "text": "ureter",
+      "type": "ENTITY",
+      "start": 5429,
+      "end": 5435
+    },
+    {
+      "text": "UC",
+      "type": "ENTITY",
+      "start": 5437,
+      "end": 5439
+    },
+    {
+      "text": "ureter margin",
+      "type": "ENTITY",
+      "start": 5442,
+      "end": 5455
+    },
+    {
+      "text": "clipped end",
+      "type": "ENTITY",
+      "start": 5457,
+      "end": 5468
+    },
+    {
+      "text": "UO",
+      "type": "ENTITY",
+      "start": 5470,
+      "end": 5472
+    },
+    {
+      "text": "ureter",
+      "type": "ENTITY",
+      "start": 5475,
+      "end": 5481
+    },
+    {
+      "text": "DIV",
+      "type": "ENTITY",
+      "start": 5502,
+      "end": 5505
+    },
+    {
+      "text": "additional",
+      "type": "ENTITY",
+      "start": 5508,
+      "end": 5518
+    },
+    {
+      "text": "representative",
+      "type": "ENTITY",
+      "start": 5519,
+      "end": 5533
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 5534,
+      "end": 5542
+    },
+    {
+      "text": "diverticulum",
+      "type": "ENTITY",
+      "start": 5546,
+      "end": 5558
+    },
+    {
+      "text": "BL",
+      "type": "ENTITY",
+      "start": 5559,
+      "end": 5561
+    },
+    {
+      "text": "additional",
+      "type": "ENTITY",
+      "start": 5564,
+      "end": 5574
+    },
+    {
+      "text": "representative",
+      "type": "ENTITY",
+      "start": 5575,
+      "end": 5589
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 5590,
+      "end": 5598
+    },
+    {
+      "text": "bladder F",
+      "type": "ENTITY",
+      "start": 5602,
+      "end": 5611
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 5614,
+      "end": 5619
+    },
+    {
+      "text": "invasion",
+      "type": "ENTITY",
+      "start": 5641,
+      "end": 5649
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 5656,
+      "end": 5664
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 5680,
+      "end": 5688
+    },
+    {
+      "text": "segment",
+      "type": "ENTITY",
+      "start": 5738,
+      "end": 5745
+    },
+    {
+      "text": "vas deferens",
+      "type": "ENTITY",
+      "start": 5749,
+      "end": 5761
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 5767,
+      "end": 5775
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 5799,
+      "end": 5807
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 5865,
+      "end": 5873
+    },
+    {
+      "text": "U",
+      "type": "ENTITY",
+      "start": 5875,
+      "end": 5876
+    },
+    {
+      "text": "undesignated",
+      "type": "ENTITY",
+      "start": 5879,
+      "end": 5891
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 5953,
+      "end": 5961
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 5977,
+      "end": 5985
+    },
+    {
+      "text": "multiple",
+      "type": "ENTITY",
+      "start": 6039,
+      "end": 6047
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 6048,
+      "end": 6059
+    },
+    {
+      "text": "measure",
+      "type": "ENTITY",
+      "start": 6065,
+      "end": 6072
+    },
+    {
+      "text": "dimension",
+      "type": "ENTITY",
+      "start": 6098,
+      "end": 6107
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 6112,
+      "end": 6120
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 6155,
+      "end": 6163
+    },
+    {
+      "text": "BLN",
+      "type": "ENTITY",
+      "start": 6166,
+      "end": 6169
+    },
+    {
+      "text": "bisected",
+      "type": "ENTITY",
+      "start": 6172,
+      "end": 6180
+    },
+    {
+      "text": "lymph node LN",
+      "type": "ENTITY",
+      "start": 6181,
+      "end": 6194
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 6197,
+      "end": 6208
+    },
+    {
+      "text": "5.The specimen",
+      "type": "ENTITY",
+      "start": 6209,
+      "end": 6223
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 6239,
+      "end": 6247
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 6249,
+      "end": 6256
+    },
+    {
+      "text": "piece",
+      "type": "ENTITY",
+      "start": 6294,
+      "end": 6299
+    },
+    {
+      "text": "fibrofatty",
+      "type": "ENTITY",
+      "start": 6303,
+      "end": 6313
+    },
+    {
+      "text": "tissue",
+      "type": "ENTITY",
+      "start": 6314,
+      "end": 6320
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 6326,
+      "end": 6334
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 6359,
+      "end": 6367
+    },
+    {
+      "text": "yellow",
+      "type": "ENTITY",
+      "start": 6400,
+      "end": 6406
+    },
+    {
+      "text": "homogeneous",
+      "type": "ENTITY",
+      "start": 6408,
+      "end": 6419
+    },
+    {
+      "text": "surfaces",
+      "type": "ENTITY",
+      "start": 6424,
+      "end": 6432
+    },
+    {
+      "text": "Representative sections",
+      "type": "ENTITY",
+      "start": 6434,
+      "end": 6457
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 6484,
+      "end": 6492
+    },
+    {
+      "text": "U",
+      "type": "ENTITY",
+      "start": 6494,
+      "end": 6495
+    },
+    {
+      "text": "undesignated",
+      "type": "ENTITY",
+      "start": 6499,
+      "end": 6511
+    },
+    {
+      "text": "6.The specimen",
+      "type": "ENTITY",
+      "start": 6512,
+      "end": 6526
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 6542,
+      "end": 6550
+    },
+    {
+      "text": "piece",
+      "type": "ENTITY",
+      "start": 6561,
+      "end": 6566
+    },
+    {
+      "text": "omentum",
+      "type": "ENTITY",
+      "start": 6570,
+      "end": 6577
+    },
+    {
+      "text": "piece",
+      "type": "ENTITY",
+      "start": 6598,
+      "end": 6603
+    },
+    {
+      "text": "fibrofatty",
+      "type": "ENTITY",
+      "start": 6607,
+      "end": 6617
+    },
+    {
+      "text": "tissue",
+      "type": "ENTITY",
+      "start": 6618,
+      "end": 6624
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 6630,
+      "end": 6638
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 6663,
+      "end": 6671
+    },
+    {
+      "text": "yellow",
+      "type": "ENTITY",
+      "start": 6704,
+      "end": 6710
+    },
+    {
+      "text": "homogenous",
+      "type": "ENTITY",
+      "start": 6712,
+      "end": 6722
+    },
+    {
+      "text": "cut",
+      "type": "ENTITY",
+      "start": 6723,
+      "end": 6726
+    },
+    {
+      "text": "surfaces",
+      "type": "ENTITY",
+      "start": 6727,
+      "end": 6735
+    },
+    {
+      "text": "Representative sections",
+      "type": "ENTITY",
+      "start": 6737,
+      "end": 6760
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 6787,
+      "end": 6795
+    },
+    {
+      "text": "U",
+      "type": "ENTITY",
+      "start": 6797,
+      "end": 6798
+    },
+    {
+      "text": "undesignated",
+      "type": "ENTITY",
+      "start": 6802,
+      "end": 6814
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 6821,
+      "end": 6829
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 6845,
+      "end": 6853
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 6855,
+      "end": 6862
+    },
+    {
+      "text": "piece",
+      "type": "ENTITY",
+      "start": 6902,
+      "end": 6907
+    },
+    {
+      "text": "fibrofatty",
+      "type": "ENTITY",
+      "start": 6911,
+      "end": 6921
+    },
+    {
+      "text": "tissue",
+      "type": "ENTITY",
+      "start": 6922,
+      "end": 6928
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 6934,
+      "end": 6942
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 6965,
+      "end": 6973
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 7008,
+      "end": 7016
+    },
+    {
+      "text": "U",
+      "type": "ENTITY",
+      "start": 7018,
+      "end": 7019
+    },
+    {
+      "text": "undesignated",
+      "type": "ENTITY",
+      "start": 7023,
+      "end": 7035
+    },
+    {
+      "text": "8.The",
+      "type": "ENTITY",
+      "start": 7036,
+      "end": 7041
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 7042,
+      "end": 7050
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 7066,
+      "end": 7074
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 7076,
+      "end": 7083
+    },
+    {
+      "text": "periureteral tissue",
+      "type": "ENTITY",
+      "start": 7085,
+      "end": 7104
+    },
+    {
+      "text": "piece",
+      "type": "ENTITY",
+      "start": 7124,
+      "end": 7129
+    },
+    {
+      "text": "fibrofatty",
+      "type": "ENTITY",
+      "start": 7133,
+      "end": 7143
+    },
+    {
+      "text": "tissue",
+      "type": "ENTITY",
+      "start": 7144,
+      "end": 7150
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 7156,
+      "end": 7164
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 7189,
+      "end": 7197
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 7232,
+      "end": 7240
+    },
+    {
+      "text": "U",
+      "type": "ENTITY",
+      "start": 7242,
+      "end": 7243
+    },
+    {
+      "text": "undesignated",
+      "type": "ENTITY",
+      "start": 7247,
+      "end": 7259
+    },
+    {
+      "text": "Sections",
+      "type": "ENTITY",
+      "start": 7272,
+      "end": 7280
+    },
+    {
+      "text": "Soft tissue",
+      "type": "ENTITY",
+      "start": 7292,
+      "end": 7303
+    },
+    {
+      "text": "BJock Sect",
+      "type": "ENTITY",
+      "start": 7324,
+      "end": 7334
+    },
+    {
+      "text": "diverticulum",
+      "type": "ENTITY",
+      "start": 7368,
+      "end": 7380
+    },
+    {
+      "text": "urachus",
+      "type": "ENTITY",
+      "start": 7382,
+      "end": 7389
+    },
+    {
+      "text": "perivesicle tissue",
+      "type": "ENTITY",
+      "start": 7391,
+      "end": 7409
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 7411,
+      "end": 7422
+    },
+    {
+      "text": "upper portion of bladder",
+      "type": "ENTITY",
+      "start": 7424,
+      "end": 7448
+    },
+    {
+      "text": "distal right ureter Block Sect",
+      "type": "ENTITY",
+      "start": 7450,
+      "end": 7480
+    },
+    {
+      "text": "PCs",
+      "type": "ENTITY",
+      "start": 7487,
+      "end": 7490
+    },
+    {
+      "text": "DIV",
+      "type": "ENTITY",
+      "start": 7524,
+      "end": 7527
+    },
+    {
+      "text": "ND",
+      "type": "ENTITY",
+      "start": 7538,
+      "end": 7540
+    },
+    {
+      "text": "TB",
+      "type": "ENTITY",
+      "start": 7551,
+      "end": 7553
+    },
+    {
+      "text": "TN",
+      "type": "ENTITY",
+      "start": 7558,
+      "end": 7560
+    },
+    {
+      "text": "UC",
+      "type": "ENTITY",
+      "start": 7572,
+      "end": 7574
+    },
+    {
+      "text": "PATHOLOgY",
+      "type": "ENTITY",
+      "start": 7622,
+      "end": 7631
+    },
+    {
+      "text": "Right vas deferens Block Sect",
+      "type": "ENTITY",
+      "start": 7647,
+      "end": 7676
+    },
+    {
+      "text": "PCs U 2 Part 4",
+      "type": "ENTITY",
+      "start": 7683,
+      "end": 7697
+    },
+    {
+      "text": "LN",
+      "type": "ENTITY",
+      "start": 7756,
+      "end": 7758
+    },
+    {
+      "text": "Piece",
+      "type": "ENTITY",
+      "start": 7821,
+      "end": 7826
+    },
+    {
+      "text": "omentum",
+      "type": "ENTITY",
+      "start": 7830,
+      "end": 7837
+    },
+    {
+      "text": "Block Sect",
+      "type": "ENTITY",
+      "start": 7839,
+      "end": 7849
+    },
+    {
+      "text": "Periureteral tissue Block Sect",
+      "type": "ENTITY",
+      "start": 7874,
+      "end": 7904
+    },
+    {
+      "text": "PCs U 2  Part 8",
+      "type": "ENTITY",
+      "start": 7911,
+      "end": 7926
+    },
+    {
+      "text": "Perivesical tissue Block Sect",
+      "type": "ENTITY",
+      "start": 7928,
+      "end": 7957
+    },
+    {
+      "text": "Intraoperative",
+      "type": "ENTITY",
+      "start": 7974,
+      "end": 7988
+    },
+    {
+      "text": "diagnoses",
+      "type": "ENTITY",
+      "start": 8014,
+      "end": 8023
+    },
+    {
+      "text": "section",
+      "type": "ENTITY",
+      "start": 8038,
+      "end": 8045
+    },
+    {
+      "text": "tissue",
+      "type": "ENTITY",
+      "start": 8066,
+      "end": 8072
+    },
+    {
+      "text": "time",
+      "type": "ENTITY",
+      "start": 8096,
+      "end": 8100
+    },
+    {
+      "text": "intraoperative consultation",
+      "type": "ENTITY",
+      "start": 8108,
+      "end": 8135
+    },
+    {
+      "text": "Frozen section",
+      "type": "ENTITY",
+      "start": 8140,
+      "end": 8154
+    },
+    {
+      "text": "diagnosis",
+      "type": "ENTITY",
+      "start": 8155,
+      "end": 8164
+    },
+    {
+      "text": "Soft tissue bladder margin",
+      "type": "ENTITY",
+      "start": 8166,
+      "end": 8192
+    },
+    {
+      "text": "Benign fibroadipose tissue",
+      "type": "ENTITY",
+      "start": 8200,
+      "end": 8226
+    },
+    {
+      "text": "Permanent diagnosis",
+      "type": "ENTITY",
+      "start": 8228,
+      "end": 8247
+    },
+    {
+      "text": "SAME Page 5",
+      "type": "ENTITY",
+      "start": 8249,
+      "end": 8260
+    },
+    {
+      "text": "END",
+      "type": "ENTITY",
+      "start": 8266,
+      "end": 8269
+    }
+  ],
+  "entity_count": 385,
+  "has_embedding": true
+}

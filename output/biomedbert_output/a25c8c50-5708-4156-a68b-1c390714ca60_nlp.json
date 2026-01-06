@@ -1,0 +1,662 @@
+{
+  "filename": "a25c8c50-5708-4156-a68b-1c390714ca60",
+  "timestamp": "2026-01-05T14:41:24.563148",
+  "entities": [
+    {
+      "text": "Tel",
+      "type": "ENTITY",
+      "start": 101,
+      "end": 104
+    },
+    {
+      "text": "TCGA-VD-A8KM-01A-PR",
+      "type": "ENTITY",
+      "start": 106,
+      "end": 125
+    },
+    {
+      "text": "Redacted Clinical Consultant & Location",
+      "type": "ENTITY",
+      "start": 126,
+      "end": 165
+    },
+    {
+      "text": "Sex",
+      "type": "ENTITY",
+      "start": 166,
+      "end": 169
+    },
+    {
+      "text": "Unlt",
+      "type": "ENTITY",
+      "start": 170,
+      "end": 174
+    },
+    {
+      "text": "Thls",
+      "type": "ENTITY",
+      "start": 178,
+      "end": 182
+    },
+    {
+      "text": "LCaD-t>-",
+      "type": "ENTITY",
+      "start": 193,
+      "end": 201
+    },
+    {
+      "text": "Prognostic rmijecL",
+      "type": "ENTITY",
+      "start": 231,
+      "end": 249
+    },
+    {
+      "text": "CLINICAL DETAILS",
+      "type": "ENTITY",
+      "start": 257,
+      "end": 273
+    },
+    {
+      "text": "Sib C",
+      "type": "ENTITY",
+      "start": 274,
+      "end": 279
+    },
+    {
+      "text": "ChnssL",
+      "type": "ENTITY",
+      "start": 280,
+      "end": 286
+    },
+    {
+      "text": "Choroidal melanoma",
+      "type": "ENTITY",
+      "start": 293,
+      "end": 311
+    },
+    {
+      "text": "Tumour size",
+      "type": "ENTITY",
+      "start": 323,
+      "end": 334
+    },
+    {
+      "text": "intact",
+      "type": "ENTITY",
+      "start": 386,
+      "end": 392
+    },
+    {
+      "text": "left eye",
+      "type": "ENTITY",
+      "start": 394,
+      "end": 402
+    },
+    {
+      "text": "Dimensions",
+      "type": "ENTITY",
+      "start": 405,
+      "end": 415
+    },
+    {
+      "text": "Axial",
+      "type": "ENTITY",
+      "start": 417,
+      "end": 422
+    },
+    {
+      "text": "Cornea",
+      "type": "ENTITY",
+      "start": 463,
+      "end": 469
+    },
+    {
+      "text": "Optic nerve",
+      "type": "ENTITY",
+      "start": 503,
+      "end": 514
+    },
+    {
+      "text": "Length 10mm",
+      "type": "ENTITY",
+      "start": 515,
+      "end": 526
+    },
+    {
+      "text": "Diameter",
+      "type": "ENTITY",
+      "start": 528,
+      "end": 536
+    },
+    {
+      "text": "trans-illumination",
+      "type": "ENTITY",
+      "start": 544,
+      "end": 562
+    },
+    {
+      "text": "shadow",
+      "type": "ENTITY",
+      "start": 566,
+      "end": 572
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 573,
+      "end": 582
+    },
+    {
+      "text": "posterolaterally",
+      "type": "ENTITY",
+      "start": 601,
+      "end": 617
+    },
+    {
+      "text": "Plane of section",
+      "type": "ENTITY",
+      "start": 619,
+      "end": 635
+    },
+    {
+      "text": "horizontal Intraocular",
+      "type": "ENTITY",
+      "start": 637,
+      "end": 659
+    },
+    {
+      "text": "description",
+      "type": "ENTITY",
+      "start": 660,
+      "end": 671
+    },
+    {
+      "text": "opening",
+      "type": "ENTITY",
+      "start": 676,
+      "end": 683
+    },
+    {
+      "text": "black mass",
+      "type": "ENTITY",
+      "start": 687,
+      "end": 697
+    },
+    {
+      "text": "tumour",
+      "type": "ENTITY",
+      "start": 711,
+      "end": 717
+    },
+    {
+      "text": "optic nerve",
+      "type": "ENTITY",
+      "start": 741,
+      "end": 752
+    },
+    {
+      "text": "Tumour size",
+      "type": "ENTITY",
+      "start": 754,
+      "end": 765
+    },
+    {
+      "text": "LBD",
+      "type": "ENTITY",
+      "start": 766,
+      "end": 769
+    },
+    {
+      "text": "Sections",
+      "type": "ENTITY",
+      "start": 800,
+      "end": 808
+    },
+    {
+      "text": "pigmented",
+      "type": "ENTITY",
+      "start": 816,
+      "end": 825
+    },
+    {
+      "text": "choroidal melanoma",
+      "type": "ENTITY",
+      "start": 826,
+      "end": 844
+    },
+    {
+      "text": "mixed cell type",
+      "type": "ENTITY",
+      "start": 848,
+      "end": 863
+    },
+    {
+      "text": "epithelioid cell component",
+      "type": "ENTITY",
+      "start": 877,
+      "end": 903
+    },
+    {
+      "text": "Tumour cells",
+      "type": "ENTITY",
+      "start": 923,
+      "end": 935
+    },
+    {
+      "text": "Melan-A",
+      "type": "ENTITY",
+      "start": 944,
+      "end": 951
+    },
+    {
+      "text": "Hsp",
+      "type": "ENTITY",
+      "start": 956,
+      "end": 959
+    },
+    {
+      "text": "score",
+      "type": "ENTITY",
+      "start": 964,
+      "end": 969
+    },
+    {
+      "text": "mitosis",
+      "type": "ENTITY",
+      "start": 988,
+      "end": 995
+    },
+    {
+      "text": "fields",
+      "type": "ENTITY",
+      "start": 1029,
+      "end": 1035
+    },
+    {
+      "text": "microvasculature",
+      "type": "ENTITY",
+      "start": 1041,
+      "end": 1057
+    },
+    {
+      "text": "melanoma",
+      "type": "ENTITY",
+      "start": 1065,
+      "end": 1073
+    },
+    {
+      "text": "closed loops",
+      "type": "ENTITY",
+      "start": 1091,
+      "end": 1103
+    },
+    {
+      "text": "planes",
+      "type": "ENTITY",
+      "start": 1127,
+      "end": 1133
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 1137,
+      "end": 1145
+    },
+    {
+      "text": "lymphocytic infiltrate",
+      "type": "ENTITY",
+      "start": 1152,
+      "end": 1174
+    },
+    {
+      "text": "tumour",
+      "type": "ENTITY",
+      "start": 1186,
+      "end": 1192
+    },
+    {
+      "text": "mild",
+      "type": "ENTITY",
+      "start": 1196,
+      "end": 1200
+    },
+    {
+      "text": "Scattered",
+      "type": "ENTITY",
+      "start": 1202,
+      "end": 1211
+    },
+    {
+      "text": "macrophages",
+      "type": "ENTITY",
+      "start": 1212,
+      "end": 1223
+    },
+    {
+      "text": "Tumour necrosis",
+      "type": "ENTITY",
+      "start": 1237,
+      "end": 1252
+    },
+    {
+      "text": "Pathologist",
+      "type": "ENTITY",
+      "start": 1276,
+      "end": 1287
+    },
+    {
+      "text": "HISTOPATHOLOGY REPORT Tel",
+      "type": "ENTITY",
+      "start": 1366,
+      "end": 1391
+    },
+    {
+      "text": "Surname",
+      "type": "ENTITY",
+      "start": 1393,
+      "end": 1400
+    },
+    {
+      "text": "Forename(s)  DOB/Age  Sex M Unit",
+      "type": "ENTITY",
+      "start": 1439,
+      "end": 1471
+    },
+    {
+      "text": "No Request Date",
+      "type": "ENTITY",
+      "start": 1472,
+      "end": 1487
+    },
+    {
+      "text": "Bruch's membrane",
+      "type": "ENTITY",
+      "start": 1503,
+      "end": 1519
+    },
+    {
+      "text": "intact",
+      "type": "ENTITY",
+      "start": 1528,
+      "end": 1534
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 1542,
+      "end": 1550
+    },
+    {
+      "text": "examined",
+      "type": "ENTITY",
+      "start": 1551,
+      "end": 1559
+    },
+    {
+      "text": "minimal",
+      "type": "ENTITY",
+      "start": 1570,
+      "end": 1577
+    },
+    {
+      "text": "extension",
+      "type": "ENTITY",
+      "start": 1585,
+      "end": 1594
+    },
+    {
+      "text": "inner sclera",
+      "type": "ENTITY",
+      "start": 1600,
+      "end": 1612
+    },
+    {
+      "text": "optic nerve",
+      "type": "ENTITY",
+      "start": 1632,
+      "end": 1643
+    },
+    {
+      "text": "vortex veins",
+      "type": "ENTITY",
+      "start": 1647,
+      "end": 1659
+    },
+    {
+      "text": "involvement",
+      "type": "ENTITY",
+      "start": 1660,
+      "end": 1671
+    },
+    {
+      "text": "Tumour cells",
+      "type": "ENTITY",
+      "start": 1681,
+      "end": 1693
+    },
+    {
+      "text": "resection margins",
+      "type": "ENTITY",
+      "start": 1714,
+      "end": 1731
+    },
+    {
+      "text": "cornea",
+      "type": "ENTITY",
+      "start": 1748,
+      "end": 1754
+    },
+    {
+      "text": "abnormality",
+      "type": "ENTITY",
+      "start": 1776,
+      "end": 1787
+    },
+    {
+      "text": "anterior",
+      "type": "ENTITY",
+      "start": 1794,
+      "end": 1802
+    },
+    {
+      "text": "anterior chamber",
+      "type": "ENTITY",
+      "start": 1835,
+      "end": 1851
+    },
+    {
+      "text": "deep",
+      "type": "ENTITY",
+      "start": 1855,
+      "end": 1859
+    },
+    {
+      "text": "iris",
+      "type": "ENTITY",
+      "start": 1865,
+      "end": 1869
+    },
+    {
+      "text": "no significant",
+      "type": "ENTITY",
+      "start": 1876,
+      "end": 1890
+    },
+    {
+      "text": "abnormality",
+      "type": "ENTITY",
+      "start": 1891,
+      "end": 1902
+    },
+    {
+      "text": "ciliary body",
+      "type": "ENTITY",
+      "start": 1911,
+      "end": 1923
+    },
+    {
+      "text": "atrophic",
+      "type": "ENTITY",
+      "start": 1932,
+      "end": 1940
+    },
+    {
+      "text": "hyalinisation",
+      "type": "ENTITY",
+      "start": 1946,
+      "end": 1959
+    },
+    {
+      "text": "ciliary processes",
+      "type": "ENTITY",
+      "start": 1963,
+      "end": 1980
+    },
+    {
+      "text": "lens",
+      "type": "ENTITY",
+      "start": 1986,
+      "end": 1990
+    },
+    {
+      "text": "subcapsular",
+      "type": "ENTITY",
+      "start": 1997,
+      "end": 2008
+    },
+    {
+      "text": "degenerative changes",
+      "type": "ENTITY",
+      "start": 2009,
+      "end": 2029
+    },
+    {
+      "text": "Retina overlying",
+      "type": "ENTITY",
+      "start": 2031,
+      "end": 2047
+    },
+    {
+      "text": "tumour",
+      "type": "ENTITY",
+      "start": 2052,
+      "end": 2058
+    },
+    {
+      "text": "atrophic",
+      "type": "ENTITY",
+      "start": 2071,
+      "end": 2079
+    },
+    {
+      "text": "peripheral",
+      "type": "ENTITY",
+      "start": 2093,
+      "end": 2103
+    },
+    {
+      "text": "DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 2127,
+      "end": 2136
+    },
+    {
+      "text": "Left eye",
+      "type": "ENTITY",
+      "start": 2137,
+      "end": 2145
+    },
+    {
+      "text": "enucleation",
+      "type": "ENTITY",
+      "start": 2147,
+      "end": 2158
+    },
+    {
+      "text": "Choroidal melanoma",
+      "type": "ENTITY",
+      "start": 2160,
+      "end": 2178
+    },
+    {
+      "text": "mixed cell",
+      "type": "ENTITY",
+      "start": 2182,
+      "end": 2192
+    },
+    {
+      "text": "Eye TUMOUR PRESENT",
+      "type": "ENTITY",
+      "start": 2220,
+      "end": 2238
+    },
+    {
+      "text": "Melanoma",
+      "type": "ENTITY",
+      "start": 2258,
+      "end": 2266
+    },
+    {
+      "text": "Mixed CT",
+      "type": "ENTITY",
+      "start": 2280,
+      "end": 2288
+    },
+    {
+      "text": "No closed loops",
+      "type": "ENTITY",
+      "start": 2298,
+      "end": 2313
+    },
+    {
+      "text": "FREQUENCYS",
+      "type": "ENTITY",
+      "start": 2382,
+      "end": 2392
+    },
+    {
+      "text": "HPF",
+      "type": "ENTITY",
+      "start": 2398,
+      "end": 2401
+    },
+    {
+      "text": "DIFFUSE",
+      "type": "ENTITY",
+      "start": 2402,
+      "end": 2409
+    },
+    {
+      "text": "Intra-scleral.",
+      "type": "ENTITY",
+      "start": 2432,
+      "end": 2446
+    },
+    {
+      "text": "Adequate",
+      "type": "ENTITY",
+      "start": 2460,
+      "end": 2468
+    },
+    {
+      "text": "HSP-27",
+      "type": "ENTITY",
+      "start": 2469,
+      "end": 2475
+    },
+    {
+      "text": "LARGE DIAMETER",
+      "type": "ENTITY",
+      "start": 2496,
+      "end": 2510
+    },
+    {
+      "text": "Pathologist",
+      "type": "ENTITY",
+      "start": 2544,
+      "end": 2555
+    }
+  ],
+  "entity_count": 109,
+  "has_embedding": true
+}

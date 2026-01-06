@@ -1,0 +1,386 @@
+{
+  "filename": "28ccdb58-3ab8-4a4b-a1af-f91430ce2396",
+  "timestamp": "2026-01-05T14:45:25.577899",
+  "entities": [
+    {
+      "text": "UUID:98C704DE-0914-49F1",
+      "type": "ENTITY",
+      "start": 28,
+      "end": 51
+    },
+    {
+      "text": "Patient",
+      "type": "ENTITY",
+      "start": 70,
+      "end": 77
+    },
+    {
+      "text": "Redacted AP Surgical Pathology",
+      "type": "ENTITY",
+      "start": 100,
+      "end": 130
+    },
+    {
+      "text": "Path",
+      "type": "ENTITY",
+      "start": 137,
+      "end": 141
+    },
+    {
+      "text": "Palpable",
+      "type": "ENTITY",
+      "start": 160,
+      "end": 168
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 174,
+      "end": 178
+    },
+    {
+      "text": "malignancy",
+      "type": "ENTITY",
+      "start": 189,
+      "end": 199
+    },
+    {
+      "text": "invasive carcinoma",
+      "type": "ENTITY",
+      "start": 204,
+      "end": 222
+    },
+    {
+      "text": "ER",
+      "type": "ENTITY",
+      "start": 238,
+      "end": 240
+    },
+    {
+      "text": "PR",
+      "type": "ENTITY",
+      "start": 242,
+      "end": 244
+    },
+    {
+      "text": "EGFR",
+      "type": "ENTITY",
+      "start": 246,
+      "end": 250
+    },
+    {
+      "text": "HER2/Neu",
+      "type": "ENTITY",
+      "start": 252,
+      "end": 260
+    },
+    {
+      "text": "immunohistochemistry",
+      "type": "ENTITY",
+      "start": 264,
+      "end": 284
+    },
+    {
+      "text": "IHC",
+      "type": "ENTITY",
+      "start": 297,
+      "end": 300
+    },
+    {
+      "text": "results",
+      "type": "ENTITY",
+      "start": 301,
+      "end": 308
+    },
+    {
+      "text": "Fish",
+      "type": "ENTITY",
+      "start": 319,
+      "end": 323
+    },
+    {
+      "text": "analysis",
+      "type": "ENTITY",
+      "start": 324,
+      "end": 332
+    },
+    {
+      "text": "GROSS EXAMINATION",
+      "type": "ENTITY",
+      "start": 334,
+      "end": 351
+    },
+    {
+      "text": "cores",
+      "type": "ENTITY",
+      "start": 383,
+      "end": 388
+    },
+    {
+      "text": "region",
+      "type": "ENTITY",
+      "start": 395,
+      "end": 401
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 416,
+      "end": 424
+    },
+    {
+      "text": "aggregate",
+      "type": "ENTITY",
+      "start": 449,
+      "end": 458
+    },
+    {
+      "text": "fibrofatty",
+      "type": "ENTITY",
+      "start": 462,
+      "end": 472
+    },
+    {
+      "text": "mesh",
+      "type": "ENTITY",
+      "start": 530,
+      "end": 534
+    },
+    {
+      "text": "bag",
+      "type": "ENTITY",
+      "start": 535,
+      "end": 538
+    },
+    {
+      "text": "block",
+      "type": "ENTITY",
+      "start": 542,
+      "end": 547
+    },
+    {
+      "text": "Al.. 1cD-o-3",
+      "type": "ENTITY",
+      "start": 548,
+      "end": 560
+    },
+    {
+      "text": "carcinornq",
+      "type": "ENTITY",
+      "start": 561,
+      "end": 571
+    },
+    {
+      "text": "ductg1",
+      "type": "ENTITY",
+      "start": 583,
+      "end": 589
+    },
+    {
+      "text": "Microscopic examination",
+      "type": "ENTITY",
+      "start": 626,
+      "end": 649
+    },
+    {
+      "text": "DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 664,
+      "end": 673
+    },
+    {
+      "text": "A. \"USNCB RIGHT BREAST",
+      "type": "ENTITY",
+      "start": 675,
+      "end": 697
+    },
+    {
+      "text": "INVASIVE",
+      "type": "ENTITY",
+      "start": 766,
+      "end": 774
+    },
+    {
+      "text": "HISTOLOGIC TYPE",
+      "type": "ENTITY",
+      "start": 805,
+      "end": 820
+    },
+    {
+      "text": "DUCTAL",
+      "type": "ENTITY",
+      "start": 822,
+      "end": 828
+    },
+    {
+      "text": "NOTTINGHAM",
+      "type": "ENTITY",
+      "start": 830,
+      "end": 840
+    },
+    {
+      "text": "SCORE",
+      "type": "ENTITY",
+      "start": 894,
+      "end": 899
+    },
+    {
+      "text": "PLEOMORPHISM",
+      "type": "ENTITY",
+      "start": 912,
+      "end": 924
+    },
+    {
+      "text": "SCORE",
+      "type": "ENTITY",
+      "start": 925,
+      "end": 930
+    },
+    {
+      "text": "SCORE",
+      "type": "ENTITY",
+      "start": 948,
+      "end": 953
+    },
+    {
+      "text": "NOT",
+      "type": "ENTITY",
+      "start": 978,
+      "end": 981
+    },
+    {
+      "text": "VASCULAR",
+      "type": "ENTITY",
+      "start": 994,
+      "end": 1002
+    },
+    {
+      "text": "ABSENT",
+      "type": "ENTITY",
+      "start": 1013,
+      "end": 1019
+    },
+    {
+      "text": "ESTROGEN/PROGESTERONE",
+      "type": "ENTITY",
+      "start": 1045,
+      "end": 1066
+    },
+    {
+      "text": "HER2/NEU",
+      "type": "ENTITY",
+      "start": 1077,
+      "end": 1085
+    },
+    {
+      "text": "EGFR ANALYSIS",
+      "type": "ENTITY",
+      "start": 1091,
+      "end": 1104
+    },
+    {
+      "text": "PENDING",
+      "type": "ENTITY",
+      "start": 1106,
+      "end": 1113
+    },
+    {
+      "text": "A1",
+      "type": "ENTITY",
+      "start": 1138,
+      "end": 1140
+    },
+    {
+      "text": "WILL BE",
+      "type": "ENTITY",
+      "start": 1150,
+      "end": 1157
+    },
+    {
+      "text": "personally",
+      "type": "ENTITY",
+      "start": 1198,
+      "end": 1208
+    },
+    {
+      "text": "diagnostic",
+      "type": "ENTITY",
+      "start": 1223,
+      "end": 1233
+    },
+    {
+      "text": "evaluation",
+      "type": "ENTITY",
+      "start": 1234,
+      "end": 1244
+    },
+    {
+      "text": "Electronically signed",
+      "type": "ENTITY",
+      "start": 1314,
+      "end": 1335
+    },
+    {
+      "text": "results",
+      "type": "ENTITY",
+      "start": 1365,
+      "end": 1372
+    },
+    {
+      "text": "supplementary tests",
+      "type": "ENTITY",
+      "start": 1376,
+      "end": 1395
+    },
+    {
+      "text": "personally",
+      "type": "ENTITY",
+      "start": 1414,
+      "end": 1424
+    },
+    {
+      "text": "diagnostic",
+      "type": "ENTITY",
+      "start": 1439,
+      "end": 1449
+    },
+    {
+      "text": "evaluation",
+      "type": "ENTITY",
+      "start": 1450,
+      "end": 1460
+    },
+    {
+      "text": "Electronically signed",
+      "type": "ENTITY",
+      "start": 1530,
+      "end": 1551
+    },
+    {
+      "text": "Performed",
+      "type": "ENTITY",
+      "start": 1553,
+      "end": 1562
+    },
+    {
+      "text": "Attending",
+      "type": "ENTITY",
+      "start": 1567,
+      "end": 1576
+    },
+    {
+      "text": "MD",
+      "type": "ENTITY",
+      "start": 1577,
+      "end": 1579
+    },
+    {
+      "text": "MD",
+      "type": "ENTITY",
+      "start": 1590,
+      "end": 1592
+    }
+  ],
+  "entity_count": 63,
+  "has_embedding": true
+}

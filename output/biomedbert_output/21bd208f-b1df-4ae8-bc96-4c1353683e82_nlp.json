@@ -1,0 +1,764 @@
+{
+  "filename": "21bd208f-b1df-4ae8-bc96-4c1353683e82",
+  "timestamp": "2026-01-05T14:43:39.833678",
+  "entities": [
+    {
+      "text": "History",
+      "type": "ENTITY",
+      "start": 37,
+      "end": 44
+    },
+    {
+      "text": "year",
+      "type": "ENTITY",
+      "start": 46,
+      "end": 50
+    },
+    {
+      "text": "male",
+      "type": "ENTITY",
+      "start": 55,
+      "end": 59
+    },
+    {
+      "text": "left renal mass",
+      "type": "ENTITY",
+      "start": 65,
+      "end": 80
+    },
+    {
+      "text": "Specimens",
+      "type": "ENTITY",
+      "start": 82,
+      "end": 91
+    },
+    {
+      "text": "LEFT",
+      "type": "ENTITY",
+      "start": 132,
+      "end": 136
+    },
+    {
+      "text": "TOTAL NEPHRECTOMY",
+      "type": "ENTITY",
+      "start": 138,
+      "end": 155
+    },
+    {
+      "text": "ADRENALECTOMY",
+      "type": "ENTITY",
+      "start": 157,
+      "end": 170
+    },
+    {
+      "text": "DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 171,
+      "end": 180
+    },
+    {
+      "text": "KIDNEY",
+      "type": "ENTITY",
+      "start": 182,
+      "end": 188
+    },
+    {
+      "text": "LEFT",
+      "type": "ENTITY",
+      "start": 208,
+      "end": 212
+    },
+    {
+      "text": "TOTAL NEPHRECTOMY",
+      "type": "ENTITY",
+      "start": 214,
+      "end": 231
+    },
+    {
+      "text": "ADRENALECTOMY",
+      "type": "ENTITY",
+      "start": 233,
+      "end": 246
+    },
+    {
+      "text": "Tumor Type",
+      "type": "ENTITY",
+      "start": 248,
+      "end": 258
+    },
+    {
+      "text": "Renal cell carcinoma",
+      "type": "ENTITY",
+      "start": 260,
+      "end": 280
+    },
+    {
+      "text": "Chromophobe",
+      "type": "ENTITY",
+      "start": 283,
+      "end": 294
+    },
+    {
+      "text": "Tumor Size",
+      "type": "ENTITY",
+      "start": 300,
+      "end": 310
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 321,
+      "end": 329
+    },
+    {
+      "text": "Local Invasion",
+      "type": "ENTITY",
+      "start": 342,
+      "end": 356
+    },
+    {
+      "text": "renal cortical types",
+      "type": "ENTITY",
+      "start": 362,
+      "end": 382
+    },
+    {
+      "text": "Not Identified Renal Vein",
+      "type": "ENTITY",
+      "start": 385,
+      "end": 410
+    },
+    {
+      "text": "Invasion",
+      "type": "ENTITY",
+      "start": 411,
+      "end": 419
+    },
+    {
+      "text": "Surgical Margins",
+      "type": "ENTITY",
+      "start": 437,
+      "end": 453
+    },
+    {
+      "text": "Free of tumor",
+      "type": "ENTITY",
+      "start": 455,
+      "end": 468
+    },
+    {
+      "text": "Unremarkable Adrenal Gland",
+      "type": "ENTITY",
+      "start": 493,
+      "end": 519
+    },
+    {
+      "text": "Lymph Nodes",
+      "type": "ENTITY",
+      "start": 534,
+      "end": 545
+    },
+    {
+      "text": "Free of tumor",
+      "type": "ENTITY",
+      "start": 547,
+      "end": 560
+    },
+    {
+      "text": "renal cell",
+      "type": "ENTITY",
+      "start": 600,
+      "end": 610
+    },
+    {
+      "text": "dimension",
+      "type": "ENTITY",
+      "start": 663,
+      "end": 672
+    },
+    {
+      "text": "kidney",
+      "type": "ENTITY",
+      "start": 688,
+      "end": 694
+    },
+    {
+      "text": "ATTEST",
+      "type": "ENTITY",
+      "start": 697,
+      "end": 703
+    },
+    {
+      "text": "ABOVE DIAGNOSIS IS",
+      "type": "ENTITY",
+      "start": 713,
+      "end": 731
+    },
+    {
+      "text": "THAT I",
+      "type": "ENTITY",
+      "start": 810,
+      "end": 816
+    },
+    {
+      "text": "Description",
+      "type": "ENTITY",
+      "start": 891,
+      "end": 902
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 911,
+      "end": 919
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 932,
+      "end": 937
+    },
+    {
+      "text": "frozen",
+      "type": "ENTITY",
+      "start": 942,
+      "end": 948
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 950,
+      "end": 957
+    },
+    {
+      "text": "Left kidney",
+      "type": "ENTITY",
+      "start": 959,
+      "end": 970
+    },
+    {
+      "text": "adrenal",
+      "type": "ENTITY",
+      "start": 972,
+      "end": 979
+    },
+    {
+      "text": "hilar lymph nodes",
+      "type": "ENTITY",
+      "start": 984,
+      "end": 1001
+    },
+    {
+      "text": "grossly recongnizable kidney",
+      "type": "ENTITY",
+      "start": 1021,
+      "end": 1049
+    },
+    {
+      "text": "appearance",
+      "type": "ENTITY",
+      "start": 1056,
+      "end": 1066
+    },
+    {
+      "text": "mass localized",
+      "type": "ENTITY",
+      "start": 1098,
+      "end": 1112
+    },
+    {
+      "text": "lower pole",
+      "type": "ENTITY",
+      "start": 1120,
+      "end": 1130
+    },
+    {
+      "text": "upper pole",
+      "type": "ENTITY",
+      "start": 1148,
+      "end": 1158
+    },
+    {
+      "text": "kidney",
+      "type": "ENTITY",
+      "start": 1166,
+      "end": 1172
+    },
+    {
+      "text": "portion",
+      "type": "ENTITY",
+      "start": 1178,
+      "end": 1185
+    },
+    {
+      "text": "fatty tissue",
+      "type": "ENTITY",
+      "start": 1189,
+      "end": 1201
+    },
+    {
+      "text": "adrenal gland",
+      "type": "ENTITY",
+      "start": 1235,
+      "end": 1248
+    },
+    {
+      "text": "segment",
+      "type": "ENTITY",
+      "start": 1262,
+      "end": 1269
+    },
+    {
+      "text": "ureter",
+      "type": "ENTITY",
+      "start": 1273,
+      "end": 1279
+    },
+    {
+      "text": "identified",
+      "type": "ENTITY",
+      "start": 1283,
+      "end": 1293
+    },
+    {
+      "text": "hilum",
+      "type": "ENTITY",
+      "start": 1301,
+      "end": 1306
+    },
+    {
+      "text": "measurements",
+      "type": "ENTITY",
+      "start": 1320,
+      "end": 1332
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1340,
+      "end": 1348
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1379,
+      "end": 1387
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1418,
+      "end": 1426
+    },
+    {
+      "text": "bivalved",
+      "type": "ENTITY",
+      "start": 1430,
+      "end": 1438
+    },
+    {
+      "text": "lobulated",
+      "type": "ENTITY",
+      "start": 1471,
+      "end": 1480
+    },
+    {
+      "text": "encapsulated",
+      "type": "ENTITY",
+      "start": 1513,
+      "end": 1525
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1526,
+      "end": 1531
+    },
+    {
+      "text": "fleshy",
+      "type": "ENTITY",
+      "start": 1537,
+      "end": 1543
+    },
+    {
+      "text": "pink-tan cut",
+      "type": "ENTITY",
+      "start": 1558,
+      "end": 1570
+    },
+    {
+      "text": "cystic areas",
+      "type": "ENTITY",
+      "start": 1609,
+      "end": 1621
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1627,
+      "end": 1632
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 1633,
+      "end": 1641
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1668,
+      "end": 1673
+    },
+    {
+      "text": "kidney",
+      "type": "ENTITY",
+      "start": 1712,
+      "end": 1718
+    },
+    {
+      "text": "renal sinus fat",
+      "type": "ENTITY",
+      "start": 1753,
+      "end": 1768
+    },
+    {
+      "text": "invade",
+      "type": "ENTITY",
+      "start": 1791,
+      "end": 1797
+    },
+    {
+      "text": "collecting system",
+      "type": "ENTITY",
+      "start": 1820,
+      "end": 1837
+    },
+    {
+      "text": "macroscopic",
+      "type": "ENTITY",
+      "start": 1842,
+      "end": 1853
+    },
+    {
+      "text": "vascular invasion",
+      "type": "ENTITY",
+      "start": 1854,
+      "end": 1871
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1886,
+      "end": 1891
+    },
+    {
+      "text": "perirenal fat",
+      "type": "ENTITY",
+      "start": 1928,
+      "end": 1941
+    },
+    {
+      "text": "gerota's fascia",
+      "type": "ENTITY",
+      "start": 1962,
+      "end": 1977
+    },
+    {
+      "text": "kidney",
+      "type": "ENTITY",
+      "start": 2000,
+      "end": 2006
+    },
+    {
+      "text": "adrenal gland",
+      "type": "ENTITY",
+      "start": 2036,
+      "end": 2049
+    },
+    {
+      "text": "dissected",
+      "type": "ENTITY",
+      "start": 2053,
+      "end": 2062
+    },
+    {
+      "text": "kidney",
+      "type": "ENTITY",
+      "start": 2071,
+      "end": 2077
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 2083,
+      "end": 2091
+    },
+    {
+      "text": "cross-section",
+      "type": "ENTITY",
+      "start": 2181,
+      "end": 2194
+    },
+    {
+      "text": "hilar fat",
+      "type": "ENTITY",
+      "start": 2200,
+      "end": 2209
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 2226,
+      "end": 2237
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 2256,
+      "end": 2267
+    },
+    {
+      "text": "dissected",
+      "type": "ENTITY",
+      "start": 2272,
+      "end": 2281
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 2295,
+      "end": 2300
+    },
+    {
+      "text": "normal kidney tissue",
+      "type": "ENTITY",
+      "start": 2305,
+      "end": 2325
+    },
+    {
+      "text": "Gross photographs",
+      "type": "ENTITY",
+      "start": 2345,
+      "end": 2362
+    },
+    {
+      "text": "Representative sections",
+      "type": "ENTITY",
+      "start": 2374,
+      "end": 2397
+    },
+    {
+      "text": "frozen section",
+      "type": "ENTITY",
+      "start": 2416,
+      "end": 2430
+    },
+    {
+      "text": "diagnosis",
+      "type": "ENTITY",
+      "start": 2431,
+      "end": 2440
+    },
+    {
+      "text": "paraffin blocks",
+      "type": "ENTITY",
+      "start": 2445,
+      "end": 2460
+    },
+    {
+      "text": "Sections",
+      "type": "ENTITY",
+      "start": 2473,
+      "end": 2481
+    },
+    {
+      "text": "FSC",
+      "type": "ENTITY",
+      "start": 2483,
+      "end": 2486
+    },
+    {
+      "text": "frozen",
+      "type": "ENTITY",
+      "start": 2489,
+      "end": 2495
+    },
+    {
+      "text": "TC",
+      "type": "ENTITY",
+      "start": 2521,
+      "end": 2523
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 2526,
+      "end": 2531
+    },
+    {
+      "text": "capsule TK",
+      "type": "ENTITY",
+      "start": 2535,
+      "end": 2545
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 2548,
+      "end": 2553
+    },
+    {
+      "text": "kidney",
+      "type": "ENTITY",
+      "start": 2557,
+      "end": 2563
+    },
+    {
+      "text": "NLK",
+      "type": "ENTITY",
+      "start": 2564,
+      "end": 2567
+    },
+    {
+      "text": "normal",
+      "type": "ENTITY",
+      "start": 2570,
+      "end": 2576
+    },
+    {
+      "text": "kidney",
+      "type": "ENTITY",
+      "start": 2580,
+      "end": 2586
+    },
+    {
+      "text": "AD-adrenal",
+      "type": "ENTITY",
+      "start": 2587,
+      "end": 2597
+    },
+    {
+      "text": "PLN",
+      "type": "ENTITY",
+      "start": 2598,
+      "end": 2601
+    },
+    {
+      "text": "probable",
+      "type": "ENTITY",
+      "start": 2605,
+      "end": 2613
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 2614,
+      "end": 2625
+    },
+    {
+      "text": "Sections",
+      "type": "ENTITY",
+      "start": 2637,
+      "end": 2645
+    },
+    {
+      "text": "ADRENAL GLAND",
+      "type": "ENTITY",
+      "start": 2667,
+      "end": 2680
+    },
+    {
+      "text": "LEFT",
+      "type": "ENTITY",
+      "start": 2682,
+      "end": 2686
+    },
+    {
+      "text": "TOTAL NEPHRECTOMY",
+      "type": "ENTITY",
+      "start": 2688,
+      "end": 2705
+    },
+    {
+      "text": "ADRENALECTOMY Block Sect",
+      "type": "ENTITY",
+      "start": 2707,
+      "end": 2731
+    },
+    {
+      "text": "Intraoperative Consultation",
+      "type": "ENTITY",
+      "start": 2793,
+      "end": 2820
+    },
+    {
+      "text": "diagnoses",
+      "type": "ENTITY",
+      "start": 2832,
+      "end": 2841
+    },
+    {
+      "text": "section",
+      "type": "ENTITY",
+      "start": 2856,
+      "end": 2863
+    },
+    {
+      "text": "tissue",
+      "type": "ENTITY",
+      "start": 2884,
+      "end": 2890
+    },
+    {
+      "text": "time",
+      "type": "ENTITY",
+      "start": 2914,
+      "end": 2918
+    },
+    {
+      "text": "intraoperative consultation",
+      "type": "ENTITY",
+      "start": 2926,
+      "end": 2953
+    },
+    {
+      "text": "FROZEN SECTION",
+      "type": "ENTITY",
+      "start": 2958,
+      "end": 2972
+    },
+    {
+      "text": "DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 2973,
+      "end": 2982
+    },
+    {
+      "text": "CORTICAL TUMOR",
+      "type": "ENTITY",
+      "start": 2991,
+      "end": 3005
+    },
+    {
+      "text": "PERMANENT DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 3047,
+      "end": 3066
+    },
+    {
+      "text": "SAME Page 2",
+      "type": "ENTITY",
+      "start": 3068,
+      "end": 3079
+    },
+    {
+      "text": "END",
+      "type": "ENTITY",
+      "start": 3085,
+      "end": 3088
+    }
+  ],
+  "entity_count": 126,
+  "has_embedding": true
+}

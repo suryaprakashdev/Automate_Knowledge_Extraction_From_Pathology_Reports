@@ -1,0 +1,1430 @@
+{
+  "filename": "6b6dddc0-3158-4d4a-ad8e-4a562ed0b5bd",
+  "timestamp": "2026-01-05T14:41:43.641866",
+  "entities": [
+    {
+      "text": "Redacted",
+      "type": "ENTITY",
+      "start": 79,
+      "end": 87
+    },
+    {
+      "text": "OPFICIAL",
+      "type": "ENTITY",
+      "start": 92,
+      "end": 100
+    },
+    {
+      "text": "ONLY",
+      "type": "ENTITY",
+      "start": 105,
+      "end": 109
+    },
+    {
+      "text": "PERSONAL",
+      "type": "ENTITY",
+      "start": 112,
+      "end": 120
+    },
+    {
+      "text": "DATA",
+      "type": "ENTITY",
+      "start": 121,
+      "end": 125
+    },
+    {
+      "text": "PRIVAS",
+      "type": "ENTITY",
+      "start": 128,
+      "end": 134
+    },
+    {
+      "text": "PATHOLOGY REPORT",
+      "type": "ENTITY",
+      "start": 144,
+      "end": 160
+    },
+    {
+      "text": "Patient",
+      "type": "ENTITY",
+      "start": 161,
+      "end": 168
+    },
+    {
+      "text": "Specimen",
+      "type": "ENTITY",
+      "start": 170,
+      "end": 178
+    },
+    {
+      "text": "FMP/SSN",
+      "type": "ENTITY",
+      "start": 182,
+      "end": 189
+    },
+    {
+      "text": "Age",
+      "type": "ENTITY",
+      "start": 205,
+      "end": 208
+    },
+    {
+      "text": "Race",
+      "type": "ENTITY",
+      "start": 215,
+      "end": 219
+    },
+    {
+      "text": "Location",
+      "type": "ENTITY",
+      "start": 228,
+      "end": 236
+    },
+    {
+      "text": "Received",
+      "type": "ENTITY",
+      "start": 238,
+      "end": 246
+    },
+    {
+      "text": "RIGHT",
+      "type": "ENTITY",
+      "start": 345,
+      "end": 350
+    },
+    {
+      "text": "LUMPECTOMY",
+      "type": "ENTITY",
+      "start": 358,
+      "end": 368
+    },
+    {
+      "text": "circi",
+      "type": "ENTITY",
+      "start": 377,
+      "end": 382
+    },
+    {
+      "text": "Site+hrust",
+      "type": "ENTITY",
+      "start": 432,
+      "end": 442
+    },
+    {
+      "text": "A. LYMPH",
+      "type": "ENTITY",
+      "start": 462,
+      "end": 470
+    },
+    {
+      "text": "RIGHT AXILLA SENTINEL",
+      "type": "ENTITY",
+      "start": 477,
+      "end": 498
+    },
+    {
+      "text": "BIOPSY",
+      "type": "ENTITY",
+      "start": 503,
+      "end": 509
+    },
+    {
+      "text": "ONE LYMPH NODE POSITIVE",
+      "type": "ENTITY",
+      "start": 511,
+      "end": 534
+    },
+    {
+      "text": "MICROMETASTASIS",
+      "type": "ENTITY",
+      "start": 539,
+      "end": 554
+    },
+    {
+      "text": "A1",
+      "type": "ENTITY",
+      "start": 556,
+      "end": 558
+    },
+    {
+      "text": "FOCUS",
+      "type": "ENTITY",
+      "start": 568,
+      "end": 573
+    },
+    {
+      "text": "MM",
+      "type": "ENTITY",
+      "start": 580,
+      "end": 582
+    },
+    {
+      "text": "measured",
+      "type": "ENTITY",
+      "start": 585,
+      "end": 593
+    },
+    {
+      "text": "micrOsCopically",
+      "type": "ENTITY",
+      "start": 594,
+      "end": 609
+    },
+    {
+      "text": "ISOLATED TUMOR CELLS",
+      "type": "ENTITY",
+      "start": 612,
+      "end": 632
+    },
+    {
+      "text": "ONE",
+      "type": "ENTITY",
+      "start": 683,
+      "end": 686
+    },
+    {
+      "text": "A2",
+      "type": "ENTITY",
+      "start": 733,
+      "end": 735
+    },
+    {
+      "text": "TUMOR BY",
+      "type": "ENTITY",
+      "start": 766,
+      "end": 774
+    },
+    {
+      "text": "H&E",
+      "type": "ENTITY",
+      "start": 775,
+      "end": 778
+    },
+    {
+      "text": "CYTOKERATIN IMMUNOHISTOCHEMISTRY",
+      "type": "ENTITY",
+      "start": 800,
+      "end": 832
+    },
+    {
+      "text": "A3",
+      "type": "ENTITY",
+      "start": 834,
+      "end": 836
+    },
+    {
+      "text": "B. LYMPH",
+      "type": "ENTITY",
+      "start": 839,
+      "end": 847
+    },
+    {
+      "text": "RIGHT AXILLA SENTINEL",
+      "type": "ENTITY",
+      "start": 854,
+      "end": 875
+    },
+    {
+      "text": "BIOPSY",
+      "type": "ENTITY",
+      "start": 880,
+      "end": 886
+    },
+    {
+      "text": "ONE",
+      "type": "ENTITY",
+      "start": 890,
+      "end": 893
+    },
+    {
+      "text": "TUMOR BY",
+      "type": "ENTITY",
+      "start": 918,
+      "end": 926
+    },
+    {
+      "text": "H&E",
+      "type": "ENTITY",
+      "start": 927,
+      "end": 930
+    },
+    {
+      "text": "CYTOKERATIN",
+      "type": "ENTITY",
+      "start": 952,
+      "end": 963
+    },
+    {
+      "text": "C. BREAST",
+      "type": "ENTITY",
+      "start": 1063,
+      "end": 1072
+    },
+    {
+      "text": "RIGHT",
+      "type": "ENTITY",
+      "start": 1074,
+      "end": 1079
+    },
+    {
+      "text": "LUMPECTOMY",
+      "type": "ENTITY",
+      "start": 1081,
+      "end": 1091
+    },
+    {
+      "text": "GRADE I/III) INFILTRATING MUCINOUS",
+      "type": "ENTITY",
+      "start": 1115,
+      "end": 1149
+    },
+    {
+      "text": "NOTTINGHAM",
+      "type": "ENTITY",
+      "start": 1173,
+      "end": 1183
+    },
+    {
+      "text": "SCORE",
+      "type": "ENTITY",
+      "start": 1195,
+      "end": 1200
+    },
+    {
+      "text": "OUT",
+      "type": "ENTITY",
+      "start": 1204,
+      "end": 1207
+    },
+    {
+      "text": "Tubule formation",
+      "type": "ENTITY",
+      "start": 1214,
+      "end": 1230
+    },
+    {
+      "text": "Nuclear pleomorphism",
+      "type": "ENTITY",
+      "start": 1236,
+      "end": 1256
+    },
+    {
+      "text": "Mitotic activity",
+      "type": "ENTITY",
+      "start": 1262,
+      "end": 1278
+    },
+    {
+      "text": "TumoR",
+      "type": "ENTITY",
+      "start": 1287,
+      "end": 1292
+    },
+    {
+      "text": "sIzE",
+      "type": "ENTITY",
+      "start": 1293,
+      "end": 1297
+    },
+    {
+      "text": "cM",
+      "type": "ENTITY",
+      "start": 1303,
+      "end": 1305
+    },
+    {
+      "text": "measured",
+      "type": "ENTITY",
+      "start": 1307,
+      "end": 1315
+    },
+    {
+      "text": "grossly",
+      "type": "ENTITY",
+      "start": 1316,
+      "end": 1323
+    },
+    {
+      "text": "CALCIFICATIONS",
+      "type": "ENTITY",
+      "start": 1345,
+      "end": 1359
+    },
+    {
+      "text": "ABSENT",
+      "type": "ENTITY",
+      "start": 1361,
+      "end": 1367
+    },
+    {
+      "text": "HIGHLY SUSPICIOUS",
+      "type": "ENTITY",
+      "start": 1402,
+      "end": 1419
+    },
+    {
+      "text": "LYMPHATIC INVASION",
+      "type": "ENTITY",
+      "start": 1424,
+      "end": 1442
+    },
+    {
+      "text": "POSITIVE",
+      "type": "ENTITY",
+      "start": 1455,
+      "end": 1463
+    },
+    {
+      "text": "IS",
+      "type": "ENTITY",
+      "start": 1488,
+      "end": 1490
+    },
+    {
+      "text": "E.G.",
+      "type": "ENTITY",
+      "start": 1528,
+      "end": 1532
+    },
+    {
+      "text": "ORANGE",
+      "type": "ENTITY",
+      "start": 1545,
+      "end": 1551
+    },
+    {
+      "text": "ANTERIOR",
+      "type": "ENTITY",
+      "start": 1553,
+      "end": 1561
+    },
+    {
+      "text": "E.G.",
+      "type": "ENTITY",
+      "start": 1563,
+      "end": 1567
+    },
+    {
+      "text": "SLIDE C3",
+      "type": "ENTITY",
+      "start": 1569,
+      "end": 1577
+    },
+    {
+      "text": "RED",
+      "type": "ENTITY",
+      "start": 1580,
+      "end": 1583
+    },
+    {
+      "text": "MEDIAL",
+      "type": "ENTITY",
+      "start": 1585,
+      "end": 1591
+    },
+    {
+      "text": "E.G.",
+      "type": "ENTITY",
+      "start": 1593,
+      "end": 1597
+    },
+    {
+      "text": "SLIDE C8",
+      "type": "ENTITY",
+      "start": 1599,
+      "end": 1607
+    },
+    {
+      "text": "DEEP",
+      "type": "ENTITY",
+      "start": 1621,
+      "end": 1625
+    },
+    {
+      "text": "E.G.",
+      "type": "ENTITY",
+      "start": 1627,
+      "end": 1631
+    },
+    {
+      "text": "SLIDE C11) TISSUE",
+      "type": "ENTITY",
+      "start": 1633,
+      "end": 1650
+    },
+    {
+      "text": "IN SITU COMPONENT",
+      "type": "ENTITY",
+      "start": 1660,
+      "end": 1677
+    },
+    {
+      "text": "FOCAL DUCTAL CARCINOMA",
+      "type": "ENTITY",
+      "start": 1679,
+      "end": 1701
+    },
+    {
+      "text": "DCIS",
+      "type": "ENTITY",
+      "start": 1730,
+      "end": 1734
+    },
+    {
+      "text": "SOLID",
+      "type": "ENTITY",
+      "start": 1746,
+      "end": 1751
+    },
+    {
+      "text": "FOCAL CRIBRIFORM TYPES",
+      "type": "ENTITY",
+      "start": 1756,
+      "end": 1778
+    },
+    {
+      "text": "MICROMETASTASIS",
+      "type": "ENTITY",
+      "start": 1845,
+      "end": 1860
+    },
+    {
+      "text": "ESTROGEN RECEPTORS",
+      "type": "ENTITY",
+      "start": 1894,
+      "end": 1912
+    },
+    {
+      "text": "POSITIVE",
+      "type": "ENTITY",
+      "start": 1914,
+      "end": 1922
+    },
+    {
+      "text": "report",
+      "type": "ENTITY",
+      "start": 1941,
+      "end": 1947
+    },
+    {
+      "text": "PROGESTERONE RECEPTORS",
+      "type": "ENTITY",
+      "start": 1949,
+      "end": 1971
+    },
+    {
+      "text": "POSITIVE",
+      "type": "ENTITY",
+      "start": 1973,
+      "end": 1981
+    },
+    {
+      "text": "HER2NEU",
+      "type": "ENTITY",
+      "start": 2008,
+      "end": 2015
+    },
+    {
+      "text": "IHC",
+      "type": "ENTITY",
+      "start": 2019,
+      "end": 2022
+    },
+    {
+      "text": "NEGATIVE",
+      "type": "ENTITY",
+      "start": 2024,
+      "end": 2032
+    },
+    {
+      "text": "Score",
+      "type": "ENTITY",
+      "start": 2034,
+      "end": 2039
+    },
+    {
+      "text": "Next Page FOR",
+      "type": "ENTITY",
+      "start": 2082,
+      "end": 2095
+    },
+    {
+      "text": "ONLY",
+      "type": "ENTITY",
+      "start": 2109,
+      "end": 2113
+    },
+    {
+      "text": "PERSONAL",
+      "type": "ENTITY",
+      "start": 2116,
+      "end": 2124
+    },
+    {
+      "text": "DATA",
+      "type": "ENTITY",
+      "start": 2125,
+      "end": 2129
+    },
+    {
+      "text": "PRIVACY",
+      "type": "ENTITY",
+      "start": 2132,
+      "end": 2139
+    },
+    {
+      "text": "ACT",
+      "type": "ENTITY",
+      "start": 2140,
+      "end": 2143
+    },
+    {
+      "text": "ONLY",
+      "type": "ENTITY",
+      "start": 2185,
+      "end": 2189
+    },
+    {
+      "text": "PERSONAL",
+      "type": "ENTITY",
+      "start": 2192,
+      "end": 2200
+    },
+    {
+      "text": "DATA",
+      "type": "ENTITY",
+      "start": 2201,
+      "end": 2205
+    },
+    {
+      "text": "ACT",
+      "type": "ENTITY",
+      "start": 2217,
+      "end": 2220
+    },
+    {
+      "text": "Patient",
+      "type": "ENTITY",
+      "start": 2255,
+      "end": 2262
+    },
+    {
+      "text": "Specimen",
+      "type": "ENTITY",
+      "start": 2264,
+      "end": 2272
+    },
+    {
+      "text": "FINAL DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 2276,
+      "end": 2291
+    },
+    {
+      "text": "pT2N1mi( ADDITIONAL PATHOLOGIC FINDINGS",
+      "type": "ENTITY",
+      "start": 2325,
+      "end": 2364
+    },
+    {
+      "text": "STROMAL SCLEROSIS",
+      "type": "ENTITY",
+      "start": 2368,
+      "end": 2385
+    },
+    {
+      "text": "FOCAL MICROCYST",
+      "type": "ENTITY",
+      "start": 2390,
+      "end": 2405
+    },
+    {
+      "text": "FORMATION",
+      "type": "ENTITY",
+      "start": 2406,
+      "end": 2415
+    },
+    {
+      "text": "FOCAL PRIOR",
+      "type": "ENTITY",
+      "start": 2419,
+      "end": 2430
+    },
+    {
+      "text": "BIOPSY SITE",
+      "type": "ENTITY",
+      "start": 2431,
+      "end": 2442
+    },
+    {
+      "text": "CHANGES",
+      "type": "ENTITY",
+      "start": 2443,
+      "end": 2450
+    },
+    {
+      "text": "Electronically Signed",
+      "type": "ENTITY",
+      "start": 2462,
+      "end": 2483
+    },
+    {
+      "text": "HISTORY",
+      "type": "ENTITY",
+      "start": 2514,
+      "end": 2521
+    },
+    {
+      "text": "Right breast cancer",
+      "type": "ENTITY",
+      "start": 2523,
+      "end": 2542
+    },
+    {
+      "text": "female",
+      "type": "ENTITY",
+      "start": 2553,
+      "end": 2559
+    },
+    {
+      "text": "DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 2616,
+      "end": 2625
+    },
+    {
+      "text": "GROSS DESCRIPTION",
+      "type": "ENTITY",
+      "start": 2642,
+      "end": 2659
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 2673,
+      "end": 2678
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 2680,
+      "end": 2687
+    },
+    {
+      "text": "patient's",
+      "type": "ENTITY",
+      "start": 2697,
+      "end": 2706
+    },
+    {
+      "text": "pink-tan lymph nodes",
+      "type": "ENTITY",
+      "start": 2779,
+      "end": 2799
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 2800,
+      "end": 2809
+    },
+    {
+      "text": "dimension",
+      "type": "ENTITY",
+      "start": 2873,
+      "end": 2882
+    },
+    {
+      "text": "Sectioning",
+      "type": "ENTITY",
+      "start": 2884,
+      "end": 2894
+    },
+    {
+      "text": "lymph node",
+      "type": "ENTITY",
+      "start": 2906,
+      "end": 2916
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 2973,
+      "end": 2981
+    },
+    {
+      "text": "A1- one lymph node",
+      "type": "ENTITY",
+      "start": 3016,
+      "end": 3034
+    },
+    {
+      "text": "bisected",
+      "type": "ENTITY",
+      "start": 3036,
+      "end": 3044
+    },
+    {
+      "text": "lymph node",
+      "type": "ENTITY",
+      "start": 3054,
+      "end": 3064
+    },
+    {
+      "text": "A3-",
+      "type": "ENTITY",
+      "start": 3066,
+      "end": 3069
+    },
+    {
+      "text": "lymph node",
+      "type": "ENTITY",
+      "start": 3074,
+      "end": 3084
+    },
+    {
+      "text": "matched section",
+      "type": "ENTITY",
+      "start": 3088,
+      "end": 3103
+    },
+    {
+      "text": "A2",
+      "type": "ENTITY",
+      "start": 3107,
+      "end": 3109
+    },
+    {
+      "text": "ocr",
+      "type": "ENTITY",
+      "start": 3126,
+      "end": 3129
+    },
+    {
+      "text": "protocol",
+      "type": "ENTITY",
+      "start": 3135,
+      "end": 3143
+    },
+    {
+      "text": "Time",
+      "type": "ENTITY",
+      "start": 3145,
+      "end": 3149
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 3153,
+      "end": 3161
+    },
+    {
+      "text": "B",
+      "type": "ENTITY",
+      "start": 3163,
+      "end": 3164
+    },
+    {
+      "text": "Received",
+      "type": "ENTITY",
+      "start": 3166,
+      "end": 3174
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 3178,
+      "end": 3186
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 3188,
+      "end": 3195
+    },
+    {
+      "text": "patient's",
+      "type": "ENTITY",
+      "start": 3205,
+      "end": 3214
+    },
+    {
+      "text": "lymph node",
+      "type": "ENTITY",
+      "start": 3322,
+      "end": 3332
+    },
+    {
+      "text": "bisected",
+      "type": "ENTITY",
+      "start": 3336,
+      "end": 3344
+    },
+    {
+      "text": "Time",
+      "type": "ENTITY",
+      "start": 3376,
+      "end": 3380
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 3384,
+      "end": 3392
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 3407,
+      "end": 3412
+    },
+    {
+      "text": "patient's",
+      "type": "ENTITY",
+      "start": 3432,
+      "end": 3441
+    },
+    {
+      "text": "ovoid portion of firm",
+      "type": "ENTITY",
+      "start": 3504,
+      "end": 3525
+    },
+    {
+      "text": "yellow-tan",
+      "type": "ENTITY",
+      "start": 3527,
+      "end": 3537
+    },
+    {
+      "text": "breast tissue",
+      "type": "ENTITY",
+      "start": 3538,
+      "end": 3551
+    },
+    {
+      "text": "short stitch-superior",
+      "type": "ENTITY",
+      "start": 3568,
+      "end": 3589
+    },
+    {
+      "text": "long stitch-lateral",
+      "type": "ENTITY",
+      "start": 3595,
+      "end": 3614
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 3620,
+      "end": 3628
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 3629,
+      "end": 3637
+    },
+    {
+      "text": "inferior",
+      "type": "ENTITY",
+      "start": 3662,
+      "end": 3670
+    },
+    {
+      "text": "medial",
+      "type": "ENTITY",
+      "start": 3684,
+      "end": 3690
+    },
+    {
+      "text": "lateral",
+      "type": "ENTITY",
+      "start": 3694,
+      "end": 3701
+    },
+    {
+      "text": "anterior",
+      "type": "ENTITY",
+      "start": 3718,
+      "end": 3726
+    },
+    {
+      "text": "deep",
+      "type": "ENTITY",
+      "start": 3730,
+      "end": 3734
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 3740,
+      "end": 3748
+    },
+    {
+      "text": "superior-blue",
+      "type": "ENTITY",
+      "start": 3770,
+      "end": 3783
+    },
+    {
+      "text": "inferior-green;.",
+      "type": "ENTITY",
+      "start": 3785,
+      "end": 3801
+    },
+    {
+      "text": "lateral-yellow",
+      "type": "ENTITY",
+      "start": 3814,
+      "end": 3828
+    },
+    {
+      "text": "anterior-orange",
+      "type": "ENTITY",
+      "start": 3830,
+      "end": 3845
+    },
+    {
+      "text": "deep-black",
+      "type": "ENTITY",
+      "start": 3851,
+      "end": 3861
+    },
+    {
+      "text": "firm",
+      "type": "ENTITY",
+      "start": 3888,
+      "end": 3892
+    },
+    {
+      "text": "gritty",
+      "type": "ENTITY",
+      "start": 3894,
+      "end": 3900
+    },
+    {
+      "text": "pink-tan mass",
+      "type": "ENTITY",
+      "start": 3902,
+      "end": 3915
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 3916,
+      "end": 3925
+    },
+    {
+      "text": "Next Page",
+      "type": "ENTITY",
+      "start": 3962,
+      "end": 3971
+    },
+    {
+      "text": "ONLY",
+      "type": "ENTITY",
+      "start": 3990,
+      "end": 3994
+    },
+    {
+      "text": "PERSONAL",
+      "type": "ENTITY",
+      "start": 3997,
+      "end": 4005
+    },
+    {
+      "text": "DATA",
+      "type": "ENTITY",
+      "start": 4006,
+      "end": 4010
+    },
+    {
+      "text": "PRIVACY",
+      "type": "ENTITY",
+      "start": 4013,
+      "end": 4020
+    },
+    {
+      "text": "ACT",
+      "type": "ENTITY",
+      "start": 4021,
+      "end": 4024
+    },
+    {
+      "text": "ONLY",
+      "type": "ENTITY",
+      "start": 4066,
+      "end": 4070
+    },
+    {
+      "text": "PERSONAL",
+      "type": "ENTITY",
+      "start": 4073,
+      "end": 4081
+    },
+    {
+      "text": "DATA",
+      "type": "ENTITY",
+      "start": 4082,
+      "end": 4086
+    },
+    {
+      "text": "PRIVACY",
+      "type": "ENTITY",
+      "start": 4089,
+      "end": 4096
+    },
+    {
+      "text": "ACT",
+      "type": "ENTITY",
+      "start": 4097,
+      "end": 4100
+    },
+    {
+      "text": "Patient",
+      "type": "ENTITY",
+      "start": 4135,
+      "end": 4142
+    },
+    {
+      "text": "Specimen",
+      "type": "ENTITY",
+      "start": 4144,
+      "end": 4152
+    },
+    {
+      "text": "GROSS DESCRIPTION",
+      "type": "ENTITY",
+      "start": 4156,
+      "end": 4173
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 4196,
+      "end": 4200
+    },
+    {
+      "text": "borders",
+      "type": "ENTITY",
+      "start": 4219,
+      "end": 4226
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 4261,
+      "end": 4269
+    },
+    {
+      "text": "patchy",
+      "type": "ENTITY",
+      "start": 4275,
+      "end": 4281
+    },
+    {
+      "text": "ill",
+      "type": "ENTITY",
+      "start": 4283,
+      "end": 4286
+    },
+    {
+      "text": "distribution",
+      "type": "ENTITY",
+      "start": 4295,
+      "end": 4307
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 4340,
+      "end": 4348
+    },
+    {
+      "text": "cut surface",
+      "type": "ENTITY",
+      "start": 4385,
+      "end": 4396
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 4402,
+      "end": 4406
+    },
+    {
+      "text": "abuts",
+      "type": "ENTITY",
+      "start": 4408,
+      "end": 4413
+    },
+    {
+      "text": "superior",
+      "type": "ENTITY",
+      "start": 4418,
+      "end": 4426
+    },
+    {
+      "text": "anterior",
+      "type": "ENTITY",
+      "start": 4428,
+      "end": 4436
+    },
+    {
+      "text": "deep",
+      "type": "ENTITY",
+      "start": 4438,
+      "end": 4442
+    },
+    {
+      "text": "medial margins",
+      "type": "ENTITY",
+      "start": 4448,
+      "end": 4462
+    },
+    {
+      "text": "breast tissue",
+      "type": "ENTITY",
+      "start": 4480,
+      "end": 4493
+    },
+    {
+      "text": "dense",
+      "type": "ENTITY",
+      "start": 4497,
+      "end": 4502
+    },
+    {
+      "text": "pink",
+      "type": "ENTITY",
+      "start": 4504,
+      "end": 4508
+    },
+    {
+      "text": "white fibrous tissue",
+      "type": "ENTITY",
+      "start": 4513,
+      "end": 4533
+    },
+    {
+      "text": "mass lesions",
+      "type": "ENTITY",
+      "start": 4544,
+      "end": 4556
+    },
+    {
+      "text": "identified",
+      "type": "ENTITY",
+      "start": 4561,
+      "end": 4571
+    },
+    {
+      "text": "inferior",
+      "type": "ENTITY",
+      "start": 4643,
+      "end": 4651
+    },
+    {
+      "text": "C1-c2-",
+      "type": "ENTITY",
+      "start": 4664,
+      "end": 4670
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 4671,
+      "end": 4675
+    },
+    {
+      "text": "margin",
+      "type": "ENTITY",
+      "start": 4690,
+      "end": 4696
+    },
+    {
+      "text": "c3-c5- mass",
+      "type": "ENTITY",
+      "start": 4698,
+      "end": 4709
+    },
+    {
+      "text": "margins",
+      "type": "ENTITY",
+      "start": 4726,
+      "end": 4733
+    },
+    {
+      "text": "C6-",
+      "type": "ENTITY",
+      "start": 4735,
+      "end": 4738
+    },
+    {
+      "text": "adjacent",
+      "type": "ENTITY",
+      "start": 4739,
+      "end": 4747
+    },
+    {
+      "text": "normal",
+      "type": "ENTITY",
+      "start": 4748,
+      "end": 4754
+    },
+    {
+      "text": "c7- mass",
+      "type": "ENTITY",
+      "start": 4756,
+      "end": 4764
+    },
+    {
+      "text": "margins",
+      "type": "ENTITY",
+      "start": 4781,
+      "end": 4788
+    },
+    {
+      "text": "c8- mass",
+      "type": "ENTITY",
+      "start": 4790,
+      "end": 4798
+    },
+    {
+      "text": "margins",
+      "type": "ENTITY",
+      "start": 4815,
+      "end": 4822
+    },
+    {
+      "text": "c9- mass",
+      "type": "ENTITY",
+      "start": 4824,
+      "end": 4832
+    },
+    {
+      "text": "lateral margin",
+      "type": "ENTITY",
+      "start": 4838,
+      "end": 4852
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 4859,
+      "end": 4863
+    },
+    {
+      "text": "margins",
+      "type": "ENTITY",
+      "start": 4880,
+      "end": 4887
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 4894,
+      "end": 4898
+    },
+    {
+      "text": "margins",
+      "type": "ENTITY",
+      "start": 4915,
+      "end": 4922
+    },
+    {
+      "text": "C12- inferior margin",
+      "type": "ENTITY",
+      "start": 4924,
+      "end": 4944
+    },
+    {
+      "text": "Matched sections",
+      "type": "ENTITY",
+      "start": 4946,
+      "end": 4962
+    },
+    {
+      "text": "c3,c5,c7",
+      "type": "ENTITY",
+      "start": 4966,
+      "end": 4974
+    },
+    {
+      "text": "c9-c11",
+      "type": "ENTITY",
+      "start": 4980,
+      "end": 4986
+    },
+    {
+      "text": "Ocr",
+      "type": "ENTITY",
+      "start": 5004,
+      "end": 5007
+    },
+    {
+      "text": "paraffin",
+      "type": "ENTITY",
+      "start": 5012,
+      "end": 5020
+    },
+    {
+      "text": "protocol",
+      "type": "ENTITY",
+      "start": 5027,
+      "end": 5035
+    },
+    {
+      "text": "Time",
+      "type": "ENTITY",
+      "start": 5037,
+      "end": 5041
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 5045,
+      "end": 5053
+    },
+    {
+      "text": "EED",
+      "type": "ENTITY",
+      "start": 5055,
+      "end": 5058
+    },
+    {
+      "text": "ONLY",
+      "type": "ENTITY",
+      "start": 5106,
+      "end": 5110
+    },
+    {
+      "text": "PERSONAL",
+      "type": "ENTITY",
+      "start": 5113,
+      "end": 5121
+    },
+    {
+      "text": "DATA",
+      "type": "ENTITY",
+      "start": 5122,
+      "end": 5126
+    },
+    {
+      "text": "PRIVACY",
+      "type": "ENTITY",
+      "start": 5129,
+      "end": 5136
+    },
+    {
+      "text": "ACT",
+      "type": "ENTITY",
+      "start": 5137,
+      "end": 5140
+    }
+  ],
+  "entity_count": 237,
+  "has_embedding": true
+}

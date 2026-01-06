@@ -1,0 +1,740 @@
+{
+  "filename": "74f8c4a8-7776-472b-86a1-b8243538a70d",
+  "timestamp": "2026-01-05T14:45:04.839543",
+  "entities": [
+    {
+      "text": "Accession",
+      "type": "ENTITY",
+      "start": 30,
+      "end": 39
+    },
+    {
+      "text": "DOB",
+      "type": "ENTITY",
+      "start": 74,
+      "end": 77
+    },
+    {
+      "text": "Date",
+      "type": "ENTITY",
+      "start": 79,
+      "end": 83
+    },
+    {
+      "text": "Receipt",
+      "type": "ENTITY",
+      "start": 87,
+      "end": 94
+    },
+    {
+      "text": "Gender",
+      "type": "ENTITY",
+      "start": 96,
+      "end": 102
+    },
+    {
+      "text": "Date of Report",
+      "type": "ENTITY",
+      "start": 104,
+      "end": 118
+    },
+    {
+      "text": "Physician",
+      "type": "ENTITY",
+      "start": 125,
+      "end": 134
+    },
+    {
+      "text": "Patient",
+      "type": "ENTITY",
+      "start": 147,
+      "end": 154
+    },
+    {
+      "text": "Billing Type",
+      "type": "ENTITY",
+      "start": 164,
+      "end": 176
+    },
+    {
+      "text": "Copy",
+      "type": "ENTITY",
+      "start": 189,
+      "end": 193
+    },
+    {
+      "text": "TCGA-BP-5173",
+      "type": "ENTITY",
+      "start": 211,
+      "end": 223
+    },
+    {
+      "text": "History",
+      "type": "ENTITY",
+      "start": 245,
+      "end": 252
+    },
+    {
+      "text": "Specimens",
+      "type": "ENTITY",
+      "start": 254,
+      "end": 263
+    },
+    {
+      "text": "SP",
+      "type": "ENTITY",
+      "start": 277,
+      "end": 279
+    },
+    {
+      "text": "Right renal tumor",
+      "type": "ENTITY",
+      "start": 281,
+      "end": 298
+    },
+    {
+      "text": "SP",
+      "type": "ENTITY",
+      "start": 304,
+      "end": 306
+    },
+    {
+      "text": "Deep margin",
+      "type": "ENTITY",
+      "start": 308,
+      "end": 319
+    },
+    {
+      "text": "RIGHT",
+      "type": "ENTITY",
+      "start": 348,
+      "end": 353
+    },
+    {
+      "text": "PARTIAL",
+      "type": "ENTITY",
+      "start": 355,
+      "end": 362
+    },
+    {
+      "text": "RENAL",
+      "type": "ENTITY",
+      "start": 378,
+      "end": 383
+    },
+    {
+      "text": "CONVENTIONAL TYPE",
+      "type": "ENTITY",
+      "start": 400,
+      "end": 417
+    },
+    {
+      "text": "THE",
+      "type": "ENTITY",
+      "start": 441,
+      "end": 444
+    },
+    {
+      "text": "GROWTH IS",
+      "type": "ENTITY",
+      "start": 456,
+      "end": 465
+    },
+    {
+      "text": "THE",
+      "type": "ENTITY",
+      "start": 476,
+      "end": 479
+    },
+    {
+      "text": "TUMOR",
+      "type": "ENTITY",
+      "start": 480,
+      "end": 485
+    },
+    {
+      "text": "DIAMETER IS",
+      "type": "ENTITY",
+      "start": 495,
+      "end": 506
+    },
+    {
+      "text": "CM",
+      "type": "ENTITY",
+      "start": 511,
+      "end": 513
+    },
+    {
+      "text": "THE",
+      "type": "ENTITY",
+      "start": 518,
+      "end": 521
+    },
+    {
+      "text": "TUMOR IS",
+      "type": "ENTITY",
+      "start": 522,
+      "end": 530
+    },
+    {
+      "text": "CAPSULE./I",
+      "type": "ENTITY",
+      "start": 557,
+      "end": 567
+    },
+    {
+      "text": "NO",
+      "type": "ENTITY",
+      "start": 570,
+      "end": 572
+    },
+    {
+      "text": "IS",
+      "type": "ENTITY",
+      "start": 600,
+      "end": 602
+    },
+    {
+      "text": "THE",
+      "type": "ENTITY",
+      "start": 617,
+      "end": 620
+    },
+    {
+      "text": "TUMOR IS LESS",
+      "type": "ENTITY",
+      "start": 621,
+      "end": 634
+    },
+    {
+      "text": "MM",
+      "type": "ENTITY",
+      "start": 642,
+      "end": 644
+    },
+    {
+      "text": "THE",
+      "type": "ENTITY",
+      "start": 673,
+      "end": 676
+    },
+    {
+      "text": "NON-NEOPLASTIC KIDNEY",
+      "type": "ENTITY",
+      "start": 677,
+      "end": 698
+    },
+    {
+      "text": "PATCHY",
+      "type": "ENTITY",
+      "start": 705,
+      "end": 711
+    },
+    {
+      "text": "THE",
+      "type": "ENTITY",
+      "start": 738,
+      "end": 741
+    },
+    {
+      "text": "ADRENAL GLAND",
+      "type": "ENTITY",
+      "start": 742,
+      "end": 755
+    },
+    {
+      "text": "IS",
+      "type": "ENTITY",
+      "start": 756,
+      "end": 758
+    },
+    {
+      "text": "NOT SUBMITTED",
+      "type": "ENTITY",
+      "start": 759,
+      "end": 772
+    },
+    {
+      "text": "FAT",
+      "type": "ENTITY",
+      "start": 777,
+      "end": 780
+    },
+    {
+      "text": "DEEP MARGIN",
+      "type": "ENTITY",
+      "start": 782,
+      "end": 793
+    },
+    {
+      "text": "BIOPSY",
+      "type": "ENTITY",
+      "start": 795,
+      "end": 801
+    },
+    {
+      "text": "BENIGN",
+      "type": "ENTITY",
+      "start": 805,
+      "end": 811
+    },
+    {
+      "text": "FIBROADIPOSE",
+      "type": "ENTITY",
+      "start": 812,
+      "end": 824
+    },
+    {
+      "text": "TISSUE",
+      "type": "ENTITY",
+      "start": 825,
+      "end": 831
+    },
+    {
+      "text": "TATTEST",
+      "type": "ENTITY",
+      "start": 833,
+      "end": 840
+    },
+    {
+      "text": "THAT I",
+      "type": "ENTITY",
+      "start": 947,
+      "end": 953
+    },
+    {
+      "text": "*** Report",
+      "type": "ENTITY",
+      "start": 994,
+      "end": 1004
+    },
+    {
+      "text": "Electronically Signed",
+      "type": "ENTITY",
+      "start": 1005,
+      "end": 1026
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1060,
+      "end": 1068
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 1081,
+      "end": 1086
+    },
+    {
+      "text": "frozen section",
+      "type": "ENTITY",
+      "start": 1091,
+      "end": 1105
+    },
+    {
+      "text": "diagnosis",
+      "type": "ENTITY",
+      "start": 1106,
+      "end": 1115
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 1117,
+      "end": 1124
+    },
+    {
+      "text": "Right renal tumor",
+      "type": "ENTITY",
+      "start": 1127,
+      "end": 1144
+    },
+    {
+      "text": "stitch marks",
+      "type": "ENTITY",
+      "start": 1146,
+      "end": 1158
+    },
+    {
+      "text": "deep margin",
+      "type": "ENTITY",
+      "start": 1159,
+      "end": 1170
+    },
+    {
+      "text": "tan-red renal tissue",
+      "type": "ENTITY",
+      "start": 1210,
+      "end": 1230
+    },
+    {
+      "text": "tan-yellow tumor mass",
+      "type": "ENTITY",
+      "start": 1257,
+      "end": 1278
+    },
+    {
+      "text": "Grossly",
+      "type": "ENTITY",
+      "start": 1280,
+      "end": 1287
+    },
+    {
+      "text": "tumor mass",
+      "type": "ENTITY",
+      "start": 1292,
+      "end": 1302
+    },
+    {
+      "text": "nearest resection margin",
+      "type": "ENTITY",
+      "start": 1338,
+      "end": 1362
+    },
+    {
+      "text": "Grossly",
+      "type": "ENTITY",
+      "start": 1364,
+      "end": 1371
+    },
+    {
+      "text": "margin",
+      "type": "ENTITY",
+      "start": 1376,
+      "end": 1382
+    },
+    {
+      "text": "free",
+      "type": "ENTITY",
+      "start": 1386,
+      "end": 1390
+    },
+    {
+      "text": "uninvolved",
+      "type": "ENTITY",
+      "start": 1397,
+      "end": 1407
+    },
+    {
+      "text": "renal",
+      "type": "ENTITY",
+      "start": 1408,
+      "end": 1413
+    },
+    {
+      "text": "cortical tissue",
+      "type": "ENTITY",
+      "start": 1414,
+      "end": 1429
+    },
+    {
+      "text": "unremarkable",
+      "type": "ENTITY",
+      "start": 1433,
+      "end": 1445
+    },
+    {
+      "text": "perirenal fat",
+      "type": "ENTITY",
+      "start": 1473,
+      "end": 1486
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 1488,
+      "end": 1497
+    },
+    {
+      "text": "aggregate",
+      "type": "ENTITY",
+      "start": 1501,
+      "end": 1510
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1563,
+      "end": 1571
+    },
+    {
+      "text": "submitled",
+      "type": "ENTITY",
+      "start": 1592,
+      "end": 1601
+    },
+    {
+      "text": "Sections",
+      "type": "ENTITY",
+      "start": 1614,
+      "end": 1622
+    },
+    {
+      "text": "FSCA",
+      "type": "ENTITY",
+      "start": 1624,
+      "end": 1628
+    },
+    {
+      "text": "frozen section",
+      "type": "ENTITY",
+      "start": 1632,
+      "end": 1646
+    },
+    {
+      "text": "control",
+      "type": "ENTITY",
+      "start": 1647,
+      "end": 1654
+    },
+    {
+      "text": "FSCB",
+      "type": "ENTITY",
+      "start": 1657,
+      "end": 1661
+    },
+    {
+      "text": "frozen",
+      "type": "ENTITY",
+      "start": 1665,
+      "end": 1671
+    },
+    {
+      "text": "contol",
+      "type": "ENTITY",
+      "start": 1680,
+      "end": 1686
+    },
+    {
+      "text": "B TU- tumor",
+      "type": "ENTITY",
+      "start": 1687,
+      "end": 1698
+    },
+    {
+      "text": "uninvolved",
+      "type": "ENTITY",
+      "start": 1705,
+      "end": 1715
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1784,
+      "end": 1792
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 1805,
+      "end": 1810
+    },
+    {
+      "text": "frozen section",
+      "type": "ENTITY",
+      "start": 1815,
+      "end": 1829
+    },
+    {
+      "text": "diagnosis",
+      "type": "ENTITY",
+      "start": 1830,
+      "end": 1839
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 1841,
+      "end": 1848
+    },
+    {
+      "text": "Deep margin",
+      "type": "ENTITY",
+      "start": 1851,
+      "end": 1862
+    },
+    {
+      "text": "tan-yellow soft tissue",
+      "type": "ENTITY",
+      "start": 1886,
+      "end": 1908
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 1909,
+      "end": 1918
+    },
+    {
+      "text": "frozen",
+      "type": "ENTITY",
+      "start": 1948,
+      "end": 1954
+    },
+    {
+      "text": "Sections",
+      "type": "ENTITY",
+      "start": 1967,
+      "end": 1975
+    },
+    {
+      "text": "F$C  frozen section",
+      "type": "ENTITY",
+      "start": 1977,
+      "end": 1996
+    },
+    {
+      "text": "Sections",
+      "type": "ENTITY",
+      "start": 2016,
+      "end": 2024
+    },
+    {
+      "text": "SP",
+      "type": "ENTITY",
+      "start": 2035,
+      "end": 2037
+    },
+    {
+      "text": "Right renal tumor Block Sect",
+      "type": "ENTITY",
+      "start": 2039,
+      "end": 2067
+    },
+    {
+      "text": "fscb",
+      "type": "ENTITY",
+      "start": 2088,
+      "end": 2092
+    },
+    {
+      "text": "SP",
+      "type": "ENTITY",
+      "start": 2114,
+      "end": 2116
+    },
+    {
+      "text": "Deep margin",
+      "type": "ENTITY",
+      "start": 2118,
+      "end": 2129
+    },
+    {
+      "text": "PCs",
+      "type": "ENTITY",
+      "start": 2150,
+      "end": 2153
+    },
+    {
+      "text": "Intraoperative Consultation",
+      "type": "ENTITY",
+      "start": 2160,
+      "end": 2187
+    },
+    {
+      "text": "diagnoses",
+      "type": "ENTITY",
+      "start": 2199,
+      "end": 2208
+    },
+    {
+      "text": "section",
+      "type": "ENTITY",
+      "start": 2223,
+      "end": 2230
+    },
+    {
+      "text": "tissue",
+      "type": "ENTITY",
+      "start": 2251,
+      "end": 2257
+    },
+    {
+      "text": "time",
+      "type": "ENTITY",
+      "start": 2281,
+      "end": 2285
+    },
+    {
+      "text": "Intraoperative",
+      "type": "ENTITY",
+      "start": 2293,
+      "end": 2307
+    },
+    {
+      "text": "consultation",
+      "type": "ENTITY",
+      "start": 2309,
+      "end": 2321
+    },
+    {
+      "text": "FROZEN SECTION",
+      "type": "ENTITY",
+      "start": 2329,
+      "end": 2343
+    },
+    {
+      "text": "DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 2344,
+      "end": 2353
+    },
+    {
+      "text": "RENAL",
+      "type": "ENTITY",
+      "start": 2355,
+      "end": 2360
+    },
+    {
+      "text": "PERMANENT DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 2407,
+      "end": 2426
+    },
+    {
+      "text": "SAME",
+      "type": "ENTITY",
+      "start": 2428,
+      "end": 2432
+    },
+    {
+      "text": "BENIGN",
+      "type": "ENTITY",
+      "start": 2437,
+      "end": 2443
+    },
+    {
+      "text": "FROZEN SECTION",
+      "type": "ENTITY",
+      "start": 2445,
+      "end": 2459
+    },
+    {
+      "text": "DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 2460,
+      "end": 2469
+    },
+    {
+      "text": "PERMANENT DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 2471,
+      "end": 2490
+    },
+    {
+      "text": "SAME",
+      "type": "ENTITY",
+      "start": 2492,
+      "end": 2496
+    },
+    {
+      "text": "END",
+      "type": "ENTITY",
+      "start": 2510,
+      "end": 2513
+    }
+  ],
+  "entity_count": 122,
+  "has_embedding": true
+}

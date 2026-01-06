@@ -1,0 +1,416 @@
+{
+  "filename": "514554ca-6b84-45c5-8190-5476d6c422e8",
+  "timestamp": "2026-01-05T14:42:03.630863",
+  "entities": [
+    {
+      "text": "D7E1CBFA-6E00-48AF-804D",
+      "type": "ENTITY",
+      "start": 21,
+      "end": 44
+    },
+    {
+      "text": "TCGA-DK-A6B6-01A-PR",
+      "type": "ENTITY",
+      "start": 54,
+      "end": 73
+    },
+    {
+      "text": "Redacted SURGICAL",
+      "type": "ENTITY",
+      "start": 74,
+      "end": 91
+    },
+    {
+      "text": "Patient",
+      "type": "ENTITY",
+      "start": 109,
+      "end": 116
+    },
+    {
+      "text": "Accession",
+      "type": "ENTITY",
+      "start": 123,
+      "end": 132
+    },
+    {
+      "text": "DOB",
+      "type": "ENTITY",
+      "start": 168,
+      "end": 171
+    },
+    {
+      "text": "Age",
+      "type": "ENTITY",
+      "start": 174,
+      "end": 177
+    },
+    {
+      "text": "Location",
+      "type": "ENTITY",
+      "start": 179,
+      "end": 187
+    },
+    {
+      "text": "Date",
+      "type": "ENTITY",
+      "start": 189,
+      "end": 193
+    },
+    {
+      "text": "Receipt",
+      "type": "ENTITY",
+      "start": 197,
+      "end": 204
+    },
+    {
+      "text": "Gender",
+      "type": "ENTITY",
+      "start": 206,
+      "end": 212
+    },
+    {
+      "text": "Service",
+      "type": "ENTITY",
+      "start": 214,
+      "end": 221
+    },
+    {
+      "text": "Physician",
+      "type": "ENTITY",
+      "start": 253,
+      "end": 262
+    },
+    {
+      "text": "Patient Address: Account",
+      "type": "ENTITY",
+      "start": 264,
+      "end": 288
+    },
+    {
+      "text": "Billing Type",
+      "type": "ENTITY",
+      "start": 292,
+      "end": 304
+    },
+    {
+      "text": "Copy",
+      "type": "ENTITY",
+      "start": 328,
+      "end": 332
+    },
+    {
+      "text": "Source Clinical Diagnosis & History",
+      "type": "ENTITY",
+      "start": 342,
+      "end": 377
+    },
+    {
+      "text": "T1 HG",
+      "type": "ENTITY",
+      "start": 379,
+      "end": 384
+    },
+    {
+      "text": "no muscle",
+      "type": "ENTITY",
+      "start": 385,
+      "end": 394
+    },
+    {
+      "text": "biopsy",
+      "type": "ENTITY",
+      "start": 404,
+      "end": 410
+    },
+    {
+      "text": "Specimens",
+      "type": "ENTITY",
+      "start": 412,
+      "end": 421
+    },
+    {
+      "text": "Right posterior bladder wall tumor",
+      "type": "ENTITY",
+      "start": 436,
+      "end": 470
+    },
+    {
+      "text": "TURBT",
+      "type": "ENTITY",
+      "start": 472,
+      "end": 477
+    },
+    {
+      "text": "DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 478,
+      "end": 487
+    },
+    {
+      "text": "LBD-0",
+      "type": "ENTITY",
+      "start": 489,
+      "end": 494
+    },
+    {
+      "text": "Right posterior bladder wall tumor",
+      "type": "ENTITY",
+      "start": 501,
+      "end": 535
+    },
+    {
+      "text": "TURBT",
+      "type": "ENTITY",
+      "start": 537,
+      "end": 542
+    },
+    {
+      "text": "Tumor Type",
+      "type": "ENTITY",
+      "start": 559,
+      "end": 569
+    },
+    {
+      "text": "Invasive urothelial carcinoma",
+      "type": "ENTITY",
+      "start": 571,
+      "end": 600
+    },
+    {
+      "text": "NOS",
+      "type": "ENTITY",
+      "start": 602,
+      "end": 605
+    },
+    {
+      "text": "Histologic Grade",
+      "type": "ENTITY",
+      "start": 606,
+      "end": 622
+    },
+    {
+      "text": "C674",
+      "type": "ENTITY",
+      "start": 624,
+      "end": 628
+    },
+    {
+      "text": "Pattern",
+      "type": "ENTITY",
+      "start": 656,
+      "end": 663
+    },
+    {
+      "text": "growth",
+      "type": "ENTITY",
+      "start": 667,
+      "end": 673
+    },
+    {
+      "text": "non-invasive",
+      "type": "ENTITY",
+      "start": 681,
+      "end": 693
+    },
+    {
+      "text": "flat Local Invasion",
+      "type": "ENTITY",
+      "start": 720,
+      "end": 739
+    },
+    {
+      "text": "Muscularis propria",
+      "type": "ENTITY",
+      "start": 741,
+      "end": 759
+    },
+    {
+      "text": "Vascular Invasion",
+      "type": "ENTITY",
+      "start": 760,
+      "end": 777
+    },
+    {
+      "text": "Non-Neoplastic Mucosa",
+      "type": "ENTITY",
+      "start": 794,
+      "end": 815
+    },
+    {
+      "text": "Exhibiting",
+      "type": "ENTITY",
+      "start": 817,
+      "end": 827
+    },
+    {
+      "text": "proliferative cystitis",
+      "type": "ENTITY",
+      "start": 828,
+      "end": 850
+    },
+    {
+      "text": "Brunn's nests",
+      "type": "ENTITY",
+      "start": 852,
+      "end": 865
+    },
+    {
+      "text": "cystitis cystica",
+      "type": "ENTITY",
+      "start": 867,
+      "end": 883
+    },
+    {
+      "text": "cystitis glandularis",
+      "type": "ENTITY",
+      "start": 885,
+      "end": 905
+    },
+    {
+      "text": "ATTEST",
+      "type": "ENTITY",
+      "start": 909,
+      "end": 915
+    },
+    {
+      "text": "ABOVE DIAGNOSIS IS",
+      "type": "ENTITY",
+      "start": 925,
+      "end": 943
+    },
+    {
+      "text": "THAT I",
+      "type": "ENTITY",
+      "start": 1022,
+      "end": 1028
+    },
+    {
+      "text": "*** Report",
+      "type": "ENTITY",
+      "start": 1069,
+      "end": 1079
+    },
+    {
+      "text": "Electronically Signed",
+      "type": "ENTITY",
+      "start": 1080,
+      "end": 1101
+    },
+    {
+      "text": "Gross Description",
+      "type": "ENTITY",
+      "start": 1107,
+      "end": 1124
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1134,
+      "end": 1142
+    },
+    {
+      "text": "hank's solution",
+      "type": "ENTITY",
+      "start": 1158,
+      "end": 1173
+    },
+    {
+      "text": "Right posterior bladder wall tumor",
+      "type": "ENTITY",
+      "start": 1186,
+      "end": 1220
+    },
+    {
+      "text": "multiple",
+      "type": "ENTITY",
+      "start": 1239,
+      "end": 1247
+    },
+    {
+      "text": "piece(s)",
+      "type": "ENTITY",
+      "start": 1248,
+      "end": 1256
+    },
+    {
+      "text": "irregular",
+      "type": "ENTITY",
+      "start": 1260,
+      "end": 1269
+    },
+    {
+      "text": "tan-brown",
+      "type": "ENTITY",
+      "start": 1270,
+      "end": 1279
+    },
+    {
+      "text": "soft tissue",
+      "type": "ENTITY",
+      "start": 1280,
+      "end": 1291
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 1302,
+      "end": 1311
+    },
+    {
+      "text": "aggregate",
+      "type": "ENTITY",
+      "start": 1334,
+      "end": 1343
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1349,
+      "end": 1357
+    },
+    {
+      "text": "cassettes",
+      "type": "ENTITY",
+      "start": 1387,
+      "end": 1396
+    },
+    {
+      "text": "tissue",
+      "type": "ENTITY",
+      "start": 1403,
+      "end": 1409
+    },
+    {
+      "text": "T P",
+      "type": "ENTITY",
+      "start": 1423,
+      "end": 1426
+    },
+    {
+      "text": "Sections",
+      "type": "ENTITY",
+      "start": 1441,
+      "end": 1449
+    },
+    {
+      "text": "Block Sect",
+      "type": "ENTITY",
+      "start": 1451,
+      "end": 1461
+    },
+    {
+      "text": "Page 2",
+      "type": "ENTITY",
+      "start": 1552,
+      "end": 1558
+    },
+    {
+      "text": "END",
+      "type": "ENTITY",
+      "start": 1564,
+      "end": 1567
+    }
+  ],
+  "entity_count": 68,
+  "has_embedding": true
+}

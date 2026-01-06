@@ -1,0 +1,614 @@
+{
+  "filename": "2c0035d5-2254-4d30-83c3-21d8b87319d7",
+  "timestamp": "2026-01-05T14:43:41.725372",
+  "entities": [
+    {
+      "text": "Age",
+      "type": "ENTITY",
+      "start": 40,
+      "end": 43
+    },
+    {
+      "text": "Gender",
+      "type": "ENTITY",
+      "start": 45,
+      "end": 51
+    },
+    {
+      "text": "Race",
+      "type": "ENTITY",
+      "start": 55,
+      "end": 59
+    },
+    {
+      "text": "White",
+      "type": "ENTITY",
+      "start": 61,
+      "end": 66
+    },
+    {
+      "text": "CLiniCAl histoRy",
+      "type": "ENTITY",
+      "start": 68,
+      "end": 84
+    },
+    {
+      "text": "LMP",
+      "type": "ENTITY",
+      "start": 99,
+      "end": 102
+    },
+    {
+      "text": "Hysterectomy",
+      "type": "ENTITY",
+      "start": 104,
+      "end": 116
+    },
+    {
+      "text": "DiAGNOSIS",
+      "type": "ENTITY",
+      "start": 125,
+      "end": 134
+    },
+    {
+      "text": "RIght breast cancer",
+      "type": "ENTITY",
+      "start": 136,
+      "end": 155
+    },
+    {
+      "text": "DiagnOsiS",
+      "type": "ENTITY",
+      "start": 165,
+      "end": 174
+    },
+    {
+      "text": "Right needle localized scgmental mastectomy",
+      "type": "ENTITY",
+      "start": 193,
+      "end": 236
+    },
+    {
+      "text": "right sentinel node biopsy",
+      "type": "ENTITY",
+      "start": 241,
+      "end": 267
+    },
+    {
+      "text": "FINAL",
+      "type": "ENTITY",
+      "start": 270,
+      "end": 275
+    },
+    {
+      "text": "RIGHT",
+      "type": "ENTITY",
+      "start": 295,
+      "end": 300
+    },
+    {
+      "text": "BREAST",
+      "type": "ENTITY",
+      "start": 301,
+      "end": 307
+    },
+    {
+      "text": "O' CLOCK",
+      "type": "ENTITY",
+      "start": 311,
+      "end": 319
+    },
+    {
+      "text": "LOCALIZeD",
+      "type": "ENTITY",
+      "start": 327,
+      "end": 336
+    },
+    {
+      "text": "SEGMENTAL",
+      "type": "ENTITY",
+      "start": 337,
+      "end": 346
+    },
+    {
+      "text": "INVASIVE",
+      "type": "ENTITY",
+      "start": 377,
+      "end": 385
+    },
+    {
+      "text": "DUCIAL.CARCINOMA",
+      "type": "ENTITY",
+      "start": 386,
+      "end": 402
+    },
+    {
+      "text": "NO SPECIAL TYPE",
+      "type": "ENTITY",
+      "start": 404,
+      "end": 419
+    },
+    {
+      "text": "TUMOR NOTTINGHAM GRADE 2",
+      "type": "ENTITY",
+      "start": 432,
+      "end": 456
+    },
+    {
+      "text": "TUBULE FORMATiON 3",
+      "type": "ENTITY",
+      "start": 458,
+      "end": 476
+    },
+    {
+      "text": "NUCLEAR PLEOMORPHISm 2",
+      "type": "ENTITY",
+      "start": 478,
+      "end": 500
+    },
+    {
+      "text": "Mitotic Activity 2",
+      "type": "ENTITY",
+      "start": 502,
+      "end": 520
+    },
+    {
+      "text": "cOre",
+      "type": "ENTITY",
+      "start": 529,
+      "end": 533
+    },
+    {
+      "text": "C.  SMALLER TUMOR nOTTINGHAM GRADE 2",
+      "type": "ENTITY",
+      "start": 541,
+      "end": 577
+    },
+    {
+      "text": "TUBULE FORMATION 3",
+      "type": "ENTITY",
+      "start": 579,
+      "end": 597
+    },
+    {
+      "text": "MItotIc activity",
+      "type": "ENTITY",
+      "start": 623,
+      "end": 639
+    },
+    {
+      "text": "tOtal Score",
+      "type": "ENTITY",
+      "start": 643,
+      "end": 654
+    },
+    {
+      "text": "D.  THE LARGER TUMOR",
+      "type": "ENTITY",
+      "start": 662,
+      "end": 682
+    },
+    {
+      "text": "CM",
+      "type": "ENTITY",
+      "start": 696,
+      "end": 698
+    },
+    {
+      "text": "IS",
+      "type": "ENTITY",
+      "start": 703,
+      "end": 705
+    },
+    {
+      "text": "CLOCK",
+      "type": "ENTITY",
+      "start": 722,
+      "end": 727
+    },
+    {
+      "text": "E  THE SMALLER TUMOR",
+      "type": "ENTITY",
+      "start": 729,
+      "end": 749
+    },
+    {
+      "text": "CM",
+      "type": "ENTITY",
+      "start": 763,
+      "end": 765
+    },
+    {
+      "text": "CLOCK",
+      "type": "ENTITY",
+      "start": 789,
+      "end": 794
+    },
+    {
+      "text": "F. DUCTAL CARCINOMA IN SITU",
+      "type": "ENTITY",
+      "start": 796,
+      "end": 823
+    },
+    {
+      "text": "DCIS",
+      "type": "ENTITY",
+      "start": 825,
+      "end": 829
+    },
+    {
+      "text": "NUCI.EAR GRADE 2",
+      "type": "ENTITY",
+      "start": 832,
+      "end": 848
+    },
+    {
+      "text": "SOLID TYPE",
+      "type": "ENTITY",
+      "start": 850,
+      "end": 860
+    },
+    {
+      "text": "MINIMAL NECROSIS G.  THE",
+      "type": "ENTITY",
+      "start": 866,
+      "end": 890
+    },
+    {
+      "text": "DCIS",
+      "type": "ENTITY",
+      "start": 891,
+      "end": 895
+    },
+    {
+      "text": "IS",
+      "type": "ENTITY",
+      "start": 939,
+      "end": 941
+    },
+    {
+      "text": "H. LYMPHOVASCULAR SPACE INVASION",
+      "type": "ENTITY",
+      "start": 983,
+      "end": 1015
+    },
+    {
+      "text": "IS",
+      "type": "ENTITY",
+      "start": 1016,
+      "end": 1018
+    },
+    {
+      "text": "ARE",
+      "type": "ENTITY",
+      "start": 1046,
+      "end": 1049
+    },
+    {
+      "text": "NECATIVE",
+      "type": "ENTITY",
+      "start": 1050,
+      "end": 1058
+    },
+    {
+      "text": "CARCINOMA",
+      "type": "ENTITY",
+      "start": 1063,
+      "end": 1072
+    },
+    {
+      "text": "INVASIVE",
+      "type": "ENTITY",
+      "start": 1083,
+      "end": 1091
+    },
+    {
+      "text": "IS",
+      "type": "ENTITY",
+      "start": 1102,
+      "end": 1104
+    },
+    {
+      "text": "TC",
+      "type": "ENTITY",
+      "start": 1112,
+      "end": 1114
+    },
+    {
+      "text": "MM",
+      "type": "ENTITY",
+      "start": 1143,
+      "end": 1145
+    },
+    {
+      "text": "ATYPICAL DUCTAL",
+      "type": "ENTITY",
+      "start": 1184,
+      "end": 1199
+    },
+    {
+      "text": "J. K",
+      "type": "ENTITY",
+      "start": 1215,
+      "end": 1219
+    },
+    {
+      "text": "DUCTAL EPITHELIAL HYPERPLASIA",
+      "type": "ENTITY",
+      "start": 1227,
+      "end": 1256
+    },
+    {
+      "text": "FIBROCYSTIC",
+      "type": "ENTITY",
+      "start": 1261,
+      "end": 1272
+    },
+    {
+      "text": "CHANGES WITH",
+      "type": "ENTITY",
+      "start": 1273,
+      "end": 1285
+    },
+    {
+      "text": "MICROCALCIFICATIONS",
+      "type": "ENTITY",
+      "start": 1297,
+      "end": 1316
+    },
+    {
+      "text": "L",
+      "type": "ENTITY",
+      "start": 1318,
+      "end": 1319
+    },
+    {
+      "text": "PReVIOUS",
+      "type": "ENTITY",
+      "start": 1320,
+      "end": 1328
+    },
+    {
+      "text": "BIOPSy",
+      "type": "ENTITY",
+      "start": 1329,
+      "end": 1335
+    },
+    {
+      "text": "CHANGES",
+      "type": "ENTITY",
+      "start": 1341,
+      "end": 1348
+    },
+    {
+      "text": "NEGATIVE",
+      "type": "ENTITY",
+      "start": 1386,
+      "end": 1394
+    },
+    {
+      "text": "CARCINOMA",
+      "type": "ENTITY",
+      "start": 1399,
+      "end": 1408
+    },
+    {
+      "text": "ESTROGEN",
+      "type": "ENTITY",
+      "start": 1461,
+      "end": 1469
+    },
+    {
+      "text": "PROGESTERONE RECEPTORS",
+      "type": "ENTITY",
+      "start": 1474,
+      "end": 1496
+    },
+    {
+      "text": "NEGATIVE FOR",
+      "type": "ENTITY",
+      "start": 1501,
+      "end": 1513
+    },
+    {
+      "text": "HER-2",
+      "type": "ENTITY",
+      "start": 1514,
+      "end": 1519
+    },
+    {
+      "text": "AS",
+      "type": "ENTITY",
+      "start": 1542,
+      "end": 1544
+    },
+    {
+      "text": "PER",
+      "type": "ENTITY",
+      "start": 1545,
+      "end": 1548
+    },
+    {
+      "text": "PArt",
+      "type": "ENTITY",
+      "start": 1575,
+      "end": 1579
+    },
+    {
+      "text": "SENTINEL",
+      "type": "ENTITY",
+      "start": 1583,
+      "end": 1591
+    },
+    {
+      "text": "nODE",
+      "type": "ENTITY",
+      "start": 1598,
+      "end": 1602
+    },
+    {
+      "text": "RIgHT",
+      "type": "ENTITY",
+      "start": 1607,
+      "end": 1612
+    },
+    {
+      "text": "BiOPSy",
+      "type": "ENTITY",
+      "start": 1621,
+      "end": 1627
+    },
+    {
+      "text": "LYMPH NODE",
+      "type": "ENTITY",
+      "start": 1646,
+      "end": 1656
+    },
+    {
+      "text": "METASTATIC CARCINOMA",
+      "type": "ENTITY",
+      "start": 1670,
+      "end": 1690
+    },
+    {
+      "text": "earcn",
+      "type": "ENTITY",
+      "start": 1698,
+      "end": 1703
+    },
+    {
+      "text": "nfttnstHhy",
+      "type": "ENTITY",
+      "start": 1709,
+      "end": 1719
+    },
+    {
+      "text": "ouutal",
+      "type": "ENTITY",
+      "start": 1720,
+      "end": 1726
+    },
+    {
+      "text": "SENTiNEL LymPH",
+      "type": "ENTITY",
+      "start": 1746,
+      "end": 1760
+    },
+    {
+      "text": "RIGHT",
+      "type": "ENTITY",
+      "start": 1770,
+      "end": 1775
+    },
+    {
+      "text": "BIOPSY SHe bruot",
+      "type": "ENTITY",
+      "start": 1784,
+      "end": 1800
+    },
+    {
+      "text": "LyMPH NODE",
+      "type": "ENTITY",
+      "start": 1828,
+      "end": 1838
+    },
+    {
+      "text": "METASTATIC CARCiNOMA",
+      "type": "ENTITY",
+      "start": 1852,
+      "end": 1872
+    },
+    {
+      "text": "SENTINEL LYMPH NODE",
+      "type": "ENTITY",
+      "start": 1887,
+      "end": 1906
+    },
+    {
+      "text": "RIGHT",
+      "type": "ENTITY",
+      "start": 1911,
+      "end": 1916
+    },
+    {
+      "text": "LYMPH NODE",
+      "type": "ENTITY",
+      "start": 1940,
+      "end": 1950
+    },
+    {
+      "text": "METASTATIC CARCINOMA",
+      "type": "ENTITY",
+      "start": 1964,
+      "end": 1984
+    },
+    {
+      "text": "RIGHT BREAST",
+      "type": "ENTITY",
+      "start": 1999,
+      "end": 2011
+    },
+    {
+      "text": "O' CLOCK",
+      "type": "ENTITY",
+      "start": 2015,
+      "end": 2023
+    },
+    {
+      "text": "MEOIAL",
+      "type": "ENTITY",
+      "start": 2029,
+      "end": 2035
+    },
+    {
+      "text": "MARGIN",
+      "type": "ENTITY",
+      "start": 2036,
+      "end": 2042
+    },
+    {
+      "text": "EXCISION",
+      "type": "ENTITY",
+      "start": 2044,
+      "end": 2052
+    },
+    {
+      "text": "B. BENIGN",
+      "type": "ENTITY",
+      "start": 2072,
+      "end": 2081
+    },
+    {
+      "text": "FIBROCYSTIC",
+      "type": "ENTITY",
+      "start": 2105,
+      "end": 2116
+    },
+    {
+      "text": "CHANGES",
+      "type": "ENTITY",
+      "start": 2117,
+      "end": 2124
+    },
+    {
+      "text": "UUID",
+      "type": "ENTITY",
+      "start": 2126,
+      "end": 2130
+    },
+    {
+      "text": "C6B0D463-9389-4BAE-93CA-3EE4717D20EC",
+      "type": "ENTITY",
+      "start": 2131,
+      "end": 2167
+    },
+    {
+      "text": "TCGA-BH-A0EB-01A-PR",
+      "type": "ENTITY",
+      "start": 2168,
+      "end": 2187
+    }
+  ],
+  "entity_count": 101,
+  "has_embedding": true
+}

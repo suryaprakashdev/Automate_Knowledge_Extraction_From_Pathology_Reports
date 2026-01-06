@@ -1,0 +1,560 @@
+{
+  "filename": "02cf0b0c-78e8-4c3d-b476-580dd616df98",
+  "timestamp": "2026-01-05T14:41:55.864749",
+  "entities": [
+    {
+      "text": "copy No. Date",
+      "type": "ENTITY",
+      "start": 48,
+      "end": 61
+    },
+    {
+      "text": "Examination",
+      "type": "ENTITY",
+      "start": 63,
+      "end": 74
+    },
+    {
+      "text": "Histopathological examination",
+      "type": "ENTITY",
+      "start": 76,
+      "end": 105
+    },
+    {
+      "text": "Internal invoice No.",
+      "type": "ENTITY",
+      "start": 113,
+      "end": 133
+    },
+    {
+      "text": "diagnostic procedure Examination No.",
+      "type": "ENTITY",
+      "start": 142,
+      "end": 178
+    },
+    {
+      "text": "Patient",
+      "type": "ENTITY",
+      "start": 180,
+      "end": 187
+    },
+    {
+      "text": "XXX",
+      "type": "ENTITY",
+      "start": 189,
+      "end": 192
+    },
+    {
+      "text": "pesel",
+      "type": "ENTITY",
+      "start": 193,
+      "end": 198
+    },
+    {
+      "text": "XXx",
+      "type": "ENTITY",
+      "start": 200,
+      "end": 203
+    },
+    {
+      "text": "Age",
+      "type": "ENTITY",
+      "start": 204,
+      "end": 207
+    },
+    {
+      "text": "Gender",
+      "type": "ENTITY",
+      "start": 209,
+      "end": 215
+    },
+    {
+      "text": "Multiple organ",
+      "type": "ENTITY",
+      "start": 229,
+      "end": 243
+    },
+    {
+      "text": "resection",
+      "type": "ENTITY",
+      "start": 244,
+      "end": 253
+    },
+    {
+      "text": "left breast",
+      "type": "ENTITY",
+      "start": 256,
+      "end": 267
+    },
+    {
+      "text": "axillary tissues",
+      "type": "ENTITY",
+      "start": 272,
+      "end": 288
+    },
+    {
+      "text": "ICs-0-3",
+      "type": "ENTITY",
+      "start": 289,
+      "end": 296
+    },
+    {
+      "text": "Unit",
+      "type": "ENTITY",
+      "start": 330,
+      "end": 334
+    },
+    {
+      "text": "Physician",
+      "type": "ENTITY",
+      "start": 346,
+      "end": 355
+    },
+    {
+      "text": "ref",
+      "type": "ENTITY",
+      "start": 367,
+      "end": 370
+    },
+    {
+      "text": "Material",
+      "type": "ENTITY",
+      "start": 399,
+      "end": 407
+    },
+    {
+      "text": "Expected time",
+      "type": "ENTITY",
+      "start": 421,
+      "end": 434
+    },
+    {
+      "text": "examination",
+      "type": "ENTITY",
+      "start": 438,
+      "end": 449
+    },
+    {
+      "text": "working days",
+      "type": "ENTITY",
+      "start": 453,
+      "end": 465
+    },
+    {
+      "text": "Clinical diagnosis",
+      "type": "ENTITY",
+      "start": 466,
+      "end": 484
+    },
+    {
+      "text": "Examination",
+      "type": "ENTITY",
+      "start": 486,
+      "end": 497
+    },
+    {
+      "text": "performed",
+      "type": "ENTITY",
+      "start": 498,
+      "end": 507
+    },
+    {
+      "text": "Macroscopic",
+      "type": "ENTITY",
+      "start": 513,
+      "end": 524
+    },
+    {
+      "text": "description",
+      "type": "ENTITY",
+      "start": 525,
+      "end": 536
+    },
+    {
+      "text": "Left breast",
+      "type": "ENTITY",
+      "start": 538,
+      "end": 549
+    },
+    {
+      "text": "axillary tissues",
+      "type": "ENTITY",
+      "start": 586,
+      "end": 602
+    },
+    {
+      "text": "sized",
+      "type": "ENTITY",
+      "start": 603,
+      "end": 608
+    },
+    {
+      "text": "skin flap",
+      "type": "ENTITY",
+      "start": 635,
+      "end": 644
+    },
+    {
+      "text": "Nipple retracted",
+      "type": "ENTITY",
+      "start": 660,
+      "end": 676
+    },
+    {
+      "text": "skin",
+      "type": "ENTITY",
+      "start": 678,
+      "end": 682
+    },
+    {
+      "text": "orange peel",
+      "type": "ENTITY",
+      "start": 694,
+      "end": 705
+    },
+    {
+      "text": "Tumour",
+      "type": "ENTITY",
+      "start": 708,
+      "end": 714
+    },
+    {
+      "text": "sized",
+      "type": "ENTITY",
+      "start": 715,
+      "end": 720
+    },
+    {
+      "text": "border of upper quadrants",
+      "type": "ENTITY",
+      "start": 750,
+      "end": 775
+    },
+    {
+      "text": "upper boundary",
+      "type": "ENTITY",
+      "start": 801,
+      "end": 815
+    },
+    {
+      "text": "base",
+      "type": "ENTITY",
+      "start": 833,
+      "end": 837
+    },
+    {
+      "text": "skin",
+      "type": "ENTITY",
+      "start": 856,
+      "end": 860
+    },
+    {
+      "text": "Lymph nodes",
+      "type": "ENTITY",
+      "start": 862,
+      "end": 873
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 884,
+      "end": 890
+    },
+    {
+      "text": "Microscopic",
+      "type": "ENTITY",
+      "start": 893,
+      "end": 904
+    },
+    {
+      "text": "description",
+      "type": "ENTITY",
+      "start": 905,
+      "end": 916
+    },
+    {
+      "text": "Carcinoma",
+      "type": "ENTITY",
+      "start": 918,
+      "end": 927
+    },
+    {
+      "text": "ductale",
+      "type": "ENTITY",
+      "start": 928,
+      "end": 935
+    },
+    {
+      "text": "invasivum",
+      "type": "ENTITY",
+      "start": 936,
+      "end": 945
+    },
+    {
+      "text": "NHG3",
+      "type": "ENTITY",
+      "start": 948,
+      "end": 952
+    },
+    {
+      "text": "3",
+      "type": "ENTITY",
+      "start": 962,
+      "end": 963
+    },
+    {
+      "text": "HPF",
+      "type": "ENTITY",
+      "start": 980,
+      "end": 983
+    },
+    {
+      "text": "visual",
+      "type": "ENTITY",
+      "start": 986,
+      "end": 992
+    },
+    {
+      "text": "Mamilla sine",
+      "type": "ENTITY",
+      "start": 1008,
+      "end": 1020
+    },
+    {
+      "text": "laesionibus",
+      "type": "ENTITY",
+      "start": 1021,
+      "end": 1032
+    },
+    {
+      "text": "Glandular tissue",
+      "type": "ENTITY",
+      "start": 1034,
+      "end": 1050
+    },
+    {
+      "text": "lesions",
+      "type": "ENTITY",
+      "start": 1059,
+      "end": 1066
+    },
+    {
+      "text": "type mastopathia fibrosa",
+      "type": "ENTITY",
+      "start": 1074,
+      "end": 1098
+    },
+    {
+      "text": "cystica",
+      "type": "ENTITY",
+      "start": 1102,
+      "end": 1109
+    },
+    {
+      "text": "Metastases carcinomatosae",
+      "type": "ENTITY",
+      "start": 1133,
+      "end": 1158
+    },
+    {
+      "text": "lymphonodo",
+      "type": "ENTITY",
+      "start": 1162,
+      "end": 1172
+    },
+    {
+      "text": "Infiltratio capsulae lymphonodi",
+      "type": "ENTITY",
+      "start": 1185,
+      "end": 1216
+    },
+    {
+      "text": "telae perinodalis",
+      "type": "ENTITY",
+      "start": 1220,
+      "end": 1237
+    },
+    {
+      "text": "Histopathological",
+      "type": "ENTITY",
+      "start": 1239,
+      "end": 1256
+    },
+    {
+      "text": "diagnosis",
+      "type": "ENTITY",
+      "start": 1257,
+      "end": 1266
+    },
+    {
+      "text": "Carcinoma",
+      "type": "ENTITY",
+      "start": 1268,
+      "end": 1277
+    },
+    {
+      "text": "ductale",
+      "type": "ENTITY",
+      "start": 1278,
+      "end": 1285
+    },
+    {
+      "text": "invasive ductal carcinoma",
+      "type": "ENTITY",
+      "start": 1314,
+      "end": 1339
+    },
+    {
+      "text": "left breast",
+      "type": "ENTITY",
+      "start": 1347,
+      "end": 1358
+    },
+    {
+      "text": "lymphonodo",
+      "type": "ENTITY",
+      "start": 1390,
+      "end": 1400
+    },
+    {
+      "text": "NHG3",
+      "type": "ENTITY",
+      "start": 1413,
+      "end": 1417
+    },
+    {
+      "text": "pT3",
+      "type": "ENTITY",
+      "start": 1419,
+      "end": 1422
+    },
+    {
+      "text": "pNla",
+      "type": "ENTITY",
+      "start": 1424,
+      "end": 1428
+    },
+    {
+      "text": "Cancer metastases",
+      "type": "ENTITY",
+      "start": 1431,
+      "end": 1448
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 1456,
+      "end": 1467
+    },
+    {
+      "text": "UUID:18198706-8844-452A-8F58-",
+      "type": "ENTITY",
+      "start": 1479,
+      "end": 1508
+    },
+    {
+      "text": "Redacted\n\n--- Page 2 ---\ne 2",
+      "type": "ENTITY",
+      "start": 1541,
+      "end": 1569
+    },
+    {
+      "text": "Results",
+      "type": "ENTITY",
+      "start": 1574,
+      "end": 1581
+    },
+    {
+      "text": "immunohistochemical examination",
+      "type": "ENTITY",
+      "start": 1585,
+      "end": 1616
+    },
+    {
+      "text": "Estrogen receptors",
+      "type": "ENTITY",
+      "start": 1618,
+      "end": 1636
+    },
+    {
+      "text": "neoplastic cell",
+      "type": "ENTITY",
+      "start": 1656,
+      "end": 1671
+    },
+    {
+      "text": "Progesterone receptors",
+      "type": "ENTITY",
+      "start": 1680,
+      "end": 1702
+    },
+    {
+      "text": "neoplastic cell",
+      "type": "ENTITY",
+      "start": 1724,
+      "end": 1739
+    },
+    {
+      "text": "HER2 protein stained with",
+      "type": "ENTITY",
+      "start": 1748,
+      "end": 1773
+    },
+    {
+      "text": "Ventana's Pathway",
+      "type": "ENTITY",
+      "start": 1774,
+      "end": 1791
+    },
+    {
+      "text": "HER-2/neu",
+      "type": "ENTITY",
+      "start": 1792,
+      "end": 1801
+    },
+    {
+      "text": "4B5",
+      "type": "ENTITY",
+      "start": 1803,
+      "end": 1806
+    },
+    {
+      "text": "rabbit",
+      "type": "ENTITY",
+      "start": 1808,
+      "end": 1814
+    },
+    {
+      "text": "antibody",
+      "type": "ENTITY",
+      "start": 1815,
+      "end": 1823
+    },
+    {
+      "text": "Negative reaction",
+      "type": "ENTITY",
+      "start": 1825,
+      "end": 1842
+    },
+    {
+      "text": "invasive",
+      "type": "ENTITY",
+      "start": 1846,
+      "end": 1854
+    },
+    {
+      "text": "Score=3+)",
+      "type": "ENTITY",
+      "start": 1872,
+      "end": 1881
+    },
+    {
+      "text": "C'ompl",
+      "type": "ENTITY",
+      "start": 1883,
+      "end": 1889
+    }
+  ],
+  "entity_count": 92,
+  "has_embedding": true
+}

@@ -1,0 +1,1922 @@
+{
+  "filename": "8c4c3029-be76-4f1e-994f-08b590b2546a",
+  "timestamp": "2026-01-05T14:43:33.512169",
+  "entities": [
+    {
+      "text": "Page I",
+      "type": "ENTITY",
+      "start": 87,
+      "end": 93
+    },
+    {
+      "text": "CONFIDENTIAL",
+      "type": "ENTITY",
+      "start": 99,
+      "end": 111
+    },
+    {
+      "text": "PATHOLOgY REPORT Time",
+      "type": "ENTITY",
+      "start": 121,
+      "end": 142
+    },
+    {
+      "text": "Collected Time",
+      "type": "ENTITY",
+      "start": 143,
+      "end": 157
+    },
+    {
+      "text": "Received Time",
+      "type": "ENTITY",
+      "start": 158,
+      "end": 171
+    },
+    {
+      "text": "Time Transmitted Order Number Ordering Provider Status",
+      "type": "ENTITY",
+      "start": 181,
+      "end": 235
+    },
+    {
+      "text": "Information IcD",
+      "type": "ENTITY",
+      "start": 251,
+      "end": 266
+    },
+    {
+      "text": "Location",
+      "type": "ENTITY",
+      "start": 274,
+      "end": 282
+    },
+    {
+      "text": "Patient",
+      "type": "ENTITY",
+      "start": 300,
+      "end": 307
+    },
+    {
+      "text": "Demographics",
+      "type": "ENTITY",
+      "start": 308,
+      "end": 320
+    },
+    {
+      "text": "verification purposes",
+      "type": "ENTITY",
+      "start": 326,
+      "end": 347
+    },
+    {
+      "text": "QpS",
+      "type": "ENTITY",
+      "start": 349,
+      "end": 352
+    },
+    {
+      "text": "Sex",
+      "type": "ENTITY",
+      "start": 361,
+      "end": 364
+    },
+    {
+      "text": "SUrGICAL",
+      "type": "ENTITY",
+      "start": 368,
+      "end": 376
+    },
+    {
+      "text": "PATHOLOgy",
+      "type": "ENTITY",
+      "start": 377,
+      "end": 386
+    },
+    {
+      "text": "Omentum",
+      "type": "ENTITY",
+      "start": 522,
+      "end": 529
+    },
+    {
+      "text": "B. Gallbladder",
+      "type": "ENTITY",
+      "start": 533,
+      "end": 547
+    },
+    {
+      "text": "C. Portal",
+      "type": "ENTITY",
+      "start": 551,
+      "end": 560
+    },
+    {
+      "text": "D. Whipple",
+      "type": "ENTITY",
+      "start": 576,
+      "end": 586
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 587,
+      "end": 595
+    },
+    {
+      "text": "Clinical Information Mass",
+      "type": "ENTITY",
+      "start": 599,
+      "end": 624
+    },
+    {
+      "text": "head of pancreas",
+      "type": "ENTITY",
+      "start": 632,
+      "end": 648
+    },
+    {
+      "text": "Diagnosis",
+      "type": "ENTITY",
+      "start": 649,
+      "end": 658
+    },
+    {
+      "text": "A. Omentum",
+      "type": "ENTITY",
+      "start": 659,
+      "end": 669
+    },
+    {
+      "text": "Unremarkable",
+      "type": "ENTITY",
+      "start": 671,
+      "end": 683
+    },
+    {
+      "text": "Negative",
+      "type": "ENTITY",
+      "start": 697,
+      "end": 705
+    },
+    {
+      "text": "malignancy",
+      "type": "ENTITY",
+      "start": 710,
+      "end": 720
+    },
+    {
+      "text": "B. Gallbladder",
+      "type": "ENTITY",
+      "start": 722,
+      "end": 736
+    },
+    {
+      "text": "Cholelithiasis",
+      "type": "ENTITY",
+      "start": 738,
+      "end": 752
+    },
+    {
+      "text": "Mild chronic cholecystitis",
+      "type": "ENTITY",
+      "start": 754,
+      "end": 780
+    },
+    {
+      "text": "Reactive cystic duct",
+      "type": "ENTITY",
+      "start": 783,
+      "end": 803
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 804,
+      "end": 815
+    },
+    {
+      "text": "Negative",
+      "type": "ENTITY",
+      "start": 823,
+      "end": 831
+    },
+    {
+      "text": "malignancy",
+      "type": "ENTITY",
+      "start": 836,
+      "end": 846
+    },
+    {
+      "text": "dysplasia",
+      "type": "ENTITY",
+      "start": 850,
+      "end": 859
+    },
+    {
+      "text": "C. Portal Lymph Node",
+      "type": "ENTITY",
+      "start": 861,
+      "end": 881
+    },
+    {
+      "text": "reactive lymph node",
+      "type": "ENTITY",
+      "start": 888,
+      "end": 907
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 909,
+      "end": 917
+    },
+    {
+      "text": "malignancy",
+      "type": "ENTITY",
+      "start": 922,
+      "end": 932
+    },
+    {
+      "text": "D. Pancreas",
+      "type": "ENTITY",
+      "start": 934,
+      "end": 945
+    },
+    {
+      "text": "Duodenum",
+      "type": "ENTITY",
+      "start": 950,
+      "end": 958
+    },
+    {
+      "text": "Whipple Procedure",
+      "type": "ENTITY",
+      "start": 960,
+      "end": 977
+    },
+    {
+      "text": "Invasive",
+      "type": "ENTITY",
+      "start": 979,
+      "end": 987
+    },
+    {
+      "text": "ductal carcinoma",
+      "type": "ENTITY",
+      "start": 1014,
+      "end": 1030
+    },
+    {
+      "text": "pancre",
+      "type": "ENTITY",
+      "start": 1034,
+      "end": 1040
+    },
+    {
+      "text": "head",
+      "type": "ENTITY",
+      "start": 1053,
+      "end": 1057
+    },
+    {
+      "text": "Tumor",
+      "type": "ENTITY",
+      "start": 1060,
+      "end": 1065
+    },
+    {
+      "text": "bile duct",
+      "type": "ENTITY",
+      "start": 1081,
+      "end": 1090
+    },
+    {
+      "text": "bile duct",
+      "type": "ENTITY",
+      "start": 1109,
+      "end": 1118
+    },
+    {
+      "text": "obstruction",
+      "type": "ENTITY",
+      "start": 1119,
+      "end": 1130
+    },
+    {
+      "text": "Tumor",
+      "type": "ENTITY",
+      "start": 1132,
+      "end": 1137
+    },
+    {
+      "text": "infiltrated",
+      "type": "ENTITY",
+      "start": 1138,
+      "end": 1149
+    },
+    {
+      "text": "peripancreatic fat",
+      "type": "ENTITY",
+      "start": 1155,
+      "end": 1173
+    },
+    {
+      "text": "perineural invasion",
+      "type": "ENTITY",
+      "start": 1185,
+      "end": 1204
+    },
+    {
+      "text": "Positive",
+      "type": "ENTITY",
+      "start": 1206,
+      "end": 1214
+    },
+    {
+      "text": "lymphatic invasion",
+      "type": "ENTITY",
+      "start": 1219,
+      "end": 1237
+    },
+    {
+      "text": "angiovascular invasion",
+      "type": "ENTITY",
+      "start": 1242,
+      "end": 1264
+    },
+    {
+      "text": "identified",
+      "type": "ENTITY",
+      "start": 1265,
+      "end": 1275
+    },
+    {
+      "text": "Vascular bed margin",
+      "type": "ENTITY",
+      "start": 1305,
+      "end": 1324
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1337,
+      "end": 1342
+    },
+    {
+      "text": "Pancreatic uncinate margin",
+      "type": "ENTITY",
+      "start": 1345,
+      "end": 1371
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1384,
+      "end": 1389
+    },
+    {
+      "text": "Pancreatic distal",
+      "type": "ENTITY",
+      "start": 1392,
+      "end": 1409
+    },
+    {
+      "text": "margin",
+      "type": "ENTITY",
+      "start": 1422,
+      "end": 1428
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1446,
+      "end": 1451
+    },
+    {
+      "text": "peripancreatic",
+      "type": "ENTITY",
+      "start": 1472,
+      "end": 1486
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 1487,
+      "end": 1498
+    },
+    {
+      "text": "positive",
+      "type": "ENTITY",
+      "start": 1499,
+      "end": 1507
+    },
+    {
+      "text": "metastatic carcinoma",
+      "type": "ENTITY",
+      "start": 1512,
+      "end": 1532
+    },
+    {
+      "text": "periduodenal",
+      "type": "ENTITY",
+      "start": 1546,
+      "end": 1558
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 1559,
+      "end": 1570
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 1575,
+      "end": 1583
+    },
+    {
+      "text": "metastatic",
+      "type": "ENTITY",
+      "start": 1588,
+      "end": 1598
+    },
+    {
+      "text": "carcinoma",
+      "type": "ENTITY",
+      "start": 1600,
+      "end": 1609
+    },
+    {
+      "text": "Duodenal mucosa",
+      "type": "ENTITY",
+      "start": 1611,
+      "end": 1626
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1643,
+      "end": 1648
+    },
+    {
+      "text": "pT3N1Mx",
+      "type": "ENTITY",
+      "start": 1651,
+      "end": 1658
+    },
+    {
+      "text": "Synoptic report",
+      "type": "ENTITY",
+      "start": 1664,
+      "end": 1679
+    },
+    {
+      "text": "Electronically sianed",
+      "type": "ENTITY",
+      "start": 1694,
+      "end": 1715
+    },
+    {
+      "text": "Verified",
+      "type": "ENTITY",
+      "start": 1716,
+      "end": 1724
+    },
+    {
+      "text": "Synoptic Report D",
+      "type": "ENTITY",
+      "start": 1726,
+      "end": 1743
+    },
+    {
+      "text": "Pancreas",
+      "type": "ENTITY",
+      "start": 1745,
+      "end": 1753
+    },
+    {
+      "text": "Exocrine",
+      "type": "ENTITY",
+      "start": 1755,
+      "end": 1763
+    },
+    {
+      "text": "Macroscopic SPECIMEN",
+      "type": "ENTITY",
+      "start": 1766,
+      "end": 1786
+    },
+    {
+      "text": "Head of pancreas PROCEDURE",
+      "type": "ENTITY",
+      "start": 1788,
+      "end": 1814
+    },
+    {
+      "text": "Pancreaticoduodenectomy",
+      "type": "ENTITY",
+      "start": 1816,
+      "end": 1839
+    },
+    {
+      "text": "Whipple resection",
+      "type": "ENTITY",
+      "start": 1841,
+      "end": 1858
+    },
+    {
+      "text": "partial pancreatectomy",
+      "type": "ENTITY",
+      "start": 1861,
+      "end": 1883
+    },
+    {
+      "text": "TUMOR SITE",
+      "type": "ENTITY",
+      "start": 1884,
+      "end": 1894
+    },
+    {
+      "text": "Pancreatic head",
+      "type": "ENTITY",
+      "start": 1896,
+      "end": 1911
+    },
+    {
+      "text": "Uncinate process",
+      "type": "ENTITY",
+      "start": 1912,
+      "end": 1928
+    },
+    {
+      "text": "dimension",
+      "type": "ENTITY",
+      "start": 1950,
+      "end": 1959
+    },
+    {
+      "text": "Pancreas",
+      "type": "ENTITY",
+      "start": 1971,
+      "end": 1979
+    },
+    {
+      "text": "Exocrine",
+      "type": "ENTITY",
+      "start": 1981,
+      "end": 1989
+    },
+    {
+      "text": "Microscopic HISTOLOGIC TYPE",
+      "type": "ENTITY",
+      "start": 1992,
+      "end": 2019
+    },
+    {
+      "text": "Ductal adenocarcinoma",
+      "type": "ENTITY",
+      "start": 2021,
+      "end": 2042
+    },
+    {
+      "text": "G2",
+      "type": "ENTITY",
+      "start": 2061,
+      "end": 2063
+    },
+    {
+      "text": "Tumor",
+      "type": "ENTITY",
+      "start": 2122,
+      "end": 2127
+    },
+    {
+      "text": "invades",
+      "type": "ENTITY",
+      "start": 2128,
+      "end": 2135
+    },
+    {
+      "text": "peripancreatic soft tissues",
+      "type": "ENTITY",
+      "start": 2136,
+      "end": 2163
+    },
+    {
+      "text": "Margin(s",
+      "type": "ENTITY",
+      "start": 2175,
+      "end": 2183
+    },
+    {
+      "text": "invasive carcinoma",
+      "type": "ENTITY",
+      "start": 2197,
+      "end": 2215
+    },
+    {
+      "text": "Uncinate process",
+      "type": "ENTITY",
+      "start": 2216,
+      "end": 2232
+    },
+    {
+      "text": "retroperitoneal",
+      "type": "ENTITY",
+      "start": 2234,
+      "end": 2249
+    },
+    {
+      "text": "nonperitonealized",
+      "type": "ENTITY",
+      "start": 2259,
+      "end": 2276
+    },
+    {
+      "text": "surface",
+      "type": "ENTITY",
+      "start": 2277,
+      "end": 2284
+    },
+    {
+      "text": "uncinate process",
+      "type": "ENTITY",
+      "start": 2292,
+      "end": 2308
+    },
+    {
+      "text": "Invasive carcinoma",
+      "type": "ENTITY",
+      "start": 2310,
+      "end": 2328
+    },
+    {
+      "text": "posterior",
+      "type": "ENTITY",
+      "start": 2338,
+      "end": 2347
+    },
+    {
+      "text": "retroperitoneal",
+      "type": "ENTITY",
+      "start": 2348,
+      "end": 2363
+    },
+    {
+      "text": "surface",
+      "type": "ENTITY",
+      "start": 2364,
+      "end": 2371
+    },
+    {
+      "text": "pancreas",
+      "type": "ENTITY",
+      "start": 2375,
+      "end": 2383
+    },
+    {
+      "text": "carcinomas",
+      "type": "ENTITY",
+      "start": 2416,
+      "end": 2426
+    },
+    {
+      "text": "treated with",
+      "type": "ENTITY",
+      "start": 2427,
+      "end": 2439
+    },
+    {
+      "text": "neoadjuvant therapy",
+      "type": "ENTITY",
+      "start": 2440,
+      "end": 2459
+    },
+    {
+      "text": "LYMPH-VASCULAR INVASION",
+      "type": "ENTITY",
+      "start": 2472,
+      "end": 2495
+    },
+    {
+      "text": "PRIMARY TUMOR",
+      "type": "ENTITY",
+      "start": 2534,
+      "end": 2547
+    },
+    {
+      "text": "pT",
+      "type": "ENTITY",
+      "start": 2549,
+      "end": 2551
+    },
+    {
+      "text": "pT3",
+      "type": "ENTITY",
+      "start": 2554,
+      "end": 2557
+    },
+    {
+      "text": "Tumor",
+      "type": "ENTITY",
+      "start": 2559,
+      "end": 2564
+    },
+    {
+      "text": "extends",
+      "type": "ENTITY",
+      "start": 2565,
+      "end": 2572
+    },
+    {
+      "text": "pancreas",
+      "type": "ENTITY",
+      "start": 2584,
+      "end": 2592
+    },
+    {
+      "text": "involvement",
+      "type": "ENTITY",
+      "start": 2605,
+      "end": 2616
+    },
+    {
+      "text": "celiac axis",
+      "type": "ENTITY",
+      "start": 2624,
+      "end": 2635
+    },
+    {
+      "text": "mesenteric artery",
+      "type": "ENTITY",
+      "start": 2652,
+      "end": 2669
+    },
+    {
+      "text": "LYMPH NODES",
+      "type": "ENTITY",
+      "start": 2679,
+      "end": 2690
+    },
+    {
+      "text": "pN1",
+      "type": "ENTITY",
+      "start": 2698,
+      "end": 2701
+    },
+    {
+      "text": "Regional lymph node metastasis",
+      "type": "ENTITY",
+      "start": 2703,
+      "end": 2733
+    },
+    {
+      "text": "Gross Description",
+      "type": "ENTITY",
+      "start": 2775,
+      "end": 2792
+    },
+    {
+      "text": "Received",
+      "type": "ENTITY",
+      "start": 2793,
+      "end": 2801
+    },
+    {
+      "text": "specimen containers",
+      "type": "ENTITY",
+      "start": 2806,
+      "end": 2825
+    },
+    {
+      "text": "requisitions",
+      "type": "ENTITY",
+      "start": 2840,
+      "end": 2852
+    },
+    {
+      "text": "specimen containers",
+      "type": "ENTITY",
+      "start": 2857,
+      "end": 2876
+    },
+    {
+      "text": "patient's",
+      "type": "ENTITY",
+      "start": 2900,
+      "end": 2909
+    },
+    {
+      "text": "cassettes",
+      "type": "ENTITY",
+      "start": 2922,
+      "end": 2931
+    },
+    {
+      "text": "A.",
+      "type": "ENTITY",
+      "start": 2958,
+      "end": 2960
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 2965,
+      "end": 2973
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 2986,
+      "end": 2991
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 3024,
+      "end": 3032
+    },
+    {
+      "text": "Omentum",
+      "type": "ENTITY",
+      "start": 3060,
+      "end": 3067
+    },
+    {
+      "text": "piece",
+      "type": "ENTITY",
+      "start": 3087,
+      "end": 3092
+    },
+    {
+      "text": "omental fat",
+      "type": "ENTITY",
+      "start": 3096,
+      "end": 3107
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 3109,
+      "end": 3118
+    },
+    {
+      "text": "nodules",
+      "type": "ENTITY",
+      "start": 3172,
+      "end": 3179
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 3183,
+      "end": 3194
+    },
+    {
+      "text": "revealed",
+      "type": "ENTITY",
+      "start": 3199,
+      "end": 3207
+    },
+    {
+      "text": "Representative sections",
+      "type": "ENTITY",
+      "start": 3209,
+      "end": 3232
+    },
+    {
+      "text": "cassettes",
+      "type": "ENTITY",
+      "start": 3255,
+      "end": 3264
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 3273,
+      "end": 3281
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 3294,
+      "end": 3299
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 3332,
+      "end": 3340
+    },
+    {
+      "text": "container",
+      "type": "ENTITY",
+      "start": 3346,
+      "end": 3355
+    },
+    {
+      "text": "Gallbladder",
+      "type": "ENTITY",
+      "start": 3375,
+      "end": 3386
+    },
+    {
+      "text": "intact",
+      "type": "ENTITY",
+      "start": 3407,
+      "end": 3413
+    },
+    {
+      "text": "cholecystectomy",
+      "type": "ENTITY",
+      "start": 3414,
+      "end": 3429
+    },
+    {
+      "text": "dimensions",
+      "type": "ENTITY",
+      "start": 3439,
+      "end": 3449
+    },
+    {
+      "text": "opening",
+      "type": "ENTITY",
+      "start": 3470,
+      "end": 3477
+    },
+    {
+      "text": "pieces",
+      "type": "ENTITY",
+      "start": 3489,
+      "end": 3495
+    },
+    {
+      "text": "black gallstones",
+      "type": "ENTITY",
+      "start": 3499,
+      "end": 3515
+    },
+    {
+      "text": "dimensions",
+      "type": "ENTITY",
+      "start": 3557,
+      "end": 3567
+    },
+    {
+      "text": "cystic mucosa",
+      "type": "ENTITY",
+      "start": 3583,
+      "end": 3596
+    },
+    {
+      "text": "rough",
+      "type": "ENTITY",
+      "start": 3614,
+      "end": 3619
+    },
+    {
+      "text": "mass lesion",
+      "type": "ENTITY",
+      "start": 3628,
+      "end": 3639
+    },
+    {
+      "text": "identified",
+      "type": "ENTITY",
+      "start": 3640,
+      "end": 3650
+    },
+    {
+      "text": "cystic wall measures",
+      "type": "ENTITY",
+      "start": 3656,
+      "end": 3676
+    },
+    {
+      "text": "maximum",
+      "type": "ENTITY",
+      "start": 3688,
+      "end": 3695
+    },
+    {
+      "text": "thickness",
+      "type": "ENTITY",
+      "start": 3696,
+      "end": 3705
+    },
+    {
+      "text": "cystic duct",
+      "type": "ENTITY",
+      "start": 3711,
+      "end": 3722
+    },
+    {
+      "text": "patent",
+      "type": "ENTITY",
+      "start": 3726,
+      "end": 3732
+    },
+    {
+      "text": "Representative sections",
+      "type": "ENTITY",
+      "start": 3734,
+      "end": 3757
+    },
+    {
+      "text": "cassettes",
+      "type": "ENTITY",
+      "start": 3775,
+      "end": 3784
+    },
+    {
+      "text": "labelled",
+      "type": "ENTITY",
+      "start": 3785,
+      "end": 3793
+    },
+    {
+      "text": "B1",
+      "type": "ENTITY",
+      "start": 3807,
+      "end": 3809
+    },
+    {
+      "text": "cross section",
+      "type": "ENTITY",
+      "start": 3811,
+      "end": 3824
+    },
+    {
+      "text": "cystic duct",
+      "type": "ENTITY",
+      "start": 3828,
+      "end": 3839
+    },
+    {
+      "text": "representative",
+      "type": "ENTITY",
+      "start": 3844,
+      "end": 3858
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 3859,
+      "end": 3867
+    },
+    {
+      "text": "cystic body",
+      "type": "ENTITY",
+      "start": 3871,
+      "end": 3882
+    },
+    {
+      "text": "fundus B2",
+      "type": "ENTITY",
+      "start": 3887,
+      "end": 3896
+    },
+    {
+      "text": "trisected cystic duct",
+      "type": "ENTITY",
+      "start": 3902,
+      "end": 3923
+    },
+    {
+      "text": "lymph node B3",
+      "type": "ENTITY",
+      "start": 3924,
+      "end": 3937
+    },
+    {
+      "text": "bisected",
+      "type": "ENTITY",
+      "start": 3943,
+      "end": 3951
+    },
+    {
+      "text": "cystic duct",
+      "type": "ENTITY",
+      "start": 3952,
+      "end": 3963
+    },
+    {
+      "text": "C. Specimen",
+      "type": "ENTITY",
+      "start": 3975,
+      "end": 3986
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 4002,
+      "end": 4010
+    },
+    {
+      "text": "container",
+      "type": "ENTITY",
+      "start": 4016,
+      "end": 4025
+    },
+    {
+      "text": "Portal lymph node",
+      "type": "ENTITY",
+      "start": 4042,
+      "end": 4059
+    },
+    {
+      "text": "piece",
+      "type": "ENTITY",
+      "start": 4079,
+      "end": 4084
+    },
+    {
+      "text": "fibroadipose tissue",
+      "type": "ENTITY",
+      "start": 4088,
+      "end": 4107
+    },
+    {
+      "text": "putative lymph node",
+      "type": "ENTITY",
+      "start": 4136,
+      "end": 4155
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 4161,
+      "end": 4169
+    },
+    {
+      "text": "bisected",
+      "type": "ENTITY",
+      "start": 4173,
+      "end": 4181
+    },
+    {
+      "text": "cassettes",
+      "type": "ENTITY",
+      "start": 4212,
+      "end": 4221
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 4231,
+      "end": 4239
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 4252,
+      "end": 4257
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 4290,
+      "end": 4298
+    },
+    {
+      "text": "container",
+      "type": "ENTITY",
+      "start": 4304,
+      "end": 4313
+    },
+    {
+      "text": "Whipple",
+      "type": "ENTITY",
+      "start": 4330,
+      "end": 4337
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 4338,
+      "end": 4346
+    },
+    {
+      "text": "partial",
+      "type": "ENTITY",
+      "start": 4366,
+      "end": 4373
+    },
+    {
+      "text": "pancreaticoduodenectomy",
+      "type": "ENTITY",
+      "start": 4374,
+      "end": 4397
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 4398,
+      "end": 4406
+    },
+    {
+      "text": "portion",
+      "type": "ENTITY",
+      "start": 4452,
+      "end": 4459
+    },
+    {
+      "text": "gastric pylorus",
+      "type": "ENTITY",
+      "start": 4463,
+      "end": 4478
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 4491,
+      "end": 4497
+    },
+    {
+      "text": "maximum",
+      "type": "ENTITY",
+      "start": 4512,
+      "end": 4519
+    },
+    {
+      "text": "circumference",
+      "type": "ENTITY",
+      "start": 4520,
+      "end": 4533
+    },
+    {
+      "text": "portion",
+      "type": "ENTITY",
+      "start": 4541,
+      "end": 4548
+    },
+    {
+      "text": "pancreas",
+      "type": "ENTITY",
+      "start": 4552,
+      "end": 4560
+    },
+    {
+      "text": "attached",
+      "type": "ENTITY",
+      "start": 4561,
+      "end": 4569
+    },
+    {
+      "text": "duodenal mucosa",
+      "type": "ENTITY",
+      "start": 4571,
+      "end": 4586
+    },
+    {
+      "text": "unremarkable",
+      "type": "ENTITY",
+      "start": 4595,
+      "end": 4607
+    },
+    {
+      "text": "ampullary region",
+      "type": "ENTITY",
+      "start": 4617,
+      "end": 4633
+    },
+    {
+      "text": "unremarkable",
+      "type": "ENTITY",
+      "start": 4676,
+      "end": 4688
+    },
+    {
+      "text": "portion of pancreas",
+      "type": "ENTITY",
+      "start": 4694,
+      "end": 4713
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 4715,
+      "end": 4723
+    },
+    {
+      "text": "portion",
+      "type": "ENTITY",
+      "start": 4746,
+      "end": 4753
+    },
+    {
+      "text": "bile duct",
+      "type": "ENTITY",
+      "start": 4764,
+      "end": 4773
+    },
+    {
+      "text": "identified",
+      "type": "ENTITY",
+      "start": 4777,
+      "end": 4787
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 4799,
+      "end": 4805
+    },
+    {
+      "text": "maximum",
+      "type": "ENTITY",
+      "start": 4824,
+      "end": 4831
+    },
+    {
+      "text": "circumference",
+      "type": "ENTITY",
+      "start": 4832,
+      "end": 4845
+    },
+    {
+      "text": "proximal",
+      "type": "ENTITY",
+      "start": 4849,
+      "end": 4857
+    },
+    {
+      "text": "middle portion",
+      "type": "ENTITY",
+      "start": 4880,
+      "end": 4894
+    },
+    {
+      "text": "bile duct",
+      "type": "ENTITY",
+      "start": 4909,
+      "end": 4918
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 4947,
+      "end": 4955
+    },
+    {
+      "text": "proximal portion",
+      "type": "ENTITY",
+      "start": 4961,
+      "end": 4977
+    },
+    {
+      "text": "bile duct",
+      "type": "ENTITY",
+      "start": 4988,
+      "end": 4997
+    },
+    {
+      "text": "denuded",
+      "type": "ENTITY",
+      "start": 5019,
+      "end": 5026
+    },
+    {
+      "text": "tissue",
+      "type": "ENTITY",
+      "start": 5034,
+      "end": 5040
+    },
+    {
+      "text": "surrounding",
+      "type": "ENTITY",
+      "start": 5041,
+      "end": 5052
+    },
+    {
+      "text": "bile duct",
+      "type": "ENTITY",
+      "start": 5064,
+      "end": 5073
+    },
+    {
+      "text": "fibrotic",
+      "type": "ENTITY",
+      "start": 5082,
+      "end": 5090
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 5111,
+      "end": 5116
+    },
+    {
+      "text": "pancreatic resection margin",
+      "type": "ENTITY",
+      "start": 5122,
+      "end": 5149
+    },
+    {
+      "text": "blue",
+      "type": "ENTITY",
+      "start": 5162,
+      "end": 5166
+    },
+    {
+      "text": "vascular bed margin",
+      "type": "ENTITY",
+      "start": 5172,
+      "end": 5191
+    },
+    {
+      "text": "green",
+      "type": "ENTITY",
+      "start": 5201,
+      "end": 5206
+    },
+    {
+      "text": "uncinate",
+      "type": "ENTITY",
+      "start": 5216,
+      "end": 5224
+    },
+    {
+      "text": "pancreas",
+      "type": "ENTITY",
+      "start": 5237,
+      "end": 5245
+    },
+    {
+      "text": "ill-defined",
+      "type": "ENTITY",
+      "start": 5255,
+      "end": 5266
+    },
+    {
+      "text": "firm",
+      "type": "ENTITY",
+      "start": 5268,
+      "end": 5272
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 5273,
+      "end": 5277
+    },
+    {
+      "text": "maximum",
+      "type": "ENTITY",
+      "start": 5289,
+      "end": 5296
+    },
+    {
+      "text": "dimension",
+      "type": "ENTITY",
+      "start": 5297,
+      "end": 5306
+    },
+    {
+      "text": "Grossly",
+      "type": "ENTITY",
+      "start": 5324,
+      "end": 5331
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 5337,
+      "end": 5342
+    },
+    {
+      "text": "pancreatic resection margin",
+      "type": "ENTITY",
+      "start": 5383,
+      "end": 5410
+    },
+    {
+      "text": "vascular bed margin",
+      "type": "ENTITY",
+      "start": 5438,
+      "end": 5457
+    },
+    {
+      "text": "uncinate  margin",
+      "type": "ENTITY",
+      "start": 5479,
+      "end": 5495
+    },
+    {
+      "text": "Multiple",
+      "type": "ENTITY",
+      "start": 5497,
+      "end": 5505
+    },
+    {
+      "text": "peripancreatic",
+      "type": "ENTITY",
+      "start": 5506,
+      "end": 5520
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 5521,
+      "end": 5532
+    },
+    {
+      "text": "Representative sections",
+      "type": "ENTITY",
+      "start": 5548,
+      "end": 5571
+    },
+    {
+      "text": "cassettes",
+      "type": "ENTITY",
+      "start": 5589,
+      "end": 5598
+    },
+    {
+      "text": "labelled",
+      "type": "ENTITY",
+      "start": 5599,
+      "end": 5607
+    },
+    {
+      "text": "D1",
+      "type": "ENTITY",
+      "start": 5620,
+      "end": 5622
+    },
+    {
+      "text": "bile duct D2",
+      "type": "ENTITY",
+      "start": 5667,
+      "end": 5679
+    },
+    {
+      "text": "proximal",
+      "type": "ENTITY",
+      "start": 5681,
+      "end": 5689
+    },
+    {
+      "text": "duodenal/pylorus D3",
+      "type": "ENTITY",
+      "start": 5700,
+      "end": 5719
+    },
+    {
+      "text": "distal resection margin",
+      "type": "ENTITY",
+      "start": 5721,
+      "end": 5744
+    },
+    {
+      "text": "duodenum D4",
+      "type": "ENTITY",
+      "start": 5748,
+      "end": 5759
+    },
+    {
+      "text": "cross section",
+      "type": "ENTITY",
+      "start": 5763,
+      "end": 5776
+    },
+    {
+      "text": "bile duct",
+      "type": "ENTITY",
+      "start": 5803,
+      "end": 5812
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 5828,
+      "end": 5833
+    },
+    {
+      "text": "peripancreatic lymph node",
+      "type": "ENTITY",
+      "start": 5839,
+      "end": 5864
+    },
+    {
+      "text": "D4 D6",
+      "type": "ENTITY",
+      "start": 5873,
+      "end": 5878
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 5895,
+      "end": 5903
+    },
+    {
+      "text": "lymph node",
+      "type": "ENTITY",
+      "start": 5911,
+      "end": 5921
+    },
+    {
+      "text": "D9/10",
+      "type": "ENTITY",
+      "start": 5928,
+      "end": 5933
+    },
+    {
+      "text": "cross sections",
+      "type": "ENTITY",
+      "start": 5946,
+      "end": 5960
+    },
+    {
+      "text": "bile duct",
+      "type": "ENTITY",
+      "start": 5976,
+      "end": 5985
+    },
+    {
+      "text": "tumor Dil",
+      "type": "ENTITY",
+      "start": 5990,
+      "end": 5999
+    },
+    {
+      "text": "cross section",
+      "type": "ENTITY",
+      "start": 6003,
+      "end": 6016
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 6025,
+      "end": 6030
+    },
+    {
+      "text": "vascular bed margin",
+      "type": "ENTITY",
+      "start": 6035,
+      "end": 6054
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 6060,
+      "end": 6065
+    },
+    {
+      "text": "uncinate margin D13",
+      "type": "ENTITY",
+      "start": 6071,
+      "end": 6090
+    },
+    {
+      "text": "cross section",
+      "type": "ENTITY",
+      "start": 6092,
+      "end": 6105
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 6109,
+      "end": 6114
+    },
+    {
+      "text": "resection margin",
+      "type": "ENTITY",
+      "start": 6123,
+      "end": 6139
+    },
+    {
+      "text": "D14/15",
+      "type": "ENTITY",
+      "start": 6140,
+      "end": 6146
+    },
+    {
+      "text": "cross section",
+      "type": "ENTITY",
+      "start": 6157,
+      "end": 6170
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 6174,
+      "end": 6179
+    },
+    {
+      "text": "resection margin",
+      "type": "ENTITY",
+      "start": 6185,
+      "end": 6201
+    },
+    {
+      "text": "vascular margin",
+      "type": "ENTITY",
+      "start": 6203,
+      "end": 6218
+    },
+    {
+      "text": "uncinate margin",
+      "type": "ENTITY",
+      "start": 6223,
+      "end": 6238
+    },
+    {
+      "text": "D16/17",
+      "type": "ENTITY",
+      "start": 6239,
+      "end": 6245
+    },
+    {
+      "text": "cross section",
+      "type": "ENTITY",
+      "start": 6256,
+      "end": 6269
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 6273,
+      "end": 6278
+    },
+    {
+      "text": "uncinate",
+      "type": "ENTITY",
+      "start": 6284,
+      "end": 6292
+    },
+    {
+      "text": "resection",
+      "type": "ENTITY",
+      "start": 6294,
+      "end": 6303
+    },
+    {
+      "text": "vascular bed margins",
+      "type": "ENTITY",
+      "start": 6309,
+      "end": 6329
+    },
+    {
+      "text": "cross section",
+      "type": "ENTITY",
+      "start": 6335,
+      "end": 6348
+    },
+    {
+      "text": "uncinate margin",
+      "type": "ENTITY",
+      "start": 6352,
+      "end": 6367
+    },
+    {
+      "text": "fat",
+      "type": "ENTITY",
+      "start": 6384,
+      "end": 6387
+    },
+    {
+      "text": "suspected",
+      "type": "ENTITY",
+      "start": 6407,
+      "end": 6416
+    },
+    {
+      "text": "fat",
+      "type": "ENTITY",
+      "start": 6417,
+      "end": 6420
+    },
+    {
+      "text": "necrosis",
+      "type": "ENTITY",
+      "start": 6422,
+      "end": 6430
+    },
+    {
+      "text": "section",
+      "type": "ENTITY",
+      "start": 6448,
+      "end": 6455
+    },
+    {
+      "text": "vascular bed margin",
+      "type": "ENTITY",
+      "start": 6459,
+      "end": 6478
+    },
+    {
+      "text": "tumor D20",
+      "type": "ENTITY",
+      "start": 6484,
+      "end": 6493
+    },
+    {
+      "text": "bisected",
+      "type": "ENTITY",
+      "start": 6499,
+      "end": 6507
+    },
+    {
+      "text": "peripancreatic lymph node\n\n",
+      "type": "ENTITY",
+      "start": 6508,
+      "end": 6535
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 6567,
+      "end": 6572
+    },
+    {
+      "text": "overlying duodenal mucosa",
+      "type": "ENTITY",
+      "start": 6578,
+      "end": 6603
+    },
+    {
+      "text": "section",
+      "type": "ENTITY",
+      "start": 6625,
+      "end": 6632
+    },
+    {
+      "text": "duodenal",
+      "type": "ENTITY",
+      "start": 6638,
+      "end": 6646
+    },
+    {
+      "text": "pancreas",
+      "type": "ENTITY",
+      "start": 6676,
+      "end": 6684
+    },
+    {
+      "text": "D23",
+      "type": "ENTITY",
+      "start": 6685,
+      "end": 6688
+    },
+    {
+      "text": "bisected",
+      "type": "ENTITY",
+      "start": 6694,
+      "end": 6702
+    },
+    {
+      "text": "periduodenal lymph node",
+      "type": "ENTITY",
+      "start": 6703,
+      "end": 6726
+    },
+    {
+      "text": "bisected",
+      "type": "ENTITY",
+      "start": 6737,
+      "end": 6745
+    },
+    {
+      "text": "periduodenal lymph node",
+      "type": "ENTITY",
+      "start": 6746,
+      "end": 6769
+    },
+    {
+      "text": "periduodenal",
+      "type": "ENTITY",
+      "start": 6780,
+      "end": 6792
+    },
+    {
+      "text": "lymph nodes D26",
+      "type": "ENTITY",
+      "start": 6793,
+      "end": 6808
+    },
+    {
+      "text": "periduodenal lymph node",
+      "type": "ENTITY",
+      "start": 6814,
+      "end": 6837
+    },
+    {
+      "text": "Accession Number Encounter Number",
+      "type": "ENTITY",
+      "start": 6839,
+      "end": 6872
+    },
+    {
+      "text": "Patient",
+      "type": "ENTITY",
+      "start": 6873,
+      "end": 6880
+    }
+  ],
+  "entity_count": 319,
+  "has_embedding": true
+}

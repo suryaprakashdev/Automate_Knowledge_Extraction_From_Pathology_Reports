@@ -85,7 +85,7 @@ def main():
     manifest_file = "/usr/users/3d_dimension_est/selva_sur/RAG/data/file_ids.txt" 
     
     if not Path(manifest_file).exists():
-        print(f"❌ ERROR: Manifest file not found: {manifest_file}")
+        print(f" ERROR: Manifest file not found: {manifest_file}")
         return
     
     with open(manifest_file, 'r') as f:
@@ -127,7 +127,7 @@ def main():
         except Exception as e:
             failed += 1
             failed_ids.append(file_id)
-            tqdm.write(f"❌ {file_id}: {e}")
+            tqdm.write(f" {file_id}: {e}")
         
         # Small delay to avoid hammering the API
         time.sleep(0.1)
@@ -149,7 +149,7 @@ def main():
             f.write("file_id\n")
             for fid in failed_ids:
                 f.write(f"{fid}\n")
-        print(f"\n⚠️  Failed file IDs saved to: {failed_file}")
+        print(f"\n  Failed file IDs saved to: {failed_file}")
 
 
 if __name__ == "__main__":

@@ -244,7 +244,7 @@ class CompleteRAGPipeline:
         print("RAG Pipeline ready")
 
     def ask(self, query: str) -> Dict:
-        print(f"\n🔍 Query: {query}")
+        print(f"\n Query: {query}")
 
         processed = self.query_processor.process(query)
 
@@ -252,7 +252,7 @@ class CompleteRAGPipeline:
             processed["embedding"],
             query,
         )
-        print(f"🔎 Retrieved {len(candidates)} candidates")
+        print(f" Retrieved {len(candidates)} candidates")
 
         top_chunks = self.reranker.rerank(query, candidates)
         print(f"⚡ Reranked to top {len(top_chunks)} chunks")

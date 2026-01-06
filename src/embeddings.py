@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Biomedical NLP Pipeline - Using Microsoft BiomedBERT
-No Spark NLP - Direct HuggingFace integration
+
 """
 
 from pathlib import Path
@@ -19,7 +19,7 @@ try:
     SPACY_AVAILABLE = True
 except ImportError:
     SPACY_AVAILABLE = False
-    print("⚠️  spaCy not available. Install: pip install spacy scispacy")
+    print("spaCy not available. Install: pip install spacy scispacy")
 
 
 class BiomedBERTPipeline:
@@ -34,7 +34,7 @@ class BiomedBERTPipeline:
         Args:
             biomedbert_model: HuggingFace model name
         """
-        print(f"📥 Loading Microsoft BiomedBERT: {biomedbert_model}")
+        print(f" Loading Microsoft BiomedBERT: {biomedbert_model}")
         print("   (First run downloads ~400MB, then cached)")
         
         self.embedder = SentenceTransformer(biomedbert_model)
@@ -201,9 +201,9 @@ class BiomedBERTPipeline:
 
 def main():
     """Main function"""
-    print("🔬 " * 20)
+    print("= " * 20)
     print("MICROSOFT BIOMEDBERT PIPELINE")
-    print("🔬 " * 20)
+    print("= " * 20)
     
     # CONFIGURE PATHS
     input_dir = "/usr/users/3d_dimension_est/selva_sur/RAG/output/text"

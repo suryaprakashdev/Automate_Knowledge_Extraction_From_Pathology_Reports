@@ -1,0 +1,710 @@
+{
+  "filename": "5e85407d-b98c-4e65-a897-090d233badb2",
+  "timestamp": "2026-01-05T14:42:45.288168",
+  "entities": [
+    {
+      "text": "Description",
+      "type": "ENTITY",
+      "start": 102,
+      "end": 113
+    },
+    {
+      "text": "male",
+      "type": "ENTITY",
+      "start": 114,
+      "end": 118
+    },
+    {
+      "text": "pancreatic mass Research Dx Pancreas",
+      "type": "ENTITY",
+      "start": 124,
+      "end": 160
+    },
+    {
+      "text": "stomach",
+      "type": "ENTITY",
+      "start": 162,
+      "end": 169
+    },
+    {
+      "text": "small intestine",
+      "type": "ENTITY",
+      "start": 171,
+      "end": 186
+    },
+    {
+      "text": "pancreaticoduodenectomy",
+      "type": "ENTITY",
+      "start": 188,
+      "end": 211
+    },
+    {
+      "text": "Adenocarcinoma",
+      "type": "ENTITY",
+      "start": 213,
+      "end": 227
+    },
+    {
+      "text": "case summary",
+      "type": "ENTITY",
+      "start": 233,
+      "end": 245
+    },
+    {
+      "text": "CASE SUMMARY",
+      "type": "ENTITY",
+      "start": 247,
+      "end": 259
+    },
+    {
+      "text": "CARCINOMA",
+      "type": "ENTITY",
+      "start": 264,
+      "end": 273
+    },
+    {
+      "text": "Specimen",
+      "type": "ENTITY",
+      "start": 296,
+      "end": 304
+    },
+    {
+      "text": "Portions",
+      "type": "ENTITY",
+      "start": 306,
+      "end": 314
+    },
+    {
+      "text": "pancreas",
+      "type": "ENTITY",
+      "start": 318,
+      "end": 326
+    },
+    {
+      "text": "stomach",
+      "type": "ENTITY",
+      "start": 328,
+      "end": 335
+    },
+    {
+      "text": "small intestine Procedure",
+      "type": "ENTITY",
+      "start": 337,
+      "end": 362
+    },
+    {
+      "text": "Whipple resection Tumor site",
+      "type": "ENTITY",
+      "start": 364,
+      "end": 392
+    },
+    {
+      "text": "Pancreas",
+      "type": "ENTITY",
+      "start": 394,
+      "end": 402
+    },
+    {
+      "text": "extension",
+      "type": "ENTITY",
+      "start": 409,
+      "end": 418
+    },
+    {
+      "text": "ampulla",
+      "type": "ENTITY",
+      "start": 424,
+      "end": 431
+    },
+    {
+      "text": "duodenal wall",
+      "type": "ENTITY",
+      "start": 436,
+      "end": 449
+    },
+    {
+      "text": "Tumor size",
+      "type": "ENTITY",
+      "start": 450,
+      "end": 460
+    },
+    {
+      "text": "Histologic type",
+      "type": "ENTITY",
+      "start": 495,
+      "end": 510
+    },
+    {
+      "text": "Ductal adenocarcinoma",
+      "type": "ENTITY",
+      "start": 512,
+      "end": 533
+    },
+    {
+      "text": "Histologic grade",
+      "type": "ENTITY",
+      "start": 534,
+      "end": 550
+    },
+    {
+      "text": "Moderately",
+      "type": "ENTITY",
+      "start": 556,
+      "end": 566
+    },
+    {
+      "text": "Microscopic tumor extension",
+      "type": "ENTITY",
+      "start": 582,
+      "end": 609
+    },
+    {
+      "text": "Tumor",
+      "type": "ENTITY",
+      "start": 611,
+      "end": 616
+    },
+    {
+      "text": "invades",
+      "type": "ENTITY",
+      "start": 617,
+      "end": 624
+    },
+    {
+      "text": "peripancreatic",
+      "type": "ENTITY",
+      "start": 625,
+      "end": 639
+    },
+    {
+      "text": "soft tissues",
+      "type": "ENTITY",
+      "start": 640,
+      "end": 652
+    },
+    {
+      "text": "Margins",
+      "type": "ENTITY",
+      "start": 653,
+      "end": 660
+    },
+    {
+      "text": "Proximal magin",
+      "type": "ENTITY",
+      "start": 662,
+      "end": 676
+    },
+    {
+      "text": "gastric",
+      "type": "ENTITY",
+      "start": 678,
+      "end": 685
+    },
+    {
+      "text": "duodenal",
+      "type": "ENTITY",
+      "start": 689,
+      "end": 697
+    },
+    {
+      "text": "Negative",
+      "type": "ENTITY",
+      "start": 700,
+      "end": 708
+    },
+    {
+      "text": "carcinoma",
+      "type": "ENTITY",
+      "start": 713,
+      "end": 722
+    },
+    {
+      "text": "Distal margin",
+      "type": "ENTITY",
+      "start": 723,
+      "end": 736
+    },
+    {
+      "text": "distal duodenal",
+      "type": "ENTITY",
+      "start": 738,
+      "end": 753
+    },
+    {
+      "text": "Negative",
+      "type": "ENTITY",
+      "start": 756,
+      "end": 764
+    },
+    {
+      "text": "carcinoma",
+      "type": "ENTITY",
+      "start": 769,
+      "end": 778
+    },
+    {
+      "text": "Uncinate process",
+      "type": "ENTITY",
+      "start": 779,
+      "end": 795
+    },
+    {
+      "text": "retroperitoneal",
+      "type": "ENTITY",
+      "start": 797,
+      "end": 812
+    },
+    {
+      "text": "nonperitonealized",
+      "type": "ENTITY",
+      "start": 822,
+      "end": 839
+    },
+    {
+      "text": "surface",
+      "type": "ENTITY",
+      "start": 840,
+      "end": 847
+    },
+    {
+      "text": "uncinate process",
+      "type": "ENTITY",
+      "start": 855,
+      "end": 871
+    },
+    {
+      "text": "Negative",
+      "type": "ENTITY",
+      "start": 874,
+      "end": 882
+    },
+    {
+      "text": "carcinoma",
+      "type": "ENTITY",
+      "start": 887,
+      "end": 896
+    },
+    {
+      "text": "Bile duct margin",
+      "type": "ENTITY",
+      "start": 897,
+      "end": 913
+    },
+    {
+      "text": "Negative",
+      "type": "ENTITY",
+      "start": 915,
+      "end": 923
+    },
+    {
+      "text": "carcinoma",
+      "type": "ENTITY",
+      "start": 928,
+      "end": 937
+    },
+    {
+      "text": "Pancreatic resection margin",
+      "type": "ENTITY",
+      "start": 938,
+      "end": 965
+    },
+    {
+      "text": "Negative",
+      "type": "ENTITY",
+      "start": 967,
+      "end": 975
+    },
+    {
+      "text": "carcinoma",
+      "type": "ENTITY",
+      "start": 980,
+      "end": 989
+    },
+    {
+      "text": "Distance",
+      "type": "ENTITY",
+      "start": 990,
+      "end": 998
+    },
+    {
+      "text": "invasive carcinoma",
+      "type": "ENTITY",
+      "start": 1002,
+      "end": 1020
+    },
+    {
+      "text": "margin",
+      "type": "ENTITY",
+      "start": 1034,
+      "end": 1040
+    },
+    {
+      "text": "Specify margin",
+      "type": "ENTITY",
+      "start": 1047,
+      "end": 1061
+    },
+    {
+      "text": "Uncinate Treatment effect",
+      "type": "ENTITY",
+      "start": 1063,
+      "end": 1088
+    },
+    {
+      "text": "Lymphovascular invasion",
+      "type": "ENTITY",
+      "start": 1105,
+      "end": 1128
+    },
+    {
+      "text": "Indeterminate",
+      "type": "ENTITY",
+      "start": 1130,
+      "end": 1143
+    },
+    {
+      "text": "Perineural invasion",
+      "type": "ENTITY",
+      "start": 1144,
+      "end": 1163
+    },
+    {
+      "text": "Pathologic staging",
+      "type": "ENTITY",
+      "start": 1173,
+      "end": 1191
+    },
+    {
+      "text": "pTNM",
+      "type": "ENTITY",
+      "start": 1193,
+      "end": 1197
+    },
+    {
+      "text": "Primary tumor",
+      "type": "ENTITY",
+      "start": 1199,
+      "end": 1212
+    },
+    {
+      "text": "pT",
+      "type": "ENTITY",
+      "start": 1214,
+      "end": 1216
+    },
+    {
+      "text": "pT3",
+      "type": "ENTITY",
+      "start": 1219,
+      "end": 1222
+    },
+    {
+      "text": "Tumor",
+      "type": "ENTITY",
+      "start": 1224,
+      "end": 1229
+    },
+    {
+      "text": "extends",
+      "type": "ENTITY",
+      "start": 1230,
+      "end": 1237
+    },
+    {
+      "text": "pancreas",
+      "type": "ENTITY",
+      "start": 1249,
+      "end": 1257
+    },
+    {
+      "text": "involvement",
+      "type": "ENTITY",
+      "start": 1270,
+      "end": 1281
+    },
+    {
+      "text": "celiac axis",
+      "type": "ENTITY",
+      "start": 1289,
+      "end": 1300
+    },
+    {
+      "text": "mesenteric artery",
+      "type": "ENTITY",
+      "start": 1317,
+      "end": 1334
+    },
+    {
+      "text": "Regional lymph nodes",
+      "type": "ENTITY",
+      "start": 1335,
+      "end": 1355
+    },
+    {
+      "text": "pN",
+      "type": "ENTITY",
+      "start": 1357,
+      "end": 1359
+    },
+    {
+      "text": "pN1",
+      "type": "ENTITY",
+      "start": 1362,
+      "end": 1365
+    },
+    {
+      "text": "Regional Iymph node metastases",
+      "type": "ENTITY",
+      "start": 1367,
+      "end": 1397
+    },
+    {
+      "text": "Number",
+      "type": "ENTITY",
+      "start": 1418,
+      "end": 1424
+    },
+    {
+      "text": "Distant metastasis",
+      "type": "ENTITY",
+      "start": 1437,
+      "end": 1455
+    },
+    {
+      "text": "AJCC Staging",
+      "type": "ENTITY",
+      "start": 1481,
+      "end": 1493
+    },
+    {
+      "text": "pT3",
+      "type": "ENTITY",
+      "start": 1509,
+      "end": 1512
+    },
+    {
+      "text": "Research QC",
+      "type": "ENTITY",
+      "start": 1536,
+      "end": 1547
+    },
+    {
+      "text": "Tumor",
+      "type": "ENTITY",
+      "start": 1556,
+      "end": 1561
+    },
+    {
+      "text": "tumor nuclei",
+      "type": "ENTITY",
+      "start": 1567,
+      "end": 1579
+    },
+    {
+      "text": "necrosis",
+      "type": "ENTITY",
+      "start": 1589,
+      "end": 1597
+    },
+    {
+      "text": "normal pancreas",
+      "type": "ENTITY",
+      "start": 1602,
+      "end": 1617
+    },
+    {
+      "text": "stroma",
+      "type": "ENTITY",
+      "start": 1622,
+      "end": 1628
+    },
+    {
+      "text": "duct",
+      "type": "ENTITY",
+      "start": 1647,
+      "end": 1651
+    },
+    {
+      "text": "stroma",
+      "type": "ENTITY",
+      "start": 1653,
+      "end": 1659
+    },
+    {
+      "text": "adipose cps.1",
+      "type": "ENTITY",
+      "start": 1661,
+      "end": 1674
+    },
+    {
+      "text": "Process Time",
+      "type": "ENTITY",
+      "start": 1751,
+      "end": 1763
+    },
+    {
+      "text": "Blood",
+      "type": "ENTITY",
+      "start": 1764,
+      "end": 1769
+    },
+    {
+      "text": "Plasma",
+      "type": "ENTITY",
+      "start": 1781,
+      "end": 1787
+    },
+    {
+      "text": "Serum frozen time",
+      "type": "ENTITY",
+      "start": 1801,
+      "end": 1818
+    },
+    {
+      "text": "Buffy coat frozen time",
+      "type": "ENTITY",
+      "start": 1820,
+      "end": 1842
+    },
+    {
+      "text": "Tissue",
+      "type": "ENTITY",
+      "start": 1844,
+      "end": 1850
+    },
+    {
+      "text": "Cold ischemia",
+      "type": "ENTITY",
+      "start": 1852,
+      "end": 1865
+    },
+    {
+      "text": "start time",
+      "type": "ENTITY",
+      "start": 1866,
+      "end": 1876
+    },
+    {
+      "text": "Formalin fixation",
+      "type": "ENTITY",
+      "start": 1878,
+      "end": 1895
+    },
+    {
+      "text": "Frozen",
+      "type": "ENTITY",
+      "start": 1908,
+      "end": 1914
+    },
+    {
+      "text": "Total cold ischemia",
+      "type": "ENTITY",
+      "start": 1927,
+      "end": 1946
+    },
+    {
+      "text": "Formalin fixation stop",
+      "type": "ENTITY",
+      "start": 1952,
+      "end": 1974
+    },
+    {
+      "text": "Total formalin fixation",
+      "type": "ENTITY",
+      "start": 1981,
+      "end": 2004
+    },
+    {
+      "text": "Specimen Weight Normal",
+      "type": "ENTITY",
+      "start": 2011,
+      "end": 2033
+    },
+    {
+      "text": "Specimen",
+      "type": "ENTITY",
+      "start": 2068,
+      "end": 2076
+    },
+    {
+      "text": "Plasma",
+      "type": "ENTITY",
+      "start": 2082,
+      "end": 2088
+    },
+    {
+      "text": "Serum",
+      "type": "ENTITY",
+      "start": 2093,
+      "end": 2098
+    },
+    {
+      "text": "Buffy coat",
+      "type": "ENTITY",
+      "start": 2103,
+      "end": 2113
+    },
+    {
+      "text": "Cryovials",
+      "type": "ENTITY",
+      "start": 2118,
+      "end": 2127
+    },
+    {
+      "text": "Normal",
+      "type": "ENTITY",
+      "start": 2132,
+      "end": 2138
+    },
+    {
+      "text": "Tumor",
+      "type": "ENTITY",
+      "start": 2143,
+      "end": 2148
+    },
+    {
+      "text": "Metastatic",
+      "type": "ENTITY",
+      "start": 2153,
+      "end": 2163
+    },
+    {
+      "text": "FFPE",
+      "type": "ENTITY",
+      "start": 2168,
+      "end": 2172
+    },
+    {
+      "text": "Normal",
+      "type": "ENTITY",
+      "start": 2177,
+      "end": 2183
+    },
+    {
+      "text": "Tumor",
+      "type": "ENTITY",
+      "start": 2188,
+      "end": 2193
+    },
+    {
+      "text": "Metastatic",
+      "type": "ENTITY",
+      "start": 2198,
+      "end": 2208
+    },
+    {
+      "text": "Study",
+      "type": "ENTITY",
+      "start": 2213,
+      "end": 2218
+    },
+    {
+      "text": "Patient",
+      "type": "ENTITY",
+      "start": 2219,
+      "end": 2226
+    }
+  ],
+  "entity_count": 117,
+  "has_embedding": true
+}

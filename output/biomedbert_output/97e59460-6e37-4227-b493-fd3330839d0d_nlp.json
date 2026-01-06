@@ -1,0 +1,2222 @@
+{
+  "filename": "97e59460-6e37-4227-b493-fd3330839d0d",
+  "timestamp": "2026-01-05T14:41:18.004521",
+  "entities": [
+    {
+      "text": "Surgical Pathology Specimen Type",
+      "type": "ENTITY",
+      "start": 56,
+      "end": 88
+    },
+    {
+      "text": "Kidney",
+      "type": "ENTITY",
+      "start": 90,
+      "end": 96
+    },
+    {
+      "text": "partial",
+      "type": "ENTITY",
+      "start": 98,
+      "end": 105
+    },
+    {
+      "text": "total resection Procedure Date",
+      "type": "ENTITY",
+      "start": 109,
+      "end": 139
+    },
+    {
+      "text": "Ordering",
+      "type": "ENTITY",
+      "start": 141,
+      "end": 149
+    },
+    {
+      "text": "PATIENT",
+      "type": "ENTITY",
+      "start": 164,
+      "end": 171
+    },
+    {
+      "text": "A./LEFT KIDNEY",
+      "type": "ENTITY",
+      "start": 212,
+      "end": 226
+    },
+    {
+      "text": "NEPHRECTOMY",
+      "type": "ENTITY",
+      "start": 228,
+      "end": 239
+    },
+    {
+      "text": "CLEAR CELL RENAL/CELL",
+      "type": "ENTITY",
+      "start": 241,
+      "end": 262
+    },
+    {
+      "text": "CARCINOMA",
+      "type": "ENTITY",
+      "start": 263,
+      "end": 272
+    },
+    {
+      "text": "nodules",
+      "type": "ENTITY",
+      "start": 299,
+      "end": 306
+    },
+    {
+      "text": "posterior mid-to-upper pole",
+      "type": "ENTITY",
+      "start": 314,
+      "end": 341
+    },
+    {
+      "text": "anterior subcapsular",
+      "type": "ENTITY",
+      "start": 362,
+      "end": 382
+    },
+    {
+      "text": "Fuhrman nuclear grade",
+      "type": "ENTITY",
+      "start": 393,
+      "end": 414
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 423,
+      "end": 428
+    },
+    {
+      "text": "kidney",
+      "type": "ENTITY",
+      "start": 448,
+      "end": 454
+    },
+    {
+      "text": "vascular",
+      "type": "ENTITY",
+      "start": 460,
+      "end": 468
+    },
+    {
+      "text": "ureteral margins",
+      "type": "ENTITY",
+      "start": 473,
+      "end": 489
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 494,
+      "end": 502
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 507,
+      "end": 512
+    },
+    {
+      "text": "Adrenal gland",
+      "type": "ENTITY",
+      "start": 515,
+      "end": 528
+    },
+    {
+      "text": "AJcc Classification",
+      "type": "ENTITY",
+      "start": 542,
+      "end": 561
+    },
+    {
+      "text": "MX",
+      "type": "ENTITY",
+      "start": 570,
+      "end": 572
+    },
+    {
+      "text": "subcortex",
+      "type": "ENTITY",
+      "start": 618,
+      "end": 627
+    },
+    {
+      "text": "Incidental microadenoma",
+      "type": "ENTITY",
+      "start": 629,
+      "end": 652
+    },
+    {
+      "text": "Focal global glomerulosclerosis",
+      "type": "ENTITY",
+      "start": 662,
+      "end": 693
+    },
+    {
+      "text": "Cortical scar",
+      "type": "ENTITY",
+      "start": 695,
+      "end": 708
+    },
+    {
+      "text": "Arteriolosclerosis",
+      "type": "ENTITY",
+      "start": 709,
+      "end": 727
+    },
+    {
+      "text": "mild",
+      "type": "ENTITY",
+      "start": 729,
+      "end": 733
+    },
+    {
+      "text": "moderate",
+      "type": "ENTITY",
+      "start": 737,
+      "end": 745
+    },
+    {
+      "text": "renal parenchyma",
+      "type": "ENTITY",
+      "start": 751,
+      "end": 767
+    },
+    {
+      "text": "stains",
+      "type": "ENTITY",
+      "start": 780,
+      "end": 786
+    },
+    {
+      "text": "reviewed",
+      "type": "ENTITY",
+      "start": 795,
+      "end": 803
+    },
+    {
+      "text": "Kidney",
+      "type": "ENTITY",
+      "start": 807,
+      "end": 813
+    },
+    {
+      "text": "addendum",
+      "type": "ENTITY",
+      "start": 853,
+      "end": 861
+    },
+    {
+      "text": "History",
+      "type": "ENTITY",
+      "start": 879,
+      "end": 886
+    },
+    {
+      "text": "Operation",
+      "type": "ENTITY",
+      "start": 900,
+      "end": 909
+    },
+    {
+      "text": "Left radical nephrectomy",
+      "type": "ENTITY",
+      "start": 911,
+      "end": 935
+    },
+    {
+      "text": "Operative Findings",
+      "type": "ENTITY",
+      "start": 937,
+      "end": 955
+    },
+    {
+      "text": "Clinical Diagnosis",
+      "type": "ENTITY",
+      "start": 969,
+      "end": 987
+    },
+    {
+      "text": "Left renal cell cancer",
+      "type": "ENTITY",
+      "start": 989,
+      "end": 1011
+    },
+    {
+      "text": "TISSUE SUBMITTED",
+      "type": "ENTITY",
+      "start": 1014,
+      "end": 1030
+    },
+    {
+      "text": "A/1",
+      "type": "ENTITY",
+      "start": 1032,
+      "end": 1035
+    },
+    {
+      "text": "Left kidney",
+      "type": "ENTITY",
+      "start": 1037,
+      "end": 1048
+    },
+    {
+      "text": "Tissue Bank",
+      "type": "ENTITY",
+      "start": 1051,
+      "end": 1062
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1087,
+      "end": 1095
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 1108,
+      "end": 1113
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 1115,
+      "end": 1122
+    },
+    {
+      "text": "patients",
+      "type": "ENTITY",
+      "start": 1132,
+      "end": 1140
+    },
+    {
+      "text": "unit number",
+      "type": "ENTITY",
+      "start": 1147,
+      "end": 1158
+    },
+    {
+      "text": "Left kidney",
+      "type": "ENTITY",
+      "start": 1168,
+      "end": 1179
+    },
+    {
+      "text": "left radical nephrectomy specimen",
+      "type": "ENTITY",
+      "start": 1200,
+      "end": 1233
+    },
+    {
+      "text": "dimensions",
+      "type": "ENTITY",
+      "start": 1275,
+      "end": 1285
+    },
+    {
+      "text": "ieft kidney",
+      "type": "ENTITY",
+      "start": 1299,
+      "end": 1310
+    },
+    {
+      "text": "ureter",
+      "type": "ENTITY",
+      "start": 1335,
+      "end": 1341
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 1354,
+      "end": 1360
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 1373,
+      "end": 1381
+    },
+    {
+      "text": "renal vein",
+      "type": "ENTITY",
+      "start": 1384,
+      "end": 1394
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 1406,
+      "end": 1412
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 1425,
+      "end": 1433
+    },
+    {
+      "text": "renal arteries",
+      "type": "ENTITY",
+      "start": 1436,
+      "end": 1450
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 1462,
+      "end": 1468
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 1481,
+      "end": 1489
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 1504,
+      "end": 1510
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 1523,
+      "end": 1531
+    },
+    {
+      "text": "abundant",
+      "type": "ENTITY",
+      "start": 1538,
+      "end": 1546
+    },
+    {
+      "text": "perinephric fat",
+      "type": "ENTITY",
+      "start": 1547,
+      "end": 1562
+    },
+    {
+      "text": "adrenal gland",
+      "type": "ENTITY",
+      "start": 1567,
+      "end": 1580
+    },
+    {
+      "text": "Gerota's fascia",
+      "type": "ENTITY",
+      "start": 1636,
+      "end": 1651
+    },
+    {
+      "text": "anterior",
+      "type": "ENTITY",
+      "start": 1694,
+      "end": 1702
+    },
+    {
+      "text": "aspect",
+      "type": "ENTITY",
+      "start": 1703,
+      "end": 1709
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1715,
+      "end": 1723
+    },
+    {
+      "text": "inked black",
+      "type": "ENTITY",
+      "start": 1727,
+      "end": 1738
+    },
+    {
+      "text": "deep margin",
+      "type": "ENTITY",
+      "start": 1749,
+      "end": 1760
+    },
+    {
+      "text": "bivalved",
+      "type": "ENTITY",
+      "start": 1765,
+      "end": 1773
+    },
+    {
+      "text": "posterior",
+      "type": "ENTITY",
+      "start": 1799,
+      "end": 1808
+    },
+    {
+      "text": "aspect",
+      "type": "ENTITY",
+      "start": 1809,
+      "end": 1815
+    },
+    {
+      "text": "upper pole",
+      "type": "ENTITY",
+      "start": 1830,
+      "end": 1840
+    },
+    {
+      "text": "abutting",
+      "type": "ENTITY",
+      "start": 1842,
+      "end": 1850
+    },
+    {
+      "text": "renal",
+      "type": "ENTITY",
+      "start": 1855,
+      "end": 1860
+    },
+    {
+      "text": "capsule",
+      "type": "ENTITY",
+      "start": 1862,
+      "end": 1869
+    },
+    {
+      "text": "deep margin",
+      "type": "ENTITY",
+      "start": 1902,
+      "end": 1913
+    },
+    {
+      "text": "artery",
+      "type": "ENTITY",
+      "start": 1927,
+      "end": 1933
+    },
+    {
+      "text": "artery",
+      "type": "ENTITY",
+      "start": 1950,
+      "end": 1956
+    },
+    {
+      "text": "renal vein margin",
+      "type": "ENTITY",
+      "start": 1977,
+      "end": 1994
+    },
+    {
+      "text": "ureteral",
+      "type": "ENTITY",
+      "start": 2013,
+      "end": 2021
+    },
+    {
+      "text": "margin",
+      "type": "ENTITY",
+      "start": 2023,
+      "end": 2029
+    },
+    {
+      "text": "perinephric fat",
+      "type": "ENTITY",
+      "start": 2076,
+      "end": 2091
+    },
+    {
+      "text": "renal vein",
+      "type": "ENTITY",
+      "start": 2097,
+      "end": 2107
+    },
+    {
+      "text": "Representative tumor",
+      "type": "ENTITY",
+      "start": 2133,
+      "end": 2153
+    },
+    {
+      "text": "Cytogenetics",
+      "type": "ENTITY",
+      "start": 2170,
+      "end": 2182
+    },
+    {
+      "text": "Electron Microscopy",
+      "type": "ENTITY",
+      "start": 2184,
+      "end": 2203
+    },
+    {
+      "text": "Tissue Bank",
+      "type": "ENTITY",
+      "start": 2209,
+      "end": 2220
+    },
+    {
+      "text": "Representative",
+      "type": "ENTITY",
+      "start": 2242,
+      "end": 2256
+    },
+    {
+      "text": "normal cortex",
+      "type": "ENTITY",
+      "start": 2257,
+      "end": 2270
+    },
+    {
+      "text": "Tissue Bank",
+      "type": "ENTITY",
+      "start": 2291,
+      "end": 2302
+    },
+    {
+      "text": "Electron",
+      "type": "ENTITY",
+      "start": 2307,
+      "end": 2315
+    },
+    {
+      "text": "encapsulated",
+      "type": "ENTITY",
+      "start": 2316,
+      "end": 2328
+    },
+    {
+      "text": "golden yellow/red mass",
+      "type": "ENTITY",
+      "start": 2330,
+      "end": 2352
+    },
+    {
+      "text": "renal cortex",
+      "type": "ENTITY",
+      "start": 2381,
+      "end": 2393
+    },
+    {
+      "text": "abutting",
+      "type": "ENTITY",
+      "start": 2395,
+      "end": 2403
+    },
+    {
+      "text": "distending",
+      "type": "ENTITY",
+      "start": 2408,
+      "end": 2418
+    },
+    {
+      "text": "anterior renal capsule",
+      "type": "ENTITY",
+      "start": 2423,
+      "end": 2445
+    },
+    {
+      "text": "black-inked",
+      "type": "ENTITY",
+      "start": 2478,
+      "end": 2489
+    },
+    {
+      "text": "deep margin",
+      "type": "ENTITY",
+      "start": 2490,
+      "end": 2501
+    },
+    {
+      "text": "ureteral margin",
+      "type": "ENTITY",
+      "start": 2518,
+      "end": 2533
+    },
+    {
+      "text": "renal artery margin",
+      "type": "ENTITY",
+      "start": 2547,
+      "end": 2566
+    },
+    {
+      "text": "renal artery",
+      "type": "ENTITY",
+      "start": 2583,
+      "end": 2595
+    },
+    {
+      "text": "renal vein margin",
+      "type": "ENTITY",
+      "start": 2620,
+      "end": 2637
+    },
+    {
+      "text": "nodule",
+      "type": "ENTITY",
+      "start": 2665,
+      "end": 2671
+    },
+    {
+      "text": "cortex",
+      "type": "ENTITY",
+      "start": 2679,
+      "end": 2685
+    },
+    {
+      "text": "medullary pyramids",
+      "type": "ENTITY",
+      "start": 2691,
+      "end": 2709
+    },
+    {
+      "text": "diffusely",
+      "type": "ENTITY",
+      "start": 2714,
+      "end": 2723
+    },
+    {
+      "text": "hyperemic",
+      "type": "ENTITY",
+      "start": 2724,
+      "end": 2733
+    },
+    {
+      "text": "periphery",
+      "type": "ENTITY",
+      "start": 2741,
+      "end": 2750
+    },
+    {
+      "text": "corticomedullary junction",
+      "type": "ENTITY",
+      "start": 2759,
+      "end": 2784
+    },
+    {
+      "text": "pelvis",
+      "type": "ENTITY",
+      "start": 2802,
+      "end": 2808
+    },
+    {
+      "text": "tan urothelium",
+      "type": "ENTITY",
+      "start": 2834,
+      "end": 2848
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 2853,
+      "end": 2864
+    },
+    {
+      "text": "identified",
+      "type": "ENTITY",
+      "start": 2865,
+      "end": 2875
+    },
+    {
+      "text": "hilum",
+      "type": "ENTITY",
+      "start": 2887,
+      "end": 2892
+    },
+    {
+      "text": "Ureter",
+      "type": "ENTITY",
+      "start": 2920,
+      "end": 2926
+    },
+    {
+      "text": "renal  yein",
+      "type": "ENTITY",
+      "start": 2928,
+      "end": 2939
+    },
+    {
+      "text": "renal artery margins",
+      "type": "ENTITY",
+      "start": 2944,
+      "end": 2964
+    },
+    {
+      "text": "Micro A2",
+      "type": "ENTITY",
+      "start": 2976,
+      "end": 2984
+    },
+    {
+      "text": "Micro A3",
+      "type": "ENTITY",
+      "start": 3001,
+      "end": 3009
+    },
+    {
+      "text": "Micro A4-A6",
+      "type": "ENTITY",
+      "start": 3026,
+      "end": 3037
+    },
+    {
+      "text": "Renal mass",
+      "type": "ENTITY",
+      "start": 3039,
+      "end": 3049
+    },
+    {
+      "text": "posterior",
+      "type": "ENTITY",
+      "start": 3053,
+      "end": 3062
+    },
+    {
+      "text": "deepest",
+      "type": "ENTITY",
+      "start": 3081,
+      "end": 3088
+    },
+    {
+      "text": "extension",
+      "type": "ENTITY",
+      "start": 3089,
+      "end": 3098
+    },
+    {
+      "text": "Erags",
+      "type": "ENTITY",
+      "start": 3102,
+      "end": 3107
+    },
+    {
+      "text": "Posterior renal mass",
+      "type": "ENTITY",
+      "start": 3119,
+      "end": 3139
+    },
+    {
+      "text": "relationship",
+      "type": "ENTITY",
+      "start": 3143,
+      "end": 3155
+    },
+    {
+      "text": "pelvis",
+      "type": "ENTITY",
+      "start": 3159,
+      "end": 3165
+    },
+    {
+      "text": "frag",
+      "type": "ENTITY",
+      "start": 3169,
+      "end": 3173
+    },
+    {
+      "text": "Micro A8:yRentaI>mass",
+      "type": "ENTITY",
+      "start": 3175,
+      "end": 3196
+    },
+    {
+      "text": "relationship",
+      "type": "ENTITY",
+      "start": 3200,
+      "end": 3212
+    },
+    {
+      "text": "adjacent",
+      "type": "ENTITY",
+      "start": 3216,
+      "end": 3224
+    },
+    {
+      "text": "renal parenchyma",
+      "type": "ENTITY",
+      "start": 3225,
+      "end": 3241
+    },
+    {
+      "text": "Z...ma licro AA Anterior",
+      "type": "ENTITY",
+      "start": 3256,
+      "end": 3280
+    },
+    {
+      "text": "extension",
+      "type": "ENTITY",
+      "start": 3308,
+      "end": 3317
+    },
+    {
+      "text": "icro",
+      "type": "ENTITY",
+      "start": 3338,
+      "end": 3342
+    },
+    {
+      "text": "Corticomedullary junction",
+      "type": "ENTITY",
+      "start": 3343,
+      "end": 3368
+    },
+    {
+      "text": "frag",
+      "type": "ENTITY",
+      "start": 3372,
+      "end": 3376
+    },
+    {
+      "text": "Al licro(A12)  Remainder upper pole mass",
+      "type": "ENTITY",
+      "start": 3378,
+      "end": 3418
+    },
+    {
+      "text": "frag",
+      "type": "ENTITY",
+      "start": 3422,
+      "end": 3426
+    },
+    {
+      "text": "Micro A13",
+      "type": "ENTITY",
+      "start": 3428,
+      "end": 3437
+    },
+    {
+      "text": "small nodular area",
+      "type": "ENTITY",
+      "start": 3450,
+      "end": 3468
+    },
+    {
+      "text": "frag",
+      "type": "ENTITY",
+      "start": 3482,
+      "end": 3486
+    },
+    {
+      "text": "signature",
+      "type": "ENTITY",
+      "start": 3499,
+      "end": 3508
+    },
+    {
+      "text": "senior physician",
+      "type": "ENTITY",
+      "start": 3520,
+      "end": 3536
+    },
+    {
+      "text": "certifies",
+      "type": "ENTITY",
+      "start": 3537,
+      "end": 3546
+    },
+    {
+      "text": "microscopic examination",
+      "type": "ENTITY",
+      "start": 3582,
+      "end": 3605
+    },
+    {
+      "text": "gross",
+      "type": "ENTITY",
+      "start": 3608,
+      "end": 3613
+    },
+    {
+      "text": "exam",
+      "type": "ENTITY",
+      "start": 3620,
+      "end": 3624
+    },
+    {
+      "text": "E",
+      "type": "ENTITY",
+      "start": 3628,
+      "end": 3629
+    },
+    {
+      "text": "specimen(s)",
+      "type": "ENTITY",
+      "start": 3658,
+      "end": 3669
+    },
+    {
+      "text": "diagnosis(es",
+      "type": "ENTITY",
+      "start": 3700,
+      "end": 3712
+    },
+    {
+      "text": "RENAL",
+      "type": "ENTITY",
+      "start": 3732,
+      "end": 3737
+    },
+    {
+      "text": "THE KIDNEY PARENCHYMA",
+      "type": "ENTITY",
+      "start": 3762,
+      "end": 3783
+    },
+    {
+      "text": "LEFT",
+      "type": "ENTITY",
+      "start": 3785,
+      "end": 3789
+    },
+    {
+      "text": "NEPHRECTOMY",
+      "type": "ENTITY",
+      "start": 3798,
+      "end": 3809
+    },
+    {
+      "text": "COMPLEX MEDIATED",
+      "type": "ENTITY",
+      "start": 3819,
+      "end": 3835
+    },
+    {
+      "text": "SUBEPITHELIAL",
+      "type": "ENTITY",
+      "start": 3875,
+      "end": 3888
+    },
+    {
+      "text": "INTRAMEMBRANOUS",
+      "type": "ENTITY",
+      "start": 3893,
+      "end": 3908
+    },
+    {
+      "text": "DEPOSITS",
+      "type": "ENTITY",
+      "start": 3909,
+      "end": 3917
+    },
+    {
+      "text": "MEMBRANOUS PATTERN",
+      "type": "ENTITY",
+      "start": 3940,
+      "end": 3958
+    },
+    {
+      "text": "GLOMERULAR INJURY",
+      "type": "ENTITY",
+      "start": 3962,
+      "end": 3979
+    },
+    {
+      "text": "FOCAL GLOBAL GLOMERULOSCLEROSIS",
+      "type": "ENTITY",
+      "start": 4042,
+      "end": 4073
+    },
+    {
+      "text": "GLOMERULI",
+      "type": "ENTITY",
+      "start": 4083,
+      "end": 4092
+    },
+    {
+      "text": "MILD",
+      "type": "ENTITY",
+      "start": 4097,
+      "end": 4101
+    },
+    {
+      "text": "TUBULAR ATROPHY",
+      "type": "ENTITY",
+      "start": 4102,
+      "end": 4117
+    },
+    {
+      "text": "INTERSTITIAL FIBROSIS",
+      "type": "ENTITY",
+      "start": 4122,
+      "end": 4143
+    },
+    {
+      "text": "IO% OF THE) PARENCHYMA",
+      "type": "ENTITY",
+      "start": 4145,
+      "end": 4167
+    },
+    {
+      "text": "ARTERIAL",
+      "type": "ENTITY",
+      "start": 4172,
+      "end": 4180
+    },
+    {
+      "text": "ARTERIOLAR SCLEROSIS",
+      "type": "ENTITY",
+      "start": 4185,
+      "end": 4205
+    },
+    {
+      "text": "MODERATE",
+      "type": "ENTITY",
+      "start": 4207,
+      "end": 4215
+    },
+    {
+      "text": "SEE",
+      "type": "ENTITY",
+      "start": 4217,
+      "end": 4220
+    },
+    {
+      "text": "NOTE",
+      "type": "ENTITY",
+      "start": 4228,
+      "end": 4232
+    },
+    {
+      "text": "immunofluorescence",
+      "type": "ENTITY",
+      "start": 4239,
+      "end": 4257
+    },
+    {
+      "text": "electron microscopic",
+      "type": "ENTITY",
+      "start": 4262,
+      "end": 4282
+    },
+    {
+      "text": "evaluation",
+      "type": "ENTITY",
+      "start": 4283,
+      "end": 4293
+    },
+    {
+      "text": "tissue",
+      "type": "ENTITY",
+      "start": 4301,
+      "end": 4307
+    },
+    {
+      "text": "immune complex",
+      "type": "ENTITY",
+      "start": 4320,
+      "end": 4334
+    },
+    {
+      "text": "glomerulonephritis",
+      "type": "ENTITY",
+      "start": 4344,
+      "end": 4362
+    },
+    {
+      "text": "Electron microscopic",
+      "type": "ENTITY",
+      "start": 4364,
+      "end": 4384
+    },
+    {
+      "text": "evaluation",
+      "type": "ENTITY",
+      "start": 4385,
+      "end": 4395
+    },
+    {
+      "text": "deposits",
+      "type": "ENTITY",
+      "start": 4427,
+      "end": 4435
+    },
+    {
+      "text": "subepithelial",
+      "type": "ENTITY",
+      "start": 4440,
+      "end": 4453
+    },
+    {
+      "text": "intramembranous",
+      "type": "ENTITY",
+      "start": 4458,
+      "end": 4473
+    },
+    {
+      "text": "location",
+      "type": "ENTITY",
+      "start": 4477,
+      "end": 4485
+    },
+    {
+      "text": "pattern",
+      "type": "ENTITY",
+      "start": 4492,
+      "end": 4499
+    },
+    {
+      "text": "injury",
+      "type": "ENTITY",
+      "start": 4503,
+      "end": 4509
+    },
+    {
+      "text": "membranous nephropathy",
+      "type": "ENTITY",
+      "start": 4521,
+      "end": 4543
+    },
+    {
+      "text": "systemic autoimmune disease",
+      "type": "ENTITY",
+      "start": 4583,
+      "end": 4610
+    },
+    {
+      "text": "SLE",
+      "type": "ENTITY",
+      "start": 4612,
+      "end": 4615
+    },
+    {
+      "text": "remote",
+      "type": "ENTITY",
+      "start": 4622,
+      "end": 4628
+    },
+    {
+      "text": "post-infectious glomerulonephritis",
+      "type": "ENTITY",
+      "start": 4629,
+      "end": 4663
+    },
+    {
+      "text": "absolute",
+      "type": "ENTITY",
+      "start": 4690,
+      "end": 4698
+    },
+    {
+      "text": "certainty",
+      "type": "ENTITY",
+      "start": 4699,
+      "end": 4708
+    },
+    {
+      "text": "evaluation",
+      "type": "ENTITY",
+      "start": 4777,
+      "end": 4787
+    },
+    {
+      "text": "interpretation",
+      "type": "ENTITY",
+      "start": 4792,
+      "end": 4806
+    },
+    {
+      "text": "material",
+      "type": "ENTITY",
+      "start": 4815,
+      "end": 4823
+    },
+    {
+      "text": "formalin-fixed",
+      "type": "ENTITY",
+      "start": 4838,
+      "end": 4852
+    },
+    {
+      "text": "paraffin-embedded tissue",
+      "type": "ENTITY",
+      "start": 4854,
+      "end": 4878
+    },
+    {
+      "text": "block Al1",
+      "type": "ENTITY",
+      "start": 4880,
+      "end": 4889
+    },
+    {
+      "text": "Sections",
+      "type": "ENTITY",
+      "start": 4906,
+      "end": 4914
+    },
+    {
+      "text": "HE",
+      "type": "ENTITY",
+      "start": 4924,
+      "end": 4926
+    },
+    {
+      "text": "PAs",
+      "type": "ENTITY",
+      "start": 4928,
+      "end": 4931
+    },
+    {
+      "text": "Jones silver methenamine",
+      "type": "ENTITY",
+      "start": 4933,
+      "end": 4957
+    },
+    {
+      "text": "AFog",
+      "type": "ENTITY",
+      "start": 4963,
+      "end": 4967
+    },
+    {
+      "text": "stains",
+      "type": "ENTITY",
+      "start": 4980,
+      "end": 4986
+    },
+    {
+      "text": "HE-stained'frozen section",
+      "type": "ENTITY",
+      "start": 4991,
+      "end": 5016
+    },
+    {
+      "text": "semithin",
+      "type": "ENTITY",
+      "start": 5021,
+      "end": 5029
+    },
+    {
+      "text": "light microscopy",
+      "type": "ENTITY",
+      "start": 5044,
+      "end": 5060
+    },
+    {
+      "text": "sample",
+      "type": "ENTITY",
+      "start": 5066,
+      "end": 5072
+    },
+    {
+      "text": "renal cortex",
+      "type": "ENTITY",
+      "start": 5085,
+      "end": 5097
+    },
+    {
+      "text": "medulla",
+      "type": "ENTITY",
+      "start": 5102,
+      "end": 5109
+    },
+    {
+      "text": "glomeruli",
+      "type": "ENTITY",
+      "start": 5132,
+      "end": 5141
+    },
+    {
+      "text": "sample",
+      "type": "ENTITY",
+      "start": 5157,
+      "end": 5163
+    },
+    {
+      "text": "glomeruli",
+      "type": "ENTITY",
+      "start": 5182,
+      "end": 5191
+    },
+    {
+      "text": "sclerosed",
+      "type": "ENTITY",
+      "start": 5218,
+      "end": 5227
+    },
+    {
+      "text": "glomeruli",
+      "type": "ENTITY",
+      "start": 5245,
+      "end": 5254
+    },
+    {
+      "text": "mild",
+      "type": "ENTITY",
+      "start": 5262,
+      "end": 5266
+    },
+    {
+      "text": "increase",
+      "type": "ENTITY",
+      "start": 5267,
+      "end": 5275
+    },
+    {
+      "text": "mesangial matrix",
+      "type": "ENTITY",
+      "start": 5279,
+      "end": 5295
+    },
+    {
+      "text": "PAs stain",
+      "type": "ENTITY",
+      "start": 5311,
+      "end": 5320
+    },
+    {
+      "text": "peripheral capillary walls",
+      "type": "ENTITY",
+      "start": 5326,
+      "end": 5352
+    },
+    {
+      "text": "basement membranes",
+      "type": "ENTITY",
+      "start": 5366,
+      "end": 5384
+    },
+    {
+      "text": "projections",
+      "type": "ENTITY",
+      "start": 5409,
+      "end": 5420
+    },
+    {
+      "text": "changes",
+      "type": "ENTITY",
+      "start": 5447,
+      "end": 5454
+    },
+    {
+      "text": "Jones' silver methenamine stain",
+      "type": "ENTITY",
+      "start": 5479,
+      "end": 5510
+    },
+    {
+      "text": "Tubules",
+      "type": "ENTITY",
+      "start": 5512,
+      "end": 5519
+    },
+    {
+      "text": "normal",
+      "type": "ENTITY",
+      "start": 5525,
+      "end": 5531
+    },
+    {
+      "text": "cellular details",
+      "type": "ENTITY",
+      "start": 5533,
+      "end": 5549
+    },
+    {
+      "text": "distal",
+      "type": "ENTITY",
+      "start": 5551,
+      "end": 5557
+    },
+    {
+      "text": "tubules",
+      "type": "ENTITY",
+      "start": 5558,
+      "end": 5565
+    },
+    {
+      "text": "interstitial fibrosis",
+      "type": "ENTITY",
+      "start": 5610,
+      "end": 5631
+    },
+    {
+      "text": "interstitial~inflammation",
+      "type": "ENTITY",
+      "start": 5645,
+      "end": 5670
+    },
+    {
+      "text": "sample",
+      "type": "ENTITY",
+      "start": 5693,
+      "end": 5699
+    },
+    {
+      "text": "tissue",
+      "type": "ENTITY",
+      "start": 5737,
+      "end": 5743
+    },
+    {
+      "text": "biopsy",
+      "type": "ENTITY",
+      "start": 5761,
+      "end": 5767
+    },
+    {
+      "text": "tubular atrophy",
+      "type": "ENTITY",
+      "start": 5774,
+      "end": 5789
+    },
+    {
+      "text": "interstitial fibrosis",
+      "type": "ENTITY",
+      "start": 5794,
+      "end": 5815
+    },
+    {
+      "text": "AFOG",
+      "type": "ENTITY",
+      "start": 5818,
+      "end": 5822
+    },
+    {
+      "text": "moderate sclerosis",
+      "type": "ENTITY",
+      "start": 5840,
+      "end": 5858
+    },
+    {
+      "text": "media",
+      "type": "ENTITY",
+      "start": 5866,
+      "end": 5871
+    },
+    {
+      "text": "focal replacement",
+      "type": "ENTITY",
+      "start": 5878,
+      "end": 5895
+    },
+    {
+      "text": "smooth muscle cells",
+      "type": "ENTITY",
+      "start": 5899,
+      "end": 5918
+    },
+    {
+      "text": "connective tissue",
+      "type": "ENTITY",
+      "start": 5922,
+      "end": 5939
+    },
+    {
+      "text": "Arterioles",
+      "type": "ENTITY",
+      "start": 5941,
+      "end": 5951
+    },
+    {
+      "text": "moderate",
+      "type": "ENTITY",
+      "start": 5959,
+      "end": 5967
+    },
+    {
+      "text": "subintimal",
+      "type": "ENTITY",
+      "start": 5969,
+      "end": 5979
+    },
+    {
+      "text": "accumulation",
+      "type": "ENTITY",
+      "start": 5988,
+      "end": 6000
+    },
+    {
+      "text": "blue-stained sections",
+      "type": "ENTITY",
+      "start": 6011,
+      "end": 6032
+    },
+    {
+      "text": "light microscopy",
+      "type": "ENTITY",
+      "start": 6057,
+      "end": 6073
+    },
+    {
+      "text": "Sections",
+      "type": "ENTITY",
+      "start": 6112,
+      "end": 6120
+    },
+    {
+      "text": "frozen tissue",
+      "type": "ENTITY",
+      "start": 6124,
+      "end": 6137
+    },
+    {
+      "text": "incubated",
+      "type": "ENTITY",
+      "start": 6143,
+      "end": 6152
+    },
+    {
+      "text": "antibodies",
+      "type": "ENTITY",
+      "start": 6158,
+      "end": 6168
+    },
+    {
+      "text": "heavy",
+      "type": "ENTITY",
+      "start": 6186,
+      "end": 6191
+    },
+    {
+      "text": "IgG",
+      "type": "ENTITY",
+      "start": 6203,
+      "end": 6206
+    },
+    {
+      "text": "IgA",
+      "type": "ENTITY",
+      "start": 6208,
+      "end": 6211
+    },
+    {
+      "text": "Igm",
+      "type": "ENTITY",
+      "start": 6217,
+      "end": 6220
+    },
+    {
+      "text": "kappa",
+      "type": "ENTITY",
+      "start": 6222,
+      "end": 6227
+    },
+    {
+      "text": "lambda light chains",
+      "type": "ENTITY",
+      "start": 6232,
+      "end": 6251
+    },
+    {
+      "text": "c3",
+      "type": "ENTITY",
+      "start": 6253,
+      "end": 6255
+    },
+    {
+      "text": "C1q",
+      "type": "ENTITY",
+      "start": 6257,
+      "end": 6260
+    },
+    {
+      "text": "albumin",
+      "type": "ENTITY",
+      "start": 6262,
+      "end": 6269
+    },
+    {
+      "text": "fibrin-related antigens",
+      "type": "ENTITY",
+      "start": 6291,
+      "end": 6314
+    },
+    {
+      "text": "sample",
+      "type": "ENTITY",
+      "start": 6320,
+      "end": 6326
+    },
+    {
+      "text": "kidney cortex",
+      "type": "ENTITY",
+      "start": 6339,
+      "end": 6352
+    },
+    {
+      "text": "medulla",
+      "type": "ENTITY",
+      "start": 6358,
+      "end": 6365
+    },
+    {
+      "text": "granuiar deposition",
+      "type": "ENTITY",
+      "start": 6387,
+      "end": 6406
+    },
+    {
+      "text": "IgM",
+      "type": "ENTITY",
+      "start": 6410,
+      "end": 6413
+    },
+    {
+      "text": "trace",
+      "type": "ENTITY",
+      "start": 6415,
+      "end": 6420
+    },
+    {
+      "text": "Igc",
+      "type": "ENTITY",
+      "start": 6423,
+      "end": 6426
+    },
+    {
+      "text": "fibrinogen",
+      "type": "ENTITY",
+      "start": 6438,
+      "end": 6448
+    },
+    {
+      "text": "mesangial",
+      "type": "ENTITY",
+      "start": 6463,
+      "end": 6472
+    },
+    {
+      "text": "peripheral capillary walls",
+      "type": "ENTITY",
+      "start": 6493,
+      "end": 6519
+    },
+    {
+      "text": "albumin",
+      "type": "ENTITY",
+      "start": 6564,
+      "end": 6571
+    },
+    {
+      "text": "basement membranes",
+      "type": "ENTITY",
+      "start": 6589,
+      "end": 6607
+    },
+    {
+      "text": "Tubules",
+      "type": "ENTITY",
+      "start": 6610,
+      "end": 6617
+    },
+    {
+      "text": "reabsorbed proteins",
+      "type": "ENTITY",
+      "start": 6626,
+      "end": 6645
+    },
+    {
+      "text": "albumin",
+      "type": "ENTITY",
+      "start": 6647,
+      "end": 6654
+    },
+    {
+      "text": "IgG",
+      "type": "ENTITY",
+      "start": 6656,
+      "end": 6659
+    },
+    {
+      "text": "c3",
+      "type": "ENTITY",
+      "start": 6661,
+      "end": 6663
+    },
+    {
+      "text": "cytoplasmic granules",
+      "type": "ENTITY",
+      "start": 6680,
+      "end": 6700
+    },
+    {
+      "text": "Tubular basement membranes",
+      "type": "ENTITY",
+      "start": 6702,
+      "end": 6728
+    },
+    {
+      "text": "focal deposition",
+      "type": "ENTITY",
+      "start": 6736,
+      "end": 6752
+    },
+    {
+      "text": "c3 (trace",
+      "type": "ENTITY",
+      "start": 6756,
+      "end": 6765
+    },
+    {
+      "text": "casts",
+      "type": "ENTITY",
+      "start": 6772,
+      "end": 6777
+    },
+    {
+      "text": "distal tubules",
+      "type": "ENTITY",
+      "start": 6781,
+      "end": 6795
+    },
+    {
+      "text": "reactive",
+      "type": "ENTITY",
+      "start": 6800,
+      "end": 6808
+    },
+    {
+      "text": "polyclonal IgA.",
+      "type": "ENTITY",
+      "start": 6813,
+      "end": 6828
+    },
+    {
+      "text": "interstitium",
+      "type": "ENTITY",
+      "start": 6833,
+      "end": 6845
+    },
+    {
+      "text": "fibrin deposits",
+      "type": "ENTITY",
+      "start": 6864,
+      "end": 6879
+    },
+    {
+      "text": "no difference",
+      "type": "ENTITY",
+      "start": 6890,
+      "end": 6903
+    },
+    {
+      "text": "intensity",
+      "type": "ENTITY",
+      "start": 6917,
+      "end": 6926
+    },
+    {
+      "text": "staining",
+      "type": "ENTITY",
+      "start": 6934,
+      "end": 6942
+    },
+    {
+      "text": "kappa",
+      "type": "ENTITY",
+      "start": 6947,
+      "end": 6952
+    },
+    {
+      "text": "lambda light chains",
+      "type": "ENTITY",
+      "start": 6957,
+      "end": 6976
+    },
+    {
+      "text": "casts",
+      "type": "ENTITY",
+      "start": 6984,
+      "end": 6989
+    },
+    {
+      "text": "deposits",
+      "type": "ENTITY",
+      "start": 6998,
+      "end": 7006
+    },
+    {
+      "text": "tissue",
+      "type": "ENTITY",
+      "start": 7036,
+      "end": 7042
+    },
+    {
+      "text": "Blocks",
+      "type": "ENTITY",
+      "start": 7081,
+      "end": 7087
+    },
+    {
+      "text": "examined",
+      "type": "ENTITY",
+      "start": 7088,
+      "end": 7096
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 7098,
+      "end": 7106
+    },
+    {
+      "text": "thin",
+      "type": "ENTITY",
+      "start": 7110,
+      "end": 7114
+    },
+    {
+      "text": "section",
+      "type": "ENTITY",
+      "start": 7115,
+      "end": 7122
+    },
+    {
+      "text": "tissue",
+      "type": "ENTITY",
+      "start": 7128,
+      "end": 7134
+    },
+    {
+      "text": "examined",
+      "type": "ENTITY",
+      "start": 7135,
+      "end": 7143
+    },
+    {
+      "text": "ultrastructural",
+      "type": "ENTITY",
+      "start": 7151,
+      "end": 7166
+    },
+    {
+      "text": "level",
+      "type": "ENTITY",
+      "start": 7167,
+      "end": 7172
+    },
+    {
+      "text": "glomeruli",
+      "type": "ENTITY",
+      "start": 7191,
+      "end": 7200
+    },
+    {
+      "text": "glomerular capillary walls",
+      "type": "ENTITY",
+      "start": 7206,
+      "end": 7232
+    },
+    {
+      "text": "distorted",
+      "type": "ENTITY",
+      "start": 7245,
+      "end": 7254
+    },
+    {
+      "text": "presence",
+      "type": "ENTITY",
+      "start": 7262,
+      "end": 7270
+    },
+    {
+      "text": "thickening",
+      "type": "ENTITY",
+      "start": 7275,
+      "end": 7285
+    },
+    {
+      "text": "basement membranes",
+      "type": "ENTITY",
+      "start": 7293,
+      "end": 7311
+    },
+    {
+      "text": "deposits",
+      "type": "ENTITY",
+      "start": 7324,
+      "end": 7332
+    },
+    {
+      "text": "surrounded",
+      "type": "ENTITY",
+      "start": 7343,
+      "end": 7353
+    },
+    {
+      "text": "basement membrane material",
+      "type": "ENTITY",
+      "start": 7357,
+      "end": 7383
+    },
+    {
+      "text": "\"spikes\"",
+      "type": "ENTITY",
+      "start": 7388,
+      "end": 7396
+    },
+    {
+      "text": "electron dense deposits",
+      "type": "ENTITY",
+      "start": 7403,
+      "end": 7426
+    },
+    {
+      "text": "granular",
+      "type": "ENTITY",
+      "start": 7438,
+      "end": 7446
+    },
+    {
+      "text": "organized",
+      "type": "ENTITY",
+      "start": 7468,
+      "end": 7477
+    },
+    {
+      "text": "substructures",
+      "type": "ENTITY",
+      "start": 7478,
+      "end": 7491
+    },
+    {
+      "text": "microvillous degeneration",
+      "type": "ENTITY",
+      "start": 7514,
+      "end": 7539
+    },
+    {
+      "text": "epithelial cell membrane",
+      "type": "ENTITY",
+      "start": 7547,
+      "end": 7571
+    },
+    {
+      "text": "epithelial cells",
+      "type": "ENTITY",
+      "start": 7581,
+      "end": 7597
+    },
+    {
+      "text": "vacuoles",
+      "type": "ENTITY",
+      "start": 7618,
+      "end": 7626
+    },
+    {
+      "text": "increased",
+      "type": "ENTITY",
+      "start": 7631,
+      "end": 7640
+    },
+    {
+      "text": "lysosomes",
+      "type": "ENTITY",
+      "start": 7652,
+      "end": 7661
+    },
+    {
+      "text": "Glomerular endothelial cells",
+      "type": "ENTITY",
+      "start": 7663,
+      "end": 7691
+    },
+    {
+      "text": "unremarkable",
+      "type": "ENTITY",
+      "start": 7699,
+      "end": 7711
+    },
+    {
+      "text": "tubuloreticular structures",
+      "type": "ENTITY",
+      "start": 7731,
+      "end": 7757
+    },
+    {
+      "text": "Subendotheliai",
+      "type": "ENTITY",
+      "start": 7759,
+      "end": 7773
+    },
+    {
+      "text": "mesangium",
+      "type": "ENTITY",
+      "start": 7816,
+      "end": 7825
+    },
+    {
+      "text": "normal cell elements",
+      "type": "ENTITY",
+      "start": 7832,
+      "end": 7852
+    },
+    {
+      "text": "extracellular matrix",
+      "type": "ENTITY",
+      "start": 7860,
+      "end": 7880
+    },
+    {
+      "text": "irregular electron dense",
+      "type": "ENTITY",
+      "start": 7890,
+      "end": 7914
+    },
+    {
+      "text": "Final Type",
+      "type": "ENTITY",
+      "start": 7974,
+      "end": 7984
+    },
+    {
+      "text": "Cytogenetics",
+      "type": "ENTITY",
+      "start": 7986,
+      "end": 7998
+    },
+    {
+      "text": "SS",
+      "type": "ENTITY",
+      "start": 8015,
+      "end": 8017
+    },
+    {
+      "text": "Cytogeneticist",
+      "type": "ENTITY",
+      "start": 8018,
+      "end": 8032
+    },
+    {
+      "text": "T1",
+      "type": "ENTITY",
+      "start": 8046,
+      "end": 8048
+    },
+    {
+      "text": "45,XY,-8[10]",
+      "type": "ENTITY",
+      "start": 8050,
+      "end": 8062
+    },
+    {
+      "text": "45,XY,-8[10]",
+      "type": "ENTITY",
+      "start": 8067,
+      "end": 8079
+    },
+    {
+      "text": "METAPHASES",
+      "type": "ENTITY",
+      "start": 8080,
+      "end": 8090
+    },
+    {
+      "text": "COUNTED:20",
+      "type": "ENTITY",
+      "start": 8091,
+      "end": 8101
+    },
+    {
+      "text": "ANALYZED",
+      "type": "ENTITY",
+      "start": 8102,
+      "end": 8110
+    },
+    {
+      "text": "SCORED",
+      "type": "ENTITY",
+      "start": 8115,
+      "end": 8121
+    },
+    {
+      "text": "BANDING",
+      "type": "ENTITY",
+      "start": 8126,
+      "end": 8133
+    },
+    {
+      "text": "GTG INTERPRETATION",
+      "type": "ENTITY",
+      "start": 8135,
+      "end": 8153
+    },
+    {
+      "text": "specimens",
+      "type": "ENTITY",
+      "start": 8170,
+      "end": 8179
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 8204,
+      "end": 8209
+    },
+    {
+      "text": "chromosome abnormality",
+      "type": "ENTITY",
+      "start": 8249,
+      "end": 8271
+    },
+    {
+      "text": "specimens",
+      "type": "ENTITY",
+      "start": 8290,
+      "end": 8299
+    },
+    {
+      "text": "aberration",
+      "type": "ENTITY",
+      "start": 8306,
+      "end": 8316
+    },
+    {
+      "text": "COMMENTS",
+      "type": "ENTITY",
+      "start": 8384,
+      "end": 8392
+    },
+    {
+      "text": "Mosaicism",
+      "type": "ENTITY",
+      "start": 8395,
+      "end": 8404
+    },
+    {
+      "text": "detectable",
+      "type": "ENTITY",
+      "start": 8447,
+      "end": 8457
+    },
+    {
+      "text": "standard methods",
+      "type": "ENTITY",
+      "start": 8468,
+      "end": 8484
+    },
+    {
+      "text": "Chromosome analysis",
+      "type": "ENTITY",
+      "start": 8495,
+      "end": 8514
+    },
+    {
+      "text": "level",
+      "type": "ENTITY",
+      "start": 8534,
+      "end": 8539
+    },
+    {
+      "text": "TEST",
+      "type": "ENTITY",
+      "start": 8580,
+      "end": 8584
+    },
+    {
+      "text": "RCC",
+      "type": "ENTITY",
+      "start": 8588,
+      "end": 8591
+    }
+  ],
+  "entity_count": 369,
+  "has_embedding": true
+}

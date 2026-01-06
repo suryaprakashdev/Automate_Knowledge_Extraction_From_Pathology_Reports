@@ -1,0 +1,524 @@
+{
+  "filename": "cce7d5bd-1817-47a4-a603-3d22977b997f",
+  "timestamp": "2026-01-05T14:44:33.122012",
+  "entities": [
+    {
+      "text": "Redacted Pathology",
+      "type": "ENTITY",
+      "start": 74,
+      "end": 92
+    },
+    {
+      "text": "Patient",
+      "type": "ENTITY",
+      "start": 96,
+      "end": 103
+    },
+    {
+      "text": "Age",
+      "type": "ENTITY",
+      "start": 123,
+      "end": 126
+    },
+    {
+      "text": "Sex",
+      "type": "ENTITY",
+      "start": 147,
+      "end": 150
+    },
+    {
+      "text": "Report",
+      "type": "ENTITY",
+      "start": 198,
+      "end": 204
+    },
+    {
+      "text": "Pathology Report",
+      "type": "ENTITY",
+      "start": 214,
+      "end": 230
+    },
+    {
+      "text": "ICD-o-3",
+      "type": "ENTITY",
+      "start": 231,
+      "end": 238
+    },
+    {
+      "text": "Acnomo",
+      "type": "ENTITY",
+      "start": 239,
+      "end": 245
+    },
+    {
+      "text": "p0ayoiSlauy",
+      "type": "ENTITY",
+      "start": 247,
+      "end": 258
+    },
+    {
+      "text": "e0J U",
+      "type": "ENTITY",
+      "start": 265,
+      "end": 270
+    },
+    {
+      "text": "Left partial nephrectomy",
+      "type": "ENTITY",
+      "start": 307,
+      "end": 331
+    },
+    {
+      "text": "Histologic type",
+      "type": "ENTITY",
+      "start": 338,
+      "end": 353
+    },
+    {
+      "text": "Histologic grade",
+      "type": "ENTITY",
+      "start": 387,
+      "end": 403
+    },
+    {
+      "text": "Fuhrman nuclear grade",
+      "type": "ENTITY",
+      "start": 405,
+      "end": 426
+    },
+    {
+      "text": "Focality",
+      "type": "ENTITY",
+      "start": 437,
+      "end": 445
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 464,
+      "end": 472
+    },
+    {
+      "text": "Tumor size",
+      "type": "ENTITY",
+      "start": 473,
+      "end": 483
+    },
+    {
+      "text": "dimension",
+      "type": "ENTITY",
+      "start": 494,
+      "end": 503
+    },
+    {
+      "text": "Extent",
+      "type": "ENTITY",
+      "start": 511,
+      "end": 517
+    },
+    {
+      "text": "extension",
+      "type": "ENTITY",
+      "start": 556,
+      "end": 565
+    },
+    {
+      "text": "kidney",
+      "type": "ENTITY",
+      "start": 573,
+      "end": 579
+    },
+    {
+      "text": "Sarcomatoid component",
+      "type": "ENTITY",
+      "start": 581,
+      "end": 602
+    },
+    {
+      "text": "Absent Lymphovascular invasion",
+      "type": "ENTITY",
+      "start": 604,
+      "end": 634
+    },
+    {
+      "text": "Absent Renal vein",
+      "type": "ENTITY",
+      "start": 659,
+      "end": 676
+    },
+    {
+      "text": "involvement",
+      "type": "ENTITY",
+      "start": 677,
+      "end": 688
+    },
+    {
+      "text": "Indeterminate",
+      "type": "ENTITY",
+      "start": 690,
+      "end": 703
+    },
+    {
+      "text": "assessed",
+      "type": "ENTITY",
+      "start": 715,
+      "end": 723
+    },
+    {
+      "text": "Pathologic findings",
+      "type": "ENTITY",
+      "start": 725,
+      "end": 744
+    },
+    {
+      "text": "non-neoplastic kidney",
+      "type": "ENTITY",
+      "start": 748,
+      "end": 769
+    },
+    {
+      "text": "pathologic",
+      "type": "ENTITY",
+      "start": 797,
+      "end": 807
+    },
+    {
+      "text": "Adrenal",
+      "type": "ENTITY",
+      "start": 817,
+      "end": 824
+    },
+    {
+      "text": "margins negative",
+      "type": "ENTITY",
+      "start": 850,
+      "end": 866
+    },
+    {
+      "text": "carcinoma",
+      "type": "ENTITY",
+      "start": 871,
+      "end": 880
+    },
+    {
+      "text": "NODES",
+      "type": "ENTITY",
+      "start": 887,
+      "end": 892
+    },
+    {
+      "text": "assessed",
+      "type": "ENTITY",
+      "start": 903,
+      "end": 911
+    },
+    {
+      "text": "AJCC",
+      "type": "ENTITY",
+      "start": 921,
+      "end": 925
+    },
+    {
+      "text": "pT1b Lymph Nodes",
+      "type": "ENTITY",
+      "start": 942,
+      "end": 958
+    },
+    {
+      "text": "pNX",
+      "type": "ENTITY",
+      "start": 960,
+      "end": 963
+    },
+    {
+      "text": "Distant Metastasis",
+      "type": "ENTITY",
+      "start": 964,
+      "end": 982
+    },
+    {
+      "text": "Left kidney mass",
+      "type": "ENTITY",
+      "start": 1021,
+      "end": 1037
+    },
+    {
+      "text": "research specimen",
+      "type": "ENTITY",
+      "start": 1039,
+      "end": 1056
+    },
+    {
+      "text": "SPECIMEN(S",
+      "type": "ENTITY",
+      "start": 1057,
+      "end": 1067
+    },
+    {
+      "text": "Left kidney mass Pathology Report Page 1",
+      "type": "ENTITY",
+      "start": 1078,
+      "end": 1118
+    },
+    {
+      "text": "Patient",
+      "type": "ENTITY",
+      "start": 1140,
+      "end": 1147
+    },
+    {
+      "text": "MRN",
+      "type": "ENTITY",
+      "start": 1149,
+      "end": 1152
+    },
+    {
+      "text": "GROSS DESCRIPTION",
+      "type": "ENTITY",
+      "start": 1154,
+      "end": 1171
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 1182,
+      "end": 1187
+    },
+    {
+      "text": "soft",
+      "type": "ENTITY",
+      "start": 1221,
+      "end": 1225
+    },
+    {
+      "text": "nodular",
+      "type": "ENTITY",
+      "start": 1227,
+      "end": 1234
+    },
+    {
+      "text": "red-gray partial nephrectomy",
+      "type": "ENTITY",
+      "start": 1236,
+      "end": 1264
+    },
+    {
+      "text": "tags",
+      "type": "ENTITY",
+      "start": 1284,
+      "end": 1288
+    },
+    {
+      "text": "golden yellow",
+      "type": "ENTITY",
+      "start": 1292,
+      "end": 1305
+    },
+    {
+      "text": "irregular",
+      "type": "ENTITY",
+      "start": 1327,
+      "end": 1336
+    },
+    {
+      "text": "partially",
+      "type": "ENTITY",
+      "start": 1338,
+      "end": 1347
+    },
+    {
+      "text": "cauterized",
+      "type": "ENTITY",
+      "start": 1348,
+      "end": 1358
+    },
+    {
+      "text": "resectional margin",
+      "type": "ENTITY",
+      "start": 1370,
+      "end": 1388
+    },
+    {
+      "text": "inked",
+      "type": "ENTITY",
+      "start": 1392,
+      "end": 1397
+    },
+    {
+      "text": "Sectioning",
+      "type": "ENTITY",
+      "start": 1399,
+      "end": 1409
+    },
+    {
+      "text": "soft",
+      "type": "ENTITY",
+      "start": 1420,
+      "end": 1424
+    },
+    {
+      "text": "nodular",
+      "type": "ENTITY",
+      "start": 1426,
+      "end": 1433
+    },
+    {
+      "text": "friable",
+      "type": "ENTITY",
+      "start": 1435,
+      "end": 1442
+    },
+    {
+      "text": "dusky",
+      "type": "ENTITY",
+      "start": 1444,
+      "end": 1449
+    },
+    {
+      "text": "mottled yellow-gray",
+      "type": "ENTITY",
+      "start": 1451,
+      "end": 1470
+    },
+    {
+      "text": "red-gray",
+      "type": "ENTITY",
+      "start": 1474,
+      "end": 1482
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 1500,
+      "end": 1504
+    },
+    {
+      "text": "inked margin",
+      "type": "ENTITY",
+      "start": 1557,
+      "end": 1569
+    },
+    {
+      "text": "resection",
+      "type": "ENTITY",
+      "start": 1573,
+      "end": 1582
+    },
+    {
+      "text": "nodular mass",
+      "type": "ENTITY",
+      "start": 1588,
+      "end": 1600
+    },
+    {
+      "text": "invade",
+      "type": "ENTITY",
+      "start": 1628,
+      "end": 1634
+    },
+    {
+      "text": "renal capsule",
+      "type": "ENTITY",
+      "start": 1647,
+      "end": 1660
+    },
+    {
+      "text": "narrow rim",
+      "type": "ENTITY",
+      "start": 1673,
+      "end": 1683
+    },
+    {
+      "text": "rubbery",
+      "type": "ENTITY",
+      "start": 1687,
+      "end": 1694
+    },
+    {
+      "text": "red-gray renal parenchyma",
+      "type": "ENTITY",
+      "start": 1696,
+      "end": 1721
+    },
+    {
+      "text": "base",
+      "type": "ENTITY",
+      "start": 1737,
+      "end": 1741
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1749,
+      "end": 1757
+    },
+    {
+      "text": "Representative sections",
+      "type": "ENTITY",
+      "start": 1759,
+      "end": 1782
+    },
+    {
+      "text": "inked margin",
+      "type": "ENTITY",
+      "start": 1798,
+      "end": 1810
+    },
+    {
+      "text": "A1-A2",
+      "type": "ENTITY",
+      "start": 1828,
+      "end": 1833
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 1846,
+      "end": 1854
+    },
+    {
+      "text": "periphery",
+      "type": "ENTITY",
+      "start": 1870,
+      "end": 1879
+    },
+    {
+      "text": "A3",
+      "type": "ENTITY",
+      "start": 1897,
+      "end": 1899
+    },
+    {
+      "text": "Slides",
+      "type": "ENTITY",
+      "start": 1901,
+      "end": 1907
+    },
+    {
+      "text": "microscopically",
+      "type": "ENTITY",
+      "start": 1913,
+      "end": 1928
+    },
+    {
+      "text": "pathologist",
+      "type": "ENTITY",
+      "start": 1945,
+      "end": 1956
+    },
+    {
+      "text": "Evaluation",
+      "type": "ENTITY",
+      "start": 1958,
+      "end": 1968
+    },
+    {
+      "text": "Electronically signed Pathology Report Page 2",
+      "type": "ENTITY",
+      "start": 1982,
+      "end": 2027
+    }
+  ],
+  "entity_count": 86,
+  "has_embedding": true
+}

@@ -1,0 +1,2228 @@
+{
+  "filename": "0b40c583-d5b8-4a18-906e-eaf50176f9c1",
+  "timestamp": "2026-01-05T14:41:27.075541",
+  "entities": [
+    {
+      "text": "Accession",
+      "type": "ENTITY",
+      "start": 30,
+      "end": 39
+    },
+    {
+      "text": "DOB",
+      "type": "ENTITY",
+      "start": 75,
+      "end": 78
+    },
+    {
+      "text": "Dale of Receipt",
+      "type": "ENTITY",
+      "start": 80,
+      "end": 95
+    },
+    {
+      "text": "Gender",
+      "type": "ENTITY",
+      "start": 97,
+      "end": 103
+    },
+    {
+      "text": "Date",
+      "type": "ENTITY",
+      "start": 105,
+      "end": 109
+    },
+    {
+      "text": "Original Rep Date",
+      "type": "ENTITY",
+      "start": 113,
+      "end": 130
+    },
+    {
+      "text": "Anendment",
+      "type": "ENTITY",
+      "start": 134,
+      "end": 143
+    },
+    {
+      "text": "Ret",
+      "type": "ENTITY",
+      "start": 144,
+      "end": 147
+    },
+    {
+      "text": "Physician",
+      "type": "ENTITY",
+      "start": 149,
+      "end": 158
+    },
+    {
+      "text": "Patient",
+      "type": "ENTITY",
+      "start": 170,
+      "end": 177
+    },
+    {
+      "text": "Billing Type",
+      "type": "ENTITY",
+      "start": 187,
+      "end": 199
+    },
+    {
+      "text": "dditional",
+      "type": "ENTITY",
+      "start": 201,
+      "end": 210
+    },
+    {
+      "text": "Copy to",
+      "type": "ENTITY",
+      "start": 211,
+      "end": 218
+    },
+    {
+      "text": "Ret",
+      "type": "ENTITY",
+      "start": 219,
+      "end": 222
+    },
+    {
+      "text": "Daanosis & History",
+      "type": "ENTITY",
+      "start": 237,
+      "end": 255
+    },
+    {
+      "text": "abdominal mass",
+      "type": "ENTITY",
+      "start": 279,
+      "end": 293
+    },
+    {
+      "text": "Specimens",
+      "type": "ENTITY",
+      "start": 331,
+      "end": 340
+    },
+    {
+      "text": "Suhmitt",
+      "type": "ENTITY",
+      "start": 341,
+      "end": 348
+    },
+    {
+      "text": "SP",
+      "type": "ENTITY",
+      "start": 353,
+      "end": 355
+    },
+    {
+      "text": "l.eft kidney 2",
+      "type": "ENTITY",
+      "start": 357,
+      "end": 371
+    },
+    {
+      "text": "SP",
+      "type": "ENTITY",
+      "start": 373,
+      "end": 375
+    },
+    {
+      "text": "Loft tube",
+      "type": "ENTITY",
+      "start": 377,
+      "end": 386
+    },
+    {
+      "text": "SP",
+      "type": "ENTITY",
+      "start": 396,
+      "end": 398
+    },
+    {
+      "text": "Rt",
+      "type": "ENTITY",
+      "start": 400,
+      "end": 402
+    },
+    {
+      "text": "SP",
+      "type": "ENTITY",
+      "start": 419,
+      "end": 421
+    },
+    {
+      "text": "pleer",
+      "type": "ENTITY",
+      "start": 424,
+      "end": 429
+    },
+    {
+      "text": "LEFT",
+      "type": "ENTITY",
+      "start": 460,
+      "end": 464
+    },
+    {
+      "text": "NEPHRECTOMY",
+      "type": "ENTITY",
+      "start": 466,
+      "end": 477
+    },
+    {
+      "text": "RENAL",
+      "type": "ENTITY",
+      "start": 481,
+      "end": 486
+    },
+    {
+      "text": "PAPILLARY TYPE",
+      "type": "ENTITY",
+      "start": 503,
+      "end": 517
+    },
+    {
+      "text": "EXTENSIVE ONCOCYTIC",
+      "type": "ENTITY",
+      "start": 523,
+      "end": 542
+    },
+    {
+      "text": "TUMOR",
+      "type": "ENTITY",
+      "start": 581,
+      "end": 586
+    },
+    {
+      "text": "DIAMETER IS",
+      "type": "ENTITY",
+      "start": 596,
+      "end": 607
+    },
+    {
+      "text": "CM",
+      "type": "ENTITY",
+      "start": 613,
+      "end": 615
+    },
+    {
+      "text": "THE",
+      "type": "ENTITY",
+      "start": 619,
+      "end": 622
+    },
+    {
+      "text": "TUMOR EXTENDS",
+      "type": "ENTITY",
+      "start": 623,
+      "end": 636
+    },
+    {
+      "text": "IS",
+      "type": "ENTITY",
+      "start": 667,
+      "end": 669
+    },
+    {
+      "text": "GEROTA'S FASCIA",
+      "type": "ENTITY",
+      "start": 686,
+      "end": 701
+    },
+    {
+      "text": "ALL",
+      "type": "ENTITY",
+      "start": 704,
+      "end": 707
+    },
+    {
+      "text": "SURGICAL MARGINS",
+      "type": "ENTITY",
+      "start": 708,
+      "end": 724
+    },
+    {
+      "text": "TUMOR",
+      "type": "ENTITY",
+      "start": 737,
+      "end": 742
+    },
+    {
+      "text": "THE",
+      "type": "ENTITY",
+      "start": 746,
+      "end": 749
+    },
+    {
+      "text": "NON-NEOPLASTIC KIDNEY IS",
+      "type": "ENTITY",
+      "start": 750,
+      "end": 774
+    },
+    {
+      "text": "UNREMARKABLE",
+      "type": "ENTITY",
+      "start": 775,
+      "end": 787
+    },
+    {
+      "text": "ADRENAL GLAND",
+      "type": "ENTITY",
+      "start": 794,
+      "end": 807
+    },
+    {
+      "text": "IS",
+      "type": "ENTITY",
+      "start": 808,
+      "end": 810
+    },
+    {
+      "text": "UNREMARKABLE",
+      "type": "ENTITY",
+      "start": 811,
+      "end": 823
+    },
+    {
+      "text": "NOT",
+      "type": "ENTITY",
+      "start": 828,
+      "end": 831
+    },
+    {
+      "text": "FALLOPIAN TUBE",
+      "type": "ENTITY",
+      "start": 854,
+      "end": 868
+    },
+    {
+      "text": "OVARY",
+      "type": "ENTITY",
+      "start": 873,
+      "end": 878
+    },
+    {
+      "text": "LEFT",
+      "type": "ENTITY",
+      "start": 880,
+      "end": 884
+    },
+    {
+      "text": "RESECTION",
+      "type": "ENTITY",
+      "start": 886,
+      "end": 895
+    },
+    {
+      "text": "UNREMARKABLE",
+      "type": "ENTITY",
+      "start": 899,
+      "end": 911
+    },
+    {
+      "text": "FALLOPIAN",
+      "type": "ENTITY",
+      "start": 922,
+      "end": 931
+    },
+    {
+      "text": "PARATUBAL",
+      "type": "ENTITY",
+      "start": 942,
+      "end": 951
+    },
+    {
+      "text": "FALLOPIAN TUBE",
+      "type": "ENTITY",
+      "start": 961,
+      "end": 975
+    },
+    {
+      "text": "OVARY",
+      "type": "ENTITY",
+      "start": 980,
+      "end": 985
+    },
+    {
+      "text": "RIGHT",
+      "type": "ENTITY",
+      "start": 987,
+      "end": 992
+    },
+    {
+      "text": "RESECTION",
+      "type": "ENTITY",
+      "start": 994,
+      "end": 1003
+    },
+    {
+      "text": "UNREMARKABLE",
+      "type": "ENTITY",
+      "start": 1007,
+      "end": 1019
+    },
+    {
+      "text": "FALLOPIAN",
+      "type": "ENTITY",
+      "start": 1030,
+      "end": 1039
+    },
+    {
+      "text": "PARATUBAL",
+      "type": "ENTITY",
+      "start": 1050,
+      "end": 1059
+    },
+    {
+      "text": "CYSTS",
+      "type": "ENTITY",
+      "start": 1060,
+      "end": 1065
+    },
+    {
+      "text": "SPLEEN",
+      "type": "ENTITY",
+      "start": 1070,
+      "end": 1076
+    },
+    {
+      "text": "SPLENECTOMY",
+      "type": "ENTITY",
+      "start": 1078,
+      "end": 1089
+    },
+    {
+      "text": "SPLEEN",
+      "type": "ENTITY",
+      "start": 1093,
+      "end": 1099
+    },
+    {
+      "text": "NON-CASEATING",
+      "type": "ENTITY",
+      "start": 1121,
+      "end": 1134
+    },
+    {
+      "text": "GRANULOMAS",
+      "type": "ENTITY",
+      "start": 1135,
+      "end": 1145
+    },
+    {
+      "text": "NO",
+      "type": "ENTITY",
+      "start": 1149,
+      "end": 1151
+    },
+    {
+      "text": "document",
+      "type": "ENTITY",
+      "start": 1175,
+      "end": 1183
+    },
+    {
+      "text": "anended",
+      "type": "ENTITY",
+      "start": 1198,
+      "end": 1205
+    },
+    {
+      "text": "version",
+      "type": "ENTITY",
+      "start": 1206,
+      "end": 1213
+    },
+    {
+      "text": "surgical pathology report",
+      "type": "ENTITY",
+      "start": 1221,
+      "end": 1246
+    },
+    {
+      "text": "report",
+      "type": "ENTITY",
+      "start": 1273,
+      "end": 1279
+    },
+    {
+      "text": "retained",
+      "type": "ENTITY",
+      "start": 1291,
+      "end": 1299
+    },
+    {
+      "text": "clinical chart",
+      "type": "ENTITY",
+      "start": 1307,
+      "end": 1321
+    },
+    {
+      "text": "record",
+      "type": "ENTITY",
+      "start": 1326,
+      "end": 1332
+    },
+    {
+      "text": "document",
+      "type": "ENTITY",
+      "start": 1372,
+      "end": 1380
+    },
+    {
+      "text": "amendment",
+      "type": "ENTITY",
+      "start": 1386,
+      "end": 1395
+    },
+    {
+      "text": "Gross Description",
+      "type": "ENTITY",
+      "start": 1447,
+      "end": 1464
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1477,
+      "end": 1485
+    },
+    {
+      "text": "cut section",
+      "type": "ENTITY",
+      "start": 1502,
+      "end": 1513
+    },
+    {
+      "text": "kidney",
+      "type": "ENTITY",
+      "start": 1529,
+      "end": 1535
+    },
+    {
+      "text": "replacad",
+      "type": "ENTITY",
+      "start": 1542,
+      "end": 1550
+    },
+    {
+      "text": "nodules",
+      "type": "ENTITY",
+      "start": 1579,
+      "end": 1586
+    },
+    {
+      "text": "tan-yellow",
+      "type": "ENTITY",
+      "start": 1590,
+      "end": 1600
+    },
+    {
+      "text": "partially cystic tumor",
+      "type": "ENTITY",
+      "start": 1602,
+      "end": 1624
+    },
+    {
+      "text": "whole kidney",
+      "type": "ENTITY",
+      "start": 1639,
+      "end": 1651
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 1653,
+      "end": 1662
+    },
+    {
+      "text": "tumor grossly",
+      "type": "ENTITY",
+      "start": 1702,
+      "end": 1715
+    },
+    {
+      "text": "bo",
+      "type": "ENTITY",
+      "start": 1727,
+      "end": 1729
+    },
+    {
+      "text": "renal capsule",
+      "type": "ENTITY",
+      "start": 1746,
+      "end": 1759
+    },
+    {
+      "text": "tunor",
+      "type": "ENTITY",
+      "start": 1765,
+      "end": 1770
+    },
+    {
+      "text": "surface",
+      "type": "ENTITY",
+      "start": 1771,
+      "end": 1778
+    },
+    {
+      "text": "TPS",
+      "type": "ENTITY",
+      "start": 1807,
+      "end": 1810
+    },
+    {
+      "text": "submitled",
+      "type": "ENTITY",
+      "start": 1814,
+      "end": 1823
+    },
+    {
+      "text": "Photographs",
+      "type": "ENTITY",
+      "start": 1825,
+      "end": 1836
+    },
+    {
+      "text": "Representative seclions",
+      "type": "ENTITY",
+      "start": 1844,
+      "end": 1867
+    },
+    {
+      "text": "Description",
+      "type": "ENTITY",
+      "start": 1933,
+      "end": 1944
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1958,
+      "end": 1966
+    },
+    {
+      "text": "cut section",
+      "type": "ENTITY",
+      "start": 1983,
+      "end": 1994
+    },
+    {
+      "text": "kidney",
+      "type": "ENTITY",
+      "start": 2010,
+      "end": 2016
+    },
+    {
+      "text": "mulipie nodules",
+      "type": "ENTITY",
+      "start": 2051,
+      "end": 2066
+    },
+    {
+      "text": "tan-yellow",
+      "type": "ENTITY",
+      "start": 2070,
+      "end": 2080
+    },
+    {
+      "text": "partialy cystic",
+      "type": "ENTITY",
+      "start": 2082,
+      "end": 2097
+    },
+    {
+      "text": "hemorrhagic tumor",
+      "type": "ENTITY",
+      "start": 2099,
+      "end": 2116
+    },
+    {
+      "text": "whole kidney",
+      "type": "ENTITY",
+      "start": 2131,
+      "end": 2143
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 2145,
+      "end": 2154
+    },
+    {
+      "text": "Tho tumor",
+      "type": "ENTITY",
+      "start": 2190,
+      "end": 2199
+    },
+    {
+      "text": "adrenal gland",
+      "type": "ENTITY",
+      "start": 2218,
+      "end": 2231
+    },
+    {
+      "text": "tumor grossly",
+      "type": "ENTITY",
+      "start": 2258,
+      "end": 2271
+    },
+    {
+      "text": "renal capsule",
+      "type": "ENTITY",
+      "start": 2302,
+      "end": 2315
+    },
+    {
+      "text": "tumor surface",
+      "type": "ENTITY",
+      "start": 2321,
+      "end": 2334
+    },
+    {
+      "text": "line papillary fronts",
+      "type": "ENTITY",
+      "start": 2340,
+      "end": 2361
+    },
+    {
+      "text": "TPS",
+      "type": "ENTITY",
+      "start": 2363,
+      "end": 2366
+    },
+    {
+      "text": "submitled",
+      "type": "ENTITY",
+      "start": 2370,
+      "end": 2379
+    },
+    {
+      "text": "Photographs",
+      "type": "ENTITY",
+      "start": 2381,
+      "end": 2392
+    },
+    {
+      "text": "Representative sections",
+      "type": "ENTITY",
+      "start": 2400,
+      "end": 2423
+    },
+    {
+      "text": "submilled",
+      "type": "ENTITY",
+      "start": 2428,
+      "end": 2437
+    },
+    {
+      "text": "Summary",
+      "type": "ENTITY",
+      "start": 2447,
+      "end": 2454
+    },
+    {
+      "text": "Sections",
+      "type": "ENTITY",
+      "start": 2458,
+      "end": 2466
+    },
+    {
+      "text": "ATA",
+      "type": "ENTITY",
+      "start": 2468,
+      "end": 2471
+    },
+    {
+      "text": "Additional",
+      "type": "ENTITY",
+      "start": 2475,
+      "end": 2485
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 2486,
+      "end": 2491
+    },
+    {
+      "text": "adrenal sections",
+      "type": "ENTITY",
+      "start": 2497,
+      "end": 2513
+    },
+    {
+      "text": "clinician",
+      "type": "ENTITY",
+      "start": 2531,
+      "end": 2540
+    },
+    {
+      "text": "notified",
+      "type": "ENTITY",
+      "start": 2550,
+      "end": 2558
+    },
+    {
+      "text": "ANDIOR",
+      "type": "ENTITY",
+      "start": 2647,
+      "end": 2653
+    },
+    {
+      "text": "THAT I",
+      "type": "ENTITY",
+      "start": 2675,
+      "end": 2681
+    },
+    {
+      "text": "RAVE",
+      "type": "ENTITY",
+      "start": 2682,
+      "end": 2686
+    },
+    {
+      "text": "REVIEWED",
+      "type": "ENTITY",
+      "start": 2687,
+      "end": 2695
+    },
+    {
+      "text": "APPROVEO",
+      "type": "ENTITY",
+      "start": 2700,
+      "end": 2708
+    },
+    {
+      "text": "Specia! Studies",
+      "type": "ENTITY",
+      "start": 2722,
+      "end": 2737
+    },
+    {
+      "text": "RECUT",
+      "type": "ENTITY",
+      "start": 2781,
+      "end": 2786
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 2800,
+      "end": 2808
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 2821,
+      "end": 2826
+    },
+    {
+      "text": "frozen section",
+      "type": "ENTITY",
+      "start": 2831,
+      "end": 2845
+    },
+    {
+      "text": "dlagnosis",
+      "type": "ENTITY",
+      "start": 2846,
+      "end": 2855
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 2857,
+      "end": 2864
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 2923,
+      "end": 2931
+    },
+    {
+      "text": "altached segment of ureter",
+      "type": "ENTITY",
+      "start": 2960,
+      "end": 2986
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 2998,
+      "end": 3004
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 3019,
+      "end": 3027
+    },
+    {
+      "text": "seyment",
+      "type": "ENTITY",
+      "start": 3034,
+      "end": 3041
+    },
+    {
+      "text": "renal vein",
+      "type": "ENTITY",
+      "start": 3045,
+      "end": 3055
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 3067,
+      "end": 3073
+    },
+    {
+      "text": "perirenal fat",
+      "type": "ENTITY",
+      "start": 3103,
+      "end": 3116
+    },
+    {
+      "text": "minimal",
+      "type": "ENTITY",
+      "start": 3120,
+      "end": 3127
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 3133,
+      "end": 3141
+    },
+    {
+      "text": "cut section",
+      "type": "ENTITY",
+      "start": 3158,
+      "end": 3169
+    },
+    {
+      "text": "kidney",
+      "type": "ENTITY",
+      "start": 3185,
+      "end": 3191
+    },
+    {
+      "text": "multiple",
+      "type": "ENTITY",
+      "start": 3226,
+      "end": 3234
+    },
+    {
+      "text": "nodules",
+      "type": "ENTITY",
+      "start": 3235,
+      "end": 3242
+    },
+    {
+      "text": "tan-yellow",
+      "type": "ENTITY",
+      "start": 3246,
+      "end": 3256
+    },
+    {
+      "text": "partially cystic",
+      "type": "ENTITY",
+      "start": 3258,
+      "end": 3274
+    },
+    {
+      "text": "hemorrhagic tumor",
+      "type": "ENTITY",
+      "start": 3276,
+      "end": 3293
+    },
+    {
+      "text": "whole kidney",
+      "type": "ENTITY",
+      "start": 3308,
+      "end": 3320
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 3322,
+      "end": 3331
+    },
+    {
+      "text": "tumor grossly abuts",
+      "type": "ENTITY",
+      "start": 3371,
+      "end": 3390
+    },
+    {
+      "text": "adrenal gland",
+      "type": "ENTITY",
+      "start": 3395,
+      "end": 3408
+    },
+    {
+      "text": "tumor grossly",
+      "type": "ENTITY",
+      "start": 3435,
+      "end": 3448
+    },
+    {
+      "text": "renal capsule",
+      "type": "ENTITY",
+      "start": 3479,
+      "end": 3492
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 3498,
+      "end": 3503
+    },
+    {
+      "text": "surlace",
+      "type": "ENTITY",
+      "start": 3504,
+      "end": 3511
+    },
+    {
+      "text": "fronts",
+      "type": "ENTITY",
+      "start": 3532,
+      "end": 3538
+    },
+    {
+      "text": "TPS",
+      "type": "ENTITY",
+      "start": 3541,
+      "end": 3544
+    },
+    {
+      "text": "Pholographs laken",
+      "type": "ENTITY",
+      "start": 3559,
+      "end": 3576
+    },
+    {
+      "text": "Representalive sections",
+      "type": "ENTITY",
+      "start": 3578,
+      "end": 3601
+    },
+    {
+      "text": "Sectlons",
+      "type": "ENTITY",
+      "start": 3629,
+      "end": 3637
+    },
+    {
+      "text": "F$C",
+      "type": "ENTITY",
+      "start": 3639,
+      "end": 3642
+    },
+    {
+      "text": "frozen",
+      "type": "ENTITY",
+      "start": 3645,
+      "end": 3651
+    },
+    {
+      "text": "UV",
+      "type": "ENTITY",
+      "start": 3669,
+      "end": 3671
+    },
+    {
+      "text": "ureteral",
+      "type": "ENTITY",
+      "start": 3674,
+      "end": 3682
+    },
+    {
+      "text": "vascular margin",
+      "type": "ENTITY",
+      "start": 3687,
+      "end": 3702
+    },
+    {
+      "text": "TC",
+      "type": "ENTITY",
+      "start": 3703,
+      "end": 3705
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 3708,
+      "end": 3713
+    },
+    {
+      "text": "section",
+      "type": "ENTITY",
+      "start": 3714,
+      "end": 3721
+    },
+    {
+      "text": "capsule C",
+      "type": "ENTITY",
+      "start": 3731,
+      "end": 3740
+    },
+    {
+      "text": "cystic",
+      "type": "ENTITY",
+      "start": 3743,
+      "end": 3749
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 3763,
+      "end": 3768
+    },
+    {
+      "text": "TRP",
+      "type": "ENTITY",
+      "start": 3769,
+      "end": 3772
+    },
+    {
+      "text": "tunor",
+      "type": "ENTITY",
+      "start": 3775,
+      "end": 3780
+    },
+    {
+      "text": "adjacent",
+      "type": "ENTITY",
+      "start": 3790,
+      "end": 3798
+    },
+    {
+      "text": "renal parenchyma",
+      "type": "ENTITY",
+      "start": 3799,
+      "end": 3815
+    },
+    {
+      "text": "ATA",
+      "type": "ENTITY",
+      "start": 3817,
+      "end": 3820
+    },
+    {
+      "text": "Additlonal",
+      "type": "ENTITY",
+      "start": 3823,
+      "end": 3833
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 3834,
+      "end": 3839
+    },
+    {
+      "text": "adrenal sections",
+      "type": "ENTITY",
+      "start": 3845,
+      "end": 3861
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 3871,
+      "end": 3879
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 3892,
+      "end": 3897
+    },
+    {
+      "text": "frozen section",
+      "type": "ENTITY",
+      "start": 3902,
+      "end": 3916
+    },
+    {
+      "text": "consultation",
+      "type": "ENTITY",
+      "start": 3917,
+      "end": 3929
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 3930,
+      "end": 3937
+    },
+    {
+      "text": "\"Left tube",
+      "type": "ENTITY",
+      "start": 3939,
+      "end": 3949
+    },
+    {
+      "text": "ovary",
+      "type": "ENTITY",
+      "start": 3954,
+      "end": 3959
+    },
+    {
+      "text": "segment",
+      "type": "ENTITY",
+      "start": 3976,
+      "end": 3983
+    },
+    {
+      "text": "fallopian tube",
+      "type": "ENTITY",
+      "start": 3987,
+      "end": 4001
+    },
+    {
+      "text": "fimbriated",
+      "type": "ENTITY",
+      "start": 4007,
+      "end": 4017
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 4022,
+      "end": 4031
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 4042,
+      "end": 4048
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 4061,
+      "end": 4069
+    },
+    {
+      "text": "serosa",
+      "type": "ENTITY",
+      "start": 4076,
+      "end": 4082
+    },
+    {
+      "text": "tan-pink",
+      "type": "ENTITY",
+      "start": 4086,
+      "end": 4094
+    },
+    {
+      "text": "smooth",
+      "type": "ENTITY",
+      "start": 4096,
+      "end": 4102
+    },
+    {
+      "text": "unremarkable",
+      "type": "ENTITY",
+      "start": 4107,
+      "end": 4119
+    },
+    {
+      "text": "fallopian tube",
+      "type": "ENTITY",
+      "start": 4125,
+      "end": 4139
+    },
+    {
+      "text": "cross-sectioned",
+      "type": "ENTITY",
+      "start": 4152,
+      "end": 4167
+    },
+    {
+      "text": "lumen",
+      "type": "ENTITY",
+      "start": 4217,
+      "end": 4222
+    },
+    {
+      "text": "paratubal cysts",
+      "type": "ENTITY",
+      "start": 4243,
+      "end": 4258
+    },
+    {
+      "text": "size",
+      "type": "ENTITY",
+      "start": 4281,
+      "end": 4285
+    },
+    {
+      "text": "dimension",
+      "type": "ENTITY",
+      "start": 4317,
+      "end": 4326
+    },
+    {
+      "text": "ovary",
+      "type": "ENTITY",
+      "start": 4342,
+      "end": 4347
+    },
+    {
+      "text": "tan-white",
+      "type": "ENTITY",
+      "start": 4351,
+      "end": 4360
+    },
+    {
+      "text": "smooth",
+      "type": "ENTITY",
+      "start": 4362,
+      "end": 4368
+    },
+    {
+      "text": "Cut surface",
+      "type": "ENTITY",
+      "start": 4379,
+      "end": 4390
+    },
+    {
+      "text": "unremarkable",
+      "type": "ENTITY",
+      "start": 4394,
+      "end": 4406
+    },
+    {
+      "text": "corpora",
+      "type": "ENTITY",
+      "start": 4432,
+      "end": 4439
+    },
+    {
+      "text": "albicantia",
+      "type": "ENTITY",
+      "start": 4440,
+      "end": 4450
+    },
+    {
+      "text": "Representative sections",
+      "type": "ENTITY",
+      "start": 4452,
+      "end": 4475
+    },
+    {
+      "text": "frozen",
+      "type": "ENTITY",
+      "start": 4494,
+      "end": 4500
+    },
+    {
+      "text": "permanent",
+      "type": "ENTITY",
+      "start": 4505,
+      "end": 4514
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 4515,
+      "end": 4523
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 4536,
+      "end": 4544
+    },
+    {
+      "text": "FSC-frozen",
+      "type": "ENTITY",
+      "start": 4574,
+      "end": 4584
+    },
+    {
+      "text": "LTO-left tube",
+      "type": "ENTITY",
+      "start": 4601,
+      "end": 4614
+    },
+    {
+      "text": "ovary",
+      "type": "ENTITY",
+      "start": 4619,
+      "end": 4624
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 4641,
+      "end": 4649
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 4658,
+      "end": 4666
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 4682,
+      "end": 4687
+    },
+    {
+      "text": "frozen section",
+      "type": "ENTITY",
+      "start": 4692,
+      "end": 4706
+    },
+    {
+      "text": "consultation",
+      "type": "ENTITY",
+      "start": 4707,
+      "end": 4719
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 4720,
+      "end": 4727
+    },
+    {
+      "text": "\"Right tube",
+      "type": "ENTITY",
+      "start": 4729,
+      "end": 4740
+    },
+    {
+      "text": "ovary",
+      "type": "ENTITY",
+      "start": 4745,
+      "end": 4750
+    },
+    {
+      "text": "segment",
+      "type": "ENTITY",
+      "start": 4767,
+      "end": 4774
+    },
+    {
+      "text": "fallopian tube",
+      "type": "ENTITY",
+      "start": 4778,
+      "end": 4792
+    },
+    {
+      "text": "fimbriated",
+      "type": "ENTITY",
+      "start": 4798,
+      "end": 4808
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 4813,
+      "end": 4822
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 4833,
+      "end": 4839
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 4855,
+      "end": 4863
+    },
+    {
+      "text": "serosa",
+      "type": "ENTITY",
+      "start": 4870,
+      "end": 4876
+    },
+    {
+      "text": "tan-pink",
+      "type": "ENTITY",
+      "start": 4880,
+      "end": 4888
+    },
+    {
+      "text": "smooth",
+      "type": "ENTITY",
+      "start": 4893,
+      "end": 4899
+    },
+    {
+      "text": "minute",
+      "type": "ENTITY",
+      "start": 4910,
+      "end": 4916
+    },
+    {
+      "text": "paratubal cysts",
+      "type": "ENTITY",
+      "start": 4917,
+      "end": 4932
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 4938,
+      "end": 4947
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 4968,
+      "end": 4976
+    },
+    {
+      "text": "fallopian tube",
+      "type": "ENTITY",
+      "start": 4982,
+      "end": 4996
+    },
+    {
+      "text": "cross-sectioned",
+      "type": "ENTITY",
+      "start": 5009,
+      "end": 5024
+    },
+    {
+      "text": "lumen",
+      "type": "ENTITY",
+      "start": 5074,
+      "end": 5079
+    },
+    {
+      "text": "ovary",
+      "type": "ENTITY",
+      "start": 5094,
+      "end": 5099
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 5100,
+      "end": 5108
+    },
+    {
+      "text": "surface",
+      "type": "ENTITY",
+      "start": 5133,
+      "end": 5140
+    },
+    {
+      "text": "tan-white",
+      "type": "ENTITY",
+      "start": 5144,
+      "end": 5153
+    },
+    {
+      "text": "cyst",
+      "type": "ENTITY",
+      "start": 5178,
+      "end": 5182
+    },
+    {
+      "text": "blue",
+      "type": "ENTITY",
+      "start": 5216,
+      "end": 5220
+    },
+    {
+      "text": "Cut surface",
+      "type": "ENTITY",
+      "start": 5222,
+      "end": 5233
+    },
+    {
+      "text": "light tan",
+      "type": "ENTITY",
+      "start": 5237,
+      "end": 5246
+    },
+    {
+      "text": "unremarkable",
+      "type": "ENTITY",
+      "start": 5248,
+      "end": 5260
+    },
+    {
+      "text": "Corpora",
+      "type": "ENTITY",
+      "start": 5262,
+      "end": 5269
+    },
+    {
+      "text": "identified",
+      "type": "ENTITY",
+      "start": 5285,
+      "end": 5295
+    },
+    {
+      "text": "Representative sections",
+      "type": "ENTITY",
+      "start": 5297,
+      "end": 5320
+    },
+    {
+      "text": "frozen",
+      "type": "ENTITY",
+      "start": 5339,
+      "end": 5345
+    },
+    {
+      "text": "permanent",
+      "type": "ENTITY",
+      "start": 5350,
+      "end": 5359
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 5360,
+      "end": 5368
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 5381,
+      "end": 5389
+    },
+    {
+      "text": "FSC-frozen",
+      "type": "ENTITY",
+      "start": 5391,
+      "end": 5401
+    },
+    {
+      "text": "RTO-right tube",
+      "type": "ENTITY",
+      "start": 5418,
+      "end": 5432
+    },
+    {
+      "text": "ovary",
+      "type": "ENTITY",
+      "start": 5437,
+      "end": 5442
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 5459,
+      "end": 5467
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 5475,
+      "end": 5483
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 5496,
+      "end": 5501
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 5503,
+      "end": 5510
+    },
+    {
+      "text": "grams spleen",
+      "type": "ENTITY",
+      "start": 5543,
+      "end": 5555
+    },
+    {
+      "text": "hilum",
+      "type": "ENTITY",
+      "start": 5583,
+      "end": 5588
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 5601,
+      "end": 5612
+    },
+    {
+      "text": "capsule",
+      "type": "ENTITY",
+      "start": 5618,
+      "end": 5625
+    },
+    {
+      "text": "eroded",
+      "type": "ENTITY",
+      "start": 5650,
+      "end": 5656
+    },
+    {
+      "text": "hemorrhagic surfaceit",
+      "type": "ENTITY",
+      "start": 5662,
+      "end": 5683
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 5689,
+      "end": 5697
+    },
+    {
+      "text": "spleen parenchyma",
+      "type": "ENTITY",
+      "start": 5753,
+      "end": 5770
+    },
+    {
+      "text": "unremarkable",
+      "type": "ENTITY",
+      "start": 5779,
+      "end": 5791
+    },
+    {
+      "text": "Representative sections",
+      "type": "ENTITY",
+      "start": 5793,
+      "end": 5816
+    },
+    {
+      "text": "Sections",
+      "type": "ENTITY",
+      "start": 5843,
+      "end": 5851
+    },
+    {
+      "text": "H",
+      "type": "ENTITY",
+      "start": 5853,
+      "end": 5854
+    },
+    {
+      "text": "hilum",
+      "type": "ENTITY",
+      "start": 5857,
+      "end": 5862
+    },
+    {
+      "text": "section",
+      "type": "ENTITY",
+      "start": 5863,
+      "end": 5870
+    },
+    {
+      "text": "IF",
+      "type": "ENTITY",
+      "start": 5871,
+      "end": 5873
+    },
+    {
+      "text": "infarction",
+      "type": "ENTITY",
+      "start": 5877,
+      "end": 5887
+    },
+    {
+      "text": "C",
+      "type": "ENTITY",
+      "start": 5893,
+      "end": 5894
+    },
+    {
+      "text": "capsular",
+      "type": "ENTITY",
+      "start": 5897,
+      "end": 5905
+    },
+    {
+      "text": "surlace",
+      "type": "ENTITY",
+      "start": 5906,
+      "end": 5913
+    },
+    {
+      "text": "Sections",
+      "type": "ENTITY",
+      "start": 5953,
+      "end": 5961
+    },
+    {
+      "text": "SP",
+      "type": "ENTITY",
+      "start": 5971,
+      "end": 5973
+    },
+    {
+      "text": "Left kidney Block Soct",
+      "type": "ENTITY",
+      "start": 5974,
+      "end": 5996
+    },
+    {
+      "text": "ATA",
+      "type": "ENTITY",
+      "start": 6009,
+      "end": 6012
+    },
+    {
+      "text": "TC",
+      "type": "ENTITY",
+      "start": 6029,
+      "end": 6031
+    },
+    {
+      "text": "TRP",
+      "type": "ENTITY",
+      "start": 6036,
+      "end": 6039
+    },
+    {
+      "text": "SP",
+      "type": "ENTITY",
+      "start": 6057,
+      "end": 6059
+    },
+    {
+      "text": "Left tube",
+      "type": "ENTITY",
+      "start": 6061,
+      "end": 6070
+    },
+    {
+      "text": "ovary Block Sect",
+      "type": "ENTITY",
+      "start": 6075,
+      "end": 6091
+    },
+    {
+      "text": "SP",
+      "type": "ENTITY",
+      "start": 6126,
+      "end": 6128
+    },
+    {
+      "text": "Rt",
+      "type": "ENTITY",
+      "start": 6130,
+      "end": 6132
+    },
+    {
+      "text": "RTO",
+      "type": "ENTITY",
+      "start": 6178,
+      "end": 6181
+    },
+    {
+      "text": "SP",
+      "type": "ENTITY",
+      "start": 6192,
+      "end": 6194
+    },
+    {
+      "text": "Spleen 8lock Sect",
+      "type": "ENTITY",
+      "start": 6196,
+      "end": 6213
+    },
+    {
+      "text": "Original Diagnosis",
+      "type": "ENTITY",
+      "start": 6278,
+      "end": 6296
+    },
+    {
+      "text": "LEFT",
+      "type": "ENTITY",
+      "start": 6309,
+      "end": 6313
+    },
+    {
+      "text": "RENAL",
+      "type": "ENTITY",
+      "start": 6330,
+      "end": 6335
+    },
+    {
+      "text": "PAPILLARY TYPE",
+      "type": "ENTITY",
+      "start": 6352,
+      "end": 6366
+    },
+    {
+      "text": "EXTENSIVE ONCOCYTIC",
+      "type": "ENTITY",
+      "start": 6372,
+      "end": 6391
+    },
+    {
+      "text": "TUMOR",
+      "type": "ENTITY",
+      "start": 6430,
+      "end": 6435
+    },
+    {
+      "text": "DIAMETER IS",
+      "type": "ENTITY",
+      "start": 6445,
+      "end": 6456
+    },
+    {
+      "text": "CM",
+      "type": "ENTITY",
+      "start": 6462,
+      "end": 6464
+    },
+    {
+      "text": "THE",
+      "type": "ENTITY",
+      "start": 6468,
+      "end": 6471
+    },
+    {
+      "text": "TUMOR EXTENDS",
+      "type": "ENTITY",
+      "start": 6472,
+      "end": 6485
+    },
+    {
+      "text": "IS",
+      "type": "ENTITY",
+      "start": 6516,
+      "end": 6518
+    },
+    {
+      "text": "GEROTA'S FASCIA",
+      "type": "ENTITY",
+      "start": 6535,
+      "end": 6550
+    },
+    {
+      "text": "ALL",
+      "type": "ENTITY",
+      "start": 6554,
+      "end": 6557
+    },
+    {
+      "text": "TUMOR",
+      "type": "ENTITY",
+      "start": 6588,
+      "end": 6593
+    },
+    {
+      "text": "THE",
+      "type": "ENTITY",
+      "start": 6597,
+      "end": 6600
+    },
+    {
+      "text": "NON-NEOPLASTIC KIDNEY IS",
+      "type": "ENTITY",
+      "start": 6601,
+      "end": 6625
+    },
+    {
+      "text": "UNREMARKABLE",
+      "type": "ENTITY",
+      "start": 6626,
+      "end": 6638
+    },
+    {
+      "text": "THE",
+      "type": "ENTITY",
+      "start": 6642,
+      "end": 6645
+    },
+    {
+      "text": "ADRENAL GLAND",
+      "type": "ENTITY",
+      "start": 6646,
+      "end": 6659
+    },
+    {
+      "text": "IS",
+      "type": "ENTITY",
+      "start": 6660,
+      "end": 6662
+    },
+    {
+      "text": "NOT SUBMITTED",
+      "type": "ENTITY",
+      "start": 6663,
+      "end": 6676
+    },
+    {
+      "text": "FALLOPIAN TUBE",
+      "type": "ENTITY",
+      "start": 6681,
+      "end": 6695
+    },
+    {
+      "text": "OVARY",
+      "type": "ENTITY",
+      "start": 6700,
+      "end": 6705
+    },
+    {
+      "text": "LEFT",
+      "type": "ENTITY",
+      "start": 6707,
+      "end": 6711
+    },
+    {
+      "text": "RESECTION",
+      "type": "ENTITY",
+      "start": 6713,
+      "end": 6722
+    },
+    {
+      "text": "UNREMARKABLE",
+      "type": "ENTITY",
+      "start": 6727,
+      "end": 6739
+    },
+    {
+      "text": "FALLOPIAN",
+      "type": "ENTITY",
+      "start": 6750,
+      "end": 6759
+    },
+    {
+      "text": "PARATUBAL",
+      "type": "ENTITY",
+      "start": 6770,
+      "end": 6779
+    },
+    {
+      "text": "FALLOPIAN TUBE",
+      "type": "ENTITY",
+      "start": 6789,
+      "end": 6803
+    },
+    {
+      "text": "OVARY",
+      "type": "ENTITY",
+      "start": 6808,
+      "end": 6813
+    },
+    {
+      "text": "RIGHT",
+      "type": "ENTITY",
+      "start": 6815,
+      "end": 6820
+    },
+    {
+      "text": "RESECTION",
+      "type": "ENTITY",
+      "start": 6822,
+      "end": 6831
+    },
+    {
+      "text": "UNREMARKABLE",
+      "type": "ENTITY",
+      "start": 6835,
+      "end": 6847
+    },
+    {
+      "text": "FALLOPIAN",
+      "type": "ENTITY",
+      "start": 6858,
+      "end": 6867
+    },
+    {
+      "text": "PARATUBAL",
+      "type": "ENTITY",
+      "start": 6878,
+      "end": 6887
+    },
+    {
+      "text": "SPLEEN",
+      "type": "ENTITY",
+      "start": 6897,
+      "end": 6903
+    },
+    {
+      "text": "SPLENECTOMY",
+      "type": "ENTITY",
+      "start": 6905,
+      "end": 6916
+    },
+    {
+      "text": "SPLEEN",
+      "type": "ENTITY",
+      "start": 6920,
+      "end": 6926
+    },
+    {
+      "text": "NON-CASEATING",
+      "type": "ENTITY",
+      "start": 6948,
+      "end": 6961
+    },
+    {
+      "text": "GRANULOMAS",
+      "type": "ENTITY",
+      "start": 6962,
+      "end": 6972
+    },
+    {
+      "text": "NO",
+      "type": "ENTITY",
+      "start": 6976,
+      "end": 6978
+    },
+    {
+      "text": "Intraoperative Consuttation",
+      "type": "ENTITY",
+      "start": 6991,
+      "end": 7018
+    },
+    {
+      "text": "diagnoses",
+      "type": "ENTITY",
+      "start": 7030,
+      "end": 7039
+    },
+    {
+      "text": "section",
+      "type": "ENTITY",
+      "start": 7054,
+      "end": 7061
+    },
+    {
+      "text": "tissue",
+      "type": "ENTITY",
+      "start": 7082,
+      "end": 7088
+    },
+    {
+      "text": "time",
+      "type": "ENTITY",
+      "start": 7112,
+      "end": 7116
+    },
+    {
+      "text": "intraoperative consultation",
+      "type": "ENTITY",
+      "start": 7124,
+      "end": 7151
+    },
+    {
+      "text": "FROZEN SECTION",
+      "type": "ENTITY",
+      "start": 7156,
+      "end": 7170
+    },
+    {
+      "text": "DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 7171,
+      "end": 7180
+    },
+    {
+      "text": "RENAL",
+      "type": "ENTITY",
+      "start": 7182,
+      "end": 7187
+    },
+    {
+      "text": "CORTICAL CARCINOMA",
+      "type": "ENTITY",
+      "start": 7188,
+      "end": 7206
+    },
+    {
+      "text": "DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 7217,
+      "end": 7226
+    },
+    {
+      "text": "SEE",
+      "type": "ENTITY",
+      "start": 7228,
+      "end": 7231
+    },
+    {
+      "text": "FROZEN SECTION",
+      "type": "ENTITY",
+      "start": 7241,
+      "end": 7255
+    },
+    {
+      "text": "DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 7256,
+      "end": 7265
+    },
+    {
+      "text": "PARATUBAL",
+      "type": "ENTITY",
+      "start": 7267,
+      "end": 7276
+    },
+    {
+      "text": "CYST",
+      "type": "ENTITY",
+      "start": 7278,
+      "end": 7282
+    },
+    {
+      "text": "PERMANENT DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 7284,
+      "end": 7303
+    },
+    {
+      "text": "SAME",
+      "type": "ENTITY",
+      "start": 7305,
+      "end": 7309
+    },
+    {
+      "text": "FROZEN SECTION",
+      "type": "ENTITY",
+      "start": 7314,
+      "end": 7328
+    },
+    {
+      "text": "DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 7329,
+      "end": 7338
+    },
+    {
+      "text": "BENIGN PERMANENT DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 7340,
+      "end": 7366
+    },
+    {
+      "text": "SAME",
+      "type": "ENTITY",
+      "start": 7368,
+      "end": 7372
+    },
+    {
+      "text": "END",
+      "type": "ENTITY",
+      "start": 7386,
+      "end": 7389
+    }
+  ],
+  "entity_count": 370,
+  "has_embedding": true
+}

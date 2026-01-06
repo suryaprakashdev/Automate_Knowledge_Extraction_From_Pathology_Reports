@@ -1,0 +1,2612 @@
+{
+  "filename": "59d00a62-f86e-4e88-99a6-b789279685c4",
+  "timestamp": "2026-01-05T14:44:48.883309",
+  "entities": [
+    {
+      "text": "DOB",
+      "type": "ENTITY",
+      "start": 81,
+      "end": 84
+    },
+    {
+      "text": "Sex",
+      "type": "ENTITY",
+      "start": 92,
+      "end": 95
+    },
+    {
+      "text": "Location",
+      "type": "ENTITY",
+      "start": 110,
+      "end": 118
+    },
+    {
+      "text": "Date Collected Date",
+      "type": "ENTITY",
+      "start": 120,
+      "end": 139
+    },
+    {
+      "text": "Received",
+      "type": "ENTITY",
+      "start": 140,
+      "end": 148
+    },
+    {
+      "text": "UUID:040C3F06-62E5-4287-A499",
+      "type": "ENTITY",
+      "start": 149,
+      "end": 177
+    },
+    {
+      "text": "Redacted",
+      "type": "ENTITY",
+      "start": 222,
+      "end": 230
+    },
+    {
+      "text": "Clinical History/Diagnosis",
+      "type": "ENTITY",
+      "start": 240,
+      "end": 266
+    },
+    {
+      "text": "Left renal mass",
+      "type": "ENTITY",
+      "start": 268,
+      "end": 283
+    },
+    {
+      "text": "Specimen(s",
+      "type": "ENTITY",
+      "start": 295,
+      "end": 305
+    },
+    {
+      "text": "Left Kidney Mass 2",
+      "type": "ENTITY",
+      "start": 311,
+      "end": 329
+    },
+    {
+      "text": "Nodes",
+      "type": "ENTITY",
+      "start": 331,
+      "end": 336
+    },
+    {
+      "text": "Hylum 3",
+      "type": "ENTITY",
+      "start": 340,
+      "end": 347
+    },
+    {
+      "text": "Anterior Margin",
+      "type": "ENTITY",
+      "start": 369,
+      "end": 384
+    },
+    {
+      "text": "Medial Lymph Node Dissection",
+      "type": "ENTITY",
+      "start": 388,
+      "end": 416
+    },
+    {
+      "text": "Apex",
+      "type": "ENTITY",
+      "start": 420,
+      "end": 424
+    },
+    {
+      "text": "Retroperitoneal",
+      "type": "ENTITY",
+      "start": 429,
+      "end": 444
+    },
+    {
+      "text": "Lymph Nodes",
+      "type": "ENTITY",
+      "start": 445,
+      "end": 456
+    },
+    {
+      "text": "Left Ureter",
+      "type": "ENTITY",
+      "start": 460,
+      "end": 471
+    },
+    {
+      "text": "Left Kidney Final Diagnosis",
+      "type": "ENTITY",
+      "start": 475,
+      "end": 502
+    },
+    {
+      "text": "****AMENDED",
+      "type": "ENTITY",
+      "start": 504,
+      "end": 515
+    },
+    {
+      "text": "source",
+      "type": "ENTITY",
+      "start": 572,
+      "end": 578
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 582,
+      "end": 590
+    },
+    {
+      "text": "left kidney",
+      "type": "ENTITY",
+      "start": 605,
+      "end": 616
+    },
+    {
+      "text": "requisition slip",
+      "type": "ENTITY",
+      "start": 625,
+      "end": 641
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 658,
+      "end": 665
+    },
+    {
+      "text": "operating room",
+      "type": "ENTITY",
+      "start": 675,
+      "end": 689
+    },
+    {
+      "text": "Left kidney",
+      "type": "ENTITY",
+      "start": 694,
+      "end": 705
+    },
+    {
+      "text": "biopsy",
+      "type": "ENTITY",
+      "start": 707,
+      "end": 713
+    },
+    {
+      "text": "High",
+      "type": "ENTITY",
+      "start": 717,
+      "end": 721
+    },
+    {
+      "text": "grade carcinoma",
+      "type": "ENTITY",
+      "start": 722,
+      "end": 737
+    },
+    {
+      "text": "Soft tissue",
+      "type": "ENTITY",
+      "start": 742,
+      "end": 753
+    },
+    {
+      "text": "hilum",
+      "type": "ENTITY",
+      "start": 757,
+      "end": 762
+    },
+    {
+      "text": "excision",
+      "type": "ENTITY",
+      "start": 764,
+      "end": 772
+    },
+    {
+      "text": "Fatty tissue",
+      "type": "ENTITY",
+      "start": 776,
+      "end": 788
+    },
+    {
+      "text": "high grade carcinoma",
+      "type": "ENTITY",
+      "start": 794,
+      "end": 814
+    },
+    {
+      "text": "Lymphoid",
+      "type": "ENTITY",
+      "start": 817,
+      "end": 825
+    },
+    {
+      "text": "tissue",
+      "type": "ENTITY",
+      "start": 826,
+      "end": 832
+    },
+    {
+      "text": "diaphragm",
+      "type": "ENTITY",
+      "start": 859,
+      "end": 868
+    },
+    {
+      "text": "excision",
+      "type": "ENTITY",
+      "start": 870,
+      "end": 878
+    },
+    {
+      "text": "Fatty tissue",
+      "type": "ENTITY",
+      "start": 882,
+      "end": 894
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 903,
+      "end": 908
+    },
+    {
+      "text": "Anterior margin",
+      "type": "ENTITY",
+      "start": 918,
+      "end": 933
+    },
+    {
+      "text": "biopsy",
+      "type": "ENTITY",
+      "start": 935,
+      "end": 941
+    },
+    {
+      "text": "Fatty tissue",
+      "type": "ENTITY",
+      "start": 945,
+      "end": 957
+    },
+    {
+      "text": "Medial soft tissue",
+      "type": "ENTITY",
+      "start": 980,
+      "end": 998
+    },
+    {
+      "text": "apex",
+      "type": "ENTITY",
+      "start": 1002,
+      "end": 1006
+    },
+    {
+      "text": "excision",
+      "type": "ENTITY",
+      "start": 1008,
+      "end": 1016
+    },
+    {
+      "text": "Fatty tissue",
+      "type": "ENTITY",
+      "start": 1020,
+      "end": 1032
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1041,
+      "end": 1046
+    },
+    {
+      "text": "Retroperitoneal",
+      "type": "ENTITY",
+      "start": 1056,
+      "end": 1071
+    },
+    {
+      "text": "soft tissue",
+      "type": "ENTITY",
+      "start": 1072,
+      "end": 1083
+    },
+    {
+      "text": "excision",
+      "type": "ENTITY",
+      "start": 1085,
+      "end": 1093
+    },
+    {
+      "text": "Fatty tissue",
+      "type": "ENTITY",
+      "start": 1097,
+      "end": 1109
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1118,
+      "end": 1123
+    },
+    {
+      "text": "Left ureter",
+      "type": "ENTITY",
+      "start": 1133,
+      "end": 1144
+    },
+    {
+      "text": "ureterectomy",
+      "type": "ENTITY",
+      "start": 1146,
+      "end": 1158
+    },
+    {
+      "text": "Prir tyroid caseey",
+      "type": "ENTITY",
+      "start": 1160,
+      "end": 1178
+    },
+    {
+      "text": "No",
+      "type": "ENTITY",
+      "start": 1183,
+      "end": 1185
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1186,
+      "end": 1191
+    },
+    {
+      "text": "unkrony",
+      "type": "ENTITY",
+      "start": 1207,
+      "end": 1214
+    },
+    {
+      "text": "T3S",
+      "type": "ENTITY",
+      "start": 1218,
+      "end": 1221
+    },
+    {
+      "text": "w.3islis\n\n--- Page 2",
+      "type": "ENTITY",
+      "start": 1223,
+      "end": 1243
+    },
+    {
+      "text": "Left kidney",
+      "type": "ENTITY",
+      "start": 1251,
+      "end": 1262
+    },
+    {
+      "text": "total nephrectomy",
+      "type": "ENTITY",
+      "start": 1264,
+      "end": 1281
+    },
+    {
+      "text": "High",
+      "type": "ENTITY",
+      "start": 1285,
+      "end": 1289
+    },
+    {
+      "text": "grade renal cell carcinoma",
+      "type": "ENTITY",
+      "start": 1290,
+      "end": 1316
+    },
+    {
+      "text": "papillary type II",
+      "type": "ENTITY",
+      "start": 1318,
+      "end": 1335
+    },
+    {
+      "text": "Tumor",
+      "type": "ENTITY",
+      "start": 1348,
+      "end": 1353
+    },
+    {
+      "text": "invades",
+      "type": "ENTITY",
+      "start": 1354,
+      "end": 1361
+    },
+    {
+      "text": "kidney",
+      "type": "ENTITY",
+      "start": 1374,
+      "end": 1380
+    },
+    {
+      "text": "perirenal fat",
+      "type": "ENTITY",
+      "start": 1390,
+      "end": 1403
+    },
+    {
+      "text": "Vein",
+      "type": "ENTITY",
+      "start": 1408,
+      "end": 1412
+    },
+    {
+      "text": "invasion",
+      "type": "ENTITY",
+      "start": 1413,
+      "end": 1421
+    },
+    {
+      "text": "identified",
+      "type": "ENTITY",
+      "start": 1425,
+      "end": 1435
+    },
+    {
+      "text": "Vascular",
+      "type": "ENTITY",
+      "start": 1439,
+      "end": 1447
+    },
+    {
+      "text": "ureteral margins",
+      "type": "ENTITY",
+      "start": 1452,
+      "end": 1468
+    },
+    {
+      "text": "pTNM",
+      "type": "ENTITY",
+      "start": 1492,
+      "end": 1496
+    },
+    {
+      "text": "Nx",
+      "type": "ENTITY",
+      "start": 1502,
+      "end": 1504
+    },
+    {
+      "text": "Immunohistochemical stains",
+      "type": "ENTITY",
+      "start": 1514,
+      "end": 1540
+    },
+    {
+      "text": "positive",
+      "type": "ENTITY",
+      "start": 1561,
+      "end": 1569
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 1574,
+      "end": 1582
+    },
+    {
+      "text": "tumor cells",
+      "type": "ENTITY",
+      "start": 1597,
+      "end": 1608
+    },
+    {
+      "text": "focally positive",
+      "type": "ENTITY",
+      "start": 1609,
+      "end": 1625
+    },
+    {
+      "text": "RCC",
+      "type": "ENTITY",
+      "start": 1630,
+      "end": 1633
+    },
+    {
+      "text": "CK19",
+      "type": "ENTITY",
+      "start": 1635,
+      "end": 1639
+    },
+    {
+      "text": "vimentin",
+      "type": "ENTITY",
+      "start": 1645,
+      "end": 1653
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 1664,
+      "end": 1672
+    },
+    {
+      "text": "CD10",
+      "type": "ENTITY",
+      "start": 1677,
+      "end": 1681
+    },
+    {
+      "text": "CK5/6",
+      "type": "ENTITY",
+      "start": 1695,
+      "end": 1700
+    },
+    {
+      "text": "CD117",
+      "type": "ENTITY",
+      "start": 1705,
+      "end": 1710
+    },
+    {
+      "text": "profile",
+      "type": "ENTITY",
+      "start": 1717,
+      "end": 1724
+    },
+    {
+      "text": "consistent with",
+      "type": "ENTITY",
+      "start": 1728,
+      "end": 1743
+    },
+    {
+      "text": "papillary carcinoma",
+      "type": "ENTITY",
+      "start": 1744,
+      "end": 1763
+    },
+    {
+      "text": "kidney",
+      "type": "ENTITY",
+      "start": 1767,
+      "end": 1773
+    },
+    {
+      "text": "tests",
+      "type": "ENTITY",
+      "start": 1781,
+      "end": 1786
+    },
+    {
+      "text": "performance",
+      "type": "ENTITY",
+      "start": 1812,
+      "end": 1823
+    },
+    {
+      "text": "characteristics",
+      "type": "ENTITY",
+      "start": 1824,
+      "end": 1839
+    },
+    {
+      "text": "immunohistochemistry",
+      "type": "ENTITY",
+      "start": 1858,
+      "end": 1878
+    },
+    {
+      "text": "laboratory",
+      "type": "ENTITY",
+      "start": 1879,
+      "end": 1889
+    },
+    {
+      "text": "tests",
+      "type": "ENTITY",
+      "start": 1903,
+      "end": 1908
+    },
+    {
+      "text": "cleared",
+      "type": "ENTITY",
+      "start": 1923,
+      "end": 1930
+    },
+    {
+      "text": "U.S. Food",
+      "type": "ENTITY",
+      "start": 1950,
+      "end": 1959
+    },
+    {
+      "text": "Drug Administration",
+      "type": "ENTITY",
+      "start": 1965,
+      "end": 1984
+    },
+    {
+      "text": "FDA",
+      "type": "ENTITY",
+      "start": 1990,
+      "end": 1993
+    },
+    {
+      "text": "clearance",
+      "type": "ENTITY",
+      "start": 2019,
+      "end": 2028
+    },
+    {
+      "text": "approval",
+      "type": "ENTITY",
+      "start": 2032,
+      "end": 2040
+    },
+    {
+      "text": "tests",
+      "type": "ENTITY",
+      "start": 2065,
+      "end": 2070
+    },
+    {
+      "text": "clinical purposes",
+      "type": "ENTITY",
+      "start": 2084,
+      "end": 2101
+    },
+    {
+      "text": "investigational",
+      "type": "ENTITY",
+      "start": 2134,
+      "end": 2149
+    },
+    {
+      "text": "research",
+      "type": "ENTITY",
+      "start": 2157,
+      "end": 2165
+    },
+    {
+      "text": "laboratory",
+      "type": "ENTITY",
+      "start": 2172,
+      "end": 2182
+    },
+    {
+      "text": "Clinical Laboratory Improvement",
+      "type": "ENTITY",
+      "start": 2206,
+      "end": 2237
+    },
+    {
+      "text": "CLIA",
+      "type": "ENTITY",
+      "start": 2258,
+      "end": 2262
+    },
+    {
+      "text": "qualified",
+      "type": "ENTITY",
+      "start": 2267,
+      "end": 2276
+    },
+    {
+      "text": "****ORIGINAL",
+      "type": "ENTITY",
+      "start": 2322,
+      "end": 2334
+    },
+    {
+      "text": "Right kidney",
+      "type": "ENTITY",
+      "start": 2349,
+      "end": 2361
+    },
+    {
+      "text": "biopsy",
+      "type": "ENTITY",
+      "start": 2363,
+      "end": 2369
+    },
+    {
+      "text": "High",
+      "type": "ENTITY",
+      "start": 2373,
+      "end": 2377
+    },
+    {
+      "text": "grade carcinoma",
+      "type": "ENTITY",
+      "start": 2378,
+      "end": 2393
+    },
+    {
+      "text": "Soft tissue",
+      "type": "ENTITY",
+      "start": 2398,
+      "end": 2409
+    },
+    {
+      "text": "hilum",
+      "type": "ENTITY",
+      "start": 2413,
+      "end": 2418
+    },
+    {
+      "text": "excision",
+      "type": "ENTITY",
+      "start": 2420,
+      "end": 2428
+    },
+    {
+      "text": "Fatty tissue",
+      "type": "ENTITY",
+      "start": 2432,
+      "end": 2444
+    },
+    {
+      "text": "high grade carcinoma",
+      "type": "ENTITY",
+      "start": 2450,
+      "end": 2470
+    },
+    {
+      "text": "Lymphoid",
+      "type": "ENTITY",
+      "start": 2475,
+      "end": 2483
+    },
+    {
+      "text": "tissue",
+      "type": "ENTITY",
+      "start": 2484,
+      "end": 2490
+    },
+    {
+      "text": "diaphragm",
+      "type": "ENTITY",
+      "start": 2517,
+      "end": 2526
+    },
+    {
+      "text": "excision",
+      "type": "ENTITY",
+      "start": 2528,
+      "end": 2536
+    },
+    {
+      "text": "Fatty tissue",
+      "type": "ENTITY",
+      "start": 2540,
+      "end": 2552
+    },
+    {
+      "text": "Anterior margin",
+      "type": "ENTITY",
+      "start": 2577,
+      "end": 2592
+    },
+    {
+      "text": "biopsy",
+      "type": "ENTITY",
+      "start": 2594,
+      "end": 2600
+    },
+    {
+      "text": "Fatty tissue",
+      "type": "ENTITY",
+      "start": 2604,
+      "end": 2616
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 2625,
+      "end": 2630
+    },
+    {
+      "text": "Medial soft tissue",
+      "type": "ENTITY",
+      "start": 2640,
+      "end": 2658
+    },
+    {
+      "text": "apex",
+      "type": "ENTITY",
+      "start": 2662,
+      "end": 2666
+    },
+    {
+      "text": "excision",
+      "type": "ENTITY",
+      "start": 2668,
+      "end": 2676
+    },
+    {
+      "text": "Fatty tissue",
+      "type": "ENTITY",
+      "start": 2681,
+      "end": 2693
+    },
+    {
+      "text": "Retroperitoneal",
+      "type": "ENTITY",
+      "start": 2718,
+      "end": 2733
+    },
+    {
+      "text": "soft tissue",
+      "type": "ENTITY",
+      "start": 2734,
+      "end": 2745
+    },
+    {
+      "text": "excision",
+      "type": "ENTITY",
+      "start": 2747,
+      "end": 2755
+    },
+    {
+      "text": "Fatty tissue",
+      "type": "ENTITY",
+      "start": 2760,
+      "end": 2772
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 2781,
+      "end": 2786
+    },
+    {
+      "text": "Left ureter",
+      "type": "ENTITY",
+      "start": 2796,
+      "end": 2807
+    },
+    {
+      "text": "ureterectomy",
+      "type": "ENTITY",
+      "start": 2809,
+      "end": 2821
+    },
+    {
+      "text": "No",
+      "type": "ENTITY",
+      "start": 2825,
+      "end": 2827
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 2828,
+      "end": 2833
+    },
+    {
+      "text": "Left kidney",
+      "type": "ENTITY",
+      "start": 2843,
+      "end": 2854
+    },
+    {
+      "text": "total nephrectomy",
+      "type": "ENTITY",
+      "start": 2856,
+      "end": 2873
+    },
+    {
+      "text": "High",
+      "type": "ENTITY",
+      "start": 2877,
+      "end": 2881
+    },
+    {
+      "text": "grade renal cell carcinoma",
+      "type": "ENTITY",
+      "start": 2882,
+      "end": 2908
+    },
+    {
+      "text": "papillary type II",
+      "type": "ENTITY",
+      "start": 2910,
+      "end": 2927
+    },
+    {
+      "text": "Tumor",
+      "type": "ENTITY",
+      "start": 2940,
+      "end": 2945
+    },
+    {
+      "text": "invades",
+      "type": "ENTITY",
+      "start": 2946,
+      "end": 2953
+    },
+    {
+      "text": "kidney",
+      "type": "ENTITY",
+      "start": 2966,
+      "end": 2972
+    },
+    {
+      "text": "perirenal fat",
+      "type": "ENTITY",
+      "start": 2982,
+      "end": 2995
+    },
+    {
+      "text": "Vein",
+      "type": "ENTITY",
+      "start": 2999,
+      "end": 3003
+    },
+    {
+      "text": "invasion",
+      "type": "ENTITY",
+      "start": 3004,
+      "end": 3012
+    },
+    {
+      "text": "identified",
+      "type": "ENTITY",
+      "start": 3016,
+      "end": 3026
+    },
+    {
+      "text": "Vascular",
+      "type": "ENTITY",
+      "start": 3030,
+      "end": 3038
+    },
+    {
+      "text": "ureteral margins",
+      "type": "ENTITY",
+      "start": 3043,
+      "end": 3059
+    },
+    {
+      "text": "pTNM",
+      "type": "ENTITY",
+      "start": 3083,
+      "end": 3087
+    },
+    {
+      "text": "Mx\n\n--- Page 3 ---\nNote",
+      "type": "ENTITY",
+      "start": 3096,
+      "end": 3119
+    },
+    {
+      "text": "Immunohistochemical stains",
+      "type": "ENTITY",
+      "start": 3121,
+      "end": 3147
+    },
+    {
+      "text": "positive",
+      "type": "ENTITY",
+      "start": 3168,
+      "end": 3176
+    },
+    {
+      "text": "negative controls",
+      "type": "ENTITY",
+      "start": 3182,
+      "end": 3199
+    },
+    {
+      "text": "tumor cells",
+      "type": "ENTITY",
+      "start": 3205,
+      "end": 3216
+    },
+    {
+      "text": "focally positive",
+      "type": "ENTITY",
+      "start": 3217,
+      "end": 3233
+    },
+    {
+      "text": "RCC",
+      "type": "ENTITY",
+      "start": 3238,
+      "end": 3241
+    },
+    {
+      "text": "CK19",
+      "type": "ENTITY",
+      "start": 3243,
+      "end": 3247
+    },
+    {
+      "text": "vimentin",
+      "type": "ENTITY",
+      "start": 3253,
+      "end": 3261
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 3272,
+      "end": 3280
+    },
+    {
+      "text": "CD10",
+      "type": "ENTITY",
+      "start": 3285,
+      "end": 3289
+    },
+    {
+      "text": "CK5/6",
+      "type": "ENTITY",
+      "start": 3303,
+      "end": 3308
+    },
+    {
+      "text": "CD117",
+      "type": "ENTITY",
+      "start": 3313,
+      "end": 3318
+    },
+    {
+      "text": "profile",
+      "type": "ENTITY",
+      "start": 3326,
+      "end": 3333
+    },
+    {
+      "text": "consistent with",
+      "type": "ENTITY",
+      "start": 3337,
+      "end": 3352
+    },
+    {
+      "text": "papillary carcinoma",
+      "type": "ENTITY",
+      "start": 3353,
+      "end": 3372
+    },
+    {
+      "text": "kidney",
+      "type": "ENTITY",
+      "start": 3376,
+      "end": 3382
+    },
+    {
+      "text": "tests",
+      "type": "ENTITY",
+      "start": 3391,
+      "end": 3396
+    },
+    {
+      "text": "performance",
+      "type": "ENTITY",
+      "start": 3422,
+      "end": 3433
+    },
+    {
+      "text": "characteristics",
+      "type": "ENTITY",
+      "start": 3434,
+      "end": 3449
+    },
+    {
+      "text": "immunohistochemistry",
+      "type": "ENTITY",
+      "start": 3469,
+      "end": 3489
+    },
+    {
+      "text": "laboratory",
+      "type": "ENTITY",
+      "start": 3490,
+      "end": 3500
+    },
+    {
+      "text": "tests",
+      "type": "ENTITY",
+      "start": 3515,
+      "end": 3520
+    },
+    {
+      "text": "cleared",
+      "type": "ENTITY",
+      "start": 3535,
+      "end": 3542
+    },
+    {
+      "text": "U.S. Food and Drug Administration",
+      "type": "ENTITY",
+      "start": 3562,
+      "end": 3595
+    },
+    {
+      "text": "FDA",
+      "type": "ENTITY",
+      "start": 3601,
+      "end": 3604
+    },
+    {
+      "text": "clearance",
+      "type": "ENTITY",
+      "start": 3630,
+      "end": 3639
+    },
+    {
+      "text": "approval",
+      "type": "ENTITY",
+      "start": 3643,
+      "end": 3651
+    },
+    {
+      "text": "tests",
+      "type": "ENTITY",
+      "start": 3676,
+      "end": 3681
+    },
+    {
+      "text": "clinical purposes",
+      "type": "ENTITY",
+      "start": 3695,
+      "end": 3712
+    },
+    {
+      "text": "investigational",
+      "type": "ENTITY",
+      "start": 3746,
+      "end": 3761
+    },
+    {
+      "text": "research",
+      "type": "ENTITY",
+      "start": 3769,
+      "end": 3777
+    },
+    {
+      "text": "laboratory",
+      "type": "ENTITY",
+      "start": 3785,
+      "end": 3795
+    },
+    {
+      "text": "Clinical Laboratory Improvement",
+      "type": "ENTITY",
+      "start": 3819,
+      "end": 3850
+    },
+    {
+      "text": "CLIA",
+      "type": "ENTITY",
+      "start": 3872,
+      "end": 3876
+    },
+    {
+      "text": "qualified",
+      "type": "ENTITY",
+      "start": 3881,
+      "end": 3890
+    },
+    {
+      "text": "Gross Description",
+      "type": "ENTITY",
+      "start": 3936,
+      "end": 3953
+    },
+    {
+      "text": "Received",
+      "type": "ENTITY",
+      "start": 3955,
+      "end": 3963
+    },
+    {
+      "text": "parts",
+      "type": "ENTITY",
+      "start": 3973,
+      "end": 3978
+    },
+    {
+      "text": "Source",
+      "type": "ENTITY",
+      "start": 3981,
+      "end": 3987
+    },
+    {
+      "text": "Tissue",
+      "type": "ENTITY",
+      "start": 3991,
+      "end": 3997
+    },
+    {
+      "text": "Labeled",
+      "type": "ENTITY",
+      "start": 4002,
+      "end": 4009
+    },
+    {
+      "text": "\"left kidney mass",
+      "type": "ENTITY",
+      "start": 4014,
+      "end": 4031
+    },
+    {
+      "text": "Intraoperative Consultation",
+      "type": "ENTITY",
+      "start": 4033,
+      "end": 4060
+    },
+    {
+      "text": "CARCINOMA",
+      "type": "ENTITY",
+      "start": 4073,
+      "end": 4082
+    },
+    {
+      "text": "PER DR",
+      "type": "ENTITY",
+      "start": 4083,
+      "end": 4089
+    },
+    {
+      "text": "Gross Description",
+      "type": "ENTITY",
+      "start": 4093,
+      "end": 4110
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 4121,
+      "end": 4126
+    },
+    {
+      "text": "left kidney mass",
+      "type": "ENTITY",
+      "start": 4136,
+      "end": 4152
+    },
+    {
+      "text": "soft red",
+      "type": "ENTITY",
+      "start": 4172,
+      "end": 4180
+    },
+    {
+      "text": "brown irregular tissue fragment",
+      "type": "ENTITY",
+      "start": 4182,
+      "end": 4213
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 4214,
+      "end": 4223
+    },
+    {
+      "text": "*** Source",
+      "type": "ENTITY",
+      "start": 4263,
+      "end": 4273
+    },
+    {
+      "text": "Tissue",
+      "type": "ENTITY",
+      "start": 4277,
+      "end": 4283
+    },
+    {
+      "text": "Labeled",
+      "type": "ENTITY",
+      "start": 4288,
+      "end": 4295
+    },
+    {
+      "text": "\"nodes",
+      "type": "ENTITY",
+      "start": 4300,
+      "end": 4306
+    },
+    {
+      "text": "hilum",
+      "type": "ENTITY",
+      "start": 4310,
+      "end": 4315
+    },
+    {
+      "text": "Gross Description",
+      "type": "ENTITY",
+      "start": 4318,
+      "end": 4335
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 4346,
+      "end": 4351
+    },
+    {
+      "text": "hilum",
+      "type": "ENTITY",
+      "start": 4370,
+      "end": 4375
+    },
+    {
+      "text": "soft",
+      "type": "ENTITY",
+      "start": 4397,
+      "end": 4401
+    },
+    {
+      "text": "irregular",
+      "type": "ENTITY",
+      "start": 4414,
+      "end": 4423
+    },
+    {
+      "text": "fibrofatty",
+      "type": "ENTITY",
+      "start": 4424,
+      "end": 4434
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 4452,
+      "end": 4461
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 4484,
+      "end": 4492
+    },
+    {
+      "text": "soft",
+      "type": "ENTITY",
+      "start": 4518,
+      "end": 4522
+    },
+    {
+      "text": "fibrofatty",
+      "type": "ENTITY",
+      "start": 4534,
+      "end": 4544
+    },
+    {
+      "text": "cut surface",
+      "type": "ENTITY",
+      "start": 4545,
+      "end": 4556
+    },
+    {
+      "text": "cassette 2A",
+      "type": "ENTITY",
+      "start": 4581,
+      "end": 4592
+    },
+    {
+      "text": "*********** Source",
+      "type": "ENTITY",
+      "start": 4594,
+      "end": 4612
+    },
+    {
+      "text": "Tissue",
+      "type": "ENTITY",
+      "start": 4616,
+      "end": 4622
+    },
+    {
+      "text": "Labeled",
+      "type": "ENTITY",
+      "start": 4627,
+      "end": 4634
+    },
+    {
+      "text": "Gross Description",
+      "type": "ENTITY",
+      "start": 4658,
+      "end": 4675
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 4686,
+      "end": 4691
+    },
+    {
+      "text": "diaphragm",
+      "type": "ENTITY",
+      "start": 4708,
+      "end": 4717
+    },
+    {
+      "text": "soft",
+      "type": "ENTITY",
+      "start": 4741,
+      "end": 4745
+    },
+    {
+      "text": "irregular",
+      "type": "ENTITY",
+      "start": 4758,
+      "end": 4767
+    },
+    {
+      "text": "fibrofatty",
+      "type": "ENTITY",
+      "start": 4768,
+      "end": 4778
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 4796,
+      "end": 4805
+    },
+    {
+      "text": "aggregate",
+      "type": "ENTITY",
+      "start": 4827,
+      "end": 4836
+    },
+    {
+      "text": "cassette 3A",
+      "type": "ENTITY",
+      "start": 4860,
+      "end": 4871
+    },
+    {
+      "text": "*** Source",
+      "type": "ENTITY",
+      "start": 4873,
+      "end": 4883
+    },
+    {
+      "text": "Tissue",
+      "type": "ENTITY",
+      "start": 4887,
+      "end": 4893
+    },
+    {
+      "text": "Labeled",
+      "type": "ENTITY",
+      "start": 4898,
+      "end": 4905
+    },
+    {
+      "text": "margin",
+      "type": "ENTITY",
+      "start": 4920,
+      "end": 4926
+    },
+    {
+      "text": "Gross Description",
+      "type": "ENTITY",
+      "start": 4929,
+      "end": 4946
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 4957,
+      "end": 4962
+    },
+    {
+      "text": "margin",
+      "type": "ENTITY",
+      "start": 4981,
+      "end": 4987
+    },
+    {
+      "text": "soft yellow-",
+      "type": "ENTITY",
+      "start": 5007,
+      "end": 5019
+    },
+    {
+      "text": "irregular",
+      "type": "ENTITY",
+      "start": 5025,
+      "end": 5034
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 5062,
+      "end": 5071
+    },
+    {
+      "text": "cassette 4A",
+      "type": "ENTITY",
+      "start": 5114,
+      "end": 5125
+    },
+    {
+      "text": "*******\n\n",
+      "type": "ENTITY",
+      "start": 5127,
+      "end": 5136
+    },
+    {
+      "text": "Tissue",
+      "type": "ENTITY",
+      "start": 5161,
+      "end": 5167
+    },
+    {
+      "text": "Labeled",
+      "type": "ENTITY",
+      "start": 5172,
+      "end": 5179
+    },
+    {
+      "text": "apex' Gross",
+      "type": "ENTITY",
+      "start": 5217,
+      "end": 5228
+    },
+    {
+      "text": "Description",
+      "type": "ENTITY",
+      "start": 5229,
+      "end": 5240
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 5251,
+      "end": 5256
+    },
+    {
+      "text": "medial",
+      "type": "ENTITY",
+      "start": 5266,
+      "end": 5272
+    },
+    {
+      "text": "apex",
+      "type": "ENTITY",
+      "start": 5298,
+      "end": 5302
+    },
+    {
+      "text": "soft",
+      "type": "ENTITY",
+      "start": 5322,
+      "end": 5326
+    },
+    {
+      "text": "irregular",
+      "type": "ENTITY",
+      "start": 5338,
+      "end": 5347
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 5375,
+      "end": 5384
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 5407,
+      "end": 5415
+    },
+    {
+      "text": "soft",
+      "type": "ENTITY",
+      "start": 5439,
+      "end": 5443
+    },
+    {
+      "text": "fibrofatty",
+      "type": "ENTITY",
+      "start": 5455,
+      "end": 5465
+    },
+    {
+      "text": "no masses",
+      "type": "ENTITY",
+      "start": 5483,
+      "end": 5492
+    },
+    {
+      "text": "No obvious",
+      "type": "ENTITY",
+      "start": 5502,
+      "end": 5512
+    },
+    {
+      "text": "palpable",
+      "type": "ENTITY",
+      "start": 5513,
+      "end": 5521
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 5522,
+      "end": 5533
+    },
+    {
+      "text": "Entirely submitted",
+      "type": "ENTITY",
+      "start": 5543,
+      "end": 5561
+    },
+    {
+      "text": "cassettes",
+      "type": "ENTITY",
+      "start": 5565,
+      "end": 5574
+    },
+    {
+      "text": "5A-5B",
+      "type": "ENTITY",
+      "start": 5575,
+      "end": 5580
+    },
+    {
+      "text": "Tissue",
+      "type": "ENTITY",
+      "start": 5592,
+      "end": 5598
+    },
+    {
+      "text": "Labeled",
+      "type": "ENTITY",
+      "start": 5603,
+      "end": 5610
+    },
+    {
+      "text": "retroperitoneal",
+      "type": "ENTITY",
+      "start": 5616,
+      "end": 5631
+    },
+    {
+      "text": "Gross Description",
+      "type": "ENTITY",
+      "start": 5645,
+      "end": 5662
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 5673,
+      "end": 5678
+    },
+    {
+      "text": "retroperitoneal",
+      "type": "ENTITY",
+      "start": 5688,
+      "end": 5703
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 5704,
+      "end": 5715
+    },
+    {
+      "text": "soft",
+      "type": "ENTITY",
+      "start": 5737,
+      "end": 5741
+    },
+    {
+      "text": "irregular",
+      "type": "ENTITY",
+      "start": 5753,
+      "end": 5762
+    },
+    {
+      "text": "fibrofatty",
+      "type": "ENTITY",
+      "start": 5763,
+      "end": 5773
+    },
+    {
+      "text": "tissue fragments",
+      "type": "ENTITY",
+      "start": 5774,
+      "end": 5790
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 5791,
+      "end": 5800
+    },
+    {
+      "text": "aggregate",
+      "type": "ENTITY",
+      "start": 5819,
+      "end": 5828
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 5834,
+      "end": 5842
+    },
+    {
+      "text": "homogeneous",
+      "type": "ENTITY",
+      "start": 5868,
+      "end": 5879
+    },
+    {
+      "text": "soft",
+      "type": "ENTITY",
+      "start": 5881,
+      "end": 5885
+    },
+    {
+      "text": "fibrofatty",
+      "type": "ENTITY",
+      "start": 5897,
+      "end": 5907
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 5937,
+      "end": 5948
+    },
+    {
+      "text": "Entirely submitted",
+      "type": "ENTITY",
+      "start": 5958,
+      "end": 5976
+    },
+    {
+      "text": "cassettes",
+      "type": "ENTITY",
+      "start": 5980,
+      "end": 5989
+    },
+    {
+      "text": "Tissue",
+      "type": "ENTITY",
+      "start": 6046,
+      "end": 6052
+    },
+    {
+      "text": "Labeled",
+      "type": "ENTITY",
+      "start": 6057,
+      "end": 6064
+    },
+    {
+      "text": "\"left ureter",
+      "type": "ENTITY",
+      "start": 6069,
+      "end": 6081
+    },
+    {
+      "text": "stitch marks distal",
+      "type": "ENTITY",
+      "start": 6083,
+      "end": 6102
+    },
+    {
+      "text": "Gross Description",
+      "type": "ENTITY",
+      "start": 6108,
+      "end": 6125
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 6136,
+      "end": 6141
+    },
+    {
+      "text": "stitch marks distal",
+      "type": "ENTITY",
+      "start": 6164,
+      "end": 6183
+    },
+    {
+      "text": "soft tan-pink",
+      "type": "ENTITY",
+      "start": 6208,
+      "end": 6221
+    },
+    {
+      "text": "tubular tissue",
+      "type": "ENTITY",
+      "start": 6222,
+      "end": 6236
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 6237,
+      "end": 6246
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 6258,
+      "end": 6264
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 6279,
+      "end": 6287
+    },
+    {
+      "text": "outer",
+      "type": "ENTITY",
+      "start": 6293,
+      "end": 6298
+    },
+    {
+      "text": "surface",
+      "type": "ENTITY",
+      "start": 6299,
+      "end": 6306
+    },
+    {
+      "text": "inked black",
+      "type": "ENTITY",
+      "start": 6310,
+      "end": 6321
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 6327,
+      "end": 6335
+    },
+    {
+      "text": "smooth tan-pink",
+      "type": "ENTITY",
+      "start": 6368,
+      "end": 6383
+    },
+    {
+      "text": "papillary structures",
+      "type": "ENTITY",
+      "start": 6412,
+      "end": 6432
+    },
+    {
+      "text": "Representative sections",
+      "type": "ENTITY",
+      "start": 6440,
+      "end": 6463
+    },
+    {
+      "text": "7A-7E",
+      "type": "ENTITY",
+      "start": 6481,
+      "end": 6486
+    },
+    {
+      "text": "Designation",
+      "type": "ENTITY",
+      "start": 6488,
+      "end": 6499
+    },
+    {
+      "text": "Sections",
+      "type": "ENTITY",
+      "start": 6503,
+      "end": 6511
+    },
+    {
+      "text": "distal resection margin",
+      "type": "ENTITY",
+      "start": 6517,
+      "end": 6540
+    },
+    {
+      "text": "proximal",
+      "type": "ENTITY",
+      "start": 6546,
+      "end": 6554
+    },
+    {
+      "text": "resection margin",
+      "type": "ENTITY",
+      "start": 6555,
+      "end": 6571
+    },
+    {
+      "text": "random",
+      "type": "ENTITY",
+      "start": 6580,
+      "end": 6586
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 6587,
+      "end": 6595
+    },
+    {
+      "text": "distal",
+      "type": "ENTITY",
+      "start": 6618,
+      "end": 6624
+    },
+    {
+      "text": "proximal",
+      "type": "ENTITY",
+      "start": 6628,
+      "end": 6636
+    },
+    {
+      "text": "Tissue",
+      "type": "ENTITY",
+      "start": 6720,
+      "end": 6726
+    },
+    {
+      "text": "Labeled",
+      "type": "ENTITY",
+      "start": 6731,
+      "end": 6738
+    },
+    {
+      "text": "\"left kidney",
+      "type": "ENTITY",
+      "start": 6743,
+      "end": 6755
+    },
+    {
+      "text": "stitch marks",
+      "type": "ENTITY",
+      "start": 6757,
+      "end": 6769
+    },
+    {
+      "text": "gross tumor protruding",
+      "type": "ENTITY",
+      "start": 6778,
+      "end": 6800
+    },
+    {
+      "text": "kidney",
+      "type": "ENTITY",
+      "start": 6812,
+      "end": 6818
+    },
+    {
+      "text": "Gross Description",
+      "type": "ENTITY",
+      "start": 6820,
+      "end": 6837
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 6848,
+      "end": 6853
+    },
+    {
+      "text": "left kidney",
+      "type": "ENTITY",
+      "start": 6863,
+      "end": 6874
+    },
+    {
+      "text": "stitch marks",
+      "type": "ENTITY",
+      "start": 6876,
+      "end": 6888
+    },
+    {
+      "text": "gross tumor protruding",
+      "type": "ENTITY",
+      "start": 6897,
+      "end": 6919
+    },
+    {
+      "text": "kidney",
+      "type": "ENTITY",
+      "start": 6931,
+      "end": 6937
+    },
+    {
+      "text": "kidney",
+      "type": "ENTITY",
+      "start": 6957,
+      "end": 6963
+    },
+    {
+      "text": "perinephric fat",
+      "type": "ENTITY",
+      "start": 6981,
+      "end": 6996
+    },
+    {
+      "text": "grams",
+      "type": "ENTITY",
+      "start": 7021,
+      "end": 7026
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 7031,
+      "end": 7040
+    },
+    {
+      "text": "orientation suture",
+      "type": "ENTITY",
+      "start": 7066,
+      "end": 7084
+    },
+    {
+      "text": "identified",
+      "type": "ENTITY",
+      "start": 7088,
+      "end": 7098
+    },
+    {
+      "text": "ureter",
+      "type": "ENTITY",
+      "start": 7113,
+      "end": 7119
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 7120,
+      "end": 7128
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 7140,
+      "end": 7146
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 7161,
+      "end": 7169
+    },
+    {
+      "text": "ureter",
+      "type": "ENTITY",
+      "start": 7175,
+      "end": 7181
+    },
+    {
+      "text": "smooth",
+      "type": "ENTITY",
+      "start": 7204,
+      "end": 7210
+    },
+    {
+      "text": "tan-pink",
+      "type": "ENTITY",
+      "start": 7211,
+      "end": 7219
+    },
+    {
+      "text": "mucosal lining",
+      "type": "ENTITY",
+      "start": 7220,
+      "end": 7234
+    },
+    {
+      "text": "ulcerations",
+      "type": "ENTITY",
+      "start": 7243,
+      "end": 7254
+    },
+    {
+      "text": "polyps",
+      "type": "ENTITY",
+      "start": 7258,
+      "end": 7264
+    },
+    {
+      "text": "kidney",
+      "type": "ENTITY",
+      "start": 7278,
+      "end": 7284
+    },
+    {
+      "text": "bisected",
+      "type": "ENTITY",
+      "start": 7288,
+      "end": 7296
+    },
+    {
+      "text": "superior",
+      "type": "ENTITY",
+      "start": 7388,
+      "end": 7396
+    },
+    {
+      "text": "pole",
+      "type": "ENTITY",
+      "start": 7405,
+      "end": 7409
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 7424,
+      "end": 7432
+    },
+    {
+      "text": "sutured area",
+      "type": "ENTITY",
+      "start": 7438,
+      "end": 7450
+    },
+    {
+      "text": "surrounding",
+      "type": "ENTITY",
+      "start": 7455,
+      "end": 7466
+    },
+    {
+      "text": "fat margin",
+      "type": "ENTITY",
+      "start": 7467,
+      "end": 7477
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 7489,
+      "end": 7494
+    },
+    {
+      "text": "inked green",
+      "type": "ENTITY",
+      "start": 7499,
+      "end": 7510
+    },
+    {
+      "text": "ureteropelvic junction",
+      "type": "ENTITY",
+      "start": 7516,
+      "end": 7538
+    },
+    {
+      "text": "unremarkable",
+      "type": "ENTITY",
+      "start": 7547,
+      "end": 7559
+    },
+    {
+      "text": "anterior pole",
+      "type": "ENTITY",
+      "start": 7565,
+      "end": 7578
+    },
+    {
+      "text": "approximately",
+      "type": "ENTITY",
+      "start": 7584,
+      "end": 7597
+    },
+    {
+      "text": "renal pelvis",
+      "type": "ENTITY",
+      "start": 7609,
+      "end": 7621
+    },
+    {
+      "text": "unremarkable",
+      "type": "ENTITY",
+      "start": 7635,
+      "end": 7647
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 7653,
+      "end": 7658
+    },
+    {
+      "text": "capsule",
+      "type": "ENTITY",
+      "start": 7704,
+      "end": 7711
+    },
+    {
+      "text": "Tissue",
+      "type": "ENTITY",
+      "start": 7713,
+      "end": 7719
+    },
+    {
+      "text": "tumor bank",
+      "type": "ENTITY",
+      "start": 7733,
+      "end": 7743
+    },
+    {
+      "text": "representative",
+      "type": "ENTITY",
+      "start": 7748,
+      "end": 7762
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 7763,
+      "end": 7771
+    },
+    {
+      "text": "Sections",
+      "type": "ENTITY",
+      "start": 7820,
+      "end": 7828
+    },
+    {
+      "text": "urethral",
+      "type": "ENTITY",
+      "start": 7834,
+      "end": 7842
+    },
+    {
+      "text": "vascular margins",
+      "type": "ENTITY",
+      "start": 7847,
+      "end": 7863
+    },
+    {
+      "text": "8B-",
+      "type": "ENTITY",
+      "start": 7865,
+      "end": 7868
+    },
+    {
+      "text": "random",
+      "type": "ENTITY",
+      "start": 7881,
+      "end": 7887
+    },
+    {
+      "text": "ureter",
+      "type": "ENTITY",
+      "start": 7899,
+      "end": 7905
+    },
+    {
+      "text": "ureteropelvic junction",
+      "type": "ENTITY",
+      "start": 7911,
+      "end": 7933
+    },
+    {
+      "text": "protruding section",
+      "type": "ENTITY",
+      "start": 7942,
+      "end": 7960
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 7964,
+      "end": 7969
+    },
+    {
+      "text": "kidney",
+      "type": "ENTITY",
+      "start": 7989,
+      "end": 7995
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 8004,
+      "end": 8009
+    },
+    {
+      "text": "capsule",
+      "type": "ENTITY",
+      "start": 8036,
+      "end": 8043
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 8052,
+      "end": 8057
+    },
+    {
+      "text": "adjacent",
+      "type": "ENTITY",
+      "start": 8063,
+      "end": 8071
+    },
+    {
+      "text": "renal pelvis",
+      "type": "ENTITY",
+      "start": 8083,
+      "end": 8095
+    },
+    {
+      "text": "Status Date Complete",
+      "type": "ENTITY",
+      "start": 8137,
+      "end": 8157
+    },
+    {
+      "text": "Date",
+      "type": "ENTITY",
+      "start": 8163,
+      "end": 8167
+    },
+    {
+      "text": "Reported",
+      "type": "ENTITY",
+      "start": 8168,
+      "end": 8176
+    },
+    {
+      "text": "Diagnosis",
+      "type": "ENTITY",
+      "start": 8186,
+      "end": 8195
+    },
+    {
+      "text": "patient'",
+      "type": "ENTITY",
+      "start": 8207,
+      "end": 8215
+    },
+    {
+      "text": "history",
+      "type": "ENTITY",
+      "start": 8218,
+      "end": 8225
+    },
+    {
+      "text": "thyroid cancer",
+      "type": "ENTITY",
+      "start": 8229,
+      "end": 8243
+    },
+    {
+      "text": "renal lesion",
+      "type": "ENTITY",
+      "start": 8269,
+      "end": 8281
+    },
+    {
+      "text": "stained with",
+      "type": "ENTITY",
+      "start": 8286,
+      "end": 8298
+    },
+    {
+      "text": "antibodies",
+      "type": "ENTITY",
+      "start": 8299,
+      "end": 8309
+    },
+    {
+      "text": "TTF-1",
+      "type": "ENTITY",
+      "start": 8310,
+      "end": 8315
+    },
+    {
+      "text": "thyroglobulin",
+      "type": "ENTITY",
+      "start": 8317,
+      "end": 8330
+    },
+    {
+      "text": "pan keratin",
+      "type": "ENTITY",
+      "start": 8335,
+      "end": 8346
+    },
+    {
+      "text": "Positive",
+      "type": "ENTITY",
+      "start": 8348,
+      "end": 8356
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 8361,
+      "end": 8369
+    },
+    {
+      "text": "satisfactory",
+      "type": "ENTITY",
+      "start": 8389,
+      "end": 8401
+    },
+    {
+      "text": "Tumor",
+      "type": "ENTITY",
+      "start": 8403,
+      "end": 8408
+    },
+    {
+      "text": "positive",
+      "type": "ENTITY",
+      "start": 8412,
+      "end": 8420
+    },
+    {
+      "text": "keratin",
+      "type": "ENTITY",
+      "start": 8425,
+      "end": 8432
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 8437,
+      "end": 8445
+    },
+    {
+      "text": "TTF-1",
+      "type": "ENTITY",
+      "start": 8450,
+      "end": 8455
+    },
+    {
+      "text": "thyroglobulin",
+      "type": "ENTITY",
+      "start": 8460,
+      "end": 8473
+    },
+    {
+      "text": "diagnosis",
+      "type": "ENTITY",
+      "start": 8479,
+      "end": 8488
+    },
+    {
+      "text": "kidney cancer",
+      "type": "ENTITY",
+      "start": 8492,
+      "end": 8505
+    },
+    {
+      "text": "unchanged",
+      "type": "ENTITY",
+      "start": 8509,
+      "end": 8518
+    },
+    {
+      "text": "tests",
+      "type": "ENTITY",
+      "start": 8526,
+      "end": 8531
+    },
+    {
+      "text": "performance",
+      "type": "ENTITY",
+      "start": 8557,
+      "end": 8568
+    },
+    {
+      "text": "characteristics",
+      "type": "ENTITY",
+      "start": 8569,
+      "end": 8584
+    },
+    {
+      "text": "immunohistochemistry laboratory",
+      "type": "ENTITY",
+      "start": 8604,
+      "end": 8635
+    },
+    {
+      "text": "tests",
+      "type": "ENTITY",
+      "start": 8649,
+      "end": 8654
+    },
+    {
+      "text": "cleared",
+      "type": "ENTITY",
+      "start": 8669,
+      "end": 8676
+    },
+    {
+      "text": "U.S. Food and Drug Administration",
+      "type": "ENTITY",
+      "start": 8696,
+      "end": 8729
+    },
+    {
+      "text": "FDA",
+      "type": "ENTITY",
+      "start": 8735,
+      "end": 8738
+    },
+    {
+      "text": "clearance",
+      "type": "ENTITY",
+      "start": 8764,
+      "end": 8773
+    },
+    {
+      "text": "approval",
+      "type": "ENTITY",
+      "start": 8778,
+      "end": 8786
+    },
+    {
+      "text": "tests",
+      "type": "ENTITY",
+      "start": 8811,
+      "end": 8816
+    },
+    {
+      "text": "clinical purposes",
+      "type": "ENTITY",
+      "start": 8830,
+      "end": 8847
+    },
+    {
+      "text": "investigational",
+      "type": "ENTITY",
+      "start": 8880,
+      "end": 8895
+    },
+    {
+      "text": "research",
+      "type": "ENTITY",
+      "start": 8903,
+      "end": 8911
+    },
+    {
+      "text": "laboratory",
+      "type": "ENTITY",
+      "start": 8918,
+      "end": 8928
+    },
+    {
+      "text": "Clinical Laboratory Improvement",
+      "type": "ENTITY",
+      "start": 8952,
+      "end": 8983
+    },
+    {
+      "text": "CLIA",
+      "type": "ENTITY",
+      "start": 9004,
+      "end": 9008
+    },
+    {
+      "text": "qualified",
+      "type": "ENTITY",
+      "start": 9013,
+      "end": 9022
+    },
+    {
+      "text": "clinical",
+      "type": "ENTITY",
+      "start": 9050,
+      "end": 9058
+    },
+    {
+      "text": "testing",
+      "type": "ENTITY",
+      "start": 9060,
+      "end": 9067
+    }
+  ],
+  "entity_count": 434,
+  "has_embedding": true
+}

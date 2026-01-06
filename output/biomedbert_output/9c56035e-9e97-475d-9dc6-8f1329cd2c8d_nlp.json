@@ -1,0 +1,1982 @@
+{
+  "filename": "9c56035e-9e97-475d-9dc6-8f1329cd2c8d",
+  "timestamp": "2026-01-05T14:45:05.340851",
+  "entities": [
+    {
+      "text": "Patient",
+      "type": "ENTITY",
+      "start": 30,
+      "end": 37
+    },
+    {
+      "text": "MRN",
+      "type": "ENTITY",
+      "start": 38,
+      "end": 41
+    },
+    {
+      "text": "DOB",
+      "type": "ENTITY",
+      "start": 42,
+      "end": 45
+    },
+    {
+      "text": "UUID",
+      "type": "ENTITY",
+      "start": 50,
+      "end": 54
+    },
+    {
+      "text": "DE38B130-FD4D-4077-ADBE-D034C2F5F003 Reda Date",
+      "type": "ENTITY",
+      "start": 56,
+      "end": 102
+    },
+    {
+      "text": "Service",
+      "type": "ENTITY",
+      "start": 106,
+      "end": 113
+    },
+    {
+      "text": "TCGA-FV-A2QR-01A-PR",
+      "type": "ENTITY",
+      "start": 114,
+      "end": 133
+    },
+    {
+      "text": "Facility",
+      "type": "ENTITY",
+      "start": 145,
+      "end": 153
+    },
+    {
+      "text": "Provider Resuit Provider Report",
+      "type": "ENTITY",
+      "start": 164,
+      "end": 195
+    },
+    {
+      "text": "Surgical Report Status",
+      "type": "ENTITY",
+      "start": 203,
+      "end": 225
+    },
+    {
+      "text": "A. GALLBLADDER",
+      "type": "ENTITY",
+      "start": 306,
+      "end": 320
+    },
+    {
+      "text": "CUCT",
+      "type": "ENTITY",
+      "start": 342,
+      "end": 346
+    },
+    {
+      "text": "TUMOR",
+      "type": "ENTITY",
+      "start": 347,
+      "end": 352
+    },
+    {
+      "text": "CPC",
+      "type": "ENTITY",
+      "start": 384,
+      "end": 387
+    },
+    {
+      "text": "taciume",
+      "type": "ENTITY",
+      "start": 388,
+      "end": 395
+    },
+    {
+      "text": "hepatocllule",
+      "type": "ENTITY",
+      "start": 397,
+      "end": 409
+    },
+    {
+      "text": "NoS",
+      "type": "ENTITY",
+      "start": 411,
+      "end": 414
+    },
+    {
+      "text": "DUCT MARGIN",
+      "type": "ENTITY",
+      "start": 423,
+      "end": 434
+    },
+    {
+      "text": "Cholangiocarcinoma Site",
+      "type": "ENTITY",
+      "start": 469,
+      "end": 492
+    },
+    {
+      "text": "hir",
+      "type": "ENTITY",
+      "start": 494,
+      "end": 497
+    },
+    {
+      "text": "CJ2.0",
+      "type": "ENTITY",
+      "start": 498,
+      "end": 503
+    },
+    {
+      "text": "Same",
+      "type": "ENTITY",
+      "start": 541,
+      "end": 545
+    },
+    {
+      "text": "** CLINICAL",
+      "type": "ENTITY",
+      "start": 546,
+      "end": 557
+    },
+    {
+      "text": "INTRAOPERATIVE CONSULTATION",
+      "type": "ENTITY",
+      "start": 586,
+      "end": 613
+    },
+    {
+      "text": "Tissue",
+      "type": "ENTITY",
+      "start": 632,
+      "end": 638
+    },
+    {
+      "text": "genomics study",
+      "type": "ENTITY",
+      "start": 653,
+      "end": 667
+    },
+    {
+      "text": "margin",
+      "type": "ENTITY",
+      "start": 669,
+      "end": 675
+    },
+    {
+      "text": "inked",
+      "type": "ENTITY",
+      "start": 676,
+      "end": 681
+    },
+    {
+      "text": "GROSS",
+      "type": "ENTITY",
+      "start": 688,
+      "end": 693
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 714,
+      "end": 722
+    },
+    {
+      "text": "gallbladder",
+      "type": "ENTITY",
+      "start": 737,
+      "end": 748
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 750,
+      "end": 759
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 770,
+      "end": 776
+    },
+    {
+      "text": "external diameter",
+      "type": "ENTITY",
+      "start": 799,
+      "end": 816
+    },
+    {
+      "text": "cystic duct",
+      "type": "ENTITY",
+      "start": 822,
+      "end": 833
+    },
+    {
+      "text": "opening",
+      "type": "ENTITY",
+      "start": 855,
+      "end": 862
+    },
+    {
+      "text": "irregular",
+      "type": "ENTITY",
+      "start": 866,
+      "end": 875
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 880,
+      "end": 888
+    },
+    {
+      "text": "irregular",
+      "type": "ENTITY",
+      "start": 938,
+      "end": 947
+    },
+    {
+      "text": "opening",
+      "type": "ENTITY",
+      "start": 948,
+      "end": 955
+    },
+    {
+      "text": "transmural mechanical defect",
+      "type": "ENTITY",
+      "start": 968,
+      "end": 996
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 998,
+      "end": 1007
+    },
+    {
+      "text": "serosa1 surface",
+      "type": "ENTITY",
+      "start": 1027,
+      "end": 1042
+    },
+    {
+      "text": "smooth",
+      "type": "ENTITY",
+      "start": 1046,
+      "end": 1052
+    },
+    {
+      "text": "tan-pink",
+      "type": "ENTITY",
+      "start": 1057,
+      "end": 1065
+    },
+    {
+      "text": "gallbladder",
+      "type": "ENTITY",
+      "start": 1071,
+      "end": 1082
+    },
+    {
+      "text": "inked black",
+      "type": "ENTITY",
+      "start": 1086,
+      "end": 1097
+    },
+    {
+      "text": "mucosal",
+      "type": "ENTITY",
+      "start": 1126,
+      "end": 1133
+    },
+    {
+      "text": "surface",
+      "type": "ENTITY",
+      "start": 1134,
+      "end": 1141
+    },
+    {
+      "text": "congested",
+      "type": "ENTITY",
+      "start": 1145,
+      "end": 1154
+    },
+    {
+      "text": "rough",
+      "type": "ENTITY",
+      "start": 1168,
+      "end": 1173
+    },
+    {
+      "text": "ulceration",
+      "type": "ENTITY",
+      "start": 1195,
+      "end": 1205
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1222,
+      "end": 1230
+    },
+    {
+      "text": "lesion",
+      "type": "ENTITY",
+      "start": 1269,
+      "end": 1275
+    },
+    {
+      "text": "identified",
+      "type": "ENTITY",
+      "start": 1279,
+      "end": 1289
+    },
+    {
+      "text": "wall",
+      "type": "ENTITY",
+      "start": 1295,
+      "end": 1299
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 1300,
+      "end": 1308
+    },
+    {
+      "text": "thickness",
+      "type": "ENTITY",
+      "start": 1319,
+      "end": 1328
+    },
+    {
+      "text": "No lymph node",
+      "type": "ENTITY",
+      "start": 1330,
+      "end": 1343
+    },
+    {
+      "text": "identitied",
+      "type": "ENTITY",
+      "start": 1347,
+      "end": 1357
+    },
+    {
+      "text": "externally",
+      "type": "ENTITY",
+      "start": 1358,
+      "end": 1368
+    },
+    {
+      "text": "container",
+      "type": "ENTITY",
+      "start": 1402,
+      "end": 1411
+    },
+    {
+      "text": "irregular",
+      "type": "ENTITY",
+      "start": 1420,
+      "end": 1429
+    },
+    {
+      "text": "tan-brown calculi",
+      "type": "ENTITY",
+      "start": 1430,
+      "end": 1447
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 1454,
+      "end": 1463
+    },
+    {
+      "text": "sectioning",
+      "type": "ENTITY",
+      "start": 1487,
+      "end": 1497
+    },
+    {
+      "text": "calculi",
+      "type": "ENTITY",
+      "start": 1503,
+      "end": 1510
+    },
+    {
+      "text": "tan-brown",
+      "type": "ENTITY",
+      "start": 1527,
+      "end": 1536
+    },
+    {
+      "text": "friable material",
+      "type": "ENTITY",
+      "start": 1537,
+      "end": 1553
+    },
+    {
+      "text": "Representative sections",
+      "type": "ENTITY",
+      "start": 1555,
+      "end": 1578
+    },
+    {
+      "text": "cassettes",
+      "type": "ENTITY",
+      "start": 1601,
+      "end": 1610
+    },
+    {
+      "text": "cassette 1",
+      "type": "ENTITY",
+      "start": 1623,
+      "end": 1633
+    },
+    {
+      "text": "opening",
+      "type": "ENTITY",
+      "start": 1636,
+      "end": 1643
+    },
+    {
+      "text": "cassettes",
+      "type": "ENTITY",
+      "start": 1645,
+      "end": 1654
+    },
+    {
+      "text": "4",
+      "type": "ENTITY",
+      "start": 1665,
+      "end": 1666
+    },
+    {
+      "text": "random",
+      "type": "ENTITY",
+      "start": 1669,
+      "end": 1675
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 1676,
+      "end": 1684
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1693,
+      "end": 1701
+    },
+    {
+      "text": "portion",
+      "type": "ENTITY",
+      "start": 1718,
+      "end": 1725
+    },
+    {
+      "text": "irregular",
+      "type": "ENTITY",
+      "start": 1729,
+      "end": 1738
+    },
+    {
+      "text": "tan-pink",
+      "type": "ENTITY",
+      "start": 1739,
+      "end": 1747
+    },
+    {
+      "text": "soft tissue",
+      "type": "ENTITY",
+      "start": 1748,
+      "end": 1759
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 1760,
+      "end": 1769
+    },
+    {
+      "text": "external",
+      "type": "ENTITY",
+      "start": 1794,
+      "end": 1802
+    },
+    {
+      "text": "surface",
+      "type": "ENTITY",
+      "start": 1803,
+      "end": 1810
+    },
+    {
+      "text": "rough",
+      "type": "ENTITY",
+      "start": 1814,
+      "end": 1819
+    },
+    {
+      "text": "visualized",
+      "type": "ENTITY",
+      "start": 1843,
+      "end": 1853
+    },
+    {
+      "text": "surface",
+      "type": "ENTITY",
+      "start": 1875,
+      "end": 1882
+    },
+    {
+      "text": "inked black",
+      "type": "ENTITY",
+      "start": 1886,
+      "end": 1897
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1906,
+      "end": 1914
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 1942,
+      "end": 1950
+    },
+    {
+      "text": "tissue",
+      "type": "ENTITY",
+      "start": 1971,
+      "end": 1977
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1983,
+      "end": 1991
+    },
+    {
+      "text": "cassette",
+      "type": "ENTITY",
+      "start": 2020,
+      "end": 2028
+    },
+    {
+      "text": "specinen",
+      "type": "ENTITY",
+      "start": 2041,
+      "end": 2049
+    },
+    {
+      "text": "left lobe",
+      "type": "ENTITY",
+      "start": 2066,
+      "end": 2075
+    },
+    {
+      "text": "liver",
+      "type": "ENTITY",
+      "start": 2079,
+      "end": 2084
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 2089,
+      "end": 2097
+    },
+    {
+      "text": "Patient",
+      "type": "ENTITY",
+      "start": 2139,
+      "end": 2146
+    },
+    {
+      "text": "MRN",
+      "type": "ENTITY",
+      "start": 2147,
+      "end": 2150
+    },
+    {
+      "text": "DOB",
+      "type": "ENTITY",
+      "start": 2151,
+      "end": 2154
+    },
+    {
+      "text": "Facility Ordering Provider",
+      "type": "ENTITY",
+      "start": 2183,
+      "end": 2209
+    },
+    {
+      "text": "Provider Report",
+      "type": "ENTITY",
+      "start": 2218,
+      "end": 2233
+    },
+    {
+      "text": "Surgical Report",
+      "type": "ENTITY",
+      "start": 2240,
+      "end": 2255
+    },
+    {
+      "text": "Status",
+      "type": "ENTITY",
+      "start": 2257,
+      "end": 2263
+    },
+    {
+      "text": "DXSTIC",
+      "type": "ENTITY",
+      "start": 2267,
+      "end": 2273
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 2290,
+      "end": 2298
+    },
+    {
+      "text": "grams",
+      "type": "ENTITY",
+      "start": 2310,
+      "end": 2315
+    },
+    {
+      "text": "capsular",
+      "type": "ENTITY",
+      "start": 2321,
+      "end": 2329
+    },
+    {
+      "text": "surface",
+      "type": "ENTITY",
+      "start": 2330,
+      "end": 2337
+    },
+    {
+      "text": "tan-brown",
+      "type": "ENTITY",
+      "start": 2341,
+      "end": 2350
+    },
+    {
+      "text": "multiple",
+      "type": "ENTITY",
+      "start": 2358,
+      "end": 2366
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 2405,
+      "end": 2414
+    },
+    {
+      "text": "superior",
+      "type": "ENTITY",
+      "start": 2441,
+      "end": 2449
+    },
+    {
+      "text": "surface",
+      "type": "ENTITY",
+      "start": 2450,
+      "end": 2457
+    },
+    {
+      "text": "inferior surface",
+      "type": "ENTITY",
+      "start": 2466,
+      "end": 2482
+    },
+    {
+      "text": "surgical resection surface",
+      "type": "ENTITY",
+      "start": 2488,
+      "end": 2514
+    },
+    {
+      "text": "tan-brown cauterization",
+      "type": "ENTITY",
+      "start": 2523,
+      "end": 2546
+    },
+    {
+      "text": "Immedrately",
+      "type": "ENTITY",
+      "start": 2548,
+      "end": 2559
+    },
+    {
+      "text": "surgical resection surface",
+      "type": "ENTITY",
+      "start": 2576,
+      "end": 2602
+    },
+    {
+      "text": "segment",
+      "type": "ENTITY",
+      "start": 2615,
+      "end": 2622
+    },
+    {
+      "text": "left hepatic bile duct",
+      "type": "ENTITY",
+      "start": 2626,
+      "end": 2648
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 2650,
+      "end": 2659
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 2670,
+      "end": 2676
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 2689,
+      "end": 2697
+    },
+    {
+      "text": "dista! end",
+      "type": "ENTITY",
+      "start": 2703,
+      "end": 2713
+    },
+    {
+      "text": "hepatic bile duct",
+      "type": "ENTITY",
+      "start": 2721,
+      "end": 2738
+    },
+    {
+      "text": "blue suture",
+      "type": "ENTITY",
+      "start": 2754,
+      "end": 2765
+    },
+    {
+      "text": "hepatic duct",
+      "type": "ENTITY",
+      "start": 2771,
+      "end": 2783
+    },
+    {
+      "text": "surgeon",
+      "type": "ENTITY",
+      "start": 2807,
+      "end": 2814
+    },
+    {
+      "text": "proximal",
+      "type": "ENTITY",
+      "start": 2837,
+      "end": 2845
+    },
+    {
+      "text": "surgical resection margin",
+      "type": "ENTITY",
+      "start": 2853,
+      "end": 2878
+    },
+    {
+      "text": "adherent",
+      "type": "ENTITY",
+      "start": 2892,
+      "end": 2900
+    },
+    {
+      "text": "intramural",
+      "type": "ENTITY",
+      "start": 2902,
+      "end": 2912
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 2913,
+      "end": 2917
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 2919,
+      "end": 2928
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 2970,
+      "end": 2978
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 2984,
+      "end": 2989
+    },
+    {
+      "text": "hepatic bile duct",
+      "type": "ENTITY",
+      "start": 3026,
+      "end": 3043
+    },
+    {
+      "text": "iiver",
+      "type": "ENTITY",
+      "start": 3050,
+      "end": 3055
+    },
+    {
+      "text": "approximately",
+      "type": "ENTITY",
+      "start": 3082,
+      "end": 3095
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 3107,
+      "end": 3115
+    },
+    {
+      "text": "irregular",
+      "type": "ENTITY",
+      "start": 3134,
+      "end": 3143
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 3154,
+      "end": 3158
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 3160,
+      "end": 3169
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 3194,
+      "end": 3198
+    },
+    {
+      "text": "lobulated tan-white firm",
+      "type": "ENTITY",
+      "start": 3214,
+      "end": 3238
+    },
+    {
+      "text": "tissue",
+      "type": "ENTITY",
+      "start": 3239,
+      "end": 3245
+    },
+    {
+      "text": "focal hemorrhage",
+      "type": "ENTITY",
+      "start": 3251,
+      "end": 3267
+    },
+    {
+      "text": "portion",
+      "type": "ENTITY",
+      "start": 3283,
+      "end": 3290
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 3298,
+      "end": 3306
+    },
+    {
+      "text": "tan-brown",
+      "type": "ENTITY",
+      "start": 3313,
+      "end": 3322
+    },
+    {
+      "text": "hepatic parenchyma",
+      "type": "ENTITY",
+      "start": 3323,
+      "end": 3341
+    },
+    {
+      "text": "multiple small satellite lesions",
+      "type": "ENTITY",
+      "start": 3347,
+      "end": 3379
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 3381,
+      "end": 3390
+    },
+    {
+      "text": "dimension",
+      "type": "ENTITY",
+      "start": 3416,
+      "end": 3425
+    },
+    {
+      "text": "surgical resection margin",
+      "type": "ENTITY",
+      "start": 3431,
+      "end": 3456
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 3481,
+      "end": 3485
+    },
+    {
+      "text": "Multiple intraparenchymal bile duct",
+      "type": "ENTITY",
+      "start": 3487,
+      "end": 3522
+    },
+    {
+      "text": "lumina",
+      "type": "ENTITY",
+      "start": 3523,
+      "end": 3529
+    },
+    {
+      "text": "occluded",
+      "type": "ENTITY",
+      "start": 3545,
+      "end": 3553
+    },
+    {
+      "text": "tan-white firm",
+      "type": "ENTITY",
+      "start": 3561,
+      "end": 3575
+    },
+    {
+      "text": "tumor tissue",
+      "type": "ENTITY",
+      "start": 3576,
+      "end": 3588
+    },
+    {
+      "text": "Representative sections",
+      "type": "ENTITY",
+      "start": 3590,
+      "end": 3613
+    },
+    {
+      "text": "cassettes",
+      "type": "ENTITY",
+      "start": 3636,
+      "end": 3645
+    },
+    {
+      "text": "cassette 1",
+      "type": "ENTITY",
+      "start": 3658,
+      "end": 3668
+    },
+    {
+      "text": "hepatic bile duct margin",
+      "type": "ENTITY",
+      "start": 3671,
+      "end": 3695
+    },
+    {
+      "text": "cassettes",
+      "type": "ENTITY",
+      "start": 3697,
+      "end": 3706
+    },
+    {
+      "text": "3",
+      "type": "ENTITY",
+      "start": 3713,
+      "end": 3714
+    },
+    {
+      "text": "possible",
+      "type": "ENTITY",
+      "start": 3717,
+      "end": 3725
+    },
+    {
+      "text": "adherent",
+      "type": "ENTITY",
+      "start": 3726,
+      "end": 3734
+    },
+    {
+      "text": "intraluminal",
+      "type": "ENTITY",
+      "start": 3735,
+      "end": 3747
+    },
+    {
+      "text": "cassette 4",
+      "type": "ENTITY",
+      "start": 3755,
+      "end": 3765
+    },
+    {
+      "text": "surgical",
+      "type": "ENTITY",
+      "start": 3768,
+      "end": 3776
+    },
+    {
+      "text": "liver",
+      "type": "ENTITY",
+      "start": 3803,
+      "end": 3808
+    },
+    {
+      "text": "cassettes",
+      "type": "ENTITY",
+      "start": 3810,
+      "end": 3819
+    },
+    {
+      "text": "8",
+      "type": "ENTITY",
+      "start": 3830,
+      "end": 3831
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 3834,
+      "end": 3838
+    },
+    {
+      "text": "cassette 9",
+      "type": "ENTITY",
+      "start": 3840,
+      "end": 3850
+    },
+    {
+      "text": "satellite",
+      "type": "ENTITY",
+      "start": 3853,
+      "end": 3862
+    },
+    {
+      "text": "lesions",
+      "type": "ENTITY",
+      "start": 3863,
+      "end": 3870
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 3879,
+      "end": 3887
+    },
+    {
+      "text": "portion",
+      "type": "ENTITY",
+      "start": 3904,
+      "end": 3911
+    },
+    {
+      "text": "irregular",
+      "type": "ENTITY",
+      "start": 3915,
+      "end": 3924
+    },
+    {
+      "text": "tan-pink",
+      "type": "ENTITY",
+      "start": 3925,
+      "end": 3933
+    },
+    {
+      "text": "soft tissue",
+      "type": "ENTITY",
+      "start": 3934,
+      "end": 3945
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 3947,
+      "end": 3956
+    },
+    {
+      "text": "external",
+      "type": "ENTITY",
+      "start": 3981,
+      "end": 3989
+    },
+    {
+      "text": "surface",
+      "type": "ENTITY",
+      "start": 3990,
+      "end": 3997
+    },
+    {
+      "text": "shaggy",
+      "type": "ENTITY",
+      "start": 4001,
+      "end": 4007
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 4013,
+      "end": 4021
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 4053,
+      "end": 4061
+    },
+    {
+      "text": "intact",
+      "type": "ENTITY",
+      "start": 4075,
+      "end": 4081
+    },
+    {
+      "text": "cassette",
+      "type": "ENTITY",
+      "start": 4089,
+      "end": 4097
+    },
+    {
+      "text": "MICROSCUPIC",
+      "type": "ENTITY",
+      "start": 4101,
+      "end": 4112
+    },
+    {
+      "text": "DESCRIPTION",
+      "type": "ENTITY",
+      "start": 4113,
+      "end": 4124
+    },
+    {
+      "text": "A.",
+      "type": "ENTITY",
+      "start": 4128,
+      "end": 4130
+    },
+    {
+      "text": "gallbladder",
+      "type": "ENTITY",
+      "start": 4135,
+      "end": 4146
+    },
+    {
+      "text": "thickened",
+      "type": "ENTITY",
+      "start": 4162,
+      "end": 4171
+    },
+    {
+      "text": "chronic inflammation",
+      "type": "ENTITY",
+      "start": 4187,
+      "end": 4207
+    },
+    {
+      "text": "thickening",
+      "type": "ENTITY",
+      "start": 4222,
+      "end": 4232
+    },
+    {
+      "text": "muscularis",
+      "type": "ENTITY",
+      "start": 4240,
+      "end": 4250
+    },
+    {
+      "text": "thickening",
+      "type": "ENTITY",
+      "start": 4262,
+      "end": 4272
+    },
+    {
+      "text": "serosa",
+      "type": "ENTITY",
+      "start": 4280,
+      "end": 4286
+    },
+    {
+      "text": "congested",
+      "type": "ENTITY",
+      "start": 4294,
+      "end": 4303
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 4344,
+      "end": 4349
+    },
+    {
+      "text": "presence",
+      "type": "ENTITY",
+      "start": 4358,
+      "end": 4366
+    },
+    {
+      "text": "uninvolved",
+      "type": "ENTITY",
+      "start": 4370,
+      "end": 4380
+    },
+    {
+      "text": "tissue",
+      "type": "ENTITY",
+      "start": 4381,
+      "end": 4387
+    },
+    {
+      "text": "Sheets",
+      "type": "ENTITY",
+      "start": 4389,
+      "end": 4395
+    },
+    {
+      "text": "nests",
+      "type": "ENTITY",
+      "start": 4400,
+      "end": 4405
+    },
+    {
+      "text": "cells",
+      "type": "ENTITY",
+      "start": 4409,
+      "end": 4414
+    },
+    {
+      "text": "medium",
+      "type": "ENTITY",
+      "start": 4429,
+      "end": 4435
+    },
+    {
+      "text": "sized",
+      "type": "ENTITY",
+      "start": 4436,
+      "end": 4441
+    },
+    {
+      "text": "nuclei",
+      "type": "ENTITY",
+      "start": 4442,
+      "end": 4448
+    },
+    {
+      "text": "irregular",
+      "type": "ENTITY",
+      "start": 4468,
+      "end": 4477
+    },
+    {
+      "text": "contour",
+      "type": "ENTITY",
+      "start": 4481,
+      "end": 4488
+    },
+    {
+      "text": "cells",
+      "type": "ENTITY",
+      "start": 4494,
+      "end": 4499
+    },
+    {
+      "text": "vacuolated cytoplasm",
+      "type": "ENTITY",
+      "start": 4519,
+      "end": 4539
+    },
+    {
+      "text": "eosinophilic",
+      "type": "ENTITY",
+      "start": 4562,
+      "end": 4574
+    },
+    {
+      "text": "vacuolization",
+      "type": "ENTITY",
+      "start": 4593,
+      "end": 4606
+    },
+    {
+      "text": "increased",
+      "type": "ENTITY",
+      "start": 4624,
+      "end": 4633
+    },
+    {
+      "text": "fibrous stroma",
+      "type": "ENTITY",
+      "start": 4634,
+      "end": 4648
+    },
+    {
+      "text": "C/cPc",
+      "type": "ENTITY",
+      "start": 4650,
+      "end": 4655
+    },
+    {
+      "text": "Tumor",
+      "type": "ENTITY",
+      "start": 4657,
+      "end": 4662
+    },
+    {
+      "text": "zones",
+      "type": "ENTITY",
+      "start": 4749,
+      "end": 4754
+    },
+    {
+      "text": "fibrosis",
+      "type": "ENTITY",
+      "start": 4758,
+      "end": 4766
+    },
+    {
+      "text": "sheets",
+      "type": "ENTITY",
+      "start": 4797,
+      "end": 4803
+    },
+    {
+      "text": "cells",
+      "type": "ENTITY",
+      "start": 4807,
+      "end": 4812
+    },
+    {
+      "text": "cytoplasm",
+      "type": "ENTITY",
+      "start": 4831,
+      "end": 4840
+    },
+    {
+      "text": "areas",
+      "type": "ENTITY",
+      "start": 4847,
+      "end": 4852
+    },
+    {
+      "text": "trabecular",
+      "type": "ENTITY",
+      "start": 4869,
+      "end": 4879
+    },
+    {
+      "text": "arrangement",
+      "type": "ENTITY",
+      "start": 4880,
+      "end": 4891
+    },
+    {
+      "text": "gland-iike formation",
+      "type": "ENTITY",
+      "start": 4930,
+      "end": 4950
+    },
+    {
+      "text": "inked",
+      "type": "ENTITY",
+      "start": 5011,
+      "end": 5016
+    },
+    {
+      "text": "margins",
+      "type": "ENTITY",
+      "start": 5018,
+      "end": 5025
+    },
+    {
+      "text": "Tumor",
+      "type": "ENTITY",
+      "start": 5027,
+      "end": 5032
+    },
+    {
+      "text": "ductal lumina",
+      "type": "ENTITY",
+      "start": 5051,
+      "end": 5064
+    },
+    {
+      "text": "slides 7",
+      "type": "ENTITY",
+      "start": 5068,
+      "end": 5076
+    },
+    {
+      "text": "Patient",
+      "type": "ENTITY",
+      "start": 5123,
+      "end": 5130
+    },
+    {
+      "text": "MRN",
+      "type": "ENTITY",
+      "start": 5131,
+      "end": 5134
+    },
+    {
+      "text": "DOB",
+      "type": "ENTITY",
+      "start": 5135,
+      "end": 5138
+    },
+    {
+      "text": "Date",
+      "type": "ENTITY",
+      "start": 5139,
+      "end": 5143
+    },
+    {
+      "text": "Service Performing Facility Ordering Provider Resuit Provider Report Name",
+      "type": "ENTITY",
+      "start": 5147,
+      "end": 5220
+    },
+    {
+      "text": "Surgical Renort Status",
+      "type": "ENTITY",
+      "start": 5222,
+      "end": 5244
+    },
+    {
+      "text": "adjacent",
+      "type": "ENTITY",
+      "start": 5250,
+      "end": 5258
+    },
+    {
+      "text": "hepatic tissue",
+      "type": "ENTITY",
+      "start": 5259,
+      "end": 5273
+    },
+    {
+      "text": "regions",
+      "type": "ENTITY",
+      "start": 5278,
+      "end": 5285
+    },
+    {
+      "text": "chronic inflamnation",
+      "type": "ENTITY",
+      "start": 5289,
+      "end": 5309
+    },
+    {
+      "text": "Portal fibrosis",
+      "type": "ENTITY",
+      "start": 5311,
+      "end": 5326
+    },
+    {
+      "text": "Cirrhosis",
+      "type": "ENTITY",
+      "start": 5340,
+      "end": 5349
+    },
+    {
+      "text": "fibrous tissue",
+      "type": "ENTITY",
+      "start": 5386,
+      "end": 5400
+    },
+    {
+      "text": "adipose tissue",
+      "type": "ENTITY",
+      "start": 5411,
+      "end": 5425
+    },
+    {
+      "text": "ducts",
+      "type": "ENTITY",
+      "start": 5436,
+      "end": 5441
+    },
+    {
+      "text": "fibrous tissue",
+      "type": "ENTITY",
+      "start": 5465,
+      "end": 5479
+    },
+    {
+      "text": "SPECIAL",
+      "type": "ENTITY",
+      "start": 5503,
+      "end": 5510
+    },
+    {
+      "text": "STAINS",
+      "type": "ENTITY",
+      "start": 5511,
+      "end": 5517
+    },
+    {
+      "text": "Special stains",
+      "type": "ENTITY",
+      "start": 5519,
+      "end": 5533
+    },
+    {
+      "text": "block 4",
+      "type": "ENTITY",
+      "start": 5557,
+      "end": 5564
+    },
+    {
+      "text": "tumor cells",
+      "type": "ENTITY",
+      "start": 5580,
+      "end": 5591
+    },
+    {
+      "text": "positive staining",
+      "type": "ENTITY",
+      "start": 5597,
+      "end": 5614
+    },
+    {
+      "text": "CA19.9",
+      "type": "ENTITY",
+      "start": 5619,
+      "end": 5625
+    },
+    {
+      "text": "conststent",
+      "type": "ENTITY",
+      "start": 5648,
+      "end": 5658
+    },
+    {
+      "text": "residual",
+      "type": "ENTITY",
+      "start": 5664,
+      "end": 5672
+    },
+    {
+      "text": "hepatic ductular elements",
+      "type": "ENTITY",
+      "start": 5673,
+      "end": 5698
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 5704,
+      "end": 5709
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 5718,
+      "end": 5726
+    },
+    {
+      "text": "pancytokeratin",
+      "type": "ENTITY",
+      "start": 5731,
+      "end": 5745
+    },
+    {
+      "text": "positive",
+      "type": "ENTITY",
+      "start": 5772,
+      "end": 5780
+    },
+    {
+      "text": "staining",
+      "type": "ENTITY",
+      "start": 5781,
+      "end": 5789
+    },
+    {
+      "text": "consistent with",
+      "type": "ENTITY",
+      "start": 5793,
+      "end": 5808
+    },
+    {
+      "text": "residual ducts",
+      "type": "ENTITY",
+      "start": 5809,
+      "end": 5823
+    },
+    {
+      "text": "staining",
+      "type": "ENTITY",
+      "start": 5875,
+      "end": 5883
+    },
+    {
+      "text": "portions",
+      "type": "ENTITY",
+      "start": 5900,
+      "end": 5908
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 5912,
+      "end": 5917
+    },
+    {
+      "text": "Ck7",
+      "type": "ENTITY",
+      "start": 5922,
+      "end": 5925
+    },
+    {
+      "text": "staining",
+      "type": "ENTITY",
+      "start": 5930,
+      "end": 5938
+    },
+    {
+      "text": "Ck20",
+      "type": "ENTITY",
+      "start": 5943,
+      "end": 5947
+    },
+    {
+      "text": "portions",
+      "type": "ENTITY",
+      "start": 5978,
+      "end": 5986
+    },
+    {
+      "text": "tissue",
+      "type": "ENTITY",
+      "start": 5990,
+      "end": 5996
+    },
+    {
+      "text": "staining",
+      "type": "ENTITY",
+      "start": 6007,
+      "end": 6015
+    },
+    {
+      "text": "piece",
+      "type": "ENTITY",
+      "start": 6029,
+      "end": 6034
+    },
+    {
+      "text": "tumor cells",
+      "type": "ENTITY",
+      "start": 6058,
+      "end": 6069
+    },
+    {
+      "text": "staining",
+      "type": "ENTITY",
+      "start": 6075,
+      "end": 6083
+    },
+    {
+      "text": "HepPar-1",
+      "type": "ENTITY",
+      "start": 6088,
+      "end": 6096
+    },
+    {
+      "text": "staining",
+      "type": "ENTITY",
+      "start": 6114,
+      "end": 6122
+    },
+    {
+      "text": "CK8/18",
+      "type": "ENTITY",
+      "start": 6127,
+      "end": 6133
+    },
+    {
+      "text": "CAM5.2",
+      "type": "ENTITY",
+      "start": 6135,
+      "end": 6141
+    },
+    {
+      "text": "Staining",
+      "type": "ENTITY",
+      "start": 6144,
+      "end": 6152
+    },
+    {
+      "text": "vimentin",
+      "type": "ENTITY",
+      "start": 6157,
+      "end": 6165
+    },
+    {
+      "text": "tumor cells",
+      "type": "ENTITY",
+      "start": 6189,
+      "end": 6200
+    },
+    {
+      "text": "staining",
+      "type": "ENTITY",
+      "start": 6218,
+      "end": 6226
+    },
+    {
+      "text": "alphal-AT",
+      "type": "ENTITY",
+      "start": 6231,
+      "end": 6240
+    },
+    {
+      "text": "tumor cells",
+      "type": "ENTITY",
+      "start": 6248,
+      "end": 6259
+    },
+    {
+      "text": "uAGNOSIS",
+      "type": "ENTITY",
+      "start": 6262,
+      "end": 6270
+    },
+    {
+      "text": "A. GALLBLADDER",
+      "type": "ENTITY",
+      "start": 6272,
+      "end": 6286
+    },
+    {
+      "text": "CHRONIC CHOLECYSTITIS WITH",
+      "type": "ENTITY",
+      "start": 6288,
+      "end": 6314
+    },
+    {
+      "text": "CHOLELITHIASISS",
+      "type": "ENTITY",
+      "start": 6315,
+      "end": 6330
+    },
+    {
+      "text": "HEPATOCELLULAR CARCINOMAS",
+      "type": "ENTITY",
+      "start": 6366,
+      "end": 6391
+    },
+    {
+      "text": "C/CPC",
+      "type": "ENTITY",
+      "start": 6392,
+      "end": 6397
+    },
+    {
+      "text": "LIVER",
+      "type": "ENTITY",
+      "start": 6412,
+      "end": 6417
+    },
+    {
+      "text": "HEPATOCELLULAR CARCINOMA 2",
+      "type": "ENTITY",
+      "start": 6433,
+      "end": 6459
+    },
+    {
+      "text": "GRADE I 3",
+      "type": "ENTITY",
+      "start": 6479,
+      "end": 6488
+    },
+    {
+      "text": "pNX",
+      "type": "ENTITY",
+      "start": 6539,
+      "end": 6542
+    },
+    {
+      "text": "pMX",
+      "type": "ENTITY",
+      "start": 6566,
+      "end": 6569
+    },
+    {
+      "text": "UNINVOLVED",
+      "type": "ENTITY",
+      "start": 6582,
+      "end": 6592
+    },
+    {
+      "text": "OUCT",
+      "type": "ENTITY",
+      "start": 6614,
+      "end": 6618
+    },
+    {
+      "text": "MARGIN",
+      "type": "ENTITY",
+      "start": 6619,
+      "end": 6625
+    },
+    {
+      "text": "FREE",
+      "type": "ENTITY",
+      "start": 6627,
+      "end": 6631
+    },
+    {
+      "text": "FREE",
+      "type": "ENTITY",
+      "start": 6688,
+      "end": 6692
+    },
+    {
+      "text": "TUMOR A-MAI",
+      "type": "ENTITY",
+      "start": 6696,
+      "end": 6707
+    },
+    {
+      "text": "IGNANT",
+      "type": "ENTITY",
+      "start": 6708,
+      "end": 6714
+    },
+    {
+      "text": "ETectronic Signature",
+      "type": "ENTITY",
+      "start": 6716,
+      "end": 6736
+    },
+    {
+      "text": "PATHOLOGIST",
+      "type": "ENTITY",
+      "start": 6740,
+      "end": 6751
+    },
+    {
+      "text": "CUMMENT",
+      "type": "ENTITY",
+      "start": 6752,
+      "end": 6759
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 6765,
+      "end": 6770
+    },
+    {
+      "text": "bile ducts",
+      "type": "ENTITY",
+      "start": 6779,
+      "end": 6789
+    },
+    {
+      "text": "morphologic pattern",
+      "type": "ENTITY",
+      "start": 6802,
+      "end": 6821
+    },
+    {
+      "text": "hepatocellular",
+      "type": "ENTITY",
+      "start": 6825,
+      "end": 6839
+    },
+    {
+      "text": "carcinoma",
+      "type": "ENTITY",
+      "start": 6841,
+      "end": 6850
+    },
+    {
+      "text": "lack",
+      "type": "ENTITY",
+      "start": 6856,
+      "end": 6860
+    },
+    {
+      "text": "elevation",
+      "type": "ENTITY",
+      "start": 6864,
+      "end": 6873
+    },
+    {
+      "text": "staining",
+      "type": "ENTITY",
+      "start": 6877,
+      "end": 6885
+    },
+    {
+      "text": "AFP",
+      "type": "ENTITY",
+      "start": 6890,
+      "end": 6893
+    },
+    {
+      "text": "mitigate",
+      "type": "ENTITY",
+      "start": 6903,
+      "end": 6911
+    },
+    {
+      "text": "diagnosis",
+      "type": "ENTITY",
+      "start": 6925,
+      "end": 6934
+    },
+    {
+      "text": "hepatocellular carcinoma",
+      "type": "ENTITY",
+      "start": 6938,
+      "end": 6962
+    },
+    {
+      "text": "hepatocellular carcinomas",
+      "type": "ENTITY",
+      "start": 7013,
+      "end": 7038
+    },
+    {
+      "text": "cirrhosis",
+      "type": "ENTITY",
+      "start": 7043,
+      "end": 7052
+    }
+  ],
+  "entity_count": 329,
+  "has_embedding": true
+}

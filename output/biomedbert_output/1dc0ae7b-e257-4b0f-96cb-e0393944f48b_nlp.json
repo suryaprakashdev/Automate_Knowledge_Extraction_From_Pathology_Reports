@@ -1,0 +1,542 @@
+{
+  "filename": "1dc0ae7b-e257-4b0f-96cb-e0393944f48b",
+  "timestamp": "2026-01-05T14:43:13.525413",
+  "entities": [
+    {
+      "text": "Carcinoma",
+      "type": "ENTITY",
+      "start": 24,
+      "end": 33
+    },
+    {
+      "text": "infiltratig.dutl",
+      "type": "ENTITY",
+      "start": 35,
+      "end": 51
+    },
+    {
+      "text": "No5 c5u.q",
+      "type": "ENTITY",
+      "start": 74,
+      "end": 83
+    },
+    {
+      "text": "Attending",
+      "type": "ENTITY",
+      "start": 132,
+      "end": 141
+    },
+    {
+      "text": "Physician/Copies",
+      "type": "ENTITY",
+      "start": 142,
+      "end": 158
+    },
+    {
+      "text": "UUID",
+      "type": "ENTITY",
+      "start": 163,
+      "end": 167
+    },
+    {
+      "text": "TCGA-BH-A1EY-01A-PR",
+      "type": "ENTITY",
+      "start": 206,
+      "end": 225
+    },
+    {
+      "text": "Redacted RATIENT",
+      "type": "ENTITY",
+      "start": 226,
+      "end": 242
+    },
+    {
+      "text": "LMP",
+      "type": "ENTITY",
+      "start": 262,
+      "end": 265
+    },
+    {
+      "text": "PRE-OP DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 290,
+      "end": 306
+    },
+    {
+      "text": "LEFT BREAST CANCER",
+      "type": "ENTITY",
+      "start": 308,
+      "end": 326
+    },
+    {
+      "text": "DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 335,
+      "end": 344
+    },
+    {
+      "text": "SAME OPERATIVE PROCEDURE",
+      "type": "ENTITY",
+      "start": 346,
+      "end": 370
+    },
+    {
+      "text": "LEFT",
+      "type": "ENTITY",
+      "start": 372,
+      "end": 376
+    },
+    {
+      "text": "MOD",
+      "type": "ENTITY",
+      "start": 377,
+      "end": 380
+    },
+    {
+      "text": "RAD",
+      "type": "ENTITY",
+      "start": 381,
+      "end": 384
+    },
+    {
+      "text": "MAST",
+      "type": "ENTITY",
+      "start": 385,
+      "end": 389
+    },
+    {
+      "text": "CLINICAL HISTORY",
+      "type": "ENTITY",
+      "start": 390,
+      "end": 406
+    },
+    {
+      "text": "LEFT",
+      "type": "ENTITY",
+      "start": 428,
+      "end": 432
+    },
+    {
+      "text": "MOD",
+      "type": "ENTITY",
+      "start": 434,
+      "end": 437
+    },
+    {
+      "text": "RADICAL MASTECTOMY",
+      "type": "ENTITY",
+      "start": 439,
+      "end": 457
+    },
+    {
+      "text": "PROCUREMENT",
+      "type": "ENTITY",
+      "start": 459,
+      "end": 470
+    },
+    {
+      "text": "Left Breast",
+      "type": "ENTITY",
+      "start": 522,
+      "end": 533
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 536,
+      "end": 544
+    },
+    {
+      "text": "skin ellipse",
+      "type": "ENTITY",
+      "start": 580,
+      "end": 592
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 640,
+      "end": 645
+    },
+    {
+      "text": "posterior margin",
+      "type": "ENTITY",
+      "start": 659,
+      "end": 675
+    },
+    {
+      "text": "Specimen inked FINAL DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 687,
+      "end": 717
+    },
+    {
+      "text": "ET",
+      "type": "ENTITY",
+      "start": 731,
+      "end": 733
+    },
+    {
+      "text": "BREAST",
+      "type": "ENTITY",
+      "start": 734,
+      "end": 740
+    },
+    {
+      "text": "MASTECTOMY",
+      "type": "ENTITY",
+      "start": 742,
+      "end": 752
+    },
+    {
+      "text": "INVASIVE",
+      "type": "ENTITY",
+      "start": 755,
+      "end": 763
+    },
+    {
+      "text": "CARCINCMA",
+      "type": "ENTITY",
+      "start": 771,
+      "end": 780
+    },
+    {
+      "text": "SCORE",
+      "type": "ENTITY",
+      "start": 816,
+      "end": 821
+    },
+    {
+      "text": "TUMOR",
+      "type": "ENTITY",
+      "start": 875,
+      "end": 880
+    },
+    {
+      "text": "IS LESS",
+      "type": "ENTITY",
+      "start": 881,
+      "end": 888
+    },
+    {
+      "text": "CM",
+      "type": "ENTITY",
+      "start": 896,
+      "end": 898
+    },
+    {
+      "text": "DEEP MARGINS",
+      "type": "ENTITY",
+      "start": 908,
+      "end": 920
+    },
+    {
+      "text": "ALL",
+      "type": "ENTITY",
+      "start": 921,
+      "end": 924
+    },
+    {
+      "text": "TUIOR",
+      "type": "ENTITY",
+      "start": 951,
+      "end": 956
+    },
+    {
+      "text": "SKIN",
+      "type": "ENTITY",
+      "start": 959,
+      "end": 963
+    },
+    {
+      "text": "FREE",
+      "type": "ENTITY",
+      "start": 976,
+      "end": 980
+    },
+    {
+      "text": "TUMOR",
+      "type": "ENTITY",
+      "start": 984,
+      "end": 989
+    },
+    {
+      "text": "FIBROADENOKATOID",
+      "type": "ENTITY",
+      "start": 1040,
+      "end": 1056
+    },
+    {
+      "text": "NOOULES",
+      "type": "ENTITY",
+      "start": 1057,
+      "end": 1064
+    },
+    {
+      "text": "TWRLVE",
+      "type": "ENTITY",
+      "start": 1067,
+      "end": 1073
+    },
+    {
+      "text": "NEGATIVE",
+      "type": "ENTITY",
+      "start": 1092,
+      "end": 1100
+    },
+    {
+      "text": "TUMORS",
+      "type": "ENTITY",
+      "start": 1148,
+      "end": 1154
+    },
+    {
+      "text": "NO",
+      "type": "ENTITY",
+      "start": 1157,
+      "end": 1159
+    },
+    {
+      "text": "SEENS",
+      "type": "ENTITY",
+      "start": 1188,
+      "end": 1193
+    },
+    {
+      "text": "PER-2/NEU RESULTS IMMUNOPEROXIDASE",
+      "type": "ENTITY",
+      "start": 1205,
+      "end": 1239
+    },
+    {
+      "text": "ESTROGEN",
+      "type": "ENTITY",
+      "start": 1258,
+      "end": 1266
+    },
+    {
+      "text": "PROGESTERONE RECEPTORS",
+      "type": "ENTITY",
+      "start": 1271,
+      "end": 1293
+    },
+    {
+      "text": "IS",
+      "type": "ENTITY",
+      "start": 1294,
+      "end": 1296
+    },
+    {
+      "text": "DISTINCTS",
+      "type": "ENTITY",
+      "start": 1322,
+      "end": 1331
+    },
+    {
+      "text": "STAINING IS",
+      "type": "ENTITY",
+      "start": 1345,
+      "end": 1356
+    },
+    {
+      "text": "ESTROGEN RECEPTOR",
+      "type": "ENTITY",
+      "start": 1377,
+      "end": 1394
+    },
+    {
+      "text": "PROGESTERCNE",
+      "type": "ENTITY",
+      "start": 1405,
+      "end": 1417
+    },
+    {
+      "text": "THEREFORE",
+      "type": "ENTITY",
+      "start": 1435,
+      "end": 1444
+    },
+    {
+      "text": "ARE",
+      "type": "ENTITY",
+      "start": 1451,
+      "end": 1454
+    },
+    {
+      "text": "POSITIYE.S",
+      "type": "ENTITY",
+      "start": 1470,
+      "end": 1480
+    },
+    {
+      "text": "c-erbB2",
+      "type": "ENTITY",
+      "start": 1481,
+      "end": 1488
+    },
+    {
+      "text": "HER-2/NEU",
+      "type": "ENTITY",
+      "start": 1490,
+      "end": 1499
+    },
+    {
+      "text": "BREAST CANCER",
+      "type": "ENTITY",
+      "start": 1544,
+      "end": 1557
+    },
+    {
+      "text": "USINC",
+      "type": "ENTITY",
+      "start": 1560,
+      "end": 1565
+    },
+    {
+      "text": "DILUTION",
+      "type": "ENTITY",
+      "start": 1574,
+      "end": 1582
+    },
+    {
+      "text": "OFS",
+      "type": "ENTITY",
+      "start": 1583,
+      "end": 1586
+    },
+    {
+      "text": "DAKO",
+      "type": "ENTITY",
+      "start": 1587,
+      "end": 1591
+    },
+    {
+      "text": "POLYCLONAL",
+      "type": "ENTITY",
+      "start": 1594,
+      "end": 1604
+    },
+    {
+      "text": "ANTIBODY A485",
+      "type": "ENTITY",
+      "start": 1605,
+      "end": 1618
+    },
+    {
+      "text": "DIRECTED ACAINST",
+      "type": "ENTITY",
+      "start": 1620,
+      "end": 1636
+    },
+    {
+      "text": "DCMAIN",
+      "type": "ENTITY",
+      "start": 1655,
+      "end": 1661
+    },
+    {
+      "text": "c-OrbB2) WITHOUT ANTICENS",
+      "type": "ENTITY",
+      "start": 1665,
+      "end": 1690
+    },
+    {
+      "text": "LE3S",
+      "type": "ENTITY",
+      "start": 1755,
+      "end": 1759
+    },
+    {
+      "text": "TUMOR CELLS",
+      "type": "ENTITY",
+      "start": 1772,
+      "end": 1783
+    },
+    {
+      "text": "THEREFORE",
+      "type": "ENTITY",
+      "start": 1785,
+      "end": 1794
+    },
+    {
+      "text": "erbB2",
+      "type": "ENTITY",
+      "start": 1799,
+      "end": 1804
+    },
+    {
+      "text": "HER-2/NEU",
+      "type": "ENTITY",
+      "start": 1806,
+      "end": 1815
+    },
+    {
+      "text": "IS",
+      "type": "ENTITY",
+      "start": 1817,
+      "end": 1819
+    },
+    {
+      "text": "INTERPRETED AS NEGATIVE",
+      "type": "ENTITY",
+      "start": 1820,
+      "end": 1843
+    },
+    {
+      "text": "SCORE",
+      "type": "ENTITY",
+      "start": 1845,
+      "end": 1850
+    },
+    {
+      "text": "NoTe",
+      "type": "ENTITY",
+      "start": 1855,
+      "end": 1859
+    },
+    {
+      "text": "stains",
+      "type": "ENTITY",
+      "start": 1873,
+      "end": 1879
+    },
+    {
+      "text": "imnunoperoxidase tests",
+      "type": "ENTITY",
+      "start": 1887,
+      "end": 1909
+    },
+    {
+      "text": "case",
+      "type": "ENTITY",
+      "start": 1923,
+      "end": 1927
+    },
+    {
+      "text": "devaloned",
+      "type": "ENTITY",
+      "start": 1938,
+      "end": 1947
+    },
+    {
+      "text": "performance",
+      "type": "ENTITY",
+      "start": 1959,
+      "end": 1970
+    },
+    {
+      "text": "characteristics",
+      "type": "ENTITY",
+      "start": 1971,
+      "end": 1986
+    },
+    {
+      "text": "Department of Pathology",
+      "type": "ENTITY",
+      "start": 2005,
+      "end": 2028
+    }
+  ],
+  "entity_count": 89,
+  "has_embedding": true
+}

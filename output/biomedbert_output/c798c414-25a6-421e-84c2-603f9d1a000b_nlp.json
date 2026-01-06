@@ -1,0 +1,800 @@
+{
+  "filename": "c798c414-25a6-421e-84c2-603f9d1a000b",
+  "timestamp": "2026-01-05T14:45:11.117374",
+  "entities": [
+    {
+      "text": "PAGE|",
+      "type": "ENTITY",
+      "start": 43,
+      "end": 48
+    },
+    {
+      "text": "UUID:15A731FD-6889-450D-A028-A01DA759340A",
+      "type": "ENTITY",
+      "start": 51,
+      "end": 92
+    },
+    {
+      "text": "TCGA-OR-ASK4-01A-PR",
+      "type": "ENTITY",
+      "start": 93,
+      "end": 112
+    },
+    {
+      "text": "F",
+      "type": "ENTITY",
+      "start": 128,
+      "end": 129
+    },
+    {
+      "text": "PAT",
+      "type": "ENTITY",
+      "start": 130,
+      "end": 133
+    },
+    {
+      "text": "TYPE",
+      "type": "ENTITY",
+      "start": 134,
+      "end": 138
+    },
+    {
+      "text": "ADM",
+      "type": "ENTITY",
+      "start": 140,
+      "end": 143
+    },
+    {
+      "text": "OPER",
+      "type": "ENTITY",
+      "start": 150,
+      "end": 154
+    },
+    {
+      "text": "SPHS",
+      "type": "ENTITY",
+      "start": 172,
+      "end": 176
+    },
+    {
+      "text": "Right adrenal mass",
+      "type": "ENTITY",
+      "start": 177,
+      "end": 195
+    },
+    {
+      "text": "short stitches adrenal vein",
+      "type": "ENTITY",
+      "start": 201,
+      "end": 228
+    },
+    {
+      "text": "thrombus",
+      "type": "ENTITY",
+      "start": 234,
+      "end": 242
+    },
+    {
+      "text": "vein",
+      "type": "ENTITY",
+      "start": 257,
+      "end": 261
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 291,
+      "end": 296
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 325,
+      "end": 330
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 367,
+      "end": 372
+    },
+    {
+      "text": "Inking",
+      "type": "ENTITY",
+      "start": 374,
+      "end": 380
+    },
+    {
+      "text": "sarcoma",
+      "type": "ENTITY",
+      "start": 394,
+      "end": 401
+    },
+    {
+      "text": "template",
+      "type": "ENTITY",
+      "start": 402,
+      "end": 410
+    },
+    {
+      "text": "Yellow anterior",
+      "type": "ENTITY",
+      "start": 412,
+      "end": 427
+    },
+    {
+      "text": "blue superior",
+      "type": "ENTITY",
+      "start": 429,
+      "end": 442
+    },
+    {
+      "text": "green inferior",
+      "type": "ENTITY",
+      "start": 444,
+      "end": 458
+    },
+    {
+      "text": "red medial",
+      "type": "ENTITY",
+      "start": 460,
+      "end": 470
+    },
+    {
+      "text": "orange lateral",
+      "type": "ENTITY",
+      "start": 472,
+      "end": 486
+    },
+    {
+      "text": "black posterior",
+      "type": "ENTITY",
+      "start": 488,
+      "end": 503
+    },
+    {
+      "text": "SPGD",
+      "type": "ENTITY",
+      "start": 516,
+      "end": 520
+    },
+    {
+      "text": "Adrenal gland",
+      "type": "ENTITY",
+      "start": 525,
+      "end": 538
+    },
+    {
+      "text": "Received",
+      "type": "ENTITY",
+      "start": 541,
+      "end": 549
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 553,
+      "end": 561
+    },
+    {
+      "text": "container",
+      "type": "ENTITY",
+      "start": 573,
+      "end": 582
+    },
+    {
+      "text": "adrenal gland",
+      "type": "ENTITY",
+      "start": 620,
+      "end": 633
+    },
+    {
+      "text": "disrupted",
+      "type": "ENTITY",
+      "start": 658,
+      "end": 667
+    },
+    {
+      "text": "vessel",
+      "type": "ENTITY",
+      "start": 668,
+      "end": 674
+    },
+    {
+      "text": "gland",
+      "type": "ENTITY",
+      "start": 698,
+      "end": 703
+    },
+    {
+      "text": "membranous",
+      "type": "ENTITY",
+      "start": 728,
+      "end": 738
+    },
+    {
+      "text": "segment",
+      "type": "ENTITY",
+      "start": 773,
+      "end": 780
+    },
+    {
+      "text": "fibroadipose tissue",
+      "type": "ENTITY",
+      "start": 784,
+      "end": 803
+    },
+    {
+      "text": "inferior surface",
+      "type": "ENTITY",
+      "start": 823,
+      "end": 839
+    },
+    {
+      "text": "vessel",
+      "type": "ENTITY",
+      "start": 845,
+      "end": 851
+    },
+    {
+      "text": "medial",
+      "type": "ENTITY",
+      "start": 871,
+      "end": 877
+    },
+    {
+      "text": "surface",
+      "type": "ENTITY",
+      "start": 878,
+      "end": 885
+    },
+    {
+      "text": "disrupted",
+      "type": "ENTITY",
+      "start": 899,
+      "end": 908
+    },
+    {
+      "text": "tunor",
+      "type": "ENTITY",
+      "start": 920,
+      "end": 925
+    },
+    {
+      "text": "vascular lumen",
+      "type": "ENTITY",
+      "start": 938,
+      "end": 952
+    },
+    {
+      "text": "surgeon",
+      "type": "ENTITY",
+      "start": 962,
+      "end": 969
+    },
+    {
+      "text": "tumor mass",
+      "type": "ENTITY",
+      "start": 1016,
+      "end": 1026
+    },
+    {
+      "text": "atrium",
+      "type": "ENTITY",
+      "start": 1056,
+      "end": 1062
+    },
+    {
+      "text": "Inking",
+      "type": "ENTITY",
+      "start": 1064,
+      "end": 1070
+    },
+    {
+      "text": "Yellow anterior",
+      "type": "ENTITY",
+      "start": 1083,
+      "end": 1098
+    },
+    {
+      "text": "blue superior",
+      "type": "ENTITY",
+      "start": 1100,
+      "end": 1113
+    },
+    {
+      "text": "green inferior",
+      "type": "ENTITY",
+      "start": 1115,
+      "end": 1129
+    },
+    {
+      "text": "red medial",
+      "type": "ENTITY",
+      "start": 1131,
+      "end": 1141
+    },
+    {
+      "text": "orange lateral",
+      "type": "ENTITY",
+      "start": 1143,
+      "end": 1157
+    },
+    {
+      "text": "black posterior",
+      "type": "ENTITY",
+      "start": 1159,
+      "end": 1174
+    },
+    {
+      "text": "Sectioning",
+      "type": "ENTITY",
+      "start": 1177,
+      "end": 1187
+    },
+    {
+      "text": "tan parenchyma",
+      "type": "ENTITY",
+      "start": 1198,
+      "end": 1212
+    },
+    {
+      "text": "focally hemorrhagic",
+      "type": "ENTITY",
+      "start": 1221,
+      "end": 1240
+    },
+    {
+      "text": "necrotic",
+      "type": "ENTITY",
+      "start": 1253,
+      "end": 1261
+    },
+    {
+      "text": "dimension",
+      "type": "ENTITY",
+      "start": 1283,
+      "end": 1292
+    },
+    {
+      "text": "gland",
+      "type": "ENTITY",
+      "start": 1300,
+      "end": 1305
+    },
+    {
+      "text": "central area",
+      "type": "ENTITY",
+      "start": 1309,
+      "end": 1321
+    },
+    {
+      "text": "yellow discoloration",
+      "type": "ENTITY",
+      "start": 1325,
+      "end": 1345
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1393,
+      "end": 1401
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 1406,
+      "end": 1417
+    },
+    {
+      "text": "fibroadipose tissue",
+      "type": "ENTITY",
+      "start": 1450,
+      "end": 1469
+    },
+    {
+      "text": "Representative sections",
+      "type": "ENTITY",
+      "start": 1477,
+      "end": 1500
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1504,
+      "end": 1509
+    },
+    {
+      "text": "inferior margin",
+      "type": "ENTITY",
+      "start": 1513,
+      "end": 1528
+    },
+    {
+      "text": "Representative sections",
+      "type": "ENTITY",
+      "start": 1536,
+      "end": 1559
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1563,
+      "end": 1568
+    },
+    {
+      "text": "anterior",
+      "type": "ENTITY",
+      "start": 1572,
+      "end": 1580
+    },
+    {
+      "text": "margin",
+      "type": "ENTITY",
+      "start": 1581,
+      "end": 1587
+    },
+    {
+      "text": "Representative sections",
+      "type": "ENTITY",
+      "start": 1595,
+      "end": 1618
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1622,
+      "end": 1627
+    },
+    {
+      "text": "margin",
+      "type": "ENTITY",
+      "start": 1640,
+      "end": 1646
+    },
+    {
+      "text": "Representative section",
+      "type": "ENTITY",
+      "start": 1654,
+      "end": 1676
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1680,
+      "end": 1685
+    },
+    {
+      "text": "medial margin",
+      "type": "ENTITY",
+      "start": 1689,
+      "end": 1702
+    },
+    {
+      "text": "Representative sections",
+      "type": "ENTITY",
+      "start": 1710,
+      "end": 1733
+    },
+    {
+      "text": "posterior margin",
+      "type": "ENTITY",
+      "start": 1746,
+      "end": 1762
+    },
+    {
+      "text": "Representative section",
+      "type": "ENTITY",
+      "start": 1770,
+      "end": 1792
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1796,
+      "end": 1801
+    },
+    {
+      "text": "lateral margin",
+      "type": "ENTITY",
+      "start": 1805,
+      "end": 1819
+    },
+    {
+      "text": "Representative section",
+      "type": "ENTITY",
+      "start": 1827,
+      "end": 1849
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1853,
+      "end": 1858
+    },
+    {
+      "text": "yellow discoloration",
+      "type": "ENTITY",
+      "start": 1871,
+      "end": 1891
+    },
+    {
+      "text": "Representative sections",
+      "type": "ENTITY",
+      "start": 1897,
+      "end": 1920
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1924,
+      "end": 1929
+    },
+    {
+      "text": "vessel",
+      "type": "ENTITY",
+      "start": 1946,
+      "end": 1952
+    },
+    {
+      "text": "Photographs",
+      "type": "ENTITY",
+      "start": 1954,
+      "end": 1965
+    },
+    {
+      "text": "SPMI",
+      "type": "ENTITY",
+      "start": 1993,
+      "end": 1997
+    },
+    {
+      "text": "iarcinomc",
+      "type": "ENTITY",
+      "start": 1998,
+      "end": 2007
+    },
+    {
+      "text": "lortex",
+      "type": "ENTITY",
+      "start": 2015,
+      "end": 2021
+    },
+    {
+      "text": "ADRENOCORTICAL CARCINOMA Site",
+      "type": "ENTITY",
+      "start": 2029,
+      "end": 2058
+    },
+    {
+      "text": "Adrenad Claud",
+      "type": "ENTITY",
+      "start": 2060,
+      "end": 2073
+    },
+    {
+      "text": "cor+ex",
+      "type": "ENTITY",
+      "start": 2074,
+      "end": 2080
+    },
+    {
+      "text": "Jumor size",
+      "type": "ENTITY",
+      "start": 2081,
+      "end": 2091
+    },
+    {
+      "text": "grams",
+      "type": "ENTITY",
+      "start": 2142,
+      "end": 2147
+    },
+    {
+      "text": "Capsular Invasion",
+      "type": "ENTITY",
+      "start": 2159,
+      "end": 2176
+    },
+    {
+      "text": "PAGE",
+      "type": "ENTITY",
+      "start": 2225,
+      "end": 2229
+    },
+    {
+      "text": "SEX",
+      "type": "ENTITY",
+      "start": 2235,
+      "end": 2238
+    },
+    {
+      "text": "BIRTHDATE",
+      "type": "ENTITY",
+      "start": 2239,
+      "end": 2248
+    },
+    {
+      "text": "F",
+      "type": "ENTITY",
+      "start": 2250,
+      "end": 2251
+    },
+    {
+      "text": "PAT",
+      "type": "ENTITY",
+      "start": 2252,
+      "end": 2255
+    },
+    {
+      "text": "TYPE",
+      "type": "ENTITY",
+      "start": 2256,
+      "end": 2260
+    },
+    {
+      "text": "ADM",
+      "type": "ENTITY",
+      "start": 2262,
+      "end": 2265
+    },
+    {
+      "text": "OPER",
+      "type": "ENTITY",
+      "start": 2272,
+      "end": 2276
+    },
+    {
+      "text": "Vascular Invasion",
+      "type": "ENTITY",
+      "start": 2283,
+      "end": 2300
+    },
+    {
+      "text": "Surgical Margins",
+      "type": "ENTITY",
+      "start": 2308,
+      "end": 2324
+    },
+    {
+      "text": "Vascular margin",
+      "type": "ENTITY",
+      "start": 2326,
+      "end": 2341
+    },
+    {
+      "text": "positive",
+      "type": "ENTITY",
+      "start": 2342,
+      "end": 2350
+    },
+    {
+      "text": "Peripheral margin",
+      "type": "ENTITY",
+      "start": 2352,
+      "end": 2369
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 2370,
+      "end": 2378
+    },
+    {
+      "text": "Necrosis",
+      "type": "ENTITY",
+      "start": 2381,
+      "end": 2389
+    },
+    {
+      "text": "Mitatic Rate",
+      "type": "ENTITY",
+      "start": 2396,
+      "end": 2408
+    },
+    {
+      "text": "Low",
+      "type": "ENTITY",
+      "start": 2446,
+      "end": 2449
+    },
+    {
+      "text": "Lymph nodes status",
+      "type": "ENTITY",
+      "start": 2451,
+      "end": 2469
+    },
+    {
+      "text": "Unknown",
+      "type": "ENTITY",
+      "start": 2471,
+      "end": 2478
+    },
+    {
+      "text": "Extra-adrenal extension",
+      "type": "ENTITY",
+      "start": 2480,
+      "end": 2503
+    },
+    {
+      "text": "Stage",
+      "type": "ENTITY",
+      "start": 2525,
+      "end": 2530
+    },
+    {
+      "text": "T4 NX",
+      "type": "ENTITY",
+      "start": 2532,
+      "end": 2537
+    },
+    {
+      "text": "Adrenal gland",
+      "type": "ENTITY",
+      "start": 2557,
+      "end": 2570
+    },
+    {
+      "text": "resection",
+      "type": "ENTITY",
+      "start": 2572,
+      "end": 2581
+    },
+    {
+      "text": "Lox-grade adrenocortical carcinoma",
+      "type": "ENTITY",
+      "start": 2583,
+      "end": 2617
+    },
+    {
+      "text": "invasion",
+      "type": "ENTITY",
+      "start": 2648,
+      "end": 2656
+    },
+    {
+      "text": "stage T4",
+      "type": "ENTITY",
+      "start": 2684,
+      "end": 2692
+    },
+    {
+      "text": "details",
+      "type": "ENTITY",
+      "start": 2720,
+      "end": 2727
+    },
+    {
+      "text": "interpreted'tne\"smdes",
+      "type": "ENTITY",
+      "start": 2733,
+      "end": 2754
+    },
+    {
+      "text": "case",
+      "type": "ENTITY",
+      "start": 2765,
+      "end": 2769
+    },
+    {
+      "text": "END",
+      "type": "ENTITY",
+      "start": 2775,
+      "end": 2778
+    },
+    {
+      "text": "PREVIOUS DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 2782,
+      "end": 2800
+    },
+    {
+      "text": "**",
+      "type": "ENTITY",
+      "start": 2809,
+      "end": 2811
+    }
+  ],
+  "entity_count": 132,
+  "has_embedding": true
+}

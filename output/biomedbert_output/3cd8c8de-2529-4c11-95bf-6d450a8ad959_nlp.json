@@ -1,0 +1,440 @@
+{
+  "filename": "3cd8c8de-2529-4c11-95bf-6d450a8ad959",
+  "timestamp": "2026-01-05T14:41:33.195342",
+  "entities": [
+    {
+      "text": "1 Department of Cancer Pathology Date",
+      "type": "ENTITY",
+      "start": 25,
+      "end": 62
+    },
+    {
+      "text": "Examination",
+      "type": "ENTITY",
+      "start": 64,
+      "end": 75
+    },
+    {
+      "text": "Histopathological",
+      "type": "ENTITY",
+      "start": 77,
+      "end": 94
+    },
+    {
+      "text": "examination",
+      "type": "ENTITY",
+      "start": 95,
+      "end": 106
+    },
+    {
+      "text": "Internal invoice No. Cost",
+      "type": "ENTITY",
+      "start": 107,
+      "end": 132
+    },
+    {
+      "text": "diagnostic procedure Examination No.",
+      "type": "ENTITY",
+      "start": 136,
+      "end": 172
+    },
+    {
+      "text": "Patient",
+      "type": "ENTITY",
+      "start": 174,
+      "end": 181
+    },
+    {
+      "text": "XXX",
+      "type": "ENTITY",
+      "start": 183,
+      "end": 186
+    },
+    {
+      "text": "PESEL",
+      "type": "ENTITY",
+      "start": 187,
+      "end": 192
+    },
+    {
+      "text": "XXX Age",
+      "type": "ENTITY",
+      "start": 194,
+      "end": 201
+    },
+    {
+      "text": "Gender",
+      "type": "ENTITY",
+      "start": 203,
+      "end": 209
+    },
+    {
+      "text": "Material",
+      "type": "ENTITY",
+      "start": 211,
+      "end": 219
+    },
+    {
+      "text": "Total organ",
+      "type": "ENTITY",
+      "start": 221,
+      "end": 232
+    },
+    {
+      "text": "resection",
+      "type": "ENTITY",
+      "start": 233,
+      "end": 242
+    },
+    {
+      "text": "sigmoid colon Unit",
+      "type": "ENTITY",
+      "start": 245,
+      "end": 263
+    },
+    {
+      "text": "charge",
+      "type": "ENTITY",
+      "start": 289,
+      "end": 295
+    },
+    {
+      "text": "Material",
+      "type": "ENTITY",
+      "start": 297,
+      "end": 305
+    },
+    {
+      "text": "collected",
+      "type": "ENTITY",
+      "start": 306,
+      "end": 315
+    },
+    {
+      "text": "Material",
+      "type": "ENTITY",
+      "start": 320,
+      "end": 328
+    },
+    {
+      "text": "Expected time",
+      "type": "ENTITY",
+      "start": 338,
+      "end": 351
+    },
+    {
+      "text": "examination",
+      "type": "ENTITY",
+      "start": 355,
+      "end": 366
+    },
+    {
+      "text": "Clinical diagnosis",
+      "type": "ENTITY",
+      "start": 368,
+      "end": 386
+    },
+    {
+      "text": "Cancer",
+      "type": "ENTITY",
+      "start": 388,
+      "end": 394
+    },
+    {
+      "text": "sigmoid colon",
+      "type": "ENTITY",
+      "start": 402,
+      "end": 415
+    },
+    {
+      "text": "Examination",
+      "type": "ENTITY",
+      "start": 417,
+      "end": 428
+    },
+    {
+      "text": "Macroscopic",
+      "type": "ENTITY",
+      "start": 443,
+      "end": 454
+    },
+    {
+      "text": "description",
+      "type": "ENTITY",
+      "start": 455,
+      "end": 466
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 478,
+      "end": 484
+    },
+    {
+      "text": "large",
+      "type": "ENTITY",
+      "start": 488,
+      "end": 493
+    },
+    {
+      "text": "intestine",
+      "type": "ENTITY",
+      "start": 494,
+      "end": 503
+    },
+    {
+      "text": "segment",
+      "type": "ENTITY",
+      "start": 511,
+      "end": 518
+    },
+    {
+      "text": "mesentery",
+      "type": "ENTITY",
+      "start": 526,
+      "end": 535
+    },
+    {
+      "text": "sized",
+      "type": "ENTITY",
+      "start": 536,
+      "end": 541
+    },
+    {
+      "text": "Ulcerous tumour",
+      "type": "ENTITY",
+      "start": 563,
+      "end": 578
+    },
+    {
+      "text": "sized",
+      "type": "ENTITY",
+      "start": 579,
+      "end": 584
+    },
+    {
+      "text": "mucosa",
+      "type": "ENTITY",
+      "start": 611,
+      "end": 617
+    },
+    {
+      "text": "lesion",
+      "type": "ENTITY",
+      "start": 624,
+      "end": 630
+    },
+    {
+      "text": "intestine",
+      "type": "ENTITY",
+      "start": 653,
+      "end": 662
+    },
+    {
+      "text": "circumference",
+      "type": "ENTITY",
+      "start": 663,
+      "end": 676
+    },
+    {
+      "text": "Iumen",
+      "type": "ENTITY",
+      "start": 693,
+      "end": 698
+    },
+    {
+      "text": "incision line",
+      "type": "ENTITY",
+      "start": 729,
+      "end": 742
+    },
+    {
+      "text": "wall",
+      "type": "ENTITY",
+      "start": 781,
+      "end": 785
+    },
+    {
+      "text": "injected",
+      "type": "ENTITY",
+      "start": 786,
+      "end": 794
+    },
+    {
+      "text": "blue dye",
+      "type": "ENTITY",
+      "start": 800,
+      "end": 808
+    },
+    {
+      "text": "tumour",
+      "type": "ENTITY",
+      "start": 822,
+      "end": 828
+    },
+    {
+      "text": "polyp",
+      "type": "ENTITY",
+      "start": 846,
+      "end": 851
+    },
+    {
+      "text": "diverticula",
+      "type": "ENTITY",
+      "start": 856,
+      "end": 867
+    },
+    {
+      "text": "Microscopic description",
+      "type": "ENTITY",
+      "start": 869,
+      "end": 892
+    },
+    {
+      "text": "Adenocarcinoma tubulopapillare",
+      "type": "ENTITY",
+      "start": 894,
+      "end": 924
+    },
+    {
+      "text": "G2",
+      "type": "ENTITY",
+      "start": 926,
+      "end": 928
+    },
+    {
+      "text": "Infiltratio carcinomatosa superficialis telae",
+      "type": "ENTITY",
+      "start": 931,
+      "end": 976
+    },
+    {
+      "text": "mesenterii",
+      "type": "ENTITY",
+      "start": 986,
+      "end": 996
+    },
+    {
+      "text": "Incision lines",
+      "type": "ENTITY",
+      "start": 998,
+      "end": 1012
+    },
+    {
+      "text": "neoplastic lesions",
+      "type": "ENTITY",
+      "start": 1021,
+      "end": 1039
+    },
+    {
+      "text": "Off tumour",
+      "type": "ENTITY",
+      "start": 1041,
+      "end": 1051
+    },
+    {
+      "text": "Adenoma tubulare cum",
+      "type": "ENTITY",
+      "start": 1053,
+      "end": 1073
+    },
+    {
+      "text": "dysplasa gradus mediocrr",
+      "type": "ENTITY",
+      "start": 1074,
+      "end": 1098
+    },
+    {
+      "text": "LG",
+      "type": "ENTITY",
+      "start": 1100,
+      "end": 1102
+    },
+    {
+      "text": "Diverticula",
+      "type": "ENTITY",
+      "start": 1105,
+      "end": 1116
+    },
+    {
+      "text": "diverticulitis",
+      "type": "ENTITY",
+      "start": 1120,
+      "end": 1134
+    },
+    {
+      "text": "Lymphonodulitis reactiva",
+      "type": "ENTITY",
+      "start": 1135,
+      "end": 1159
+    },
+    {
+      "text": "Histopathological",
+      "type": "ENTITY",
+      "start": 1166,
+      "end": 1183
+    },
+    {
+      "text": "Diagnosis",
+      "type": "ENTITY",
+      "start": 1184,
+      "end": 1193
+    },
+    {
+      "text": "Adenocarcinoma tubulopapillare coli",
+      "type": "ENTITY",
+      "start": 1195,
+      "end": 1230
+    },
+    {
+      "text": "Tubulopapillar adenocarcinoma",
+      "type": "ENTITY",
+      "start": 1232,
+      "end": 1261
+    },
+    {
+      "text": "colon",
+      "type": "ENTITY",
+      "start": 1269,
+      "end": 1274
+    },
+    {
+      "text": "Dukes B",
+      "type": "ENTITY",
+      "start": 1281,
+      "end": 1288
+    },
+    {
+      "text": "Astler-Coller B2",
+      "type": "ENTITY",
+      "start": 1290,
+      "end": 1306
+    },
+    {
+      "text": "pT3",
+      "type": "ENTITY",
+      "start": 1308,
+      "end": 1311
+    },
+    {
+      "text": "pNO",
+      "type": "ENTITY",
+      "start": 1313,
+      "end": 1316
+    },
+    {
+      "text": "Compliance",
+      "type": "ENTITY",
+      "start": 1319,
+      "end": 1329
+    },
+    {
+      "text": "CONTACT YOUR DOCTOR",
+      "type": "ENTITY",
+      "start": 1344,
+      "end": 1363
+    }
+  ],
+  "entity_count": 72,
+  "has_embedding": true
+}

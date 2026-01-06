@@ -1,0 +1,452 @@
+{
+  "filename": "6edb3687-cb11-441b-96dc-e752d3f2b3c8",
+  "timestamp": "2026-01-05T14:44:52.717880",
+  "entities": [
+    {
+      "text": "ID",
+      "type": "ENTITY",
+      "start": 20,
+      "end": 22
+    },
+    {
+      "text": "TSs",
+      "type": "ENTITY",
+      "start": 24,
+      "end": 27
+    },
+    {
+      "text": "ID",
+      "type": "ENTITY",
+      "start": 35,
+      "end": 37
+    },
+    {
+      "text": "Gross Description",
+      "type": "ENTITY",
+      "start": 60,
+      "end": 77
+    },
+    {
+      "text": "Breast",
+      "type": "ENTITY",
+      "start": 79,
+      "end": 85
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 95,
+      "end": 100
+    },
+    {
+      "text": "size",
+      "type": "ENTITY",
+      "start": 119,
+      "end": 123
+    },
+    {
+      "text": "extension",
+      "type": "ENTITY",
+      "start": 130,
+      "end": 139
+    },
+    {
+      "text": "skin",
+      "type": "ENTITY",
+      "start": 150,
+      "end": 154
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 173,
+      "end": 184
+    },
+    {
+      "text": "metastases",
+      "type": "ENTITY",
+      "start": 197,
+      "end": 207
+    },
+    {
+      "text": "Microscopic Description",
+      "type": "ENTITY",
+      "start": 209,
+      "end": 232
+    },
+    {
+      "text": "Infiltrating duct",
+      "type": "ENTITY",
+      "start": 234,
+      "end": 251
+    },
+    {
+      "text": "lobular carcinoma",
+      "type": "ENTITY",
+      "start": 256,
+      "end": 273
+    },
+    {
+      "text": "Skin",
+      "type": "ENTITY",
+      "start": 279,
+      "end": 283
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 314,
+      "end": 325
+    },
+    {
+      "text": "metastases",
+      "type": "ENTITY",
+      "start": 338,
+      "end": 348
+    },
+    {
+      "text": "Diagnosis",
+      "type": "ENTITY",
+      "start": 350,
+      "end": 359
+    },
+    {
+      "text": "Tumor Features",
+      "type": "ENTITY",
+      "start": 369,
+      "end": 383
+    },
+    {
+      "text": "Unknown",
+      "type": "ENTITY",
+      "start": 385,
+      "end": 392
+    },
+    {
+      "text": "Tumor Extent",
+      "type": "ENTITY",
+      "start": 394,
+      "end": 406
+    },
+    {
+      "text": "T4 Chest wall",
+      "type": "ENTITY",
+      "start": 408,
+      "end": 421
+    },
+    {
+      "text": "skin",
+      "type": "ENTITY",
+      "start": 431,
+      "end": 435
+    },
+    {
+      "text": "Venous Invasion",
+      "type": "ENTITY",
+      "start": 446,
+      "end": 461
+    },
+    {
+      "text": "Absent",
+      "type": "ENTITY",
+      "start": 463,
+      "end": 469
+    },
+    {
+      "text": "Margins",
+      "type": "ENTITY",
+      "start": 471,
+      "end": 478
+    },
+    {
+      "text": "Absent",
+      "type": "ENTITY",
+      "start": 480,
+      "end": 486
+    },
+    {
+      "text": "Treatment Effect",
+      "type": "ENTITY",
+      "start": 488,
+      "end": 504
+    },
+    {
+      "text": "Comments",
+      "type": "ENTITY",
+      "start": 506,
+      "end": 514
+    },
+    {
+      "text": "Postoperative staging reads",
+      "type": "ENTITY",
+      "start": 524,
+      "end": 551
+    },
+    {
+      "text": "T4c N3a MO",
+      "type": "ENTITY",
+      "start": 564,
+      "end": 574
+    },
+    {
+      "text": "Carcnon+",
+      "type": "ENTITY",
+      "start": 576,
+      "end": 584
+    },
+    {
+      "text": "dvct ard lobulw 853sf3 Formatted Path Report",
+      "type": "ENTITY",
+      "start": 597,
+      "end": 641
+    },
+    {
+      "text": "Sifs",
+      "type": "ENTITY",
+      "start": 643,
+      "end": 647
+    },
+    {
+      "text": "bsust",
+      "type": "ENTITY",
+      "start": 649,
+      "end": 654
+    },
+    {
+      "text": "BREAST TISSUE CHECKLIST",
+      "type": "ENTITY",
+      "start": 673,
+      "end": 696
+    },
+    {
+      "text": "Specimen type",
+      "type": "ENTITY",
+      "start": 697,
+      "end": 710
+    },
+    {
+      "text": "Radical mastectomy",
+      "type": "ENTITY",
+      "start": 712,
+      "end": 730
+    },
+    {
+      "text": "Specimen size",
+      "type": "ENTITY",
+      "start": 731,
+      "end": 744
+    },
+    {
+      "text": "Not specified",
+      "type": "ENTITY",
+      "start": 746,
+      "end": 759
+    },
+    {
+      "text": "Tumor site",
+      "type": "ENTITY",
+      "start": 761,
+      "end": 771
+    },
+    {
+      "text": "Breast Tumor size",
+      "type": "ENTITY",
+      "start": 773,
+      "end": 790
+    },
+    {
+      "text": "Grossly",
+      "type": "ENTITY",
+      "start": 809,
+      "end": 816
+    },
+    {
+      "text": "lesion",
+      "type": "ENTITY",
+      "start": 825,
+      "end": 831
+    },
+    {
+      "text": "Histologic type",
+      "type": "ENTITY",
+      "start": 837,
+      "end": 852
+    },
+    {
+      "text": "Infiltrating ductal",
+      "type": "ENTITY",
+      "start": 854,
+      "end": 873
+    },
+    {
+      "text": "lobular carcinoma",
+      "type": "ENTITY",
+      "start": 878,
+      "end": 895
+    },
+    {
+      "text": "Histologic grade",
+      "type": "ENTITY",
+      "start": 896,
+      "end": 912
+    },
+    {
+      "text": "Moderately",
+      "type": "ENTITY",
+      "start": 914,
+      "end": 924
+    },
+    {
+      "text": "differentiated",
+      "type": "ENTITY",
+      "start": 925,
+      "end": 939
+    },
+    {
+      "text": "Tumor",
+      "type": "ENTITY",
+      "start": 941,
+      "end": 946
+    },
+    {
+      "text": "Skin",
+      "type": "ENTITY",
+      "start": 955,
+      "end": 959
+    },
+    {
+      "text": "positive",
+      "type": "ENTITY",
+      "start": 980,
+      "end": 988
+    },
+    {
+      "text": "metastasis",
+      "type": "ENTITY",
+      "start": 993,
+      "end": 1003
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 1123,
+      "end": 1134
+    },
+    {
+      "text": "Not specified Margins",
+      "type": "ENTITY",
+      "start": 1136,
+      "end": 1157
+    },
+    {
+      "text": "Not specified Nottingham Histologic Score",
+      "type": "ENTITY",
+      "start": 1159,
+      "end": 1200
+    },
+    {
+      "text": "Tubule formation",
+      "type": "ENTITY",
+      "start": 1201,
+      "end": 1217
+    },
+    {
+      "text": "Nuclear pleomorphism",
+      "type": "ENTITY",
+      "start": 1233,
+      "end": 1253
+    },
+    {
+      "text": "Not specified Mitotic count",
+      "type": "ENTITY",
+      "start": 1255,
+      "end": 1282
+    },
+    {
+      "text": "Not specified Mitotic count",
+      "type": "ENTITY",
+      "start": 1290,
+      "end": 1317
+    },
+    {
+      "text": "Not specified",
+      "type": "ENTITY",
+      "start": 1325,
+      "end": 1338
+    },
+    {
+      "text": "Score",
+      "type": "ENTITY",
+      "start": 1386,
+      "end": 1391
+    },
+    {
+      "text": "Evidence",
+      "type": "ENTITY",
+      "start": 1413,
+      "end": 1421
+    },
+    {
+      "text": "neo-adjuvant",
+      "type": "ENTITY",
+      "start": 1425,
+      "end": 1437
+    },
+    {
+      "text": "treatment",
+      "type": "ENTITY",
+      "start": 1438,
+      "end": 1447
+    },
+    {
+      "text": "Not specified",
+      "type": "ENTITY",
+      "start": 1449,
+      "end": 1462
+    },
+    {
+      "text": "pathologic",
+      "type": "ENTITY",
+      "start": 1474,
+      "end": 1484
+    },
+    {
+      "text": "findings",
+      "type": "ENTITY",
+      "start": 1485,
+      "end": 1493
+    },
+    {
+      "text": "Not specified",
+      "type": "ENTITY",
+      "start": 1495,
+      "end": 1508
+    },
+    {
+      "text": "Comments",
+      "type": "ENTITY",
+      "start": 1510,
+      "end": 1518
+    },
+    {
+      "text": "Laterality",
+      "type": "ENTITY",
+      "start": 1525,
+      "end": 1535
+    },
+    {
+      "text": "Right",
+      "type": "ENTITY",
+      "start": 1537,
+      "end": 1542
+    },
+    {
+      "text": "upper outer quadrant",
+      "type": "ENTITY",
+      "start": 1544,
+      "end": 1564
+    }
+  ],
+  "entity_count": 74,
+  "has_embedding": true
+}

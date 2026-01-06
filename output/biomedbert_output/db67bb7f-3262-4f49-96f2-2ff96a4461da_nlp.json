@@ -1,0 +1,584 @@
+{
+  "filename": "db67bb7f-3262-4f49-96f2-2ff96a4461da",
+  "timestamp": "2026-01-05T14:44:18.214622",
+  "entities": [
+    {
+      "text": "AOS",
+      "type": "ENTITY",
+      "start": 98,
+      "end": 101
+    },
+    {
+      "text": "TCGA-MI-A75I-01A-PR",
+      "type": "ENTITY",
+      "start": 102,
+      "end": 121
+    },
+    {
+      "text": "CQQO",
+      "type": "ENTITY",
+      "start": 147,
+      "end": 151
+    },
+    {
+      "text": "PATHOLOGY REPORT Laboratory",
+      "type": "ENTITY",
+      "start": 214,
+      "end": 241
+    },
+    {
+      "text": "Accession No. Subm itted",
+      "type": "ENTITY",
+      "start": 243,
+      "end": 267
+    },
+    {
+      "text": "Date",
+      "type": "ENTITY",
+      "start": 272,
+      "end": 276
+    },
+    {
+      "text": "Specimen",
+      "type": "ENTITY",
+      "start": 287,
+      "end": 295
+    },
+    {
+      "text": "RESECTOMY",
+      "type": "ENTITY",
+      "start": 319,
+      "end": 328
+    },
+    {
+      "text": "DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 372,
+      "end": 381
+    },
+    {
+      "text": "Hepatocellular carcinoma",
+      "type": "ENTITY",
+      "start": 383,
+      "end": 407
+    },
+    {
+      "text": "OPERATIVE FINDINGS",
+      "type": "ENTITY",
+      "start": 408,
+      "end": 426
+    },
+    {
+      "text": "POSTOPERATIVE DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 428,
+      "end": 451
+    },
+    {
+      "text": "Surgeon/physician",
+      "type": "ENTITY",
+      "start": 453,
+      "end": 470
+    },
+    {
+      "text": "PATHOLOGY REPORT Laboratory",
+      "type": "ENTITY",
+      "start": 472,
+      "end": 499
+    },
+    {
+      "text": "Accession",
+      "type": "ENTITY",
+      "start": 501,
+      "end": 510
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 538,
+      "end": 546
+    },
+    {
+      "text": "gram",
+      "type": "ENTITY",
+      "start": 565,
+      "end": 569
+    },
+    {
+      "text": "segment",
+      "type": "ENTITY",
+      "start": 592,
+      "end": 599
+    },
+    {
+      "text": "liver",
+      "type": "ENTITY",
+      "start": 603,
+      "end": 608
+    },
+    {
+      "text": "tan-red",
+      "type": "ENTITY",
+      "start": 622,
+      "end": 629
+    },
+    {
+      "text": "granular",
+      "type": "ENTITY",
+      "start": 631,
+      "end": 639
+    },
+    {
+      "text": "resection margin",
+      "type": "ENTITY",
+      "start": 640,
+      "end": 656
+    },
+    {
+      "text": "multiple",
+      "type": "ENTITY",
+      "start": 662,
+      "end": 670
+    },
+    {
+      "text": "staples",
+      "type": "ENTITY",
+      "start": 672,
+      "end": 679
+    },
+    {
+      "text": "clips",
+      "type": "ENTITY",
+      "start": 684,
+      "end": 689
+    },
+    {
+      "text": "resection margin",
+      "type": "ENTITY",
+      "start": 696,
+      "end": 712
+    },
+    {
+      "text": "inked black",
+      "type": "ENTITY",
+      "start": 716,
+      "end": 727
+    },
+    {
+      "text": "overlying capsule",
+      "type": "ENTITY",
+      "start": 733,
+      "end": 750
+    },
+    {
+      "text": "tan-pink",
+      "type": "ENTITY",
+      "start": 754,
+      "end": 762
+    },
+    {
+      "text": "purpie",
+      "type": "ENTITY",
+      "start": 766,
+      "end": 772
+    },
+    {
+      "text": "granular",
+      "type": "ENTITY",
+      "start": 778,
+      "end": 786
+    },
+    {
+      "text": "abundant",
+      "type": "ENTITY",
+      "start": 792,
+      "end": 800
+    },
+    {
+      "text": "nodularity",
+      "type": "ENTITY",
+      "start": 802,
+      "end": 812
+    },
+    {
+      "text": "capsular",
+      "type": "ENTITY",
+      "start": 818,
+      "end": 826
+    },
+    {
+      "text": "aspect",
+      "type": "ENTITY",
+      "start": 827,
+      "end": 833
+    },
+    {
+      "text": "inked blue",
+      "type": "ENTITY",
+      "start": 837,
+      "end": 847
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 853,
+      "end": 861
+    },
+    {
+      "text": "tan-yellow to white",
+      "type": "ENTITY",
+      "start": 916,
+      "end": 935
+    },
+    {
+      "text": "nodular mass",
+      "type": "ENTITY",
+      "start": 948,
+      "end": 960
+    },
+    {
+      "text": "liver resection margin",
+      "type": "ENTITY",
+      "start": 985,
+      "end": 1007
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 1014,
+      "end": 1018
+    },
+    {
+      "text": "multifocal",
+      "type": "ENTITY",
+      "start": 1022,
+      "end": 1032
+    },
+    {
+      "text": "dimensions",
+      "type": "ENTITY",
+      "start": 1072,
+      "end": 1082
+    },
+    {
+      "text": "hepatic resection margin",
+      "type": "ENTITY",
+      "start": 1084,
+      "end": 1108
+    },
+    {
+      "text": "masses",
+      "type": "ENTITY",
+      "start": 1114,
+      "end": 1120
+    },
+    {
+      "text": "grossly",
+      "type": "ENTITY",
+      "start": 1121,
+      "end": 1128
+    },
+    {
+      "text": "overlying capsule",
+      "type": "ENTITY",
+      "start": 1143,
+      "end": 1160
+    },
+    {
+      "text": "uninvolved",
+      "type": "ENTITY",
+      "start": 1166,
+      "end": 1176
+    },
+    {
+      "text": "liver parenchyma",
+      "type": "ENTITY",
+      "start": 1177,
+      "end": 1193
+    },
+    {
+      "text": "tan-yellow",
+      "type": "ENTITY",
+      "start": 1197,
+      "end": 1207
+    },
+    {
+      "text": "brown",
+      "type": "ENTITY",
+      "start": 1211,
+      "end": 1216
+    },
+    {
+      "text": "Representative sections",
+      "type": "ENTITY",
+      "start": 1236,
+      "end": 1259
+    },
+    {
+      "text": "largest",
+      "type": "ENTITY",
+      "start": 1291,
+      "end": 1298
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 1299,
+      "end": 1303
+    },
+    {
+      "text": "resection margin",
+      "type": "ENTITY",
+      "start": 1308,
+      "end": 1324
+    },
+    {
+      "text": "smallest",
+      "type": "ENTITY",
+      "start": 1329,
+      "end": 1337
+    },
+    {
+      "text": "nodule",
+      "type": "ENTITY",
+      "start": 1338,
+      "end": 1344
+    },
+    {
+      "text": "resection margin",
+      "type": "ENTITY",
+      "start": 1356,
+      "end": 1372
+    },
+    {
+      "text": "nodules",
+      "type": "ENTITY",
+      "start": 1380,
+      "end": 1387
+    },
+    {
+      "text": "overlying capsule",
+      "type": "ENTITY",
+      "start": 1391,
+      "end": 1408
+    },
+    {
+      "text": "largest",
+      "type": "ENTITY",
+      "start": 1414,
+      "end": 1421
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 1422,
+      "end": 1426
+    },
+    {
+      "text": "adjacent",
+      "type": "ENTITY",
+      "start": 1432,
+      "end": 1440
+    },
+    {
+      "text": "liver parenchyma",
+      "type": "ENTITY",
+      "start": 1453,
+      "end": 1469
+    },
+    {
+      "text": "portion",
+      "type": "ENTITY",
+      "start": 1500,
+      "end": 1507
+    },
+    {
+      "text": "tissue bank",
+      "type": "ENTITY",
+      "start": 1521,
+      "end": 1532
+    },
+    {
+      "text": "Left lateral liver",
+      "type": "ENTITY",
+      "start": 1562,
+      "end": 1580
+    },
+    {
+      "text": "resection",
+      "type": "ENTITY",
+      "start": 1582,
+      "end": 1591
+    },
+    {
+      "text": "Liver PROCEDURE",
+      "type": "ENTITY",
+      "start": 1603,
+      "end": 1618
+    },
+    {
+      "text": "Partial",
+      "type": "ENTITY",
+      "start": 1620,
+      "end": 1627
+    },
+    {
+      "text": "hepatectomy",
+      "type": "ENTITY",
+      "start": 1628,
+      "end": 1639
+    },
+    {
+      "text": "TUMOR SIZE",
+      "type": "ENTITY",
+      "start": 1640,
+      "end": 1650
+    },
+    {
+      "text": "TUMOR FOCALITY",
+      "type": "ENTITY",
+      "start": 1671,
+      "end": 1685
+    },
+    {
+      "text": "Multiple HISTOLOGIC TyPE",
+      "type": "ENTITY",
+      "start": 1687,
+      "end": 1711
+    },
+    {
+      "text": "Hepatocellular carcinoma",
+      "type": "ENTITY",
+      "start": 1713,
+      "end": 1737
+    },
+    {
+      "text": "G1",
+      "type": "ENTITY",
+      "start": 1756,
+      "end": 1758
+    },
+    {
+      "text": "Tumor",
+      "type": "ENTITY",
+      "start": 1798,
+      "end": 1803
+    },
+    {
+      "text": "liver MARGINS",
+      "type": "ENTITY",
+      "start": 1816,
+      "end": 1829
+    },
+    {
+      "text": "Parenchymal margin",
+      "type": "ENTITY",
+      "start": 1831,
+      "end": 1849
+    },
+    {
+      "text": "uninvolved",
+      "type": "ENTITY",
+      "start": 1850,
+      "end": 1860
+    },
+    {
+      "text": "invasive carcinoma",
+      "type": "ENTITY",
+      "start": 1864,
+      "end": 1882
+    },
+    {
+      "text": "distance",
+      "type": "ENTITY",
+      "start": 1884,
+      "end": 1892
+    },
+    {
+      "text": "invasive carcinoma",
+      "type": "ENTITY",
+      "start": 1896,
+      "end": 1914
+    },
+    {
+      "text": "margin",
+      "type": "ENTITY",
+      "start": 1928,
+      "end": 1934
+    },
+    {
+      "text": "LYMPH-VAsCULAR",
+      "type": "ENTITY",
+      "start": 1942,
+      "end": 1956
+    },
+    {
+      "text": "INVASION",
+      "type": "ENTITY",
+      "start": 1957,
+      "end": 1965
+    },
+    {
+      "text": "Indeterminate",
+      "type": "ENTITY",
+      "start": 1967,
+      "end": 1980
+    },
+    {
+      "text": "pT2",
+      "type": "ENTITY",
+      "start": 2068,
+      "end": 2071
+    },
+    {
+      "text": "Regional Lymph Nodes",
+      "type": "ENTITY",
+      "start": 2073,
+      "end": 2093
+    },
+    {
+      "text": "Distant Metastasis",
+      "type": "ENTITY",
+      "start": 2100,
+      "end": 2118
+    },
+    {
+      "text": "COMMENT",
+      "type": "ENTITY",
+      "start": 2135,
+      "end": 2142
+    },
+    {
+      "text": "diagnosis",
+      "type": "ENTITY",
+      "start": 2162,
+      "end": 2171
+    },
+    {
+      "text": "malignancy",
+      "type": "ENTITY",
+      "start": 2175,
+      "end": 2185
+    },
+    {
+      "text": "Physician",
+      "type": "ENTITY",
+      "start": 2187,
+      "end": 2196
+    },
+    {
+      "text": "notified",
+      "type": "ENTITY",
+      "start": 2201,
+      "end": 2209
+    },
+    {
+      "text": "gi13",
+      "type": "ENTITY",
+      "start": 2217,
+      "end": 2221
+    }
+  ],
+  "entity_count": 96,
+  "has_embedding": true
+}

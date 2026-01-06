@@ -1,0 +1,686 @@
+{
+  "filename": "7809efea-619f-4c30-a966-cb75f2aa9c06",
+  "timestamp": "2026-01-05T14:43:10.717727",
+  "entities": [
+    {
+      "text": "Surgica! Pathology Report",
+      "type": "ENTITY",
+      "start": 31,
+      "end": 56
+    },
+    {
+      "text": "Surgical Pathology Report",
+      "type": "ENTITY",
+      "start": 58,
+      "end": 83
+    },
+    {
+      "text": "PATIENT",
+      "type": "ENTITY",
+      "start": 84,
+      "end": 91
+    },
+    {
+      "text": "MRN",
+      "type": "ENTITY",
+      "start": 93,
+      "end": 96
+    },
+    {
+      "text": "ACCOUNT",
+      "type": "ENTITY",
+      "start": 98,
+      "end": 105
+    },
+    {
+      "text": "DOB",
+      "type": "ENTITY",
+      "start": 123,
+      "end": 126
+    },
+    {
+      "text": "AgE",
+      "type": "ENTITY",
+      "start": 144,
+      "end": 147
+    },
+    {
+      "text": "SEX",
+      "type": "ENTITY",
+      "start": 149,
+      "end": 152
+    },
+    {
+      "text": "SIGN-OUT",
+      "type": "ENTITY",
+      "start": 154,
+      "end": 162
+    },
+    {
+      "text": "REQUESTING",
+      "type": "ENTITY",
+      "start": 191,
+      "end": 201
+    },
+    {
+      "text": "NO",
+      "type": "ENTITY",
+      "start": 217,
+      "end": 219
+    },
+    {
+      "text": "MD",
+      "type": "ENTITY",
+      "start": 222,
+      "end": 224
+    },
+    {
+      "text": "DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 237,
+      "end": 246
+    },
+    {
+      "text": "Kidney",
+      "type": "ENTITY",
+      "start": 248,
+      "end": 254
+    },
+    {
+      "text": "nephrectomy",
+      "type": "ENTITY",
+      "start": 263,
+      "end": 274
+    },
+    {
+      "text": "Renal cell carcinoma",
+      "type": "ENTITY",
+      "start": 277,
+      "end": 297
+    },
+    {
+      "text": "chromophobe type",
+      "type": "ENTITY",
+      "start": 299,
+      "end": 315
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 321,
+      "end": 326
+    },
+    {
+      "text": "penetrate",
+      "type": "ENTITY",
+      "start": 336,
+      "end": 345
+    },
+    {
+      "text": "renal capsule",
+      "type": "ENTITY",
+      "start": 350,
+      "end": 363
+    },
+    {
+      "text": "Vascular",
+      "type": "ENTITY",
+      "start": 365,
+      "end": 373
+    },
+    {
+      "text": "ureteral margins",
+      "type": "ENTITY",
+      "start": 378,
+      "end": 394
+    },
+    {
+      "text": "free of tumor",
+      "type": "ENTITY",
+      "start": 399,
+      "end": 412
+    },
+    {
+      "text": "Adrenal gland",
+      "type": "ENTITY",
+      "start": 414,
+      "end": 427
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 432,
+      "end": 437
+    },
+    {
+      "text": "IS",
+      "type": "ENTITY",
+      "start": 509,
+      "end": 511
+    },
+    {
+      "text": "ORDERING PROTOCOL PROCEDURE",
+      "type": "ENTITY",
+      "start": 523,
+      "end": 550
+    },
+    {
+      "text": "PREOP",
+      "type": "ENTITY",
+      "start": 552,
+      "end": 557
+    },
+    {
+      "text": "KIDNEY TUMOR",
+      "type": "ENTITY",
+      "start": 568,
+      "end": 580
+    },
+    {
+      "text": "DX",
+      "type": "ENTITY",
+      "start": 588,
+      "end": 590
+    },
+    {
+      "text": "SAME OPERATIVE",
+      "type": "ENTITY",
+      "start": 592,
+      "end": 606
+    },
+    {
+      "text": "FINDINGS",
+      "type": "ENTITY",
+      "start": 607,
+      "end": 615
+    },
+    {
+      "text": "RIGHT KIDNEY WITH",
+      "type": "ENTITY",
+      "start": 617,
+      "end": 634
+    },
+    {
+      "text": "MASS SPECIMENS",
+      "type": "ENTITY",
+      "start": 635,
+      "end": 649
+    },
+    {
+      "text": "KIDNEY",
+      "type": "ENTITY",
+      "start": 661,
+      "end": 667
+    },
+    {
+      "text": "RIGHT",
+      "type": "ENTITY",
+      "start": 669,
+      "end": 674
+    },
+    {
+      "text": "GROSS DESCRIPTION",
+      "type": "ENTITY",
+      "start": 675,
+      "end": 692
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 697,
+      "end": 705
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 718,
+      "end": 723
+    },
+    {
+      "text": "container labeled",
+      "type": "ENTITY",
+      "start": 729,
+      "end": 746
+    },
+    {
+      "text": "gram kidney",
+      "type": "ENTITY",
+      "start": 784,
+      "end": 795
+    },
+    {
+      "text": "adrenal gland",
+      "type": "ENTITY",
+      "start": 814,
+      "end": 827
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 833,
+      "end": 838
+    },
+    {
+      "text": "procurement",
+      "type": "ENTITY",
+      "start": 856,
+      "end": 867
+    },
+    {
+      "text": "UOB",
+      "type": "ENTITY",
+      "start": 880,
+      "end": 883
+    },
+    {
+      "text": "kidney",
+      "type": "ENTITY",
+      "start": 889,
+      "end": 895
+    },
+    {
+      "text": "arrival",
+      "type": "ENTITY",
+      "start": 916,
+      "end": 923
+    },
+    {
+      "text": "Surgical Pathology suite",
+      "type": "ENTITY",
+      "start": 931,
+      "end": 955
+    },
+    {
+      "text": "brown-tan tumor",
+      "type": "ENTITY",
+      "start": 968,
+      "end": 983
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 985,
+      "end": 994
+    },
+    {
+      "text": "maximum",
+      "type": "ENTITY",
+      "start": 1004,
+      "end": 1011
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 1013,
+      "end": 1021
+    },
+    {
+      "text": "abutting",
+      "type": "ENTITY",
+      "start": 1023,
+      "end": 1031
+    },
+    {
+      "text": "renal capsule",
+      "type": "ENTITY",
+      "start": 1036,
+      "end": 1049
+    },
+    {
+      "text": "superior pole",
+      "type": "ENTITY",
+      "start": 1069,
+      "end": 1082
+    },
+    {
+      "text": "perinephric fat",
+      "type": "ENTITY",
+      "start": 1088,
+      "end": 1103
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1115,
+      "end": 1120
+    },
+    {
+      "text": "cut tumor",
+      "type": "ENTITY",
+      "start": 1156,
+      "end": 1165
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1171,
+      "end": 1179
+    },
+    {
+      "text": "representative",
+      "type": "ENTITY",
+      "start": 1206,
+      "end": 1220
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 1221,
+      "end": 1229
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1237,
+      "end": 1242
+    },
+    {
+      "text": "permanent",
+      "type": "ENTITY",
+      "start": 1261,
+      "end": 1270
+    },
+    {
+      "text": "adrenal gland",
+      "type": "ENTITY",
+      "start": 1276,
+      "end": 1289
+    },
+    {
+      "text": "sectioned",
+      "type": "ENTITY",
+      "start": 1307,
+      "end": 1316
+    },
+    {
+      "text": "arrival",
+      "type": "ENTITY",
+      "start": 1326,
+      "end": 1333
+    },
+    {
+      "text": "Surgical",
+      "type": "ENTITY",
+      "start": 1337,
+      "end": 1345
+    },
+    {
+      "text": "Pathology",
+      "type": "ENTITY",
+      "start": 1347,
+      "end": 1356
+    },
+    {
+      "text": "pieces",
+      "type": "ENTITY",
+      "start": 1362,
+      "end": 1368
+    },
+    {
+      "text": "procured",
+      "type": "ENTITY",
+      "start": 1374,
+      "end": 1382
+    },
+    {
+      "text": "UOB",
+      "type": "ENTITY",
+      "start": 1386,
+      "end": 1389
+    },
+    {
+      "text": "adrenal gland",
+      "type": "ENTITY",
+      "start": 1395,
+      "end": 1408
+    },
+    {
+      "text": "adrenal gland",
+      "type": "ENTITY",
+      "start": 1436,
+      "end": 1449
+    },
+    {
+      "text": "orange cut surface",
+      "type": "ENTITY",
+      "start": 1485,
+      "end": 1503
+    },
+    {
+      "text": "gross lesions",
+      "type": "ENTITY",
+      "start": 1512,
+      "end": 1525
+    },
+    {
+      "text": "Representative sections",
+      "type": "ENTITY",
+      "start": 1527,
+      "end": 1550
+    },
+    {
+      "text": "permanent",
+      "type": "ENTITY",
+      "start": 1569,
+      "end": 1578
+    },
+    {
+      "text": "Patient",
+      "type": "ENTITY",
+      "start": 1580,
+      "end": 1587
+    },
+    {
+      "text": "Surgical Pathology Report Page 1\n\n--- Page 2 ---\nMEDICAL RECORD Surgical Pathology Report",
+      "type": "ENTITY",
+      "start": 1603,
+      "end": 1692
+    },
+    {
+      "text": "ureteral",
+      "type": "ENTITY",
+      "start": 1697,
+      "end": 1705
+    },
+    {
+      "text": "vascular margins",
+      "type": "ENTITY",
+      "start": 1710,
+      "end": 1726
+    },
+    {
+      "text": "identified",
+      "type": "ENTITY",
+      "start": 1731,
+      "end": 1741
+    },
+    {
+      "text": "unremarkable",
+      "type": "ENTITY",
+      "start": 1758,
+      "end": 1770
+    },
+    {
+      "text": "patent",
+      "type": "ENTITY",
+      "start": 1775,
+      "end": 1781
+    },
+    {
+      "text": "White cassettes",
+      "type": "ENTITY",
+      "start": 1783,
+      "end": 1798
+    },
+    {
+      "text": "A",
+      "type": "ENTITY",
+      "start": 1810,
+      "end": 1811
+    },
+    {
+      "text": "ureteral",
+      "type": "ENTITY",
+      "start": 1814,
+      "end": 1822
+    },
+    {
+      "text": "vascular margins",
+      "type": "ENTITY",
+      "start": 1827,
+      "end": 1843
+    },
+    {
+      "text": "B",
+      "type": "ENTITY",
+      "start": 1845,
+      "end": 1846
+    },
+    {
+      "text": "adrenal C",
+      "type": "ENTITY",
+      "start": 1849,
+      "end": 1858
+    },
+    {
+      "text": "E",
+      "type": "ENTITY",
+      "start": 1867,
+      "end": 1868
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1871,
+      "end": 1876
+    },
+    {
+      "text": "perinephric fat F",
+      "type": "ENTITY",
+      "start": 1878,
+      "end": 1895
+    },
+    {
+      "text": "G",
+      "type": "ENTITY",
+      "start": 1900,
+      "end": 1901
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1904,
+      "end": 1909
+    },
+    {
+      "text": "kidney parenchyma",
+      "type": "ENTITY",
+      "start": 1911,
+      "end": 1928
+    },
+    {
+      "text": "I",
+      "type": "ENTITY",
+      "start": 1936,
+      "end": 1937
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1940,
+      "end": 1945
+    },
+    {
+      "text": "pelvis J",
+      "type": "ENTITY",
+      "start": 1947,
+      "end": 1955
+    },
+    {
+      "text": "K",
+      "type": "ENTITY",
+      "start": 1960,
+      "end": 1961
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1964,
+      "end": 1969
+    },
+    {
+      "text": "periphery",
+      "type": "ENTITY",
+      "start": 1971,
+      "end": 1980
+    },
+    {
+      "text": "L",
+      "type": "ENTITY",
+      "start": 1981,
+      "end": 1982
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1985,
+      "end": 1990
+    },
+    {
+      "text": "pelvis M",
+      "type": "ENTITY",
+      "start": 1992,
+      "end": 2000
+    },
+    {
+      "text": "N",
+      "type": "ENTITY",
+      "start": 2005,
+      "end": 2006
+    },
+    {
+      "text": "kidney",
+      "type": "ENTITY",
+      "start": 2009,
+      "end": 2015
+    },
+    {
+      "text": "O",
+      "type": "ENTITY",
+      "start": 2017,
+      "end": 2018
+    },
+    {
+      "text": "possible",
+      "type": "ENTITY",
+      "start": 2021,
+      "end": 2029
+    },
+    {
+      "text": "hilar",
+      "type": "ENTITY",
+      "start": 2030,
+      "end": 2035
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 2036,
+      "end": 2047
+    },
+    {
+      "text": "Patient Identification",
+      "type": "ENTITY",
+      "start": 2049,
+      "end": 2071
+    },
+    {
+      "text": "Surgical Pathology Report Page 2",
+      "type": "ENTITY",
+      "start": 2072,
+      "end": 2104
+    }
+  ],
+  "entity_count": 113,
+  "has_embedding": true
+}

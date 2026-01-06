@@ -1,0 +1,656 @@
+{
+  "filename": "2d251759-6ea5-4d30-95e7-3ae7f6247e18",
+  "timestamp": "2026-01-05T14:41:54.061094",
+  "entities": [
+    {
+      "text": "SURGICAL PATHOLOGY Patlent Info Patient",
+      "type": "ENTITY",
+      "start": 24,
+      "end": 63
+    },
+    {
+      "text": "Sex",
+      "type": "ENTITY",
+      "start": 69,
+      "end": 72
+    },
+    {
+      "text": "DOB",
+      "type": "ENTITY",
+      "start": 73,
+      "end": 76
+    },
+    {
+      "text": "Male",
+      "type": "ENTITY",
+      "start": 77,
+      "end": 81
+    },
+    {
+      "text": "UUID:10CCB12F-77E0",
+      "type": "ENTITY",
+      "start": 90,
+      "end": 108
+    },
+    {
+      "text": "TCGA-IA-A83W-01A-PR Redacted Specimen",
+      "type": "ENTITY",
+      "start": 132,
+      "end": 169
+    },
+    {
+      "text": "Physician",
+      "type": "ENTITY",
+      "start": 173,
+      "end": 182
+    },
+    {
+      "text": "FINAL DIAGNOSIS RIGHT",
+      "type": "ENTITY",
+      "start": 184,
+      "end": 205
+    },
+    {
+      "text": "EXCISION",
+      "type": "ENTITY",
+      "start": 214,
+      "end": 222
+    },
+    {
+      "text": "RENAL",
+      "type": "ENTITY",
+      "start": 225,
+      "end": 230
+    },
+    {
+      "text": "PAPILLARY TYPE",
+      "type": "ENTITY",
+      "start": 247,
+      "end": 261
+    },
+    {
+      "text": "FUHRMAN",
+      "type": "ENTITY",
+      "start": 263,
+      "end": 270
+    },
+    {
+      "text": "SEE",
+      "type": "ENTITY",
+      "start": 285,
+      "end": 288
+    },
+    {
+      "text": "ALL",
+      "type": "ENTITY",
+      "start": 299,
+      "end": 302
+    },
+    {
+      "text": "NEGATIVE",
+      "type": "ENTITY",
+      "start": 311,
+      "end": 319
+    },
+    {
+      "text": "neoplasm",
+      "type": "ENTITY",
+      "start": 371,
+      "end": 379
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 380,
+      "end": 388
+    },
+    {
+      "text": "dimension",
+      "type": "ENTITY",
+      "start": 408,
+      "end": 417
+    },
+    {
+      "text": "upper pole",
+      "type": "ENTITY",
+      "start": 441,
+      "end": 451
+    },
+    {
+      "text": "kidney",
+      "type": "ENTITY",
+      "start": 459,
+      "end": 465
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 471,
+      "end": 476
+    },
+    {
+      "text": "invades",
+      "type": "ENTITY",
+      "start": 477,
+      "end": 484
+    },
+    {
+      "text": "overlying renal capsule",
+      "type": "ENTITY",
+      "start": 489,
+      "end": 512
+    },
+    {
+      "text": "soft tissue margin",
+      "type": "ENTITY",
+      "start": 549,
+      "end": 567
+    },
+    {
+      "text": "penetrate",
+      "type": "ENTITY",
+      "start": 589,
+      "end": 598
+    },
+    {
+      "text": "capsule",
+      "type": "ENTITY",
+      "start": 603,
+      "end": 610
+    },
+    {
+      "text": "perirenal fat",
+      "type": "ENTITY",
+      "start": 620,
+      "end": 633
+    },
+    {
+      "text": "Renal sinus invasion",
+      "type": "ENTITY",
+      "start": 637,
+      "end": 657
+    },
+    {
+      "text": "angiolymphatic invasion",
+      "type": "ENTITY",
+      "start": 661,
+      "end": 684
+    },
+    {
+      "text": "***Electronic",
+      "type": "ENTITY",
+      "start": 705,
+      "end": 718
+    },
+    {
+      "text": "RIGHT KIDNEY 8Q40h3",
+      "type": "ENTITY",
+      "start": 788,
+      "end": 807
+    },
+    {
+      "text": "CLINICAL DATA C64.9 RIGHT RENAL",
+      "type": "ENTITY",
+      "start": 808,
+      "end": 839
+    },
+    {
+      "text": "j0/7113",
+      "type": "ENTITY",
+      "start": 847,
+      "end": 854
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 885,
+      "end": 890
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 896,
+      "end": 904
+    },
+    {
+      "text": "right kidney",
+      "type": "ENTITY",
+      "start": 921,
+      "end": 933
+    },
+    {
+      "text": "surrounded",
+      "type": "ENTITY",
+      "start": 934,
+      "end": 944
+    },
+    {
+      "text": "envelope",
+      "type": "ENTITY",
+      "start": 951,
+      "end": 959
+    },
+    {
+      "text": "fibroadipose tissue",
+      "type": "ENTITY",
+      "start": 963,
+      "end": 982
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 983,
+      "end": 992
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 1043,
+      "end": 1047
+    },
+    {
+      "text": "upper portion",
+      "type": "ENTITY",
+      "start": 1061,
+      "end": 1074
+    },
+    {
+      "text": "kidney",
+      "type": "ENTITY",
+      "start": 1082,
+      "end": 1088
+    },
+    {
+      "text": "section",
+      "type": "ENTITY",
+      "start": 1093,
+      "end": 1100
+    },
+    {
+      "text": "tumor mass",
+      "type": "ENTITY",
+      "start": 1106,
+      "end": 1116
+    },
+    {
+      "text": "spherical",
+      "type": "ENTITY",
+      "start": 1128,
+      "end": 1137
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 1142,
+      "end": 1150
+    },
+    {
+      "text": "dimension",
+      "type": "ENTITY",
+      "start": 1170,
+      "end": 1179
+    },
+    {
+      "text": "tan soft",
+      "type": "ENTITY",
+      "start": 1209,
+      "end": 1217
+    },
+    {
+      "text": "homogenous",
+      "type": "ENTITY",
+      "start": 1218,
+      "end": 1228
+    },
+    {
+      "text": "tissue",
+      "type": "ENTITY",
+      "start": 1229,
+      "end": 1235
+    },
+    {
+      "text": "Foci",
+      "type": "ENTITY",
+      "start": 1237,
+      "end": 1241
+    },
+    {
+      "text": "hemorrhage",
+      "type": "ENTITY",
+      "start": 1245,
+      "end": 1255
+    },
+    {
+      "text": "necrosis",
+      "type": "ENTITY",
+      "start": 1259,
+      "end": 1267
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1288,
+      "end": 1293
+    },
+    {
+      "text": "perirenal fat",
+      "type": "ENTITY",
+      "start": 1315,
+      "end": 1328
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1334,
+      "end": 1339
+    },
+    {
+      "text": "invade",
+      "type": "ENTITY",
+      "start": 1349,
+      "end": 1355
+    },
+    {
+      "text": "pelvicaliceal system",
+      "type": "ENTITY",
+      "start": 1360,
+      "end": 1380
+    },
+    {
+      "text": "renal sinus",
+      "type": "ENTITY",
+      "start": 1384,
+      "end": 1395
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1401,
+      "end": 1406
+    },
+    {
+      "text": "renal parenchyma",
+      "type": "ENTITY",
+      "start": 1438,
+      "end": 1454
+    },
+    {
+      "text": "unremarkable",
+      "type": "ENTITY",
+      "start": 1481,
+      "end": 1493
+    },
+    {
+      "text": "Satellite nodules",
+      "type": "ENTITY",
+      "start": 1495,
+      "end": 1512
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1516,
+      "end": 1521
+    },
+    {
+      "text": "Dissection",
+      "type": "ENTITY",
+      "start": 1539,
+      "end": 1549
+    },
+    {
+      "text": "renal veins",
+      "type": "ENTITY",
+      "start": 1557,
+      "end": 1568
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 1613,
+      "end": 1617
+    },
+    {
+      "text": "intravascular",
+      "type": "ENTITY",
+      "start": 1636,
+      "end": 1649
+    },
+    {
+      "text": "neoplasm",
+      "type": "ENTITY",
+      "start": 1663,
+      "end": 1671
+    },
+    {
+      "text": "adrenal gland",
+      "type": "ENTITY",
+      "start": 1677,
+      "end": 1690
+    },
+    {
+      "text": "segment",
+      "type": "ENTITY",
+      "start": 1717,
+      "end": 1724
+    },
+    {
+      "text": "ureter",
+      "type": "ENTITY",
+      "start": 1728,
+      "end": 1734
+    },
+    {
+      "text": "unremarkable",
+      "type": "ENTITY",
+      "start": 1765,
+      "end": 1777
+    },
+    {
+      "text": "Sectioning",
+      "type": "ENTITY",
+      "start": 1779,
+      "end": 1789
+    },
+    {
+      "text": "renal parenchyma",
+      "type": "ENTITY",
+      "start": 1797,
+      "end": 1813
+    },
+    {
+      "text": "cyst",
+      "type": "ENTITY",
+      "start": 1824,
+      "end": 1828
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 1829,
+      "end": 1838
+    },
+    {
+      "text": "dimension",
+      "type": "ENTITY",
+      "start": 1858,
+      "end": 1867
+    },
+    {
+      "text": "Representative sections",
+      "type": "ENTITY",
+      "start": 1869,
+      "end": 1892
+    },
+    {
+      "text": "Al ureter margin",
+      "type": "ENTITY",
+      "start": 1919,
+      "end": 1935
+    },
+    {
+      "text": "A2 vascular margin",
+      "type": "ENTITY",
+      "start": 1937,
+      "end": 1955
+    },
+    {
+      "text": "A3 pelvis",
+      "type": "ENTITY",
+      "start": 1957,
+      "end": 1966
+    },
+    {
+      "text": "sinus",
+      "type": "ENTITY",
+      "start": 1971,
+      "end": 1976
+    },
+    {
+      "text": "A4 cyst",
+      "type": "ENTITY",
+      "start": 1978,
+      "end": 1985
+    },
+    {
+      "text": "A5-A6 sinus",
+      "type": "ENTITY",
+      "start": 1987,
+      "end": 1998
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 2003,
+      "end": 2007
+    },
+    {
+      "text": "A7-A1o",
+      "type": "ENTITY",
+      "start": 2009,
+      "end": 2015
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 2016,
+      "end": 2020
+    },
+    {
+      "text": "capsule",
+      "type": "ENTITY",
+      "start": 2025,
+      "end": 2032
+    },
+    {
+      "text": "soft tissue margin",
+      "type": "ENTITY",
+      "start": 2037,
+      "end": 2055
+    },
+    {
+      "text": "Patient",
+      "type": "ENTITY",
+      "start": 2085,
+      "end": 2092
+    },
+    {
+      "text": "ID",
+      "type": "ENTITY",
+      "start": 2093,
+      "end": 2095
+    },
+    {
+      "text": "DOB",
+      "type": "ENTITY",
+      "start": 2099,
+      "end": 2102
+    },
+    {
+      "text": "Date  of Report",
+      "type": "ENTITY",
+      "start": 2104,
+      "end": 2119
+    },
+    {
+      "text": "Receipt",
+      "type": "ENTITY",
+      "start": 2149,
+      "end": 2156
+    },
+    {
+      "text": "Location",
+      "type": "ENTITY",
+      "start": 2173,
+      "end": 2181
+    },
+    {
+      "text": "Lab and Collection",
+      "type": "ENTITY",
+      "start": 2183,
+      "end": 2201
+    },
+    {
+      "text": "Lab",
+      "type": "ENTITY",
+      "start": 2230,
+      "end": 2233
+    },
+    {
+      "text": "Information",
+      "type": "ENTITY",
+      "start": 2249,
+      "end": 2260
+    },
+    {
+      "text": "Order Result History Report",
+      "type": "ENTITY",
+      "start": 2307,
+      "end": 2334
+    },
+    {
+      "text": "Information Result",
+      "type": "ENTITY",
+      "start": 2344,
+      "end": 2362
+    },
+    {
+      "text": "Date",
+      "type": "ENTITY",
+      "start": 2363,
+      "end": 2367
+    },
+    {
+      "text": "Time",
+      "type": "ENTITY",
+      "start": 2372,
+      "end": 2376
+    },
+    {
+      "text": "Status Provider Status",
+      "type": "ENTITY",
+      "start": 2378,
+      "end": 2400
+    },
+    {
+      "text": "Ordered Status",
+      "type": "ENTITY",
+      "start": 2414,
+      "end": 2428
+    },
+    {
+      "text": "Display",
+      "type": "ENTITY",
+      "start": 2471,
+      "end": 2478
+    },
+    {
+      "text": "Report Display Order Report",
+      "type": "ENTITY",
+      "start": 2491,
+      "end": 2518
+    }
+  ],
+  "entity_count": 108,
+  "has_embedding": true
+}

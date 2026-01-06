@@ -1,0 +1,668 @@
+{
+  "filename": "a2866aec-5203-425a-bcfc-e49d326c974c",
+  "timestamp": "2026-01-05T14:42:31.041595",
+  "entities": [
+    {
+      "text": "BEB0E95C-EDF2-40A5-BB95-588D07369CEE",
+      "type": "ENTITY",
+      "start": 21,
+      "end": 57
+    },
+    {
+      "text": "TCGA-E7-A7DU-01A-PR",
+      "type": "ENTITY",
+      "start": 58,
+      "end": 77
+    },
+    {
+      "text": "Redacted TSS",
+      "type": "ENTITY",
+      "start": 78,
+      "end": 90
+    },
+    {
+      "text": "Patient",
+      "type": "ENTITY",
+      "start": 91,
+      "end": 98
+    },
+    {
+      "text": "ID",
+      "type": "ENTITY",
+      "start": 99,
+      "end": 101
+    },
+    {
+      "text": "Surgical Date",
+      "type": "ENTITY",
+      "start": 103,
+      "end": 116
+    },
+    {
+      "text": "Gross Description",
+      "type": "ENTITY",
+      "start": 118,
+      "end": 135
+    },
+    {
+      "text": "Bladder",
+      "type": "ENTITY",
+      "start": 140,
+      "end": 147
+    },
+    {
+      "text": "tumor fragments endoscopy",
+      "type": "ENTITY",
+      "start": 148,
+      "end": 173
+    },
+    {
+      "text": "histologic",
+      "type": "ENTITY",
+      "start": 189,
+      "end": 199
+    },
+    {
+      "text": "papillary urothelial carcinoma",
+      "type": "ENTITY",
+      "start": 210,
+      "end": 240
+    },
+    {
+      "text": "well/moderate",
+      "type": "ENTITY",
+      "start": 241,
+      "end": 254
+    },
+    {
+      "text": "low-grade",
+      "type": "ENTITY",
+      "start": 277,
+      "end": 286
+    },
+    {
+      "text": "squamous metaplasia",
+      "type": "ENTITY",
+      "start": 298,
+      "end": 317
+    },
+    {
+      "text": "ulcerated",
+      "type": "ENTITY",
+      "start": 320,
+      "end": 329
+    },
+    {
+      "text": "nectrotic",
+      "type": "ENTITY",
+      "start": 331,
+      "end": 340
+    },
+    {
+      "text": "stpT1",
+      "type": "ENTITY",
+      "start": 342,
+      "end": 347
+    },
+    {
+      "text": "Piece",
+      "type": "ENTITY",
+      "start": 364,
+      "end": 369
+    },
+    {
+      "text": "cystoprostatectomy",
+      "type": "ENTITY",
+      "start": 373,
+      "end": 391
+    },
+    {
+      "text": "presenting",
+      "type": "ENTITY",
+      "start": 392,
+      "end": 402
+    },
+    {
+      "text": "urinary bladder",
+      "type": "ENTITY",
+      "start": 407,
+      "end": 422
+    },
+    {
+      "text": "vegetative",
+      "type": "ENTITY",
+      "start": 430,
+      "end": 440
+    },
+    {
+      "text": "tumoral proliferation",
+      "type": "ENTITY",
+      "start": 441,
+      "end": 462
+    },
+    {
+      "text": "trigone",
+      "type": "ENTITY",
+      "start": 478,
+      "end": 485
+    },
+    {
+      "text": "retro-trigone",
+      "type": "ENTITY",
+      "start": 487,
+      "end": 500
+    },
+    {
+      "text": "left wall level",
+      "type": "ENTITY",
+      "start": 505,
+      "end": 520
+    },
+    {
+      "text": "intramural",
+      "type": "ENTITY",
+      "start": 527,
+      "end": 537
+    },
+    {
+      "text": "evolution",
+      "type": "ENTITY",
+      "start": 538,
+      "end": 547
+    },
+    {
+      "text": "peri-Ous",
+      "type": "ENTITY",
+      "start": 549,
+      "end": 557
+    },
+    {
+      "text": "implanting",
+      "type": "ENTITY",
+      "start": 565,
+      "end": 575
+    },
+    {
+      "text": "invasive",
+      "type": "ENTITY",
+      "start": 585,
+      "end": 593
+    },
+    {
+      "text": "whole wall",
+      "type": "ENTITY",
+      "start": 601,
+      "end": 611
+    },
+    {
+      "text": "Histopathological",
+      "type": "ENTITY",
+      "start": 613,
+      "end": 630
+    },
+    {
+      "text": "infiltrative urothelial cell carcinoma",
+      "type": "ENTITY",
+      "start": 641,
+      "end": 679
+    },
+    {
+      "text": "well/moderately differentiated",
+      "type": "ENTITY",
+      "start": 681,
+      "end": 711
+    },
+    {
+      "text": "G1/G2",
+      "type": "ENTITY",
+      "start": 713,
+      "end": 718
+    },
+    {
+      "text": "low-grade",
+      "type": "ENTITY",
+      "start": 720,
+      "end": 729
+    },
+    {
+      "text": "squamous metaplasia",
+      "type": "ENTITY",
+      "start": 746,
+      "end": 765
+    },
+    {
+      "text": "ulcerated",
+      "type": "ENTITY",
+      "start": 767,
+      "end": 776
+    },
+    {
+      "text": "necrotic",
+      "type": "ENTITY",
+      "start": 778,
+      "end": 786
+    },
+    {
+      "text": "intramural",
+      "type": "ENTITY",
+      "start": 788,
+      "end": 798
+    },
+    {
+      "text": "evolution",
+      "type": "ENTITY",
+      "start": 799,
+      "end": 808
+    },
+    {
+      "text": "invasion",
+      "type": "ENTITY",
+      "start": 813,
+      "end": 821
+    },
+    {
+      "text": "bladder wall",
+      "type": "ENTITY",
+      "start": 836,
+      "end": 848
+    },
+    {
+      "text": "stpT3",
+      "type": "ENTITY",
+      "start": 850,
+      "end": 855
+    },
+    {
+      "text": "Prostate",
+      "type": "ENTITY",
+      "start": 857,
+      "end": 865
+    },
+    {
+      "text": "seminal vesicles",
+      "type": "ENTITY",
+      "start": 870,
+      "end": 886
+    },
+    {
+      "text": "histological structure preserved",
+      "type": "ENTITY",
+      "start": 892,
+      "end": 924
+    },
+    {
+      "text": "ilio-obturator group",
+      "type": "ENTITY",
+      "start": 934,
+      "end": 954
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 968,
+      "end": 979
+    },
+    {
+      "text": "maximum",
+      "type": "ENTITY",
+      "start": 983,
+      "end": 990
+    },
+    {
+      "text": "dimensions",
+      "type": "ENTITY",
+      "start": 1001,
+      "end": 1011
+    },
+    {
+      "text": "reactive aspect",
+      "type": "ENTITY",
+      "start": 1018,
+      "end": 1033
+    },
+    {
+      "text": "congestion",
+      "type": "ENTITY",
+      "start": 1035,
+      "end": 1045
+    },
+    {
+      "text": "sclera-lipomatous dystrophy 4",
+      "type": "ENTITY",
+      "start": 1050,
+      "end": 1079
+    },
+    {
+      "text": "Left ilio-obturator group",
+      "type": "ENTITY",
+      "start": 1081,
+      "end": 1106
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 1118,
+      "end": 1129
+    },
+    {
+      "text": "reactive aspect",
+      "type": "ENTITY",
+      "start": 1153,
+      "end": 1168
+    },
+    {
+      "text": "congestion",
+      "type": "ENTITY",
+      "start": 1170,
+      "end": 1180
+    },
+    {
+      "text": "sclero-lipomatous dystrophy",
+      "type": "ENTITY",
+      "start": 1185,
+      "end": 1212
+    },
+    {
+      "text": "left",
+      "type": "ENTITY",
+      "start": 1220,
+      "end": 1224
+    },
+    {
+      "text": "right ureter",
+      "type": "ENTITY",
+      "start": 1229,
+      "end": 1241
+    },
+    {
+      "text": "histological",
+      "type": "ENTITY",
+      "start": 1257,
+      "end": 1269
+    },
+    {
+      "text": "Microscopic Description",
+      "type": "ENTITY",
+      "start": 1278,
+      "end": 1301
+    },
+    {
+      "text": "Diagnosis",
+      "type": "ENTITY",
+      "start": 1303,
+      "end": 1312
+    },
+    {
+      "text": "Papillary urothelial cell carcinoma",
+      "type": "ENTITY",
+      "start": 1334,
+      "end": 1369
+    },
+    {
+      "text": "bladder",
+      "type": "ENTITY",
+      "start": 1377,
+      "end": 1384
+    },
+    {
+      "text": "well/moderate",
+      "type": "ENTITY",
+      "start": 1386,
+      "end": 1399
+    },
+    {
+      "text": "G1/G2",
+      "type": "ENTITY",
+      "start": 1416,
+      "end": 1421
+    },
+    {
+      "text": "low-grade",
+      "type": "ENTITY",
+      "start": 1424,
+      "end": 1433
+    },
+    {
+      "text": "squamous metaplasia",
+      "type": "ENTITY",
+      "start": 1449,
+      "end": 1468
+    },
+    {
+      "text": "stpT3",
+      "type": "ENTITY",
+      "start": 1470,
+      "end": 1475
+    },
+    {
+      "text": "pNo",
+      "type": "ENTITY",
+      "start": 1477,
+      "end": 1480
+    },
+    {
+      "text": "pMx",
+      "type": "ENTITY",
+      "start": 1482,
+      "end": 1485
+    },
+    {
+      "text": "erunmxwruthliil",
+      "type": "ENTITY",
+      "start": 1507,
+      "end": 1522
+    },
+    {
+      "text": "BLADDER",
+      "type": "ENTITY",
+      "start": 1569,
+      "end": 1576
+    },
+    {
+      "text": "Specimen type",
+      "type": "ENTITY",
+      "start": 1594,
+      "end": 1607
+    },
+    {
+      "text": "Cystectomy",
+      "type": "ENTITY",
+      "start": 1609,
+      "end": 1619
+    },
+    {
+      "text": "J830/3",
+      "type": "ENTITY",
+      "start": 1620,
+      "end": 1626
+    },
+    {
+      "text": "Tumor site",
+      "type": "ENTITY",
+      "start": 1627,
+      "end": 1637
+    },
+    {
+      "text": "Bladder Ste",
+      "type": "ENTITY",
+      "start": 1639,
+      "end": 1650
+    },
+    {
+      "text": "Tumor size",
+      "type": "ENTITY",
+      "start": 1651,
+      "end": 1661
+    },
+    {
+      "text": "AtJ",
+      "type": "ENTITY",
+      "start": 1672,
+      "end": 1675
+    },
+    {
+      "text": "Tumor",
+      "type": "ENTITY",
+      "start": 1683,
+      "end": 1688
+    },
+    {
+      "text": "features",
+      "type": "ENTITY",
+      "start": 1689,
+      "end": 1697
+    },
+    {
+      "text": "Ulcerated",
+      "type": "ENTITY",
+      "start": 1699,
+      "end": 1708
+    },
+    {
+      "text": "Histologic type",
+      "type": "ENTITY",
+      "start": 1709,
+      "end": 1724
+    },
+    {
+      "text": "Transitional cell carcinoma",
+      "type": "ENTITY",
+      "start": 1726,
+      "end": 1753
+    },
+    {
+      "text": "papillary",
+      "type": "ENTITY",
+      "start": 1755,
+      "end": 1764
+    },
+    {
+      "text": "Histologic grade",
+      "type": "ENTITY",
+      "start": 1765,
+      "end": 1781
+    },
+    {
+      "text": "Perivesical tissue",
+      "type": "ENTITY",
+      "start": 1847,
+      "end": 1865
+    },
+    {
+      "text": "microscopic",
+      "type": "ENTITY",
+      "start": 1867,
+      "end": 1878
+    },
+    {
+      "text": "Lymph nodes",
+      "type": "ENTITY",
+      "start": 1881,
+      "end": 1892
+    },
+    {
+      "text": "positive",
+      "type": "ENTITY",
+      "start": 1899,
+      "end": 1907
+    },
+    {
+      "text": "metastasis",
+      "type": "ENTITY",
+      "start": 1912,
+      "end": 1922
+    },
+    {
+      "text": "Regional",
+      "type": "ENTITY",
+      "start": 1924,
+      "end": 1932
+    },
+    {
+      "text": "Lymphatic invasion",
+      "type": "ENTITY",
+      "start": 1939,
+      "end": 1957
+    },
+    {
+      "text": "Not specified",
+      "type": "ENTITY",
+      "start": 1959,
+      "end": 1972
+    },
+    {
+      "text": "Venous invasion",
+      "type": "ENTITY",
+      "start": 1974,
+      "end": 1989
+    },
+    {
+      "text": "Not specified",
+      "type": "ENTITY",
+      "start": 1991,
+      "end": 2004
+    },
+    {
+      "text": "Margins",
+      "type": "ENTITY",
+      "start": 2006,
+      "end": 2013
+    },
+    {
+      "text": "Uninvolved",
+      "type": "ENTITY",
+      "start": 2015,
+      "end": 2025
+    },
+    {
+      "text": "Evidence",
+      "type": "ENTITY",
+      "start": 2026,
+      "end": 2034
+    },
+    {
+      "text": "neo-adjuvant",
+      "type": "ENTITY",
+      "start": 2038,
+      "end": 2050
+    },
+    {
+      "text": "treatment",
+      "type": "ENTITY",
+      "start": 2051,
+      "end": 2060
+    },
+    {
+      "text": "Not specified",
+      "type": "ENTITY",
+      "start": 2062,
+      "end": 2075
+    },
+    {
+      "text": "pathologic",
+      "type": "ENTITY",
+      "start": 2087,
+      "end": 2097
+    },
+    {
+      "text": "findings",
+      "type": "ENTITY",
+      "start": 2098,
+      "end": 2106
+    },
+    {
+      "text": "Not specified",
+      "type": "ENTITY",
+      "start": 2108,
+      "end": 2121
+    },
+    {
+      "text": "Comments",
+      "type": "ENTITY",
+      "start": 2122,
+      "end": 2130
+    }
+  ],
+  "entity_count": 110,
+  "has_embedding": true
+}

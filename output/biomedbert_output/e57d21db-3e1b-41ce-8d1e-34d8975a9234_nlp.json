@@ -1,0 +1,992 @@
+{
+  "filename": "e57d21db-3e1b-41ce-8d1e-34d8975a9234",
+  "timestamp": "2026-01-05T14:43:25.400115",
+  "entities": [
+    {
+      "text": "breast",
+      "type": "ENTITY",
+      "start": 67,
+      "end": 73
+    },
+    {
+      "text": "axillary",
+      "type": "ENTITY",
+      "start": 79,
+      "end": 87
+    },
+    {
+      "text": "contents",
+      "type": "ENTITY",
+      "start": 88,
+      "end": 96
+    },
+    {
+      "text": "History",
+      "type": "ENTITY",
+      "start": 111,
+      "end": 118
+    },
+    {
+      "text": "Carcioma",
+      "type": "ENTITY",
+      "start": 120,
+      "end": 128
+    },
+    {
+      "text": "ductal",
+      "type": "ENTITY",
+      "start": 142,
+      "end": 148
+    },
+    {
+      "text": "Clinical",
+      "type": "ENTITY",
+      "start": 155,
+      "end": 163
+    },
+    {
+      "text": "Diagnosis",
+      "type": "ENTITY",
+      "start": 171,
+      "end": 180
+    },
+    {
+      "text": "Sin",
+      "type": "ENTITY",
+      "start": 182,
+      "end": 185
+    },
+    {
+      "text": "Nos c5o.9",
+      "type": "ENTITY",
+      "start": 194,
+      "end": 203
+    },
+    {
+      "text": "Operating 1/s/n pw Surgeon",
+      "type": "ENTITY",
+      "start": 204,
+      "end": 230
+    },
+    {
+      "text": "Pathology Number Dr. Gross Examination",
+      "type": "ENTITY",
+      "start": 232,
+      "end": 270
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 277,
+      "end": 285
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 321,
+      "end": 328
+    },
+    {
+      "text": "patient's",
+      "type": "ENTITY",
+      "start": 338,
+      "end": 347
+    },
+    {
+      "text": "history",
+      "type": "ENTITY",
+      "start": 354,
+      "end": 361
+    },
+    {
+      "text": "date",
+      "type": "ENTITY",
+      "start": 371,
+      "end": 375
+    },
+    {
+      "text": "left breast",
+      "type": "ENTITY",
+      "start": 381,
+      "end": 392
+    },
+    {
+      "text": "axillary",
+      "type": "ENTITY",
+      "start": 397,
+      "end": 405
+    },
+    {
+      "text": "contents",
+      "type": "ENTITY",
+      "start": 406,
+      "end": 414
+    },
+    {
+      "text": "breast",
+      "type": "ENTITY",
+      "start": 431,
+      "end": 437
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 438,
+      "end": 447
+    },
+    {
+      "text": "approximately",
+      "type": "ENTITY",
+      "start": 448,
+      "end": 461
+    },
+    {
+      "text": "axillary",
+      "type": "ENTITY",
+      "start": 501,
+      "end": 509
+    },
+    {
+      "text": "contents",
+      "type": "ENTITY",
+      "start": 510,
+      "end": 518
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 519,
+      "end": 528
+    },
+    {
+      "text": "scars",
+      "type": "ENTITY",
+      "start": 577,
+      "end": 582
+    },
+    {
+      "text": "lesions",
+      "type": "ENTITY",
+      "start": 592,
+      "end": 599
+    },
+    {
+      "text": "surface",
+      "type": "ENTITY",
+      "start": 607,
+      "end": 614
+    },
+    {
+      "text": "breast",
+      "type": "ENTITY",
+      "start": 622,
+      "end": 628
+    },
+    {
+      "text": "Noted",
+      "type": "ENTITY",
+      "start": 630,
+      "end": 635
+    },
+    {
+      "text": "grossly",
+      "type": "ENTITY",
+      "start": 636,
+      "end": 643
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 669,
+      "end": 673
+    },
+    {
+      "text": "receptors",
+      "type": "ENTITY",
+      "start": 688,
+      "end": 697
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 703,
+      "end": 711
+    },
+    {
+      "text": "blue",
+      "type": "ENTITY",
+      "start": 730,
+      "end": 734
+    },
+    {
+      "text": "berore accessioning",
+      "type": "ENTITY",
+      "start": 761,
+      "end": 780
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 801,
+      "end": 809
+    },
+    {
+      "text": "white nodule",
+      "type": "ENTITY",
+      "start": 825,
+      "end": 837
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 838,
+      "end": 847
+    },
+    {
+      "text": "approximately",
+      "type": "ENTITY",
+      "start": 848,
+      "end": 861
+    },
+    {
+      "text": "dimensions",
+      "type": "ENTITY",
+      "start": 883,
+      "end": 893
+    },
+    {
+      "text": "Gross inspection",
+      "type": "ENTITY",
+      "start": 895,
+      "end": 911
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 919,
+      "end": 924
+    },
+    {
+      "text": "deep margin",
+      "type": "ENTITY",
+      "start": 932,
+      "end": 943
+    },
+    {
+      "text": "extension",
+      "type": "ENTITY",
+      "start": 958,
+      "end": 967
+    },
+    {
+      "text": "deep margin",
+      "type": "ENTITY",
+      "start": 980,
+      "end": 991
+    },
+    {
+      "text": "grossly",
+      "type": "ENTITY",
+      "start": 992,
+      "end": 999
+    },
+    {
+      "text": "Representative sections",
+      "type": "ENTITY",
+      "start": 1001,
+      "end": 1024
+    },
+    {
+      "text": "Block I",
+      "type": "ENTITY",
+      "start": 1051,
+      "end": 1058
+    },
+    {
+      "text": "representative",
+      "type": "ENTITY",
+      "start": 1060,
+      "end": 1074
+    },
+    {
+      "text": "section",
+      "type": "ENTITY",
+      "start": 1075,
+      "end": 1082
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1086,
+      "end": 1091
+    },
+    {
+      "text": "deep margin",
+      "type": "ENTITY",
+      "start": 1100,
+      "end": 1111
+    },
+    {
+      "text": "T~V Block II",
+      "type": "ENTITY",
+      "start": 1114,
+      "end": 1126
+    },
+    {
+      "text": "representative",
+      "type": "ENTITY",
+      "start": 1128,
+      "end": 1142
+    },
+    {
+      "text": "section",
+      "type": "ENTITY",
+      "start": 1143,
+      "end": 1150
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1154,
+      "end": 1159
+    },
+    {
+      "text": "deep margin",
+      "type": "ENTITY",
+      "start": 1168,
+      "end": 1179
+    },
+    {
+      "text": "Bloeks III",
+      "type": "ENTITY",
+      "start": 1182,
+      "end": 1192
+    },
+    {
+      "text": "IV",
+      "type": "ENTITY",
+      "start": 1197,
+      "end": 1199
+    },
+    {
+      "text": "representative",
+      "type": "ENTITY",
+      "start": 1201,
+      "end": 1215
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 1216,
+      "end": 1224
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1232,
+      "end": 1237
+    },
+    {
+      "text": "Palpation",
+      "type": "ENTITY",
+      "start": 1240,
+      "end": 1249
+    },
+    {
+      "text": "breast",
+      "type": "ENTITY",
+      "start": 1274,
+      "end": 1280
+    },
+    {
+      "text": "nodules",
+      "type": "ENTITY",
+      "start": 1310,
+      "end": 1317
+    },
+    {
+      "text": "tumor region",
+      "type": "ENTITY",
+      "start": 1333,
+      "end": 1345
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 1361,
+      "end": 1365
+    },
+    {
+      "text": "satellite",
+      "type": "ENTITY",
+      "start": 1379,
+      "end": 1388
+    },
+    {
+      "text": "nodules",
+      "type": "ENTITY",
+      "start": 1389,
+      "end": 1396
+    },
+    {
+      "text": "contiguous",
+      "type": "ENTITY",
+      "start": 1425,
+      "end": 1435
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 1450,
+      "end": 1454
+    },
+    {
+      "text": "section",
+      "type": "ENTITY",
+      "start": 1458,
+      "end": 1465
+    },
+    {
+      "text": "area",
+      "type": "ENTITY",
+      "start": 1474,
+      "end": 1478
+    },
+    {
+      "text": "Block",
+      "type": "ENTITY",
+      "start": 1495,
+      "end": 1500
+    },
+    {
+      "text": "representative",
+      "type": "ENTITY",
+      "start": 1515,
+      "end": 1529
+    },
+    {
+      "text": "section",
+      "type": "ENTITY",
+      "start": 1530,
+      "end": 1537
+    },
+    {
+      "text": "nipple",
+      "type": "ENTITY",
+      "start": 1541,
+      "end": 1547
+    },
+    {
+      "text": "Block VII",
+      "type": "ENTITY",
+      "start": 1549,
+      "end": 1558
+    },
+    {
+      "text": "representative",
+      "type": "ENTITY",
+      "start": 1560,
+      "end": 1574
+    },
+    {
+      "text": "section",
+      "type": "ENTITY",
+      "start": 1575,
+      "end": 1582
+    },
+    {
+      "text": "skin",
+      "type": "ENTITY",
+      "start": 1586,
+      "end": 1590
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1596,
+      "end": 1601
+    },
+    {
+      "text": "Block viII",
+      "type": "ENTITY",
+      "start": 1603,
+      "end": 1613
+    },
+    {
+      "text": "random",
+      "type": "ENTITY",
+      "start": 1615,
+      "end": 1621
+    },
+    {
+      "text": "sample",
+      "type": "ENTITY",
+      "start": 1622,
+      "end": 1628
+    },
+    {
+      "text": "upper inner quadrant",
+      "type": "ENTITY",
+      "start": 1632,
+      "end": 1652
+    },
+    {
+      "text": "Block IX",
+      "type": "ENTITY",
+      "start": 1654,
+      "end": 1662
+    },
+    {
+      "text": "random",
+      "type": "ENTITY",
+      "start": 1664,
+      "end": 1670
+    },
+    {
+      "text": "Block X",
+      "type": "ENTITY",
+      "start": 1704,
+      "end": 1711
+    },
+    {
+      "text": "random",
+      "type": "ENTITY",
+      "start": 1713,
+      "end": 1719
+    },
+    {
+      "text": "sample",
+      "type": "ENTITY",
+      "start": 1720,
+      "end": 1726
+    },
+    {
+      "text": "upper outer quadrant",
+      "type": "ENTITY",
+      "start": 1730,
+      "end": 1750
+    },
+    {
+      "text": "Block XI",
+      "type": "ENTITY",
+      "start": 1753,
+      "end": 1761
+    },
+    {
+      "text": "random",
+      "type": "ENTITY",
+      "start": 1763,
+      "end": 1769
+    },
+    {
+      "text": "axillary",
+      "type": "ENTITY",
+      "start": 1806,
+      "end": 1814
+    },
+    {
+      "text": "contents",
+      "type": "ENTITY",
+      "start": 1815,
+      "end": 1823
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1863,
+      "end": 1871
+    },
+    {
+      "text": "palpated",
+      "type": "ENTITY",
+      "start": 1876,
+      "end": 1884
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 1890,
+      "end": 1901
+    },
+    {
+      "text": "Lymph node",
+      "type": "ENTITY",
+      "start": 1903,
+      "end": 1913
+    },
+    {
+      "text": "inferior",
+      "type": "ENTITY",
+      "start": 1948,
+      "end": 1956
+    },
+    {
+      "text": "superior",
+      "type": "ENTITY",
+      "start": 1964,
+      "end": 1972
+    },
+    {
+      "text": "direction",
+      "type": "ENTITY",
+      "start": 1973,
+      "end": 1982
+    },
+    {
+      "text": "Block xII",
+      "type": "ENTITY",
+      "start": 2015,
+      "end": 2024
+    },
+    {
+      "text": "lymph node candidates",
+      "type": "ENTITY",
+      "start": 2030,
+      "end": 2051
+    },
+    {
+      "text": "Block Xill",
+      "type": "ENTITY",
+      "start": 2053,
+      "end": 2063
+    },
+    {
+      "text": "Iymph node",
+      "type": "ENTITY",
+      "start": 2071,
+      "end": 2081
+    },
+    {
+      "text": "Iymph node",
+      "type": "ENTITY",
+      "start": 2112,
+      "end": 2122
+    },
+    {
+      "text": "UUID",
+      "type": "ENTITY",
+      "start": 2135,
+      "end": 2139
+    },
+    {
+      "text": "CGA-B6-A0I6-01A-PI",
+      "type": "ENTITY",
+      "start": 2178,
+      "end": 2196
+    },
+    {
+      "text": "Redacted Block Xv",
+      "type": "ENTITY",
+      "start": 2197,
+      "end": 2214
+    },
+    {
+      "text": "lymph node",
+      "type": "ENTITY",
+      "start": 2221,
+      "end": 2231
+    },
+    {
+      "text": "candldates",
+      "type": "ENTITY",
+      "start": 2232,
+      "end": 2242
+    },
+    {
+      "text": "Block XVI",
+      "type": "ENTITY",
+      "start": 2244,
+      "end": 2253
+    },
+    {
+      "text": "lymph node candidates",
+      "type": "ENTITY",
+      "start": 2261,
+      "end": 2282
+    },
+    {
+      "text": "Block xvi",
+      "type": "ENTITY",
+      "start": 2284,
+      "end": 2293
+    },
+    {
+      "text": "lymph node",
+      "type": "ENTITY",
+      "start": 2301,
+      "end": 2311
+    },
+    {
+      "text": "Block XviII",
+      "type": "ENTITY",
+      "start": 2325,
+      "end": 2336
+    },
+    {
+      "text": "lymph node",
+      "type": "ENTITY",
+      "start": 2343,
+      "end": 2353
+    },
+    {
+      "text": "Dr.",
+      "type": "ENTITY",
+      "start": 2408,
+      "end": 2411
+    },
+    {
+      "text": "Continuation",
+      "type": "ENTITY",
+      "start": 2413,
+      "end": 2425
+    },
+    {
+      "text": "page",
+      "type": "ENTITY",
+      "start": 2431,
+      "end": 2435
+    },
+    {
+      "text": "Block Xix",
+      "type": "ENTITY",
+      "start": 2440,
+      "end": 2449
+    },
+    {
+      "text": "lymph node candidates",
+      "type": "ENTITY",
+      "start": 2456,
+      "end": 2477
+    },
+    {
+      "text": "Block",
+      "type": "ENTITY",
+      "start": 2479,
+      "end": 2484
+    },
+    {
+      "text": "Xx",
+      "type": "ENTITY",
+      "start": 2485,
+      "end": 2487
+    },
+    {
+      "text": "lymph node candidates",
+      "type": "ENTITY",
+      "start": 2495,
+      "end": 2516
+    },
+    {
+      "text": "Block xxI",
+      "type": "ENTITY",
+      "start": 2518,
+      "end": 2527
+    },
+    {
+      "text": "lymph node candidates",
+      "type": "ENTITY",
+      "start": 2534,
+      "end": 2555
+    },
+    {
+      "text": "Block Xxil",
+      "type": "ENTITY",
+      "start": 2557,
+      "end": 2567
+    },
+    {
+      "text": "lymph node candidates",
+      "type": "ENTITY",
+      "start": 2574,
+      "end": 2595
+    },
+    {
+      "text": "Block XxI",
+      "type": "ENTITY",
+      "start": 2597,
+      "end": 2606
+    },
+    {
+      "text": "lymph node candidates",
+      "type": "ENTITY",
+      "start": 2614,
+      "end": 2635
+    },
+    {
+      "text": "Block Xxiv",
+      "type": "ENTITY",
+      "start": 2637,
+      "end": 2647
+    },
+    {
+      "text": "lymph node candidates",
+      "type": "ENTITY",
+      "start": 2655,
+      "end": 2676
+    },
+    {
+      "text": "MICROsCOpIC",
+      "type": "ENTITY",
+      "start": 2678,
+      "end": 2689
+    },
+    {
+      "text": "apparent",
+      "type": "ENTITY",
+      "start": 2695,
+      "end": 2703
+    },
+    {
+      "text": "grossly",
+      "type": "ENTITY",
+      "start": 2727,
+      "end": 2734
+    },
+    {
+      "text": "Block 5",
+      "type": "ENTITY",
+      "start": 2736,
+      "end": 2743
+    },
+    {
+      "text": "sclerosis",
+      "type": "ENTITY",
+      "start": 2756,
+      "end": 2765
+    },
+    {
+      "text": "hemangioma",
+      "type": "ENTITY",
+      "start": 2770,
+      "end": 2780
+    },
+    {
+      "text": "carcinoma",
+      "type": "ENTITY",
+      "start": 2819,
+      "end": 2828
+    },
+    {
+      "text": "intermediate grade",
+      "type": "ENTITY",
+      "start": 2834,
+      "end": 2852
+    },
+    {
+      "text": "nuclei",
+      "type": "ENTITY",
+      "start": 2853,
+      "end": 2859
+    },
+    {
+      "text": "areas",
+      "type": "ENTITY",
+      "start": 2865,
+      "end": 2870
+    },
+    {
+      "text": "Portions",
+      "type": "ENTITY",
+      "start": 2906,
+      "end": 2914
+    },
+    {
+      "text": "MASTECTOMY",
+      "type": "ENTITY",
+      "start": 2953,
+      "end": 2963
+    },
+    {
+      "text": "A.-LARGE",
+      "type": "ENTITY",
+      "start": 2965,
+      "end": 2973
+    },
+    {
+      "text": "CM",
+      "type": "ENTITY",
+      "start": 2991,
+      "end": 2993
+    },
+    {
+      "text": "DUCTAL CARCINOMA",
+      "type": "ENTITY",
+      "start": 3009,
+      "end": 3025
+    },
+    {
+      "text": "HISTOLOGIC GRADE 3 OF",
+      "type": "ENTITY",
+      "start": 3075,
+      "end": 3096
+    },
+    {
+      "text": "C. PROMINENT",
+      "type": "ENTITY",
+      "start": 3145,
+      "end": 3157
+    },
+    {
+      "text": "D. NO CARCINOMA",
+      "type": "ENTITY",
+      "start": 3190,
+      "end": 3205
+    },
+    {
+      "text": "E. HEMANGIOMA",
+      "type": "ENTITY",
+      "start": 3238,
+      "end": 3251
+    },
+    {
+      "text": "PAPILLARY APOCRINE",
+      "type": "ENTITY",
+      "start": 3321,
+      "end": 3339
+    },
+    {
+      "text": "DUCT",
+      "type": "ENTITY",
+      "start": 3355,
+      "end": 3359
+    },
+    {
+      "text": "SCLEROSIS",
+      "type": "ENTITY",
+      "start": 3372,
+      "end": 3381
+    },
+    {
+      "text": "AXILLARY DISSECTION",
+      "type": "ENTITY",
+      "start": 3393,
+      "end": 3412
+    },
+    {
+      "text": "A. METASTATIC",
+      "type": "ENTITY",
+      "start": 3414,
+      "end": 3427
+    },
+    {
+      "text": "LYMPH NODES",
+      "type": "ENTITY",
+      "start": 3449,
+      "end": 3460
+    },
+    {
+      "text": "B. FOCAL",
+      "type": "ENTITY",
+      "start": 3462,
+      "end": 3470
+    },
+    {
+      "text": "PERINODAL",
+      "type": "ENTITY",
+      "start": 3484,
+      "end": 3493
+    }
+  ],
+  "entity_count": 164,
+  "has_embedding": true
+}

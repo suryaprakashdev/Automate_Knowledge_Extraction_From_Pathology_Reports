@@ -1,0 +1,938 @@
+{
+  "filename": "b60bb9d8-9cee-4629-b82a-70b06b68caa4",
+  "timestamp": "2026-01-05T14:41:05.170684",
+  "entities": [
+    {
+      "text": "Data",
+      "type": "ENTITY",
+      "start": 30,
+      "end": 34
+    },
+    {
+      "text": "Billing Type",
+      "type": "ENTITY",
+      "start": 36,
+      "end": 48
+    },
+    {
+      "text": "Financial Number",
+      "type": "ENTITY",
+      "start": 50,
+      "end": 66
+    },
+    {
+      "text": "Clinical Diagnosis & History",
+      "type": "ENTITY",
+      "start": 68,
+      "end": 96
+    },
+    {
+      "text": "Investigated",
+      "type": "ENTITY",
+      "start": 98,
+      "end": 110
+    },
+    {
+      "text": "right pelvic pain",
+      "type": "ENTITY",
+      "start": 115,
+      "end": 132
+    },
+    {
+      "text": "solid right renal mass",
+      "type": "ENTITY",
+      "start": 153,
+      "end": 175
+    },
+    {
+      "text": "Specimens",
+      "type": "ENTITY",
+      "start": 177,
+      "end": 186
+    },
+    {
+      "text": "SP",
+      "type": "ENTITY",
+      "start": 200,
+      "end": 202
+    },
+    {
+      "text": "Right kidney 2",
+      "type": "ENTITY",
+      "start": 204,
+      "end": 218
+    },
+    {
+      "text": "SP",
+      "type": "ENTITY",
+      "start": 220,
+      "end": 222
+    },
+    {
+      "text": "Paracaval",
+      "type": "ENTITY",
+      "start": 224,
+      "end": 233
+    },
+    {
+      "text": "DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 236,
+      "end": 245
+    },
+    {
+      "text": "RIGHT",
+      "type": "ENTITY",
+      "start": 258,
+      "end": 263
+    },
+    {
+      "text": "RENAL",
+      "type": "ENTITY",
+      "start": 280,
+      "end": 285
+    },
+    {
+      "text": "CHROMOPHOBE CELL TYPE",
+      "type": "ENTITY",
+      "start": 302,
+      "end": 323
+    },
+    {
+      "text": "TUMOR",
+      "type": "ENTITY",
+      "start": 329,
+      "end": 334
+    },
+    {
+      "text": "DIAMETER IS",
+      "type": "ENTITY",
+      "start": 344,
+      "end": 355
+    },
+    {
+      "text": "CM",
+      "type": "ENTITY",
+      "start": 360,
+      "end": 362
+    },
+    {
+      "text": "TUMOR IS",
+      "type": "ENTITY",
+      "start": 368,
+      "end": 376
+    },
+    {
+      "text": "NO INVASION",
+      "type": "ENTITY",
+      "start": 412,
+      "end": 423
+    },
+    {
+      "text": "IS",
+      "type": "ENTITY",
+      "start": 442,
+      "end": 444
+    },
+    {
+      "text": "ALL",
+      "type": "ENTITY",
+      "start": 457,
+      "end": 460
+    },
+    {
+      "text": "SURGICAL MARGINS",
+      "type": "ENTITY",
+      "start": 461,
+      "end": 477
+    },
+    {
+      "text": "TUMOR",
+      "type": "ENTITY",
+      "start": 490,
+      "end": 495
+    },
+    {
+      "text": "NON-NEOPLASTIC KIDNEY SHOWS",
+      "type": "ENTITY",
+      "start": 501,
+      "end": 528
+    },
+    {
+      "text": "SIMPLE CYST",
+      "type": "ENTITY",
+      "start": 531,
+      "end": 542
+    },
+    {
+      "text": "CM",
+      "type": "ENTITY",
+      "start": 546,
+      "end": 548
+    },
+    {
+      "text": "DIAMETER",
+      "type": "ENTITY",
+      "start": 552,
+      "end": 560
+    },
+    {
+      "text": "ADRENAL GLAND",
+      "type": "ENTITY",
+      "start": 567,
+      "end": 580
+    },
+    {
+      "text": "IS",
+      "type": "ENTITY",
+      "start": 581,
+      "end": 583
+    },
+    {
+      "text": "NOT SUBMITTED",
+      "type": "ENTITY",
+      "start": 584,
+      "end": 597
+    },
+    {
+      "text": "LYMPH NODES",
+      "type": "ENTITY",
+      "start": 602,
+      "end": 613
+    },
+    {
+      "text": "PARACAVAL",
+      "type": "ENTITY",
+      "start": 615,
+      "end": 624
+    },
+    {
+      "text": "EXCISION",
+      "type": "ENTITY",
+      "start": 626,
+      "end": 634
+    },
+    {
+      "text": "THREE",
+      "type": "ENTITY",
+      "start": 638,
+      "end": 643
+    },
+    {
+      "text": "BENIGN LYMPH NODES",
+      "type": "ENTITY",
+      "start": 644,
+      "end": 662
+    },
+    {
+      "text": "O/3",
+      "type": "ENTITY",
+      "start": 664,
+      "end": 667
+    },
+    {
+      "text": "Gross Description",
+      "type": "ENTITY",
+      "start": 670,
+      "end": 687
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 697,
+      "end": 705
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 718,
+      "end": 723
+    },
+    {
+      "text": "frozen section",
+      "type": "ENTITY",
+      "start": 728,
+      "end": 742
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 744,
+      "end": 751
+    },
+    {
+      "text": "kidney",
+      "type": "ENTITY",
+      "start": 786,
+      "end": 792
+    },
+    {
+      "text": "yellow-tan",
+      "type": "ENTITY",
+      "start": 818,
+      "end": 828
+    },
+    {
+      "text": "lobulated",
+      "type": "ENTITY",
+      "start": 830,
+      "end": 839
+    },
+    {
+      "text": "perinephritic fatty tissue",
+      "type": "ENTITY",
+      "start": 841,
+      "end": 867
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 873,
+      "end": 881
+    },
+    {
+      "text": "grams",
+      "type": "ENTITY",
+      "start": 893,
+      "end": 898
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 903,
+      "end": 911
+    },
+    {
+      "text": "kidney",
+      "type": "ENTITY",
+      "start": 937,
+      "end": 943
+    },
+    {
+      "text": "portion",
+      "type": "ENTITY",
+      "start": 950,
+      "end": 957
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 978,
+      "end": 987
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 998,
+      "end": 1004
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 1019,
+      "end": 1027
+    },
+    {
+      "text": "ureter",
+      "type": "ENTITY",
+      "start": 1033,
+      "end": 1039
+    },
+    {
+      "text": "opened",
+      "type": "ENTITY",
+      "start": 1051,
+      "end": 1057
+    },
+    {
+      "text": "light tan",
+      "type": "ENTITY",
+      "start": 1070,
+      "end": 1079
+    },
+    {
+      "text": "smooth",
+      "type": "ENTITY",
+      "start": 1081,
+      "end": 1087
+    },
+    {
+      "text": "kidney",
+      "type": "ENTITY",
+      "start": 1117,
+      "end": 1123
+    },
+    {
+      "text": "smooth",
+      "type": "ENTITY",
+      "start": 1132,
+      "end": 1138
+    },
+    {
+      "text": "shiny capsule",
+      "type": "ENTITY",
+      "start": 1140,
+      "end": 1153
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1159,
+      "end": 1167
+    },
+    {
+      "text": "bivalved",
+      "type": "ENTITY",
+      "start": 1171,
+      "end": 1179
+    },
+    {
+      "text": "capsule",
+      "type": "ENTITY",
+      "start": 1215,
+      "end": 1222
+    },
+    {
+      "text": "center",
+      "type": "ENTITY",
+      "start": 1230,
+      "end": 1236
+    },
+    {
+      "text": "pelvis",
+      "type": "ENTITY",
+      "start": 1276,
+      "end": 1282
+    },
+    {
+      "text": "well-circumscribed",
+      "type": "ENTITY",
+      "start": 1295,
+      "end": 1313
+    },
+    {
+      "text": "pink-dark Page 1of 3\n\n--- Page 2 ---\nred homogeneous",
+      "type": "ENTITY",
+      "start": 1315,
+      "end": 1367
+    },
+    {
+      "text": "soft tumor mass",
+      "type": "ENTITY",
+      "start": 1369,
+      "end": 1384
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 1386,
+      "end": 1395
+    },
+    {
+      "text": "capsule",
+      "type": "ENTITY",
+      "start": 1446,
+      "end": 1453
+    },
+    {
+      "text": "lower pole",
+      "type": "ENTITY",
+      "start": 1461,
+      "end": 1471
+    },
+    {
+      "text": "kidney",
+      "type": "ENTITY",
+      "start": 1479,
+      "end": 1485
+    },
+    {
+      "text": "oval cystic mass",
+      "type": "ENTITY",
+      "start": 1492,
+      "end": 1508
+    },
+    {
+      "text": "smooth surface",
+      "type": "ENTITY",
+      "start": 1516,
+      "end": 1530
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 1532,
+      "end": 1541
+    },
+    {
+      "text": "dark brown fluid",
+      "type": "ENTITY",
+      "start": 1575,
+      "end": 1591
+    },
+    {
+      "text": "renal vein",
+      "type": "ENTITY",
+      "start": 1597,
+      "end": 1607
+    },
+    {
+      "text": "artery",
+      "type": "ENTITY",
+      "start": 1612,
+      "end": 1618
+    },
+    {
+      "text": "light tan",
+      "type": "ENTITY",
+      "start": 1657,
+      "end": 1666
+    },
+    {
+      "text": "smooth",
+      "type": "ENTITY",
+      "start": 1668,
+      "end": 1674
+    },
+    {
+      "text": "kidney",
+      "type": "ENTITY",
+      "start": 1716,
+      "end": 1722
+    },
+    {
+      "text": "parenchyma",
+      "type": "ENTITY",
+      "start": 1724,
+      "end": 1734
+    },
+    {
+      "text": "Representative sections",
+      "type": "ENTITY",
+      "start": 1760,
+      "end": 1783
+    },
+    {
+      "text": "Tissue",
+      "type": "ENTITY",
+      "start": 1799,
+      "end": 1805
+    },
+    {
+      "text": "photograph",
+      "type": "ENTITY",
+      "start": 1820,
+      "end": 1830
+    },
+    {
+      "text": "Sections",
+      "type": "ENTITY",
+      "start": 1853,
+      "end": 1861
+    },
+    {
+      "text": "FSC",
+      "type": "ENTITY",
+      "start": 1863,
+      "end": 1866
+    },
+    {
+      "text": "Frozen",
+      "type": "ENTITY",
+      "start": 1869,
+      "end": 1875
+    },
+    {
+      "text": "control",
+      "type": "ENTITY",
+      "start": 1884,
+      "end": 1891
+    },
+    {
+      "text": "UM",
+      "type": "ENTITY",
+      "start": 1893,
+      "end": 1895
+    },
+    {
+      "text": "Ureteral margin",
+      "type": "ENTITY",
+      "start": 1898,
+      "end": 1913
+    },
+    {
+      "text": "PLN",
+      "type": "ENTITY",
+      "start": 1935,
+      "end": 1938
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 1948,
+      "end": 1959
+    },
+    {
+      "text": "HF",
+      "type": "ENTITY",
+      "start": 1960,
+      "end": 1962
+    },
+    {
+      "text": "Perihilar",
+      "type": "ENTITY",
+      "start": 1965,
+      "end": 1974
+    },
+    {
+      "text": "kidney structure",
+      "type": "ENTITY",
+      "start": 1984,
+      "end": 2000
+    },
+    {
+      "text": "CT",
+      "type": "ENTITY",
+      "start": 2002,
+      "end": 2004
+    },
+    {
+      "text": "Relation",
+      "type": "ENTITY",
+      "start": 2007,
+      "end": 2015
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 2016,
+      "end": 2021
+    },
+    {
+      "text": "kidney capsule",
+      "type": "ENTITY",
+      "start": 2027,
+      "end": 2041
+    },
+    {
+      "text": "Pelvis",
+      "type": "ENTITY",
+      "start": 2045,
+      "end": 2051
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 2066,
+      "end": 2071
+    },
+    {
+      "text": "C",
+      "type": "ENTITY",
+      "start": 2073,
+      "end": 2074
+    },
+    {
+      "text": "Representative",
+      "type": "ENTITY",
+      "start": 2077,
+      "end": 2091
+    },
+    {
+      "text": "section",
+      "type": "ENTITY",
+      "start": 2092,
+      "end": 2099
+    },
+    {
+      "text": "cystic mass",
+      "type": "ENTITY",
+      "start": 2103,
+      "end": 2114
+    },
+    {
+      "text": "T Tumor RS",
+      "type": "ENTITY",
+      "start": 2116,
+      "end": 2126
+    },
+    {
+      "text": "Representative",
+      "type": "ENTITY",
+      "start": 2130,
+      "end": 2144
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 2145,
+      "end": 2153
+    },
+    {
+      "text": "normal kidney",
+      "type": "ENTITY",
+      "start": 2157,
+      "end": 2170
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 2180,
+      "end": 2188
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 2204,
+      "end": 2212
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 2214,
+      "end": 2221
+    },
+    {
+      "text": "Paracaval lymph nodes",
+      "type": "ENTITY",
+      "start": 2223,
+      "end": 2244
+    },
+    {
+      "text": "multiple",
+      "type": "ENTITY",
+      "start": 2262,
+      "end": 2270
+    },
+    {
+      "text": "irregular",
+      "type": "ENTITY",
+      "start": 2271,
+      "end": 2280
+    },
+    {
+      "text": "fibroadipose tissue",
+      "type": "ENTITY",
+      "start": 2303,
+      "end": 2322
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 2348,
+      "end": 2359
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 2361,
+      "end": 2370
+    },
+    {
+      "text": "aggregate",
+      "type": "ENTITY",
+      "start": 2393,
+      "end": 2402
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 2408,
+      "end": 2416
+    },
+    {
+      "text": "Sections",
+      "type": "ENTITY",
+      "start": 2451,
+      "end": 2459
+    },
+    {
+      "text": "LN",
+      "type": "ENTITY",
+      "start": 2461,
+      "end": 2463
+    },
+    {
+      "text": "Lymph nodes",
+      "type": "ENTITY",
+      "start": 2466,
+      "end": 2477
+    },
+    {
+      "text": "Histo Stain Results/Comments",
+      "type": "ENTITY",
+      "start": 2478,
+      "end": 2506
+    },
+    {
+      "text": "Stain/Procedure",
+      "type": "ENTITY",
+      "start": 2509,
+      "end": 2524
+    },
+    {
+      "text": "CK7",
+      "type": "ENTITY",
+      "start": 2545,
+      "end": 2548
+    },
+    {
+      "text": "RECUT",
+      "type": "ENTITY",
+      "start": 2561,
+      "end": 2566
+    },
+    {
+      "text": "NEGATIVE CONTROL",
+      "type": "ENTITY",
+      "start": 2567,
+      "end": 2583
+    },
+    {
+      "text": "CK7",
+      "type": "ENTITY",
+      "start": 2584,
+      "end": 2587
+    },
+    {
+      "text": "NEGATIVE CONTROL IMMUNO",
+      "type": "ENTITY",
+      "start": 2592,
+      "end": 2615
+    },
+    {
+      "text": "RECUT",
+      "type": "ENTITY",
+      "start": 2616,
+      "end": 2621
+    },
+    {
+      "text": "CK7 NEGATIVE CONTROL",
+      "type": "ENTITY",
+      "start": 2622,
+      "end": 2642
+    },
+    {
+      "text": "CK7 CD10 IMMUNO",
+      "type": "ENTITY",
+      "start": 2643,
+      "end": 2658
+    },
+    {
+      "text": "RECUT",
+      "type": "ENTITY",
+      "start": 2659,
+      "end": 2664
+    },
+    {
+      "text": "NEGATIVE CONTROL",
+      "type": "ENTITY",
+      "start": 2665,
+      "end": 2681
+    },
+    {
+      "text": "Sections",
+      "type": "ENTITY",
+      "start": 2693,
+      "end": 2701
+    },
+    {
+      "text": "SiteBlocks",
+      "type": "ENTITY",
+      "start": 2714,
+      "end": 2724
+    },
+    {
+      "text": "Pieces",
+      "type": "ENTITY",
+      "start": 2725,
+      "end": 2731
+    },
+    {
+      "text": "HF",
+      "type": "ENTITY",
+      "start": 2761,
+      "end": 2763
+    },
+    {
+      "text": "PLN 2 M RS 1 1",
+      "type": "ENTITY",
+      "start": 2774,
+      "end": 2788
+    },
+    {
+      "text": "diagnoses",
+      "type": "ENTITY",
+      "start": 2888,
+      "end": 2897
+    },
+    {
+      "text": "section",
+      "type": "ENTITY",
+      "start": 2912,
+      "end": 2919
+    },
+    {
+      "text": "tissue",
+      "type": "ENTITY",
+      "start": 2940,
+      "end": 2946
+    },
+    {
+      "text": "time",
+      "type": "ENTITY",
+      "start": 2970,
+      "end": 2974
+    },
+    {
+      "text": "intraoperative consultation",
+      "type": "ENTITY",
+      "start": 2982,
+      "end": 3009
+    },
+    {
+      "text": "FROZEN SECTION",
+      "type": "ENTITY",
+      "start": 3014,
+      "end": 3028
+    },
+    {
+      "text": "DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 3029,
+      "end": 3038
+    },
+    {
+      "text": "RENAL",
+      "type": "ENTITY",
+      "start": 3040,
+      "end": 3045
+    },
+    {
+      "text": "DR",
+      "type": "ENTITY",
+      "start": 3125,
+      "end": 3127
+    },
+    {
+      "text": "PERMANENT DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 3129,
+      "end": 3148
+    },
+    {
+      "text": "SAME",
+      "type": "ENTITY",
+      "start": 3150,
+      "end": 3154
+    },
+    {
+      "text": "END",
+      "type": "ENTITY",
+      "start": 3168,
+      "end": 3171
+    }
+  ],
+  "entity_count": 155,
+  "has_embedding": true
+}

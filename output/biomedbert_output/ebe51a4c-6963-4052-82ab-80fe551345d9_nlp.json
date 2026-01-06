@@ -1,0 +1,2066 @@
+{
+  "filename": "ebe51a4c-6963-4052-82ab-80fe551345d9",
+  "timestamp": "2026-01-05T14:43:58.551473",
+  "entities": [
+    {
+      "text": "TCGA-GC-A4ZW-01A-PR",
+      "type": "ENTITY",
+      "start": 58,
+      "end": 77
+    },
+    {
+      "text": "Redacted Report",
+      "type": "ENTITY",
+      "start": 78,
+      "end": 93
+    },
+    {
+      "text": "TEST",
+      "type": "ENTITY",
+      "start": 98,
+      "end": 102
+    },
+    {
+      "text": "Surgical Patholog Collected Date & TIme",
+      "type": "ENTITY",
+      "start": 104,
+      "end": 143
+    },
+    {
+      "text": "Reference Range Surgical Pathology",
+      "type": "ENTITY",
+      "start": 171,
+      "end": 205
+    },
+    {
+      "text": "Patient",
+      "type": "ENTITY",
+      "start": 243,
+      "end": 250
+    },
+    {
+      "text": "Accession Med",
+      "type": "ENTITY",
+      "start": 257,
+      "end": 270
+    },
+    {
+      "text": "Billing Type",
+      "type": "ENTITY",
+      "start": 280,
+      "end": 292
+    },
+    {
+      "text": "Location",
+      "type": "ENTITY",
+      "start": 294,
+      "end": 302
+    },
+    {
+      "text": "Service",
+      "type": "ENTITY",
+      "start": 304,
+      "end": 311
+    },
+    {
+      "text": "Gender",
+      "type": "ENTITY",
+      "start": 313,
+      "end": 319
+    },
+    {
+      "text": "Billing",
+      "type": "ENTITY",
+      "start": 321,
+      "end": 328
+    },
+    {
+      "text": "Specimen(s)",
+      "type": "ENTITY",
+      "start": 353,
+      "end": 364
+    },
+    {
+      "text": "Distal right ureter B",
+      "type": "ENTITY",
+      "start": 385,
+      "end": 406
+    },
+    {
+      "text": "Distal",
+      "type": "ENTITY",
+      "start": 408,
+      "end": 414
+    },
+    {
+      "text": "left ureter",
+      "type": "ENTITY",
+      "start": 415,
+      "end": 426
+    },
+    {
+      "text": "oarci",
+      "type": "ENTITY",
+      "start": 427,
+      "end": 432
+    },
+    {
+      "text": "WrrHlisl",
+      "type": "ENTITY",
+      "start": 437,
+      "end": 445
+    },
+    {
+      "text": "Bladder",
+      "type": "ENTITY",
+      "start": 460,
+      "end": 467
+    },
+    {
+      "text": "prostate D",
+      "type": "ENTITY",
+      "start": 472,
+      "end": 482
+    },
+    {
+      "text": "Right pelvic lymph nodes Sifk",
+      "type": "ENTITY",
+      "start": 484,
+      "end": 513
+    },
+    {
+      "text": "Cl7.9",
+      "type": "ENTITY",
+      "start": 526,
+      "end": 531
+    },
+    {
+      "text": "E",
+      "type": "ENTITY",
+      "start": 532,
+      "end": 533
+    },
+    {
+      "text": "Left pelvic",
+      "type": "ENTITY",
+      "start": 535,
+      "end": 546
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 547,
+      "end": 558
+    },
+    {
+      "text": "Pathologic Diagnosis",
+      "type": "ENTITY",
+      "start": 563,
+      "end": 583
+    },
+    {
+      "text": "Distal right ureter (A",
+      "type": "ENTITY",
+      "start": 590,
+      "end": 612
+    },
+    {
+      "text": "Ureter segment",
+      "type": "ENTITY",
+      "start": 615,
+      "end": 629
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 631,
+      "end": 639
+    },
+    {
+      "text": "dysplasia",
+      "type": "ENTITY",
+      "start": 644,
+      "end": 653
+    },
+    {
+      "text": "malignancy",
+      "type": "ENTITY",
+      "start": 658,
+      "end": 668
+    },
+    {
+      "text": "Distal left ureter",
+      "type": "ENTITY",
+      "start": 670,
+      "end": 688
+    },
+    {
+      "text": "B",
+      "type": "ENTITY",
+      "start": 690,
+      "end": 691
+    },
+    {
+      "text": "Benign ureter segment",
+      "type": "ENTITY",
+      "start": 694,
+      "end": 715
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 717,
+      "end": 725
+    },
+    {
+      "text": "dysplasia",
+      "type": "ENTITY",
+      "start": 730,
+      "end": 739
+    },
+    {
+      "text": "malignancy",
+      "type": "ENTITY",
+      "start": 744,
+      "end": 754
+    },
+    {
+      "text": "Bladder",
+      "type": "ENTITY",
+      "start": 756,
+      "end": 763
+    },
+    {
+      "text": "prostate",
+      "type": "ENTITY",
+      "start": 768,
+      "end": 776
+    },
+    {
+      "text": "radical cystoprostatectomy",
+      "type": "ENTITY",
+      "start": 778,
+      "end": 804
+    },
+    {
+      "text": "C",
+      "type": "ENTITY",
+      "start": 806,
+      "end": 807
+    },
+    {
+      "text": "Invasive",
+      "type": "ENTITY",
+      "start": 810,
+      "end": 818
+    },
+    {
+      "text": "invading",
+      "type": "ENTITY",
+      "start": 860,
+      "end": 868
+    },
+    {
+      "text": "detrusor muscle",
+      "type": "ENTITY",
+      "start": 877,
+      "end": 892
+    },
+    {
+      "text": "perivesical",
+      "type": "ENTITY",
+      "start": 898,
+      "end": 909
+    },
+    {
+      "text": "adipose tissue",
+      "type": "ENTITY",
+      "start": 910,
+      "end": 924
+    },
+    {
+      "text": "Benign margins",
+      "type": "ENTITY",
+      "start": 926,
+      "end": 940
+    },
+    {
+      "text": "surgical resection",
+      "type": "ENTITY",
+      "start": 944,
+      "end": 962
+    },
+    {
+      "text": "Negative",
+      "type": "ENTITY",
+      "start": 965,
+      "end": 973
+    },
+    {
+      "text": "lymphovascular",
+      "type": "ENTITY",
+      "start": 978,
+      "end": 992
+    },
+    {
+      "text": "perineural invasion",
+      "type": "ENTITY",
+      "start": 997,
+      "end": 1016
+    },
+    {
+      "text": "Lymph nodes",
+      "type": "ENTITY",
+      "start": 1018,
+      "end": 1029
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1038,
+      "end": 1043
+    },
+    {
+      "text": "Prostate",
+      "type": "ENTITY",
+      "start": 1054,
+      "end": 1062
+    },
+    {
+      "text": "microscopic foci",
+      "type": "ENTITY",
+      "start": 1078,
+      "end": 1094
+    },
+    {
+      "text": "high-grade",
+      "type": "ENTITY",
+      "start": 1098,
+      "end": 1108
+    },
+    {
+      "text": "prostatic intraepithelial neoplasia",
+      "type": "ENTITY",
+      "start": 1109,
+      "end": 1144
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 1146,
+      "end": 1154
+    },
+    {
+      "text": "involvement",
+      "type": "ENTITY",
+      "start": 1159,
+      "end": 1170
+    },
+    {
+      "text": "transitional cell carcinoma",
+      "type": "ENTITY",
+      "start": 1174,
+      "end": 1201
+    },
+    {
+      "text": "Unremarkable",
+      "type": "ENTITY",
+      "start": 1203,
+      "end": 1215
+    },
+    {
+      "text": "seminal vesicles",
+      "type": "ENTITY",
+      "start": 1216,
+      "end": 1232
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 1234,
+      "end": 1242
+    },
+    {
+      "text": "involvement",
+      "type": "ENTITY",
+      "start": 1247,
+      "end": 1258
+    },
+    {
+      "text": "urothelial carcinoma",
+      "type": "ENTITY",
+      "start": 1262,
+      "end": 1282
+    },
+    {
+      "text": "Right pelvic lymph node",
+      "type": "ENTITY",
+      "start": 1284,
+      "end": 1307
+    },
+    {
+      "text": "D",
+      "type": "ENTITY",
+      "start": 1309,
+      "end": 1310
+    },
+    {
+      "text": "Lymph node",
+      "type": "ENTITY",
+      "start": 1314,
+      "end": 1324
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1333,
+      "end": 1338
+    },
+    {
+      "text": "Left pelvic lymph nodes",
+      "type": "ENTITY",
+      "start": 1349,
+      "end": 1372
+    },
+    {
+      "text": "E",
+      "type": "ENTITY",
+      "start": 1374,
+      "end": 1375
+    },
+    {
+      "text": "Lymph nodes",
+      "type": "ENTITY",
+      "start": 1379,
+      "end": 1390
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1399,
+      "end": 1404
+    },
+    {
+      "text": "PATHOLOGY CANCER CASE SUMMARY",
+      "type": "ENTITY",
+      "start": 1423,
+      "end": 1452
+    },
+    {
+      "text": "CHECKLIST",
+      "type": "ENTITY",
+      "start": 1453,
+      "end": 1462
+    },
+    {
+      "text": "BLADDER",
+      "type": "ENTITY",
+      "start": 1464,
+      "end": 1471
+    },
+    {
+      "text": "RADICAL CYSTECTOMY Specimen",
+      "type": "ENTITY",
+      "start": 1473,
+      "end": 1500
+    },
+    {
+      "text": "Bladder",
+      "type": "ENTITY",
+      "start": 1502,
+      "end": 1509
+    },
+    {
+      "text": "prostate",
+      "type": "ENTITY",
+      "start": 1511,
+      "end": 1519
+    },
+    {
+      "text": "bilateral",
+      "type": "ENTITY",
+      "start": 1521,
+      "end": 1530
+    },
+    {
+      "text": "seminal vesicles",
+      "type": "ENTITY",
+      "start": 1531,
+      "end": 1547
+    },
+    {
+      "text": "Procedure",
+      "type": "ENTITY",
+      "start": 1548,
+      "end": 1557
+    },
+    {
+      "text": "Radical cystoprostatectomy",
+      "type": "ENTITY",
+      "start": 1559,
+      "end": 1585
+    },
+    {
+      "text": "Tumor Site",
+      "type": "ENTITY",
+      "start": 1586,
+      "end": 1596
+    },
+    {
+      "text": "posterolateral wall",
+      "type": "ENTITY",
+      "start": 1617,
+      "end": 1636
+    },
+    {
+      "text": "Tumor Size",
+      "type": "ENTITY",
+      "start": 1638,
+      "end": 1648
+    },
+    {
+      "text": "Epithelial Lesions",
+      "type": "ENTITY",
+      "start": 1668,
+      "end": 1686
+    },
+    {
+      "text": "Papillary urothelial neoplasm",
+      "type": "ENTITY",
+      "start": 1688,
+      "end": 1717
+    },
+    {
+      "text": "high-grade",
+      "type": "ENTITY",
+      "start": 1746,
+      "end": 1756
+    },
+    {
+      "text": "Histologic Grade",
+      "type": "ENTITY",
+      "start": 1757,
+      "end": 1773
+    },
+    {
+      "text": "high-grade",
+      "type": "ENTITY",
+      "start": 1779,
+      "end": 1789
+    },
+    {
+      "text": "Tumor Configuration",
+      "type": "ENTITY",
+      "start": 1790,
+      "end": 1809
+    },
+    {
+      "text": "Papillary",
+      "type": "ENTITY",
+      "start": 1811,
+      "end": 1820
+    },
+    {
+      "text": "noninvasive elements",
+      "type": "ENTITY",
+      "start": 1825,
+      "end": 1845
+    },
+    {
+      "text": "infiltrative",
+      "type": "ENTITY",
+      "start": 1850,
+      "end": 1862
+    },
+    {
+      "text": "invasive elements",
+      "type": "ENTITY",
+      "start": 1867,
+      "end": 1884
+    },
+    {
+      "text": "Microscopic Tumor Extension",
+      "type": "ENTITY",
+      "start": 1885,
+      "end": 1912
+    },
+    {
+      "text": "Perivesical fat Margins",
+      "type": "ENTITY",
+      "start": 1914,
+      "end": 1937
+    },
+    {
+      "text": "Uninvolved",
+      "type": "ENTITY",
+      "start": 1940,
+      "end": 1950
+    },
+    {
+      "text": "invasive carcinoma",
+      "type": "ENTITY",
+      "start": 1954,
+      "end": 1972
+    },
+    {
+      "text": "Lymph-Vascular Invasion",
+      "type": "ENTITY",
+      "start": 1973,
+      "end": 1996
+    },
+    {
+      "text": "Pathologic",
+      "type": "ENTITY",
+      "start": 2024,
+      "end": 2034
+    },
+    {
+      "text": "Findings",
+      "type": "ENTITY",
+      "start": 2035,
+      "end": 2043
+    },
+    {
+      "text": "PATHOLOGIC STAGE",
+      "type": "ENTITY",
+      "start": 2050,
+      "end": 2066
+    },
+    {
+      "text": "pNO",
+      "type": "ENTITY",
+      "start": 2074,
+      "end": 2077
+    },
+    {
+      "text": "pMX",
+      "type": "ENTITY",
+      "start": 2079,
+      "end": 2082
+    },
+    {
+      "text": "NoTe",
+      "type": "ENTITY",
+      "start": 2083,
+      "end": 2087
+    },
+    {
+      "text": "Information",
+      "type": "ENTITY",
+      "start": 2089,
+      "end": 2100
+    },
+    {
+      "text": "pathology stage",
+      "type": "ENTITY",
+      "start": 2104,
+      "end": 2119
+    },
+    {
+      "text": "operative procedure",
+      "type": "ENTITY",
+      "start": 2128,
+      "end": 2147
+    },
+    {
+      "text": "transmitted",
+      "type": "ENTITY",
+      "start": 2151,
+      "end": 2162
+    },
+    {
+      "text": "Institution's Cancer Registry",
+      "type": "ENTITY",
+      "start": 2171,
+      "end": 2200
+    },
+    {
+      "text": "accreditation",
+      "type": "ENTITY",
+      "start": 2217,
+      "end": 2230
+    },
+    {
+      "text": "Comaission",
+      "type": "ENTITY",
+      "start": 2238,
+      "end": 2248
+    },
+    {
+      "text": "Cancer",
+      "type": "ENTITY",
+      "start": 2252,
+      "end": 2258
+    },
+    {
+      "text": "Pathology stage",
+      "type": "ENTITY",
+      "start": 2260,
+      "end": 2275
+    },
+    {
+      "text": "tissue specimen",
+      "type": "ENTITY",
+      "start": 2309,
+      "end": 2324
+    },
+    {
+      "text": "Pathology stage",
+      "type": "ENTITY",
+      "start": 2342,
+      "end": 2357
+    },
+    {
+      "text": "relevant",
+      "type": "ENTITY",
+      "start": 2392,
+      "end": 2400
+    },
+    {
+      "text": "data",
+      "type": "ENTITY",
+      "start": 2401,
+      "end": 2405
+    },
+    {
+      "text": "clinical stage",
+      "type": "ENTITY",
+      "start": 2460,
+      "end": 2474
+    },
+    {
+      "text": "substituted",
+      "type": "ENTITY",
+      "start": 2511,
+      "end": 2522
+    },
+    {
+      "text": "operative procedure",
+      "type": "ENTITY",
+      "start": 2541,
+      "end": 2560
+    },
+    {
+      "text": "surgeon's",
+      "type": "ENTITY",
+      "start": 2581,
+      "end": 2590
+    },
+    {
+      "text": "operative report",
+      "type": "ENTITY",
+      "start": 2591,
+      "end": 2607
+    },
+    {
+      "text": "Primar Clinical History",
+      "type": "ENTITY",
+      "start": 2609,
+      "end": 2632
+    },
+    {
+      "text": "Bladder cancer",
+      "type": "ENTITY",
+      "start": 2633,
+      "end": 2647
+    },
+    {
+      "text": "Intraoperative Consultation",
+      "type": "ENTITY",
+      "start": 2649,
+      "end": 2676
+    },
+    {
+      "text": "Negative",
+      "type": "ENTITY",
+      "start": 2700,
+      "end": 2708
+    },
+    {
+      "text": "carcinoma",
+      "type": "ENTITY",
+      "start": 2713,
+      "end": 2722
+    },
+    {
+      "text": "Microscopic A. evaluation",
+      "type": "ENTITY",
+      "start": 2725,
+      "end": 2750
+    },
+    {
+      "text": "B. Distal",
+      "type": "ENTITY",
+      "start": 2753,
+      "end": 2762
+    },
+    {
+      "text": "left ureter",
+      "type": "ENTITY",
+      "start": 2763,
+      "end": 2774
+    },
+    {
+      "text": "Negative",
+      "type": "ENTITY",
+      "start": 2776,
+      "end": 2784
+    },
+    {
+      "text": "carcinoma",
+      "type": "ENTITY",
+      "start": 2789,
+      "end": 2798
+    },
+    {
+      "text": "Microscopic evaluation",
+      "type": "ENTITY",
+      "start": 2801,
+      "end": 2823
+    },
+    {
+      "text": "D. Right",
+      "type": "ENTITY",
+      "start": 2826,
+      "end": 2834
+    },
+    {
+      "text": "Benign lymph node",
+      "type": "ENTITY",
+      "start": 2854,
+      "end": 2871
+    },
+    {
+      "text": "Microscopic evaluation",
+      "type": "ENTITY",
+      "start": 2874,
+      "end": 2896
+    },
+    {
+      "text": "Left pelvic lymph node",
+      "type": "ENTITY",
+      "start": 2899,
+      "end": 2921
+    },
+    {
+      "text": "Negative",
+      "type": "ENTITY",
+      "start": 2923,
+      "end": 2931
+    },
+    {
+      "text": "carcinoma",
+      "type": "ENTITY",
+      "start": 2936,
+      "end": 2945
+    },
+    {
+      "text": "Microscopic evaluation",
+      "type": "ENTITY",
+      "start": 2948,
+      "end": 2970
+    },
+    {
+      "text": "Gross Description A.  ",
+      "type": "ENTITY",
+      "start": 2973,
+      "end": 2995
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 3004,
+      "end": 3009
+    },
+    {
+      "text": "frozen section",
+      "type": "ENTITY",
+      "start": 3014,
+      "end": 3028
+    },
+    {
+      "text": "segment",
+      "type": "ENTITY",
+      "start": 3083,
+      "end": 3090
+    },
+    {
+      "text": "ureter",
+      "type": "ENTITY",
+      "start": 3094,
+      "end": 3100
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 3106,
+      "end": 3114
+    },
+    {
+      "text": "inked yellow",
+      "type": "ENTITY",
+      "start": 3118,
+      "end": 3130
+    },
+    {
+      "text": "cassette Al-Fs",
+      "type": "ENTITY",
+      "start": 3157,
+      "end": 3171
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 3185,
+      "end": 3190
+    },
+    {
+      "text": "frozen section",
+      "type": "ENTITY",
+      "start": 3195,
+      "end": 3209
+    },
+    {
+      "text": "distal",
+      "type": "ENTITY",
+      "start": 3219,
+      "end": 3225
+    },
+    {
+      "text": "left ureter",
+      "type": "ENTITY",
+      "start": 3226,
+      "end": 3237
+    },
+    {
+      "text": "segment",
+      "type": "ENTITY",
+      "start": 3263,
+      "end": 3270
+    },
+    {
+      "text": "ureter",
+      "type": "ENTITY",
+      "start": 3274,
+      "end": 3280
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 3286,
+      "end": 3294
+    },
+    {
+      "text": "cassette",
+      "type": "ENTITY",
+      "start": 3336,
+      "end": 3344
+    },
+    {
+      "text": "C.  ",
+      "type": "ENTITY",
+      "start": 3352,
+      "end": 3356
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 3368,
+      "end": 3376
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 3381,
+      "end": 3388
+    },
+    {
+      "text": "bladder",
+      "type": "ENTITY",
+      "start": 3390,
+      "end": 3397
+    },
+    {
+      "text": "prostate",
+      "type": "ENTITY",
+      "start": 3402,
+      "end": 3410
+    },
+    {
+      "text": "cystoprostatectomy",
+      "type": "ENTITY",
+      "start": 3424,
+      "end": 3442
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 3443,
+      "end": 3451
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 3480,
+      "end": 3488
+    },
+    {
+      "text": "abundant",
+      "type": "ENTITY",
+      "start": 3503,
+      "end": 3511
+    },
+    {
+      "text": "amount",
+      "type": "ENTITY",
+      "start": 3512,
+      "end": 3518
+    },
+    {
+      "text": "perivesicular",
+      "type": "ENTITY",
+      "start": 3522,
+      "end": 3535
+    },
+    {
+      "text": "adipose tissue",
+      "type": "ENTITY",
+      "start": 3536,
+      "end": 3550
+    },
+    {
+      "text": "cystoprostatectomy",
+      "type": "ENTITY",
+      "start": 3565,
+      "end": 3583
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 3584,
+      "end": 3592
+    },
+    {
+      "text": "bladder",
+      "type": "ENTITY",
+      "start": 3607,
+      "end": 3614
+    },
+    {
+      "text": "left ureter",
+      "type": "ENTITY",
+      "start": 3660,
+      "end": 3671
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 3683,
+      "end": 3689
+    },
+    {
+      "text": "prostate",
+      "type": "ENTITY",
+      "start": 3703,
+      "end": 3711
+    },
+    {
+      "text": "left-to-right",
+      "type": "ENTITY",
+      "start": 3725,
+      "end": 3738
+    },
+    {
+      "text": "anterior-to-posterior",
+      "type": "ENTITY",
+      "start": 3752,
+      "end": 3773
+    },
+    {
+      "text": "right vas deferens",
+      "type": "ENTITY",
+      "start": 3874,
+      "end": 3892
+    },
+    {
+      "text": "left seminal vesicle",
+      "type": "ENTITY",
+      "start": 3916,
+      "end": 3936
+    },
+    {
+      "text": "left vas deferens",
+      "type": "ENTITY",
+      "start": 3959,
+      "end": 3976
+    },
+    {
+      "text": "right side",
+      "type": "ENTITY",
+      "start": 4003,
+      "end": 4013
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 4021,
+      "end": 4029
+    },
+    {
+      "text": "inked blue",
+      "type": "ENTITY",
+      "start": 4033,
+      "end": 4043
+    },
+    {
+      "text": "left side",
+      "type": "ENTITY",
+      "start": 4049,
+      "end": 4058
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 4066,
+      "end": 4074
+    },
+    {
+      "text": "inked black",
+      "type": "ENTITY",
+      "start": 4078,
+      "end": 4089
+    },
+    {
+      "text": "left anterior",
+      "type": "ENTITY",
+      "start": 4098,
+      "end": 4111
+    },
+    {
+      "text": "posterior lateral wall of the",
+      "type": "ENTITY",
+      "start": 4116,
+      "end": 4145
+    },
+    {
+      "text": "bladder",
+      "type": "ENTITY",
+      "start": 4146,
+      "end": 4153
+    },
+    {
+      "text": "pink-tan polypoid mass",
+      "type": "ENTITY",
+      "start": 4185,
+      "end": 4207
+    },
+    {
+      "text": "lesion",
+      "type": "ENTITY",
+      "start": 4214,
+      "end": 4220
+    },
+    {
+      "text": "midline",
+      "type": "ENTITY",
+      "start": 4240,
+      "end": 4247
+    },
+    {
+      "text": "right anterior",
+      "type": "ENTITY",
+      "start": 4257,
+      "end": 4271
+    },
+    {
+      "text": "posterior bladder",
+      "type": "ENTITY",
+      "start": 4276,
+      "end": 4293
+    },
+    {
+      "text": "bladder-prostate junction",
+      "type": "ENTITY",
+      "start": 4318,
+      "end": 4343
+    },
+    {
+      "text": "cut surface",
+      "type": "ENTITY",
+      "start": 4383,
+      "end": 4394
+    },
+    {
+      "text": "white-tan",
+      "type": "ENTITY",
+      "start": 4398,
+      "end": 4407
+    },
+    {
+      "text": "perivesicular",
+      "type": "ENTITY",
+      "start": 4435,
+      "end": 4448
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 4458,
+      "end": 4462
+    },
+    {
+      "text": "posterior bladder",
+      "type": "ENTITY",
+      "start": 4470,
+      "end": 4487
+    },
+    {
+      "text": "perivesicular fat margin",
+      "type": "ENTITY",
+      "start": 4519,
+      "end": 4543
+    },
+    {
+      "text": "inked black",
+      "type": "ENTITY",
+      "start": 4545,
+      "end": 4556
+    },
+    {
+      "text": "anterior",
+      "type": "ENTITY",
+      "start": 4569,
+      "end": 4577
+    },
+    {
+      "text": "bladder",
+      "type": "ENTITY",
+      "start": 4578,
+      "end": 4585
+    },
+    {
+      "text": "perivesicular fat margin",
+      "type": "ENTITY",
+      "start": 4605,
+      "end": 4629
+    },
+    {
+      "text": "inked black",
+      "type": "ENTITY",
+      "start": 4631,
+      "end": 4642
+    },
+    {
+      "text": "lesion",
+      "type": "ENTITY",
+      "start": 4649,
+      "end": 4655
+    },
+    {
+      "text": "nearest",
+      "type": "ENTITY",
+      "start": 4675,
+      "end": 4682
+    },
+    {
+      "text": "peritonealized",
+      "type": "ENTITY",
+      "start": 4683,
+      "end": 4697
+    },
+    {
+      "text": "surface",
+      "type": "ENTITY",
+      "start": 4698,
+      "end": 4705
+    },
+    {
+      "text": "ureteral orifices",
+      "type": "ENTITY",
+      "start": 4711,
+      "end": 4728
+    },
+    {
+      "text": "patent",
+      "type": "ENTITY",
+      "start": 4733,
+      "end": 4739
+    },
+    {
+      "text": "discrete masses",
+      "type": "ENTITY",
+      "start": 4760,
+      "end": 4775
+    },
+    {
+      "text": "suspicious",
+      "type": "ENTITY",
+      "start": 4779,
+      "end": 4789
+    },
+    {
+      "text": "mucosa",
+      "type": "ENTITY",
+      "start": 4837,
+      "end": 4843
+    },
+    {
+      "text": "glistening",
+      "type": "ENTITY",
+      "start": 4852,
+      "end": 4862
+    },
+    {
+      "text": "pliable",
+      "type": "ENTITY",
+      "start": 4867,
+      "end": 4874
+    },
+    {
+      "text": "prostate",
+      "type": "ENTITY",
+      "start": 4880,
+      "end": 4888
+    },
+    {
+      "text": "white-tan cut surface",
+      "type": "ENTITY",
+      "start": 4895,
+      "end": 4916
+    },
+    {
+      "text": "masses",
+      "type": "ENTITY",
+      "start": 4945,
+      "end": 4951
+    },
+    {
+      "text": "grossly",
+      "type": "ENTITY",
+      "start": 4952,
+      "end": 4959
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 4984,
+      "end": 4995
+    },
+    {
+      "text": "dissected",
+      "type": "ENTITY",
+      "start": 4996,
+      "end": 5005
+    },
+    {
+      "text": "dimension",
+      "type": "ENTITY",
+      "start": 5049,
+      "end": 5058
+    },
+    {
+      "text": "container",
+      "type": "ENTITY",
+      "start": 5081,
+      "end": 5090
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 5105,
+      "end": 5111
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 5127,
+      "end": 5135
+    },
+    {
+      "text": "brown-tan rubber tubing",
+      "type": "ENTITY",
+      "start": 5137,
+      "end": 5160
+    },
+    {
+      "text": "consistent with",
+      "type": "ENTITY",
+      "start": 5161,
+      "end": 5176
+    },
+    {
+      "text": "catheter",
+      "type": "ENTITY",
+      "start": 5179,
+      "end": 5187
+    },
+    {
+      "text": "Sections",
+      "type": "ENTITY",
+      "start": 5189,
+      "end": 5197
+    },
+    {
+      "text": "cl",
+      "type": "ENTITY",
+      "start": 5224,
+      "end": 5226
+    },
+    {
+      "text": "right trigone",
+      "type": "ENTITY",
+      "start": 5229,
+      "end": 5242
+    },
+    {
+      "text": "c2",
+      "type": "ENTITY",
+      "start": 5244,
+      "end": 5246
+    },
+    {
+      "text": "left trigone",
+      "type": "ENTITY",
+      "start": 5249,
+      "end": 5261
+    },
+    {
+      "text": "c3",
+      "type": "ENTITY",
+      "start": 5263,
+      "end": 5265
+    },
+    {
+      "text": "posterior",
+      "type": "ENTITY",
+      "start": 5268,
+      "end": 5277
+    },
+    {
+      "text": "C4",
+      "type": "ENTITY",
+      "start": 5307,
+      "end": 5309
+    },
+    {
+      "text": "anterior",
+      "type": "ENTITY",
+      "start": 5312,
+      "end": 5320
+    },
+    {
+      "text": "bladder-prostate transition",
+      "type": "ENTITY",
+      "start": 5321,
+      "end": 5348
+    },
+    {
+      "text": "C5-9",
+      "type": "ENTITY",
+      "start": 5350,
+      "end": 5354
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 5357,
+      "end": 5361
+    },
+    {
+      "text": "left lateral posterior wall",
+      "type": "ENTITY",
+      "start": 5365,
+      "end": 5392
+    },
+    {
+      "text": "clo",
+      "type": "ENTITY",
+      "start": 5394,
+      "end": 5397
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 5400,
+      "end": 5404
+    },
+    {
+      "text": "lateral anterior wall",
+      "type": "ENTITY",
+      "start": 5409,
+      "end": 5430
+    },
+    {
+      "text": "cll",
+      "type": "ENTITY",
+      "start": 5432,
+      "end": 5435
+    },
+    {
+      "text": "right lateral wall",
+      "type": "ENTITY",
+      "start": 5438,
+      "end": 5456
+    },
+    {
+      "text": "c12",
+      "type": "ENTITY",
+      "start": 5458,
+      "end": 5461
+    },
+    {
+      "text": "posterior",
+      "type": "ENTITY",
+      "start": 5464,
+      "end": 5473
+    },
+    {
+      "text": "wall",
+      "type": "ENTITY",
+      "start": 5474,
+      "end": 5478
+    },
+    {
+      "text": "cl3",
+      "type": "ENTITY",
+      "start": 5480,
+      "end": 5483
+    },
+    {
+      "text": "anterior",
+      "type": "ENTITY",
+      "start": 5486,
+      "end": 5494
+    },
+    {
+      "text": "wall",
+      "type": "ENTITY",
+      "start": 5495,
+      "end": 5499
+    },
+    {
+      "text": "dome",
+      "type": "ENTITY",
+      "start": 5508,
+      "end": 5512
+    },
+    {
+      "text": "c15",
+      "type": "ENTITY",
+      "start": 5514,
+      "end": 5517
+    },
+    {
+      "text": "right",
+      "type": "ENTITY",
+      "start": 5520,
+      "end": 5525
+    },
+    {
+      "text": "seminal vesicle",
+      "type": "ENTITY",
+      "start": 5526,
+      "end": 5541
+    },
+    {
+      "text": "cross-sections",
+      "type": "ENTITY",
+      "start": 5562,
+      "end": 5576
+    },
+    {
+      "text": "right seminal vesicle",
+      "type": "ENTITY",
+      "start": 5585,
+      "end": 5606
+    },
+    {
+      "text": "vas deferens",
+      "type": "ENTITY",
+      "start": 5611,
+      "end": 5623
+    },
+    {
+      "text": "c16",
+      "type": "ENTITY",
+      "start": 5625,
+      "end": 5628
+    },
+    {
+      "text": "left",
+      "type": "ENTITY",
+      "start": 5631,
+      "end": 5635
+    },
+    {
+      "text": "seminal vesicle",
+      "type": "ENTITY",
+      "start": 5636,
+      "end": 5651
+    },
+    {
+      "text": "cross-section",
+      "type": "ENTITY",
+      "start": 5672,
+      "end": 5685
+    },
+    {
+      "text": "left seminal vesicle",
+      "type": "ENTITY",
+      "start": 5694,
+      "end": 5714
+    },
+    {
+      "text": "vas deferens",
+      "type": "ENTITY",
+      "start": 5719,
+      "end": 5731
+    },
+    {
+      "text": "c17",
+      "type": "ENTITY",
+      "start": 5733,
+      "end": 5736
+    },
+    {
+      "text": "right anterior",
+      "type": "ENTITY",
+      "start": 5742,
+      "end": 5756
+    },
+    {
+      "text": "C19-20",
+      "type": "ENTITY",
+      "start": 5783,
+      "end": 5789
+    },
+    {
+      "text": "left apex anterior prostate",
+      "type": "ENTITY",
+      "start": 5792,
+      "end": 5819
+    },
+    {
+      "text": "c23",
+      "type": "ENTITY",
+      "start": 5821,
+      "end": 5824
+    },
+    {
+      "text": "right posterior prostate",
+      "type": "ENTITY",
+      "start": 5830,
+      "end": 5854
+    },
+    {
+      "text": "c26",
+      "type": "ENTITY",
+      "start": 5856,
+      "end": 5859
+    },
+    {
+      "text": "left posterior prostate",
+      "type": "ENTITY",
+      "start": 5865,
+      "end": 5888
+    },
+    {
+      "text": "c29",
+      "type": "ENTITY",
+      "start": 5890,
+      "end": 5893
+    },
+    {
+      "text": "5",
+      "type": "ENTITY",
+      "start": 5896,
+      "end": 5897
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 5898,
+      "end": 5909
+    },
+    {
+      "text": "dimension",
+      "type": "ENTITY",
+      "start": 5949,
+      "end": 5958
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 5972,
+      "end": 5977
+    },
+    {
+      "text": "frozen section",
+      "type": "ENTITY",
+      "start": 5982,
+      "end": 5996
+    },
+    {
+      "text": "single lymph node",
+      "type": "ENTITY",
+      "start": 6036,
+      "end": 6053
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 6054,
+      "end": 6063
+    },
+    {
+      "text": "dimension",
+      "type": "ENTITY",
+      "start": 6083,
+      "end": 6092
+    },
+    {
+      "text": "lymph node",
+      "type": "ENTITY",
+      "start": 6098,
+      "end": 6108
+    },
+    {
+      "text": "cassette",
+      "type": "ENTITY",
+      "start": 6157,
+      "end": 6165
+    },
+    {
+      "text": "D1-FS",
+      "type": "ENTITY",
+      "start": 6166,
+      "end": 6171
+    },
+    {
+      "text": "D2-Fs",
+      "type": "ENTITY",
+      "start": 6176,
+      "end": 6181
+    },
+    {
+      "text": "E.  ",
+      "type": "ENTITY",
+      "start": 6183,
+      "end": 6187
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 6196,
+      "end": 6201
+    },
+    {
+      "text": "frozen section",
+      "type": "ENTITY",
+      "start": 6206,
+      "end": 6220
+    },
+    {
+      "text": "left pelvic",
+      "type": "ENTITY",
+      "start": 6230,
+      "end": 6241
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 6261,
+      "end": 6272
+    },
+    {
+      "text": "dimension",
+      "type": "ENTITY",
+      "start": 6312,
+      "end": 6321
+    },
+    {
+      "text": "Sections",
+      "type": "ENTITY",
+      "start": 6323,
+      "end": 6331
+    },
+    {
+      "text": "El-Fs",
+      "type": "ENTITY",
+      "start": 6358,
+      "end": 6363
+    },
+    {
+      "text": "E2-FS",
+      "type": "ENTITY",
+      "start": 6368,
+      "end": 6373
+    },
+    {
+      "text": "lymph node",
+      "type": "ENTITY",
+      "start": 6387,
+      "end": 6397
+    },
+    {
+      "text": "inked blue",
+      "type": "ENTITY",
+      "start": 6407,
+      "end": 6417
+    },
+    {
+      "text": "serially sectioned",
+      "type": "ENTITY",
+      "start": 6422,
+      "end": 6440
+    },
+    {
+      "text": "E3-Fs",
+      "type": "ENTITY",
+      "start": 6442,
+      "end": 6447
+    },
+    {
+      "text": "two",
+      "type": "ENTITY",
+      "start": 6450,
+      "end": 6453
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 6454,
+      "end": 6465
+    },
+    {
+      "text": "inked yellow",
+      "type": "ENTITY",
+      "start": 6471,
+      "end": 6483
+    },
+    {
+      "text": "inked black",
+      "type": "ENTITY",
+      "start": 6489,
+      "end": 6500
+    },
+    {
+      "text": "E4-Fs",
+      "type": "ENTITY",
+      "start": 6502,
+      "end": 6507
+    },
+    {
+      "text": "E5-Fs",
+      "type": "ENTITY",
+      "start": 6512,
+      "end": 6517
+    },
+    {
+      "text": "one",
+      "type": "ENTITY",
+      "start": 6520,
+      "end": 6523
+    },
+    {
+      "text": "lymph node",
+      "type": "ENTITY",
+      "start": 6524,
+      "end": 6534
+    },
+    {
+      "text": "inked orange",
+      "type": "ENTITY",
+      "start": 6544,
+      "end": 6556
+    },
+    {
+      "text": "bisected",
+      "type": "ENTITY",
+      "start": 6561,
+      "end": 6569
+    },
+    {
+      "text": "Microscopic Description",
+      "type": "ENTITY",
+      "start": 6571,
+      "end": 6594
+    },
+    {
+      "text": "Microscopic examination",
+      "type": "ENTITY",
+      "start": 6595,
+      "end": 6618
+    },
+    {
+      "text": "slides",
+      "type": "ENTITY",
+      "start": 6645,
+      "end": 6651
+    },
+    {
+      "text": "pathologic diagnosis",
+      "type": "ENTITY",
+      "start": 6653,
+      "end": 6673
+    },
+    {
+      "text": "microscopic",
+      "type": "ENTITY",
+      "start": 6700,
+      "end": 6711
+    },
+    {
+      "text": "findings",
+      "type": "ENTITY",
+      "start": 6716,
+      "end": 6724
+    },
+    {
+      "text": "case",
+      "type": "ENTITY",
+      "start": 6733,
+      "end": 6737
+    },
+    {
+      "text": "immunohistochemistry",
+      "type": "ENTITY",
+      "start": 6743,
+      "end": 6763
+    },
+    {
+      "text": "in situ hybridization",
+      "type": "ENTITY",
+      "start": 6767,
+      "end": 6788
+    },
+    {
+      "text": "test",
+      "type": "ENTITY",
+      "start": 6826,
+      "end": 6830
+    },
+    {
+      "text": "ance",
+      "type": "ENTITY",
+      "start": 6860,
+      "end": 6864
+    },
+    {
+      "text": "Administration",
+      "type": "ENTITY",
+      "start": 6868,
+      "end": 6882
+    },
+    {
+      "text": "FDA",
+      "type": "ENTITY",
+      "start": 6884,
+      "end": 6887
+    },
+    {
+      "text": "FDA",
+      "type": "ENTITY",
+      "start": 6894,
+      "end": 6897
+    },
+    {
+      "text": "premarket",
+      "type": "ENTITY",
+      "start": 6939,
+      "end": 6948
+    },
+    {
+      "text": "FDA",
+      "type": "ENTITY",
+      "start": 6949,
+      "end": 6952
+    },
+    {
+      "text": "review",
+      "type": "ENTITY",
+      "start": 6953,
+      "end": 6959
+    },
+    {
+      "text": "test",
+      "type": "ENTITY",
+      "start": 6966,
+      "end": 6970
+    },
+    {
+      "text": "clinical purposes",
+      "type": "ENTITY",
+      "start": 6983,
+      "end": 7000
+    },
+    {
+      "text": "investigational",
+      "type": "ENTITY",
+      "start": 7031,
+      "end": 7046
+    },
+    {
+      "text": "research",
+      "type": "ENTITY",
+      "start": 7054,
+      "end": 7062
+    },
+    {
+      "text": "laboratory",
+      "type": "ENTITY",
+      "start": 7069,
+      "end": 7079
+    },
+    {
+      "text": "Clinical Laboratory Improvement Amendments",
+      "type": "ENTITY",
+      "start": 7103,
+      "end": 7145
+    },
+    {
+      "text": "CLiA",
+      "type": "ENTITY",
+      "start": 7147,
+      "end": 7151
+    },
+    {
+      "text": "qualified",
+      "type": "ENTITY",
+      "start": 7156,
+      "end": 7165
+    },
+    {
+      "text": "clinical",
+      "type": "ENTITY",
+      "start": 7193,
+      "end": 7201
+    },
+    {
+      "text": "laboratory testing",
+      "type": "ENTITY",
+      "start": 7202,
+      "end": 7220
+    },
+    {
+      "text": "stains",
+      "type": "ENTITY",
+      "start": 7235,
+      "end": 7241
+    },
+    {
+      "text": "adequate",
+      "type": "ENTITY",
+      "start": 7280,
+      "end": 7288
+    },
+    {
+      "text": "controls",
+      "type": "ENTITY",
+      "start": 7289,
+      "end": 7297
+    }
+  ],
+  "entity_count": 343,
+  "has_embedding": true
+}

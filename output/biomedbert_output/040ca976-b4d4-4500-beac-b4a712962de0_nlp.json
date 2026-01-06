@@ -1,0 +1,932 @@
+{
+  "filename": "040ca976-b4d4-4500-beac-b4a712962de0",
+  "timestamp": "2026-01-05T14:45:11.964700",
+  "entities": [
+    {
+      "text": "Clinical Diagnosis & History",
+      "type": "ENTITY",
+      "start": 42,
+      "end": 70
+    },
+    {
+      "text": "Colon cancer",
+      "type": "ENTITY",
+      "start": 72,
+      "end": 84
+    },
+    {
+      "text": "Specimens",
+      "type": "ENTITY",
+      "start": 86,
+      "end": 95
+    },
+    {
+      "text": "SP",
+      "type": "ENTITY",
+      "start": 110,
+      "end": 112
+    },
+    {
+      "text": "COLON",
+      "type": "ENTITY",
+      "start": 114,
+      "end": 119
+    },
+    {
+      "text": "RIGHT HEMICOLECTOMY 2",
+      "type": "ENTITY",
+      "start": 121,
+      "end": 142
+    },
+    {
+      "text": "SP",
+      "type": "ENTITY",
+      "start": 144,
+      "end": 146
+    },
+    {
+      "text": "COLON",
+      "type": "ENTITY",
+      "start": 179,
+      "end": 184
+    },
+    {
+      "text": "KIGHT",
+      "type": "ENTITY",
+      "start": 186,
+      "end": 191
+    },
+    {
+      "text": "HEMICOLECTOMY",
+      "type": "ENTITY",
+      "start": 192,
+      "end": 205
+    },
+    {
+      "text": "TUMOR TYPE",
+      "type": "ENTITY",
+      "start": 207,
+      "end": 217
+    },
+    {
+      "text": "ADENOCARCINOMA",
+      "type": "ENTITY",
+      "start": 219,
+      "end": 233
+    },
+    {
+      "text": "HISTOLOGIC",
+      "type": "ENTITY",
+      "start": 237,
+      "end": 247
+    },
+    {
+      "text": "GRADE",
+      "type": "ENTITY",
+      "start": 248,
+      "end": 253
+    },
+    {
+      "text": "LOCATION",
+      "type": "ENTITY",
+      "start": 289,
+      "end": 297
+    },
+    {
+      "text": "CECUM",
+      "type": "ENTITY",
+      "start": 299,
+      "end": 304
+    },
+    {
+      "text": "TUMOR SIZE",
+      "type": "ENTITY",
+      "start": 306,
+      "end": 316
+    },
+    {
+      "text": "LENGTH IS",
+      "type": "ENTITY",
+      "start": 318,
+      "end": 327
+    },
+    {
+      "text": "CM",
+      "type": "ENTITY",
+      "start": 332,
+      "end": 334
+    },
+    {
+      "text": "WIDTH IS",
+      "type": "ENTITY",
+      "start": 336,
+      "end": 344
+    },
+    {
+      "text": "CM",
+      "type": "ENTITY",
+      "start": 349,
+      "end": 351
+    },
+    {
+      "text": "MAXIMAL THICKNESS",
+      "type": "ENTITY",
+      "start": 353,
+      "end": 370
+    },
+    {
+      "text": "CM",
+      "type": "ENTITY",
+      "start": 378,
+      "end": 380
+    },
+    {
+      "text": "POLYPOID",
+      "type": "ENTITY",
+      "start": 404,
+      "end": 412
+    },
+    {
+      "text": "TUMOR",
+      "type": "ENTITY",
+      "start": 416,
+      "end": 421
+    },
+    {
+      "text": "INVASION INIO",
+      "type": "ENTITY",
+      "start": 432,
+      "end": 445
+    },
+    {
+      "text": "SUBSEKOSA",
+      "type": "ENTITY",
+      "start": 446,
+      "end": 455
+    },
+    {
+      "text": "NOT",
+      "type": "ENTITY",
+      "start": 477,
+      "end": 480
+    },
+    {
+      "text": "VASCULAR",
+      "type": "ENTITY",
+      "start": 495,
+      "end": 503
+    },
+    {
+      "text": "INVASION",
+      "type": "ENTITY",
+      "start": 504,
+      "end": 512
+    },
+    {
+      "text": "SURGICAL MARGINS",
+      "type": "ENTITY",
+      "start": 530,
+      "end": 546
+    },
+    {
+      "text": "FOR COLONIC TUMORS",
+      "type": "ENTITY",
+      "start": 548,
+      "end": 566
+    },
+    {
+      "text": "FREE",
+      "type": "ENTITY",
+      "start": 570,
+      "end": 574
+    },
+    {
+      "text": "TUMOR",
+      "type": "ENTITY",
+      "start": 578,
+      "end": 583
+    },
+    {
+      "text": "NUMBER",
+      "type": "ENTITY",
+      "start": 619,
+      "end": 625
+    },
+    {
+      "text": "TUBULAR ADENOMAS",
+      "type": "ENTITY",
+      "start": 658,
+      "end": 674
+    },
+    {
+      "text": "BOWEL",
+      "type": "ENTITY",
+      "start": 692,
+      "end": 697
+    },
+    {
+      "text": "UNREMARKABLE",
+      "type": "ENTITY",
+      "start": 699,
+      "end": 711
+    },
+    {
+      "text": "PATHOLOGIC STAGE IS",
+      "type": "ENTITY",
+      "start": 717,
+      "end": 736
+    },
+    {
+      "text": "AJCC",
+      "type": "ENTITY",
+      "start": 738,
+      "end": 742
+    },
+    {
+      "text": "NUMBER",
+      "type": "ENTITY",
+      "start": 764,
+      "end": 770
+    },
+    {
+      "text": "METAST",
+      "type": "ENTITY",
+      "start": 776,
+      "end": 782
+    },
+    {
+      "text": "NOMBER",
+      "type": "ENTITY",
+      "start": 786,
+      "end": 792
+    },
+    {
+      "text": "THEPATHOLOGICSTAGE",
+      "type": "ENTITY",
+      "start": 807,
+      "end": 825
+    },
+    {
+      "text": "pN1",
+      "type": "ENTITY",
+      "start": 833,
+      "end": 836
+    },
+    {
+      "text": "KESECTION",
+      "type": "ENTITY",
+      "start": 850,
+      "end": 859
+    },
+    {
+      "text": "I ATTEST",
+      "type": "ENTITY",
+      "start": 861,
+      "end": 869
+    },
+    {
+      "text": "ABOVE DIAGNOSIS IS",
+      "type": "ENTITY",
+      "start": 879,
+      "end": 897
+    },
+    {
+      "text": "PERSONAL EXAMINATION",
+      "type": "ENTITY",
+      "start": 912,
+      "end": 932
+    },
+    {
+      "text": "THAT I",
+      "type": "ENTITY",
+      "start": 976,
+      "end": 982
+    },
+    {
+      "text": "Gross Description",
+      "type": "ENTITY",
+      "start": 1023,
+      "end": 1040
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1105,
+      "end": 1113
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 1126,
+      "end": 1131
+    },
+    {
+      "text": "Iabeled",
+      "type": "ENTITY",
+      "start": 1133,
+      "end": 1140
+    },
+    {
+      "text": "segment",
+      "type": "ENTITY",
+      "start": 1181,
+      "end": 1188
+    },
+    {
+      "text": "terminal",
+      "type": "ENTITY",
+      "start": 1192,
+      "end": 1200
+    },
+    {
+      "text": "ileum",
+      "type": "ENTITY",
+      "start": 1201,
+      "end": 1206
+    },
+    {
+      "text": "cecum",
+      "type": "ENTITY",
+      "start": 1208,
+      "end": 1213
+    },
+    {
+      "text": "appendix",
+      "type": "ENTITY",
+      "start": 1228,
+      "end": 1236
+    },
+    {
+      "text": "ascending colon",
+      "type": "ENTITY",
+      "start": 1241,
+      "end": 1256
+    },
+    {
+      "text": "terminal",
+      "type": "ENTITY",
+      "start": 1263,
+      "end": 1271
+    },
+    {
+      "text": "ileum",
+      "type": "ENTITY",
+      "start": 1272,
+      "end": 1277
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 1278,
+      "end": 1286
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 1296,
+      "end": 1302
+    },
+    {
+      "text": "circumference",
+      "type": "ENTITY",
+      "start": 1315,
+      "end": 1328
+    },
+    {
+      "text": "proximal",
+      "type": "ENTITY",
+      "start": 1336,
+      "end": 1344
+    },
+    {
+      "text": "colon",
+      "type": "ENTITY",
+      "start": 1376,
+      "end": 1381
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 1382,
+      "end": 1390
+    },
+    {
+      "text": "circumference",
+      "type": "ENTITY",
+      "start": 1416,
+      "end": 1429
+    },
+    {
+      "text": "i1",
+      "type": "ENTITY",
+      "start": 1433,
+      "end": 1435
+    },
+    {
+      "text": "diatal resected margin",
+      "type": "ENTITY",
+      "start": 1446,
+      "end": 1468
+    },
+    {
+      "text": "appendix",
+      "type": "ENTITY",
+      "start": 1483,
+      "end": 1491
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 1492,
+      "end": 1500
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 1511,
+      "end": 1517
+    },
+    {
+      "text": "averages",
+      "type": "ENTITY",
+      "start": 1522,
+      "end": 1530
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 1541,
+      "end": 1549
+    },
+    {
+      "text": "aerosal adhesions",
+      "type": "ENTITY",
+      "start": 1559,
+      "end": 1576
+    },
+    {
+      "text": "intestinal serosa",
+      "type": "ENTITY",
+      "start": 1582,
+      "end": 1599
+    },
+    {
+      "text": "pink tan",
+      "type": "ENTITY",
+      "start": 1603,
+      "end": 1611
+    },
+    {
+      "text": "smooth",
+      "type": "ENTITY",
+      "start": 1616,
+      "end": 1622
+    },
+    {
+      "text": "Focally hemorrhagic lobulated yellow tan adipose tissue",
+      "type": "ENTITY",
+      "start": 1624,
+      "end": 1679
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 1690,
+      "end": 1696
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1704,
+      "end": 1712
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 1713,
+      "end": 1722
+    },
+    {
+      "text": "thickness",
+      "type": "ENTITY",
+      "start": 1739,
+      "end": 1748
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1754,
+      "end": 1762
+    },
+    {
+      "text": "polypoid",
+      "type": "ENTITY",
+      "start": 1785,
+      "end": 1793
+    },
+    {
+      "text": "focally ulcerated tumor",
+      "type": "ENTITY",
+      "start": 1798,
+      "end": 1821
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 1822,
+      "end": 1831
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 1842,
+      "end": 1848
+    },
+    {
+      "text": "width",
+      "type": "ENTITY",
+      "start": 1863,
+      "end": 1868
+    },
+    {
+      "text": "distal",
+      "type": "ENTITY",
+      "start": 1877,
+      "end": 1883
+    },
+    {
+      "text": "ileocecal valve",
+      "type": "ENTITY",
+      "start": 1891,
+      "end": 1906
+    },
+    {
+      "text": "closeat",
+      "type": "ENTITY",
+      "start": 1929,
+      "end": 1936
+    },
+    {
+      "text": "radial margin",
+      "type": "ENTITY",
+      "start": 1937,
+      "end": 1950
+    },
+    {
+      "text": "Sectioning",
+      "type": "ENTITY",
+      "start": 1952,
+      "end": 1962
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1978,
+      "end": 1983
+    },
+    {
+      "text": "invades",
+      "type": "ENTITY",
+      "start": 1984,
+      "end": 1991
+    },
+    {
+      "text": "aubserosal fat",
+      "type": "ENTITY",
+      "start": 2001,
+      "end": 2015
+    },
+    {
+      "text": "depth",
+      "type": "ENTITY",
+      "start": 2021,
+      "end": 2026
+    },
+    {
+      "text": "invasion",
+      "type": "ENTITY",
+      "start": 2030,
+      "end": 2038
+    },
+    {
+      "text": "grossly",
+      "type": "ENTITY",
+      "start": 2049,
+      "end": 2056
+    },
+    {
+      "text": "polyp",
+      "type": "ENTITY",
+      "start": 2094,
+      "end": 2099
+    },
+    {
+      "text": "diatal",
+      "type": "ENTITY",
+      "start": 2108,
+      "end": 2114
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 2122,
+      "end": 2127
+    },
+    {
+      "text": "colonic mucosa",
+      "type": "ENTITY",
+      "start": 2143,
+      "end": 2157
+    },
+    {
+      "text": "polyps",
+      "type": "ENTITY",
+      "start": 2175,
+      "end": 2181
+    },
+    {
+      "text": "size",
+      "type": "ENTITY",
+      "start": 2194,
+      "end": 2198
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 2223,
+      "end": 2231
+    },
+    {
+      "text": "lymph node dissection",
+      "type": "ENTITY",
+      "start": 2249,
+      "end": 2270
+    },
+    {
+      "text": "Multiple lymph nodes",
+      "type": "ENTITY",
+      "start": 2272,
+      "end": 2292
+    },
+    {
+      "text": "identified",
+      "type": "ENTITY",
+      "start": 2297,
+      "end": 2307
+    },
+    {
+      "text": "adipose tissue",
+      "type": "ENTITY",
+      "start": 2324,
+      "end": 2338
+    },
+    {
+      "text": "Representative sections",
+      "type": "ENTITY",
+      "start": 2358,
+      "end": 2381
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 2389,
+      "end": 2397
+    },
+    {
+      "text": "pexmanent",
+      "type": "ENTITY",
+      "start": 2416,
+      "end": 2425
+    },
+    {
+      "text": "aections",
+      "type": "ENTITY",
+      "start": 2426,
+      "end": 2434
+    },
+    {
+      "text": "rps",
+      "type": "ENTITY",
+      "start": 2443,
+      "end": 2446
+    },
+    {
+      "text": "proximal",
+      "type": "ENTITY",
+      "start": 2473,
+      "end": 2481
+    },
+    {
+      "text": "margin shave D  diatal margin shave",
+      "type": "ENTITY",
+      "start": 2482,
+      "end": 2517
+    },
+    {
+      "text": "appendix repres tative sectione tumor RM",
+      "type": "ENTITY",
+      "start": 2519,
+      "end": 2559
+    },
+    {
+      "text": "radial margin",
+      "type": "ENTITY",
+      "start": 2562,
+      "end": 2575
+    },
+    {
+      "text": "polyp",
+      "type": "ENTITY",
+      "start": 2587,
+      "end": 2592
+    },
+    {
+      "text": "SP",
+      "type": "ENTITY",
+      "start": 2593,
+      "end": 2595
+    },
+    {
+      "text": "polyps",
+      "type": "ENTITY",
+      "start": 2605,
+      "end": 2611
+    },
+    {
+      "text": "RS",
+      "type": "ENTITY",
+      "start": 2612,
+      "end": 2614
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 2631,
+      "end": 2639
+    },
+    {
+      "text": "texminal",
+      "type": "ENTITY",
+      "start": 2641,
+      "end": 2649
+    },
+    {
+      "text": "ileum",
+      "type": "ENTITY",
+      "start": 2650,
+      "end": 2655
+    },
+    {
+      "text": "colon 2",
+      "type": "ENTITY",
+      "start": 2660,
+      "end": 2667
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 2673,
+      "end": 2681
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 2694,
+      "end": 2699
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 2701,
+      "end": 2708
+    },
+    {
+      "text": "Omentum",
+      "type": "ENTITY",
+      "start": 2710,
+      "end": 2717
+    },
+    {
+      "text": "fragment",
+      "type": "ENTITY",
+      "start": 2753,
+      "end": 2761
+    },
+    {
+      "text": "adipose tissue",
+      "type": "ENTITY",
+      "start": 2765,
+      "end": 2779
+    },
+    {
+      "text": "consistent with",
+      "type": "ENTITY",
+      "start": 2780,
+      "end": 2795
+    },
+    {
+      "text": "omentum",
+      "type": "ENTITY",
+      "start": 2796,
+      "end": 2803
+    },
+    {
+      "text": "Serial sectioning",
+      "type": "ENTITY",
+      "start": 2805,
+      "end": 2822
+    },
+    {
+      "text": "cut aurface",
+      "type": "ENTITY",
+      "start": 2847,
+      "end": 2858
+    },
+    {
+      "text": "Representative sections",
+      "type": "ENTITY",
+      "start": 2860,
+      "end": 2883
+    },
+    {
+      "text": "omentum",
+      "type": "ENTITY",
+      "start": 2924,
+      "end": 2931
+    },
+    {
+      "text": "Summary",
+      "type": "ENTITY",
+      "start": 2932,
+      "end": 2939
+    },
+    {
+      "text": "Sections",
+      "type": "ENTITY",
+      "start": 2943,
+      "end": 2951
+    },
+    {
+      "text": "SP",
+      "type": "ENTITY",
+      "start": 2962,
+      "end": 2964
+    },
+    {
+      "text": "COLON",
+      "type": "ENTITY",
+      "start": 2966,
+      "end": 2971
+    },
+    {
+      "text": "RIGHT HEMICOLECTOMY Block Sect",
+      "type": "ENTITY",
+      "start": 2973,
+      "end": 3003
+    },
+    {
+      "text": "PCs",
+      "type": "ENTITY",
+      "start": 3010,
+      "end": 3013
+    },
+    {
+      "text": "LN",
+      "type": "ENTITY",
+      "start": 3023,
+      "end": 3025
+    },
+    {
+      "text": "SP",
+      "type": "ENTITY",
+      "start": 3099,
+      "end": 3101
+    },
+    {
+      "text": "RESECTION Block Sect",
+      "type": "ENTITY",
+      "start": 3112,
+      "end": 3132
+    },
+    {
+      "text": "PCs",
+      "type": "ENTITY",
+      "start": 3139,
+      "end": 3142
+    },
+    {
+      "text": "Report",
+      "type": "ENTITY",
+      "start": 3153,
+      "end": 3159
+    },
+    {
+      "text": "**",
+      "type": "ENTITY",
+      "start": 3160,
+      "end": 3162
+    }
+  ],
+  "entity_count": 154,
+  "has_embedding": true
+}

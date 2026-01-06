@@ -1,0 +1,602 @@
+{
+  "filename": "abf71b95-d242-4c4d-83ad-c06dffbe65ca",
+  "timestamp": "2026-01-05T14:41:48.632334",
+  "entities": [
+    {
+      "text": "UUID",
+      "type": "ENTITY",
+      "start": 32,
+      "end": 36
+    },
+    {
+      "text": "TCGA-FF-A7CQ-01A-PR Redacted",
+      "type": "ENTITY",
+      "start": 89,
+      "end": 117
+    },
+    {
+      "text": "Histopathology Report",
+      "type": "ENTITY",
+      "start": 118,
+      "end": 139
+    },
+    {
+      "text": "Biopsy",
+      "type": "ENTITY",
+      "start": 140,
+      "end": 146
+    },
+    {
+      "text": "Date/Time Final Final  Reporting Information Date/Time",
+      "type": "ENTITY",
+      "start": 159,
+      "end": 213
+    },
+    {
+      "text": "Histopathologist",
+      "type": "ENTITY",
+      "start": 223,
+      "end": 239
+    },
+    {
+      "text": "Laboratory",
+      "type": "ENTITY",
+      "start": 242,
+      "end": 252
+    },
+    {
+      "text": "Consultant-In-Charge",
+      "type": "ENTITY",
+      "start": 255,
+      "end": 275
+    },
+    {
+      "text": "Submitting Physician",
+      "type": "ENTITY",
+      "start": 282,
+      "end": 302
+    },
+    {
+      "text": "NOT STATED Final",
+      "type": "ENTITY",
+      "start": 303,
+      "end": 319
+    },
+    {
+      "text": "Final DIAGNOSIS RIGHT",
+      "type": "ENTITY",
+      "start": 343,
+      "end": 364
+    },
+    {
+      "text": "CERVICAL LYMPH",
+      "type": "ENTITY",
+      "start": 365,
+      "end": 379
+    },
+    {
+      "text": "EXCISION",
+      "type": "ENTITY",
+      "start": 386,
+      "end": 394
+    },
+    {
+      "text": "DIFFUSE LARGE B-CELL LYMPHOMA",
+      "type": "ENTITY",
+      "start": 397,
+      "end": 426
+    },
+    {
+      "text": "GROSS DESCRIPTION",
+      "type": "ENTITY",
+      "start": 428,
+      "end": 445
+    },
+    {
+      "text": "Received",
+      "type": "ENTITY",
+      "start": 446,
+      "end": 454
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 458,
+      "end": 466
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 472,
+      "end": 480
+    },
+    {
+      "text": "patient's",
+      "type": "ENTITY",
+      "start": 495,
+      "end": 504
+    },
+    {
+      "text": "data",
+      "type": "ENTITY",
+      "start": 505,
+      "end": 509
+    },
+    {
+      "text": "pieces",
+      "type": "ENTITY",
+      "start": 563,
+      "end": 569
+    },
+    {
+      "text": "brownish",
+      "type": "ENTITY",
+      "start": 573,
+      "end": 581
+    },
+    {
+      "text": "tissue",
+      "type": "ENTITY",
+      "start": 582,
+      "end": 588
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 589,
+      "end": 598
+    },
+    {
+      "text": "submitted",
+      "type": "ENTITY",
+      "start": 616,
+      "end": 625
+    },
+    {
+      "text": "Al",
+      "type": "ENTITY",
+      "start": 637,
+      "end": 639
+    },
+    {
+      "text": "no reserve",
+      "type": "ENTITY",
+      "start": 641,
+      "end": 651
+    },
+    {
+      "text": "piece",
+      "type": "ENTITY",
+      "start": 664,
+      "end": 669
+    },
+    {
+      "text": "tissue",
+      "type": "ENTITY",
+      "start": 673,
+      "end": 679
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 689,
+      "end": 694
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 695,
+      "end": 704
+    },
+    {
+      "text": "snap-frozen",
+      "type": "ENTITY",
+      "start": 725,
+      "end": 736
+    },
+    {
+      "text": "storage",
+      "type": "ENTITY",
+      "start": 741,
+      "end": 748
+    },
+    {
+      "text": "Histology",
+      "type": "ENTITY",
+      "start": 774,
+      "end": 783
+    },
+    {
+      "text": "fragmented",
+      "type": "ENTITY",
+      "start": 792,
+      "end": 802
+    },
+    {
+      "text": "lymph node",
+      "type": "ENTITY",
+      "start": 803,
+      "end": 813
+    },
+    {
+      "text": "architectural effacement",
+      "type": "ENTITY",
+      "start": 819,
+      "end": 843
+    },
+    {
+      "text": "diffuse",
+      "type": "ENTITY",
+      "start": 849,
+      "end": 856
+    },
+    {
+      "text": "patternless proliferation",
+      "type": "ENTITY",
+      "start": 858,
+      "end": 883
+    },
+    {
+      "text": "lymphomatous large cells",
+      "type": "ENTITY",
+      "start": 887,
+      "end": 911
+    },
+    {
+      "text": "centroblastic",
+      "type": "ENTITY",
+      "start": 919,
+      "end": 932
+    },
+    {
+      "text": "scattered",
+      "type": "ENTITY",
+      "start": 956,
+      "end": 965
+    },
+    {
+      "text": "mitoses",
+      "type": "ENTITY",
+      "start": 966,
+      "end": 973
+    },
+    {
+      "text": "foci",
+      "type": "ENTITY",
+      "start": 978,
+      "end": 982
+    },
+    {
+      "text": "plasmacytoid proliferation",
+      "type": "ENTITY",
+      "start": 986,
+      "end": 1012
+    },
+    {
+      "text": "positive",
+      "type": "ENTITY",
+      "start": 1025,
+      "end": 1033
+    },
+    {
+      "text": "pan-B cell marker",
+      "type": "ENTITY",
+      "start": 1038,
+      "end": 1055
+    },
+    {
+      "text": "cd20",
+      "type": "ENTITY",
+      "start": 1056,
+      "end": 1060
+    },
+    {
+      "text": "coexpresses",
+      "type": "ENTITY",
+      "start": 1065,
+      "end": 1076
+    },
+    {
+      "text": "postgerminal",
+      "type": "ENTITY",
+      "start": 1077,
+      "end": 1089
+    },
+    {
+      "text": "centre-associated transcription factor Mum.l",
+      "type": "ENTITY",
+      "start": 1090,
+      "end": 1134
+    },
+    {
+      "text": "decorates",
+      "type": "ENTITY",
+      "start": 1157,
+      "end": 1166
+    },
+    {
+      "text": "scattered",
+      "type": "ENTITY",
+      "start": 1189,
+      "end": 1198
+    },
+    {
+      "text": "mature",
+      "type": "ENTITY",
+      "start": 1199,
+      "end": 1205
+    },
+    {
+      "text": "plasma cells",
+      "type": "ENTITY",
+      "start": 1206,
+      "end": 1218
+    },
+    {
+      "text": "lymphomatous",
+      "type": "ENTITY",
+      "start": 1224,
+      "end": 1236
+    },
+    {
+      "text": "physiological",
+      "type": "ENTITY",
+      "start": 1254,
+      "end": 1267
+    },
+    {
+      "text": "expression",
+      "type": "ENTITY",
+      "start": 1268,
+      "end": 1278
+    },
+    {
+      "text": "admixed",
+      "type": "ENTITY",
+      "start": 1282,
+      "end": 1289
+    },
+    {
+      "text": "cD3-positive",
+      "type": "ENTITY",
+      "start": 1291,
+      "end": 1303
+    },
+    {
+      "text": "reactive",
+      "type": "ENTITY",
+      "start": 1305,
+      "end": 1313
+    },
+    {
+      "text": "T-lymphocytes",
+      "type": "ENTITY",
+      "start": 1321,
+      "end": 1334
+    },
+    {
+      "text": "focally",
+      "type": "ENTITY",
+      "start": 1343,
+      "end": 1350
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 1374,
+      "end": 1382
+    },
+    {
+      "text": "germinal centre-associated antigen coio",
+      "type": "ENTITY",
+      "start": 1387,
+      "end": 1426
+    },
+    {
+      "text": "stromal cells",
+      "type": "ENTITY",
+      "start": 1461,
+      "end": 1474
+    },
+    {
+      "text": "polymorphs",
+      "type": "ENTITY",
+      "start": 1479,
+      "end": 1489
+    },
+    {
+      "text": "phenotypic profile",
+      "type": "ENTITY",
+      "start": 1529,
+      "end": 1547
+    },
+    {
+      "text": "Burkitt lymphoma",
+      "type": "ENTITY",
+      "start": 1567,
+      "end": 1583
+    },
+    {
+      "text": "conjunction",
+      "type": "ENTITY",
+      "start": 1587,
+      "end": 1598
+    },
+    {
+      "text": "celi proliferation",
+      "type": "ENTITY",
+      "start": 1606,
+      "end": 1624
+    },
+    {
+      "text": "immunolabelling",
+      "type": "ENTITY",
+      "start": 1625,
+      "end": 1640
+    },
+    {
+      "text": "lymphoblastic neoplasm",
+      "type": "ENTITY",
+      "start": 1655,
+      "end": 1677
+    },
+    {
+      "text": "conjunction",
+      "type": "ENTITY",
+      "start": 1681,
+      "end": 1692
+    },
+    {
+      "text": "negativity",
+      "type": "ENTITY",
+      "start": 1698,
+      "end": 1708
+    },
+    {
+      "text": "scattered",
+      "type": "ENTITY",
+      "start": 1781,
+      "end": 1790
+    },
+    {
+      "text": "circulating",
+      "type": "ENTITY",
+      "start": 1792,
+      "end": 1803
+    },
+    {
+      "text": "haematogones",
+      "type": "ENTITY",
+      "start": 1804,
+      "end": 1816
+    },
+    {
+      "text": "Immunostaining",
+      "type": "ENTITY",
+      "start": 1818,
+      "end": 1832
+    },
+    {
+      "text": "Cyclin Dl",
+      "type": "ENTITY",
+      "start": 1837,
+      "end": 1846
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 1850,
+      "end": 1858
+    },
+    {
+      "text": "lymphoid",
+      "type": "ENTITY",
+      "start": 1870,
+      "end": 1878
+    },
+    {
+      "text": "proliferation",
+      "type": "ENTITY",
+      "start": 1879,
+      "end": 1892
+    },
+    {
+      "text": "physiological",
+      "type": "ENTITY",
+      "start": 1912,
+      "end": 1925
+    },
+    {
+      "text": "expression",
+      "type": "ENTITY",
+      "start": 1926,
+      "end": 1936
+    },
+    {
+      "text": "scattered",
+      "type": "ENTITY",
+      "start": 1940,
+      "end": 1949
+    },
+    {
+      "text": "histiocytic",
+      "type": "ENTITY",
+      "start": 1950,
+      "end": 1961
+    },
+    {
+      "text": "activated",
+      "type": "ENTITY",
+      "start": 1966,
+      "end": 1975
+    },
+    {
+      "text": "transformed mantle cell lymphoma",
+      "type": "ENTITY",
+      "start": 2008,
+      "end": 2040
+    },
+    {
+      "text": "disrupted",
+      "type": "ENTITY",
+      "start": 2064,
+      "end": 2073
+    },
+    {
+      "text": "follicular",
+      "type": "ENTITY",
+      "start": 2094,
+      "end": 2104
+    },
+    {
+      "text": "dendritic meshworks",
+      "type": "ENTITY",
+      "start": 2105,
+      "end": 2124
+    },
+    {
+      "text": "discerned",
+      "type": "ENTITY",
+      "start": 2129,
+      "end": 2138
+    },
+    {
+      "text": "origin",
+      "type": "ENTITY",
+      "start": 2168,
+      "end": 2174
+    },
+    {
+      "text": "transformed follicular lymphoma",
+      "type": "ENTITY",
+      "start": 2182,
+      "end": 2213
+    },
+    {
+      "text": "Pathologist",
+      "type": "ENTITY",
+      "start": 2215,
+      "end": 2226
+    },
+    {
+      "text": "IQDO-3",
+      "type": "ENTITY",
+      "start": 2229,
+      "end": 2235
+    },
+    {
+      "text": "Curvicol lynpr noelp",
+      "type": "ENTITY",
+      "start": 2253,
+      "end": 2273
+    },
+    {
+      "text": "CZ7.0 Jt) 8(2b|13",
+      "type": "ENTITY",
+      "start": 2274,
+      "end": 2291
+    }
+  ],
+  "entity_count": 99,
+  "has_embedding": true
+}

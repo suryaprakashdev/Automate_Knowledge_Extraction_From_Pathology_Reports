@@ -1,0 +1,692 @@
+{
+  "filename": "2bb51542-4d58-4f1c-85e7-8eb56a8c0bde",
+  "timestamp": "2026-01-05T14:41:07.056000",
+  "entities": [
+    {
+      "text": "ACTCLINICALHISTORY",
+      "type": "ENTITY",
+      "start": 62,
+      "end": 80
+    },
+    {
+      "text": "TA",
+      "type": "ENTITY",
+      "start": 111,
+      "end": 113
+    },
+    {
+      "text": "GROSSDESCRIPTION",
+      "type": "ENTITY",
+      "start": 114,
+      "end": 130
+    },
+    {
+      "text": "SA",
+      "type": "ENTITY",
+      "start": 131,
+      "end": 133
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 140,
+      "end": 148
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 162,
+      "end": 167
+    },
+    {
+      "text": "left kidney",
+      "type": "ENTITY",
+      "start": 172,
+      "end": 183
+    },
+    {
+      "text": "ureter",
+      "type": "ENTITY",
+      "start": 188,
+      "end": 194
+    },
+    {
+      "text": "kidney",
+      "type": "ENTITY",
+      "start": 214,
+      "end": 220
+    },
+    {
+      "text": "removed",
+      "type": "ENTITY",
+      "start": 221,
+      "end": 228
+    },
+    {
+      "text": "perirenal fat weighing 361",
+      "type": "ENTITY",
+      "start": 243,
+      "end": 269
+    },
+    {
+      "text": "grams",
+      "type": "ENTITY",
+      "start": 270,
+      "end": 275
+    },
+    {
+      "text": "overall",
+      "type": "ENTITY",
+      "start": 284,
+      "end": 291
+    },
+    {
+      "text": "dimension",
+      "type": "ENTITY",
+      "start": 292,
+      "end": 301
+    },
+    {
+      "text": "kidney",
+      "type": "ENTITY",
+      "start": 325,
+      "end": 331
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 332,
+      "end": 340
+    },
+    {
+      "text": "segment",
+      "type": "ENTITY",
+      "start": 362,
+      "end": 369
+    },
+    {
+      "text": "ureter",
+      "type": "ENTITY",
+      "start": 382,
+      "end": 388
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 389,
+      "end": 397
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 406,
+      "end": 412
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 427,
+      "end": 435
+    },
+    {
+      "text": "segments",
+      "type": "ENTITY",
+      "start": 455,
+      "end": 463
+    },
+    {
+      "text": "vessel",
+      "type": "ENTITY",
+      "start": 467,
+      "end": 473
+    },
+    {
+      "text": "hilum",
+      "type": "ENTITY",
+      "start": 481,
+      "end": 486
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 498,
+      "end": 504
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 527,
+      "end": 533
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 538,
+      "end": 547
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 562,
+      "end": 570
+    },
+    {
+      "text": "ureteral mucosa",
+      "type": "ENTITY",
+      "start": 576,
+      "end": 591
+    },
+    {
+      "text": "pale tan with",
+      "type": "ENTITY",
+      "start": 595,
+      "end": 608
+    },
+    {
+      "text": "striations",
+      "type": "ENTITY",
+      "start": 619,
+      "end": 629
+    },
+    {
+      "text": "pelvic mucosa",
+      "type": "ENTITY",
+      "start": 635,
+      "end": 648
+    },
+    {
+      "text": "appearance",
+      "type": "ENTITY",
+      "start": 663,
+      "end": 673
+    },
+    {
+      "text": "renal parenchyma",
+      "type": "ENTITY",
+      "start": 680,
+      "end": 696
+    },
+    {
+      "text": "red brown with",
+      "type": "ENTITY",
+      "start": 700,
+      "end": 714
+    },
+    {
+      "text": "normal architecture",
+      "type": "ENTITY",
+      "start": 716,
+      "end": 735
+    },
+    {
+      "text": "circumscribed yellow tan tumor",
+      "type": "ENTITY",
+      "start": 765,
+      "end": 795
+    },
+    {
+      "text": "adjacent",
+      "type": "ENTITY",
+      "start": 796,
+      "end": 804
+    },
+    {
+      "text": "renal pelvis",
+      "type": "ENTITY",
+      "start": 812,
+      "end": 824
+    },
+    {
+      "text": "renal sinus",
+      "type": "ENTITY",
+      "start": 856,
+      "end": 867
+    },
+    {
+      "text": "cortical surface",
+      "type": "ENTITY",
+      "start": 907,
+      "end": 923
+    },
+    {
+      "text": "calyces",
+      "type": "ENTITY",
+      "start": 929,
+      "end": 936
+    },
+    {
+      "text": "dilated",
+      "type": "ENTITY",
+      "start": 945,
+      "end": 952
+    },
+    {
+      "text": "cortex",
+      "type": "ENTITY",
+      "start": 958,
+      "end": 964
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 965,
+      "end": 973
+    },
+    {
+      "text": "thickness",
+      "type": "ENTITY",
+      "start": 990,
+      "end": 999
+    },
+    {
+      "text": "capsule strips",
+      "type": "ENTITY",
+      "start": 1005,
+      "end": 1019
+    },
+    {
+      "text": "red brown granular",
+      "type": "ENTITY",
+      "start": 1051,
+      "end": 1069
+    },
+    {
+      "text": "cortical surface",
+      "type": "ENTITY",
+      "start": 1070,
+      "end": 1086
+    },
+    {
+      "text": "perirenal fat",
+      "type": "ENTITY",
+      "start": 1116,
+      "end": 1129
+    },
+    {
+      "text": "unremarkable",
+      "type": "ENTITY",
+      "start": 1133,
+      "end": 1145
+    },
+    {
+      "text": "adrenal gland",
+      "type": "ENTITY",
+      "start": 1151,
+      "end": 1164
+    },
+    {
+      "text": "absent",
+      "type": "ENTITY",
+      "start": 1168,
+      "end": 1174
+    },
+    {
+      "text": "Representative sections",
+      "type": "ENTITY",
+      "start": 1176,
+      "end": 1199
+    },
+    {
+      "text": "multiple",
+      "type": "ENTITY",
+      "start": 1216,
+      "end": 1224
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 1229,
+      "end": 1236
+    },
+    {
+      "text": "Vessel",
+      "type": "ENTITY",
+      "start": 1263,
+      "end": 1269
+    },
+    {
+      "text": "ureter margin",
+      "type": "ENTITY",
+      "start": 1274,
+      "end": 1287
+    },
+    {
+      "text": "Cassettes",
+      "type": "ENTITY",
+      "start": 1289,
+      "end": 1298
+    },
+    {
+      "text": "Tumor Cassette 9",
+      "type": "ENTITY",
+      "start": 1304,
+      "end": 1320
+    },
+    {
+      "text": "Representative uninvolved",
+      "type": "ENTITY",
+      "start": 1322,
+      "end": 1347
+    },
+    {
+      "text": "renal parenchyma",
+      "type": "ENTITY",
+      "start": 1348,
+      "end": 1364
+    },
+    {
+      "text": "portion",
+      "type": "ENTITY",
+      "start": 1381,
+      "end": 1388
+    },
+    {
+      "text": "tissue",
+      "type": "ENTITY",
+      "start": 1392,
+      "end": 1398
+    },
+    {
+      "text": "research study",
+      "type": "ENTITY",
+      "start": 1416,
+      "end": 1430
+    },
+    {
+      "text": "ONAALEINALDIAGNOSISXMS",
+      "type": "ENTITY",
+      "start": 1432,
+      "end": 1454
+    },
+    {
+      "text": "LEFT KIDNEY",
+      "type": "ENTITY",
+      "start": 1455,
+      "end": 1466
+    },
+    {
+      "text": "PROXIMAL URETER",
+      "type": "ENTITY",
+      "start": 1471,
+      "end": 1486
+    },
+    {
+      "text": "NEPHRECTOMY",
+      "type": "ENTITY",
+      "start": 1488,
+      "end": 1499
+    },
+    {
+      "text": "RENAL CELL CARCINOMA",
+      "type": "ENTITY",
+      "start": 1503,
+      "end": 1523
+    },
+    {
+      "text": "CHROMOPHOBE TYPE",
+      "type": "ENTITY",
+      "start": 1525,
+      "end": 1541
+    },
+    {
+      "text": "CM",
+      "type": "ENTITY",
+      "start": 1547,
+      "end": 1549
+    },
+    {
+      "text": "TUMOR IS",
+      "type": "ENTITY",
+      "start": 1553,
+      "end": 1561
+    },
+    {
+      "text": "KIDNEY",
+      "type": "ENTITY",
+      "start": 1577,
+      "end": 1583
+    },
+    {
+      "text": "VASCULAR",
+      "type": "ENTITY",
+      "start": 1644,
+      "end": 1652
+    },
+    {
+      "text": "ARE",
+      "type": "ENTITY",
+      "start": 1661,
+      "end": 1664
+    },
+    {
+      "text": "TUMOR",
+      "type": "ENTITY",
+      "start": 1678,
+      "end": 1683
+    },
+    {
+      "text": "KIDNEY WITHOUT SIGNIFICANT",
+      "type": "ENTITY",
+      "start": 1696,
+      "end": 1722
+    },
+    {
+      "text": "CHANGES",
+      "type": "ENTITY",
+      "start": 1723,
+      "end": 1730
+    },
+    {
+      "text": "TUMOR",
+      "type": "ENTITY",
+      "start": 1746,
+      "end": 1751
+    },
+    {
+      "text": "CHROMOPHOBE TYPE",
+      "type": "ENTITY",
+      "start": 1788,
+      "end": 1804
+    },
+    {
+      "text": "RENAL CELL CARCINOMA",
+      "type": "ENTITY",
+      "start": 1808,
+      "end": 1828
+    },
+    {
+      "text": "OE",
+      "type": "ENTITY",
+      "start": 1891,
+      "end": 1893
+    },
+    {
+      "text": "SYNOPTIC",
+      "type": "ENTITY",
+      "start": 1925,
+      "end": 1933
+    },
+    {
+      "text": "KIDNEY",
+      "type": "ENTITY",
+      "start": 1942,
+      "end": 1948
+    },
+    {
+      "text": "CAP/AJCC/ACS",
+      "type": "ENTITY",
+      "start": 1950,
+      "end": 1962
+    },
+    {
+      "text": "REQUIRED",
+      "type": "ENTITY",
+      "start": 1965,
+      "end": 1973
+    },
+    {
+      "text": "SPECIMEN TYPE",
+      "type": "ENTITY",
+      "start": 1984,
+      "end": 1997
+    },
+    {
+      "text": "NEPHRECTOMY LATERALITY",
+      "type": "ENTITY",
+      "start": 1999,
+      "end": 2021
+    },
+    {
+      "text": "LEFT",
+      "type": "ENTITY",
+      "start": 2024,
+      "end": 2028
+    },
+    {
+      "text": "CENTRAL/ADJACENT",
+      "type": "ENTITY",
+      "start": 2041,
+      "end": 2057
+    },
+    {
+      "text": "PELVIS TUMOR FOCALITY",
+      "type": "ENTITY",
+      "start": 2061,
+      "end": 2082
+    },
+    {
+      "text": "UNIFOCAL TUMOR",
+      "type": "ENTITY",
+      "start": 2084,
+      "end": 2098
+    },
+    {
+      "text": "CM",
+      "type": "ENTITY",
+      "start": 2109,
+      "end": 2111
+    },
+    {
+      "text": "MACROSCOPIC EXTENT",
+      "type": "ENTITY",
+      "start": 2112,
+      "end": 2130
+    },
+    {
+      "text": "TUMOR",
+      "type": "ENTITY",
+      "start": 2134,
+      "end": 2139
+    },
+    {
+      "text": "CHROMOPHOBE RENAL CELL",
+      "type": "ENTITY",
+      "start": 2176,
+      "end": 2198
+    },
+    {
+      "text": "GRADE",
+      "type": "ENTITY",
+      "start": 2220,
+      "end": 2225
+    },
+    {
+      "text": "N/A",
+      "type": "ENTITY",
+      "start": 2227,
+      "end": 2230
+    },
+    {
+      "text": "FUHRMAN",
+      "type": "ENTITY",
+      "start": 2232,
+      "end": 2239
+    },
+    {
+      "text": "CHROMOPHOBE TYPE",
+      "type": "ENTITY",
+      "start": 2265,
+      "end": 2281
+    },
+    {
+      "text": "RENAL CELL CARCINOMA",
+      "type": "ENTITY",
+      "start": 2285,
+      "end": 2305
+    },
+    {
+      "text": "VENOUS INVOLVEMENT",
+      "type": "ENTITY",
+      "start": 2307,
+      "end": 2325
+    },
+    {
+      "text": "N/A",
+      "type": "ENTITY",
+      "start": 2359,
+      "end": 2362
+    },
+    {
+      "text": "ADRENAL",
+      "type": "ENTITY",
+      "start": 2365,
+      "end": 2372
+    },
+    {
+      "text": "NOT PRESENT MARGINS",
+      "type": "ENTITY",
+      "start": 2373,
+      "end": 2392
+    },
+    {
+      "text": "CAPSULAR/PARENCHYMAL",
+      "type": "ENTITY",
+      "start": 2395,
+      "end": 2415
+    },
+    {
+      "text": "NEGATIVE PERINEPHRIC",
+      "type": "ENTITY",
+      "start": 2418,
+      "end": 2438
+    },
+    {
+      "text": "FAT",
+      "type": "ENTITY",
+      "start": 2439,
+      "end": 2442
+    },
+    {
+      "text": "NEGATIVE",
+      "type": "ENTITY",
+      "start": 2465,
+      "end": 2473
+    },
+    {
+      "text": "NEGATIVE LYMPH",
+      "type": "ENTITY",
+      "start": 2482,
+      "end": 2496
+    },
+    {
+      "text": "pT1a NX",
+      "type": "ENTITY",
+      "start": 2576,
+      "end": 2583
+    },
+    {
+      "text": "MX",
+      "type": "ENTITY",
+      "start": 2584,
+      "end": 2586
+    },
+    {
+      "text": "STAGE I",
+      "type": "ENTITY",
+      "start": 2588,
+      "end": 2595
+    }
+  ],
+  "entity_count": 114,
+  "has_embedding": true
+}

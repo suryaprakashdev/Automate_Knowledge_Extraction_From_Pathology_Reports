@@ -1,0 +1,758 @@
+{
+  "filename": "d3029de1-eae7-45d4-9f22-c879035b5318",
+  "timestamp": "2026-01-05T14:42:56.885693",
+  "entities": [
+    {
+      "text": "PAGE",
+      "type": "ENTITY",
+      "start": 57,
+      "end": 61
+    },
+    {
+      "text": "SEX",
+      "type": "ENTITY",
+      "start": 65,
+      "end": 68
+    },
+    {
+      "text": "BIRTHDATE",
+      "type": "ENTITY",
+      "start": 72,
+      "end": 81
+    },
+    {
+      "text": "ADM",
+      "type": "ENTITY",
+      "start": 83,
+      "end": 86
+    },
+    {
+      "text": "OPER",
+      "type": "ENTITY",
+      "start": 93,
+      "end": 97
+    },
+    {
+      "text": "sgD",
+      "type": "ENTITY",
+      "start": 104,
+      "end": 107
+    },
+    {
+      "text": "o-3 PROCEDURE",
+      "type": "ENTITY",
+      "start": 108,
+      "end": 121
+    },
+    {
+      "text": "SPDX",
+      "type": "ENTITY",
+      "start": 123,
+      "end": 127
+    },
+    {
+      "text": "chyatouslulo",
+      "type": "ENTITY",
+      "start": 138,
+      "end": 150
+    },
+    {
+      "text": "Adenomatous hyperplasia",
+      "type": "ENTITY",
+      "start": 159,
+      "end": 182
+    },
+    {
+      "text": "endometrium",
+      "type": "ENTITY",
+      "start": 186,
+      "end": 197
+    },
+    {
+      "text": "Squamous metaplasia of cervix",
+      "type": "ENTITY",
+      "start": 199,
+      "end": 228
+    },
+    {
+      "text": "Ovaries",
+      "type": "ENTITY",
+      "start": 234,
+      "end": 241
+    },
+    {
+      "text": "fallopian tubes",
+      "type": "ENTITY",
+      "start": 246,
+      "end": 261
+    },
+    {
+      "text": "excision",
+      "type": "ENTITY",
+      "start": 263,
+      "end": 271
+    },
+    {
+      "text": "tubo-ovarian adhesions",
+      "type": "ENTITY",
+      "start": 273,
+      "end": 295
+    },
+    {
+      "text": "Follicular cysts",
+      "type": "ENTITY",
+      "start": 308,
+      "end": 324
+    },
+    {
+      "text": "Right interiliac",
+      "type": "ENTITY",
+      "start": 330,
+      "end": 346
+    },
+    {
+      "text": "external",
+      "type": "ENTITY",
+      "start": 351,
+      "end": 359
+    },
+    {
+      "text": "iliac lymph nodes",
+      "type": "ENTITY",
+      "start": 360,
+      "end": 377
+    },
+    {
+      "text": "excision",
+      "type": "ENTITY",
+      "start": 379,
+      "end": 387
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 394,
+      "end": 405
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 411,
+      "end": 419
+    },
+    {
+      "text": "neoplasm",
+      "type": "ENTITY",
+      "start": 424,
+      "end": 432
+    },
+    {
+      "text": "UUID",
+      "type": "ENTITY",
+      "start": 434,
+      "end": 438
+    },
+    {
+      "text": "Redacted FC",
+      "type": "ENTITY",
+      "start": 512,
+      "end": 523
+    },
+    {
+      "text": "M-72000",
+      "type": "ENTITY",
+      "start": 531,
+      "end": 538
+    },
+    {
+      "text": "M-81403",
+      "type": "ENTITY",
+      "start": 547,
+      "end": 554
+    },
+    {
+      "text": "T-82000",
+      "type": "ENTITY",
+      "start": 555,
+      "end": 562
+    },
+    {
+      "text": "OPER",
+      "type": "ENTITY",
+      "start": 563,
+      "end": 567
+    },
+    {
+      "text": "SPHSE",
+      "type": "ENTITY",
+      "start": 585,
+      "end": 590
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 604,
+      "end": 608
+    },
+    {
+      "text": "left hepatic lobe",
+      "type": "ENTITY",
+      "start": 612,
+      "end": 629
+    },
+    {
+      "text": "Tissue Submitted",
+      "type": "ENTITY",
+      "start": 631,
+      "end": 647
+    },
+    {
+      "text": "Left lateral segment",
+      "type": "ENTITY",
+      "start": 649,
+      "end": 669
+    },
+    {
+      "text": "Liver",
+      "type": "ENTITY",
+      "start": 671,
+      "end": 676
+    },
+    {
+      "text": "SPGD",
+      "type": "ENTITY",
+      "start": 689,
+      "end": 693
+    },
+    {
+      "text": "Left lateral segment",
+      "type": "ENTITY",
+      "start": 698,
+      "end": 718
+    },
+    {
+      "text": "liver",
+      "type": "ENTITY",
+      "start": 722,
+      "end": 727
+    },
+    {
+      "text": "Received",
+      "type": "ENTITY",
+      "start": 729,
+      "end": 737
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 741,
+      "end": 749
+    },
+    {
+      "text": "extra large container",
+      "type": "ENTITY",
+      "start": 756,
+      "end": 777
+    },
+    {
+      "text": "gram",
+      "type": "ENTITY",
+      "start": 788,
+      "end": 792
+    },
+    {
+      "text": "lobe",
+      "type": "ENTITY",
+      "start": 797,
+      "end": 801
+    },
+    {
+      "text": "liver",
+      "type": "ENTITY",
+      "start": 805,
+      "end": 810
+    },
+    {
+      "text": "left",
+      "type": "ENTITY",
+      "start": 822,
+      "end": 826
+    },
+    {
+      "text": "anterior",
+      "type": "ENTITY",
+      "start": 869,
+      "end": 877
+    },
+    {
+      "text": "aspect",
+      "type": "ENTITY",
+      "start": 878,
+      "end": 884
+    },
+    {
+      "text": "protuberant",
+      "type": "ENTITY",
+      "start": 890,
+      "end": 901
+    },
+    {
+      "text": "encapsulated",
+      "type": "ENTITY",
+      "start": 912,
+      "end": 924
+    },
+    {
+      "text": "Capsule",
+      "type": "ENTITY",
+      "start": 961,
+      "end": 968
+    },
+    {
+      "text": "liver segment",
+      "type": "ENTITY",
+      "start": 985,
+      "end": 998
+    },
+    {
+      "text": "tan",
+      "type": "ENTITY",
+      "start": 1002,
+      "end": 1005
+    },
+    {
+      "text": "focally nodular",
+      "type": "ENTITY",
+      "start": 1010,
+      "end": 1025
+    },
+    {
+      "text": "margin",
+      "type": "ENTITY",
+      "start": 1031,
+      "end": 1037
+    },
+    {
+      "text": "resection",
+      "type": "ENTITY",
+      "start": 1041,
+      "end": 1050
+    },
+    {
+      "text": "inked blue",
+      "type": "ENTITY",
+      "start": 1054,
+      "end": 1064
+    },
+    {
+      "text": "liver",
+      "type": "ENTITY",
+      "start": 1086,
+      "end": 1091
+    },
+    {
+      "text": "nodular tissue",
+      "type": "ENTITY",
+      "start": 1107,
+      "end": 1121
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 1163,
+      "end": 1167
+    },
+    {
+      "text": "hemorrhagic",
+      "type": "ENTITY",
+      "start": 1179,
+      "end": 1190
+    },
+    {
+      "text": "surface",
+      "type": "ENTITY",
+      "start": 1221,
+      "end": 1228
+    },
+    {
+      "text": "bright focal areas",
+      "type": "ENTITY",
+      "start": 1234,
+      "end": 1252
+    },
+    {
+      "text": "fat necrosis",
+      "type": "ENTITY",
+      "start": 1256,
+      "end": 1268
+    },
+    {
+      "text": "central yellow-gray scar",
+      "type": "ENTITY",
+      "start": 1272,
+      "end": 1296
+    },
+    {
+      "text": "identified",
+      "type": "ENTITY",
+      "start": 1301,
+      "end": 1311
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1317,
+      "end": 1322
+    },
+    {
+      "text": "margin",
+      "type": "ENTITY",
+      "start": 1347,
+      "end": 1353
+    },
+    {
+      "text": "resection",
+      "type": "ENTITY",
+      "start": 1357,
+      "end": 1366
+    },
+    {
+      "text": "capsule",
+      "type": "ENTITY",
+      "start": 1386,
+      "end": 1393
+    },
+    {
+      "text": "press",
+      "type": "ENTITY",
+      "start": 1409,
+      "end": 1414
+    },
+    {
+      "text": "liver parenchyma",
+      "type": "ENTITY",
+      "start": 1433,
+      "end": 1449
+    },
+    {
+      "text": "lesions",
+      "type": "ENTITY",
+      "start": 1461,
+      "end": 1468
+    },
+    {
+      "text": "identified",
+      "type": "ENTITY",
+      "start": 1473,
+      "end": 1483
+    },
+    {
+      "text": "Photographs",
+      "type": "ENTITY",
+      "start": 1485,
+      "end": 1496
+    },
+    {
+      "text": "1A",
+      "type": "ENTITY",
+      "start": 1514,
+      "end": 1516
+    },
+    {
+      "text": "Tumor",
+      "type": "ENTITY",
+      "start": 1518,
+      "end": 1523
+    },
+    {
+      "text": "margin",
+      "type": "ENTITY",
+      "start": 1527,
+      "end": 1533
+    },
+    {
+      "text": "resection",
+      "type": "ENTITY",
+      "start": 1537,
+      "end": 1546
+    },
+    {
+      "text": "Tumor",
+      "type": "ENTITY",
+      "start": 1552,
+      "end": 1557
+    },
+    {
+      "text": "liver",
+      "type": "ENTITY",
+      "start": 1561,
+      "end": 1566
+    },
+    {
+      "text": "capsule",
+      "type": "ENTITY",
+      "start": 1571,
+      "end": 1578
+    },
+    {
+      "text": "Tumor",
+      "type": "ENTITY",
+      "start": 1585,
+      "end": 1590
+    },
+    {
+      "text": "necrotic area",
+      "type": "ENTITY",
+      "start": 1594,
+      "end": 1607
+    },
+    {
+      "text": "1D",
+      "type": "ENTITY",
+      "start": 1610,
+      "end": 1612
+    },
+    {
+      "text": "tunor",
+      "type": "ENTITY",
+      "start": 1630,
+      "end": 1635
+    },
+    {
+      "text": "liver",
+      "type": "ENTITY",
+      "start": 1639,
+      "end": 1644
+    },
+    {
+      "text": "Tumor",
+      "type": "ENTITY",
+      "start": 1650,
+      "end": 1655
+    },
+    {
+      "text": "capsule",
+      "type": "ENTITY",
+      "start": 1659,
+      "end": 1666
+    },
+    {
+      "text": "Normal liver",
+      "type": "ENTITY",
+      "start": 1672,
+      "end": 1684
+    },
+    {
+      "text": "PAGE",
+      "type": "ENTITY",
+      "start": 1742,
+      "end": 1746
+    },
+    {
+      "text": "NAME",
+      "type": "ENTITY",
+      "start": 1750,
+      "end": 1754
+    },
+    {
+      "text": "SEX",
+      "type": "ENTITY",
+      "start": 1756,
+      "end": 1759
+    },
+    {
+      "text": "BIRTHDATE",
+      "type": "ENTITY",
+      "start": 1763,
+      "end": 1772
+    },
+    {
+      "text": "ADM",
+      "type": "ENTITY",
+      "start": 1774,
+      "end": 1777
+    },
+    {
+      "text": "OPER",
+      "type": "ENTITY",
+      "start": 1784,
+      "end": 1788
+    },
+    {
+      "text": "PROCEDURE",
+      "type": "ENTITY",
+      "start": 1795,
+      "end": 1804
+    },
+    {
+      "text": "SPMI",
+      "type": "ENTITY",
+      "start": 1806,
+      "end": 1810
+    },
+    {
+      "text": "HEPATOCELLULAR CARCINOMA",
+      "type": "ENTITY",
+      "start": 1818,
+      "end": 1842
+    },
+    {
+      "text": "TUMOR",
+      "type": "ENTITY",
+      "start": 1851,
+      "end": 1856
+    },
+    {
+      "text": "NoE",
+      "type": "ENTITY",
+      "start": 1878,
+      "end": 1881
+    },
+    {
+      "text": "Ordinary SINGLE OR",
+      "type": "ENTITY",
+      "start": 1894,
+      "end": 1912
+    },
+    {
+      "text": "MASS",
+      "type": "ENTITY",
+      "start": 1965,
+      "end": 1969
+    },
+    {
+      "text": "RESECTION FREE",
+      "type": "ENTITY",
+      "start": 1997,
+      "end": 2011
+    },
+    {
+      "text": "VASCULAR",
+      "type": "ENTITY",
+      "start": 2027,
+      "end": 2035
+    },
+    {
+      "text": "No LYMPH NODE",
+      "type": "ENTITY",
+      "start": 2105,
+      "end": 2118
+    },
+    {
+      "text": "UnknOwn DISTANT",
+      "type": "ENTITY",
+      "start": 2132,
+      "end": 2147
+    },
+    {
+      "text": "Unknown IS",
+      "type": "ENTITY",
+      "start": 2161,
+      "end": 2171
+    },
+    {
+      "text": "SPDX",
+      "type": "ENTITY",
+      "start": 2216,
+      "end": 2220
+    },
+    {
+      "text": "Left lateral segment of",
+      "type": "ENTITY",
+      "start": 2237,
+      "end": 2260
+    },
+    {
+      "text": "liver",
+      "type": "ENTITY",
+      "start": 2261,
+      "end": 2266
+    },
+    {
+      "text": "excision",
+      "type": "ENTITY",
+      "start": 2268,
+      "end": 2276
+    },
+    {
+      "text": "Hepatocellular carcinoma",
+      "type": "ENTITY",
+      "start": 2278,
+      "end": 2302
+    },
+    {
+      "text": "vascular invasion",
+      "type": "ENTITY",
+      "start": 2316,
+      "end": 2333
+    },
+    {
+      "text": "Margins free",
+      "type": "ENTITY",
+      "start": 2335,
+      "end": 2347
+    },
+    {
+      "text": "template",
+      "type": "ENTITY",
+      "start": 2360,
+      "end": 2368
+    },
+    {
+      "text": "liver",
+      "type": "ENTITY",
+      "start": 2398,
+      "end": 2403
+    },
+    {
+      "text": "cirrhosis",
+      "type": "ENTITY",
+      "start": 2409,
+      "end": 2418
+    },
+    {
+      "text": "steatohepatitis",
+      "type": "ENTITY",
+      "start": 2423,
+      "end": 2438
+    },
+    {
+      "text": "signing",
+      "type": "ENTITY",
+      "start": 2447,
+      "end": 2454
+    },
+    {
+      "text": "staff pathologist",
+      "type": "ENTITY",
+      "start": 2455,
+      "end": 2472
+    },
+    {
+      "text": "examined",
+      "type": "ENTITY",
+      "start": 2491,
+      "end": 2499
+    },
+    {
+      "text": "interpreted",
+      "type": "ENTITY",
+      "start": 2504,
+      "end": 2515
+    },
+    {
+      "text": "slides",
+      "type": "ENTITY",
+      "start": 2520,
+      "end": 2526
+    },
+    {
+      "text": "case",
+      "type": "ENTITY",
+      "start": 2537,
+      "end": 2541
+    }
+  ],
+  "entity_count": 125,
+  "has_embedding": true
+}

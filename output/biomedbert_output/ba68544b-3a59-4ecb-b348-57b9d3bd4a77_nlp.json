@@ -1,0 +1,614 @@
+{
+  "filename": "ba68544b-3a59-4ecb-b348-57b9d3bd4a77",
+  "timestamp": "2026-01-05T14:45:22.280688",
+  "entities": [
+    {
+      "text": "TCGA-M",
+      "type": "ENTITY",
+      "start": 58,
+      "end": 64
+    },
+    {
+      "text": "Redacted",
+      "type": "ENTITY",
+      "start": 78,
+      "end": 86
+    },
+    {
+      "text": "CONFIDENTIAL",
+      "type": "ENTITY",
+      "start": 97,
+      "end": 109
+    },
+    {
+      "text": "PRIVILEGED COMMUNICATION",
+      "type": "ENTITY",
+      "start": 114,
+      "end": 138
+    },
+    {
+      "text": "DISPOSE",
+      "type": "ENTITY",
+      "start": 146,
+      "end": 153
+    },
+    {
+      "text": "PAPER COPIES",
+      "type": "ENTITY",
+      "start": 157,
+      "end": 169
+    },
+    {
+      "text": "APPROPRIATELY",
+      "type": "ENTITY",
+      "start": 170,
+      "end": 183
+    },
+    {
+      "text": "Age",
+      "type": "ENTITY",
+      "start": 202,
+      "end": 205
+    },
+    {
+      "text": "PLEURAL TUMOR{MASS Test Date",
+      "type": "ENTITY",
+      "start": 222,
+      "end": 250
+    },
+    {
+      "text": "IeD-o.3 SPECIMEN NUMBER",
+      "type": "ENTITY",
+      "start": 281,
+      "end": 304
+    },
+    {
+      "text": "PLEUrA",
+      "type": "ENTITY",
+      "start": 376,
+      "end": 382
+    },
+    {
+      "text": "BIOPSy",
+      "type": "ENTITY",
+      "start": 391,
+      "end": 397
+    },
+    {
+      "text": "MALIGNANT",
+      "type": "ENTITY",
+      "start": 401,
+      "end": 410
+    },
+    {
+      "text": "MESOTHELIOMA",
+      "type": "ENTITY",
+      "start": 423,
+      "end": 435
+    },
+    {
+      "text": "BIOPSY",
+      "type": "ENTITY",
+      "start": 448,
+      "end": 454
+    },
+    {
+      "text": "malignant",
+      "type": "ENTITY",
+      "start": 457,
+      "end": 466
+    },
+    {
+      "text": "Immunohistochemical study",
+      "type": "ENTITY",
+      "start": 502,
+      "end": 527
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 545,
+      "end": 550
+    },
+    {
+      "text": "positive",
+      "type": "ENTITY",
+      "start": 555,
+      "end": 563
+    },
+    {
+      "text": "diffusely",
+      "type": "ENTITY",
+      "start": 564,
+      "end": 573
+    },
+    {
+      "text": "cytokeratin (AE1/AE3",
+      "type": "ENTITY",
+      "start": 578,
+      "end": 598
+    },
+    {
+      "text": "CK5/6",
+      "type": "ENTITY",
+      "start": 604,
+      "end": 609
+    },
+    {
+      "text": "focally",
+      "type": "ENTITY",
+      "start": 615,
+      "end": 622
+    },
+    {
+      "text": "positive",
+      "type": "ENTITY",
+      "start": 624,
+      "end": 632
+    },
+    {
+      "text": "calretinin",
+      "type": "ENTITY",
+      "start": 637,
+      "end": 647
+    },
+    {
+      "text": "wT1",
+      "type": "ENTITY",
+      "start": 652,
+      "end": 655
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 661,
+      "end": 666
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 670,
+      "end": 678
+    },
+    {
+      "text": "mCEA",
+      "type": "ENTITY",
+      "start": 683,
+      "end": 687
+    },
+    {
+      "text": "Ber-EP4",
+      "type": "ENTITY",
+      "start": 690,
+      "end": 697
+    },
+    {
+      "text": "rare cells",
+      "type": "ENTITY",
+      "start": 699,
+      "end": 709
+    },
+    {
+      "text": "TTF1",
+      "type": "ENTITY",
+      "start": 718,
+      "end": 722
+    },
+    {
+      "text": "findings",
+      "type": "ENTITY",
+      "start": 728,
+      "end": 736
+    },
+    {
+      "text": "diagnosis",
+      "type": "ENTITY",
+      "start": 749,
+      "end": 758
+    },
+    {
+      "text": "case",
+      "type": "ENTITY",
+      "start": 765,
+      "end": 769
+    },
+    {
+      "text": "reviewed",
+      "type": "ENTITY",
+      "start": 779,
+      "end": 787
+    },
+    {
+      "text": "intradepartmentally",
+      "type": "ENTITY",
+      "start": 788,
+      "end": 807
+    },
+    {
+      "text": "Pathologist CLINICAL HISTORY",
+      "type": "ENTITY",
+      "start": 809,
+      "end": 837
+    },
+    {
+      "text": "PRE-OPERATIVE DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 842,
+      "end": 865
+    },
+    {
+      "text": "Lung mass",
+      "type": "ENTITY",
+      "start": 867,
+      "end": 876
+    },
+    {
+      "text": "right MACROSCOPIC DESCRIPTION",
+      "type": "ENTITY",
+      "start": 878,
+      "end": 907
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 913,
+      "end": 921
+    },
+    {
+      "text": "parts",
+      "type": "ENTITY",
+      "start": 941,
+      "end": 946
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 947,
+      "end": 954
+    },
+    {
+      "text": "patient's",
+      "type": "ENTITY",
+      "start": 964,
+      "end": 973
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 1004,
+      "end": 1009
+    },
+    {
+      "text": "pleural tumor",
+      "type": "ENTITY",
+      "start": 1019,
+      "end": 1032
+    },
+    {
+      "text": "fragments",
+      "type": "ENTITY",
+      "start": 1056,
+      "end": 1065
+    },
+    {
+      "text": "tan soft tissue",
+      "type": "ENTITY",
+      "start": 1069,
+      "end": 1084
+    },
+    {
+      "text": "size",
+      "type": "ENTITY",
+      "start": 1099,
+      "end": 1103
+    },
+    {
+      "text": "frozen section",
+      "type": "ENTITY",
+      "start": 1169,
+      "end": 1183
+    },
+    {
+      "text": "tow",
+      "type": "ENTITY",
+      "start": 1193,
+      "end": 1196
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 1209,
+      "end": 1214
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 1215,
+      "end": 1222
+    },
+    {
+      "text": "pleural tumor",
+      "type": "ENTITY",
+      "start": 1229,
+      "end": 1242
+    },
+    {
+      "text": "piece",
+      "type": "ENTITY",
+      "start": 1283,
+      "end": 1288
+    },
+    {
+      "text": "tan soft tissue",
+      "type": "ENTITY",
+      "start": 1292,
+      "end": 1307
+    },
+    {
+      "text": "plaque",
+      "type": "ENTITY",
+      "start": 1329,
+      "end": 1335
+    },
+    {
+      "text": "surface",
+      "type": "ENTITY",
+      "start": 1352,
+      "end": 1359
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1365,
+      "end": 1373
+    },
+    {
+      "text": "SECTIONS 1A",
+      "type": "ENTITY",
+      "start": 1431,
+      "end": 1442
+    },
+    {
+      "text": "toto 2A",
+      "type": "ENTITY",
+      "start": 1446,
+      "end": 1453
+    },
+    {
+      "text": "toto",
+      "type": "ENTITY",
+      "start": 1457,
+      "end": 1461
+    },
+    {
+      "text": "AE1/AE3",
+      "type": "ENTITY",
+      "start": 1498,
+      "end": 1505
+    },
+    {
+      "text": "Calretinin",
+      "type": "ENTITY",
+      "start": 1507,
+      "end": 1517
+    },
+    {
+      "text": "WT1",
+      "type": "ENTITY",
+      "start": 1519,
+      "end": 1522
+    },
+    {
+      "text": "Ber-EP4",
+      "type": "ENTITY",
+      "start": 1524,
+      "end": 1531
+    },
+    {
+      "text": "mCEA",
+      "type": "ENTITY",
+      "start": 1533,
+      "end": 1537
+    },
+    {
+      "text": "CK5/6",
+      "type": "ENTITY",
+      "start": 1539,
+      "end": 1544
+    },
+    {
+      "text": "TTF1",
+      "type": "ENTITY",
+      "start": 1546,
+      "end": 1550
+    },
+    {
+      "text": "INTRA",
+      "type": "ENTITY",
+      "start": 1551,
+      "end": 1556
+    },
+    {
+      "text": "OPERATIVE",
+      "type": "ENTITY",
+      "start": 1559,
+      "end": 1568
+    },
+    {
+      "text": "Pleural tumor",
+      "type": "ENTITY",
+      "start": 1586,
+      "end": 1599
+    },
+    {
+      "text": "frozen section",
+      "type": "ENTITY",
+      "start": 1601,
+      "end": 1615
+    },
+    {
+      "text": "Malignant epithelioid tumor",
+      "type": "ENTITY",
+      "start": 1616,
+      "end": 1643
+    },
+    {
+      "text": "mesothelioma",
+      "type": "ENTITY",
+      "start": 1651,
+      "end": 1663
+    },
+    {
+      "text": "Intra-Operative Consultation",
+      "type": "ENTITY",
+      "start": 1694,
+      "end": 1722
+    },
+    {
+      "text": "Electronically signed Final",
+      "type": "ENTITY",
+      "start": 1740,
+      "end": 1767
+    },
+    {
+      "text": "Diaanosis",
+      "type": "ENTITY",
+      "start": 1768,
+      "end": 1777
+    },
+    {
+      "text": "Electronically signed",
+      "type": "ENTITY",
+      "start": 1791,
+      "end": 1812
+    },
+    {
+      "text": "electronic signature",
+      "type": "ENTITY",
+      "start": 1817,
+      "end": 1837
+    },
+    {
+      "text": "Attending",
+      "type": "ENTITY",
+      "start": 1861,
+      "end": 1870
+    },
+    {
+      "text": "Pathologist",
+      "type": "ENTITY",
+      "start": 1872,
+      "end": 1883
+    },
+    {
+      "text": "evaluated",
+      "type": "ENTITY",
+      "start": 1888,
+      "end": 1897
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1902,
+      "end": 1910
+    },
+    {
+      "text": "signed section",
+      "type": "ENTITY",
+      "start": 1930,
+      "end": 1944
+    },
+    {
+      "text": "report",
+      "type": "ENTITY",
+      "start": 1952,
+      "end": 1958
+    },
+    {
+      "text": "diagnosis",
+      "type": "ENTITY",
+      "start": 1978,
+      "end": 1987
+    },
+    {
+      "text": "report",
+      "type": "ENTITY",
+      "start": 2002,
+      "end": 2008
+    },
+    {
+      "text": "immunohistochemical stain",
+      "type": "ENTITY",
+      "start": 2033,
+      "end": 2058
+    },
+    {
+      "text": "analyte",
+      "type": "ENTITY",
+      "start": 2076,
+      "end": 2083
+    },
+    {
+      "text": "reagents",
+      "type": "ENTITY",
+      "start": 2093,
+      "end": 2101
+    },
+    {
+      "text": "tests",
+      "type": "ENTITY",
+      "start": 2107,
+      "end": 2112
+    },
+    {
+      "text": "performance",
+      "type": "ENTITY",
+      "start": 2138,
+      "end": 2149
+    },
+    {
+      "text": "characteristics",
+      "type": "ENTITY",
+      "start": 2150,
+      "end": 2165
+    },
+    {
+      "text": "cleared",
+      "type": "ENTITY",
+      "start": 2199,
+      "end": 2206
+    },
+    {
+      "text": "US",
+      "type": "ENTITY",
+      "start": 2226,
+      "end": 2228
+    },
+    {
+      "text": "Drug Administration",
+      "type": "ENTITY",
+      "start": 2238,
+      "end": 2257
+    },
+    {
+      "text": "FDA",
+      "type": "ENTITY",
+      "start": 2263,
+      "end": 2266
+    },
+    {
+      "text": "clearance",
+      "type": "ENTITY",
+      "start": 2292,
+      "end": 2301
+    },
+    {
+      "text": "approval",
+      "type": "ENTITY",
+      "start": 2305,
+      "end": 2313
+    }
+  ],
+  "entity_count": 101,
+  "has_embedding": true
+}

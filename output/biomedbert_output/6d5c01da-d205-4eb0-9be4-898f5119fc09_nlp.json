@@ -1,0 +1,986 @@
+{
+  "filename": "6d5c01da-d205-4eb0-9be4-898f5119fc09",
+  "timestamp": "2026-01-05T14:42:22.596073",
+  "entities": [
+    {
+      "text": "Report Status",
+      "type": "ENTITY",
+      "start": 34,
+      "end": 47
+    },
+    {
+      "text": "Amend/Addenda Type",
+      "type": "ENTITY",
+      "start": 49,
+      "end": 67
+    },
+    {
+      "text": "Surgical Pathology Specimen Type",
+      "type": "ENTITY",
+      "start": 69,
+      "end": 101
+    },
+    {
+      "text": "Kidney",
+      "type": "ENTITY",
+      "start": 103,
+      "end": 109
+    },
+    {
+      "text": "partial",
+      "type": "ENTITY",
+      "start": 111,
+      "end": 118
+    },
+    {
+      "text": "total resection Procedure Date",
+      "type": "ENTITY",
+      "start": 122,
+      "end": 152
+    },
+    {
+      "text": "Ordering",
+      "type": "ENTITY",
+      "start": 154,
+      "end": 162
+    },
+    {
+      "text": "TCGA-CZ-5452 PATHOLOGIC DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 171,
+      "end": 204
+    },
+    {
+      "text": "A. SPECIMEN",
+      "type": "ENTITY",
+      "start": 206,
+      "end": 217
+    },
+    {
+      "text": "RENAL CELL CARCINOMA",
+      "type": "ENTITY",
+      "start": 242,
+      "end": 262
+    },
+    {
+      "text": "Fuhrman grade II of IV",
+      "type": "ENTITY",
+      "start": 291,
+      "end": 313
+    },
+    {
+      "text": "extrarenal extension",
+      "type": "ENTITY",
+      "start": 318,
+      "end": 338
+    },
+    {
+      "text": "identified",
+      "type": "ENTITY",
+      "start": 339,
+      "end": 349
+    },
+    {
+      "text": "invasion",
+      "type": "ENTITY",
+      "start": 369,
+      "end": 377
+    },
+    {
+      "text": "identified",
+      "type": "ENTITY",
+      "start": 378,
+      "end": 388
+    },
+    {
+      "text": "Ureteral",
+      "type": "ENTITY",
+      "start": 390,
+      "end": 398
+    },
+    {
+      "text": "renal vein",
+      "type": "ENTITY",
+      "start": 400,
+      "end": 410
+    },
+    {
+      "text": "renal artery margins negative",
+      "type": "ENTITY",
+      "start": 416,
+      "end": 445
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 450,
+      "end": 455
+    },
+    {
+      "text": "AJcc",
+      "type": "ENTITY",
+      "start": 457,
+      "end": 461
+    },
+    {
+      "text": "classification",
+      "type": "ENTITY",
+      "start": 462,
+      "end": 476
+    },
+    {
+      "text": "T2",
+      "type": "ENTITY",
+      "start": 492,
+      "end": 494
+    },
+    {
+      "text": "NO",
+      "type": "ENTITY",
+      "start": 495,
+      "end": 497
+    },
+    {
+      "text": "MX",
+      "type": "ENTITY",
+      "start": 498,
+      "end": 500
+    },
+    {
+      "text": "non-neoplastic kidney",
+      "type": "ENTITY",
+      "start": 506,
+      "end": 527
+    },
+    {
+      "text": "evaluated",
+      "type": "ENTITY",
+      "start": 536,
+      "end": 545
+    },
+    {
+      "text": "Renal Pathology",
+      "type": "ENTITY",
+      "start": 549,
+      "end": 564
+    },
+    {
+      "text": "findings",
+      "type": "ENTITY",
+      "start": 575,
+      "end": 583
+    },
+    {
+      "text": "addendum",
+      "type": "ENTITY",
+      "start": 607,
+      "end": 615
+    },
+    {
+      "text": "B. SPECIMEN",
+      "type": "ENTITY",
+      "start": 617,
+      "end": 628
+    },
+    {
+      "text": "lymph nodes negative",
+      "type": "ENTITY",
+      "start": 669,
+      "end": 689
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 694,
+      "end": 699
+    },
+    {
+      "text": "CLINICAL DATA History",
+      "type": "ENTITY",
+      "start": 701,
+      "end": 722
+    },
+    {
+      "text": "male",
+      "type": "ENTITY",
+      "start": 728,
+      "end": 732
+    },
+    {
+      "text": "right varicocele",
+      "type": "ENTITY",
+      "start": 738,
+      "end": 754
+    },
+    {
+      "text": "cT",
+      "type": "ENTITY",
+      "start": 756,
+      "end": 758
+    },
+    {
+      "text": "right renal",
+      "type": "ENTITY",
+      "start": 774,
+      "end": 785
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 787,
+      "end": 791
+    },
+    {
+      "text": "Operation",
+      "type": "ENTITY",
+      "start": 793,
+      "end": 802
+    },
+    {
+      "text": "Nephrectomy",
+      "type": "ENTITY",
+      "start": 804,
+      "end": 815
+    },
+    {
+      "text": "Operative Findings",
+      "type": "ENTITY",
+      "start": 817,
+      "end": 835
+    },
+    {
+      "text": "Clinical Diagnosis",
+      "type": "ENTITY",
+      "start": 850,
+      "end": 868
+    },
+    {
+      "text": "TISSUE SUBMITTED",
+      "type": "ENTITY",
+      "start": 883,
+      "end": 899
+    },
+    {
+      "text": "Right kidney",
+      "type": "ENTITY",
+      "start": 905,
+      "end": 917
+    },
+    {
+      "text": "Regional lymph node",
+      "type": "ENTITY",
+      "start": 922,
+      "end": 941
+    },
+    {
+      "text": "GROSS DESCRIPTION",
+      "type": "ENTITY",
+      "start": 943,
+      "end": 960
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 966,
+      "end": 974
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 987,
+      "end": 992
+    },
+    {
+      "text": "parts",
+      "type": "ENTITY",
+      "start": 1001,
+      "end": 1006
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 1013,
+      "end": 1020
+    },
+    {
+      "text": "patients",
+      "type": "ENTITY",
+      "start": 1030,
+      "end": 1038
+    },
+    {
+      "text": "unit number",
+      "type": "ENTITY",
+      "start": 1048,
+      "end": 1059
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 1069,
+      "end": 1076
+    },
+    {
+      "text": "gram kidney",
+      "type": "ENTITY",
+      "start": 1117,
+      "end": 1128
+    },
+    {
+      "text": "ureter",
+      "type": "ENTITY",
+      "start": 1157,
+      "end": 1163
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 1176,
+      "end": 1182
+    },
+    {
+      "text": "renal vein",
+      "type": "ENTITY",
+      "start": 1194,
+      "end": 1204
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 1216,
+      "end": 1222
+    },
+    {
+      "text": "renal artery",
+      "type": "ENTITY",
+      "start": 1238,
+      "end": 1250
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 1262,
+      "end": 1268
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 1281,
+      "end": 1289
+    },
+    {
+      "text": "soft tissue resection margin",
+      "type": "ENTITY",
+      "start": 1296,
+      "end": 1324
+    },
+    {
+      "text": "inked black",
+      "type": "ENTITY",
+      "start": 1328,
+      "end": 1339
+    },
+    {
+      "text": "kidney",
+      "type": "ENTITY",
+      "start": 1348,
+      "end": 1354
+    },
+    {
+      "text": "bisected",
+      "type": "ENTITY",
+      "start": 1358,
+      "end": 1366
+    },
+    {
+      "text": "multilobulated",
+      "type": "ENTITY",
+      "start": 1380,
+      "end": 1394
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 1395,
+      "end": 1399
+    },
+    {
+      "text": "lower pole",
+      "type": "ENTITY",
+      "start": 1414,
+      "end": 1424
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 1453,
+      "end": 1457
+    },
+    {
+      "text": "multiple",
+      "type": "ENTITY",
+      "start": 1491,
+      "end": 1499
+    },
+    {
+      "text": "hemorrhaqic foci",
+      "type": "ENTITY",
+      "start": 1500,
+      "end": 1516
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1522,
+      "end": 1527
+    },
+    {
+      "text": "inked resection",
+      "type": "ENTITY",
+      "start": 1557,
+      "end": 1572
+    },
+    {
+      "text": "ureteral margin",
+      "type": "ENTITY",
+      "start": 1591,
+      "end": 1606
+    },
+    {
+      "text": "renal vein margin",
+      "type": "ENTITY",
+      "start": 1625,
+      "end": 1642
+    },
+    {
+      "text": "renal artery margin",
+      "type": "ENTITY",
+      "start": 1662,
+      "end": 1681
+    },
+    {
+      "text": "tumor grossly",
+      "type": "ENTITY",
+      "start": 1687,
+      "end": 1700
+    },
+    {
+      "text": "perirenal adipose tissue",
+      "type": "ENTITY",
+      "start": 1721,
+      "end": 1745
+    },
+    {
+      "text": "tumor grossly",
+      "type": "ENTITY",
+      "start": 1751,
+      "end": 1764
+    },
+    {
+      "text": "renal pelvis",
+      "type": "ENTITY",
+      "start": 1801,
+      "end": 1813
+    },
+    {
+      "text": "renal parenchyma",
+      "type": "ENTITY",
+      "start": 1836,
+      "end": 1852
+    },
+    {
+      "text": "well-demarcated cortical medullary junctions",
+      "type": "ENTITY",
+      "start": 1866,
+      "end": 1910
+    },
+    {
+      "text": "electron microscopy",
+      "type": "ENTITY",
+      "start": 1918,
+      "end": 1937
+    },
+    {
+      "text": "cytogenetic analysis",
+      "type": "ENTITY",
+      "start": 1939,
+      "end": 1959
+    },
+    {
+      "text": "tissue banking",
+      "type": "ENTITY",
+      "start": 1965,
+      "end": 1979
+    },
+    {
+      "text": "representative",
+      "type": "ENTITY",
+      "start": 1983,
+      "end": 1997
+    },
+    {
+      "text": "section",
+      "type": "ENTITY",
+      "start": 1998,
+      "end": 2005
+    },
+    {
+      "text": "normal cortex",
+      "type": "ENTITY",
+      "start": 2009,
+      "end": 2022
+    },
+    {
+      "text": "electron microscopy",
+      "type": "ENTITY",
+      "start": 2040,
+      "end": 2059
+    },
+    {
+      "text": "immunofluorescence",
+      "type": "ENTITY",
+      "start": 2061,
+      "end": 2079
+    },
+    {
+      "text": "tissue banking",
+      "type": "ENTITY",
+      "start": 2085,
+      "end": 2099
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 2105,
+      "end": 2113
+    },
+    {
+      "text": "photographed",
+      "type": "ENTITY",
+      "start": 2117,
+      "end": 2129
+    },
+    {
+      "text": "Representative sections",
+      "type": "ENTITY",
+      "start": 2132,
+      "end": 2155
+    },
+    {
+      "text": "MIcRo",
+      "type": "ENTITY",
+      "start": 2171,
+      "end": 2176
+    },
+    {
+      "text": "Al",
+      "type": "ENTITY",
+      "start": 2177,
+      "end": 2179
+    },
+    {
+      "text": "Ureter",
+      "type": "ENTITY",
+      "start": 2181,
+      "end": 2187
+    },
+    {
+      "text": "renal artery resection margin",
+      "type": "ENTITY",
+      "start": 2200,
+      "end": 2229
+    },
+    {
+      "text": "MICRO A2",
+      "type": "ENTITY",
+      "start": 2240,
+      "end": 2248
+    },
+    {
+      "text": "T1",
+      "type": "ENTITY",
+      "start": 2250,
+      "end": 2252
+    },
+    {
+      "text": "frag",
+      "type": "ENTITY",
+      "start": 2256,
+      "end": 2260
+    },
+    {
+      "text": "MICRO A3",
+      "type": "ENTITY",
+      "start": 2262,
+      "end": 2270
+    },
+    {
+      "text": "T2",
+      "type": "ENTITY",
+      "start": 2272,
+      "end": 2274
+    },
+    {
+      "text": "frag",
+      "type": "ENTITY",
+      "start": 2278,
+      "end": 2282
+    },
+    {
+      "text": "MICRO A4",
+      "type": "ENTITY",
+      "start": 2284,
+      "end": 2292
+    },
+    {
+      "text": "T3",
+      "type": "ENTITY",
+      "start": 2294,
+      "end": 2296
+    },
+    {
+      "text": "frag",
+      "type": "ENTITY",
+      "start": 2300,
+      "end": 2304
+    },
+    {
+      "text": "MIcRo A5-A6",
+      "type": "ENTITY",
+      "start": 2306,
+      "end": 2317
+    },
+    {
+      "text": "Tumor",
+      "type": "ENTITY",
+      "start": 2319,
+      "end": 2324
+    },
+    {
+      "text": "soft tissue resection margin",
+      "type": "ENTITY",
+      "start": 2330,
+      "end": 2358
+    },
+    {
+      "text": "MIcRo",
+      "type": "ENTITY",
+      "start": 2369,
+      "end": 2374
+    },
+    {
+      "text": "A7-A8",
+      "type": "ENTITY",
+      "start": 2375,
+      "end": 2380
+    },
+    {
+      "text": "Tumor",
+      "type": "ENTITY",
+      "start": 2382,
+      "end": 2387
+    },
+    {
+      "text": "perirenal fat frags",
+      "type": "ENTITY",
+      "start": 2403,
+      "end": 2422
+    },
+    {
+      "text": "MIcRo A9",
+      "type": "ENTITY",
+      "start": 2424,
+      "end": 2432
+    },
+    {
+      "text": "Tumor",
+      "type": "ENTITY",
+      "start": 2434,
+      "end": 2439
+    },
+    {
+      "text": "MIcRo A10",
+      "type": "ENTITY",
+      "start": 2470,
+      "end": 2479
+    },
+    {
+      "text": "Tumor",
+      "type": "ENTITY",
+      "start": 2481,
+      "end": 2486
+    },
+    {
+      "text": "adjacent",
+      "type": "ENTITY",
+      "start": 2492,
+      "end": 2500
+    },
+    {
+      "text": "uninvolved",
+      "type": "ENTITY",
+      "start": 2506,
+      "end": 2516
+    },
+    {
+      "text": "rena parenchyma",
+      "type": "ENTITY",
+      "start": 2517,
+      "end": 2532
+    },
+    {
+      "text": "frag",
+      "type": "ENTITY",
+      "start": 2536,
+      "end": 2540
+    },
+    {
+      "text": "MIcRo A11",
+      "type": "ENTITY",
+      "start": 2542,
+      "end": 2551
+    },
+    {
+      "text": "Uninvolved renal parenchyma",
+      "type": "ENTITY",
+      "start": 2553,
+      "end": 2580
+    },
+    {
+      "text": "frag",
+      "type": "ENTITY",
+      "start": 2584,
+      "end": 2588
+    },
+    {
+      "text": "Part B",
+      "type": "ENTITY",
+      "start": 2590,
+      "end": 2596
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 2598,
+      "end": 2605
+    },
+    {
+      "text": "regional",
+      "type": "ENTITY",
+      "start": 2607,
+      "end": 2615
+    },
+    {
+      "text": "fragment",
+      "type": "ENTITY",
+      "start": 2650,
+      "end": 2658
+    },
+    {
+      "text": "adipose",
+      "type": "ENTITY",
+      "start": 2662,
+      "end": 2669
+    },
+    {
+      "text": "Final Type",
+      "type": "ENTITY",
+      "start": 2720,
+      "end": 2730
+    },
+    {
+      "text": "Cytogenetics",
+      "type": "ENTITY",
+      "start": 2732,
+      "end": 2744
+    },
+    {
+      "text": "Cytogeneticist",
+      "type": "ENTITY",
+      "start": 2762,
+      "end": 2776
+    },
+    {
+      "text": "TCGA-CZ-5452",
+      "type": "ENTITY",
+      "start": 2778,
+      "end": 2790
+    },
+    {
+      "text": "T1:44,xY,-3,add(6) (q13),-14,add(16) (q22),der(19",
+      "type": "ENTITY",
+      "start": 2802,
+      "end": 2851
+    },
+    {
+      "text": "cp5",
+      "type": "ENTITY",
+      "start": 2935,
+      "end": 2938
+    },
+    {
+      "text": "METAPHASES",
+      "type": "ENTITY",
+      "start": 2940,
+      "end": 2950
+    },
+    {
+      "text": "COUNTED",
+      "type": "ENTITY",
+      "start": 2951,
+      "end": 2958
+    },
+    {
+      "text": "ANALYZED",
+      "type": "ENTITY",
+      "start": 2963,
+      "end": 2971
+    },
+    {
+      "text": "SCORED",
+      "type": "ENTITY",
+      "start": 2976,
+      "end": 2982
+    },
+    {
+      "text": "BANDING",
+      "type": "ENTITY",
+      "start": 2986,
+      "end": 2993
+    },
+    {
+      "text": "GTG INTERPRETATION",
+      "type": "ENTITY",
+      "start": 2995,
+      "end": 3013
+    },
+    {
+      "text": "specimens",
+      "type": "ENTITY",
+      "start": 3030,
+      "end": 3039
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 3048,
+      "end": 3056
+    },
+    {
+      "text": "karyotyped",
+      "type": "ENTITY",
+      "start": 3062,
+      "end": 3072
+    },
+    {
+      "text": "Clonal",
+      "type": "ENTITY",
+      "start": 3075,
+      "end": 3081
+    },
+    {
+      "text": "aberrations",
+      "type": "ENTITY",
+      "start": 3082,
+      "end": 3093
+    },
+    {
+      "text": "loss",
+      "type": "ENTITY",
+      "start": 3108,
+      "end": 3112
+    },
+    {
+      "text": "short arm of chromosome 3",
+      "type": "ENTITY",
+      "start": 3120,
+      "end": 3145
+    },
+    {
+      "text": "cells",
+      "type": "ENTITY",
+      "start": 3182,
+      "end": 3187
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 3197,
+      "end": 3205
+    },
+    {
+      "text": "metaphase cells",
+      "type": "ENTITY",
+      "start": 3236,
+      "end": 3251
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 3268,
+      "end": 3276
+    },
+    {
+      "text": "Loss of chromosome 3",
+      "type": "ENTITY",
+      "start": 3278,
+      "end": 3298
+    },
+    {
+      "text": "finding",
+      "type": "ENTITY",
+      "start": 3312,
+      "end": 3319
+    },
+    {
+      "text": "renal cell carcinoma",
+      "type": "ENTITY",
+      "start": 3323,
+      "end": 3343
+    },
+    {
+      "text": "cell type",
+      "type": "ENTITY",
+      "start": 3351,
+      "end": 3360
+    },
+    {
+      "text": "Mosaicism",
+      "type": "ENTITY",
+      "start": 3373,
+      "end": 3382
+    },
+    {
+      "text": "detectable",
+      "type": "ENTITY",
+      "start": 3425,
+      "end": 3435
+    },
+    {
+      "text": "standard methods",
+      "type": "ENTITY",
+      "start": 3447,
+      "end": 3463
+    },
+    {
+      "text": "Chromosome analysis",
+      "type": "ENTITY",
+      "start": 3474,
+      "end": 3493
+    },
+    {
+      "text": "ievel",
+      "type": "ENTITY",
+      "start": 3513,
+      "end": 3518
+    },
+    {
+      "text": "RCC",
+      "type": "ENTITY",
+      "start": 3565,
+      "end": 3568
+    }
+  ],
+  "entity_count": 163,
+  "has_embedding": true
+}

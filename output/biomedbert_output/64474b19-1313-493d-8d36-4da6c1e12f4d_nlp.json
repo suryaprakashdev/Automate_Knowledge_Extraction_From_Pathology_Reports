@@ -1,0 +1,908 @@
+{
+  "filename": "64474b19-1313-493d-8d36-4da6c1e12f4d",
+  "timestamp": "2026-01-05T14:45:32.541415",
+  "entities": [
+    {
+      "text": "cacinom",
+      "type": "ENTITY",
+      "start": 24,
+      "end": 31
+    },
+    {
+      "text": "c50.9",
+      "type": "ENTITY",
+      "start": 82,
+      "end": 87
+    },
+    {
+      "text": "Diagnosis",
+      "type": "ENTITY",
+      "start": 102,
+      "end": 111
+    },
+    {
+      "text": "A. Lymph node",
+      "type": "ENTITY",
+      "start": 112,
+      "end": 125
+    },
+    {
+      "text": "left axillary sentinel No. 1",
+      "type": "ENTITY",
+      "start": 127,
+      "end": 155
+    },
+    {
+      "text": "biopsy",
+      "type": "ENTITY",
+      "start": 157,
+      "end": 163
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 211,
+      "end": 219
+    },
+    {
+      "text": "metastatic carcinoma",
+      "type": "ENTITY",
+      "start": 224,
+      "end": 244
+    },
+    {
+      "text": "Blue dye",
+      "type": "ENTITY",
+      "start": 246,
+      "end": 254
+    },
+    {
+      "text": "identified",
+      "type": "ENTITY",
+      "start": 258,
+      "end": 268
+    },
+    {
+      "text": "Immunohistochemical",
+      "type": "ENTITY",
+      "start": 270,
+      "end": 289
+    },
+    {
+      "text": "paraffin",
+      "type": "ENTITY",
+      "start": 329,
+      "end": 337
+    },
+    {
+      "text": "embedded",
+      "type": "ENTITY",
+      "start": 338,
+      "end": 346
+    },
+    {
+      "text": "H&E",
+      "type": "ENTITY",
+      "start": 391,
+      "end": 394
+    },
+    {
+      "text": "impression",
+      "type": "ENTITY",
+      "start": 395,
+      "end": 405
+    },
+    {
+      "text": "B. Lymph node",
+      "type": "ENTITY",
+      "start": 407,
+      "end": 420
+    },
+    {
+      "text": "left axillary sentinel No. 2",
+      "type": "ENTITY",
+      "start": 422,
+      "end": 450
+    },
+    {
+      "text": "biopsy",
+      "type": "ENTITY",
+      "start": 452,
+      "end": 458
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 506,
+      "end": 514
+    },
+    {
+      "text": "metastatic carcinoma",
+      "type": "ENTITY",
+      "start": 519,
+      "end": 539
+    },
+    {
+      "text": "Blue dye",
+      "type": "ENTITY",
+      "start": 541,
+      "end": 549
+    },
+    {
+      "text": "identified",
+      "type": "ENTITY",
+      "start": 553,
+      "end": 563
+    },
+    {
+      "text": "Immunohistochemical",
+      "type": "ENTITY",
+      "start": 565,
+      "end": 584
+    },
+    {
+      "text": "paraffin",
+      "type": "ENTITY",
+      "start": 624,
+      "end": 632
+    },
+    {
+      "text": "embedded",
+      "type": "ENTITY",
+      "start": 633,
+      "end": 641
+    },
+    {
+      "text": "H&E",
+      "type": "ENTITY",
+      "start": 686,
+      "end": 689
+    },
+    {
+      "text": "impression",
+      "type": "ENTITY",
+      "start": 690,
+      "end": 700
+    },
+    {
+      "text": "C. Breast",
+      "type": "ENTITY",
+      "start": 702,
+      "end": 711
+    },
+    {
+      "text": "left",
+      "type": "ENTITY",
+      "start": 713,
+      "end": 717
+    },
+    {
+      "text": "simple mastectomy",
+      "type": "ENTITY",
+      "start": 719,
+      "end": 736
+    },
+    {
+      "text": "Infiltrating lobular carcinoma",
+      "type": "ENTITY",
+      "start": 738,
+      "end": 768
+    },
+    {
+      "text": "Nottingham grade I",
+      "type": "ENTITY",
+      "start": 770,
+      "end": 788
+    },
+    {
+      "text": "tubules",
+      "type": "ENTITY",
+      "start": 799,
+      "end": 806
+    },
+    {
+      "text": "nuclei",
+      "type": "ENTITY",
+      "start": 812,
+      "end": 818
+    },
+    {
+      "text": "mitoses",
+      "type": "ENTITY",
+      "start": 824,
+      "end": 831
+    },
+    {
+      "text": "Nottingham score",
+      "type": "ENTITY",
+      "start": 837,
+      "end": 853
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 902,
+      "end": 906
+    },
+    {
+      "text": "lower outer quadrant",
+      "type": "ENTITY",
+      "start": 922,
+      "end": 942
+    },
+    {
+      "text": "breast",
+      "type": "ENTITY",
+      "start": 950,
+      "end": 956
+    },
+    {
+      "text": "Ductal carcinoma",
+      "type": "ENTITY",
+      "start": 958,
+      "end": 974
+    },
+    {
+      "text": "in situ",
+      "type": "ENTITY",
+      "start": 975,
+      "end": 982
+    },
+    {
+      "text": "absent",
+      "type": "ENTITY",
+      "start": 986,
+      "end": 992
+    },
+    {
+      "text": "Lobular carcinoma",
+      "type": "ENTITY",
+      "start": 994,
+      "end": 1011
+    },
+    {
+      "text": "in situ",
+      "type": "ENTITY",
+      "start": 1012,
+      "end": 1019
+    },
+    {
+      "text": "Angiolymphatic invasion",
+      "type": "ENTITY",
+      "start": 1032,
+      "end": 1055
+    },
+    {
+      "text": "absent",
+      "type": "ENTITY",
+      "start": 1059,
+      "end": 1065
+    },
+    {
+      "text": "non-neoplastic breast parenchyma",
+      "type": "ENTITY",
+      "start": 1071,
+      "end": 1103
+    },
+    {
+      "text": "fibrocystic changes",
+      "type": "ENTITY",
+      "start": 1110,
+      "end": 1129
+    },
+    {
+      "text": "hyalinized fibroadenoma",
+      "type": "ENTITY",
+      "start": 1136,
+      "end": 1159
+    },
+    {
+      "text": "lower inner quadrant",
+      "type": "ENTITY",
+      "start": 1181,
+      "end": 1201
+    },
+    {
+      "text": "Calcifications",
+      "type": "ENTITY",
+      "start": 1204,
+      "end": 1218
+    },
+    {
+      "text": "benign ducts",
+      "type": "ENTITY",
+      "start": 1230,
+      "end": 1242
+    },
+    {
+      "text": "acini",
+      "type": "ENTITY",
+      "start": 1247,
+      "end": 1252
+    },
+    {
+      "text": "Biopsy site",
+      "type": "ENTITY",
+      "start": 1254,
+      "end": 1265
+    },
+    {
+      "text": "changes",
+      "type": "ENTITY",
+      "start": 1266,
+      "end": 1273
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1287,
+      "end": 1292
+    },
+    {
+      "text": "nipple",
+      "type": "ENTITY",
+      "start": 1314,
+      "end": 1320
+    },
+    {
+      "text": "overlying skin",
+      "type": "ENTITY",
+      "start": 1322,
+      "end": 1336
+    },
+    {
+      "text": "chest wall",
+      "type": "ENTITY",
+      "start": 1352,
+      "end": 1362
+    },
+    {
+      "text": "surgical resection margins",
+      "type": "ENTITY",
+      "start": 1368,
+      "end": 1394
+    },
+    {
+      "text": "deep margin",
+      "type": "ENTITY",
+      "start": 1410,
+      "end": 1421
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 1427,
+      "end": 1435
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1440,
+      "end": 1445
+    },
+    {
+      "text": "minimum tumor free margin",
+      "type": "ENTITY",
+      "start": 1447,
+      "end": 1472
+    },
+    {
+      "text": "anterior",
+      "type": "ENTITY",
+      "start": 1482,
+      "end": 1490
+    },
+    {
+      "text": "margin",
+      "type": "ENTITY",
+      "start": 1491,
+      "end": 1497
+    },
+    {
+      "text": "surgical material",
+      "type": "ENTITY",
+      "start": 1515,
+      "end": 1532
+    },
+    {
+      "text": "AJCC",
+      "type": "ENTITY",
+      "start": 1534,
+      "end": 1538
+    },
+    {
+      "text": "D. Lymph node",
+      "type": "ENTITY",
+      "start": 1555,
+      "end": 1568
+    },
+    {
+      "text": "right axillary sentinel No. 1",
+      "type": "ENTITY",
+      "start": 1570,
+      "end": 1599
+    },
+    {
+      "text": "biopsy",
+      "type": "ENTITY",
+      "start": 1601,
+      "end": 1607
+    },
+    {
+      "text": "single right axillary sentinel lymph node",
+      "type": "ENTITY",
+      "start": 1611,
+      "end": 1652
+    },
+    {
+      "text": "positive",
+      "type": "ENTITY",
+      "start": 1656,
+      "end": 1664
+    },
+    {
+      "text": "isolated",
+      "type": "ENTITY",
+      "start": 1669,
+      "end": 1677
+    },
+    {
+      "text": "cells",
+      "type": "ENTITY",
+      "start": 1705,
+      "end": 1710
+    },
+    {
+      "text": "H&E",
+      "type": "ENTITY",
+      "start": 1715,
+      "end": 1718
+    },
+    {
+      "text": "cytokeratin",
+      "type": "ENTITY",
+      "start": 1723,
+      "end": 1734
+    },
+    {
+      "text": "immunostaining",
+      "type": "ENTITY",
+      "start": 1735,
+      "end": 1749
+    },
+    {
+      "text": "Blue dye",
+      "type": "ENTITY",
+      "start": 1751,
+      "end": 1759
+    },
+    {
+      "text": "identified",
+      "type": "ENTITY",
+      "start": 1763,
+      "end": 1773
+    },
+    {
+      "text": "E. Lymph node",
+      "type": "ENTITY",
+      "start": 1776,
+      "end": 1789
+    },
+    {
+      "text": "right axillary sentinel No. 2",
+      "type": "ENTITY",
+      "start": 1791,
+      "end": 1820
+    },
+    {
+      "text": "biopsy",
+      "type": "ENTITY",
+      "start": 1822,
+      "end": 1828
+    },
+    {
+      "text": "single right axillary sentinel lymph node",
+      "type": "ENTITY",
+      "start": 1832,
+      "end": 1873
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 1877,
+      "end": 1885
+    },
+    {
+      "text": "metastatic carcinoma",
+      "type": "ENTITY",
+      "start": 1890,
+      "end": 1910
+    },
+    {
+      "text": "Blue dye",
+      "type": "ENTITY",
+      "start": 1912,
+      "end": 1920
+    },
+    {
+      "text": "Immunohistochemical",
+      "type": "ENTITY",
+      "start": 1940,
+      "end": 1959
+    },
+    {
+      "text": "paraffin",
+      "type": "ENTITY",
+      "start": 1999,
+      "end": 2007
+    },
+    {
+      "text": "embedded",
+      "type": "ENTITY",
+      "start": 2008,
+      "end": 2016
+    },
+    {
+      "text": "H&E",
+      "type": "ENTITY",
+      "start": 2061,
+      "end": 2064
+    },
+    {
+      "text": "impression",
+      "type": "ENTITY",
+      "start": 2065,
+      "end": 2075
+    },
+    {
+      "text": "F. Lymph node",
+      "type": "ENTITY",
+      "start": 2078,
+      "end": 2091
+    },
+    {
+      "text": "right axillary",
+      "type": "ENTITY",
+      "start": 2093,
+      "end": 2107
+    },
+    {
+      "text": "biopsy",
+      "type": "ENTITY",
+      "start": 2109,
+      "end": 2115
+    },
+    {
+      "text": "single right",
+      "type": "ENTITY",
+      "start": 2119,
+      "end": 2131
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 2155,
+      "end": 2163
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 2168,
+      "end": 2173
+    },
+    {
+      "text": "G. Breast",
+      "type": "ENTITY",
+      "start": 2175,
+      "end": 2184
+    },
+    {
+      "text": "right",
+      "type": "ENTITY",
+      "start": 2186,
+      "end": 2191
+    },
+    {
+      "text": "simple mastectomy",
+      "type": "ENTITY",
+      "start": 2193,
+      "end": 2210
+    },
+    {
+      "text": "Infiltrating lobular carcinoma",
+      "type": "ENTITY",
+      "start": 2212,
+      "end": 2242
+    },
+    {
+      "text": "Nottingham grade I",
+      "type": "ENTITY",
+      "start": 2244,
+      "end": 2262
+    },
+    {
+      "text": "tubules",
+      "type": "ENTITY",
+      "start": 2273,
+      "end": 2280
+    },
+    {
+      "text": "nuclei",
+      "type": "ENTITY",
+      "start": 2286,
+      "end": 2292
+    },
+    {
+      "text": "mitoses",
+      "type": "ENTITY",
+      "start": 2298,
+      "end": 2305
+    },
+    {
+      "text": "Nottingham score",
+      "type": "ENTITY",
+      "start": 2311,
+      "end": 2327
+    },
+    {
+      "text": "multinodular",
+      "type": "ENTITY",
+      "start": 2374,
+      "end": 2386
+    },
+    {
+      "text": "irregular",
+      "type": "ENTITY",
+      "start": 2388,
+      "end": 2397
+    },
+    {
+      "text": "ill-defined",
+      "type": "ENTITY",
+      "start": 2399,
+      "end": 2410
+    },
+    {
+      "text": "biopsy site",
+      "type": "ENTITY",
+      "start": 2421,
+      "end": 2432
+    },
+    {
+      "text": "changes",
+      "type": "ENTITY",
+      "start": 2433,
+      "end": 2440
+    },
+    {
+      "text": "multiple",
+      "type": "ENTITY",
+      "start": 2451,
+      "end": 2459
+    },
+    {
+      "text": "quadrants",
+      "type": "ENTITY",
+      "start": 2460,
+      "end": 2469
+    },
+    {
+      "text": "Iateral aspect",
+      "type": "ENTITY",
+      "start": 2479,
+      "end": 2493
+    },
+    {
+      "text": "breast",
+      "type": "ENTITY",
+      "start": 2501,
+      "end": 2507
+    },
+    {
+      "text": "upper inner quadrant",
+      "type": "ENTITY",
+      "start": 2515,
+      "end": 2535
+    },
+    {
+      "text": "Ductal carcinoma",
+      "type": "ENTITY",
+      "start": 2537,
+      "end": 2553
+    },
+    {
+      "text": "in situ",
+      "type": "ENTITY",
+      "start": 2554,
+      "end": 2561
+    },
+    {
+      "text": "absent",
+      "type": "ENTITY",
+      "start": 2565,
+      "end": 2571
+    },
+    {
+      "text": "Lobular carcinoma",
+      "type": "ENTITY",
+      "start": 2573,
+      "end": 2590
+    },
+    {
+      "text": "in situ",
+      "type": "ENTITY",
+      "start": 2591,
+      "end": 2598
+    },
+    {
+      "text": "Angiolymphatic invasion",
+      "type": "ENTITY",
+      "start": 2611,
+      "end": 2634
+    },
+    {
+      "text": "absent",
+      "type": "ENTITY",
+      "start": 2638,
+      "end": 2644
+    },
+    {
+      "text": "neoplastic",
+      "type": "ENTITY",
+      "start": 2655,
+      "end": 2665
+    },
+    {
+      "text": "breast parenchyma",
+      "type": "ENTITY",
+      "start": 2666,
+      "end": 2683
+    },
+    {
+      "text": "fibrocystic changes",
+      "type": "ENTITY",
+      "start": 2690,
+      "end": 2709
+    },
+    {
+      "text": "Calcifications",
+      "type": "ENTITY",
+      "start": 2711,
+      "end": 2725
+    },
+    {
+      "text": "benign ducts",
+      "type": "ENTITY",
+      "start": 2737,
+      "end": 2749
+    },
+    {
+      "text": "acini",
+      "type": "ENTITY",
+      "start": 2754,
+      "end": 2759
+    },
+    {
+      "text": "Biopsy site",
+      "type": "ENTITY",
+      "start": 2761,
+      "end": 2772
+    },
+    {
+      "text": "changes",
+      "type": "ENTITY",
+      "start": 2773,
+      "end": 2780
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 2794,
+      "end": 2799
+    },
+    {
+      "text": "nipple",
+      "type": "ENTITY",
+      "start": 2821,
+      "end": 2827
+    },
+    {
+      "text": "overlying skin",
+      "type": "ENTITY",
+      "start": 2829,
+      "end": 2843
+    },
+    {
+      "text": "chest wall",
+      "type": "ENTITY",
+      "start": 2859,
+      "end": 2869
+    },
+    {
+      "text": "surgical resection margins",
+      "type": "ENTITY",
+      "start": 2875,
+      "end": 2901
+    },
+    {
+      "text": "re-excision",
+      "type": "ENTITY",
+      "start": 2909,
+      "end": 2920
+    },
+    {
+      "text": "deep margin",
+      "type": "ENTITY",
+      "start": 2928,
+      "end": 2939
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 2958,
+      "end": 2966
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 2971,
+      "end": 2976
+    },
+    {
+      "text": "minimum tumor free margin",
+      "type": "ENTITY",
+      "start": 2978,
+      "end": 3003
+    },
+    {
+      "text": "deep margin",
+      "type": "ENTITY",
+      "start": 3013,
+      "end": 3024
+    },
+    {
+      "text": "surgical material",
+      "type": "ENTITY",
+      "start": 3042,
+      "end": 3059
+    },
+    {
+      "text": "H. Breast",
+      "type": "ENTITY",
+      "start": 3082,
+      "end": 3091
+    },
+    {
+      "text": "right inferior-lateral chest wall margin",
+      "type": "ENTITY",
+      "start": 3097,
+      "end": 3137
+    },
+    {
+      "text": "re-excision",
+      "type": "ENTITY",
+      "start": 3139,
+      "end": 3150
+    },
+    {
+      "text": "Invasive lobular carcinoma",
+      "type": "ENTITY",
+      "start": 3152,
+      "end": 3178
+    },
+    {
+      "text": "tissue",
+      "type": "ENTITY",
+      "start": 3198,
+      "end": 3204
+    },
+    {
+      "text": "deep margin",
+      "type": "ENTITY",
+      "start": 3234,
+      "end": 3245
+    }
+  ],
+  "entity_count": 150,
+  "has_embedding": true
+}

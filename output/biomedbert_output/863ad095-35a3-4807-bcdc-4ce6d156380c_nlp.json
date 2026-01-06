@@ -1,0 +1,890 @@
+{
+  "filename": "863ad095-35a3-4807-bcdc-4ce6d156380c",
+  "timestamp": "2026-01-05T14:42:01.653518",
+  "entities": [
+    {
+      "text": "A. TERMINAL",
+      "type": "ENTITY",
+      "start": 27,
+      "end": 38
+    },
+    {
+      "text": "RIGHT",
+      "type": "ENTITY",
+      "start": 49,
+      "end": 54
+    },
+    {
+      "text": "DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 76,
+      "end": 85
+    },
+    {
+      "text": "A. RIGHT",
+      "type": "ENTITY",
+      "start": 87,
+      "end": 95
+    },
+    {
+      "text": "TERMINAL",
+      "type": "ENTITY",
+      "start": 106,
+      "end": 114
+    },
+    {
+      "text": "RESECTION",
+      "type": "ENTITY",
+      "start": 122,
+      "end": 131
+    },
+    {
+      "text": "MODERATELY",
+      "type": "ENTITY",
+      "start": 135,
+      "end": 145
+    },
+    {
+      "text": "CM",
+      "type": "ENTITY",
+      "start": 202,
+      "end": 204
+    },
+    {
+      "text": "SUBSEROSAL",
+      "type": "ENTITY",
+      "start": 221,
+      "end": 231
+    },
+    {
+      "text": "FAT",
+      "type": "ENTITY",
+      "start": 232,
+      "end": 235
+    },
+    {
+      "text": "SEE",
+      "type": "ENTITY",
+      "start": 237,
+      "end": 240
+    },
+    {
+      "text": "TEMPLATE",
+      "type": "ENTITY",
+      "start": 241,
+      "end": 249
+    },
+    {
+      "text": "SEVENTEEN",
+      "type": "ENTITY",
+      "start": 253,
+      "end": 262
+    },
+    {
+      "text": "BENIGN LYMPH NODES",
+      "type": "ENTITY",
+      "start": 263,
+      "end": 281
+    },
+    {
+      "text": "MULTIPLE",
+      "type": "ENTITY",
+      "start": 291,
+      "end": 299
+    },
+    {
+      "text": "TUBULAR ADENOMAS",
+      "type": "ENTITY",
+      "start": 300,
+      "end": 316
+    },
+    {
+      "text": "SURGICAL",
+      "type": "ENTITY",
+      "start": 320,
+      "end": 328
+    },
+    {
+      "text": "SMALL BOWEL",
+      "type": "ENTITY",
+      "start": 338,
+      "end": 349
+    },
+    {
+      "text": "ARE",
+      "type": "ENTITY",
+      "start": 363,
+      "end": 366
+    },
+    {
+      "text": "B. GALLBLADDER",
+      "type": "ENTITY",
+      "start": 380,
+      "end": 394
+    },
+    {
+      "text": "EXCISION",
+      "type": "ENTITY",
+      "start": 396,
+      "end": 404
+    },
+    {
+      "text": "CHRONIC",
+      "type": "ENTITY",
+      "start": 408,
+      "end": 415
+    },
+    {
+      "text": "CHOLELITHIASIS",
+      "type": "ENTITY",
+      "start": 416,
+      "end": 430
+    },
+    {
+      "text": "COLORECTAL CANCER",
+      "type": "ENTITY",
+      "start": 432,
+      "end": 449
+    },
+    {
+      "text": "Specimen Type",
+      "type": "ENTITY",
+      "start": 459,
+      "end": 472
+    },
+    {
+      "text": "Right hemicolectomy Tumor Site",
+      "type": "ENTITY",
+      "start": 474,
+      "end": 504
+    },
+    {
+      "text": "Ascending Colon Tumor Configuration",
+      "type": "ENTITY",
+      "start": 506,
+      "end": 541
+    },
+    {
+      "text": "Exophytic Tumor Size",
+      "type": "ENTITY",
+      "start": 543,
+      "end": 563
+    },
+    {
+      "text": "Histological Type",
+      "type": "ENTITY",
+      "start": 584,
+      "end": 601
+    },
+    {
+      "text": "Adenocarcinoma",
+      "type": "ENTITY",
+      "start": 603,
+      "end": 617
+    },
+    {
+      "text": "Histological Grade",
+      "type": "ENTITY",
+      "start": 618,
+      "end": 636
+    },
+    {
+      "text": "Invasion",
+      "type": "ENTITY",
+      "start": 668,
+      "end": 676
+    },
+    {
+      "text": "Focal subserosal adipose tissue",
+      "type": "ENTITY",
+      "start": 678,
+      "end": 709
+    },
+    {
+      "text": "Margins",
+      "type": "ENTITY",
+      "start": 711,
+      "end": 718
+    },
+    {
+      "text": "Uninvolved",
+      "type": "ENTITY",
+      "start": 720,
+      "end": 730
+    },
+    {
+      "text": "Distance",
+      "type": "ENTITY",
+      "start": 731,
+      "end": 739
+    },
+    {
+      "text": "Closest Margin",
+      "type": "ENTITY",
+      "start": 743,
+      "end": 757
+    },
+    {
+      "text": "radial",
+      "type": "ENTITY",
+      "start": 781,
+      "end": 787
+    },
+    {
+      "text": "Angiolymphatic Invasion",
+      "type": "ENTITY",
+      "start": 789,
+      "end": 812
+    },
+    {
+      "text": "Indeterminate",
+      "type": "ENTITY",
+      "start": 814,
+      "end": 827
+    },
+    {
+      "text": "Perineural Invasion",
+      "type": "ENTITY",
+      "start": 828,
+      "end": 847
+    },
+    {
+      "text": "Absent Additional",
+      "type": "ENTITY",
+      "start": 849,
+      "end": 866
+    },
+    {
+      "text": "Findings",
+      "type": "ENTITY",
+      "start": 867,
+      "end": 875
+    },
+    {
+      "text": "tubular adenomas",
+      "type": "ENTITY",
+      "start": 887,
+      "end": 903
+    },
+    {
+      "text": "Extent",
+      "type": "ENTITY",
+      "start": 904,
+      "end": 910
+    },
+    {
+      "text": "Resection",
+      "type": "ENTITY",
+      "start": 914,
+      "end": 923
+    },
+    {
+      "text": "RO",
+      "type": "ENTITY",
+      "start": 925,
+      "end": 927
+    },
+    {
+      "text": "Complete Lymph Nodes",
+      "type": "ENTITY",
+      "start": 929,
+      "end": 949
+    },
+    {
+      "text": "Negative",
+      "type": "ENTITY",
+      "start": 951,
+      "end": 959
+    },
+    {
+      "text": "Implants",
+      "type": "ENTITY",
+      "start": 965,
+      "end": 973
+    },
+    {
+      "text": "Absent Pathological Stage",
+      "type": "ENTITY",
+      "start": 975,
+      "end": 1000
+    },
+    {
+      "text": "pT2 N0 MX SPECIMEN(S): A. TERMINAL",
+      "type": "ENTITY",
+      "start": 1002,
+      "end": 1036
+    },
+    {
+      "text": "RIGHT",
+      "type": "ENTITY",
+      "start": 1047,
+      "end": 1052
+    },
+    {
+      "text": "DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 1132,
+      "end": 1141
+    },
+    {
+      "text": "FSA",
+      "type": "ENTITY",
+      "start": 1143,
+      "end": 1146
+    },
+    {
+      "text": "Colon",
+      "type": "ENTITY",
+      "start": 1148,
+      "end": 1153
+    },
+    {
+      "text": "right",
+      "type": "ENTITY",
+      "start": 1155,
+      "end": 1160
+    },
+    {
+      "text": "terminal",
+      "type": "ENTITY",
+      "start": 1165,
+      "end": 1173
+    },
+    {
+      "text": "ileum",
+      "type": "ENTITY",
+      "start": 1174,
+      "end": 1179
+    },
+    {
+      "text": "resection",
+      "type": "ENTITY",
+      "start": 1181,
+      "end": 1190
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 1197,
+      "end": 1201
+    },
+    {
+      "text": "ascending",
+      "type": "ENTITY",
+      "start": 1205,
+      "end": 1214
+    },
+    {
+      "text": "colon-10",
+      "type": "ENTITY",
+      "start": 1215,
+      "end": 1223
+    },
+    {
+      "text": "distal margin",
+      "type": "ENTITY",
+      "start": 1232,
+      "end": 1245
+    },
+    {
+      "text": "proximal",
+      "type": "ENTITY",
+      "start": 1261,
+      "end": 1269
+    },
+    {
+      "text": "GROSS DESCRIPTION",
+      "type": "ENTITY",
+      "start": 1285,
+      "end": 1302
+    },
+    {
+      "text": "A. TERMINAL",
+      "type": "ENTITY",
+      "start": 1304,
+      "end": 1315
+    },
+    {
+      "text": "RIGHT",
+      "type": "ENTITY",
+      "start": 1326,
+      "end": 1331
+    },
+    {
+      "text": "Received",
+      "type": "ENTITY",
+      "start": 1338,
+      "end": 1346
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 1347,
+      "end": 1352
+    },
+    {
+      "text": "colon",
+      "type": "ENTITY",
+      "start": 1376,
+      "end": 1381
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 1382,
+      "end": 1391
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 1414,
+      "end": 1420
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 1428,
+      "end": 1436
+    },
+    {
+      "text": "serosal surface",
+      "type": "ENTITY",
+      "start": 1454,
+      "end": 1469
+    },
+    {
+      "text": "unremarkable",
+      "type": "ENTITY",
+      "start": 1473,
+      "end": 1485
+    },
+    {
+      "text": "appendix",
+      "type": "ENTITY",
+      "start": 1511,
+      "end": 1519
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 1520,
+      "end": 1529
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 1538,
+      "end": 1544
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 1552,
+      "end": 1560
+    },
+    {
+      "text": "appendix",
+      "type": "ENTITY",
+      "start": 1575,
+      "end": 1583
+    },
+    {
+      "text": "gross abnormalities",
+      "type": "ENTITY",
+      "start": 1593,
+      "end": 1612
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1618,
+      "end": 1626
+    },
+    {
+      "text": "ileum",
+      "type": "ENTITY",
+      "start": 1645,
+      "end": 1650
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 1651,
+      "end": 1659
+    },
+    {
+      "text": "ascending colon",
+      "type": "ENTITY",
+      "start": 1682,
+      "end": 1697
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 1698,
+      "end": 1707
+    },
+    {
+      "text": "oval",
+      "type": "ENTITY",
+      "start": 1747,
+      "end": 1751
+    },
+    {
+      "text": "sessile",
+      "type": "ENTITY",
+      "start": 1752,
+      "end": 1759
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 1765,
+      "end": 1769
+    },
+    {
+      "text": "ascending colon",
+      "type": "ENTITY",
+      "start": 1785,
+      "end": 1800
+    },
+    {
+      "text": "ileocecal junction",
+      "type": "ENTITY",
+      "start": 1834,
+      "end": 1852
+    },
+    {
+      "text": "distal colonic margin",
+      "type": "ENTITY",
+      "start": 1871,
+      "end": 1892
+    },
+    {
+      "text": "proximal",
+      "type": "ENTITY",
+      "start": 1914,
+      "end": 1922
+    },
+    {
+      "text": "margin",
+      "type": "ENTITY",
+      "start": 1923,
+      "end": 1929
+    },
+    {
+      "text": "mesocolonic fat",
+      "type": "ENTITY",
+      "start": 1935,
+      "end": 1950
+    },
+    {
+      "text": "inked black",
+      "type": "ENTITY",
+      "start": 1954,
+      "end": 1965
+    },
+    {
+      "text": "sectioning",
+      "type": "ENTITY",
+      "start": 1973,
+      "end": 1983
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 1988,
+      "end": 1992
+    },
+    {
+      "text": "invade",
+      "type": "ENTITY",
+      "start": 2008,
+      "end": 2014
+    },
+    {
+      "text": "submucosa",
+      "type": "ENTITY",
+      "start": 2024,
+      "end": 2033
+    },
+    {
+      "text": "polyps",
+      "type": "ENTITY",
+      "start": 2056,
+      "end": 2062
+    },
+    {
+      "text": "ascending colon",
+      "type": "ENTITY",
+      "start": 2078,
+      "end": 2093
+    },
+    {
+      "text": "size",
+      "type": "ENTITY",
+      "start": 2106,
+      "end": 2110
+    },
+    {
+      "text": "Representative sections",
+      "type": "ENTITY",
+      "start": 2130,
+      "end": 2153
+    },
+    {
+      "text": "A1",
+      "type": "ENTITY",
+      "start": 2180,
+      "end": 2182
+    },
+    {
+      "text": "proximal margin A2",
+      "type": "ENTITY",
+      "start": 2184,
+      "end": 2202
+    },
+    {
+      "text": "distal margin A3",
+      "type": "ENTITY",
+      "start": 2204,
+      "end": 2220
+    },
+    {
+      "text": "appendix A4",
+      "type": "ENTITY",
+      "start": 2222,
+      "end": 2233
+    },
+    {
+      "text": "polyps",
+      "type": "ENTITY",
+      "start": 2235,
+      "end": 2241
+    },
+    {
+      "text": "A5-A9",
+      "type": "ENTITY",
+      "start": 2242,
+      "end": 2247
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 2249,
+      "end": 2253
+    },
+    {
+      "text": "deep margin",
+      "type": "ENTITY",
+      "start": 2268,
+      "end": 2279
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 2314,
+      "end": 2325
+    },
+    {
+      "text": "size",
+      "type": "ENTITY",
+      "start": 2338,
+      "end": 2342
+    },
+    {
+      "text": "representative",
+      "type": "ENTITY",
+      "start": 2368,
+      "end": 2382
+    },
+    {
+      "text": "section",
+      "type": "ENTITY",
+      "start": 2383,
+      "end": 2390
+    },
+    {
+      "text": "normal colon",
+      "type": "ENTITY",
+      "start": 2394,
+      "end": 2406
+    },
+    {
+      "text": "normal",
+      "type": "ENTITY",
+      "start": 2411,
+      "end": 2417
+    },
+    {
+      "text": "ileum",
+      "type": "ENTITY",
+      "start": 2418,
+      "end": 2423
+    },
+    {
+      "text": "A17",
+      "type": "ENTITY",
+      "start": 2425,
+      "end": 2428
+    },
+    {
+      "text": "representative",
+      "type": "ENTITY",
+      "start": 2430,
+      "end": 2444
+    },
+    {
+      "text": "section",
+      "type": "ENTITY",
+      "start": 2445,
+      "end": 2452
+    },
+    {
+      "text": "ileocecal junction",
+      "type": "ENTITY",
+      "start": 2456,
+      "end": 2474
+    },
+    {
+      "text": "B. GALLBLADDER",
+      "type": "ENTITY",
+      "start": 2476,
+      "end": 2490
+    },
+    {
+      "text": "Received",
+      "type": "ENTITY",
+      "start": 2491,
+      "end": 2499
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 2503,
+      "end": 2511
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 2516,
+      "end": 2523
+    },
+    {
+      "text": "\"gallbladder",
+      "type": "ENTITY",
+      "start": 2527,
+      "end": 2539
+    },
+    {
+      "text": "pink-tan gallbladder",
+      "type": "ENTITY",
+      "start": 2554,
+      "end": 2574
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 2576,
+      "end": 2585
+    },
+    {
+      "text": "serosal surface",
+      "type": "ENTITY",
+      "start": 2610,
+      "end": 2625
+    },
+    {
+      "text": "smooth",
+      "type": "ENTITY",
+      "start": 2629,
+      "end": 2635
+    },
+    {
+      "text": "mucosal",
+      "type": "ENTITY",
+      "start": 2669,
+      "end": 2676
+    },
+    {
+      "text": "pink-tan coloration",
+      "type": "ENTITY",
+      "start": 2691,
+      "end": 2710
+    },
+    {
+      "text": "granular/polypoid",
+      "type": "ENTITY",
+      "start": 2726,
+      "end": 2743
+    },
+    {
+      "text": "appearance",
+      "type": "ENTITY",
+      "start": 2744,
+      "end": 2754
+    },
+    {
+      "text": "gallbladder walls",
+      "type": "ENTITY",
+      "start": 2760,
+      "end": 2777
+    },
+    {
+      "text": "measure",
+      "type": "ENTITY",
+      "start": 2778,
+      "end": 2785
+    },
+    {
+      "text": "No masses",
+      "type": "ENTITY",
+      "start": 2800,
+      "end": 2809
+    },
+    {
+      "text": "lesions",
+      "type": "ENTITY",
+      "start": 2813,
+      "end": 2820
+    },
+    {
+      "text": "irregularly",
+      "type": "ENTITY",
+      "start": 2852,
+      "end": 2863
+    },
+    {
+      "text": "stone",
+      "type": "ENTITY",
+      "start": 2882,
+      "end": 2887
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 2888,
+      "end": 2897
+    },
+    {
+      "text": "approximately",
+      "type": "ENTITY",
+      "start": 2898,
+      "end": 2911
+    },
+    {
+      "text": "Representative sections",
+      "type": "ENTITY",
+      "start": 2931,
+      "end": 2954
+    },
+    {
+      "text": "blocks",
+      "type": "ENTITY",
+      "start": 2972,
+      "end": 2978
+    }
+  ],
+  "entity_count": 147,
+  "has_embedding": true
+}

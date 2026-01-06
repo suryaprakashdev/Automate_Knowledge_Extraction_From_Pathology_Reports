@@ -1,0 +1,3590 @@
+{
+  "filename": "d61b20ff-3104-4a45-a697-baef1ab946c1",
+  "timestamp": "2026-01-05T14:42:28.497512",
+  "entities": [
+    {
+      "text": "Patient",
+      "type": "ENTITY",
+      "start": 16,
+      "end": 23
+    },
+    {
+      "text": "Physician",
+      "type": "ENTITY",
+      "start": 35,
+      "end": 44
+    },
+    {
+      "text": "UUID",
+      "type": "ENTITY",
+      "start": 46,
+      "end": 50
+    },
+    {
+      "text": "C2A0E948-289E-4E49-90C4",
+      "type": "ENTITY",
+      "start": 51,
+      "end": 74
+    },
+    {
+      "text": "TCGA-AC-A2QH-01A-PR",
+      "type": "ENTITY",
+      "start": 89,
+      "end": 108
+    },
+    {
+      "text": "DOB",
+      "type": "ENTITY",
+      "start": 118,
+      "end": 121
+    },
+    {
+      "text": "Patient",
+      "type": "ENTITY",
+      "start": 129,
+      "end": 136
+    },
+    {
+      "text": "Location",
+      "type": "ENTITY",
+      "start": 137,
+      "end": 145
+    },
+    {
+      "text": "Date of Service",
+      "type": "ENTITY",
+      "start": 147,
+      "end": 162
+    },
+    {
+      "text": "Outpatient",
+      "type": "ENTITY",
+      "start": 179,
+      "end": 189
+    },
+    {
+      "text": "Room",
+      "type": "ENTITY",
+      "start": 198,
+      "end": 202
+    },
+    {
+      "text": "Bed",
+      "type": "ENTITY",
+      "start": 204,
+      "end": 207
+    },
+    {
+      "text": "copy of",
+      "type": "ENTITY",
+      "start": 227,
+      "end": 234
+    },
+    {
+      "text": "report",
+      "type": "ENTITY",
+      "start": 240,
+      "end": 246
+    },
+    {
+      "text": "Diagnosis",
+      "type": "ENTITY",
+      "start": 295,
+      "end": 304
+    },
+    {
+      "text": "A. LEft breast",
+      "type": "ENTITY",
+      "start": 306,
+      "end": 320
+    },
+    {
+      "text": "Multiple",
+      "type": "ENTITY",
+      "start": 357,
+      "end": 365
+    },
+    {
+      "text": "intraductal papillomas",
+      "type": "ENTITY",
+      "start": 366,
+      "end": 388
+    },
+    {
+      "text": "atypical ductal hyperplasia",
+      "type": "ENTITY",
+      "start": 394,
+      "end": 421
+    },
+    {
+      "text": "ADH",
+      "type": "ENTITY",
+      "start": 423,
+      "end": 426
+    },
+    {
+      "text": "Radial scar",
+      "type": "ENTITY",
+      "start": 431,
+      "end": 442
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 452,
+      "end": 460
+    },
+    {
+      "text": "Fibrosis",
+      "type": "ENTITY",
+      "start": 464,
+      "end": 472
+    },
+    {
+      "text": "cysts",
+      "type": "ENTITY",
+      "start": 474,
+      "end": 479
+    },
+    {
+      "text": "apocrine metaplasia",
+      "type": "ENTITY",
+      "start": 481,
+      "end": 500
+    },
+    {
+      "text": "sclerosing adenosis",
+      "type": "ENTITY",
+      "start": 506,
+      "end": 525
+    },
+    {
+      "text": "Skin",
+      "type": "ENTITY",
+      "start": 529,
+      "end": 533
+    },
+    {
+      "text": "seborrheic keratosis",
+      "type": "ENTITY",
+      "start": 539,
+      "end": 559
+    },
+    {
+      "text": "No",
+      "type": "ENTITY",
+      "start": 563,
+      "end": 565
+    },
+    {
+      "text": "invasive carcinoma",
+      "type": "ENTITY",
+      "start": 566,
+      "end": 584
+    },
+    {
+      "text": "identified",
+      "type": "ENTITY",
+      "start": 588,
+      "end": 598
+    },
+    {
+      "text": "Unremarkable",
+      "type": "ENTITY",
+      "start": 602,
+      "end": 614
+    },
+    {
+      "text": "intramammary",
+      "type": "ENTITY",
+      "start": 615,
+      "end": 627
+    },
+    {
+      "text": "Iymph node",
+      "type": "ENTITY",
+      "start": 628,
+      "end": 638
+    },
+    {
+      "text": "AXILLARY LYMPH NODES",
+      "type": "ENTITY",
+      "start": 675,
+      "end": 695
+    },
+    {
+      "text": "MODIFIED RADICAL MASTECTOMY",
+      "type": "ENTITY",
+      "start": 697,
+      "end": 724
+    },
+    {
+      "text": "Invasive",
+      "type": "ENTITY",
+      "start": 728,
+      "end": 736
+    },
+    {
+      "text": "high-grade sarcomatoid (metaplastic) carcinoma",
+      "type": "ENTITY",
+      "start": 737,
+      "end": 783
+    },
+    {
+      "text": "matrix-producing carcinoma",
+      "type": "ENTITY",
+      "start": 799,
+      "end": 825
+    },
+    {
+      "text": "Invasive",
+      "type": "ENTITY",
+      "start": 830,
+      "end": 838
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 845,
+      "end": 853
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 863,
+      "end": 871
+    },
+    {
+      "text": "Lymphatic",
+      "type": "ENTITY",
+      "start": 876,
+      "end": 885
+    },
+    {
+      "text": "invasion",
+      "type": "ENTITY",
+      "start": 886,
+      "end": 894
+    },
+    {
+      "text": "identified",
+      "type": "ENTITY",
+      "start": 898,
+      "end": 908
+    },
+    {
+      "text": "periphery",
+      "type": "ENTITY",
+      "start": 918,
+      "end": 927
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 935,
+      "end": 940
+    },
+    {
+      "text": "Resection",
+      "type": "ENTITY",
+      "start": 944,
+      "end": 953
+    },
+    {
+      "text": "margins",
+      "type": "ENTITY",
+      "start": 954,
+      "end": 961
+    },
+    {
+      "text": "invasive carcinoma",
+      "type": "ENTITY",
+      "start": 981,
+      "end": 999
+    },
+    {
+      "text": "Invasive carcinoma",
+      "type": "ENTITY",
+      "start": 1009,
+      "end": 1027
+    },
+    {
+      "text": "inferior",
+      "type": "ENTITY",
+      "start": 1070,
+      "end": 1078
+    },
+    {
+      "text": "margins",
+      "type": "ENTITY",
+      "start": 1117,
+      "end": 1124
+    },
+    {
+      "text": "Twenty-two",
+      "type": "ENTITY",
+      "start": 1128,
+      "end": 1138
+    },
+    {
+      "text": "axillary lymph nodes",
+      "type": "ENTITY",
+      "start": 1139,
+      "end": 1159
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1164,
+      "end": 1169
+    },
+    {
+      "text": "PATHOLOGIC TUMOR STAGING",
+      "type": "ENTITY",
+      "start": 1186,
+      "end": 1210
+    },
+    {
+      "text": "Type",
+      "type": "ENTITY",
+      "start": 1221,
+      "end": 1225
+    },
+    {
+      "text": "invasive",
+      "type": "ENTITY",
+      "start": 1237,
+      "end": 1245
+    },
+    {
+      "text": "High-grade sarcomatoid carcinoma",
+      "type": "ENTITY",
+      "start": 1248,
+      "end": 1280
+    },
+    {
+      "text": "subtypes",
+      "type": "ENTITY",
+      "start": 1327,
+      "end": 1335
+    },
+    {
+      "text": "metaplastic carcinoma",
+      "type": "ENTITY",
+      "start": 1339,
+      "end": 1360
+    },
+    {
+      "text": "Primary tumor",
+      "type": "ENTITY",
+      "start": 1364,
+      "end": 1377
+    },
+    {
+      "text": "pT3",
+      "type": "ENTITY",
+      "start": 1379,
+      "end": 1382
+    },
+    {
+      "text": "Regional",
+      "type": "ENTITY",
+      "start": 1385,
+      "end": 1393
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 1394,
+      "end": 1405
+    },
+    {
+      "text": "pNO",
+      "type": "ENTITY",
+      "start": 1407,
+      "end": 1410
+    },
+    {
+      "text": "Distant metastasis",
+      "type": "ENTITY",
+      "start": 1413,
+      "end": 1431
+    },
+    {
+      "text": "pMX",
+      "type": "ENTITY",
+      "start": 1433,
+      "end": 1436
+    },
+    {
+      "text": "Pathologic stage",
+      "type": "ENTITY",
+      "start": 1438,
+      "end": 1454
+    },
+    {
+      "text": "liB.. Lymphovascular invasion",
+      "type": "ENTITY",
+      "start": 1456,
+      "end": 1485
+    },
+    {
+      "text": "Identified",
+      "type": "ENTITY",
+      "start": 1487,
+      "end": 1497
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1516,
+      "end": 1521
+    },
+    {
+      "text": "Margin status",
+      "type": "ENTITY",
+      "start": 1523,
+      "end": 1536
+    },
+    {
+      "text": "Negative",
+      "type": "ENTITY",
+      "start": 1538,
+      "end": 1546
+    },
+    {
+      "text": "R0",
+      "type": "ENTITY",
+      "start": 1548,
+      "end": 1550
+    },
+    {
+      "text": "report",
+      "type": "ENTITY",
+      "start": 1582,
+      "end": 1588
+    },
+    {
+      "text": "Patient",
+      "type": "ENTITY",
+      "start": 1633,
+      "end": 1640
+    },
+    {
+      "text": "invasive carcinoma",
+      "type": "ENTITY",
+      "start": 1711,
+      "end": 1729
+    },
+    {
+      "text": "characterized",
+      "type": "ENTITY",
+      "start": 1733,
+      "end": 1746
+    },
+    {
+      "text": "solid sheets",
+      "type": "ENTITY",
+      "start": 1750,
+      "end": 1762
+    },
+    {
+      "text": "high-grade",
+      "type": "ENTITY",
+      "start": 1766,
+      "end": 1776
+    },
+    {
+      "text": "tumor cells",
+      "type": "ENTITY",
+      "start": 1809,
+      "end": 1820
+    },
+    {
+      "text": "spindle cell",
+      "type": "ENTITY",
+      "start": 1836,
+      "end": 1848
+    },
+    {
+      "text": "morphology",
+      "type": "ENTITY",
+      "start": 1849,
+      "end": 1859
+    },
+    {
+      "text": "malignant cells",
+      "type": "ENTITY",
+      "start": 1889,
+      "end": 1904
+    },
+    {
+      "text": "vaguely epithelioid",
+      "type": "ENTITY",
+      "start": 1912,
+      "end": 1931
+    },
+    {
+      "text": "rounded",
+      "type": "ENTITY",
+      "start": 1933,
+      "end": 1940
+    },
+    {
+      "text": "shapes",
+      "type": "ENTITY",
+      "start": 1942,
+      "end": 1948
+    },
+    {
+      "text": "anaplastic",
+      "type": "ENTITY",
+      "start": 1966,
+      "end": 1976
+    },
+    {
+      "text": "necrosis",
+      "type": "ENTITY",
+      "start": 2023,
+      "end": 2031
+    },
+    {
+      "text": "glandular differentiation",
+      "type": "ENTITY",
+      "start": 2063,
+      "end": 2088
+    },
+    {
+      "text": "morphologic",
+      "type": "ENTITY",
+      "start": 2105,
+      "end": 2116
+    },
+    {
+      "text": "appearance",
+      "type": "ENTITY",
+      "start": 2117,
+      "end": 2127
+    },
+    {
+      "text": "areas",
+      "type": "ENTITY",
+      "start": 2137,
+      "end": 2142
+    },
+    {
+      "text": "designation",
+      "type": "ENTITY",
+      "start": 2162,
+      "end": 2173
+    },
+    {
+      "text": "sarcomatoid",
+      "type": "ENTITY",
+      "start": 2177,
+      "end": 2188
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 2229,
+      "end": 2234
+    },
+    {
+      "text": "malignant cells",
+      "type": "ENTITY",
+      "start": 2243,
+      "end": 2258
+    },
+    {
+      "text": "proximity",
+      "type": "ENTITY",
+      "start": 2276,
+      "end": 2285
+    },
+    {
+      "text": "blue-gray chondromyxoid",
+      "type": "ENTITY",
+      "start": 2289,
+      "end": 2312
+    },
+    {
+      "text": "hyaline matrix",
+      "type": "ENTITY",
+      "start": 2316,
+      "end": 2330
+    },
+    {
+      "text": "focal",
+      "type": "ENTITY",
+      "start": 2357,
+      "end": 2362
+    },
+    {
+      "text": "matrix-producing carcinoma",
+      "type": "ENTITY",
+      "start": 2363,
+      "end": 2389
+    },
+    {
+      "text": "subtype",
+      "type": "ENTITY",
+      "start": 2399,
+      "end": 2406
+    },
+    {
+      "text": "metaplastic breast carcinoma",
+      "type": "ENTITY",
+      "start": 2410,
+      "end": 2438
+    },
+    {
+      "text": "Immunohistochemical staining",
+      "type": "ENTITY",
+      "start": 2440,
+      "end": 2468
+    },
+    {
+      "text": "scattered",
+      "type": "ENTITY",
+      "start": 2480,
+      "end": 2489
+    },
+    {
+      "text": "tumor cells",
+      "type": "ENTITY",
+      "start": 2490,
+      "end": 2501
+    },
+    {
+      "text": "positive",
+      "type": "ENTITY",
+      "start": 2508,
+      "end": 2516
+    },
+    {
+      "text": "p63",
+      "type": "ENTITY",
+      "start": 2521,
+      "end": 2524
+    },
+    {
+      "text": "CK5/6",
+      "type": "ENTITY",
+      "start": 2529,
+      "end": 2534
+    },
+    {
+      "text": "designation",
+      "type": "ENTITY",
+      "start": 2550,
+      "end": 2561
+    },
+    {
+      "text": "metaplastic carcinoma",
+      "type": "ENTITY",
+      "start": 2565,
+      "end": 2586
+    },
+    {
+      "text": "IHC",
+      "type": "ENTITY",
+      "start": 2615,
+      "end": 2618
+    },
+    {
+      "text": "staining",
+      "type": "ENTITY",
+      "start": 2619,
+      "end": 2627
+    },
+    {
+      "text": "biopsy",
+      "type": "ENTITY",
+      "start": 2654,
+      "end": 2660
+    },
+    {
+      "text": "tumor cells",
+      "type": "ENTITY",
+      "start": 2679,
+      "end": 2690
+    },
+    {
+      "text": "positive",
+      "type": "ENTITY",
+      "start": 2695,
+      "end": 2703
+    },
+    {
+      "text": "smooth muscle actin",
+      "type": "ENTITY",
+      "start": 2708,
+      "end": 2727
+    },
+    {
+      "text": "metaplastic sarcomatoid carcinoma",
+      "type": "ENTITY",
+      "start": 2755,
+      "end": 2788
+    },
+    {
+      "text": "immunohistochemical",
+      "type": "ENTITY",
+      "start": 2803,
+      "end": 2822
+    },
+    {
+      "text": "evidence",
+      "type": "ENTITY",
+      "start": 2823,
+      "end": 2831
+    },
+    {
+      "text": "differentiatlon",
+      "type": "ENTITY",
+      "start": 2835,
+      "end": 2850
+    },
+    {
+      "text": "myoepithelial",
+      "type": "ENTITY",
+      "start": 2861,
+      "end": 2874
+    },
+    {
+      "text": "phenotype",
+      "type": "ENTITY",
+      "start": 2875,
+      "end": 2884
+    },
+    {
+      "text": "Staining",
+      "type": "ENTITY",
+      "start": 2886,
+      "end": 2894
+    },
+    {
+      "text": "S100",
+      "type": "ENTITY",
+      "start": 2903,
+      "end": 2907
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 2912,
+      "end": 2920
+    },
+    {
+      "text": "tumor cells",
+      "type": "ENTITY",
+      "start": 2924,
+      "end": 2935
+    },
+    {
+      "text": "Focally",
+      "type": "ENTITY",
+      "start": 2937,
+      "end": 2944
+    },
+    {
+      "text": "invasive carcinoma",
+      "type": "ENTITY",
+      "start": 2950,
+      "end": 2968
+    },
+    {
+      "text": "association with",
+      "type": "ENTITY",
+      "start": 2980,
+      "end": 2996
+    },
+    {
+      "text": "fibroepithelial neoplasm",
+      "type": "ENTITY",
+      "start": 2999,
+      "end": 3023
+    },
+    {
+      "text": "portion",
+      "type": "ENTITY",
+      "start": 3027,
+      "end": 3034
+    },
+    {
+      "text": "necrotic",
+      "type": "ENTITY",
+      "start": 3058,
+      "end": 3066
+    },
+    {
+      "text": "stroma",
+      "type": "ENTITY",
+      "start": 3072,
+      "end": 3078
+    },
+    {
+      "text": "fibroepithelial neoplasm",
+      "type": "ENTITY",
+      "start": 3086,
+      "end": 3110
+    },
+    {
+      "text": "hypercellularity",
+      "type": "ENTITY",
+      "start": 3134,
+      "end": 3150
+    },
+    {
+      "text": "granulation tissue",
+      "type": "ENTITY",
+      "start": 3193,
+      "end": 3211
+    },
+    {
+      "text": "lack",
+      "type": "ENTITY",
+      "start": 3217,
+      "end": 3221
+    },
+    {
+      "text": "stromal cellularity",
+      "type": "ENTITY",
+      "start": 3225,
+      "end": 3244
+    },
+    {
+      "text": "lesion",
+      "type": "ENTITY",
+      "start": 3257,
+      "end": 3263
+    },
+    {
+      "text": "fibroepithelial neoplasm",
+      "type": "ENTITY",
+      "start": 3280,
+      "end": 3304
+    },
+    {
+      "text": "fibroadenoma",
+      "type": "ENTITY",
+      "start": 3325,
+      "end": 3337
+    },
+    {
+      "text": "lesion",
+      "type": "ENTITY",
+      "start": 3355,
+      "end": 3361
+    },
+    {
+      "text": "architectural features",
+      "type": "ENTITY",
+      "start": 3371,
+      "end": 3393
+    },
+    {
+      "text": "phyllodes tumor",
+      "type": "ENTITY",
+      "start": 3397,
+      "end": 3412
+    },
+    {
+      "text": "high-grade malignant cells",
+      "type": "ENTITY",
+      "start": 3429,
+      "end": 3455
+    },
+    {
+      "text": "ducts/clefts",
+      "type": "ENTITY",
+      "start": 3477,
+      "end": 3489
+    },
+    {
+      "text": "fibroadenoma",
+      "type": "ENTITY",
+      "start": 3497,
+      "end": 3509
+    },
+    {
+      "text": "carcinoma",
+      "type": "ENTITY",
+      "start": 3531,
+      "end": 3540
+    },
+    {
+      "text": "invading",
+      "type": "ENTITY",
+      "start": 3544,
+      "end": 3552
+    },
+    {
+      "text": "fibroadenoma",
+      "type": "ENTITY",
+      "start": 3562,
+      "end": 3574
+    },
+    {
+      "text": "carcinoma",
+      "type": "ENTITY",
+      "start": 3608,
+      "end": 3617
+    },
+    {
+      "text": "epithelial component",
+      "type": "ENTITY",
+      "start": 3640,
+      "end": 3660
+    },
+    {
+      "text": "fibroadenoma",
+      "type": "ENTITY",
+      "start": 3668,
+      "end": 3680
+    },
+    {
+      "text": "Sarcomatoid carcinomas",
+      "type": "ENTITY",
+      "start": 3715,
+      "end": 3737
+    },
+    {
+      "text": "malignant tumors",
+      "type": "ENTITY",
+      "start": 3749,
+      "end": 3765
+    },
+    {
+      "text": "capability",
+      "type": "ENTITY",
+      "start": 3771,
+      "end": 3781
+    },
+    {
+      "text": "metastasize",
+      "type": "ENTITY",
+      "start": 3785,
+      "end": 3796
+    },
+    {
+      "text": "distant sites",
+      "type": "ENTITY",
+      "start": 3800,
+      "end": 3813
+    },
+    {
+      "text": "hematogenous metastasis",
+      "type": "ENTITY",
+      "start": 3815,
+      "end": 3838
+    },
+    {
+      "text": "sites",
+      "type": "ENTITY",
+      "start": 3842,
+      "end": 3847
+    },
+    {
+      "text": "liver",
+      "type": "ENTITY",
+      "start": 3856,
+      "end": 3861
+    },
+    {
+      "text": "lung",
+      "type": "ENTITY",
+      "start": 3863,
+      "end": 3867
+    },
+    {
+      "text": "brain",
+      "type": "ENTITY",
+      "start": 3869,
+      "end": 3874
+    },
+    {
+      "text": "studies",
+      "type": "ENTITY",
+      "start": 3900,
+      "end": 3907
+    },
+    {
+      "text": "metastasis",
+      "type": "ENTITY",
+      "start": 3924,
+      "end": 3934
+    },
+    {
+      "text": "axillary lymph nodes",
+      "type": "ENTITY",
+      "start": 3938,
+      "end": 3958
+    },
+    {
+      "text": "frequent",
+      "type": "ENTITY",
+      "start": 3982,
+      "end": 3990
+    },
+    {
+      "text": "cases",
+      "type": "ENTITY",
+      "start": 4012,
+      "end": 4017
+    },
+    {
+      "text": "breast carcinoma",
+      "type": "ENTITY",
+      "start": 4021,
+      "end": 4037
+    },
+    {
+      "text": "invasive",
+      "type": "ENTITY",
+      "start": 4044,
+      "end": 4052
+    },
+    {
+      "text": "report",
+      "type": "ENTITY",
+      "start": 4082,
+      "end": 4088
+    },
+    {
+      "text": "Patient",
+      "type": "ENTITY",
+      "start": 4133,
+      "end": 4140
+    },
+    {
+      "text": "REPORT ductal carcinoma",
+      "type": "ENTITY",
+      "start": 4174,
+      "end": 4197
+    },
+    {
+      "text": "NOs",
+      "type": "ENTITY",
+      "start": 4199,
+      "end": 4202
+    },
+    {
+      "text": "Dr.",
+      "type": "ENTITY",
+      "start": 4205,
+      "end": 4208
+    },
+    {
+      "text": "Dr.",
+      "type": "ENTITY",
+      "start": 4211,
+      "end": 4214
+    },
+    {
+      "text": "reviewed",
+      "type": "ENTITY",
+      "start": 4220,
+      "end": 4228
+    },
+    {
+      "text": "slides",
+      "type": "ENTITY",
+      "start": 4244,
+      "end": 4250
+    },
+    {
+      "text": "case",
+      "type": "ENTITY",
+      "start": 4261,
+      "end": 4265
+    },
+    {
+      "text": "diagnosis",
+      "type": "ENTITY",
+      "start": 4287,
+      "end": 4296
+    },
+    {
+      "text": "metaplastic breast carcinoma",
+      "type": "ENTITY",
+      "start": 4300,
+      "end": 4328
+    },
+    {
+      "text": "Pathology Consultation Report Page 3",
+      "type": "ENTITY",
+      "start": 4338,
+      "end": 4374
+    },
+    {
+      "text": "report",
+      "type": "ENTITY",
+      "start": 4389,
+      "end": 4395
+    },
+    {
+      "text": "Patient",
+      "type": "ENTITY",
+      "start": 4440,
+      "end": 4447
+    },
+    {
+      "text": "Breast Invasive Tumor Staging Information",
+      "type": "ENTITY",
+      "start": 4489,
+      "end": 4530
+    },
+    {
+      "text": "CAP",
+      "type": "ENTITY",
+      "start": 4575,
+      "end": 4578
+    },
+    {
+      "text": "protocol",
+      "type": "ENTITY",
+      "start": 4579,
+      "end": 4587
+    },
+    {
+      "text": "staging",
+      "type": "ENTITY",
+      "start": 4605,
+      "end": 4612
+    },
+    {
+      "text": "biopsy",
+      "type": "ENTITY",
+      "start": 4641,
+      "end": 4647
+    },
+    {
+      "text": "Breast profile",
+      "type": "ENTITY",
+      "start": 4649,
+      "end": 4663
+    },
+    {
+      "text": "Total breast",
+      "type": "ENTITY",
+      "start": 4665,
+      "end": 4677
+    },
+    {
+      "text": "axillary lymph nodes",
+      "type": "ENTITY",
+      "start": 4679,
+      "end": 4699
+    },
+    {
+      "text": "Specimen type",
+      "type": "ENTITY",
+      "start": 4705,
+      "end": 4718
+    },
+    {
+      "text": "contralateral breast",
+      "type": "ENTITY",
+      "start": 4720,
+      "end": 4740
+    },
+    {
+      "text": "Modified radical mastectomy",
+      "type": "ENTITY",
+      "start": 4742,
+      "end": 4769
+    },
+    {
+      "text": "contralatera",
+      "type": "ENTITY",
+      "start": 4774,
+      "end": 4786
+    },
+    {
+      "text": "Specimen procedure",
+      "type": "ENTITY",
+      "start": 4788,
+      "end": 4806
+    },
+    {
+      "text": "prophylactic mastectomy",
+      "type": "ENTITY",
+      "start": 4808,
+      "end": 4831
+    },
+    {
+      "text": "Axillary dissection",
+      "type": "ENTITY",
+      "start": 4833,
+      "end": 4852
+    },
+    {
+      "text": "Lymph node sampling",
+      "type": "ENTITY",
+      "start": 4854,
+      "end": 4873
+    },
+    {
+      "text": "intact",
+      "type": "ENTITY",
+      "start": 4882,
+      "end": 4888
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 4889,
+      "end": 4897
+    },
+    {
+      "text": "Specimen",
+      "type": "ENTITY",
+      "start": 4899,
+      "end": 4907
+    },
+    {
+      "text": "integrity",
+      "type": "ENTITY",
+      "start": 4908,
+      "end": 4917
+    },
+    {
+      "text": "Right",
+      "type": "ENTITY",
+      "start": 4919,
+      "end": 4924
+    },
+    {
+      "text": "Specimen",
+      "type": "ENTITY",
+      "start": 4926,
+      "end": 4934
+    },
+    {
+      "text": "laterality",
+      "type": "ENTITY",
+      "start": 4935,
+      "end": 4945
+    },
+    {
+      "text": "Specimen size",
+      "type": "ENTITY",
+      "start": 4965,
+      "end": 4978
+    },
+    {
+      "text": "mastectomy",
+      "type": "ENTITY",
+      "start": 4991,
+      "end": 5001
+    },
+    {
+      "text": "INVASIVE TUMOR FEATURES",
+      "type": "ENTITY",
+      "start": 5004,
+      "end": 5027
+    },
+    {
+      "text": "Invasive",
+      "type": "ENTITY",
+      "start": 5036,
+      "end": 5044
+    },
+    {
+      "text": "Upper outer quadrant",
+      "type": "ENTITY",
+      "start": 5057,
+      "end": 5077
+    },
+    {
+      "text": "Invasive tumor site",
+      "type": "ENTITY",
+      "start": 5079,
+      "end": 5098
+    },
+    {
+      "text": "invasive carcinoma",
+      "type": "ENTITY",
+      "start": 5116,
+      "end": 5134
+    },
+    {
+      "text": "Invasive",
+      "type": "ENTITY",
+      "start": 5137,
+      "end": 5145
+    },
+    {
+      "text": "Sarcomatoid",
+      "type": "ENTITY",
+      "start": 5162,
+      "end": 5173
+    },
+    {
+      "text": "Histologic type",
+      "type": "ENTITY",
+      "start": 5210,
+      "end": 5225
+    },
+    {
+      "text": "matrix",
+      "type": "ENTITY",
+      "start": 5230,
+      "end": 5236
+    },
+    {
+      "text": "carcinoma",
+      "type": "ENTITY",
+      "start": 5247,
+      "end": 5256
+    },
+    {
+      "text": "high-grade",
+      "type": "ENTITY",
+      "start": 5261,
+      "end": 5271
+    },
+    {
+      "text": "Total Nottingham Grade",
+      "type": "ENTITY",
+      "start": 5274,
+      "end": 5296
+    },
+    {
+      "text": "Tubule formation",
+      "type": "ENTITY",
+      "start": 5306,
+      "end": 5322
+    },
+    {
+      "text": "Nuclear Pleomorphism",
+      "type": "ENTITY",
+      "start": 5332,
+      "end": 5352
+    },
+    {
+      "text": "Mitotic count",
+      "type": "ENTITY",
+      "start": 5362,
+      "end": 5375
+    },
+    {
+      "text": "Nottingham",
+      "type": "ENTITY",
+      "start": 5380,
+      "end": 5390
+    },
+    {
+      "text": "Greater",
+      "type": "ENTITY",
+      "start": 5392,
+      "end": 5399
+    },
+    {
+      "text": "mitosis",
+      "type": "ENTITY",
+      "start": 5408,
+      "end": 5415
+    },
+    {
+      "text": "power",
+      "type": "ENTITY",
+      "start": 5428,
+      "end": 5433
+    },
+    {
+      "text": "fields",
+      "type": "ENTITY",
+      "start": 5434,
+      "end": 5440
+    },
+    {
+      "text": "Mitotic count",
+      "type": "ENTITY",
+      "start": 5442,
+      "end": 5455
+    },
+    {
+      "text": "N/A.",
+      "type": "ENTITY",
+      "start": 5457,
+      "end": 5461
+    },
+    {
+      "text": "Grading System",
+      "type": "ENTITY",
+      "start": 5468,
+      "end": 5482
+    },
+    {
+      "text": "Lymphatic invasion",
+      "type": "ENTITY",
+      "start": 5500,
+      "end": 5518
+    },
+    {
+      "text": "MARGIN STATUS",
+      "type": "ENTITY",
+      "start": 5520,
+      "end": 5533
+    },
+    {
+      "text": "INVASIVE",
+      "type": "ENTITY",
+      "start": 5538,
+      "end": 5546
+    },
+    {
+      "text": "Distance",
+      "type": "ENTITY",
+      "start": 5565,
+      "end": 5573
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 5577,
+      "end": 5582
+    },
+    {
+      "text": "margins",
+      "type": "ENTITY",
+      "start": 5588,
+      "end": 5595
+    },
+    {
+      "text": "Closest margin",
+      "type": "ENTITY",
+      "start": 5597,
+      "end": 5611
+    },
+    {
+      "text": "Inferior",
+      "type": "ENTITY",
+      "start": 5613,
+      "end": 5621
+    },
+    {
+      "text": "Invasive",
+      "type": "ENTITY",
+      "start": 5623,
+      "end": 5631
+    },
+    {
+      "text": "in situ carcinoma",
+      "type": "ENTITY",
+      "start": 5636,
+      "end": 5653
+    },
+    {
+      "text": "margins",
+      "type": "ENTITY",
+      "start": 5711,
+      "end": 5718
+    },
+    {
+      "text": "DCIS",
+      "type": "ENTITY",
+      "start": 5721,
+      "end": 5725
+    },
+    {
+      "text": "IN-SITU CARCINOMA",
+      "type": "ENTITY",
+      "start": 5738,
+      "end": 5755
+    },
+    {
+      "text": "DCIS",
+      "type": "ENTITY",
+      "start": 5757,
+      "end": 5761
+    },
+    {
+      "text": "LOBULAR",
+      "type": "ENTITY",
+      "start": 5821,
+      "end": 5828
+    },
+    {
+      "text": "LCIS",
+      "type": "ENTITY",
+      "start": 5848,
+      "end": 5852
+    },
+    {
+      "text": "Absent",
+      "type": "ENTITY",
+      "start": 5855,
+      "end": 5861
+    },
+    {
+      "text": "Unremarkabie",
+      "type": "ENTITY",
+      "start": 5869,
+      "end": 5881
+    },
+    {
+      "text": "Nipple",
+      "type": "ENTITY",
+      "start": 5883,
+      "end": 5889
+    },
+    {
+      "text": "Unremarkable.e",
+      "type": "ENTITY",
+      "start": 5891,
+      "end": 5905
+    },
+    {
+      "text": "Skeletai Muscle",
+      "type": "ENTITY",
+      "start": 5906,
+      "end": 5921
+    },
+    {
+      "text": "INVASIVE PATHOLOGIC TUMOR STAGING",
+      "type": "ENTITY",
+      "start": 5937,
+      "end": 5970
+    },
+    {
+      "text": "pTNM",
+      "type": "ENTITY",
+      "start": 5972,
+      "end": 5976
+    },
+    {
+      "text": "Primary tumor",
+      "type": "ENTITY",
+      "start": 5978,
+      "end": 5991
+    },
+    {
+      "text": "pT",
+      "type": "ENTITY",
+      "start": 5993,
+      "end": 5995
+    },
+    {
+      "text": "pT3",
+      "type": "ENTITY",
+      "start": 5998,
+      "end": 6001
+    },
+    {
+      "text": "Regional lymph nodes",
+      "type": "ENTITY",
+      "start": 6003,
+      "end": 6023
+    },
+    {
+      "text": "pN",
+      "type": "ENTITY",
+      "start": 6025,
+      "end": 6027
+    },
+    {
+      "text": "pNO",
+      "type": "ENTITY",
+      "start": 6030,
+      "end": 6033
+    },
+    {
+      "text": "Distant metastasis",
+      "type": "ENTITY",
+      "start": 6035,
+      "end": 6053
+    },
+    {
+      "text": "pMX",
+      "type": "ENTITY",
+      "start": 6060,
+      "end": 6063
+    },
+    {
+      "text": "RECEPTOR STATUS",
+      "type": "ENTITY",
+      "start": 6065,
+      "end": 6080
+    },
+    {
+      "text": "HER2/NEU",
+      "type": "ENTITY",
+      "start": 6085,
+      "end": 6093
+    },
+    {
+      "text": "ProPath",
+      "type": "ENTITY",
+      "start": 6095,
+      "end": 6102
+    },
+    {
+      "text": "CM11-1333 Estrogen receptors",
+      "type": "ENTITY",
+      "start": 6104,
+      "end": 6132
+    },
+    {
+      "text": "Negative",
+      "type": "ENTITY",
+      "start": 6135,
+      "end": 6143
+    },
+    {
+      "text": "positive cells",
+      "type": "ENTITY",
+      "start": 6148,
+      "end": 6162
+    },
+    {
+      "text": "Progesterone receptors",
+      "type": "ENTITY",
+      "start": 6165,
+      "end": 6187
+    },
+    {
+      "text": "Negative",
+      "type": "ENTITY",
+      "start": 6189,
+      "end": 6197
+    },
+    {
+      "text": "positive cells",
+      "type": "ENTITY",
+      "start": 6202,
+      "end": 6216
+    },
+    {
+      "text": "Her2/neu",
+      "type": "ENTITY",
+      "start": 6219,
+      "end": 6227
+    },
+    {
+      "text": "Not overexpressed",
+      "type": "ENTITY",
+      "start": 6229,
+      "end": 6246
+    },
+    {
+      "text": "IHC",
+      "type": "ENTITY",
+      "start": 6248,
+      "end": 6251
+    },
+    {
+      "text": "Ki-67 proliferative index",
+      "type": "ENTITY",
+      "start": 6262,
+      "end": 6287
+    },
+    {
+      "text": "positive cells",
+      "type": "ENTITY",
+      "start": 6293,
+      "end": 6307
+    },
+    {
+      "text": "Signed",
+      "type": "ENTITY",
+      "start": 6309,
+      "end": 6315
+    },
+    {
+      "text": "A. Left Breast total mastectomy",
+      "type": "ENTITY",
+      "start": 6339,
+      "end": 6370
+    },
+    {
+      "text": "B. Right",
+      "type": "ENTITY",
+      "start": 6371,
+      "end": 6379
+    },
+    {
+      "text": "Breast total mastectomy",
+      "type": "ENTITY",
+      "start": 6380,
+      "end": 6403
+    },
+    {
+      "text": "C. Additional",
+      "type": "ENTITY",
+      "start": 6404,
+      "end": 6417
+    },
+    {
+      "text": "Axillary Contents Clinical History/Operative Dx: Cancer",
+      "type": "ENTITY",
+      "start": 6418,
+      "end": 6473
+    },
+    {
+      "text": "female breast",
+      "type": "ENTITY",
+      "start": 6475,
+      "end": 6488
+    },
+    {
+      "text": "upper-outer Gross Description",
+      "type": "ENTITY",
+      "start": 6490,
+      "end": 6519
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 6528,
+      "end": 6536
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 6540,
+      "end": 6547
+    },
+    {
+      "text": "left simple mastectomy",
+      "type": "ENTITY",
+      "start": 6548,
+      "end": 6570
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 6590,
+      "end": 6598
+    },
+    {
+      "text": "mastectomy",
+      "type": "ENTITY",
+      "start": 6617,
+      "end": 6627
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 6628,
+      "end": 6636
+    },
+    {
+      "text": "white suture",
+      "type": "ENTITY",
+      "start": 6664,
+      "end": 6676
+    },
+    {
+      "text": "skin ellipse",
+      "type": "ENTITY",
+      "start": 6695,
+      "end": 6707
+    },
+    {
+      "text": "lateral portion of the",
+      "type": "ENTITY",
+      "start": 6723,
+      "end": 6745
+    },
+    {
+      "text": "excision",
+      "type": "ENTITY",
+      "start": 6746,
+      "end": 6754
+    },
+    {
+      "text": "orientation",
+      "type": "ENTITY",
+      "start": 6766,
+      "end": 6777
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 6782,
+      "end": 6790
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 6791,
+      "end": 6799
+    },
+    {
+      "text": "media",
+      "type": "ENTITY",
+      "start": 6811,
+      "end": 6816
+    },
+    {
+      "text": "Iateral",
+      "type": "ENTITY",
+      "start": 6821,
+      "end": 6828
+    },
+    {
+      "text": "inferior",
+      "type": "ENTITY",
+      "start": 6855,
+      "end": 6863
+    },
+    {
+      "text": "superficial",
+      "type": "ENTITY",
+      "start": 6888,
+      "end": 6899
+    },
+    {
+      "text": "deep",
+      "type": "ENTITY",
+      "start": 6903,
+      "end": 6907
+    },
+    {
+      "text": "overlying broad ellipse",
+      "type": "ENTITY",
+      "start": 6921,
+      "end": 6944
+    },
+    {
+      "text": "tan-white",
+      "type": "ENTITY",
+      "start": 6948,
+      "end": 6957
+    },
+    {
+      "text": "skin",
+      "type": "ENTITY",
+      "start": 6958,
+      "end": 6962
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 6969,
+      "end": 6977
+    },
+    {
+      "text": "medial portion",
+      "type": "ENTITY",
+      "start": 7014,
+      "end": 7028
+    },
+    {
+      "text": "skin",
+      "type": "ENTITY",
+      "start": 7037,
+      "end": 7041
+    },
+    {
+      "text": "areola",
+      "type": "ENTITY",
+      "start": 7058,
+      "end": 7064
+    },
+    {
+      "text": "protuberant",
+      "type": "ENTITY",
+      "start": 7072,
+      "end": 7083
+    },
+    {
+      "text": "nipple",
+      "type": "ENTITY",
+      "start": 7091,
+      "end": 7097
+    },
+    {
+      "text": "medial-inferior skin",
+      "type": "ENTITY",
+      "start": 7103,
+      "end": 7123
+    },
+    {
+      "text": "plaque-like brown skin lesion",
+      "type": "ENTITY",
+      "start": 7142,
+      "end": 7171
+    },
+    {
+      "text": "skin lesions",
+      "type": "ENTITY",
+      "start": 7182,
+      "end": 7194
+    },
+    {
+      "text": "anterior-superior margin",
+      "type": "ENTITY",
+      "start": 7212,
+      "end": 7236
+    },
+    {
+      "text": "inked blue",
+      "type": "ENTITY",
+      "start": 7240,
+      "end": 7250
+    },
+    {
+      "text": "anterior-inferior margin",
+      "type": "ENTITY",
+      "start": 7256,
+      "end": 7280
+    },
+    {
+      "text": "inked green",
+      "type": "ENTITY",
+      "start": 7284,
+      "end": 7295
+    },
+    {
+      "text": "posterior margin",
+      "type": "ENTITY",
+      "start": 7305,
+      "end": 7321
+    },
+    {
+      "text": "smooth",
+      "type": "ENTITY",
+      "start": 7355,
+      "end": 7361
+    },
+    {
+      "text": "fascial tissue",
+      "type": "ENTITY",
+      "start": 7362,
+      "end": 7376
+    },
+    {
+      "text": "inked black",
+      "type": "ENTITY",
+      "start": 7381,
+      "end": 7392
+    },
+    {
+      "text": "breast",
+      "type": "ENTITY",
+      "start": 7398,
+      "end": 7404
+    },
+    {
+      "text": "sectioned",
+      "type": "ENTITY",
+      "start": 7417,
+      "end": 7426
+    },
+    {
+      "text": "intervals",
+      "type": "ENTITY",
+      "start": 7436,
+      "end": 7445
+    },
+    {
+      "text": "Iobulated fatty tissue",
+      "type": "ENTITY",
+      "start": 7465,
+      "end": 7487
+    },
+    {
+      "text": "fibrous parenchyma",
+      "type": "ENTITY",
+      "start": 7512,
+      "end": 7530
+    },
+    {
+      "text": "fibrous parenchyma",
+      "type": "ENTITY",
+      "start": 7536,
+      "end": 7554
+    },
+    {
+      "text": "punctate",
+      "type": "ENTITY",
+      "start": 7574,
+      "end": 7582
+    },
+    {
+      "text": "fine nodularity",
+      "type": "ENTITY",
+      "start": 7592,
+      "end": 7607
+    },
+    {
+      "text": "breast",
+      "type": "ENTITY",
+      "start": 7623,
+      "end": 7629
+    },
+    {
+      "text": "blue-dome cysts",
+      "type": "ENTITY",
+      "start": 7645,
+      "end": 7660
+    },
+    {
+      "text": "no areas",
+      "type": "ENTITY",
+      "start": 7673,
+      "end": 7681
+    },
+    {
+      "text": "stellate",
+      "type": "ENTITY",
+      "start": 7695,
+      "end": 7703
+    },
+    {
+      "text": "retracted",
+      "type": "ENTITY",
+      "start": 7707,
+      "end": 7716
+    },
+    {
+      "text": "appearance",
+      "type": "ENTITY",
+      "start": 7717,
+      "end": 7727
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 7742,
+      "end": 7753
+    },
+    {
+      "text": "identified",
+      "type": "ENTITY",
+      "start": 7754,
+      "end": 7764
+    },
+    {
+      "text": "Case",
+      "type": "ENTITY",
+      "start": 7772,
+      "end": 7776
+    },
+    {
+      "text": "report",
+      "type": "ENTITY",
+      "start": 7801,
+      "end": 7807
+    },
+    {
+      "text": "Patient",
+      "type": "ENTITY",
+      "start": 7852,
+      "end": 7859
+    },
+    {
+      "text": "axillary portion",
+      "type": "ENTITY",
+      "start": 7901,
+      "end": 7917
+    },
+    {
+      "text": "tissue",
+      "type": "ENTITY",
+      "start": 7925,
+      "end": 7931
+    },
+    {
+      "text": "Representative sections",
+      "type": "ENTITY",
+      "start": 7933,
+      "end": 7956
+    },
+    {
+      "text": "Section",
+      "type": "ENTITY",
+      "start": 7972,
+      "end": 7979
+    },
+    {
+      "text": "A1",
+      "type": "ENTITY",
+      "start": 7989,
+      "end": 7991
+    },
+    {
+      "text": "nipple",
+      "type": "ENTITY",
+      "start": 7993,
+      "end": 7999
+    },
+    {
+      "text": "tissue",
+      "type": "ENTITY",
+      "start": 8004,
+      "end": 8010
+    },
+    {
+      "text": "deep to nipple",
+      "type": "ENTITY",
+      "start": 8016,
+      "end": 8030
+    },
+    {
+      "text": "inferior skin lesion",
+      "type": "ENTITY",
+      "start": 8036,
+      "end": 8056
+    },
+    {
+      "text": "A3",
+      "type": "ENTITY",
+      "start": 8058,
+      "end": 8060
+    },
+    {
+      "text": "breast tissue",
+      "type": "ENTITY",
+      "start": 8077,
+      "end": 8090
+    },
+    {
+      "text": "upper-inner quadrant",
+      "type": "ENTITY",
+      "start": 8091,
+      "end": 8111
+    },
+    {
+      "text": "breast tissue lower-inner quadrant",
+      "type": "ENTITY",
+      "start": 8133,
+      "end": 8167
+    },
+    {
+      "text": "A5",
+      "type": "ENTITY",
+      "start": 8169,
+      "end": 8171
+    },
+    {
+      "text": "breast tissue",
+      "type": "ENTITY",
+      "start": 8188,
+      "end": 8201
+    },
+    {
+      "text": "upper-outer quadrant",
+      "type": "ENTITY",
+      "start": 8202,
+      "end": 8222
+    },
+    {
+      "text": "A6",
+      "type": "ENTITY",
+      "start": 8224,
+      "end": 8226
+    },
+    {
+      "text": "breast tissue lower-outer quadrant",
+      "type": "ENTITY",
+      "start": 8243,
+      "end": 8277
+    },
+    {
+      "text": "A7",
+      "type": "ENTITY",
+      "start": 8279,
+      "end": 8281
+    },
+    {
+      "text": "tissue",
+      "type": "ENTITY",
+      "start": 8298,
+      "end": 8304
+    },
+    {
+      "text": "central breast",
+      "type": "ENTITY",
+      "start": 8305,
+      "end": 8319
+    },
+    {
+      "text": "deep margin",
+      "type": "ENTITY",
+      "start": 8345,
+      "end": 8356
+    },
+    {
+      "text": "review",
+      "type": "ENTITY",
+      "start": 8371,
+      "end": 8377
+    },
+    {
+      "text": "initial",
+      "type": "ENTITY",
+      "start": 8385,
+      "end": 8392
+    },
+    {
+      "text": "slides",
+      "type": "ENTITY",
+      "start": 8393,
+      "end": 8399
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 8427,
+      "end": 8435
+    },
+    {
+      "text": "central portion",
+      "type": "ENTITY",
+      "start": 8445,
+      "end": 8460
+    },
+    {
+      "text": "breast tissue",
+      "type": "ENTITY",
+      "start": 8468,
+      "end": 8481
+    },
+    {
+      "text": "medial",
+      "type": "ENTITY",
+      "start": 8501,
+      "end": 8507
+    },
+    {
+      "text": "lateral",
+      "type": "ENTITY",
+      "start": 8511,
+      "end": 8518
+    },
+    {
+      "text": "cassettes A8-A12",
+      "type": "ENTITY",
+      "start": 8522,
+      "end": 8538
+    },
+    {
+      "text": "lymph node",
+      "type": "ENTITY",
+      "start": 8542,
+      "end": 8552
+    },
+    {
+      "text": "random",
+      "type": "ENTITY",
+      "start": 8557,
+      "end": 8563
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 8564,
+      "end": 8572
+    },
+    {
+      "text": "breast tissue",
+      "type": "ENTITY",
+      "start": 8576,
+      "end": 8589
+    },
+    {
+      "text": "cassette A13.. B.",
+      "type": "ENTITY",
+      "start": 8607,
+      "end": 8624
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 8629,
+      "end": 8637
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 8641,
+      "end": 8648
+    },
+    {
+      "text": "fixative",
+      "type": "ENTITY",
+      "start": 8707,
+      "end": 8715
+    },
+    {
+      "text": "mastectomy",
+      "type": "ENTITY",
+      "start": 8734,
+      "end": 8744
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 8745,
+      "end": 8753
+    },
+    {
+      "text": "suture",
+      "type": "ENTITY",
+      "start": 8781,
+      "end": 8787
+    },
+    {
+      "text": "marks",
+      "type": "ENTITY",
+      "start": 8788,
+      "end": 8793
+    },
+    {
+      "text": "axillary tissue",
+      "type": "ENTITY",
+      "start": 8798,
+      "end": 8813
+    },
+    {
+      "text": "orientation",
+      "type": "ENTITY",
+      "start": 8825,
+      "end": 8836
+    },
+    {
+      "text": "breast measures",
+      "type": "ENTITY",
+      "start": 8841,
+      "end": 8856
+    },
+    {
+      "text": "medial",
+      "type": "ENTITY",
+      "start": 8868,
+      "end": 8874
+    },
+    {
+      "text": "inferior",
+      "type": "ENTITY",
+      "start": 8910,
+      "end": 8918
+    },
+    {
+      "text": "superficial",
+      "type": "ENTITY",
+      "start": 8936,
+      "end": 8947
+    },
+    {
+      "text": "axillary portion",
+      "type": "ENTITY",
+      "start": 8961,
+      "end": 8977
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 8978,
+      "end": 8986
+    },
+    {
+      "text": "breast",
+      "type": "ENTITY",
+      "start": 9005,
+      "end": 9011
+    },
+    {
+      "text": "overlying broad ellipse",
+      "type": "ENTITY",
+      "start": 9019,
+      "end": 9042
+    },
+    {
+      "text": "tan skin",
+      "type": "ENTITY",
+      "start": 9046,
+      "end": 9054
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 9055,
+      "end": 9064
+    },
+    {
+      "text": "medial",
+      "type": "ENTITY",
+      "start": 9088,
+      "end": 9094
+    },
+    {
+      "text": "inferiorly",
+      "type": "ENTITY",
+      "start": 9108,
+      "end": 9118
+    },
+    {
+      "text": "areola",
+      "type": "ENTITY",
+      "start": 9150,
+      "end": 9156
+    },
+    {
+      "text": "protuberant",
+      "type": "ENTITY",
+      "start": 9164,
+      "end": 9175
+    },
+    {
+      "text": "nipple",
+      "type": "ENTITY",
+      "start": 9183,
+      "end": 9189
+    },
+    {
+      "text": "central skin",
+      "type": "ENTITY",
+      "start": 9195,
+      "end": 9207
+    },
+    {
+      "text": "outward",
+      "type": "ENTITY",
+      "start": 9223,
+      "end": 9230
+    },
+    {
+      "text": "periareolar area",
+      "type": "ENTITY",
+      "start": 9238,
+      "end": 9254
+    },
+    {
+      "text": "distance",
+      "type": "ENTITY",
+      "start": 9262,
+      "end": 9270
+    },
+    {
+      "text": "skin",
+      "type": "ENTITY",
+      "start": 9295,
+      "end": 9299
+    },
+    {
+      "text": "tan-white",
+      "type": "ENTITY",
+      "start": 9313,
+      "end": 9322
+    },
+    {
+      "text": "unremarkable",
+      "type": "ENTITY",
+      "start": 9327,
+      "end": 9339
+    },
+    {
+      "text": "Sections",
+      "type": "ENTITY",
+      "start": 9341,
+      "end": 9349
+    },
+    {
+      "text": "bulging anterior",
+      "type": "ENTITY",
+      "start": 9357,
+      "end": 9373
+    },
+    {
+      "text": "skin",
+      "type": "ENTITY",
+      "start": 9374,
+      "end": 9378
+    },
+    {
+      "text": "hemorrhagic cavitary",
+      "type": "ENTITY",
+      "start": 9398,
+      "end": 9418
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 9432,
+      "end": 9440
+    },
+    {
+      "text": "medial",
+      "type": "ENTITY",
+      "start": 9451,
+      "end": 9457
+    },
+    {
+      "text": "laterai",
+      "type": "ENTITY",
+      "start": 9461,
+      "end": 9468
+    },
+    {
+      "text": "inferior",
+      "type": "ENTITY",
+      "start": 9492,
+      "end": 9500
+    },
+    {
+      "text": "superficial",
+      "type": "ENTITY",
+      "start": 9524,
+      "end": 9535
+    },
+    {
+      "text": "cavitary space",
+      "type": "ENTITY",
+      "start": 9549,
+      "end": 9563
+    },
+    {
+      "text": "gray-tan tissue",
+      "type": "ENTITY",
+      "start": 9579,
+      "end": 9594
+    },
+    {
+      "text": "lobulated",
+      "type": "ENTITY",
+      "start": 9614,
+      "end": 9623
+    },
+    {
+      "text": "appearance",
+      "type": "ENTITY",
+      "start": 9624,
+      "end": 9634
+    },
+    {
+      "text": "inferior",
+      "type": "ENTITY",
+      "start": 9641,
+      "end": 9649
+    },
+    {
+      "text": "cavitary space",
+      "type": "ENTITY",
+      "start": 9657,
+      "end": 9671
+    },
+    {
+      "text": "lateral edge",
+      "type": "ENTITY",
+      "start": 9682,
+      "end": 9694
+    },
+    {
+      "text": "creamy",
+      "type": "ENTITY",
+      "start": 9704,
+      "end": 9710
+    },
+    {
+      "text": "tan-white",
+      "type": "ENTITY",
+      "start": 9711,
+      "end": 9720
+    },
+    {
+      "text": "fibrous",
+      "type": "ENTITY",
+      "start": 9737,
+      "end": 9744
+    },
+    {
+      "text": "Representative tissue",
+      "type": "ENTITY",
+      "start": 9764,
+      "end": 9785
+    },
+    {
+      "text": "research",
+      "type": "ENTITY",
+      "start": 9799,
+      "end": 9807
+    },
+    {
+      "text": "fixation",
+      "type": "ENTITY",
+      "start": 9828,
+      "end": 9836
+    },
+    {
+      "text": "anterior- superior margin",
+      "type": "ENTITY",
+      "start": 9841,
+      "end": 9866
+    },
+    {
+      "text": "inked blue",
+      "type": "ENTITY",
+      "start": 9870,
+      "end": 9880
+    },
+    {
+      "text": "anterior-inferior margin",
+      "type": "ENTITY",
+      "start": 9886,
+      "end": 9910
+    },
+    {
+      "text": "inked green",
+      "type": "ENTITY",
+      "start": 9914,
+      "end": 9925
+    },
+    {
+      "text": "posterior margin",
+      "type": "ENTITY",
+      "start": 9935,
+      "end": 9951
+    },
+    {
+      "text": "smooth",
+      "type": "ENTITY",
+      "start": 9985,
+      "end": 9991
+    },
+    {
+      "text": "fascial tissue",
+      "type": "ENTITY",
+      "start": 9992,
+      "end": 10006
+    },
+    {
+      "text": "inked black",
+      "type": "ENTITY",
+      "start": 10011,
+      "end": 10022
+    },
+    {
+      "text": "breast",
+      "type": "ENTITY",
+      "start": 10028,
+      "end": 10034
+    },
+    {
+      "text": "posterior",
+      "type": "ENTITY",
+      "start": 10066,
+      "end": 10075
+    },
+    {
+      "text": "surface",
+      "type": "ENTITY",
+      "start": 10076,
+      "end": 10083
+    },
+    {
+      "text": "intervals",
+      "type": "ENTITY",
+      "start": 10093,
+      "end": 10102
+    },
+    {
+      "text": "cavitary lesion",
+      "type": "ENTITY",
+      "start": 10117,
+      "end": 10132
+    },
+    {
+      "text": "breast parenchyma",
+      "type": "ENTITY",
+      "start": 10154,
+      "end": 10171
+    },
+    {
+      "text": "tan-white",
+      "type": "ENTITY",
+      "start": 10185,
+      "end": 10194
+    },
+    {
+      "text": "palpable",
+      "type": "ENTITY",
+      "start": 10208,
+      "end": 10216
+    },
+    {
+      "text": "lower-inner quadrant",
+      "type": "ENTITY",
+      "start": 10248,
+      "end": 10268
+    },
+    {
+      "text": "creamy",
+      "type": "ENTITY",
+      "start": 10274,
+      "end": 10280
+    },
+    {
+      "text": "tan-white",
+      "type": "ENTITY",
+      "start": 10281,
+      "end": 10290
+    },
+    {
+      "text": "tissue",
+      "type": "ENTITY",
+      "start": 10291,
+      "end": 10297
+    },
+    {
+      "text": "posterior",
+      "type": "ENTITY",
+      "start": 10305,
+      "end": 10314
+    },
+    {
+      "text": "hemorrhagic",
+      "type": "ENTITY",
+      "start": 10327,
+      "end": 10338
+    },
+    {
+      "text": "lesion",
+      "type": "ENTITY",
+      "start": 10339,
+      "end": 10345
+    },
+    {
+      "text": "superior",
+      "type": "ENTITY",
+      "start": 10371,
+      "end": 10379
+    },
+    {
+      "text": "inferior margin",
+      "type": "ENTITY",
+      "start": 10410,
+      "end": 10425
+    },
+    {
+      "text": "deep margin",
+      "type": "ENTITY",
+      "start": 10451,
+      "end": 10462
+    },
+    {
+      "text": "medial margin",
+      "type": "ENTITY",
+      "start": 10489,
+      "end": 10502
+    },
+    {
+      "text": "lateral margin",
+      "type": "ENTITY",
+      "start": 10531,
+      "end": 10545
+    },
+    {
+      "text": "dimension",
+      "type": "ENTITY",
+      "start": 10563,
+      "end": 10572
+    },
+    {
+      "text": "superior-inferior",
+      "type": "ENTITY",
+      "start": 10582,
+      "end": 10599
+    },
+    {
+      "text": "creamy",
+      "type": "ENTITY",
+      "start": 10604,
+      "end": 10610
+    },
+    {
+      "text": "white tissue",
+      "type": "ENTITY",
+      "start": 10611,
+      "end": 10623
+    },
+    {
+      "text": "posterior",
+      "type": "ENTITY",
+      "start": 10631,
+      "end": 10640
+    },
+    {
+      "text": "cavitary lesion",
+      "type": "ENTITY",
+      "start": 10653,
+      "end": 10668
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 10669,
+      "end": 10677
+    },
+    {
+      "text": "Representative sections",
+      "type": "ENTITY",
+      "start": 10687,
+      "end": 10710
+    },
+    {
+      "text": "Section",
+      "type": "ENTITY",
+      "start": 10726,
+      "end": 10733
+    },
+    {
+      "text": "B1",
+      "type": "ENTITY",
+      "start": 10743,
+      "end": 10745
+    },
+    {
+      "text": "nipple",
+      "type": "ENTITY",
+      "start": 10747,
+      "end": 10753
+    },
+    {
+      "text": "tissue",
+      "type": "ENTITY",
+      "start": 10758,
+      "end": 10764
+    },
+    {
+      "text": "deep to nipple",
+      "type": "ENTITY",
+      "start": 10770,
+      "end": 10784
+    },
+    {
+      "text": "skin",
+      "type": "ENTITY",
+      "start": 10805,
+      "end": 10809
+    },
+    {
+      "text": "hemorrhagic cavitary",
+      "type": "ENTITY",
+      "start": 10835,
+      "end": 10855
+    },
+    {
+      "text": "medial",
+      "type": "ENTITY",
+      "start": 10869,
+      "end": 10875
+    },
+    {
+      "text": "hemorrhagic lesion",
+      "type": "ENTITY",
+      "start": 10884,
+      "end": 10902
+    },
+    {
+      "text": "B4-B5) sections cavitary lesion progressing",
+      "type": "ENTITY",
+      "start": 10904,
+      "end": 10947
+    },
+    {
+      "text": "centrally",
+      "type": "ENTITY",
+      "start": 10948,
+      "end": 10957
+    },
+    {
+      "text": "central-posterior portion of cavitary",
+      "type": "ENTITY",
+      "start": 10967,
+      "end": 11004
+    },
+    {
+      "text": "white tissue",
+      "type": "ENTITY",
+      "start": 11022,
+      "end": 11034
+    },
+    {
+      "text": "B9-B10",
+      "type": "ENTITY",
+      "start": 11036,
+      "end": 11042
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 11059,
+      "end": 11067
+    },
+    {
+      "text": "lateral portion of hemorrhagic",
+      "type": "ENTITY",
+      "start": 11073,
+      "end": 11103
+    },
+    {
+      "text": "lesion",
+      "type": "ENTITY",
+      "start": 11104,
+      "end": 11110
+    },
+    {
+      "text": "B11",
+      "type": "ENTITY",
+      "start": 11112,
+      "end": 11115
+    },
+    {
+      "text": "intramammary",
+      "type": "ENTITY",
+      "start": 11126,
+      "end": 11138
+    },
+    {
+      "text": "hemorrhagic",
+      "type": "ENTITY",
+      "start": 11162,
+      "end": 11173
+    },
+    {
+      "text": "lesion",
+      "type": "ENTITY",
+      "start": 11174,
+      "end": 11180
+    },
+    {
+      "text": "B12",
+      "type": "ENTITY",
+      "start": 11182,
+      "end": 11185
+    },
+    {
+      "text": "breast tissue upper-inner quadrant",
+      "type": "ENTITY",
+      "start": 11202,
+      "end": 11236
+    },
+    {
+      "text": "medial",
+      "type": "ENTITY",
+      "start": 11238,
+      "end": 11244
+    },
+    {
+      "text": "hemorrhagic",
+      "type": "ENTITY",
+      "start": 11248,
+      "end": 11259
+    },
+    {
+      "text": "lesion",
+      "type": "ENTITY",
+      "start": 11260,
+      "end": 11266
+    },
+    {
+      "text": "tissue",
+      "type": "ENTITY",
+      "start": 11290,
+      "end": 11296
+    },
+    {
+      "text": "lower-inner quadrant of breast",
+      "type": "ENTITY",
+      "start": 11297,
+      "end": 11327
+    },
+    {
+      "text": "hemorrhagic",
+      "type": "ENTITY",
+      "start": 11339,
+      "end": 11350
+    },
+    {
+      "text": "lesion",
+      "type": "ENTITY",
+      "start": 11351,
+      "end": 11357
+    },
+    {
+      "text": "Page 6",
+      "type": "ENTITY",
+      "start": 11360,
+      "end": 11366
+    },
+    {
+      "text": "Pathology",
+      "type": "ENTITY",
+      "start": 11367,
+      "end": 11376
+    },
+    {
+      "text": "report",
+      "type": "ENTITY",
+      "start": 11410,
+      "end": 11416
+    },
+    {
+      "text": "Patient",
+      "type": "ENTITY",
+      "start": 11470,
+      "end": 11477
+    },
+    {
+      "text": "breast tissue upper-outer quadrant",
+      "type": "ENTITY",
+      "start": 11539,
+      "end": 11573
+    },
+    {
+      "text": "lateral",
+      "type": "ENTITY",
+      "start": 11575,
+      "end": 11582
+    },
+    {
+      "text": "hemorrhagic",
+      "type": "ENTITY",
+      "start": 11586,
+      "end": 11597
+    },
+    {
+      "text": "iesion",
+      "type": "ENTITY",
+      "start": 11598,
+      "end": 11604
+    },
+    {
+      "text": "B15",
+      "type": "ENTITY",
+      "start": 11607,
+      "end": 11610
+    },
+    {
+      "text": "breast tissue lower-outer quadrant",
+      "type": "ENTITY",
+      "start": 11627,
+      "end": 11661
+    },
+    {
+      "text": "hemorrhagic",
+      "type": "ENTITY",
+      "start": 11674,
+      "end": 11685
+    },
+    {
+      "text": "lesion",
+      "type": "ENTITY",
+      "start": 11686,
+      "end": 11692
+    },
+    {
+      "text": "B16",
+      "type": "ENTITY",
+      "start": 11695,
+      "end": 11698
+    },
+    {
+      "text": "deep surgical margin",
+      "type": "ENTITY",
+      "start": 11700,
+      "end": 11720
+    },
+    {
+      "text": "posterior",
+      "type": "ENTITY",
+      "start": 11732,
+      "end": 11741
+    },
+    {
+      "text": "cavitary lesion",
+      "type": "ENTITY",
+      "start": 11750,
+      "end": 11765
+    },
+    {
+      "text": "nodal tissue",
+      "type": "ENTITY",
+      "start": 11777,
+      "end": 11789
+    },
+    {
+      "text": "fatty",
+      "type": "ENTITY",
+      "start": 11825,
+      "end": 11830
+    },
+    {
+      "text": "node serially sectioned",
+      "type": "ENTITY",
+      "start": 11870,
+      "end": 11893
+    },
+    {
+      "text": "B23",
+      "type": "ENTITY",
+      "start": 11933,
+      "end": 11936
+    },
+    {
+      "text": "nodes bivalved",
+      "type": "ENTITY",
+      "start": 11942,
+      "end": 11956
+    },
+    {
+      "text": "inked",
+      "type": "ENTITY",
+      "start": 11962,
+      "end": 11967
+    },
+    {
+      "text": "B24",
+      "type": "ENTITY",
+      "start": 11970,
+      "end": 11973
+    },
+    {
+      "text": "node",
+      "type": "ENTITY",
+      "start": 11979,
+      "end": 11983
+    },
+    {
+      "text": "inked",
+      "type": "ENTITY",
+      "start": 11989,
+      "end": 11994
+    },
+    {
+      "text": "trisected",
+      "type": "ENTITY",
+      "start": 11999,
+      "end": 12008
+    },
+    {
+      "text": "trisected",
+      "type": "ENTITY",
+      "start": 12014,
+      "end": 12023
+    },
+    {
+      "text": "B25",
+      "type": "ENTITY",
+      "start": 12025,
+      "end": 12028
+    },
+    {
+      "text": "nodes",
+      "type": "ENTITY",
+      "start": 12044,
+      "end": 12049
+    },
+    {
+      "text": "intact",
+      "type": "ENTITY",
+      "start": 12050,
+      "end": 12056
+    },
+    {
+      "text": "nodes bivalved",
+      "type": "ENTITY",
+      "start": 12067,
+      "end": 12081
+    },
+    {
+      "text": "inked",
+      "type": "ENTITY",
+      "start": 12087,
+      "end": 12092
+    },
+    {
+      "text": "B27",
+      "type": "ENTITY",
+      "start": 12095,
+      "end": 12098
+    },
+    {
+      "text": "nodes",
+      "type": "ENTITY",
+      "start": 12117,
+      "end": 12122
+    },
+    {
+      "text": "intact",
+      "type": "ENTITY",
+      "start": 12123,
+      "end": 12129
+    },
+    {
+      "text": "review",
+      "type": "ENTITY",
+      "start": 12142,
+      "end": 12148
+    },
+    {
+      "text": "initiaily",
+      "type": "ENTITY",
+      "start": 12156,
+      "end": 12165
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 12176,
+      "end": 12184
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 12197,
+      "end": 12205
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 12213,
+      "end": 12218
+    },
+    {
+      "text": "B28-B32) polypoid",
+      "type": "ENTITY",
+      "start": 12245,
+      "end": 12262
+    },
+    {
+      "text": "B33)",
+      "type": "ENTITY",
+      "start": 12301,
+      "end": 12305
+    },
+    {
+      "text": "breast tissue",
+      "type": "ENTITY",
+      "start": 12306,
+      "end": 12319
+    },
+    {
+      "text": "B34-B35)",
+      "type": "ENTITY",
+      "start": 12339,
+      "end": 12347
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 12363,
+      "end": 12371
+    },
+    {
+      "text": "solid tan portion of tumor",
+      "type": "ENTITY",
+      "start": 12375,
+      "end": 12401
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 12412,
+      "end": 12420
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 12424,
+      "end": 12431
+    },
+    {
+      "text": "axillary",
+      "type": "ENTITY",
+      "start": 12443,
+      "end": 12451
+    },
+    {
+      "text": "right axilla",
+      "type": "ENTITY",
+      "start": 12461,
+      "end": 12473
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 12493,
+      "end": 12501
+    },
+    {
+      "text": "fragment",
+      "type": "ENTITY",
+      "start": 12527,
+      "end": 12535
+    },
+    {
+      "text": "fibrofatty",
+      "type": "ENTITY",
+      "start": 12539,
+      "end": 12549
+    },
+    {
+      "text": "tissue",
+      "type": "ENTITY",
+      "start": 12550,
+      "end": 12556
+    },
+    {
+      "text": "dissection",
+      "type": "ENTITY",
+      "start": 12561,
+      "end": 12571
+    },
+    {
+      "text": "intact",
+      "type": "ENTITY",
+      "start": 12586,
+      "end": 12592
+    },
+    {
+      "text": "nodes",
+      "type": "ENTITY",
+      "start": 12593,
+      "end": 12598
+    },
+    {
+      "text": "node",
+      "type": "ENTITY",
+      "start": 12611,
+      "end": 12615
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 12616,
+      "end": 12625
+    },
+    {
+      "text": "node",
+      "type": "ENTITY",
+      "start": 12661,
+      "end": 12665
+    },
+    {
+      "text": "maximum",
+      "type": "ENTITY",
+      "start": 12676,
+      "end": 12683
+    },
+    {
+      "text": "dimension",
+      "type": "ENTITY",
+      "start": 12684,
+      "end": 12693
+    },
+    {
+      "text": "node",
+      "type": "ENTITY",
+      "start": 12706,
+      "end": 12710
+    },
+    {
+      "text": "sectioned",
+      "type": "ENTITY",
+      "start": 12714,
+      "end": 12723
+    },
+    {
+      "text": "cassette C1",
+      "type": "ENTITY",
+      "start": 12741,
+      "end": 12752
+    },
+    {
+      "text": "node",
+      "type": "ENTITY",
+      "start": 12766,
+      "end": 12770
+    },
+    {
+      "text": "bivalved",
+      "type": "ENTITY",
+      "start": 12774,
+      "end": 12782
+    },
+    {
+      "text": "cassette C2.",
+      "type": "ENTITY",
+      "start": 12800,
+      "end": 12812
+    },
+    {
+      "text": "DS",
+      "type": "ENTITY",
+      "start": 12814,
+      "end": 12816
+    },
+    {
+      "text": "Microscopic Description",
+      "type": "ENTITY",
+      "start": 12818,
+      "end": 12841
+    },
+    {
+      "text": "A. Microscopic sections",
+      "type": "ENTITY",
+      "start": 12843,
+      "end": 12866
+    },
+    {
+      "text": "microscopic",
+      "type": "ENTITY",
+      "start": 12891,
+      "end": 12902
+    },
+    {
+      "text": "findings",
+      "type": "ENTITY",
+      "start": 12903,
+      "end": 12911
+    },
+    {
+      "text": "diagnosis",
+      "type": "ENTITY",
+      "start": 12933,
+      "end": 12942
+    },
+    {
+      "text": "Microscopic sections",
+      "type": "ENTITY",
+      "start": 12956,
+      "end": 12976
+    },
+    {
+      "text": "microscopic",
+      "type": "ENTITY",
+      "start": 13001,
+      "end": 13012
+    },
+    {
+      "text": "findings",
+      "type": "ENTITY",
+      "start": 13013,
+      "end": 13021
+    },
+    {
+      "text": "diagnosis",
+      "type": "ENTITY",
+      "start": 13043,
+      "end": 13052
+    },
+    {
+      "text": "IHC",
+      "type": "ENTITY",
+      "start": 13063,
+      "end": 13066
+    },
+    {
+      "text": "stains",
+      "type": "ENTITY",
+      "start": 13067,
+      "end": 13073
+    },
+    {
+      "text": "p63",
+      "type": "ENTITY",
+      "start": 13075,
+      "end": 13078
+    },
+    {
+      "text": "CK5/6",
+      "type": "ENTITY",
+      "start": 13080,
+      "end": 13085
+    },
+    {
+      "text": "SMA",
+      "type": "ENTITY",
+      "start": 13087,
+      "end": 13090
+    },
+    {
+      "text": "S100",
+      "type": "ENTITY",
+      "start": 13092,
+      "end": 13096
+    },
+    {
+      "text": "comment",
+      "type": "ENTITY",
+      "start": 13102,
+      "end": 13109
+    },
+    {
+      "text": "staining",
+      "type": "ENTITY",
+      "start": 13114,
+      "end": 13122
+    },
+    {
+      "text": "positive",
+      "type": "ENTITY",
+      "start": 13144,
+      "end": 13152
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 13157,
+      "end": 13165
+    },
+    {
+      "text": "reviewed",
+      "type": "ENTITY",
+      "start": 13175,
+      "end": 13183
+    },
+    {
+      "text": "C. Microscopic sections",
+      "type": "ENTITY",
+      "start": 13185,
+      "end": 13208
+    },
+    {
+      "text": "microscopic",
+      "type": "ENTITY",
+      "start": 13233,
+      "end": 13244
+    },
+    {
+      "text": "findings",
+      "type": "ENTITY",
+      "start": 13245,
+      "end": 13253
+    },
+    {
+      "text": "diagnosis",
+      "type": "ENTITY",
+      "start": 13275,
+      "end": 13284
+    },
+    {
+      "text": "REPRINT",
+      "type": "ENTITY",
+      "start": 13350,
+      "end": 13357
+    },
+    {
+      "text": "Orig",
+      "type": "ENTITY",
+      "start": 13359,
+      "end": 13363
+    },
+    {
+      "text": "Phone",
+      "type": "ENTITY",
+      "start": 13377,
+      "end": 13382
+    }
+  ],
+  "entity_count": 597,
+  "has_embedding": true
+}

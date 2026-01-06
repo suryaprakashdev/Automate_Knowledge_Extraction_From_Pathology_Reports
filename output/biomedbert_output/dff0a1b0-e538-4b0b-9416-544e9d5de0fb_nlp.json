@@ -1,0 +1,740 @@
+{
+  "filename": "dff0a1b0-e538-4b0b-9416-544e9d5de0fb",
+  "timestamp": "2026-01-05T14:44:55.269852",
+  "entities": [
+    {
+      "text": "Data",
+      "type": "ENTITY",
+      "start": 30,
+      "end": 34
+    },
+    {
+      "text": "Billing Type",
+      "type": "ENTITY",
+      "start": 36,
+      "end": 48
+    },
+    {
+      "text": "Financial Number",
+      "type": "ENTITY",
+      "start": 50,
+      "end": 66
+    },
+    {
+      "text": "Clinical Diagnosis",
+      "type": "ENTITY",
+      "start": 68,
+      "end": 86
+    },
+    {
+      "text": "History",
+      "type": "ENTITY",
+      "start": 89,
+      "end": 96
+    },
+    {
+      "text": "Left renal mass",
+      "type": "ENTITY",
+      "start": 97,
+      "end": 112
+    },
+    {
+      "text": "Specimens",
+      "type": "ENTITY",
+      "start": 114,
+      "end": 123
+    },
+    {
+      "text": "Left upper poleleft kidney tum 2SPLeft mid pole kidney region 3:SP",
+      "type": "ENTITY",
+      "start": 140,
+      "end": 206
+    },
+    {
+      "text": "Left posterolateral mid pole kidney 4SP:Anterior lower pole left kidne 5:SP",
+      "type": "ENTITY",
+      "start": 207,
+      "end": 282
+    },
+    {
+      "text": "Lateral aspect lower pole left kidney DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 283,
+      "end": 330
+    },
+    {
+      "text": "LEE",
+      "type": "ENTITY",
+      "start": 342,
+      "end": 345
+    },
+    {
+      "text": "CELL",
+      "type": "ENTITY",
+      "start": 390,
+      "end": 394
+    },
+    {
+      "text": "PAPILLARY TYPE",
+      "type": "ENTITY",
+      "start": 406,
+      "end": 420
+    },
+    {
+      "text": "NUCLEAR GRADE III/IV",
+      "type": "ENTITY",
+      "start": 422,
+      "end": 442
+    },
+    {
+      "text": "GROWTH IS",
+      "type": "ENTITY",
+      "start": 458,
+      "end": 467
+    },
+    {
+      "text": "PAPILLARY.THE TUMOR IS",
+      "type": "ENTITY",
+      "start": 468,
+      "end": 490
+    },
+    {
+      "text": "CAPSULE.THE TUMOR",
+      "type": "ENTITY",
+      "start": 516,
+      "end": 533
+    },
+    {
+      "text": "DIAMETER IS",
+      "type": "ENTITY",
+      "start": 543,
+      "end": 554
+    },
+    {
+      "text": "CM",
+      "type": "ENTITY",
+      "start": 559,
+      "end": 561
+    },
+    {
+      "text": "ALL",
+      "type": "ENTITY",
+      "start": 563,
+      "end": 566
+    },
+    {
+      "text": "SURGICAL MARGINS",
+      "type": "ENTITY",
+      "start": 567,
+      "end": 583
+    },
+    {
+      "text": "TUMOR",
+      "type": "ENTITY",
+      "start": 596,
+      "end": 601
+    },
+    {
+      "text": "NON-NEOPLASTIC KIDNEY IS",
+      "type": "ENTITY",
+      "start": 607,
+      "end": 631
+    },
+    {
+      "text": "UNREMARKABLE",
+      "type": "ENTITY",
+      "start": 632,
+      "end": 644
+    },
+    {
+      "text": "ADRENAL GLAND",
+      "type": "ENTITY",
+      "start": 650,
+      "end": 663
+    },
+    {
+      "text": "IS",
+      "type": "ENTITY",
+      "start": 664,
+      "end": 666
+    },
+    {
+      "text": "KIDNEY",
+      "type": "ENTITY",
+      "start": 700,
+      "end": 706
+    },
+    {
+      "text": "LEFS",
+      "type": "ENTITY",
+      "start": 707,
+      "end": 711
+    },
+    {
+      "text": "MID-POLE",
+      "type": "ENTITY",
+      "start": 712,
+      "end": 720
+    },
+    {
+      "text": "REGIONRESECTION",
+      "type": "ENTITY",
+      "start": 721,
+      "end": 736
+    },
+    {
+      "text": "NO",
+      "type": "ENTITY",
+      "start": 760,
+      "end": 762
+    },
+    {
+      "text": "LEF",
+      "type": "ENTITY",
+      "start": 797,
+      "end": 800
+    },
+    {
+      "text": "FIBROVASCULAR",
+      "type": "ENTITY",
+      "start": 836,
+      "end": 849
+    },
+    {
+      "text": "NO",
+      "type": "ENTITY",
+      "start": 862,
+      "end": 864
+    },
+    {
+      "text": "LEFTANTERIOR",
+      "type": "ENTITY",
+      "start": 899,
+      "end": 911
+    },
+    {
+      "text": "TISSUE",
+      "type": "ENTITY",
+      "start": 948,
+      "end": 954
+    },
+    {
+      "text": "NO",
+      "type": "ENTITY",
+      "start": 960,
+      "end": 962
+    },
+    {
+      "text": "LEF",
+      "type": "ENTITY",
+      "start": 997,
+      "end": 1000
+    },
+    {
+      "text": "LATERAL ASPECT",
+      "type": "ENTITY",
+      "start": 1001,
+      "end": 1015
+    },
+    {
+      "text": "PARENCHYMA WITH",
+      "type": "ENTITY",
+      "start": 1047,
+      "end": 1062
+    },
+    {
+      "text": "NO",
+      "type": "ENTITY",
+      "start": 1063,
+      "end": 1065
+    },
+    {
+      "text": "IATTEST",
+      "type": "ENTITY",
+      "start": 1090,
+      "end": 1097
+    },
+    {
+      "text": "PERSONAL EXAMINATION",
+      "type": "ENTITY",
+      "start": 1139,
+      "end": 1159
+    },
+    {
+      "text": "Gross Description",
+      "type": "ENTITY",
+      "start": 1248,
+      "end": 1265
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1301,
+      "end": 1309
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 1322,
+      "end": 1327
+    },
+    {
+      "text": "frozen section",
+      "type": "ENTITY",
+      "start": 1332,
+      "end": 1346
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 1348,
+      "end": 1355
+    },
+    {
+      "text": "Left upper pole left kidney tumor",
+      "type": "ENTITY",
+      "start": 1360,
+      "end": 1393
+    },
+    {
+      "text": "stitch marks",
+      "type": "ENTITY",
+      "start": 1395,
+      "end": 1407
+    },
+    {
+      "text": "deep margin",
+      "type": "ENTITY",
+      "start": 1408,
+      "end": 1419
+    },
+    {
+      "text": "partial",
+      "type": "ENTITY",
+      "start": 1439,
+      "end": 1446
+    },
+    {
+      "text": "nephrectomy",
+      "type": "ENTITY",
+      "start": 1447,
+      "end": 1458
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1459,
+      "end": 1467
+    },
+    {
+      "text": "fat",
+      "type": "ENTITY",
+      "start": 1482,
+      "end": 1485
+    },
+    {
+      "text": "portion",
+      "type": "ENTITY",
+      "start": 1491,
+      "end": 1498
+    },
+    {
+      "text": "kidney",
+      "type": "ENTITY",
+      "start": 1506,
+      "end": 1512
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 1513,
+      "end": 1521
+    },
+    {
+      "text": "x5.5 x3.5",
+      "type": "ENTITY",
+      "start": 1526,
+      "end": 1535
+    },
+    {
+      "text": "surgical margin",
+      "type": "ENTITY",
+      "start": 1544,
+      "end": 1559
+    },
+    {
+      "text": "stitch",
+      "type": "ENTITY",
+      "start": 1576,
+      "end": 1582
+    },
+    {
+      "text": "fat",
+      "type": "ENTITY",
+      "start": 1597,
+      "end": 1600
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 1601,
+      "end": 1609
+    },
+    {
+      "text": "fat overlying",
+      "type": "ENTITY",
+      "start": 1628,
+      "end": 1641
+    },
+    {
+      "text": "bulging tumor",
+      "type": "ENTITY",
+      "start": 1646,
+      "end": 1659
+    },
+    {
+      "text": "surgical margins",
+      "type": "ENTITY",
+      "start": 1668,
+      "end": 1684
+    },
+    {
+      "text": "inked",
+      "type": "ENTITY",
+      "start": 1689,
+      "end": 1694
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1701,
+      "end": 1709
+    },
+    {
+      "text": "reveal_ng",
+      "type": "ENTITY",
+      "start": 1732,
+      "end": 1741
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1821,
+      "end": 1826
+    },
+    {
+      "text": "invade",
+      "type": "ENTITY",
+      "start": 1847,
+      "end": 1853
+    },
+    {
+      "text": "renal capsule",
+      "type": "ENTITY",
+      "start": 1858,
+      "end": 1871
+    },
+    {
+      "text": "perirenal fat",
+      "type": "ENTITY",
+      "start": 1900,
+      "end": 1913
+    },
+    {
+      "text": "surgical margin",
+      "type": "ENTITY",
+      "start": 1950,
+      "end": 1965
+    },
+    {
+      "text": "resection",
+      "type": "ENTITY",
+      "start": 1969,
+      "end": 1978
+    },
+    {
+      "text": "kidney parenchyma",
+      "type": "ENTITY",
+      "start": 1996,
+      "end": 2013
+    },
+    {
+      "text": "tan-brown",
+      "type": "ENTITY",
+      "start": 2017,
+      "end": 2026
+    },
+    {
+      "text": "unremarkable",
+      "type": "ENTITY",
+      "start": 2031,
+      "end": 2043
+    },
+    {
+      "text": "Sections",
+      "type": "ENTITY",
+      "start": 2056,
+      "end": 2064
+    },
+    {
+      "text": "TC-tumor",
+      "type": "ENTITY",
+      "start": 2066,
+      "end": 2074
+    },
+    {
+      "text": "TS",
+      "type": "ENTITY",
+      "start": 2085,
+      "end": 2087
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 2090,
+      "end": 2095
+    },
+    {
+      "text": "surgical margin",
+      "type": "ENTITY",
+      "start": 2099,
+      "end": 2114
+    },
+    {
+      "text": "F-perinephric fat FSC-frozen section",
+      "type": "ENTITY",
+      "start": 2124,
+      "end": 2160
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 2175,
+      "end": 2183
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 2196,
+      "end": 2201
+    },
+    {
+      "text": "frozen section",
+      "type": "ENTITY",
+      "start": 2206,
+      "end": 2220
+    },
+    {
+      "text": "fragments",
+      "type": "ENTITY",
+      "start": 2291,
+      "end": 2300
+    },
+    {
+      "text": "tan-brown",
+      "type": "ENTITY",
+      "start": 2304,
+      "end": 2313
+    },
+    {
+      "text": "soft tissue",
+      "type": "ENTITY",
+      "start": 2314,
+      "end": 2325
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 2326,
+      "end": 2335
+    },
+    {
+      "text": "block",
+      "type": "ENTITY",
+      "start": 2390,
+      "end": 2395
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 2408,
+      "end": 2416
+    },
+    {
+      "text": "FSC- frozen section control 3",
+      "type": "ENTITY",
+      "start": 2418,
+      "end": 2447
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 2453,
+      "end": 2461
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 2474,
+      "end": 2479
+    },
+    {
+      "text": "frozen section",
+      "type": "ENTITY",
+      "start": 2484,
+      "end": 2498
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 2500,
+      "end": 2507
+    },
+    {
+      "text": "Left posterior _ateral mid pole kidney",
+      "type": "ENTITY",
+      "start": 2512,
+      "end": 2550
+    },
+    {
+      "text": "fragments",
+      "type": "ENTITY",
+      "start": 2568,
+      "end": 2577
+    },
+    {
+      "text": "red-tan soft tissue",
+      "type": "ENTITY",
+      "start": 2581,
+      "end": 2600
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 2601,
+      "end": 2610
+    },
+    {
+      "text": "aggregate",
+      "type": "ENTITY",
+      "start": 2627,
+      "end": 2636
+    },
+    {
+      "text": "block",
+      "type": "ENTITY",
+      "start": 2664,
+      "end": 2669
+    },
+    {
+      "text": "frozen section",
+      "type": "ENTITY",
+      "start": 2674,
+      "end": 2688
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 2701,
+      "end": 2709
+    },
+    {
+      "text": "FSC-frozen",
+      "type": "ENTITY",
+      "start": 2711,
+      "end": 2721
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 2745,
+      "end": 2753
+    },
+    {
+      "text": "tresh",
+      "type": "ENTITY",
+      "start": 2766,
+      "end": 2771
+    },
+    {
+      "text": "tor",
+      "type": "ENTITY",
+      "start": 2772,
+      "end": 2775
+    },
+    {
+      "text": "section",
+      "type": "ENTITY",
+      "start": 2783,
+      "end": 2790
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 2792,
+      "end": 2799
+    },
+    {
+      "text": "fragment",
+      "type": "ENTITY",
+      "start": 2856,
+      "end": 2864
+    },
+    {
+      "text": "tan soft tissue",
+      "type": "ENTITY",
+      "start": 2868,
+      "end": 2883
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 2884,
+      "end": 2893
+    },
+    {
+      "text": "cassette",
+      "type": "ENTITY",
+      "start": 2934,
+      "end": 2942
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 2955,
+      "end": 2963
+    },
+    {
+      "text": "FSC- frozen section control",
+      "type": "ENTITY",
+      "start": 2965,
+      "end": 2992
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 3000,
+      "end": 3008
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 3021,
+      "end": 3026
+    },
+    {
+      "text": "frozen section",
+      "type": "ENTITY",
+      "start": 3031,
+      "end": 3045
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 3047,
+      "end": 3054
+    }
+  ],
+  "entity_count": 122,
+  "has_embedding": true
+}

@@ -1,0 +1,866 @@
+{
+  "filename": "bf67ee96-666e-4fa0-bd2c-bc331567c88c",
+  "timestamp": "2026-01-05T14:41:50.483451",
+  "entities": [
+    {
+      "text": "Received",
+      "type": "ENTITY",
+      "start": 39,
+      "end": 47
+    },
+    {
+      "text": "Date/Time Final Reporting Information Date/Time",
+      "type": "ENTITY",
+      "start": 48,
+      "end": 95
+    },
+    {
+      "text": "Final",
+      "type": "ENTITY",
+      "start": 98,
+      "end": 103
+    },
+    {
+      "text": "Histopathologist Laboratory",
+      "type": "ENTITY",
+      "start": 104,
+      "end": 131
+    },
+    {
+      "text": "Consultant-In-Charge",
+      "type": "ENTITY",
+      "start": 134,
+      "end": 154
+    },
+    {
+      "text": "Submitting Physician",
+      "type": "ENTITY",
+      "start": 161,
+      "end": 181
+    },
+    {
+      "text": "Final",
+      "type": "ENTITY",
+      "start": 182,
+      "end": 187
+    },
+    {
+      "text": "Histopathology Report",
+      "type": "ENTITY",
+      "start": 188,
+      "end": 209
+    },
+    {
+      "text": "Final DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 210,
+      "end": 225
+    },
+    {
+      "text": "intestine",
+      "type": "ENTITY",
+      "start": 232,
+      "end": 241
+    },
+    {
+      "text": "sigmoid colon",
+      "type": "ENTITY",
+      "start": 246,
+      "end": 259
+    },
+    {
+      "text": "Diffuse large",
+      "type": "ENTITY",
+      "start": 261,
+      "end": 274
+    },
+    {
+      "text": "B-cell lymphoma",
+      "type": "ENTITY",
+      "start": 276,
+      "end": 291
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 307,
+      "end": 315
+    },
+    {
+      "text": "lymphomatous",
+      "type": "ENTITY",
+      "start": 322,
+      "end": 334
+    },
+    {
+      "text": "involvement",
+      "type": "ENTITY",
+      "start": 335,
+      "end": 346
+    },
+    {
+      "text": "diffuse large B-cell lymphoma",
+      "type": "ENTITY",
+      "start": 350,
+      "end": 379
+    },
+    {
+      "text": "phenotype",
+      "type": "ENTITY",
+      "start": 385,
+      "end": 394
+    },
+    {
+      "text": "germinal centre",
+      "type": "ENTITY",
+      "start": 414,
+      "end": 429
+    },
+    {
+      "text": "Hans' criteria",
+      "type": "ENTITY",
+      "start": 452,
+      "end": 466
+    },
+    {
+      "text": "expression",
+      "type": "ENTITY",
+      "start": 480,
+      "end": 490
+    },
+    {
+      "text": "Foxpl",
+      "type": "ENTITY",
+      "start": 494,
+      "end": 499
+    },
+    {
+      "text": "weak",
+      "type": "ENTITY",
+      "start": 504,
+      "end": 508
+    },
+    {
+      "text": "immunostaining",
+      "type": "ENTITY",
+      "start": 509,
+      "end": 523
+    },
+    {
+      "text": "LM02",
+      "type": "ENTITY",
+      "start": 528,
+      "end": 532
+    },
+    {
+      "text": "activated B-cell",
+      "type": "ENTITY",
+      "start": 558,
+      "end": 574
+    },
+    {
+      "text": "ABC",
+      "type": "ENTITY",
+      "start": 576,
+      "end": 579
+    },
+    {
+      "text": "subtype",
+      "type": "ENTITY",
+      "start": 581,
+      "end": 588
+    },
+    {
+      "text": "GROSS DESCRIPTION",
+      "type": "ENTITY",
+      "start": 590,
+      "end": 607
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 612,
+      "end": 620
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 636,
+      "end": 644
+    },
+    {
+      "text": "patient's",
+      "type": "ENTITY",
+      "start": 660,
+      "end": 669
+    },
+    {
+      "text": "data",
+      "type": "ENTITY",
+      "start": 670,
+      "end": 674
+    },
+    {
+      "text": "sigmoid colon",
+      "type": "ENTITY",
+      "start": 716,
+      "end": 729
+    },
+    {
+      "text": "enblock resection",
+      "type": "ENTITY",
+      "start": 750,
+      "end": 767
+    },
+    {
+      "text": "small bowel tumour",
+      "type": "ENTITY",
+      "start": 771,
+      "end": 789
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 790,
+      "end": 794
+    },
+    {
+      "text": "adherent",
+      "type": "ENTITY",
+      "start": 809,
+      "end": 817
+    },
+    {
+      "text": "segments",
+      "type": "ENTITY",
+      "start": 818,
+      "end": 826
+    },
+    {
+      "text": "small",
+      "type": "ENTITY",
+      "start": 830,
+      "end": 835
+    },
+    {
+      "text": "bowel",
+      "type": "ENTITY",
+      "start": 846,
+      "end": 851
+    },
+    {
+      "text": "small bowel loops",
+      "type": "ENTITY",
+      "start": 859,
+      "end": 876
+    },
+    {
+      "text": "twisted",
+      "type": "ENTITY",
+      "start": 881,
+      "end": 888
+    },
+    {
+      "text": "kinked",
+      "type": "ENTITY",
+      "start": 893,
+      "end": 899
+    },
+    {
+      "text": "entrapped",
+      "type": "ENTITY",
+      "start": 920,
+      "end": 929
+    },
+    {
+      "text": "encircling tumour mass",
+      "type": "ENTITY",
+      "start": 941,
+      "end": 963
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 966,
+      "end": 975
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 1007,
+      "end": 1013
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 1025,
+      "end": 1033
+    },
+    {
+      "text": "tumour mass measures",
+      "type": "ENTITY",
+      "start": 1039,
+      "end": 1059
+    },
+    {
+      "text": "small bowel",
+      "type": "ENTITY",
+      "start": 1129,
+      "end": 1140
+    },
+    {
+      "text": "fish-flesh",
+      "type": "ENTITY",
+      "start": 1151,
+      "end": 1161
+    },
+    {
+      "text": "pale pink",
+      "type": "ENTITY",
+      "start": 1162,
+      "end": 1171
+    },
+    {
+      "text": "appearance",
+      "type": "ENTITY",
+      "start": 1172,
+      "end": 1182
+    },
+    {
+      "text": "cut sections",
+      "type": "ENTITY",
+      "start": 1186,
+      "end": 1198
+    },
+    {
+      "text": "large",
+      "type": "ENTITY",
+      "start": 1204,
+      "end": 1209
+    },
+    {
+      "text": "bowel",
+      "type": "ENTITY",
+      "start": 1210,
+      "end": 1215
+    },
+    {
+      "text": "external",
+      "type": "ENTITY",
+      "start": 1235,
+      "end": 1243
+    },
+    {
+      "text": "surface",
+      "type": "ENTITY",
+      "start": 1244,
+      "end": 1251
+    },
+    {
+      "text": "tumour mass",
+      "type": "ENTITY",
+      "start": 1259,
+      "end": 1270
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 1272,
+      "end": 1281
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 1289,
+      "end": 1295
+    },
+    {
+      "text": "circumference",
+      "type": "ENTITY",
+      "start": 1309,
+      "end": 1322
+    },
+    {
+      "text": "mucosa",
+      "type": "ENTITY",
+      "start": 1328,
+      "end": 1334
+    },
+    {
+      "text": "bowel",
+      "type": "ENTITY",
+      "start": 1342,
+      "end": 1347
+    },
+    {
+      "text": "unremarkable",
+      "type": "ENTITY",
+      "start": 1356,
+      "end": 1368
+    },
+    {
+      "text": "external",
+      "type": "ENTITY",
+      "start": 1374,
+      "end": 1382
+    },
+    {
+      "text": "surface",
+      "type": "ENTITY",
+      "start": 1383,
+      "end": 1390
+    },
+    {
+      "text": "tumour",
+      "type": "ENTITY",
+      "start": 1398,
+      "end": 1404
+    },
+    {
+      "text": "inked blue",
+      "type": "ENTITY",
+      "start": 1408,
+      "end": 1418
+    },
+    {
+      "text": "piece",
+      "type": "ENTITY",
+      "start": 1438,
+      "end": 1443
+    },
+    {
+      "text": "cross stapled bowel",
+      "type": "ENTITY",
+      "start": 1447,
+      "end": 1466
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 1467,
+      "end": 1476
+    },
+    {
+      "text": "lesions",
+      "type": "ENTITY",
+      "start": 1505,
+      "end": 1512
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 1535,
+      "end": 1546
+    },
+    {
+      "text": "identified",
+      "type": "ENTITY",
+      "start": 1551,
+      "end": 1561
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1570,
+      "end": 1578
+    },
+    {
+      "text": "Al-far margin",
+      "type": "ENTITY",
+      "start": 1582,
+      "end": 1595
+    },
+    {
+      "text": "small bowel",
+      "type": "ENTITY",
+      "start": 1599,
+      "end": 1610
+    },
+    {
+      "text": "A2-near margin",
+      "type": "ENTITY",
+      "start": 1612,
+      "end": 1626
+    },
+    {
+      "text": "small bowel",
+      "type": "ENTITY",
+      "start": 1630,
+      "end": 1641
+    },
+    {
+      "text": "A3&A4-shaved margins",
+      "type": "ENTITY",
+      "start": 1643,
+      "end": 1663
+    },
+    {
+      "text": "A5",
+      "type": "ENTITY",
+      "start": 1680,
+      "end": 1682
+    },
+    {
+      "text": "A8-tumo!.",
+      "type": "ENTITY",
+      "start": 1686,
+      "end": 1695
+    },
+    {
+      "text": "entrapped",
+      "type": "ENTITY",
+      "start": 1702,
+      "end": 1711
+    },
+    {
+      "text": "A9&A10-tumour with",
+      "type": "ENTITY",
+      "start": 1726,
+      "end": 1744
+    },
+    {
+      "text": "adjacent",
+      "type": "ENTITY",
+      "start": 1745,
+      "end": 1753
+    },
+    {
+      "text": "mucosa",
+      "type": "ENTITY",
+      "start": 1754,
+      "end": 1760
+    },
+    {
+      "text": "transmural lymphomatous infiltrate",
+      "type": "ENTITY",
+      "start": 1802,
+      "end": 1836
+    },
+    {
+      "text": "small intestine",
+      "type": "ENTITY",
+      "start": 1844,
+      "end": 1859
+    },
+    {
+      "text": "infiltrate",
+      "type": "ENTITY",
+      "start": 1881,
+      "end": 1891
+    },
+    {
+      "text": "lymphoid cells",
+      "type": "ENTITY",
+      "start": 1901,
+      "end": 1915
+    },
+    {
+      "text": "tingible",
+      "type": "ENTITY",
+      "start": 1931,
+      "end": 1939
+    },
+    {
+      "text": "body macrophages",
+      "type": "ENTITY",
+      "start": 1940,
+      "end": 1956
+    },
+    {
+      "text": "focally",
+      "type": "ENTITY",
+      "start": 1970,
+      "end": 1977
+    },
+    {
+      "text": "appearance",
+      "type": "ENTITY",
+      "start": 1991,
+      "end": 2001
+    },
+    {
+      "text": "Neoplastic cells",
+      "type": "ENTITY",
+      "start": 2003,
+      "end": 2019
+    },
+    {
+      "text": "vesicular",
+      "type": "ENTITY",
+      "start": 2029,
+      "end": 2038
+    },
+    {
+      "text": "chromatin",
+      "type": "ENTITY",
+      "start": 2039,
+      "end": 2048
+    },
+    {
+      "text": "moderate",
+      "type": "ENTITY",
+      "start": 2050,
+      "end": 2058
+    },
+    {
+      "text": "nuclear pleomorphism",
+      "type": "ENTITY",
+      "start": 2059,
+      "end": 2079
+    },
+    {
+      "text": "nucleoli",
+      "type": "ENTITY",
+      "start": 2091,
+      "end": 2099
+    },
+    {
+      "text": "scattered",
+      "type": "ENTITY",
+      "start": 2104,
+      "end": 2113
+    },
+    {
+      "text": "mitoses",
+      "type": "ENTITY",
+      "start": 2114,
+      "end": 2121
+    },
+    {
+      "text": "Immunohistochemistry",
+      "type": "ENTITY",
+      "start": 2123,
+      "end": 2143
+    },
+    {
+      "text": "neoplastic",
+      "type": "ENTITY",
+      "start": 2157,
+      "end": 2167
+    },
+    {
+      "text": "B-cell",
+      "type": "ENTITY",
+      "start": 2192,
+      "end": 2198
+    },
+    {
+      "text": "lineage",
+      "type": "ENTITY",
+      "start": 2199,
+      "end": 2206
+    },
+    {
+      "text": "expression",
+      "type": "ENTITY",
+      "start": 2212,
+      "end": 2222
+    },
+    {
+      "text": "cD20",
+      "type": "ENTITY",
+      "start": 2226,
+      "end": 2230
+    },
+    {
+      "text": "pax5",
+      "type": "ENTITY",
+      "start": 2235,
+      "end": 2239
+    },
+    {
+      "text": "co-express",
+      "type": "ENTITY",
+      "start": 2246,
+      "end": 2256
+    },
+    {
+      "text": "germinal centre",
+      "type": "ENTITY",
+      "start": 2258,
+      "end": 2273
+    },
+    {
+      "text": "markers",
+      "type": "ENTITY",
+      "start": 2274,
+      "end": 2281
+    },
+    {
+      "text": "bcl6",
+      "type": "ENTITY",
+      "start": 2288,
+      "end": 2292
+    },
+    {
+      "text": "heterogeneous staining",
+      "type": "ENTITY",
+      "start": 2297,
+      "end": 2319
+    },
+    {
+      "text": "Lmo2",
+      "type": "ENTITY",
+      "start": 2324,
+      "end": 2328
+    },
+    {
+      "text": "time",
+      "type": "ENTITY",
+      "start": 2342,
+      "end": 2346
+    },
+    {
+      "text": "weak",
+      "type": "ENTITY",
+      "start": 2361,
+      "end": 2365
+    },
+    {
+      "text": "heterogeneous",
+      "type": "ENTITY",
+      "start": 2370,
+      "end": 2383
+    },
+    {
+      "text": "expression",
+      "type": "ENTITY",
+      "start": 2384,
+      "end": 2394
+    },
+    {
+      "text": "muml",
+      "type": "ENTITY",
+      "start": 2398,
+      "end": 2402
+    },
+    {
+      "text": "immunoreactivity",
+      "type": "ENTITY",
+      "start": 2422,
+      "end": 2438
+    },
+    {
+      "text": "FoxPl",
+      "type": "ENTITY",
+      "start": 2443,
+      "end": 2448
+    },
+    {
+      "text": "follicular",
+      "type": "ENTITY",
+      "start": 2462,
+      "end": 2472
+    },
+    {
+      "text": "dendritic meshworks",
+      "type": "ENTITY",
+      "start": 2473,
+      "end": 2492
+    },
+    {
+      "text": "immunostaining",
+      "type": "ENTITY",
+      "start": 2507,
+      "end": 2521
+    },
+    {
+      "text": "cd2l",
+      "type": "ENTITY",
+      "start": 2526,
+      "end": 2530
+    },
+    {
+      "text": "proliferation",
+      "type": "ENTITY",
+      "start": 2536,
+      "end": 2549
+    },
+    {
+      "text": "fraction",
+      "type": "ENTITY",
+      "start": 2550,
+      "end": 2558
+    },
+    {
+      "text": "expression",
+      "type": "ENTITY",
+      "start": 2595,
+      "end": 2605
+    },
+    {
+      "text": "anti-apoptotic molecule",
+      "type": "ENTITY",
+      "start": 2613,
+      "end": 2636
+    },
+    {
+      "text": "bcl2",
+      "type": "ENTITY",
+      "start": 2637,
+      "end": 2641
+    },
+    {
+      "text": "tumour cells",
+      "type": "ENTITY",
+      "start": 2651,
+      "end": 2663
+    },
+    {
+      "text": "Burkitt lymphoma",
+      "type": "ENTITY",
+      "start": 2683,
+      "end": 2699
+    },
+    {
+      "text": "Immunohistochemical stains",
+      "type": "ENTITY",
+      "start": 2701,
+      "end": 2727
+    },
+    {
+      "text": "cD2o",
+      "type": "ENTITY",
+      "start": 2733,
+      "end": 2737
+    },
+    {
+      "text": "pAx5",
+      "type": "ENTITY",
+      "start": 2742,
+      "end": 2746
+    },
+    {
+      "text": "small B lymphocytes",
+      "type": "ENTITY",
+      "start": 2769,
+      "end": 2788
+    },
+    {
+      "text": "cD3 stains",
+      "type": "ENTITY",
+      "start": 2793,
+      "end": 2803
+    },
+    {
+      "text": "T lymphocytes",
+      "type": "ENTITY",
+      "start": 2804,
+      "end": 2817
+    },
+    {
+      "text": "expansion",
+      "type": "ENTITY",
+      "start": 2829,
+      "end": 2838
+    },
+    {
+      "text": "cells",
+      "type": "ENTITY",
+      "start": 2848,
+      "end": 2853
+    }
+  ],
+  "entity_count": 143,
+  "has_embedding": true
+}

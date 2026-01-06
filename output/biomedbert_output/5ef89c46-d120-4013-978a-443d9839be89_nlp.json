@@ -1,0 +1,548 @@
+{
+  "filename": "5ef89c46-d120-4013-978a-443d9839be89",
+  "timestamp": "2026-01-05T14:44:06.771498",
+  "entities": [
+    {
+      "text": "Csrtinons",
+      "type": "ENTITY",
+      "start": 24,
+      "end": 33
+    },
+    {
+      "text": "Nos",
+      "type": "ENTITY",
+      "start": 53,
+      "end": 56
+    },
+    {
+      "text": "Procedure Date",
+      "type": "ENTITY",
+      "start": 70,
+      "end": 84
+    },
+    {
+      "text": "Procedure Physician",
+      "type": "ENTITY",
+      "start": 86,
+      "end": 105
+    },
+    {
+      "text": "Attending",
+      "type": "ENTITY",
+      "start": 107,
+      "end": 116
+    },
+    {
+      "text": "Physician/Copies",
+      "type": "ENTITY",
+      "start": 117,
+      "end": 133
+    },
+    {
+      "text": "UUID",
+      "type": "ENTITY",
+      "start": 138,
+      "end": 142
+    },
+    {
+      "text": "TCGA-BH-A1ET-01A-PR",
+      "type": "ENTITY",
+      "start": 180,
+      "end": 199
+    },
+    {
+      "text": "Redacted",
+      "type": "ENTITY",
+      "start": 200,
+      "end": 208
+    },
+    {
+      "text": "HISTORy",
+      "type": "ENTITY",
+      "start": 217,
+      "end": 224
+    },
+    {
+      "text": "LMP",
+      "type": "ENTITY",
+      "start": 236,
+      "end": 239
+    },
+    {
+      "text": "PRE-OP DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 268,
+      "end": 284
+    },
+    {
+      "text": "CANCER",
+      "type": "ENTITY",
+      "start": 286,
+      "end": 292
+    },
+    {
+      "text": "LEFT BREASTS",
+      "type": "ENTITY",
+      "start": 293,
+      "end": 305
+    },
+    {
+      "text": "DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 314,
+      "end": 323
+    },
+    {
+      "text": "SAME OPERATIVE",
+      "type": "ENTITY",
+      "start": 325,
+      "end": 339
+    },
+    {
+      "text": "LEFT SEGMENTAL",
+      "type": "ENTITY",
+      "start": 351,
+      "end": 365
+    },
+    {
+      "text": "MAST",
+      "type": "ENTITY",
+      "start": 366,
+      "end": 370
+    },
+    {
+      "text": "LEFT",
+      "type": "ENTITY",
+      "start": 372,
+      "end": 376
+    },
+    {
+      "text": "SUEMITTED",
+      "type": "ENTITY",
+      "start": 418,
+      "end": 427
+    },
+    {
+      "text": "BREAST",
+      "type": "ENTITY",
+      "start": 437,
+      "end": 443
+    },
+    {
+      "text": "BIOPSY/MASS/SEGMENTAL MASTECTOMY",
+      "type": "ENTITY",
+      "start": 444,
+      "end": 476
+    },
+    {
+      "text": "PROCUREMENT",
+      "type": "ENTITY",
+      "start": 478,
+      "end": 489
+    },
+    {
+      "text": "PROCUREMENT",
+      "type": "ENTITY",
+      "start": 544,
+      "end": 555
+    },
+    {
+      "text": "SURGICAL PROCEDURE ADDENDA",
+      "type": "ENTITY",
+      "start": 559,
+      "end": 585
+    },
+    {
+      "text": "MACROSCOPIC\"DrsCRIDTION",
+      "type": "ENTITY",
+      "start": 596,
+      "end": 619
+    },
+    {
+      "text": "BloCk",
+      "type": "ENTITY",
+      "start": 621,
+      "end": 626
+    },
+    {
+      "text": "ER/PR",
+      "type": "ENTITY",
+      "start": 636,
+      "end": 641
+    },
+    {
+      "text": "HER-2/neu FINAL DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 646,
+      "end": 671
+    },
+    {
+      "text": "ER/PR RESULTS IMMUNOPEROXIDASE",
+      "type": "ENTITY",
+      "start": 673,
+      "end": 703
+    },
+    {
+      "text": "ESTROGEN",
+      "type": "ENTITY",
+      "start": 722,
+      "end": 730
+    },
+    {
+      "text": "PROCESTERONE",
+      "type": "ENTITY",
+      "start": 735,
+      "end": 747
+    },
+    {
+      "text": "IS",
+      "type": "ENTITY",
+      "start": 758,
+      "end": 760
+    },
+    {
+      "text": "STAINING IS",
+      "type": "ENTITY",
+      "start": 810,
+      "end": 821
+    },
+    {
+      "text": "ESTROGEN RECEPTOR",
+      "type": "ENTITY",
+      "start": 837,
+      "end": 854
+    },
+    {
+      "text": "PROGESTERONE RECEPTOR",
+      "type": "ENTITY",
+      "start": 865,
+      "end": 886
+    },
+    {
+      "text": "SOt",
+      "type": "ENTITY",
+      "start": 888,
+      "end": 891
+    },
+    {
+      "text": "THEREFORE",
+      "type": "ENTITY",
+      "start": 894,
+      "end": 903
+    },
+    {
+      "text": "ARE",
+      "type": "ENTITY",
+      "start": 910,
+      "end": 913
+    },
+    {
+      "text": "AS",
+      "type": "ENTITY",
+      "start": 926,
+      "end": 928
+    },
+    {
+      "text": "POSITIVE.S",
+      "type": "ENTITY",
+      "start": 929,
+      "end": 939
+    },
+    {
+      "text": "HER-2/NBU RESULTS",
+      "type": "ENTITY",
+      "start": 940,
+      "end": 957
+    },
+    {
+      "text": "AS",
+      "type": "ENTITY",
+      "start": 958,
+      "end": 960
+    },
+    {
+      "text": "PER",
+      "type": "ENTITY",
+      "start": 961,
+      "end": 964
+    },
+    {
+      "text": "DR",
+      "type": "ENTITY",
+      "start": 980,
+      "end": 982
+    },
+    {
+      "text": "BAFFONI",
+      "type": "ENTITY",
+      "start": 984,
+      "end": 991
+    },
+    {
+      "text": "c-erbB2",
+      "type": "ENTITY",
+      "start": 993,
+      "end": 1000
+    },
+    {
+      "text": "MAGEE",
+      "type": "ENTITY",
+      "start": 1054,
+      "end": 1059
+    },
+    {
+      "text": "DILUTION",
+      "type": "ENTITY",
+      "start": 1103,
+      "end": 1111
+    },
+    {
+      "text": "DAKO'S POLYCLCNAL ANTIBODY A485",
+      "type": "ENTITY",
+      "start": 1115,
+      "end": 1146
+    },
+    {
+      "text": "DIRECTED AGAINST",
+      "type": "ENTITY",
+      "start": 1148,
+      "end": 1164
+    },
+    {
+      "text": "C-erbB2",
+      "type": "ENTITY",
+      "start": 1193,
+      "end": 1200
+    },
+    {
+      "text": "NO",
+      "type": "ENTITY",
+      "start": 1229,
+      "end": 1231
+    },
+    {
+      "text": "COMPLETE",
+      "type": "ENTITY",
+      "start": 1241,
+      "end": 1249
+    },
+    {
+      "text": "MEMSRANE",
+      "type": "ENTITY",
+      "start": 1250,
+      "end": 1258
+    },
+    {
+      "text": "STAININC",
+      "type": "ENTITY",
+      "start": 1259,
+      "end": 1267
+    },
+    {
+      "text": "IS",
+      "type": "ENTITY",
+      "start": 1268,
+      "end": 1270
+    },
+    {
+      "text": "IDENTIPIED",
+      "type": "ENTITY",
+      "start": 1271,
+      "end": 1281
+    },
+    {
+      "text": "THERSFORE",
+      "type": "ENTITY",
+      "start": 1283,
+      "end": 1292
+    },
+    {
+      "text": "C-erbB2",
+      "type": "ENTITY",
+      "start": 1294,
+      "end": 1301
+    },
+    {
+      "text": "IS",
+      "type": "ENTITY",
+      "start": 1314,
+      "end": 1316
+    },
+    {
+      "text": "INTERPRETED AS NEGATIVE",
+      "type": "ENTITY",
+      "start": 1317,
+      "end": 1340
+    },
+    {
+      "text": "SCORE",
+      "type": "ENTITY",
+      "start": 1342,
+      "end": 1347
+    },
+    {
+      "text": "FINAL DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 1369,
+      "end": 1384
+    },
+    {
+      "text": "SREAST",
+      "type": "ENTITY",
+      "start": 1394,
+      "end": 1400
+    },
+    {
+      "text": "SEQMENTAL",
+      "type": "ENTITY",
+      "start": 1402,
+      "end": 1411
+    },
+    {
+      "text": "INFILTRATING MODERATELY",
+      "type": "ENTITY",
+      "start": 1424,
+      "end": 1447
+    },
+    {
+      "text": "DUCT",
+      "type": "ENTITY",
+      "start": 1463,
+      "end": 1467
+    },
+    {
+      "text": "NITH",
+      "type": "ENTITY",
+      "start": 1478,
+      "end": 1482
+    },
+    {
+      "text": "FOCAL",
+      "type": "ENTITY",
+      "start": 1483,
+      "end": 1488
+    },
+    {
+      "text": "LORINAR",
+      "type": "ENTITY",
+      "start": 1489,
+      "end": 1496
+    },
+    {
+      "text": "FEATURES",
+      "type": "ENTITY",
+      "start": 1497,
+      "end": 1505
+    },
+    {
+      "text": "CM",
+      "type": "ENTITY",
+      "start": 1511,
+      "end": 1513
+    },
+    {
+      "text": "AS",
+      "type": "ENTITY",
+      "start": 1516,
+      "end": 1518
+    },
+    {
+      "text": "SLIDE",
+      "type": "ENTITY",
+      "start": 1537,
+      "end": 1542
+    },
+    {
+      "text": "ARCHITECTURAL",
+      "type": "ENTITY",
+      "start": 1553,
+      "end": 1566
+    },
+    {
+      "text": "GRADE",
+      "type": "ENTITY",
+      "start": 1567,
+      "end": 1572
+    },
+    {
+      "text": "SCORE-6",
+      "type": "ENTITY",
+      "start": 1615,
+      "end": 1622
+    },
+    {
+      "text": "TUBULES-3",
+      "type": "ENTITY",
+      "start": 1624,
+      "end": 1633
+    },
+    {
+      "text": "RATE-1",
+      "type": "ENTITY",
+      "start": 1643,
+      "end": 1649
+    },
+    {
+      "text": "NUCLEAR PLEOMORPHISM-2",
+      "type": "ENTITY",
+      "start": 1651,
+      "end": 1673
+    },
+    {
+      "text": "SEE",
+      "type": "ENTITY",
+      "start": 1676,
+      "end": 1679
+    },
+    {
+      "text": "CROSS REFER",
+      "type": "ENTITY",
+      "start": 1687,
+      "end": 1698
+    },
+    {
+      "text": "FIBROCYSTIC",
+      "type": "ENTITY",
+      "start": 1703,
+      "end": 1714
+    },
+    {
+      "text": "CHANGES WITH",
+      "type": "ENTITY",
+      "start": 1715,
+      "end": 1727
+    },
+    {
+      "text": "MICROCALCIFICATIONSS",
+      "type": "ENTITY",
+      "start": 1798,
+      "end": 1818
+    },
+    {
+      "text": "MARGINS",
+      "type": "ENTITY",
+      "start": 1821,
+      "end": 1828
+    },
+    {
+      "text": "RESECTION",
+      "type": "ENTITY",
+      "start": 1832,
+      "end": 1841
+    },
+    {
+      "text": "TUMORS B",
+      "type": "ENTITY",
+      "start": 1854,
+      "end": 1862
+    },
+    {
+      "text": "NINETEEN",
+      "type": "ENTITY",
+      "start": 1896,
+      "end": 1904
+    }
+  ],
+  "entity_count": 90,
+  "has_embedding": true
+}

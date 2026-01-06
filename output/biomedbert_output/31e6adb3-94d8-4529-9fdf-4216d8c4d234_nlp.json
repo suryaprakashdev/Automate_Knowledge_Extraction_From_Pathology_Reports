@@ -1,0 +1,590 @@
+{
+  "filename": "31e6adb3-94d8-4529-9fdf-4216d8c4d234",
+  "timestamp": "2026-01-05T14:45:28.709627",
+  "entities": [
+    {
+      "text": "1 Department of Cancer",
+      "type": "ENTITY",
+      "start": 25,
+      "end": 47
+    },
+    {
+      "text": "Histopathological",
+      "type": "ENTITY",
+      "start": 80,
+      "end": 97
+    },
+    {
+      "text": "examination",
+      "type": "ENTITY",
+      "start": 98,
+      "end": 109
+    },
+    {
+      "text": "Internal invoice No. Cost",
+      "type": "ENTITY",
+      "start": 110,
+      "end": 135
+    },
+    {
+      "text": "diagnostic procedure Examination No.",
+      "type": "ENTITY",
+      "start": 139,
+      "end": 175
+    },
+    {
+      "text": "Patient",
+      "type": "ENTITY",
+      "start": 177,
+      "end": 184
+    },
+    {
+      "text": "XXX",
+      "type": "ENTITY",
+      "start": 186,
+      "end": 189
+    },
+    {
+      "text": "PESEL",
+      "type": "ENTITY",
+      "start": 190,
+      "end": 195
+    },
+    {
+      "text": "XXX Age",
+      "type": "ENTITY",
+      "start": 197,
+      "end": 204
+    },
+    {
+      "text": "Gender",
+      "type": "ENTITY",
+      "start": 206,
+      "end": 212
+    },
+    {
+      "text": "Material",
+      "type": "ENTITY",
+      "start": 214,
+      "end": 222
+    },
+    {
+      "text": "Multiple",
+      "type": "ENTITY",
+      "start": 227,
+      "end": 235
+    },
+    {
+      "text": "resection",
+      "type": "ENTITY",
+      "start": 242,
+      "end": 251
+    },
+    {
+      "text": "Physician",
+      "type": "ENTITY",
+      "start": 277,
+      "end": 286
+    },
+    {
+      "text": "charge",
+      "type": "ENTITY",
+      "start": 290,
+      "end": 296
+    },
+    {
+      "text": "Material",
+      "type": "ENTITY",
+      "start": 298,
+      "end": 306
+    },
+    {
+      "text": "Expected time",
+      "type": "ENTITY",
+      "start": 339,
+      "end": 352
+    },
+    {
+      "text": "examination",
+      "type": "ENTITY",
+      "start": 356,
+      "end": 367
+    },
+    {
+      "text": "Clinical diagnosis",
+      "type": "ENTITY",
+      "start": 370,
+      "end": 388
+    },
+    {
+      "text": "right side",
+      "type": "ENTITY",
+      "start": 390,
+      "end": 400
+    },
+    {
+      "text": "colon",
+      "type": "ENTITY",
+      "start": 408,
+      "end": 413
+    },
+    {
+      "text": "transverse",
+      "type": "ENTITY",
+      "start": 429,
+      "end": 439
+    },
+    {
+      "text": "descending",
+      "type": "ENTITY",
+      "start": 441,
+      "end": 451
+    },
+    {
+      "text": "sigmoid",
+      "type": "ENTITY",
+      "start": 456,
+      "end": 463
+    },
+    {
+      "text": "colons",
+      "type": "ENTITY",
+      "start": 464,
+      "end": 470
+    },
+    {
+      "text": "tumours",
+      "type": "ENTITY",
+      "start": 476,
+      "end": 483
+    },
+    {
+      "text": "stained with",
+      "type": "ENTITY",
+      "start": 489,
+      "end": 501
+    },
+    {
+      "text": "blue dye",
+      "type": "ENTITY",
+      "start": 502,
+      "end": 510
+    },
+    {
+      "text": "right side",
+      "type": "ENTITY",
+      "start": 518,
+      "end": 528
+    },
+    {
+      "text": "transverse colon",
+      "type": "ENTITY",
+      "start": 536,
+      "end": 552
+    },
+    {
+      "text": "tumour",
+      "type": "ENTITY",
+      "start": 571,
+      "end": 577
+    },
+    {
+      "text": "distal",
+      "type": "ENTITY",
+      "start": 585,
+      "end": 591
+    },
+    {
+      "text": "sigmoid colon",
+      "type": "ENTITY",
+      "start": 604,
+      "end": 617
+    },
+    {
+      "text": "polyps",
+      "type": "ENTITY",
+      "start": 619,
+      "end": 625
+    },
+    {
+      "text": "splenic flexure",
+      "type": "ENTITY",
+      "start": 634,
+      "end": 649
+    },
+    {
+      "text": "Examination",
+      "type": "ENTITY",
+      "start": 651,
+      "end": 662
+    },
+    {
+      "text": "Macroscopic",
+      "type": "ENTITY",
+      "start": 677,
+      "end": 688
+    },
+    {
+      "text": "description",
+      "type": "ENTITY",
+      "start": 689,
+      "end": 700
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 711,
+      "end": 717
+    },
+    {
+      "text": "intestine",
+      "type": "ENTITY",
+      "start": 731,
+      "end": 740
+    },
+    {
+      "text": "periintestinal tissue",
+      "type": "ENTITY",
+      "start": 746,
+      "end": 767
+    },
+    {
+      "text": "sized",
+      "type": "ENTITY",
+      "start": 768,
+      "end": 773
+    },
+    {
+      "text": "segment",
+      "type": "ENTITY",
+      "start": 799,
+      "end": 806
+    },
+    {
+      "text": "small",
+      "type": "ENTITY",
+      "start": 814,
+      "end": 819
+    },
+    {
+      "text": "intestine",
+      "type": "ENTITY",
+      "start": 820,
+      "end": 829
+    },
+    {
+      "text": "appendix",
+      "type": "ENTITY",
+      "start": 840,
+      "end": 848
+    },
+    {
+      "text": "omentum",
+      "type": "ENTITY",
+      "start": 857,
+      "end": 864
+    },
+    {
+      "text": "sized",
+      "type": "ENTITY",
+      "start": 865,
+      "end": 870
+    },
+    {
+      "text": "ulceration",
+      "type": "ENTITY",
+      "start": 891,
+      "end": 901
+    },
+    {
+      "text": "sized",
+      "type": "ENTITY",
+      "start": 902,
+      "end": 907
+    },
+    {
+      "text": "mucosa",
+      "type": "ENTITY",
+      "start": 938,
+      "end": 944
+    },
+    {
+      "text": "lesion",
+      "type": "ENTITY",
+      "start": 950,
+      "end": 956
+    },
+    {
+      "text": "intestine",
+      "type": "ENTITY",
+      "start": 978,
+      "end": 987
+    },
+    {
+      "text": "proximal",
+      "type": "ENTITY",
+      "start": 1039,
+      "end": 1047
+    },
+    {
+      "text": "excision",
+      "type": "ENTITY",
+      "start": 1048,
+      "end": 1056
+    },
+    {
+      "text": "distal excision line",
+      "type": "ENTITY",
+      "start": 1074,
+      "end": 1094
+    },
+    {
+      "text": "Bauhin's valve",
+      "type": "ENTITY",
+      "start": 1122,
+      "end": 1136
+    },
+    {
+      "text": "tumour sized",
+      "type": "ENTITY",
+      "start": 1152,
+      "end": 1164
+    },
+    {
+      "text": "surrounding",
+      "type": "ENTITY",
+      "start": 1184,
+      "end": 1195
+    },
+    {
+      "text": "circumference",
+      "type": "ENTITY",
+      "start": 1215,
+      "end": 1228
+    },
+    {
+      "text": "proximal",
+      "type": "ENTITY",
+      "start": 1254,
+      "end": 1262
+    },
+    {
+      "text": "boundary",
+      "type": "ENTITY",
+      "start": 1263,
+      "end": 1271
+    },
+    {
+      "text": "distal",
+      "type": "ENTITY",
+      "start": 1292,
+      "end": 1298
+    },
+    {
+      "text": "distance",
+      "type": "ENTITY",
+      "start": 1308,
+      "end": 1316
+    },
+    {
+      "text": "tumours",
+      "type": "ENTITY",
+      "start": 1329,
+      "end": 1336
+    },
+    {
+      "text": "Microscopic description",
+      "type": "ENTITY",
+      "start": 1349,
+      "end": 1372
+    },
+    {
+      "text": "Adenocarcinoma tubulopapillare",
+      "type": "ENTITY",
+      "start": 1374,
+      "end": 1404
+    },
+    {
+      "text": "bifocale",
+      "type": "ENTITY",
+      "start": 1405,
+      "end": 1413
+    },
+    {
+      "text": "G2",
+      "type": "ENTITY",
+      "start": 1415,
+      "end": 1417
+    },
+    {
+      "text": "Infiltratio carcinomatosa telae",
+      "type": "ENTITY",
+      "start": 1420,
+      "end": 1451
+    },
+    {
+      "text": "Excision lines",
+      "type": "ENTITY",
+      "start": 1473,
+      "end": 1487
+    },
+    {
+      "text": "neoplastic infiltration",
+      "type": "ENTITY",
+      "start": 1497,
+      "end": 1520
+    },
+    {
+      "text": "tumour",
+      "type": "ENTITY",
+      "start": 1534,
+      "end": 1540
+    },
+    {
+      "text": "Adenoma tubulopapillare cum dysplasia",
+      "type": "ENTITY",
+      "start": 1542,
+      "end": 1579
+    },
+    {
+      "text": "Lymphonodulitis reactiva",
+      "type": "ENTITY",
+      "start": 1596,
+      "end": 1620
+    },
+    {
+      "text": "NO V",
+      "type": "ENTITY",
+      "start": 1622,
+      "end": 1626
+    },
+    {
+      "text": "Histopathological",
+      "type": "ENTITY",
+      "start": 1629,
+      "end": 1646
+    },
+    {
+      "text": "diagnosis",
+      "type": "ENTITY",
+      "start": 1647,
+      "end": 1656
+    },
+    {
+      "text": "Adenocarcinoma tubulopapillare",
+      "type": "ENTITY",
+      "start": 1657,
+      "end": 1687
+    },
+    {
+      "text": "bifocale coli",
+      "type": "ENTITY",
+      "start": 1688,
+      "end": 1701
+    },
+    {
+      "text": "Tubulopapillar bifocal adenocarcinoma",
+      "type": "ENTITY",
+      "start": 1703,
+      "end": 1740
+    },
+    {
+      "text": "G2",
+      "type": "ENTITY",
+      "start": 1755,
+      "end": 1757
+    },
+    {
+      "text": "Dukes B",
+      "type": "ENTITY",
+      "start": 1759,
+      "end": 1766
+    },
+    {
+      "text": "Astler",
+      "type": "ENTITY",
+      "start": 1768,
+      "end": 1774
+    },
+    {
+      "text": "Coller B2",
+      "type": "ENTITY",
+      "start": 1777,
+      "end": 1786
+    },
+    {
+      "text": "pT3",
+      "type": "ENTITY",
+      "start": 1788,
+      "end": 1791
+    },
+    {
+      "text": "pNO",
+      "type": "ENTITY",
+      "start": 1793,
+      "end": 1796
+    },
+    {
+      "text": "Compliance",
+      "type": "ENTITY",
+      "start": 1799,
+      "end": 1809
+    },
+    {
+      "text": "Examination",
+      "type": "ENTITY",
+      "start": 1824,
+      "end": 1835
+    },
+    {
+      "text": "performed",
+      "type": "ENTITY",
+      "start": 1836,
+      "end": 1845
+    },
+    {
+      "text": "Supplementary",
+      "type": "ENTITY",
+      "start": 1850,
+      "end": 1863
+    },
+    {
+      "text": "information",
+      "type": "ENTITY",
+      "start": 1864,
+      "end": 1875
+    },
+    {
+      "text": "reactive lymph nodes",
+      "type": "ENTITY",
+      "start": 1895,
+      "end": 1915
+    },
+    {
+      "text": "collected specimens",
+      "type": "ENTITY",
+      "start": 1929,
+      "end": 1948
+    },
+    {
+      "text": "pNO",
+      "type": "ENTITY",
+      "start": 1950,
+      "end": 1953
+    },
+    {
+      "text": "Compliance",
+      "type": "ENTITY",
+      "start": 1956,
+      "end": 1966
+    },
+    {
+      "text": "CONTACT YOUR DOCTOR",
+      "type": "ENTITY",
+      "start": 1981,
+      "end": 2000
+    }
+  ],
+  "entity_count": 97,
+  "has_embedding": true
+}

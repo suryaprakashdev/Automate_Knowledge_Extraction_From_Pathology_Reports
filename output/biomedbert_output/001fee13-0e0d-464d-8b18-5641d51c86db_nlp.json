@@ -1,0 +1,932 @@
+{
+  "filename": "001fee13-0e0d-464d-8b18-5641d51c86db",
+  "timestamp": "2026-01-05T14:42:16.013256",
+  "entities": [
+    {
+      "text": "A. RIGHT",
+      "type": "ENTITY",
+      "start": 27,
+      "end": 35
+    },
+    {
+      "text": "A. RIGHT",
+      "type": "ENTITY",
+      "start": 53,
+      "end": 61
+    },
+    {
+      "text": "COLON",
+      "type": "ENTITY",
+      "start": 62,
+      "end": 67
+    },
+    {
+      "text": "RIGHT HEMICOLECTOMY",
+      "type": "ENTITY",
+      "start": 69,
+      "end": 88
+    },
+    {
+      "text": "EXOPHYTIC",
+      "type": "ENTITY",
+      "start": 92,
+      "end": 101
+    },
+    {
+      "text": "CIRCUMFERENTIAL",
+      "type": "ENTITY",
+      "start": 102,
+      "end": 117
+    },
+    {
+      "text": "INVASIVE",
+      "type": "ENTITY",
+      "start": 128,
+      "end": 136
+    },
+    {
+      "text": "DIFEERENTIATED",
+      "type": "ENTITY",
+      "start": 156,
+      "end": 170
+    },
+    {
+      "text": "CECUM",
+      "type": "ENTITY",
+      "start": 189,
+      "end": 194
+    },
+    {
+      "text": "ASCENDING",
+      "type": "ENTITY",
+      "start": 205,
+      "end": 214
+    },
+    {
+      "text": "EXTENSION TO SUB- SEROSAL",
+      "type": "ENTITY",
+      "start": 298,
+      "end": 323
+    },
+    {
+      "text": "PERICOLIC",
+      "type": "ENTITY",
+      "start": 369,
+      "end": 378
+    },
+    {
+      "text": "LYMPH NODES",
+      "type": "ENTITY",
+      "start": 379,
+      "end": 390
+    },
+    {
+      "text": "WITH PERINODAL",
+      "type": "ENTITY",
+      "start": 392,
+      "end": 406
+    },
+    {
+      "text": "EXTENSION",
+      "type": "ENTITY",
+      "start": 411,
+      "end": 420
+    },
+    {
+      "text": "SIZE",
+      "type": "ENTITY",
+      "start": 425,
+      "end": 429
+    },
+    {
+      "text": "TUMOR-",
+      "type": "ENTITY",
+      "start": 433,
+      "end": 439
+    },
+    {
+      "text": "CM",
+      "type": "ENTITY",
+      "start": 449,
+      "end": 451
+    },
+    {
+      "text": "TUBULOVILLOUS",
+      "type": "ENTITY",
+      "start": 455,
+      "end": 468
+    },
+    {
+      "text": "CM",
+      "type": "ENTITY",
+      "start": 488,
+      "end": 490
+    },
+    {
+      "text": "VERMIFORM",
+      "type": "ENTITY",
+      "start": 495,
+      "end": 504
+    },
+    {
+      "text": "APPENDIX",
+      "type": "ENTITY",
+      "start": 505,
+      "end": 513
+    },
+    {
+      "text": "NEGATIVE",
+      "type": "ENTITY",
+      "start": 516,
+      "end": 524
+    },
+    {
+      "text": "TUMOR",
+      "type": "ENTITY",
+      "start": 529,
+      "end": 534
+    },
+    {
+      "text": "PROXIMAL",
+      "type": "ENTITY",
+      "start": 537,
+      "end": 545
+    },
+    {
+      "text": "DISTAL",
+      "type": "ENTITY",
+      "start": 547,
+      "end": 553
+    },
+    {
+      "text": "RADIAL MARGINS",
+      "type": "ENTITY",
+      "start": 558,
+      "end": 572
+    },
+    {
+      "text": "RESECTION",
+      "type": "ENTITY",
+      "start": 576,
+      "end": 585
+    },
+    {
+      "text": "NEGATIVEE",
+      "type": "ENTITY",
+      "start": 588,
+      "end": 597
+    },
+    {
+      "text": "TUMOR",
+      "type": "ENTITY",
+      "start": 602,
+      "end": 607
+    },
+    {
+      "text": "COLORECTAL CANCER",
+      "type": "ENTITY",
+      "start": 609,
+      "end": 626
+    },
+    {
+      "text": "Specimen Type",
+      "type": "ENTITY",
+      "start": 636,
+      "end": 649
+    },
+    {
+      "text": "Right hemicolectomy Tumor Site",
+      "type": "ENTITY",
+      "start": 651,
+      "end": 681
+    },
+    {
+      "text": "Cecum",
+      "type": "ENTITY",
+      "start": 683,
+      "end": 688
+    },
+    {
+      "text": "proximal",
+      "type": "ENTITY",
+      "start": 689,
+      "end": 697
+    },
+    {
+      "text": "Tumor Configuration",
+      "type": "ENTITY",
+      "start": 714,
+      "end": 733
+    },
+    {
+      "text": "Exophytic (polypoid",
+      "type": "ENTITY",
+      "start": 735,
+      "end": 754
+    },
+    {
+      "text": "Infiltrative",
+      "type": "ENTITY",
+      "start": 757,
+      "end": 769
+    },
+    {
+      "text": "Ulcerating",
+      "type": "ENTITY",
+      "start": 771,
+      "end": 781
+    },
+    {
+      "text": "Tumor Size",
+      "type": "ENTITY",
+      "start": 782,
+      "end": 792
+    },
+    {
+      "text": "Histologic Type",
+      "type": "ENTITY",
+      "start": 813,
+      "end": 828
+    },
+    {
+      "text": "Adenocarcinoma",
+      "type": "ENTITY",
+      "start": 830,
+      "end": 844
+    },
+    {
+      "text": "Histologic Grade",
+      "type": "ENTITY",
+      "start": 845,
+      "end": 861
+    },
+    {
+      "text": "Extent",
+      "type": "ENTITY",
+      "start": 866,
+      "end": 872
+    },
+    {
+      "text": "Invasion",
+      "type": "ENTITY",
+      "start": 876,
+      "end": 884
+    },
+    {
+      "text": "invasive carcinoma",
+      "type": "ENTITY",
+      "start": 929,
+      "end": 947
+    },
+    {
+      "text": "Venous/Lymphatic Invasion",
+      "type": "ENTITY",
+      "start": 949,
+      "end": 974
+    },
+    {
+      "text": "Perineural Invasion",
+      "type": "ENTITY",
+      "start": 984,
+      "end": 1003
+    },
+    {
+      "text": "Pathologic",
+      "type": "ENTITY",
+      "start": 1024,
+      "end": 1034
+    },
+    {
+      "text": "Findings",
+      "type": "ENTITY",
+      "start": 1035,
+      "end": 1043
+    },
+    {
+      "text": "Adenoma",
+      "type": "ENTITY",
+      "start": 1045,
+      "end": 1052
+    },
+    {
+      "text": "Extent",
+      "type": "ENTITY",
+      "start": 1053,
+      "end": 1059
+    },
+    {
+      "text": "Resection",
+      "type": "ENTITY",
+      "start": 1063,
+      "end": 1072
+    },
+    {
+      "text": "R0 Positive (6/36)",
+      "type": "ENTITY",
+      "start": 1074,
+      "end": 1092
+    },
+    {
+      "text": "Lymph Nodes",
+      "type": "ENTITY",
+      "start": 1093,
+      "end": 1104
+    },
+    {
+      "text": "Absent EGFR",
+      "type": "ENTITY",
+      "start": 1117,
+      "end": 1128
+    },
+    {
+      "text": "Expression",
+      "type": "ENTITY",
+      "start": 1129,
+      "end": 1139
+    },
+    {
+      "text": "Pathologic Stage",
+      "type": "ENTITY",
+      "start": 1149,
+      "end": 1165
+    },
+    {
+      "text": "pT3 N2 MX ADDENDUM",
+      "type": "ENTITY",
+      "start": 1167,
+      "end": 1185
+    },
+    {
+      "text": "report",
+      "type": "ENTITY",
+      "start": 1198,
+      "end": 1204
+    },
+    {
+      "text": "Results",
+      "type": "ENTITY",
+      "start": 1206,
+      "end": 1213
+    },
+    {
+      "text": "immunostain",
+      "type": "ENTITY",
+      "start": 1217,
+      "end": 1228
+    },
+    {
+      "text": "EGFR",
+      "type": "ENTITY",
+      "start": 1230,
+      "end": 1234
+    },
+    {
+      "text": "section",
+      "type": "ENTITY",
+      "start": 1237,
+      "end": 1244
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 1263,
+      "end": 1271
+    },
+    {
+      "text": "immunoreactivity",
+      "type": "ENTITY",
+      "start": 1272,
+      "end": 1288
+    },
+    {
+      "text": "SPECIMEN(S",
+      "type": "ENTITY",
+      "start": 1290,
+      "end": 1300
+    },
+    {
+      "text": "A. RIGHT",
+      "type": "ENTITY",
+      "start": 1303,
+      "end": 1311
+    },
+    {
+      "text": "A. RIGHT",
+      "type": "ENTITY",
+      "start": 1337,
+      "end": 1345
+    },
+    {
+      "text": "COLON TERMINAL",
+      "type": "ENTITY",
+      "start": 1346,
+      "end": 1360
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 1377,
+      "end": 1382
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 1383,
+      "end": 1390
+    },
+    {
+      "text": "patient's",
+      "type": "ENTITY",
+      "start": 1400,
+      "end": 1409
+    },
+    {
+      "text": "unit number",
+      "type": "ENTITY",
+      "start": 1416,
+      "end": 1427
+    },
+    {
+      "text": "\"right colon terminal",
+      "type": "ENTITY",
+      "start": 1432,
+      "end": 1453
+    },
+    {
+      "text": "ileum'",
+      "type": "ENTITY",
+      "start": 1454,
+      "end": 1460
+    },
+    {
+      "text": "right hemicolectomy",
+      "type": "ENTITY",
+      "start": 1481,
+      "end": 1500
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1501,
+      "end": 1509
+    },
+    {
+      "text": "ileum",
+      "type": "ENTITY",
+      "start": 1515,
+      "end": 1520
+    },
+    {
+      "text": "circumference",
+      "type": "ENTITY",
+      "start": 1548,
+      "end": 1561
+    },
+    {
+      "text": "colon",
+      "type": "ENTITY",
+      "start": 1567,
+      "end": 1572
+    },
+    {
+      "text": "circumference",
+      "type": "ENTITY",
+      "start": 1602,
+      "end": 1615
+    },
+    {
+      "text": "appendix",
+      "type": "ENTITY",
+      "start": 1633,
+      "end": 1641
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 1673,
+      "end": 1681
+    },
+    {
+      "text": "serosal surface",
+      "type": "ENTITY",
+      "start": 1687,
+      "end": 1702
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1710,
+      "end": 1718
+    },
+    {
+      "text": "smooth",
+      "type": "ENTITY",
+      "start": 1727,
+      "end": 1733
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 1752,
+      "end": 1763
+    },
+    {
+      "text": "palpated",
+      "type": "ENTITY",
+      "start": 1768,
+      "end": 1776
+    },
+    {
+      "text": "adherent",
+      "type": "ENTITY",
+      "start": 1792,
+      "end": 1800
+    },
+    {
+      "text": "pericolonic fat",
+      "type": "ENTITY",
+      "start": 1801,
+      "end": 1816
+    },
+    {
+      "text": "cecum",
+      "type": "ENTITY",
+      "start": 1824,
+      "end": 1829
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1835,
+      "end": 1843
+    },
+    {
+      "text": "opened",
+      "type": "ENTITY",
+      "start": 1849,
+      "end": 1855
+    },
+    {
+      "text": "circumferential",
+      "type": "ENTITY",
+      "start": 1864,
+      "end": 1879
+    },
+    {
+      "text": "indurated",
+      "type": "ENTITY",
+      "start": 1928,
+      "end": 1937
+    },
+    {
+      "text": "peripheral borders",
+      "type": "ENTITY",
+      "start": 1938,
+      "end": 1956
+    },
+    {
+      "text": "proximal",
+      "type": "ENTITY",
+      "start": 1967,
+      "end": 1975
+    },
+    {
+      "text": "cecum",
+      "type": "ENTITY",
+      "start": 1992,
+      "end": 1997
+    },
+    {
+      "text": "iliocecal valve",
+      "type": "ENTITY",
+      "start": 2029,
+      "end": 2044
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 2045,
+      "end": 2054
+    },
+    {
+      "text": "distal",
+      "type": "ENTITY",
+      "start": 2102,
+      "end": 2108
+    },
+    {
+      "text": "proximal",
+      "type": "ENTITY",
+      "start": 2124,
+      "end": 2132
+    },
+    {
+      "text": "Cut sections",
+      "type": "ENTITY",
+      "start": 2140,
+      "end": 2152
+    },
+    {
+      "text": "tan white granular",
+      "type": "ENTITY",
+      "start": 2158,
+      "end": 2176
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 2189,
+      "end": 2194
+    },
+    {
+      "text": "infiltrating muscle wall",
+      "type": "ENTITY",
+      "start": 2200,
+      "end": 2224
+    },
+    {
+      "text": "grossly",
+      "type": "ENTITY",
+      "start": 2229,
+      "end": 2236
+    },
+    {
+      "text": "subjacent",
+      "type": "ENTITY",
+      "start": 2258,
+      "end": 2267
+    },
+    {
+      "text": "subserosal fat",
+      "type": "ENTITY",
+      "start": 2268,
+      "end": 2282
+    },
+    {
+      "text": "colonic mucosa",
+      "type": "ENTITY",
+      "start": 2296,
+      "end": 2310
+    },
+    {
+      "text": "flattened",
+      "type": "ENTITY",
+      "start": 2319,
+      "end": 2328
+    },
+    {
+      "text": "appearance",
+      "type": "ENTITY",
+      "start": 2329,
+      "end": 2339
+    },
+    {
+      "text": "small polyp",
+      "type": "ENTITY",
+      "start": 2348,
+      "end": 2359
+    },
+    {
+      "text": "hepatic flexure",
+      "type": "ENTITY",
+      "start": 2366,
+      "end": 2381
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 2382,
+      "end": 2391
+    },
+    {
+      "text": "1.2x1.1",
+      "type": "ENTITY",
+      "start": 2392,
+      "end": 2399
+    },
+    {
+      "text": "Dissection",
+      "type": "ENTITY",
+      "start": 2404,
+      "end": 2414
+    },
+    {
+      "text": "adherent",
+      "type": "ENTITY",
+      "start": 2422,
+      "end": 2430
+    },
+    {
+      "text": "pericolonic fat",
+      "type": "ENTITY",
+      "start": 2431,
+      "end": 2446
+    },
+    {
+      "text": "multiple lymph nodes",
+      "type": "ENTITY",
+      "start": 2453,
+      "end": 2473
+    },
+    {
+      "text": "Iargest",
+      "type": "ENTITY",
+      "start": 2478,
+      "end": 2485
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 2486,
+      "end": 2495
+    },
+    {
+      "text": "Appendix",
+      "type": "ENTITY",
+      "start": 2510,
+      "end": 2518
+    },
+    {
+      "text": "Multiple sections",
+      "type": "ENTITY",
+      "start": 2545,
+      "end": 2562
+    },
+    {
+      "text": "cassettes",
+      "type": "ENTITY",
+      "start": 2590,
+      "end": 2599
+    },
+    {
+      "text": "A1-A17",
+      "type": "ENTITY",
+      "start": 2608,
+      "end": 2614
+    },
+    {
+      "text": "A1",
+      "type": "ENTITY",
+      "start": 2632,
+      "end": 2634
+    },
+    {
+      "text": "margin A2",
+      "type": "ENTITY",
+      "start": 2636,
+      "end": 2645
+    },
+    {
+      "text": "apex",
+      "type": "ENTITY",
+      "start": 2647,
+      "end": 2651
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 2665,
+      "end": 2670
+    },
+    {
+      "text": "tandom section",
+      "type": "ENTITY",
+      "start": 2675,
+      "end": 2689
+    },
+    {
+      "text": "ileum",
+      "type": "ENTITY",
+      "start": 2695,
+      "end": 2700
+    },
+    {
+      "text": "colon",
+      "type": "ENTITY",
+      "start": 2704,
+      "end": 2709
+    },
+    {
+      "text": "tumor A9-A11",
+      "type": "ENTITY",
+      "start": 2717,
+      "end": 2729
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 2731,
+      "end": 2736
+    },
+    {
+      "text": "deep section",
+      "type": "ENTITY",
+      "start": 2737,
+      "end": 2749
+    },
+    {
+      "text": "A12",
+      "type": "ENTITY",
+      "start": 2750,
+      "end": 2753
+    },
+    {
+      "text": "polyp",
+      "type": "ENTITY",
+      "start": 2755,
+      "end": 2760
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 2772,
+      "end": 2783
+    },
+    {
+      "text": "ileum",
+      "type": "ENTITY",
+      "start": 2784,
+      "end": 2789
+    },
+    {
+      "text": "A14",
+      "type": "ENTITY",
+      "start": 2791,
+      "end": 2794
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 2802,
+      "end": 2813
+    },
+    {
+      "text": "ileum",
+      "type": "ENTITY",
+      "start": 2814,
+      "end": 2819
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 2824,
+      "end": 2835
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 2853,
+      "end": 2864
+    },
+    {
+      "text": "cecum colon A17",
+      "type": "ENTITY",
+      "start": 2865,
+      "end": 2880
+    },
+    {
+      "text": "lymph nodes distal colon A19-21",
+      "type": "ENTITY",
+      "start": 2886,
+      "end": 2917
+    },
+    {
+      "text": "lymph nodes distal colon A26-30",
+      "type": "ENTITY",
+      "start": 2919,
+      "end": 2950
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 2952,
+      "end": 2960
+    },
+    {
+      "text": "A29",
+      "type": "ENTITY",
+      "start": 2971,
+      "end": 2974
+    },
+    {
+      "text": "A30",
+      "type": "ENTITY",
+      "start": 2979,
+      "end": 2982
+    },
+    {
+      "text": "random",
+      "type": "ENTITY",
+      "start": 2987,
+      "end": 2993
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 2994,
+      "end": 3002
+    }
+  ],
+  "entity_count": 154,
+  "has_embedding": true
+}

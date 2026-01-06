@@ -1,0 +1,998 @@
+{
+  "filename": "d2b149dc-be1a-4131-b73c-ad8b4c6c1190",
+  "timestamp": "2026-01-05T14:43:58.806210",
+  "entities": [
+    {
+      "text": "Redacted Department of Pathology",
+      "type": "ENTITY",
+      "start": 78,
+      "end": 110
+    },
+    {
+      "text": "HISTOPATHOLOGY Surname",
+      "type": "ENTITY",
+      "start": 113,
+      "end": 135
+    },
+    {
+      "text": "Forename(s) DOB!Age",
+      "type": "ENTITY",
+      "start": 174,
+      "end": 193
+    },
+    {
+      "text": "Sex Unit",
+      "type": "ENTITY",
+      "start": 194,
+      "end": 202
+    },
+    {
+      "text": "No Request Date",
+      "type": "ENTITY",
+      "start": 203,
+      "end": 218
+    },
+    {
+      "text": "IGD0",
+      "type": "ENTITY",
+      "start": 234,
+      "end": 238
+    },
+    {
+      "text": "EYE APPENDAGES",
+      "type": "ENTITY",
+      "start": 271,
+      "end": 285
+    },
+    {
+      "text": "miyd",
+      "type": "ENTITY",
+      "start": 289,
+      "end": 293
+    },
+    {
+      "text": "77o/3",
+      "type": "ENTITY",
+      "start": 296,
+      "end": 301
+    },
+    {
+      "text": "ENUCLEATED RIGHT",
+      "type": "ENTITY",
+      "start": 302,
+      "end": 318
+    },
+    {
+      "text": "CLINICAL DETAILS",
+      "type": "ENTITY",
+      "start": 343,
+      "end": 359
+    },
+    {
+      "text": "L",
+      "type": "ENTITY",
+      "start": 361,
+      "end": 362
+    },
+    {
+      "text": "Right eye choroidal melanoma",
+      "type": "ENTITY",
+      "start": 371,
+      "end": 399
+    },
+    {
+      "text": "exudative retinal detachment",
+      "type": "ENTITY",
+      "start": 404,
+      "end": 432
+    },
+    {
+      "text": "DESCRIPTION",
+      "type": "ENTITY",
+      "start": 446,
+      "end": 457
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 460,
+      "end": 465
+    },
+    {
+      "text": "right globe",
+      "type": "ENTITY",
+      "start": 473,
+      "end": 484
+    },
+    {
+      "text": "Dimensions",
+      "type": "ENTITY",
+      "start": 486,
+      "end": 496
+    },
+    {
+      "text": "Axial",
+      "type": "ENTITY",
+      "start": 498,
+      "end": 503
+    },
+    {
+      "text": "Cornea",
+      "type": "ENTITY",
+      "start": 544,
+      "end": 550
+    },
+    {
+      "text": "Optic Nerve",
+      "type": "ENTITY",
+      "start": 586,
+      "end": 597
+    },
+    {
+      "text": "Fresh",
+      "type": "ENTITY",
+      "start": 598,
+      "end": 603
+    },
+    {
+      "text": "trans-illumination",
+      "type": "ENTITY",
+      "start": 607,
+      "end": 625
+    },
+    {
+      "text": "shadow",
+      "type": "ENTITY",
+      "start": 635,
+      "end": 641
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 650,
+      "end": 659
+    },
+    {
+      "text": "lateral side",
+      "type": "ENTITY",
+      "start": 690,
+      "end": 702
+    },
+    {
+      "text": "Plane",
+      "type": "ENTITY",
+      "start": 704,
+      "end": 709
+    },
+    {
+      "text": "Section",
+      "type": "ENTITY",
+      "start": 713,
+      "end": 720
+    },
+    {
+      "text": "Horizontal Intraocular",
+      "type": "ENTITY",
+      "start": 721,
+      "end": 743
+    },
+    {
+      "text": "description",
+      "type": "ENTITY",
+      "start": 744,
+      "end": 755
+    },
+    {
+      "text": "opening",
+      "type": "ENTITY",
+      "start": 760,
+      "end": 767
+    },
+    {
+      "text": "solitary",
+      "type": "ENTITY",
+      "start": 777,
+      "end": 785
+    },
+    {
+      "text": "shape",
+      "type": "ENTITY",
+      "start": 788,
+      "end": 793
+    },
+    {
+      "text": "Cilio choroidal mass",
+      "type": "ENTITY",
+      "start": 810,
+      "end": 830
+    },
+    {
+      "text": "Tumour Size",
+      "type": "ENTITY",
+      "start": 837,
+      "end": 848
+    },
+    {
+      "text": "LBD",
+      "type": "ENTITY",
+      "start": 849,
+      "end": 852
+    },
+    {
+      "text": "Histologically",
+      "type": "ENTITY",
+      "start": 881,
+      "end": 895
+    },
+    {
+      "text": "enucleated eye",
+      "type": "ENTITY",
+      "start": 901,
+      "end": 915
+    },
+    {
+      "text": "normal",
+      "type": "ENTITY",
+      "start": 931,
+      "end": 937
+    },
+    {
+      "text": "anterior",
+      "type": "ENTITY",
+      "start": 939,
+      "end": 947
+    },
+    {
+      "text": "segment",
+      "type": "ENTITY",
+      "start": 948,
+      "end": 955
+    },
+    {
+      "text": "unremarkable cornea",
+      "type": "ENTITY",
+      "start": 964,
+      "end": 983
+    },
+    {
+      "text": "deep anterior chamber",
+      "type": "ENTITY",
+      "start": 987,
+      "end": 1008
+    },
+    {
+      "text": "open angles",
+      "type": "ENTITY",
+      "start": 1013,
+      "end": 1024
+    },
+    {
+      "text": "iris",
+      "type": "ENTITY",
+      "start": 1030,
+      "end": 1034
+    },
+    {
+      "text": "lens",
+      "type": "ENTITY",
+      "start": 1065,
+      "end": 1069
+    },
+    {
+      "text": "advanced",
+      "type": "ENTITY",
+      "start": 1076,
+      "end": 1084
+    },
+    {
+      "text": "cataractous",
+      "type": "ENTITY",
+      "start": 1085,
+      "end": 1096
+    },
+    {
+      "text": "ciliary muscle",
+      "type": "ENTITY",
+      "start": 1106,
+      "end": 1120
+    },
+    {
+      "text": "body",
+      "type": "ENTITY",
+      "start": 1125,
+      "end": 1129
+    },
+    {
+      "text": "bilobed",
+      "type": "ENTITY",
+      "start": 1139,
+      "end": 1146
+    },
+    {
+      "text": "posteriorly",
+      "type": "ENTITY",
+      "start": 1159,
+      "end": 1170
+    },
+    {
+      "text": "adjacent",
+      "type": "ENTITY",
+      "start": 1180,
+      "end": 1188
+    },
+    {
+      "text": "choroid",
+      "type": "ENTITY",
+      "start": 1189,
+      "end": 1196
+    },
+    {
+      "text": "central apical",
+      "type": "ENTITY",
+      "start": 1205,
+      "end": 1219
+    },
+    {
+      "text": "Pathologist",
+      "type": "ENTITY",
+      "start": 1231,
+      "end": 1242
+    },
+    {
+      "text": "Electronically Verlfied",
+      "type": "ENTITY",
+      "start": 1244,
+      "end": 1267
+    },
+    {
+      "text": "rinted",
+      "type": "ENTITY",
+      "start": 1288,
+      "end": 1294
+    },
+    {
+      "text": "Department of Pathology Page 2",
+      "type": "ENTITY",
+      "start": 1296,
+      "end": 1326
+    },
+    {
+      "text": "HISTOPATHOLOGY REPORT Tel",
+      "type": "ENTITY",
+      "start": 1332,
+      "end": 1357
+    },
+    {
+      "text": "Surname",
+      "type": "ENTITY",
+      "start": 1359,
+      "end": 1366
+    },
+    {
+      "text": "Forename(s)",
+      "type": "ENTITY",
+      "start": 1405,
+      "end": 1416
+    },
+    {
+      "text": "No Request Date",
+      "type": "ENTITY",
+      "start": 1435,
+      "end": 1450
+    },
+    {
+      "text": "tumour",
+      "type": "ENTITY",
+      "start": 1478,
+      "end": 1484
+    },
+    {
+      "text": "necrosis",
+      "type": "ENTITY",
+      "start": 1511,
+      "end": 1519
+    },
+    {
+      "text": "tumour",
+      "type": "ENTITY",
+      "start": 1525,
+      "end": 1531
+    },
+    {
+      "text": "associated with",
+      "type": "ENTITY",
+      "start": 1535,
+      "end": 1550
+    },
+    {
+      "text": "disruption",
+      "type": "ENTITY",
+      "start": 1551,
+      "end": 1561
+    },
+    {
+      "text": "ciliary body processes",
+      "type": "ENTITY",
+      "start": 1569,
+      "end": 1591
+    },
+    {
+      "text": "detachment",
+      "type": "ENTITY",
+      "start": 1603,
+      "end": 1613
+    },
+    {
+      "text": "retina",
+      "type": "ENTITY",
+      "start": 1621,
+      "end": 1627
+    },
+    {
+      "text": "pigmented",
+      "type": "ENTITY",
+      "start": 1635,
+      "end": 1644
+    },
+    {
+      "text": "mixture of cells",
+      "type": "ENTITY",
+      "start": 1663,
+      "end": 1679
+    },
+    {
+      "text": "epithelioid",
+      "type": "ENTITY",
+      "start": 1686,
+      "end": 1697
+    },
+    {
+      "text": "spindle cells",
+      "type": "ENTITY",
+      "start": 1702,
+      "end": 1715
+    },
+    {
+      "text": "dominance",
+      "type": "ENTITY",
+      "start": 1724,
+      "end": 1733
+    },
+    {
+      "text": "cell type",
+      "type": "ENTITY",
+      "start": 1748,
+      "end": 1757
+    },
+    {
+      "text": "melanoma cells",
+      "type": "ENTITY",
+      "start": 1764,
+      "end": 1778
+    },
+    {
+      "text": "immunoreactive",
+      "type": "ENTITY",
+      "start": 1783,
+      "end": 1797
+    },
+    {
+      "text": "MelanA",
+      "type": "ENTITY",
+      "start": 1802,
+      "end": 1808
+    },
+    {
+      "text": "cDli7",
+      "type": "ENTITY",
+      "start": 1810,
+      "end": 1815
+    },
+    {
+      "text": "Hsp-27",
+      "type": "ENTITY",
+      "start": 1820,
+      "end": 1826
+    },
+    {
+      "text": "score",
+      "type": "ENTITY",
+      "start": 1828,
+      "end": 1833
+    },
+    {
+      "text": "mitoses",
+      "type": "ENTITY",
+      "start": 1852,
+      "end": 1859
+    },
+    {
+      "text": "fields",
+      "type": "ENTITY",
+      "start": 1888,
+      "end": 1894
+    },
+    {
+      "text": "microvasculature",
+      "type": "ENTITY",
+      "start": 1901,
+      "end": 1917
+    },
+    {
+      "text": "melanoma",
+      "type": "ENTITY",
+      "start": 1925,
+      "end": 1933
+    },
+    {
+      "text": "closed loops",
+      "type": "ENTITY",
+      "start": 1952,
+      "end": 1964
+    },
+    {
+      "text": "tissue planes",
+      "type": "ENTITY",
+      "start": 1984,
+      "end": 1997
+    },
+    {
+      "text": "evaluated",
+      "type": "ENTITY",
+      "start": 1998,
+      "end": 2007
+    },
+    {
+      "text": "lymphocytic infiltrate",
+      "type": "ENTITY",
+      "start": 2013,
+      "end": 2035
+    },
+    {
+      "text": "tumour",
+      "type": "ENTITY",
+      "start": 2043,
+      "end": 2049
+    },
+    {
+      "text": "minimal",
+      "type": "ENTITY",
+      "start": 2053,
+      "end": 2060
+    },
+    {
+      "text": "Macrophages",
+      "type": "ENTITY",
+      "start": 2062,
+      "end": 2073
+    },
+    {
+      "text": "tumour",
+      "type": "ENTITY",
+      "start": 2103,
+      "end": 2109
+    },
+    {
+      "text": "moderate",
+      "type": "ENTITY",
+      "start": 2115,
+      "end": 2123
+    },
+    {
+      "text": "density",
+      "type": "ENTITY",
+      "start": 2125,
+      "end": 2132
+    },
+    {
+      "text": "scleral invasion",
+      "type": "ENTITY",
+      "start": 2157,
+      "end": 2173
+    },
+    {
+      "text": "extraocular growth",
+      "type": "ENTITY",
+      "start": 2181,
+      "end": 2199
+    },
+    {
+      "text": "optic nerve",
+      "type": "ENTITY",
+      "start": 2205,
+      "end": 2216
+    },
+    {
+      "text": "tumour free",
+      "type": "ENTITY",
+      "start": 2220,
+      "end": 2231
+    },
+    {
+      "text": "mild",
+      "type": "ENTITY",
+      "start": 2250,
+      "end": 2254
+    },
+    {
+      "text": "atrophic changes",
+      "type": "ENTITY",
+      "start": 2255,
+      "end": 2271
+    },
+    {
+      "text": "vortex veins",
+      "type": "ENTITY",
+      "start": 2286,
+      "end": 2298
+    },
+    {
+      "text": "free of tumour",
+      "type": "ENTITY",
+      "start": 2303,
+      "end": 2317
+    },
+    {
+      "text": "FINAL DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 2319,
+      "end": 2334
+    },
+    {
+      "text": "Choroidal melanoma",
+      "type": "ENTITY",
+      "start": 2335,
+      "end": 2353
+    },
+    {
+      "text": "epithelioid",
+      "type": "ENTITY",
+      "start": 2357,
+      "end": 2368
+    },
+    {
+      "text": "Molecular genetic examination",
+      "type": "ENTITY",
+      "start": 2388,
+      "end": 2417
+    },
+    {
+      "text": "DNA",
+      "type": "ENTITY",
+      "start": 2421,
+      "end": 2424
+    },
+    {
+      "text": "tumour cells",
+      "type": "ENTITY",
+      "start": 2444,
+      "end": 2456
+    },
+    {
+      "text": "multiplex-ligation dependent probe amplification",
+      "type": "ENTITY",
+      "start": 2481,
+      "end": 2529
+    },
+    {
+      "text": "MLpA",
+      "type": "ENTITY",
+      "start": 2531,
+      "end": 2535
+    },
+    {
+      "text": "chromosomes 1",
+      "type": "ENTITY",
+      "start": 2549,
+      "end": 2562
+    },
+    {
+      "text": "investigations",
+      "type": "ENTITY",
+      "start": 2628,
+      "end": 2642
+    },
+    {
+      "text": "complete",
+      "type": "ENTITY",
+      "start": 2647,
+      "end": 2655
+    },
+    {
+      "text": "molecular genetic analysis",
+      "type": "ENTITY",
+      "start": 2693,
+      "end": 2719
+    },
+    {
+      "text": "tumour DNA",
+      "type": "ENTITY",
+      "start": 2723,
+      "end": 2733
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 2753,
+      "end": 2758
+    },
+    {
+      "text": "uveal",
+      "type": "ENTITY",
+      "start": 2759,
+      "end": 2764
+    },
+    {
+      "text": "melanoma tissue",
+      "type": "ENTITY",
+      "start": 2765,
+      "end": 2780
+    },
+    {
+      "text": "technique",
+      "type": "ENTITY",
+      "start": 2806,
+      "end": 2815
+    },
+    {
+      "text": "multiplex ligation-dependent probe amplification",
+      "type": "ENTITY",
+      "start": 2823,
+      "end": 2871
+    },
+    {
+      "text": "MLpA",
+      "type": "ENTITY",
+      "start": 2873,
+      "end": 2877
+    },
+    {
+      "text": "investigations",
+      "type": "ENTITY",
+      "start": 2886,
+      "end": 2900
+    },
+    {
+      "text": "kit p027",
+      "type": "ENTITY",
+      "start": 2927,
+      "end": 2935
+    },
+    {
+      "text": "gains",
+      "type": "ENTITY",
+      "start": 2962,
+      "end": 2967
+    },
+    {
+      "text": "losses",
+      "type": "ENTITY",
+      "start": 2972,
+      "end": 2978
+    },
+    {
+      "text": "loci",
+      "type": "ENTITY",
+      "start": 2985,
+      "end": 2989
+    },
+    {
+      "text": "chromosomes 1",
+      "type": "ENTITY",
+      "start": 2993,
+      "end": 3006
+    },
+    {
+      "text": "DNA concentration",
+      "type": "ENTITY",
+      "start": 3036,
+      "end": 3053
+    },
+    {
+      "text": "measured",
+      "type": "ENTITY",
+      "start": 3058,
+      "end": 3066
+    },
+    {
+      "text": "Reported",
+      "type": "ENTITY",
+      "start": 3081,
+      "end": 3089
+    },
+    {
+      "text": "Pathologist",
+      "type": "ENTITY",
+      "start": 3091,
+      "end": 3102
+    },
+    {
+      "text": "HISTOPATHOLOGY REPORT Tel",
+      "type": "ENTITY",
+      "start": 3188,
+      "end": 3213
+    },
+    {
+      "text": "Forename(s)",
+      "type": "ENTITY",
+      "start": 3262,
+      "end": 3273
+    },
+    {
+      "text": "Sex Unit",
+      "type": "ENTITY",
+      "start": 3282,
+      "end": 3290
+    },
+    {
+      "text": "No Request Date",
+      "type": "ENTITY",
+      "start": 3291,
+      "end": 3306
+    },
+    {
+      "text": "quality",
+      "type": "ENTITY",
+      "start": 3322,
+      "end": 3329
+    },
+    {
+      "text": "assessed",
+      "type": "ENTITY",
+      "start": 3330,
+      "end": 3338
+    },
+    {
+      "text": "multiplex-PCR",
+      "type": "ENTITY",
+      "start": 3345,
+      "end": 3358
+    },
+    {
+      "text": "MLPA reaction",
+      "type": "ENTITY",
+      "start": 3372,
+      "end": 3385
+    },
+    {
+      "text": "DNA concentration",
+      "type": "ENTITY",
+      "start": 3391,
+      "end": 3408
+    },
+    {
+      "text": "quality",
+      "type": "ENTITY",
+      "start": 3430,
+      "end": 3437
+    },
+    {
+      "text": "occasions",
+      "type": "ENTITY",
+      "start": 3451,
+      "end": 3460
+    },
+    {
+      "text": "results",
+      "type": "ENTITY",
+      "start": 3483,
+      "end": 3490
+    },
+    {
+      "text": "results",
+      "type": "ENTITY",
+      "start": 3496,
+      "end": 3503
+    },
+    {
+      "text": "sequence analysis",
+      "type": "ENTITY",
+      "start": 3511,
+      "end": 3528
+    },
+    {
+      "text": "MLpA products",
+      "type": "ENTITY",
+      "start": 3536,
+      "end": 3549
+    },
+    {
+      "text": "report",
+      "type": "ENTITY",
+      "start": 3576,
+      "end": 3582
+    },
+    {
+      "text": "sequence analysis",
+      "type": "ENTITY",
+      "start": 3596,
+      "end": 3613
+    },
+    {
+      "text": "Normal chromosome 1",
+      "type": "ENTITY",
+      "start": 3628,
+      "end": 3647
+    },
+    {
+      "text": "monosomy 3",
+      "type": "ENTITY",
+      "start": 3649,
+      "end": 3659
+    },
+    {
+      "text": "normal chromosome 6",
+      "type": "ENTITY",
+      "start": 3661,
+      "end": 3680
+    },
+    {
+      "text": "gains",
+      "type": "ENTITY",
+      "start": 3685,
+      "end": 3690
+    },
+    {
+      "text": "chromosome 8",
+      "type": "ENTITY",
+      "start": 3694,
+      "end": 3706
+    },
+    {
+      "text": "molecular data",
+      "type": "ENTITY",
+      "start": 3730,
+      "end": 3744
+    },
+    {
+      "text": "patient",
+      "type": "ENTITY",
+      "start": 3761,
+      "end": 3768
+    },
+    {
+      "text": "high risk group",
+      "type": "ENTITY",
+      "start": 3777,
+      "end": 3792
+    },
+    {
+      "text": "development",
+      "type": "ENTITY",
+      "start": 3813,
+      "end": 3824
+    },
+    {
+      "text": "metastatic melanoma",
+      "type": "ENTITY",
+      "start": 3829,
+      "end": 3848
+    },
+    {
+      "text": "clinical features",
+      "type": "ENTITY",
+      "start": 3867,
+      "end": 3884
+    },
+    {
+      "text": "tumour",
+      "type": "ENTITY",
+      "start": 3892,
+      "end": 3898
+    },
+    {
+      "text": "Pathologist",
+      "type": "ENTITY",
+      "start": 3937,
+      "end": 3948
+    },
+    {
+      "text": "UALIFIED",
+      "type": "ENTITY",
+      "start": 3986,
+      "end": 3994
+    }
+  ],
+  "entity_count": 165,
+  "has_embedding": true
+}

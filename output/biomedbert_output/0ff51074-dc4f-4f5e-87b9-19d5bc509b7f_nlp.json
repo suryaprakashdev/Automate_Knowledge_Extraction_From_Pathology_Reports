@@ -1,0 +1,2762 @@
+{
+  "filename": "0ff51074-dc4f-4f5e-87b9-19d5bc509b7f",
+  "timestamp": "2026-01-05T14:44:38.292407",
+  "entities": [
+    {
+      "text": "UUID",
+      "type": "ENTITY",
+      "start": 22,
+      "end": 26
+    },
+    {
+      "text": "Pathology",
+      "type": "ENTITY",
+      "start": 65,
+      "end": 74
+    },
+    {
+      "text": "nguansue",
+      "type": "ENTITY",
+      "start": 120,
+      "end": 128
+    },
+    {
+      "text": "N6S",
+      "type": "ENTITY",
+      "start": 134,
+      "end": 137
+    },
+    {
+      "text": "Report Type Date",
+      "type": "ENTITY",
+      "start": 145,
+      "end": 161
+    },
+    {
+      "text": "Buecolmueoee",
+      "type": "ENTITY",
+      "start": 176,
+      "end": 188
+    },
+    {
+      "text": "Sex",
+      "type": "ENTITY",
+      "start": 189,
+      "end": 192
+    },
+    {
+      "text": "C06.0 M Authored",
+      "type": "ENTITY",
+      "start": 193,
+      "end": 209
+    },
+    {
+      "text": "Status FINAL FINAL DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 240,
+      "end": 268
+    },
+    {
+      "text": "BUCCAL",
+      "type": "ENTITY",
+      "start": 278,
+      "end": 284
+    },
+    {
+      "text": "SKIN",
+      "type": "ENTITY",
+      "start": 293,
+      "end": 297
+    },
+    {
+      "text": "UPPER",
+      "type": "ENTITY",
+      "start": 299,
+      "end": 304
+    },
+    {
+      "text": "LIP",
+      "type": "ENTITY",
+      "start": 315,
+      "end": 318
+    },
+    {
+      "text": "LEFT",
+      "type": "ENTITY",
+      "start": 320,
+      "end": 324
+    },
+    {
+      "text": "SQUAMOUS CELL CARCINOMA",
+      "type": "ENTITY",
+      "start": 348,
+      "end": 371
+    },
+    {
+      "text": "MODERATELY DIFFERENTIATED",
+      "type": "ENTITY",
+      "start": 373,
+      "end": 398
+    },
+    {
+      "text": "CM",
+      "type": "ENTITY",
+      "start": 404,
+      "end": 406
+    },
+    {
+      "text": "BUCCAL",
+      "type": "ENTITY",
+      "start": 412,
+      "end": 418
+    },
+    {
+      "text": "B.",
+      "type": "ENTITY",
+      "start": 449,
+      "end": 451
+    },
+    {
+      "text": "NO",
+      "type": "ENTITY",
+      "start": 452,
+      "end": 454
+    },
+    {
+      "text": "INVASION OR",
+      "type": "ENTITY",
+      "start": 470,
+      "end": 481
+    },
+    {
+      "text": "C. MARGINS",
+      "type": "ENTITY",
+      "start": 504,
+      "end": 514
+    },
+    {
+      "text": "ARE",
+      "type": "ENTITY",
+      "start": 515,
+      "end": 518
+    },
+    {
+      "text": "CARCINOMA",
+      "type": "ENTITY",
+      "start": 527,
+      "end": 536
+    },
+    {
+      "text": "parts",
+      "type": "ENTITY",
+      "start": 553,
+      "end": 558
+    },
+    {
+      "text": "D. PATHOLOGIC STAGE",
+      "type": "ENTITY",
+      "start": 561,
+      "end": 580
+    },
+    {
+      "text": "pT4a",
+      "type": "ENTITY",
+      "start": 582,
+      "end": 586
+    },
+    {
+      "text": "NO",
+      "type": "ENTITY",
+      "start": 587,
+      "end": 589
+    },
+    {
+      "text": "LIP",
+      "type": "ENTITY",
+      "start": 599,
+      "end": 602
+    },
+    {
+      "text": "RIGHT LOWER",
+      "type": "ENTITY",
+      "start": 604,
+      "end": 615
+    },
+    {
+      "text": "BIOPSY",
+      "type": "ENTITY",
+      "start": 617,
+      "end": 623
+    },
+    {
+      "text": "MARGIN",
+      "type": "ENTITY",
+      "start": 651,
+      "end": 657
+    },
+    {
+      "text": "ADDITIONAL",
+      "type": "ENTITY",
+      "start": 659,
+      "end": 669
+    },
+    {
+      "text": "CIRCUMFERENTIAL",
+      "type": "ENTITY",
+      "start": 677,
+      "end": 692
+    },
+    {
+      "text": "LIP",
+      "type": "ENTITY",
+      "start": 727,
+      "end": 730
+    },
+    {
+      "text": "LEFT",
+      "type": "ENTITY",
+      "start": 732,
+      "end": 736
+    },
+    {
+      "text": "ALVEOLUS",
+      "type": "ENTITY",
+      "start": 777,
+      "end": 785
+    },
+    {
+      "text": "LEFT",
+      "type": "ENTITY",
+      "start": 787,
+      "end": 791
+    },
+    {
+      "text": "MARGIN",
+      "type": "ENTITY",
+      "start": 832,
+      "end": 838
+    },
+    {
+      "text": "LEFT POSTERIOR BUCCAL",
+      "type": "ENTITY",
+      "start": 840,
+      "end": 861
+    },
+    {
+      "text": "BIOPSYS",
+      "type": "ENTITY",
+      "start": 863,
+      "end": 870
+    },
+    {
+      "text": "NO TUMOR PRESENT",
+      "type": "ENTITY",
+      "start": 871,
+      "end": 887
+    },
+    {
+      "text": "ALVEOLUS",
+      "type": "ENTITY",
+      "start": 897,
+      "end": 905
+    },
+    {
+      "text": "LEFT LOWER",
+      "type": "ENTITY",
+      "start": 907,
+      "end": 917
+    },
+    {
+      "text": "BIOPSY",
+      "type": "ENTITY",
+      "start": 919,
+      "end": 925
+    },
+    {
+      "text": "LIP",
+      "type": "ENTITY",
+      "start": 952,
+      "end": 955
+    },
+    {
+      "text": "LEFT LOWER",
+      "type": "ENTITY",
+      "start": 957,
+      "end": 967
+    },
+    {
+      "text": "BIOPSY",
+      "type": "ENTITY",
+      "start": 969,
+      "end": 975
+    },
+    {
+      "text": "MANDIBLE",
+      "type": "ENTITY",
+      "start": 1002,
+      "end": 1010
+    },
+    {
+      "text": "LEFT",
+      "type": "ENTITY",
+      "start": 1012,
+      "end": 1016
+    },
+    {
+      "text": "MANDIBULECTOMY",
+      "type": "ENTITY",
+      "start": 1027,
+      "end": 1041
+    },
+    {
+      "text": "NO TUMOR PRESENT",
+      "type": "ENTITY",
+      "start": 1042,
+      "end": 1058
+    },
+    {
+      "text": "CARCINOMA",
+      "type": "ENTITY",
+      "start": 1080,
+      "end": 1089
+    },
+    {
+      "text": "PART 1O",
+      "type": "ENTITY",
+      "start": 1091,
+      "end": 1098
+    },
+    {
+      "text": "LYMPH NODES",
+      "type": "ENTITY",
+      "start": 1100,
+      "end": 1111
+    },
+    {
+      "text": "LEFT NECK",
+      "type": "ENTITY",
+      "start": 1113,
+      "end": 1122
+    },
+    {
+      "text": "SELECTIVE NECK DISSECTION",
+      "type": "ENTITY",
+      "start": 1133,
+      "end": 1158
+    },
+    {
+      "text": "A. ELEVEN",
+      "type": "ENTITY",
+      "start": 1159,
+      "end": 1168
+    },
+    {
+      "text": "NO TUMOR PRESENT",
+      "type": "ENTITY",
+      "start": 1182,
+      "end": 1198
+    },
+    {
+      "text": "B. UNREMARKABLE",
+      "type": "ENTITY",
+      "start": 1207,
+      "end": 1222
+    },
+    {
+      "text": "LYMPH NODES",
+      "type": "ENTITY",
+      "start": 1253,
+      "end": 1264
+    },
+    {
+      "text": "LEFT NECK",
+      "type": "ENTITY",
+      "start": 1266,
+      "end": 1275
+    },
+    {
+      "text": "SELECTIVE NECK DISSECTION",
+      "type": "ENTITY",
+      "start": 1289,
+      "end": 1314
+    },
+    {
+      "text": "A. THIRTY FOUR",
+      "type": "ENTITY",
+      "start": 1315,
+      "end": 1329
+    },
+    {
+      "text": "NO TUMOR PRESENT",
+      "type": "ENTITY",
+      "start": 1343,
+      "end": 1359
+    },
+    {
+      "text": "O/34",
+      "type": "ENTITY",
+      "start": 1361,
+      "end": 1365
+    },
+    {
+      "text": "B.",
+      "type": "ENTITY",
+      "start": 1368,
+      "end": 1370
+    },
+    {
+      "text": "UNREMARKABLE",
+      "type": "ENTITY",
+      "start": 1371,
+      "end": 1383
+    },
+    {
+      "text": "PAROTIDTISSUE",
+      "type": "ENTITY",
+      "start": 1384,
+      "end": 1397
+    },
+    {
+      "text": "Pathologist",
+      "type": "ENTITY",
+      "start": 1399,
+      "end": 1410
+    },
+    {
+      "text": "Report",
+      "type": "ENTITY",
+      "start": 1414,
+      "end": 1420
+    },
+    {
+      "text": "Electronically Signed",
+      "type": "ENTITY",
+      "start": 1421,
+      "end": 1442
+    },
+    {
+      "text": "signature",
+      "type": "ENTITY",
+      "start": 1470,
+      "end": 1479
+    },
+    {
+      "text": "attestation",
+      "type": "ENTITY",
+      "start": 1483,
+      "end": 1494
+    },
+    {
+      "text": "I",
+      "type": "ENTITY",
+      "start": 1500,
+      "end": 1501
+    },
+    {
+      "text": "reviewed",
+      "type": "ENTITY",
+      "start": 1518,
+      "end": 1526
+    },
+    {
+      "text": "material(s)",
+      "type": "ENTITY",
+      "start": 1541,
+      "end": 1552
+    },
+    {
+      "text": "diagnosis",
+      "type": "ENTITY",
+      "start": 1567,
+      "end": 1576
+    },
+    {
+      "text": "evaluation",
+      "type": "ENTITY",
+      "start": 1591,
+      "end": 1601
+    },
+    {
+      "text": "GROSS DESCRIPTION",
+      "type": "ENTITY",
+      "start": 1603,
+      "end": 1620
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1626,
+      "end": 1634
+    },
+    {
+      "text": "parts",
+      "type": "ENTITY",
+      "start": 1657,
+      "end": 1662
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 1684,
+      "end": 1689
+    },
+    {
+      "text": "intraoperative",
+      "type": "ENTITY",
+      "start": 1694,
+      "end": 1708
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 1722,
+      "end": 1729
+    },
+    {
+      "text": "initials xx",
+      "type": "ENTITY",
+      "start": 1772,
+      "end": 1783
+    },
+    {
+      "text": "medical record number",
+      "type": "ENTITY",
+      "start": 1785,
+      "end": 1806
+    },
+    {
+      "text": "left buccal resection",
+      "type": "ENTITY",
+      "start": 1812,
+      "end": 1833
+    },
+    {
+      "text": "margins",
+      "type": "ENTITY",
+      "start": 1839,
+      "end": 1846
+    },
+    {
+      "text": "portion",
+      "type": "ENTITY",
+      "start": 1885,
+      "end": 1892
+    },
+    {
+      "text": "left cheek",
+      "type": "ENTITY",
+      "start": 1896,
+      "end": 1906
+    },
+    {
+      "text": "portion of upper",
+      "type": "ENTITY",
+      "start": 1912,
+      "end": 1928
+    },
+    {
+      "text": "buccal surface",
+      "type": "ENTITY",
+      "start": 1957,
+      "end": 1971
+    },
+    {
+      "text": "cheek",
+      "type": "ENTITY",
+      "start": 1980,
+      "end": 1985
+    },
+    {
+      "text": "fungating",
+      "type": "ENTITY",
+      "start": 1994,
+      "end": 2003
+    },
+    {
+      "text": "focally necrotic tumor",
+      "type": "ENTITY",
+      "start": 2005,
+      "end": 2027
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 2028,
+      "end": 2037
+    },
+    {
+      "text": "depth",
+      "type": "ENTITY",
+      "start": 2065,
+      "end": 2070
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 2076,
+      "end": 2081
+    },
+    {
+      "text": "infiltrating",
+      "type": "ENTITY",
+      "start": 2090,
+      "end": 2102
+    },
+    {
+      "text": "skin",
+      "type": "ENTITY",
+      "start": 2112,
+      "end": 2116
+    },
+    {
+      "text": "cheek",
+      "type": "ENTITY",
+      "start": 2124,
+      "end": 2129
+    },
+    {
+      "text": "defect",
+      "type": "ENTITY",
+      "start": 2140,
+      "end": 2146
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 2147,
+      "end": 2156
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 2175,
+      "end": 2180
+    },
+    {
+      "text": "inferior margin",
+      "type": "ENTITY",
+      "start": 2214,
+      "end": 2229
+    },
+    {
+      "text": "superior margin",
+      "type": "ENTITY",
+      "start": 2245,
+      "end": 2260
+    },
+    {
+      "text": "posterior margin",
+      "type": "ENTITY",
+      "start": 2281,
+      "end": 2297
+    },
+    {
+      "text": "Gross photographs",
+      "type": "ENTITY",
+      "start": 2299,
+      "end": 2316
+    },
+    {
+      "text": "Ink Code",
+      "type": "ENTITY",
+      "start": 2347,
+      "end": 2355
+    },
+    {
+      "text": "Black",
+      "type": "ENTITY",
+      "start": 2357,
+      "end": 2362
+    },
+    {
+      "text": "posterior",
+      "type": "ENTITY",
+      "start": 2365,
+      "end": 2374
+    },
+    {
+      "text": "margin",
+      "type": "ENTITY",
+      "start": 2375,
+      "end": 2381
+    },
+    {
+      "text": "Blue superior margin",
+      "type": "ENTITY",
+      "start": 2383,
+      "end": 2403
+    },
+    {
+      "text": "Green inferior margin",
+      "type": "ENTITY",
+      "start": 2405,
+      "end": 2426
+    },
+    {
+      "text": "Red banked area",
+      "type": "ENTITY",
+      "start": 2428,
+      "end": 2443
+    },
+    {
+      "text": "superior margin 1B tumor",
+      "type": "ENTITY",
+      "start": 2488,
+      "end": 2512
+    },
+    {
+      "text": "inferior margin 1C tumor",
+      "type": "ENTITY",
+      "start": 2532,
+      "end": 2556
+    },
+    {
+      "text": "posterior margin 1D tumor",
+      "type": "ENTITY",
+      "start": 2576,
+      "end": 2601
+    },
+    {
+      "text": "defect",
+      "type": "ENTITY",
+      "start": 2621,
+      "end": 2627
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 2635,
+      "end": 2640
+    },
+    {
+      "text": "buccal surface",
+      "type": "ENTITY",
+      "start": 2648,
+      "end": 2662
+    },
+    {
+      "text": "G tumor",
+      "type": "ENTITY",
+      "start": 2665,
+      "end": 2672
+    },
+    {
+      "text": "skin",
+      "type": "ENTITY",
+      "start": 2678,
+      "end": 2682
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 2693,
+      "end": 2701
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 2723,
+      "end": 2728
+    },
+    {
+      "text": "intraoperative",
+      "type": "ENTITY",
+      "start": 2733,
+      "end": 2747
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 2761,
+      "end": 2768
+    },
+    {
+      "text": "patient'",
+      "type": "ENTITY",
+      "start": 2778,
+      "end": 2786
+    },
+    {
+      "text": "initials xx",
+      "type": "ENTITY",
+      "start": 2795,
+      "end": 2806
+    },
+    {
+      "text": "medical record number",
+      "type": "ENTITY",
+      "start": 2808,
+      "end": 2829
+    },
+    {
+      "text": "biopsy",
+      "type": "ENTITY",
+      "start": 2851,
+      "end": 2857
+    },
+    {
+      "text": "fragments",
+      "type": "ENTITY",
+      "start": 2879,
+      "end": 2888
+    },
+    {
+      "text": "grey tan tissue",
+      "type": "ENTITY",
+      "start": 2892,
+      "end": 2907
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 2908,
+      "end": 2917
+    },
+    {
+      "text": "cassette labeled",
+      "type": "ENTITY",
+      "start": 2973,
+      "end": 2989
+    },
+    {
+      "text": "2AFs",
+      "type": "ENTITY",
+      "start": 2993,
+      "end": 2997
+    },
+    {
+      "text": "Time",
+      "type": "ENTITY",
+      "start": 2999,
+      "end": 3003
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 3007,
+      "end": 3015
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 3036,
+      "end": 3041
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 3042,
+      "end": 3049
+    },
+    {
+      "text": "patient'",
+      "type": "ENTITY",
+      "start": 3059,
+      "end": 3067
+    },
+    {
+      "text": "initials xx",
+      "type": "ENTITY",
+      "start": 3076,
+      "end": 3087
+    },
+    {
+      "text": "medical record number",
+      "type": "ENTITY",
+      "start": 3089,
+      "end": 3110
+    },
+    {
+      "text": "mucosal",
+      "type": "ENTITY",
+      "start": 3127,
+      "end": 3134
+    },
+    {
+      "text": "piece",
+      "type": "ENTITY",
+      "start": 3197,
+      "end": 3202
+    },
+    {
+      "text": "grey tan tissue",
+      "type": "ENTITY",
+      "start": 3206,
+      "end": 3221
+    },
+    {
+      "text": "cassette labeled",
+      "type": "ENTITY",
+      "start": 3244,
+      "end": 3260
+    },
+    {
+      "text": "Time",
+      "type": "ENTITY",
+      "start": 3271,
+      "end": 3275
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 3279,
+      "end": 3287
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 3308,
+      "end": 3313
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 3314,
+      "end": 3321
+    },
+    {
+      "text": "patient'",
+      "type": "ENTITY",
+      "start": 3331,
+      "end": 3339
+    },
+    {
+      "text": "initials xx",
+      "type": "ENTITY",
+      "start": 3348,
+      "end": 3359
+    },
+    {
+      "text": "medical record number",
+      "type": "ENTITY",
+      "start": 3361,
+      "end": 3382
+    },
+    {
+      "text": "\"left upper lip",
+      "type": "ENTITY",
+      "start": 3387,
+      "end": 3402
+    },
+    {
+      "text": "gray-tan tissue",
+      "type": "ENTITY",
+      "start": 3447,
+      "end": 3462
+    },
+    {
+      "text": "cassette",
+      "type": "ENTITY",
+      "start": 3494,
+      "end": 3502
+    },
+    {
+      "text": "4AFS",
+      "type": "ENTITY",
+      "start": 3515,
+      "end": 3519
+    },
+    {
+      "text": "Time",
+      "type": "ENTITY",
+      "start": 3521,
+      "end": 3525
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 3529,
+      "end": 3537
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 3558,
+      "end": 3563
+    },
+    {
+      "text": "intraoperative",
+      "type": "ENTITY",
+      "start": 3568,
+      "end": 3582
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 3596,
+      "end": 3603
+    },
+    {
+      "text": "patient'",
+      "type": "ENTITY",
+      "start": 3613,
+      "end": 3621
+    },
+    {
+      "text": "initials xx",
+      "type": "ENTITY",
+      "start": 3630,
+      "end": 3641
+    },
+    {
+      "text": "medical record number",
+      "type": "ENTITY",
+      "start": 3643,
+      "end": 3664
+    },
+    {
+      "text": "\"left upper alveolus",
+      "type": "ENTITY",
+      "start": 3669,
+      "end": 3689
+    },
+    {
+      "text": "gray-tan tissue",
+      "type": "ENTITY",
+      "start": 3737,
+      "end": 3752
+    },
+    {
+      "text": "cassette labeled",
+      "type": "ENTITY",
+      "start": 3784,
+      "end": 3800
+    },
+    {
+      "text": "5AFs",
+      "type": "ENTITY",
+      "start": 3804,
+      "end": 3808
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 3834,
+      "end": 3842
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 3863,
+      "end": 3868
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 3869,
+      "end": 3876
+    },
+    {
+      "text": "patient'",
+      "type": "ENTITY",
+      "start": 3886,
+      "end": 3894
+    },
+    {
+      "text": "initials xx",
+      "type": "ENTITY",
+      "start": 3903,
+      "end": 3914
+    },
+    {
+      "text": "medical record number",
+      "type": "ENTITY",
+      "start": 3916,
+      "end": 3937
+    },
+    {
+      "text": "fragments",
+      "type": "ENTITY",
+      "start": 3993,
+      "end": 4002
+    },
+    {
+      "text": "tissue",
+      "type": "ENTITY",
+      "start": 4006,
+      "end": 4012
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 4013,
+      "end": 4022
+    },
+    {
+      "text": "cassette labeled",
+      "type": "ENTITY",
+      "start": 4097,
+      "end": 4113
+    },
+    {
+      "text": "Time",
+      "type": "ENTITY",
+      "start": 4120,
+      "end": 4124
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 4128,
+      "end": 4136
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 4157,
+      "end": 4162
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 4163,
+      "end": 4170
+    },
+    {
+      "text": "patient'",
+      "type": "ENTITY",
+      "start": 4180,
+      "end": 4188
+    },
+    {
+      "text": "initials xx",
+      "type": "ENTITY",
+      "start": 4197,
+      "end": 4208
+    },
+    {
+      "text": "medical record number",
+      "type": "ENTITY",
+      "start": 4210,
+      "end": 4231
+    },
+    {
+      "text": "piece",
+      "type": "ENTITY",
+      "start": 4292,
+      "end": 4297
+    },
+    {
+      "text": "gray-white tissue",
+      "type": "ENTITY",
+      "start": 4301,
+      "end": 4318
+    },
+    {
+      "text": "cassette labeled",
+      "type": "ENTITY",
+      "start": 4350,
+      "end": 4366
+    },
+    {
+      "text": "Time",
+      "type": "ENTITY",
+      "start": 4376,
+      "end": 4380
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 4384,
+      "end": 4392
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 4413,
+      "end": 4418
+    },
+    {
+      "text": "intraoperative",
+      "type": "ENTITY",
+      "start": 4423,
+      "end": 4437
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 4451,
+      "end": 4458
+    },
+    {
+      "text": "patient'",
+      "type": "ENTITY",
+      "start": 4468,
+      "end": 4476
+    },
+    {
+      "text": "initials",
+      "type": "ENTITY",
+      "start": 4485,
+      "end": 4493
+    },
+    {
+      "text": "Xx",
+      "type": "ENTITY",
+      "start": 4494,
+      "end": 4496
+    },
+    {
+      "text": "medical record number",
+      "type": "ENTITY",
+      "start": 4498,
+      "end": 4519
+    },
+    {
+      "text": "piece",
+      "type": "ENTITY",
+      "start": 4578,
+      "end": 4583
+    },
+    {
+      "text": "tissue",
+      "type": "ENTITY",
+      "start": 4587,
+      "end": 4593
+    },
+    {
+      "text": "cassette labeled",
+      "type": "ENTITY",
+      "start": 4625,
+      "end": 4641
+    },
+    {
+      "text": "Time",
+      "type": "ENTITY",
+      "start": 4651,
+      "end": 4655
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 4659,
+      "end": 4667
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 4688,
+      "end": 4693
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 4694,
+      "end": 4701
+    },
+    {
+      "text": "patient'",
+      "type": "ENTITY",
+      "start": 4711,
+      "end": 4719
+    },
+    {
+      "text": "initials xx",
+      "type": "ENTITY",
+      "start": 4728,
+      "end": 4739
+    },
+    {
+      "text": "medical record number",
+      "type": "ENTITY",
+      "start": 4741,
+      "end": 4762
+    },
+    {
+      "text": "mandibulectomy",
+      "type": "ENTITY",
+      "start": 4782,
+      "end": 4796
+    },
+    {
+      "text": "portion",
+      "type": "ENTITY",
+      "start": 4835,
+      "end": 4842
+    },
+    {
+      "text": "mandible",
+      "type": "ENTITY",
+      "start": 4846,
+      "end": 4854
+    },
+    {
+      "text": "defects",
+      "type": "ENTITY",
+      "start": 4865,
+      "end": 4872
+    },
+    {
+      "text": "Ink Code",
+      "type": "ENTITY",
+      "start": 4874,
+      "end": 4882
+    },
+    {
+      "text": "Black",
+      "type": "ENTITY",
+      "start": 4884,
+      "end": 4889
+    },
+    {
+      "text": "deep margin",
+      "type": "ENTITY",
+      "start": 4890,
+      "end": 4901
+    },
+    {
+      "text": "margin",
+      "type": "ENTITY",
+      "start": 4924,
+      "end": 4930
+    },
+    {
+      "text": "margin 9C",
+      "type": "ENTITY",
+      "start": 4940,
+      "end": 4949
+    },
+    {
+      "text": "section",
+      "type": "ENTITY",
+      "start": 4965,
+      "end": 4972
+    },
+    {
+      "text": "portion",
+      "type": "ENTITY",
+      "start": 4984,
+      "end": 4991
+    },
+    {
+      "text": "Time",
+      "type": "ENTITY",
+      "start": 4993,
+      "end": 4997
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 5001,
+      "end": 5009
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 5031,
+      "end": 5036
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 5037,
+      "end": 5044
+    },
+    {
+      "text": "patient'",
+      "type": "ENTITY",
+      "start": 5054,
+      "end": 5062
+    },
+    {
+      "text": "initials xx",
+      "type": "ENTITY",
+      "start": 5071,
+      "end": 5082
+    },
+    {
+      "text": "medical record number",
+      "type": "ENTITY",
+      "start": 5084,
+      "end": 5105
+    },
+    {
+      "text": "fibroadipose tissue",
+      "type": "ENTITY",
+      "start": 5177,
+      "end": 5196
+    },
+    {
+      "text": "dissection",
+      "type": "ENTITY",
+      "start": 5201,
+      "end": 5211
+    },
+    {
+      "text": "submandibular gland",
+      "type": "ENTITY",
+      "start": 5214,
+      "end": 5233
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 5234,
+      "end": 5243
+    },
+    {
+      "text": "Section",
+      "type": "ENTITY",
+      "start": 5273,
+      "end": 5280
+    },
+    {
+      "text": "lymph node",
+      "type": "ENTITY",
+      "start": 5295,
+      "end": 5305
+    },
+    {
+      "text": "representative",
+      "type": "ENTITY",
+      "start": 5356,
+      "end": 5370
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 5371,
+      "end": 5379
+    },
+    {
+      "text": "fat 10E",
+      "type": "ENTITY",
+      "start": 5387,
+      "end": 5394
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 5410,
+      "end": 5421
+    },
+    {
+      "text": "lymph node",
+      "type": "ENTITY",
+      "start": 5430,
+      "end": 5440
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 5459,
+      "end": 5470
+    },
+    {
+      "text": "fat",
+      "type": "ENTITY",
+      "start": 5475,
+      "end": 5478
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 5488,
+      "end": 5496
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 5518,
+      "end": 5523
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 5524,
+      "end": 5531
+    },
+    {
+      "text": "patient'",
+      "type": "ENTITY",
+      "start": 5541,
+      "end": 5549
+    },
+    {
+      "text": "initials xx",
+      "type": "ENTITY",
+      "start": 5558,
+      "end": 5569
+    },
+    {
+      "text": "medical record number",
+      "type": "ENTITY",
+      "start": 5571,
+      "end": 5592
+    },
+    {
+      "text": "unoriented portion",
+      "type": "ENTITY",
+      "start": 5638,
+      "end": 5656
+    },
+    {
+      "text": "fibroadipose tissue",
+      "type": "ENTITY",
+      "start": 5660,
+      "end": 5679
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 5685,
+      "end": 5696
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 5697,
+      "end": 5706
+    },
+    {
+      "text": "lymph node 11B",
+      "type": "ENTITY",
+      "start": 5775,
+      "end": 5789
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 5804,
+      "end": 5815
+    },
+    {
+      "text": "11C",
+      "type": "ENTITY",
+      "start": 5816,
+      "end": 5819
+    },
+    {
+      "text": "lymph nodes 11D fat",
+      "type": "ENTITY",
+      "start": 5834,
+      "end": 5853
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 5881,
+      "end": 5892
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 5911,
+      "end": 5922
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 5941,
+      "end": 5952
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 5980,
+      "end": 5991
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 6011,
+      "end": 6022
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 6041,
+      "end": 6052
+    },
+    {
+      "text": "Time",
+      "type": "ENTITY",
+      "start": 6054,
+      "end": 6058
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 6062,
+      "end": 6070
+    },
+    {
+      "text": "INTRAOPERATIVE CONSULTATION",
+      "type": "ENTITY",
+      "start": 6072,
+      "end": 6099
+    },
+    {
+      "text": "PART 1AGD",
+      "type": "ENTITY",
+      "start": 6101,
+      "end": 6110
+    },
+    {
+      "text": "LEFT BUCCAL RESECTION",
+      "type": "ENTITY",
+      "start": 6112,
+      "end": 6133
+    },
+    {
+      "text": "gross consultation",
+      "type": "ENTITY",
+      "start": 6135,
+      "end": 6153
+    },
+    {
+      "text": "A. SATISFACTORY",
+      "type": "ENTITY",
+      "start": 6155,
+      "end": 6170
+    },
+    {
+      "text": "GrOSS",
+      "type": "ENTITY",
+      "start": 6197,
+      "end": 6202
+    },
+    {
+      "text": "OnLy",
+      "type": "ENTITY",
+      "start": 6203,
+      "end": 6207
+    },
+    {
+      "text": "C. FROM",
+      "type": "ENTITY",
+      "start": 6209,
+      "end": 6216
+    },
+    {
+      "text": "LESION",
+      "type": "ENTITY",
+      "start": 6227,
+      "end": 6233
+    },
+    {
+      "text": "CM",
+      "type": "ENTITY",
+      "start": 6260,
+      "end": 6262
+    },
+    {
+      "text": "THE INFERIOR MARGIN",
+      "type": "ENTITY",
+      "start": 6266,
+      "end": 6285
+    },
+    {
+      "text": "CM",
+      "type": "ENTITY",
+      "start": 6294,
+      "end": 6296
+    },
+    {
+      "text": "SUPERIOR MARGIN",
+      "type": "ENTITY",
+      "start": 6306,
+      "end": 6321
+    },
+    {
+      "text": "O.2",
+      "type": "ENTITY",
+      "start": 6326,
+      "end": 6329
+    },
+    {
+      "text": "CM",
+      "type": "ENTITY",
+      "start": 6330,
+      "end": 6332
+    },
+    {
+      "text": "ALL",
+      "type": "ENTITY",
+      "start": 6360,
+      "end": 6363
+    },
+    {
+      "text": "CUTANEOUS MARGINS",
+      "type": "ENTITY",
+      "start": 6364,
+      "end": 6381
+    },
+    {
+      "text": "ARE",
+      "type": "ENTITY",
+      "start": 6382,
+      "end": 6385
+    },
+    {
+      "text": "CM",
+      "type": "ENTITY",
+      "start": 6400,
+      "end": 6402
+    },
+    {
+      "text": "CARCINOMA PART 2AFS",
+      "type": "ENTITY",
+      "start": 6406,
+      "end": 6425
+    },
+    {
+      "text": "RIGHT",
+      "type": "ENTITY",
+      "start": 6427,
+      "end": 6432
+    },
+    {
+      "text": "LIP",
+      "type": "ENTITY",
+      "start": 6439,
+      "end": 6442
+    },
+    {
+      "text": "BIOPSY",
+      "type": "ENTITY",
+      "start": 6444,
+      "end": 6450
+    },
+    {
+      "text": "frozen section",
+      "type": "ENTITY",
+      "start": 6452,
+      "end": 6466
+    },
+    {
+      "text": "A. SATISFACTORY",
+      "type": "ENTITY",
+      "start": 6468,
+      "end": 6483
+    },
+    {
+      "text": "B. BENIGN",
+      "type": "ENTITY",
+      "start": 6507,
+      "end": 6516
+    },
+    {
+      "text": "C. NO TUMOR",
+      "type": "ENTITY",
+      "start": 6518,
+      "end": 6529
+    },
+    {
+      "text": "GRANULATION",
+      "type": "ENTITY",
+      "start": 6531,
+      "end": 6542
+    },
+    {
+      "text": "TISSUE PART",
+      "type": "ENTITY",
+      "start": 6543,
+      "end": 6554
+    },
+    {
+      "text": "LEFT",
+      "type": "ENTITY",
+      "start": 6561,
+      "end": 6565
+    },
+    {
+      "text": "LIP",
+      "type": "ENTITY",
+      "start": 6572,
+      "end": 6575
+    },
+    {
+      "text": "MARGIN",
+      "type": "ENTITY",
+      "start": 6577,
+      "end": 6583
+    },
+    {
+      "text": "EXCISION",
+      "type": "ENTITY",
+      "start": 6585,
+      "end": 6593
+    },
+    {
+      "text": "frozen seCtion",
+      "type": "ENTITY",
+      "start": 6595,
+      "end": 6609
+    },
+    {
+      "text": "A. SATISFACTORY",
+      "type": "ENTITY",
+      "start": 6611,
+      "end": 6626
+    },
+    {
+      "text": "B. BENIGN",
+      "type": "ENTITY",
+      "start": 6650,
+      "end": 6659
+    },
+    {
+      "text": "C. NO TUMOR PRESENT",
+      "type": "ENTITY",
+      "start": 6661,
+      "end": 6680
+    },
+    {
+      "text": "Md",
+      "type": "ENTITY",
+      "start": 6683,
+      "end": 6685
+    },
+    {
+      "text": "LEFT UPPER ALVEOLUS",
+      "type": "ENTITY",
+      "start": 6700,
+      "end": 6719
+    },
+    {
+      "text": "SHAVE",
+      "type": "ENTITY",
+      "start": 6721,
+      "end": 6726
+    },
+    {
+      "text": "EXCISION",
+      "type": "ENTITY",
+      "start": 6735,
+      "end": 6743
+    },
+    {
+      "text": "A. SATISEACTORY",
+      "type": "ENTITY",
+      "start": 6761,
+      "end": 6776
+    },
+    {
+      "text": "ANCILLARY STUDIES",
+      "type": "ENTITY",
+      "start": 6781,
+      "end": 6798
+    },
+    {
+      "text": "B. BENIGN",
+      "type": "ENTITY",
+      "start": 6800,
+      "end": 6809
+    },
+    {
+      "text": "C. NO TUMOR PRESENT MD",
+      "type": "ENTITY",
+      "start": 6811,
+      "end": 6833
+    },
+    {
+      "text": "PART",
+      "type": "ENTITY",
+      "start": 6837,
+      "end": 6841
+    },
+    {
+      "text": "LEFT POSTERIOR BUCCAL SHAVE MARGIN",
+      "type": "ENTITY",
+      "start": 6848,
+      "end": 6882
+    },
+    {
+      "text": "A. SUFFICIENT",
+      "type": "ENTITY",
+      "start": 6900,
+      "end": 6913
+    },
+    {
+      "text": "B. BENIGN",
+      "type": "ENTITY",
+      "start": 6937,
+      "end": 6946
+    },
+    {
+      "text": "C. FOCAL",
+      "type": "ENTITY",
+      "start": 6948,
+      "end": 6956
+    },
+    {
+      "text": "LEFT LOWER ALVEOLUS",
+      "type": "ENTITY",
+      "start": 6983,
+      "end": 7002
+    },
+    {
+      "text": "BIOPSY",
+      "type": "ENTITY",
+      "start": 7004,
+      "end": 7010
+    },
+    {
+      "text": "frozen seCtion",
+      "type": "ENTITY",
+      "start": 7012,
+      "end": 7026
+    },
+    {
+      "text": "A. SUFFICIENT",
+      "type": "ENTITY",
+      "start": 7028,
+      "end": 7041
+    },
+    {
+      "text": "B. BENIGN",
+      "type": "ENTITY",
+      "start": 7065,
+      "end": 7074
+    },
+    {
+      "text": "LEFT",
+      "type": "ENTITY",
+      "start": 7128,
+      "end": 7132
+    },
+    {
+      "text": "LIP",
+      "type": "ENTITY",
+      "start": 7139,
+      "end": 7142
+    },
+    {
+      "text": "BIOPSY",
+      "type": "ENTITY",
+      "start": 7144,
+      "end": 7150
+    },
+    {
+      "text": "frozen section",
+      "type": "ENTITY",
+      "start": 7152,
+      "end": 7166
+    },
+    {
+      "text": "A. SUFFICIENT",
+      "type": "ENTITY",
+      "start": 7168,
+      "end": 7181
+    },
+    {
+      "text": "B. BEnign",
+      "type": "ENTITY",
+      "start": 7205,
+      "end": 7214
+    },
+    {
+      "text": "C. NO",
+      "type": "ENTITY",
+      "start": 7216,
+      "end": 7221
+    },
+    {
+      "text": "md",
+      "type": "ENTITY",
+      "start": 7236,
+      "end": 7238
+    },
+    {
+      "text": "Microscopic examination",
+      "type": "ENTITY",
+      "start": 7254,
+      "end": 7277
+    },
+    {
+      "text": "diagnosis",
+      "type": "ENTITY",
+      "start": 7302,
+      "end": 7311
+    },
+    {
+      "text": "statement",
+      "type": "ENTITY",
+      "start": 7327,
+      "end": 7336
+    },
+    {
+      "text": "immunohistochemistry",
+      "type": "ENTITY",
+      "start": 7352,
+      "end": 7372
+    },
+    {
+      "text": "Insitu Hybridization Assays",
+      "type": "ENTITY",
+      "start": 7374,
+      "end": 7401
+    },
+    {
+      "text": "Fish",
+      "type": "ENTITY",
+      "start": 7409,
+      "end": 7413
+    },
+    {
+      "text": "Molecular Anatomic Pathology",
+      "type": "ENTITY",
+      "start": 7416,
+      "end": 7444
+    },
+    {
+      "text": "Immunofluorescent Testing",
+      "type": "ENTITY",
+      "start": 7450,
+      "end": 7475
+    },
+    {
+      "text": "testing",
+      "type": "ENTITY",
+      "start": 7481,
+      "end": 7488
+    },
+    {
+      "text": "performance",
+      "type": "ENTITY",
+      "start": 7511,
+      "end": 7522
+    },
+    {
+      "text": "characteristics",
+      "type": "ENTITY",
+      "start": 7523,
+      "end": 7538
+    },
+    {
+      "text": "Department of Pathology",
+      "type": "ENTITY",
+      "start": 7557,
+      "end": 7580
+    },
+    {
+      "text": "CLIA",
+      "type": "ENTITY",
+      "start": 7601,
+      "end": 7605
+    },
+    {
+      "text": "U.s. Food and Drug Administration",
+      "type": "ENTITY",
+      "start": 7626,
+      "end": 7659
+    },
+    {
+      "text": "FdA",
+      "type": "ENTITY",
+      "start": 7669,
+      "end": 7672
+    },
+    {
+      "text": "approval",
+      "type": "ENTITY",
+      "start": 7693,
+      "end": 7701
+    },
+    {
+      "text": "clinical",
+      "type": "ENTITY",
+      "start": 7723,
+      "end": 7731
+    },
+    {
+      "text": "fixation",
+      "type": "ENTITY",
+      "start": 7737,
+      "end": 7745
+    },
+    {
+      "text": "laboratory",
+      "type": "ENTITY",
+      "start": 7812,
+      "end": 7822
+    },
+    {
+      "text": "Clinical Laboratory Improvement Amendments",
+      "type": "ENTITY",
+      "start": 7846,
+      "end": 7888
+    },
+    {
+      "text": "qualified",
+      "type": "ENTITY",
+      "start": 7909,
+      "end": 7918
+    },
+    {
+      "text": "high-complexity clinical testing",
+      "type": "ENTITY",
+      "start": 7930,
+      "end": 7962
+    },
+    {
+      "text": "requirements",
+      "type": "ENTITY",
+      "start": 7980,
+      "end": 7992
+    },
+    {
+      "text": "cLiA",
+      "type": "ENTITY",
+      "start": 7996,
+      "end": 8000
+    },
+    {
+      "text": "AsR's",
+      "type": "ENTITY",
+      "start": 8002,
+      "end": 8007
+    },
+    {
+      "text": "laboratory",
+      "type": "ENTITY",
+      "start": 8021,
+      "end": 8031
+    },
+    {
+      "text": "accuracy",
+      "type": "ENTITY",
+      "start": 8071,
+      "end": 8079
+    },
+    {
+      "text": "precision",
+      "type": "ENTITY",
+      "start": 8084,
+      "end": 8093
+    },
+    {
+      "text": "information",
+      "type": "ENTITY",
+      "start": 8106,
+      "end": 8117
+    },
+    {
+      "text": "request",
+      "type": "ENTITY",
+      "start": 8160,
+      "end": 8167
+    },
+    {
+      "text": "SYNOPTIC",
+      "type": "ENTITY",
+      "start": 8184,
+      "end": 8192
+    },
+    {
+      "text": "DATA",
+      "type": "ENTITY",
+      "start": 8193,
+      "end": 8197
+    },
+    {
+      "text": "PRIMARY",
+      "type": "ENTITY",
+      "start": 8200,
+      "end": 8207
+    },
+    {
+      "text": "UPPER AERODIGESTIVE TRACT",
+      "type": "ENTITY",
+      "start": 8208,
+      "end": 8233
+    },
+    {
+      "text": "SALIVARY",
+      "type": "ENTITY",
+      "start": 8238,
+      "end": 8246
+    },
+    {
+      "text": "Resection",
+      "type": "ENTITY",
+      "start": 8275,
+      "end": 8284
+    },
+    {
+      "text": "left buccal resection",
+      "type": "ENTITY",
+      "start": 8286,
+      "end": 8307
+    },
+    {
+      "text": "oral cavity",
+      "type": "ENTITY",
+      "start": 8327,
+      "end": 8338
+    },
+    {
+      "text": "cheek TUMOR",
+      "type": "ENTITY",
+      "start": 8340,
+      "end": 8351
+    },
+    {
+      "text": "dimension",
+      "type": "ENTITY",
+      "start": 8367,
+      "end": 8376
+    },
+    {
+      "text": "Squamous cell carcinoma",
+      "type": "ENTITY",
+      "start": 8400,
+      "end": 8423
+    },
+    {
+      "text": "PRIMARY TUMOR",
+      "type": "ENTITY",
+      "start": 8459,
+      "end": 8472
+    },
+    {
+      "text": "pNO",
+      "type": "ENTITY",
+      "start": 8513,
+      "end": 8516
+    },
+    {
+      "text": "regional",
+      "type": "ENTITY",
+      "start": 8527,
+      "end": 8535
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 8536,
+      "end": 8547
+    },
+    {
+      "text": "examined",
+      "type": "ENTITY",
+      "start": 8548,
+      "end": 8556
+    },
+    {
+      "text": "regional",
+      "type": "ENTITY",
+      "start": 8571,
+      "end": 8579
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 8580,
+      "end": 8591
+    },
+    {
+      "text": "DISTANT",
+      "type": "ENTITY",
+      "start": 8604,
+      "end": 8611
+    },
+    {
+      "text": "pMX",
+      "type": "ENTITY",
+      "start": 8631,
+      "end": 8634
+    },
+    {
+      "text": "Margins uninvolved",
+      "type": "ENTITY",
+      "start": 8644,
+      "end": 8662
+    },
+    {
+      "text": "tumor VENOUS/LYMPHATIC",
+      "type": "ENTITY",
+      "start": 8666,
+      "end": 8688
+    },
+    {
+      "text": "LARGE/SMALL",
+      "type": "ENTITY",
+      "start": 8690,
+      "end": 8701
+    },
+    {
+      "text": "Absent PERINEURAL INVASION",
+      "type": "ENTITY",
+      "start": 8727,
+      "end": 8753
+    },
+    {
+      "text": "Absent PATIENT HISTORY",
+      "type": "ENTITY",
+      "start": 8755,
+      "end": 8777
+    },
+    {
+      "text": "COMPLAINT/ PRE-OP/ POST-OP",
+      "type": "ENTITY",
+      "start": 8785,
+      "end": 8811
+    },
+    {
+      "text": "DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 8812,
+      "end": 8821
+    },
+    {
+      "text": "Invasive",
+      "type": "ENTITY",
+      "start": 8823,
+      "end": 8831
+    },
+    {
+      "text": "cell carcinoma",
+      "type": "ENTITY",
+      "start": 8841,
+      "end": 8855
+    },
+    {
+      "text": "Excision buccal lesion",
+      "type": "ENTITY",
+      "start": 8868,
+      "end": 8890
+    },
+    {
+      "text": "Not answered",
+      "type": "ENTITY",
+      "start": 8936,
+      "end": 8948
+    },
+    {
+      "text": "OuTsiDe",
+      "type": "ENTITY",
+      "start": 8950,
+      "end": 8957
+    },
+    {
+      "text": "TIssuE",
+      "type": "ENTITY",
+      "start": 8958,
+      "end": 8964
+    },
+    {
+      "text": "DiagnosiS",
+      "type": "ENTITY",
+      "start": 8965,
+      "end": 8974
+    },
+    {
+      "text": "Not answered",
+      "type": "ENTITY",
+      "start": 8976,
+      "end": 8988
+    },
+    {
+      "text": "PRIOR MALIGNANCY",
+      "type": "ENTITY",
+      "start": 8990,
+      "end": 9006
+    },
+    {
+      "text": "anSwered",
+      "type": "ENTITY",
+      "start": 9012,
+      "end": 9020
+    },
+    {
+      "text": "CHEMORADIATION",
+      "type": "ENTITY",
+      "start": 9022,
+      "end": 9036
+    },
+    {
+      "text": "anSwered",
+      "type": "ENTITY",
+      "start": 9050,
+      "end": 9058
+    },
+    {
+      "text": "ORGAN TRANSPLANT",
+      "type": "ENTITY",
+      "start": 9060,
+      "end": 9076
+    },
+    {
+      "text": "anSwered",
+      "type": "ENTITY",
+      "start": 9082,
+      "end": 9090
+    },
+    {
+      "text": "Immunosuppression",
+      "type": "ENTITY",
+      "start": 9092,
+      "end": 9109
+    },
+    {
+      "text": "Not answered",
+      "type": "ENTITY",
+      "start": 9111,
+      "end": 9123
+    },
+    {
+      "text": "OtheR",
+      "type": "ENTITY",
+      "start": 9125,
+      "end": 9130
+    },
+    {
+      "text": "DiseAses",
+      "type": "ENTITY",
+      "start": 9131,
+      "end": 9139
+    },
+    {
+      "text": "Not answered",
+      "type": "ENTITY",
+      "start": 9141,
+      "end": 9153
+    },
+    {
+      "text": "HISTO",
+      "type": "ENTITY",
+      "start": 9155,
+      "end": 9160
+    },
+    {
+      "text": "REVIEWED",
+      "type": "ENTITY",
+      "start": 9183,
+      "end": 9191
+    },
+    {
+      "text": "left buccal resection Stain/",
+      "type": "ENTITY",
+      "start": 9201,
+      "end": 9229
+    },
+    {
+      "text": "Block H&E",
+      "type": "ENTITY",
+      "start": 9230,
+      "end": 9239
+    },
+    {
+      "text": "H&E",
+      "type": "ENTITY",
+      "start": 9246,
+      "end": 9249
+    },
+    {
+      "text": "H&E",
+      "type": "ENTITY",
+      "start": 9266,
+      "end": 9269
+    },
+    {
+      "text": "H&E 1 F",
+      "type": "ENTITY",
+      "start": 9287,
+      "end": 9294
+    },
+    {
+      "text": "H&E",
+      "type": "ENTITY",
+      "start": 9297,
+      "end": 9300
+    },
+    {
+      "text": "Lip biopsy",
+      "type": "ENTITY",
+      "start": 9315,
+      "end": 9325
+    },
+    {
+      "text": "right lower Stain Block H&E",
+      "type": "ENTITY",
+      "start": 9327,
+      "end": 9354
+    },
+    {
+      "text": "AFS",
+      "type": "ENTITY",
+      "start": 9359,
+      "end": 9362
+    },
+    {
+      "text": "mucosal cirfcumferential margin",
+      "type": "ENTITY",
+      "start": 9382,
+      "end": 9413
+    },
+    {
+      "text": "H&E",
+      "type": "ENTITY",
+      "start": 9427,
+      "end": 9430
+    },
+    {
+      "text": "H&E",
+      "type": "ENTITY",
+      "start": 9437,
+      "end": 9440
+    },
+    {
+      "text": "Lip",
+      "type": "ENTITY",
+      "start": 9455,
+      "end": 9458
+    },
+    {
+      "text": "left upper",
+      "type": "ENTITY",
+      "start": 9460,
+      "end": 9470
+    },
+    {
+      "text": "Stain/",
+      "type": "ENTITY",
+      "start": 9472,
+      "end": 9478
+    },
+    {
+      "text": "Block H&E",
+      "type": "ENTITY",
+      "start": 9479,
+      "end": 9488
+    },
+    {
+      "text": "AFS",
+      "type": "ENTITY",
+      "start": 9493,
+      "end": 9496
+    },
+    {
+      "text": "Left upper alveolus Stain",
+      "type": "ENTITY",
+      "start": 9505,
+      "end": 9530
+    },
+    {
+      "text": "Block H&E",
+      "type": "ENTITY",
+      "start": 9532,
+      "end": 9541
+    },
+    {
+      "text": "AFS",
+      "type": "ENTITY",
+      "start": 9546,
+      "end": 9549
+    },
+    {
+      "text": "Left posterior buccal margin Stain/",
+      "type": "ENTITY",
+      "start": 9558,
+      "end": 9593
+    },
+    {
+      "text": "Block H&E",
+      "type": "ENTITY",
+      "start": 9594,
+      "end": 9603
+    },
+    {
+      "text": "AFS",
+      "type": "ENTITY",
+      "start": 9608,
+      "end": 9611
+    },
+    {
+      "text": "Left Lower alveolus Block Stain/",
+      "type": "ENTITY",
+      "start": 9620,
+      "end": 9652
+    },
+    {
+      "text": "H&E",
+      "type": "ENTITY",
+      "start": 9653,
+      "end": 9656
+    },
+    {
+      "text": "AFS",
+      "type": "ENTITY",
+      "start": 9661,
+      "end": 9664
+    },
+    {
+      "text": "Lip",
+      "type": "ENTITY",
+      "start": 9673,
+      "end": 9676
+    },
+    {
+      "text": "Stain/",
+      "type": "ENTITY",
+      "start": 9689,
+      "end": 9695
+    },
+    {
+      "text": "Block H&E",
+      "type": "ENTITY",
+      "start": 9696,
+      "end": 9705
+    },
+    {
+      "text": "AFS",
+      "type": "ENTITY",
+      "start": 9710,
+      "end": 9713
+    },
+    {
+      "text": "left marginal mandibulectomy",
+      "type": "ENTITY",
+      "start": 9722,
+      "end": 9750
+    },
+    {
+      "text": "Stain",
+      "type": "ENTITY",
+      "start": 9752,
+      "end": 9757
+    },
+    {
+      "text": "Block H&E",
+      "type": "ENTITY",
+      "start": 9759,
+      "end": 9768
+    },
+    {
+      "text": "ADR",
+      "type": "ENTITY",
+      "start": 9773,
+      "end": 9776
+    },
+    {
+      "text": "H&E",
+      "type": "ENTITY",
+      "start": 9777,
+      "end": 9780
+    },
+    {
+      "text": "BDR",
+      "type": "ENTITY",
+      "start": 9785,
+      "end": 9788
+    },
+    {
+      "text": "H&E",
+      "type": "ENTITY",
+      "start": 9789,
+      "end": 9792
+    },
+    {
+      "text": "CDR",
+      "type": "ENTITY",
+      "start": 9797,
+      "end": 9800
+    },
+    {
+      "text": "Neck Dissection",
+      "type": "ENTITY",
+      "start": 9810,
+      "end": 9825
+    },
+    {
+      "text": "left level 1 Stain",
+      "type": "ENTITY",
+      "start": 9827,
+      "end": 9845
+    },
+    {
+      "text": "Block\n\n--- Page 7 ---\nH&E",
+      "type": "ENTITY",
+      "start": 9847,
+      "end": 9872
+    },
+    {
+      "text": "H&E",
+      "type": "ENTITY",
+      "start": 9879,
+      "end": 9882
+    },
+    {
+      "text": "B H&E",
+      "type": "ENTITY",
+      "start": 9885,
+      "end": 9890
+    },
+    {
+      "text": "H&E X D H&E",
+      "type": "ENTITY",
+      "start": 9893,
+      "end": 9904
+    },
+    {
+      "text": "E H&E",
+      "type": "ENTITY",
+      "start": 9907,
+      "end": 9912
+    },
+    {
+      "text": "G H&E",
+      "type": "ENTITY",
+      "start": 9923,
+      "end": 9928
+    },
+    {
+      "text": "Neck Dissection",
+      "type": "ENTITY",
+      "start": 9945,
+      "end": 9960
+    },
+    {
+      "text": "left levels",
+      "type": "ENTITY",
+      "start": 9962,
+      "end": 9973
+    },
+    {
+      "text": "Stain/",
+      "type": "ENTITY",
+      "start": 9978,
+      "end": 9984
+    },
+    {
+      "text": "Block H&E",
+      "type": "ENTITY",
+      "start": 9985,
+      "end": 9994
+    },
+    {
+      "text": "H&E",
+      "type": "ENTITY",
+      "start": 10001,
+      "end": 10004
+    },
+    {
+      "text": "B H&E c",
+      "type": "ENTITY",
+      "start": 10007,
+      "end": 10014
+    },
+    {
+      "text": "H&E",
+      "type": "ENTITY",
+      "start": 10056,
+      "end": 10059
+    },
+    {
+      "text": "K H&E",
+      "type": "ENTITY",
+      "start": 10078,
+      "end": 10083
+    },
+    {
+      "text": "L H&E",
+      "type": "ENTITY",
+      "start": 10086,
+      "end": 10091
+    }
+  ],
+  "entity_count": 459,
+  "has_embedding": true
+}

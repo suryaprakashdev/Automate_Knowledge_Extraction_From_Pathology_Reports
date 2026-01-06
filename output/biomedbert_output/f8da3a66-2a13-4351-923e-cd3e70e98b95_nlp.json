@@ -1,0 +1,1352 @@
+{
+  "filename": "f8da3a66-2a13-4351-923e-cd3e70e98b95",
+  "timestamp": "2026-01-05T14:42:56.541112",
+  "entities": [
+    {
+      "text": "Patient Info Patient",
+      "type": "ENTITY",
+      "start": 63,
+      "end": 83
+    },
+    {
+      "text": "Sex DOB",
+      "type": "ENTITY",
+      "start": 89,
+      "end": 96
+    },
+    {
+      "text": "Component Results Surgical Pathology Report",
+      "type": "ENTITY",
+      "start": 97,
+      "end": 140
+    },
+    {
+      "text": "Specimen",
+      "type": "ENTITY",
+      "start": 162,
+      "end": 170
+    },
+    {
+      "text": "Physician",
+      "type": "ENTITY",
+      "start": 175,
+      "end": 184
+    },
+    {
+      "text": "J0[713",
+      "type": "ENTITY",
+      "start": 192,
+      "end": 198
+    },
+    {
+      "text": "FINAL DIAGNOSIS 1",
+      "type": "ENTITY",
+      "start": 199,
+      "end": 216
+    },
+    {
+      "text": "RADICAL",
+      "type": "ENTITY",
+      "start": 231,
+      "end": 238
+    },
+    {
+      "text": "NEPHRECTOMY",
+      "type": "ENTITY",
+      "start": 239,
+      "end": 250
+    },
+    {
+      "text": "RENAL",
+      "type": "ENTITY",
+      "start": 253,
+      "end": 258
+    },
+    {
+      "text": "PAPILLARY TYPE",
+      "type": "ENTITY",
+      "start": 275,
+      "end": 289
+    },
+    {
+      "text": "FURHMAN",
+      "type": "ENTITY",
+      "start": 291,
+      "end": 298
+    },
+    {
+      "text": "CM",
+      "type": "ENTITY",
+      "start": 325,
+      "end": 327
+    },
+    {
+      "text": "GREATEST DIMENSION",
+      "type": "ENTITY",
+      "start": 331,
+      "end": 349
+    },
+    {
+      "text": "SEE",
+      "type": "ENTITY",
+      "start": 352,
+      "end": 355
+    },
+    {
+      "text": "TUMOR",
+      "type": "ENTITY",
+      "start": 367,
+      "end": 372
+    },
+    {
+      "text": "IS",
+      "type": "ENTITY",
+      "start": 373,
+      "end": 375
+    },
+    {
+      "text": "KIDNEY",
+      "type": "ENTITY",
+      "start": 392,
+      "end": 398
+    },
+    {
+      "text": "NO",
+      "type": "ENTITY",
+      "start": 402,
+      "end": 404
+    },
+    {
+      "text": "ALL",
+      "type": "ENTITY",
+      "start": 434,
+      "end": 437
+    },
+    {
+      "text": "INCLUDING VASCULAR",
+      "type": "ENTITY",
+      "start": 456,
+      "end": 474
+    },
+    {
+      "text": "ARE",
+      "type": "ENTITY",
+      "start": 514,
+      "end": 517
+    },
+    {
+      "text": "NEGATIVE",
+      "type": "ENTITY",
+      "start": 518,
+      "end": 526
+    },
+    {
+      "text": "ADRENAL",
+      "type": "ENTITY",
+      "start": 530,
+      "end": 537
+    },
+    {
+      "text": "NEGATIVE",
+      "type": "ENTITY",
+      "start": 544,
+      "end": 552
+    },
+    {
+      "text": "TUMOR COMMENT",
+      "type": "ENTITY",
+      "start": 557,
+      "end": 570
+    },
+    {
+      "text": "tumor focally",
+      "type": "ENTITY",
+      "start": 576,
+      "end": 589
+    },
+    {
+      "text": "cell changes",
+      "type": "ENTITY",
+      "start": 600,
+      "end": 612
+    },
+    {
+      "text": "immunohistochemistry",
+      "type": "ENTITY",
+      "start": 617,
+      "end": 637
+    },
+    {
+      "text": "cells",
+      "type": "ENTITY",
+      "start": 651,
+      "end": 656
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 661,
+      "end": 669
+    },
+    {
+      "text": "cytokeratin",
+      "type": "ENTITY",
+      "start": 674,
+      "end": 685
+    },
+    {
+      "text": "papillary RCC",
+      "type": "ENTITY",
+      "start": 751,
+      "end": 764
+    },
+    {
+      "text": "positive",
+      "type": "ENTITY",
+      "start": 768,
+      "end": 776
+    },
+    {
+      "text": "marker",
+      "type": "ENTITY",
+      "start": 786,
+      "end": 792
+    },
+    {
+      "text": "significance",
+      "type": "ENTITY",
+      "start": 798,
+      "end": 810
+    },
+    {
+      "text": "finding",
+      "type": "ENTITY",
+      "start": 814,
+      "end": 821
+    },
+    {
+      "text": "papillary",
+      "type": "ENTITY",
+      "start": 874,
+      "end": 883
+    },
+    {
+      "text": "ASR",
+      "type": "ENTITY",
+      "start": 927,
+      "end": 930
+    },
+    {
+      "text": "reagents",
+      "type": "ENTITY",
+      "start": 966,
+      "end": 974
+    },
+    {
+      "text": "tests",
+      "type": "ENTITY",
+      "start": 988,
+      "end": 993
+    },
+    {
+      "text": "analyte",
+      "type": "ENTITY",
+      "start": 1013,
+      "end": 1020
+    },
+    {
+      "text": "AsR",
+      "type": "ENTITY",
+      "start": 1039,
+      "end": 1042
+    },
+    {
+      "text": "tests",
+      "type": "ENTITY",
+      "start": 1051,
+      "end": 1056
+    },
+    {
+      "text": "performance",
+      "type": "ENTITY",
+      "start": 1083,
+      "end": 1094
+    },
+    {
+      "text": "characteristics",
+      "type": "ENTITY",
+      "start": 1095,
+      "end": 1110
+    },
+    {
+      "text": "US",
+      "type": "ENTITY",
+      "start": 1163,
+      "end": 1165
+    },
+    {
+      "text": "Drug Administration",
+      "type": "ENTITY",
+      "start": 1175,
+      "end": 1194
+    },
+    {
+      "text": "FDA",
+      "type": "ENTITY",
+      "start": 1200,
+      "end": 1203
+    },
+    {
+      "text": "clearance",
+      "type": "ENTITY",
+      "start": 1229,
+      "end": 1238
+    },
+    {
+      "text": "approval",
+      "type": "ENTITY",
+      "start": 1242,
+      "end": 1250
+    },
+    {
+      "text": "***Electronic Signature*** SPECIMEN",
+      "type": "ENTITY",
+      "start": 1269,
+      "end": 1304
+    },
+    {
+      "text": "LEFT",
+      "type": "ENTITY",
+      "start": 1318,
+      "end": 1322
+    },
+    {
+      "text": "UUID:0985E4C5-CCC0-49A3-8604-8E0021AEB435",
+      "type": "ENTITY",
+      "start": 1330,
+      "end": 1371
+    },
+    {
+      "text": "CLINICAL DATA",
+      "type": "ENTITY",
+      "start": 1401,
+      "end": 1414
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1459,
+      "end": 1467
+    },
+    {
+      "text": "left kidney",
+      "type": "ENTITY",
+      "start": 1482,
+      "end": 1493
+    },
+    {
+      "text": "surrounded",
+      "type": "ENTITY",
+      "start": 1494,
+      "end": 1504
+    },
+    {
+      "text": "envelope",
+      "type": "ENTITY",
+      "start": 1511,
+      "end": 1519
+    },
+    {
+      "text": "fibroadipose tissue",
+      "type": "ENTITY",
+      "start": 1523,
+      "end": 1542
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 1543,
+      "end": 1552
+    },
+    {
+      "text": "weighing 1,224.25 grams",
+      "type": "ENTITY",
+      "start": 1587,
+      "end": 1610
+    },
+    {
+      "text": "kidney",
+      "type": "ENTITY",
+      "start": 1616,
+      "end": 1622
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 1623,
+      "end": 1631
+    },
+    {
+      "text": "Page 1",
+      "type": "ENTITY",
+      "start": 1660,
+      "end": 1666
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1709,
+      "end": 1717
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 1731,
+      "end": 1739
+    },
+    {
+      "text": "exposed capsule",
+      "type": "ENTITY",
+      "start": 1748,
+      "end": 1763
+    },
+    {
+      "text": "apparent",
+      "type": "ENTITY",
+      "start": 1767,
+      "end": 1775
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 1814,
+      "end": 1818
+    },
+    {
+      "text": "inferior pole",
+      "type": "ENTITY",
+      "start": 1842,
+      "end": 1855
+    },
+    {
+      "text": "kidney",
+      "type": "ENTITY",
+      "start": 1863,
+      "end": 1869
+    },
+    {
+      "text": "sectioning",
+      "type": "ENTITY",
+      "start": 1874,
+      "end": 1884
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 1890,
+      "end": 1894
+    },
+    {
+      "text": "variegated",
+      "type": "ENTITY",
+      "start": 1901,
+      "end": 1911
+    },
+    {
+      "text": "yellow-red",
+      "type": "ENTITY",
+      "start": 1913,
+      "end": 1923
+    },
+    {
+      "text": "soft",
+      "type": "ENTITY",
+      "start": 1925,
+      "end": 1929
+    },
+    {
+      "text": "focally hemorrhagic",
+      "type": "ENTITY",
+      "start": 1934,
+      "end": 1953
+    },
+    {
+      "text": "well-circumscribed",
+      "type": "ENTITY",
+      "start": 1978,
+      "end": 1996
+    },
+    {
+      "text": "perirenal fat",
+      "type": "ENTITY",
+      "start": 2036,
+      "end": 2049
+    },
+    {
+      "text": "renal sinus",
+      "type": "ENTITY",
+      "start": 2053,
+      "end": 2064
+    },
+    {
+      "text": "soft tissue margin",
+      "type": "ENTITY",
+      "start": 2092,
+      "end": 2110
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 2118,
+      "end": 2126
+    },
+    {
+      "text": "soft tissue margin",
+      "type": "ENTITY",
+      "start": 2140,
+      "end": 2158
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 2190,
+      "end": 2195
+    },
+    {
+      "text": "Satellite nodules",
+      "type": "ENTITY",
+      "start": 2197,
+      "end": 2214
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 2218,
+      "end": 2223
+    },
+    {
+      "text": "renal tissue",
+      "type": "ENTITY",
+      "start": 2247,
+      "end": 2259
+    },
+    {
+      "text": "Dissection",
+      "type": "ENTITY",
+      "start": 2261,
+      "end": 2271
+    },
+    {
+      "text": "renal veins",
+      "type": "ENTITY",
+      "start": 2279,
+      "end": 2290
+    },
+    {
+      "text": "intravascular",
+      "type": "ENTITY",
+      "start": 2305,
+      "end": 2318
+    },
+    {
+      "text": "presence",
+      "type": "ENTITY",
+      "start": 2319,
+      "end": 2327
+    },
+    {
+      "text": "neoplasm",
+      "type": "ENTITY",
+      "start": 2331,
+      "end": 2339
+    },
+    {
+      "text": "renal parenchyma",
+      "type": "ENTITY",
+      "start": 2345,
+      "end": 2361
+    },
+    {
+      "text": "pale",
+      "type": "ENTITY",
+      "start": 2365,
+      "end": 2369
+    },
+    {
+      "text": "blurred",
+      "type": "ENTITY",
+      "start": 2376,
+      "end": 2383
+    },
+    {
+      "text": "corticomedullary",
+      "type": "ENTITY",
+      "start": 2384,
+      "end": 2400
+    },
+    {
+      "text": "demarcations",
+      "type": "ENTITY",
+      "start": 2401,
+      "end": 2413
+    },
+    {
+      "text": "cyst",
+      "type": "ENTITY",
+      "start": 2434,
+      "end": 2438
+    },
+    {
+      "text": "superior pole",
+      "type": "ENTITY",
+      "start": 2454,
+      "end": 2467
+    },
+    {
+      "text": "cysts",
+      "type": "ENTITY",
+      "start": 2493,
+      "end": 2498
+    },
+    {
+      "text": "renal parenchyma",
+      "type": "ENTITY",
+      "start": 2524,
+      "end": 2540
+    },
+    {
+      "text": "cysts",
+      "type": "ENTITY",
+      "start": 2546,
+      "end": 2551
+    },
+    {
+      "text": "smooth wall",
+      "type": "ENTITY",
+      "start": 2568,
+      "end": 2579
+    },
+    {
+      "text": "fluid",
+      "type": "ENTITY",
+      "start": 2606,
+      "end": 2611
+    },
+    {
+      "text": "cyst",
+      "type": "ENTITY",
+      "start": 2625,
+      "end": 2629
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 2630,
+      "end": 2638
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 2657,
+      "end": 2665
+    },
+    {
+      "text": "smaller",
+      "type": "ENTITY",
+      "start": 2674,
+      "end": 2681
+    },
+    {
+      "text": "cysts",
+      "type": "ENTITY",
+      "start": 2682,
+      "end": 2687
+    },
+    {
+      "text": "size",
+      "type": "ENTITY",
+      "start": 2697,
+      "end": 2701
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 2724,
+      "end": 2732
+    },
+    {
+      "text": "adrenal gland",
+      "type": "ENTITY",
+      "start": 2757,
+      "end": 2770
+    },
+    {
+      "text": "surface",
+      "type": "ENTITY",
+      "start": 2789,
+      "end": 2796
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 2804,
+      "end": 2812
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 2813,
+      "end": 2822
+    },
+    {
+      "text": "adrenal",
+      "type": "ENTITY",
+      "start": 2870,
+      "end": 2877
+    },
+    {
+      "text": "nodules",
+      "type": "ENTITY",
+      "start": 2889,
+      "end": 2896
+    },
+    {
+      "text": "hemorrhagic",
+      "type": "ENTITY",
+      "start": 2913,
+      "end": 2924
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 2961,
+      "end": 2965
+    },
+    {
+      "text": "portion",
+      "type": "ENTITY",
+      "start": 2983,
+      "end": 2990
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 2994,
+      "end": 2998
+    },
+    {
+      "text": "distant",
+      "type": "ENTITY",
+      "start": 3021,
+      "end": 3028
+    },
+    {
+      "text": "segment",
+      "type": "ENTITY",
+      "start": 3039,
+      "end": 3046
+    },
+    {
+      "text": "ureter",
+      "type": "ENTITY",
+      "start": 3050,
+      "end": 3056
+    },
+    {
+      "text": "unremarkable",
+      "type": "ENTITY",
+      "start": 3087,
+      "end": 3099
+    },
+    {
+      "text": "Lymph nodes",
+      "type": "ENTITY",
+      "start": 3101,
+      "end": 3112
+    },
+    {
+      "text": "Representative sections",
+      "type": "ENTITY",
+      "start": 3130,
+      "end": 3153
+    },
+    {
+      "text": "A1 frozen section",
+      "type": "ENTITY",
+      "start": 3180,
+      "end": 3197
+    },
+    {
+      "text": "no charge",
+      "type": "ENTITY",
+      "start": 3198,
+      "end": 3207
+    },
+    {
+      "text": "A2 vascular margins",
+      "type": "ENTITY",
+      "start": 3209,
+      "end": 3228
+    },
+    {
+      "text": "ureter margin",
+      "type": "ENTITY",
+      "start": 3233,
+      "end": 3246
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 3266,
+      "end": 3274
+    },
+    {
+      "text": "adrenal",
+      "type": "ENTITY",
+      "start": 3278,
+      "end": 3285
+    },
+    {
+      "text": "A4 & A5 tumor",
+      "type": "ENTITY",
+      "start": 3287,
+      "end": 3300
+    },
+    {
+      "text": "soft tissue margin",
+      "type": "ENTITY",
+      "start": 3309,
+      "end": 3327
+    },
+    {
+      "text": "A6 tumor",
+      "type": "ENTITY",
+      "start": 3329,
+      "end": 3337
+    },
+    {
+      "text": "A7 tumor",
+      "type": "ENTITY",
+      "start": 3359,
+      "end": 3367
+    },
+    {
+      "text": "A8 tumor",
+      "type": "ENTITY",
+      "start": 3390,
+      "end": 3398
+    },
+    {
+      "text": "adjacent kidney",
+      "type": "ENTITY",
+      "start": 3403,
+      "end": 3418
+    },
+    {
+      "text": "A9 tumor",
+      "type": "ENTITY",
+      "start": 3420,
+      "end": 3428
+    },
+    {
+      "text": "A10 representative section normal kidney",
+      "type": "ENTITY",
+      "start": 3430,
+      "end": 3470
+    },
+    {
+      "text": "representative",
+      "type": "ENTITY",
+      "start": 3475,
+      "end": 3489
+    },
+    {
+      "text": "section",
+      "type": "ENTITY",
+      "start": 3490,
+      "end": 3497
+    },
+    {
+      "text": "kidney",
+      "type": "ENTITY",
+      "start": 3501,
+      "end": 3507
+    },
+    {
+      "text": "cysts",
+      "type": "ENTITY",
+      "start": 3513,
+      "end": 3518
+    },
+    {
+      "text": "Patient",
+      "type": "ENTITY",
+      "start": 3521,
+      "end": 3528
+    },
+    {
+      "text": "ID",
+      "type": "ENTITY",
+      "start": 3529,
+      "end": 3531
+    },
+    {
+      "text": "DOB",
+      "type": "ENTITY",
+      "start": 3535,
+      "end": 3538
+    },
+    {
+      "text": "Receipt",
+      "type": "ENTITY",
+      "start": 3585,
+      "end": 3592
+    },
+    {
+      "text": "Location",
+      "type": "ENTITY",
+      "start": 3608,
+      "end": 3616
+    },
+    {
+      "text": "Lab",
+      "type": "ENTITY",
+      "start": 3618,
+      "end": 3621
+    },
+    {
+      "text": "Lon Result History",
+      "type": "ENTITY",
+      "start": 3658,
+      "end": 3676
+    },
+    {
+      "text": "Order Result History Report",
+      "type": "ENTITY",
+      "start": 3701,
+      "end": 3728
+    },
+    {
+      "text": "Information Result",
+      "type": "ENTITY",
+      "start": 3737,
+      "end": 3755
+    },
+    {
+      "text": "Date",
+      "type": "ENTITY",
+      "start": 3756,
+      "end": 3760
+    },
+    {
+      "text": "Tirne",
+      "type": "ENTITY",
+      "start": 3765,
+      "end": 3770
+    },
+    {
+      "text": "Reviewed",
+      "type": "ENTITY",
+      "start": 3807,
+      "end": 3815
+    },
+    {
+      "text": "Status",
+      "type": "ENTITY",
+      "start": 3816,
+      "end": 3822
+    },
+    {
+      "text": "Display",
+      "type": "ENTITY",
+      "start": 3866,
+      "end": 3873
+    },
+    {
+      "text": "TCGA",
+      "type": "ENTITY",
+      "start": 3954,
+      "end": 3958
+    },
+    {
+      "text": "Pathologic Diagnosis",
+      "type": "ENTITY",
+      "start": 3959,
+      "end": 3979
+    },
+    {
+      "text": "Study Subjectd Person",
+      "type": "ENTITY",
+      "start": 4005,
+      "end": 4026
+    },
+    {
+      "text": "ID",
+      "type": "ENTITY",
+      "start": 4027,
+      "end": 4029
+    },
+    {
+      "text": "Study/Site",
+      "type": "ENTITY",
+      "start": 4040,
+      "end": 4050
+    },
+    {
+      "text": "TCGA Kidney renal papillary cell carcinoma",
+      "type": "ENTITY",
+      "start": 4052,
+      "end": 4094
+    },
+    {
+      "text": "Kidney renal papillary cell",
+      "type": "ENTITY",
+      "start": 4098,
+      "end": 4125
+    },
+    {
+      "text": "N/A! carcinoma",
+      "type": "ENTITY",
+      "start": 4132,
+      "end": 4146
+    },
+    {
+      "text": "PathDiscrepancy",
+      "type": "ENTITY",
+      "start": 4155,
+      "end": 4170
+    },
+    {
+      "text": "Sex",
+      "type": "ENTITY",
+      "start": 4200,
+      "end": 4203
+    },
+    {
+      "text": "Initial",
+      "type": "ENTITY",
+      "start": 4234,
+      "end": 4241
+    },
+    {
+      "text": "Case Provide",
+      "type": "ENTITY",
+      "start": 4242,
+      "end": 4254
+    },
+    {
+      "text": "tumor identifier",
+      "type": "ENTITY",
+      "start": 4259,
+      "end": 4275
+    },
+    {
+      "text": "documented",
+      "type": "ENTITY",
+      "start": 4276,
+      "end": 4286
+    },
+    {
+      "text": "case quality",
+      "type": "ENTITY",
+      "start": 4302,
+      "end": 4314
+    },
+    {
+      "text": "Quality Control Form control form",
+      "type": "ENTITY",
+      "start": 4315,
+      "end": 4348
+    },
+    {
+      "text": "case",
+      "type": "ENTITY",
+      "start": 4358,
+      "end": 4362
+    },
+    {
+      "text": "Provide",
+      "type": "ENTITY",
+      "start": 4407,
+      "end": 4414
+    },
+    {
+      "text": "diagnosis/",
+      "type": "ENTITY",
+      "start": 4419,
+      "end": 4429
+    },
+    {
+      "text": "histologic",
+      "type": "ENTITY",
+      "start": 4430,
+      "end": 4440
+    },
+    {
+      "text": "subtype(s)",
+      "type": "ENTITY",
+      "start": 4441,
+      "end": 4451
+    },
+    {
+      "text": "documented",
+      "type": "ENTITY",
+      "start": 4452,
+      "end": 4462
+    },
+    {
+      "text": "initial",
+      "type": "ENTITY",
+      "start": 4470,
+      "end": 4477
+    },
+    {
+      "text": "pathology",
+      "type": "ENTITY",
+      "start": 4478,
+      "end": 4487
+    },
+    {
+      "text": "Pathology Report carcinoma",
+      "type": "ENTITY",
+      "start": 4500,
+      "end": 4526
+    },
+    {
+      "text": "report",
+      "type": "ENTITY",
+      "start": 4527,
+      "end": 4533
+    },
+    {
+      "text": "case",
+      "type": "ENTITY",
+      "start": 4543,
+      "end": 4547
+    },
+    {
+      "text": "histology",
+      "type": "ENTITY",
+      "start": 4556,
+      "end": 4565
+    },
+    {
+      "text": "case",
+      "type": "ENTITY",
+      "start": 4575,
+      "end": 4579
+    },
+    {
+      "text": "subtypes",
+      "type": "ENTITY",
+      "start": 4610,
+      "end": 4618
+    },
+    {
+      "text": "Histologic features",
+      "type": "ENTITY",
+      "start": 4620,
+      "end": 4639
+    },
+    {
+      "text": "sample",
+      "type": "ENTITY",
+      "start": 4647,
+      "end": 4653
+    },
+    {
+      "text": "papillary",
+      "type": "ENTITY",
+      "start": 4667,
+      "end": 4676
+    },
+    {
+      "text": "Provide",
+      "type": "ENTITY",
+      "start": 4677,
+      "end": 4684
+    },
+    {
+      "text": "histologic",
+      "type": "ENTITY",
+      "start": 4689,
+      "end": 4699
+    },
+    {
+      "text": "TCGA Case Quality",
+      "type": "ENTITY",
+      "start": 4725,
+      "end": 4742
+    },
+    {
+      "text": "TCGA",
+      "type": "ENTITY",
+      "start": 4743,
+      "end": 4747
+    },
+    {
+      "text": "CQCF",
+      "type": "ENTITY",
+      "start": 4769,
+      "end": 4773
+    },
+    {
+      "text": "case",
+      "type": "ENTITY",
+      "start": 4811,
+      "end": 4815
+    },
+    {
+      "text": "Discrepancy",
+      "type": "ENTITY",
+      "start": 4817,
+      "end": 4828
+    },
+    {
+      "text": "Pathology Report",
+      "type": "ENTITY",
+      "start": 4837,
+      "end": 4853
+    },
+    {
+      "text": "Case Quality Control Form",
+      "type": "ENTITY",
+      "start": 4858,
+      "end": 4883
+    },
+    {
+      "text": "Provide",
+      "type": "ENTITY",
+      "start": 4884,
+      "end": 4891
+    },
+    {
+      "text": "discrepancy",
+      "type": "ENTITY",
+      "start": 4911,
+      "end": 4922
+    },
+    {
+      "text": "clarification",
+      "type": "ENTITY",
+      "start": 4939,
+      "end": 4952
+    },
+    {
+      "text": "Provide",
+      "type": "ENTITY",
+      "start": 4956,
+      "end": 4963
+    },
+    {
+      "text": "diagnosis",
+      "type": "ENTITY",
+      "start": 4992,
+      "end": 5001
+    },
+    {
+      "text": "pathology",
+      "type": "ENTITY",
+      "start": 5021,
+      "end": 5030
+    },
+    {
+      "text": "Type II",
+      "type": "ENTITY",
+      "start": 5052,
+      "end": 5059
+    },
+    {
+      "text": "pathology",
+      "type": "ENTITY",
+      "start": 5080,
+      "end": 5089
+    },
+    {
+      "text": "case",
+      "type": "ENTITY",
+      "start": 5106,
+      "end": 5110
+    },
+    {
+      "text": "consistent with",
+      "type": "ENTITY",
+      "start": 5118,
+      "end": 5133
+    },
+    {
+      "text": "TCGA",
+      "type": "ENTITY",
+      "start": 5134,
+      "end": 5138
+    },
+    {
+      "text": "Case Quality Control Form",
+      "type": "ENTITY",
+      "start": 5139,
+      "end": 5164
+    },
+    {
+      "text": "discrepancy",
+      "type": "ENTITY",
+      "start": 5165,
+      "end": 5176
+    },
+    {
+      "text": "diagnosis",
+      "type": "ENTITY",
+      "start": 5187,
+      "end": 5196
+    },
+    {
+      "text": "TCGA",
+      "type": "ENTITY",
+      "start": 5213,
+      "end": 5217
+    },
+    {
+      "text": "Case Quality Control Form",
+      "type": "ENTITY",
+      "start": 5218,
+      "end": 5243
+    },
+    {
+      "text": "Pathologist",
+      "type": "ENTITY",
+      "start": 5268,
+      "end": 5279
+    },
+    {
+      "text": "Provide",
+      "type": "ENTITY",
+      "start": 5283,
+      "end": 5290
+    },
+    {
+      "text": "pathologist",
+      "type": "ENTITY",
+      "start": 5307,
+      "end": 5318
+    },
+    {
+      "text": "reviewed",
+      "type": "ENTITY",
+      "start": 5323,
+      "end": 5331
+    },
+    {
+      "text": "Biorepository Director case",
+      "type": "ENTITY",
+      "start": 5337,
+      "end": 5364
+    },
+    {
+      "text": "TCGA",
+      "type": "ENTITY",
+      "start": 5369,
+      "end": 5373
+    }
+  ],
+  "entity_count": 224,
+  "has_embedding": true
+}

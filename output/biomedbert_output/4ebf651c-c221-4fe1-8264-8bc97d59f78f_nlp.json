@@ -1,0 +1,776 @@
+{
+  "filename": "4ebf651c-c221-4fe1-8264-8bc97d59f78f",
+  "timestamp": "2026-01-05T14:42:24.254222",
+  "entities": [
+    {
+      "text": "tNAL",
+      "type": "ENTITY",
+      "start": 24,
+      "end": 28
+    },
+    {
+      "text": "DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 29,
+      "end": 38
+    },
+    {
+      "text": "PARt 1",
+      "type": "ENTITY",
+      "start": 40,
+      "end": 46
+    },
+    {
+      "text": "Lymph nODE",
+      "type": "ENTITY",
+      "start": 48,
+      "end": 58
+    },
+    {
+      "text": "RIght",
+      "type": "ENTITY",
+      "start": 60,
+      "end": 65
+    },
+    {
+      "text": "SENTInel NOde",
+      "type": "ENTITY",
+      "start": 76,
+      "end": 89
+    },
+    {
+      "text": "BIOpSy",
+      "type": "ENTITY",
+      "start": 94,
+      "end": 100
+    },
+    {
+      "text": "ONE",
+      "type": "ENTITY",
+      "start": 105,
+      "end": 108
+    },
+    {
+      "text": "POSITIVE FOR CARCINOMA",
+      "type": "ENTITY",
+      "start": 121,
+      "end": 143
+    },
+    {
+      "text": "SEE",
+      "type": "ENTITY",
+      "start": 151,
+      "end": 154
+    },
+    {
+      "text": "breast",
+      "type": "ENTITY",
+      "start": 173,
+      "end": 179
+    },
+    {
+      "text": "modified radical mastectomy",
+      "type": "ENTITY",
+      "start": 187,
+      "end": 214
+    },
+    {
+      "text": "A.Invasive",
+      "type": "ENTITY",
+      "start": 217,
+      "end": 227
+    },
+    {
+      "text": "LoBular Carcinoma",
+      "type": "ENTITY",
+      "start": 228,
+      "end": 245
+    },
+    {
+      "text": "pleomorphic type",
+      "type": "ENTITY",
+      "start": 247,
+      "end": 263
+    },
+    {
+      "text": "focal Signet cells",
+      "type": "ENTITY",
+      "start": 269,
+      "end": 287
+    },
+    {
+      "text": "gRADe II",
+      "type": "ENTITY",
+      "start": 303,
+      "end": 311
+    },
+    {
+      "text": "TuBULE",
+      "type": "ENTITY",
+      "start": 313,
+      "end": 319
+    },
+    {
+      "text": "AcTiviTy",
+      "type": "ENTITY",
+      "start": 366,
+      "end": 374
+    },
+    {
+      "text": "SCORe",
+      "type": "ENTITY",
+      "start": 386,
+      "end": 391
+    },
+    {
+      "text": "InVASive",
+      "type": "ENTITY",
+      "start": 405,
+      "end": 413
+    },
+    {
+      "text": "CARcInOmAS",
+      "type": "ENTITY",
+      "start": 414,
+      "end": 424
+    },
+    {
+      "text": "AT",
+      "type": "ENTITY",
+      "start": 437,
+      "end": 439
+    },
+    {
+      "text": "AnD",
+      "type": "ENTITY",
+      "start": 455,
+      "end": 458
+    },
+    {
+      "text": "O'CLOCK POSITIOnS.",
+      "type": "ENTITY",
+      "start": 461,
+      "end": 479
+    },
+    {
+      "text": "INVASIVE TUMOR",
+      "type": "ENTITY",
+      "start": 484,
+      "end": 498
+    },
+    {
+      "text": "CM",
+      "type": "ENTITY",
+      "start": 512,
+      "end": 514
+    },
+    {
+      "text": "GREATEST DIMENSION",
+      "type": "ENTITY",
+      "start": 518,
+      "end": 536
+    },
+    {
+      "text": "TUMOR",
+      "type": "ENTITY",
+      "start": 538,
+      "end": 543
+    },
+    {
+      "text": "O'CLOCK",
+      "type": "ENTITY",
+      "start": 550,
+      "end": 557
+    },
+    {
+      "text": "GROSS MEASUREMENT",
+      "type": "ENTITY",
+      "start": 559,
+      "end": 576
+    },
+    {
+      "text": "D. LOBULAR CARCInOmA",
+      "type": "ENTITY",
+      "start": 579,
+      "end": 599
+    },
+    {
+      "text": "SiTU",
+      "type": "ENTITY",
+      "start": 603,
+      "end": 607
+    },
+    {
+      "text": "LCIS",
+      "type": "ENTITY",
+      "start": 609,
+      "end": 613
+    },
+    {
+      "text": "ADmIXED WiTH",
+      "type": "ENTITY",
+      "start": 635,
+      "end": 647
+    },
+    {
+      "text": "INVASiVE",
+      "type": "ENTITY",
+      "start": 648,
+      "end": 656
+    },
+    {
+      "text": "CARCinOMA",
+      "type": "ENTITY",
+      "start": 657,
+      "end": 666
+    },
+    {
+      "text": "E. RESECTION MARGINS",
+      "type": "ENTITY",
+      "start": 668,
+      "end": 688
+    },
+    {
+      "text": "SiTU",
+      "type": "ENTITY",
+      "start": 709,
+      "end": 713
+    },
+    {
+      "text": "INVAsSIVE CARCINOMA",
+      "type": "ENTITY",
+      "start": 718,
+      "end": 737
+    },
+    {
+      "text": "F. LymphovascuLar",
+      "type": "ENTITY",
+      "start": 739,
+      "end": 756
+    },
+    {
+      "text": "Invasion",
+      "type": "ENTITY",
+      "start": 757,
+      "end": 765
+    },
+    {
+      "text": "nIpple",
+      "type": "ENTITY",
+      "start": 784,
+      "end": 790
+    },
+    {
+      "text": "skin",
+      "type": "ENTITY",
+      "start": 795,
+      "end": 799
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 804,
+      "end": 812
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 817,
+      "end": 822
+    },
+    {
+      "text": "Lymph nODeS",
+      "type": "ENTITY",
+      "start": 837,
+      "end": 848
+    },
+    {
+      "text": "POsITiVE",
+      "type": "ENTITY",
+      "start": 860,
+      "end": 868
+    },
+    {
+      "text": "CARcINOMA",
+      "type": "ENTITY",
+      "start": 873,
+      "end": 882
+    },
+    {
+      "text": "ARE",
+      "type": "ENTITY",
+      "start": 908,
+      "end": 911
+    },
+    {
+      "text": "ASSOCIATED WITH",
+      "type": "ENTITY",
+      "start": 912,
+      "end": 927
+    },
+    {
+      "text": "iN SITU CARCINOMA",
+      "type": "ENTITY",
+      "start": 945,
+      "end": 962
+    },
+    {
+      "text": "SCLEROSING",
+      "type": "ENTITY",
+      "start": 989,
+      "end": 999
+    },
+    {
+      "text": "INVASiVE",
+      "type": "ENTITY",
+      "start": 1017,
+      "end": 1025
+    },
+    {
+      "text": "TUMOR CELLS",
+      "type": "ENTITY",
+      "start": 1026,
+      "end": 1037
+    },
+    {
+      "text": "ESTROGEN",
+      "type": "ENTITY",
+      "start": 1055,
+      "end": 1063
+    },
+    {
+      "text": "PROGESTERONE RECEPTORS",
+      "type": "ENTITY",
+      "start": 1068,
+      "end": 1090
+    },
+    {
+      "text": "NegaTive",
+      "type": "ENTITY",
+      "start": 1095,
+      "end": 1103
+    },
+    {
+      "text": "her2/neU",
+      "type": "ENTITY",
+      "start": 1108,
+      "end": 1116
+    },
+    {
+      "text": "PEr",
+      "type": "ENTITY",
+      "start": 1121,
+      "end": 1124
+    },
+    {
+      "text": "PatholOgy",
+      "type": "ENTITY",
+      "start": 1134,
+      "end": 1143
+    },
+    {
+      "text": "REpORt",
+      "type": "ENTITY",
+      "start": 1144,
+      "end": 1150
+    },
+    {
+      "text": "Case synopsis",
+      "type": "ENTITY",
+      "start": 1154,
+      "end": 1167
+    },
+    {
+      "text": "SYNOPTiC",
+      "type": "ENTITY",
+      "start": 1169,
+      "end": 1177
+    },
+    {
+      "text": "PRIMARY",
+      "type": "ENTITY",
+      "start": 1180,
+      "end": 1187
+    },
+    {
+      "text": "iNVASIVE",
+      "type": "ENTITY",
+      "start": 1188,
+      "end": 1196
+    },
+    {
+      "text": "LATerALITy",
+      "type": "ENTITY",
+      "start": 1218,
+      "end": 1228
+    },
+    {
+      "text": "Modified radical mastectomy",
+      "type": "ENTITY",
+      "start": 1247,
+      "end": 1274
+    },
+    {
+      "text": "LOCATION",
+      "type": "ENTITY",
+      "start": 1275,
+      "end": 1283
+    },
+    {
+      "text": "Central subareolar Lower outer quadrant",
+      "type": "ENTITY",
+      "start": 1285,
+      "end": 1324
+    },
+    {
+      "text": "TUmOR",
+      "type": "ENTITY",
+      "start": 1333,
+      "end": 1338
+    },
+    {
+      "text": "Maximum",
+      "type": "ENTITY",
+      "start": 1340,
+      "end": 1347
+    },
+    {
+      "text": "MULTICENTRICITYAMULTIFOCALITY",
+      "type": "ENTITY",
+      "start": 1386,
+      "end": 1415
+    },
+    {
+      "text": "INVASIVE",
+      "type": "ENTITY",
+      "start": 1419,
+      "end": 1427
+    },
+    {
+      "text": "Tumor",
+      "type": "ENTITY",
+      "start": 1439,
+      "end": 1444
+    },
+    {
+      "text": "aggregate size",
+      "type": "ENTITY",
+      "start": 1445,
+      "end": 1459
+    },
+    {
+      "text": "Sum",
+      "type": "ENTITY",
+      "start": 1461,
+      "end": 1464
+    },
+    {
+      "text": "sizes",
+      "type": "ENTITY",
+      "start": 1472,
+      "end": 1477
+    },
+    {
+      "text": "TUMOR TYPE",
+      "type": "ENTITY",
+      "start": 1514,
+      "end": 1524
+    },
+    {
+      "text": "invasive component",
+      "type": "ENTITY",
+      "start": 1526,
+      "end": 1544
+    },
+    {
+      "text": "Infiltrating lobular carcinoma",
+      "type": "ENTITY",
+      "start": 1547,
+      "end": 1577
+    },
+    {
+      "text": "histologic type",
+      "type": "ENTITY",
+      "start": 1586,
+      "end": 1601
+    },
+    {
+      "text": "Plcomorphic",
+      "type": "ENTITY",
+      "start": 1603,
+      "end": 1614
+    },
+    {
+      "text": "Slgnel ring",
+      "type": "ENTITY",
+      "start": 1616,
+      "end": 1627
+    },
+    {
+      "text": "ScOre",
+      "type": "ENTITY",
+      "start": 1640,
+      "end": 1645
+    },
+    {
+      "text": "Nuclear grade",
+      "type": "ENTITY",
+      "start": 1647,
+      "end": 1660
+    },
+    {
+      "text": "Cawciiomn",
+      "type": "ENTITY",
+      "start": 1664,
+      "end": 1673
+    },
+    {
+      "text": "Tubule formation",
+      "type": "ENTITY",
+      "start": 1705,
+      "end": 1721
+    },
+    {
+      "text": "Situr bunot",
+      "type": "ENTITY",
+      "start": 1725,
+      "end": 1736
+    },
+    {
+      "text": "Nos Mitotic activity",
+      "type": "ENTITY",
+      "start": 1738,
+      "end": 1758
+    },
+    {
+      "text": "c50.9",
+      "type": "ENTITY",
+      "start": 1768,
+      "end": 1773
+    },
+    {
+      "text": "Totat Nottingham score",
+      "type": "ENTITY",
+      "start": 1783,
+      "end": 1805
+    },
+    {
+      "text": "Nottingham grade",
+      "type": "ENTITY",
+      "start": 1809,
+      "end": 1825
+    },
+    {
+      "text": "malignant",
+      "type": "ENTITY",
+      "start": 1917,
+      "end": 1926
+    },
+    {
+      "text": "Tumor type",
+      "type": "ENTITY",
+      "start": 1933,
+      "end": 1943
+    },
+    {
+      "text": "in situ",
+      "type": "ENTITY",
+      "start": 1945,
+      "end": 1952
+    },
+    {
+      "text": "I.CIS",
+      "type": "ENTITY",
+      "start": 1954,
+      "end": 1959
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1972,
+      "end": 1977
+    },
+    {
+      "text": "occupied",
+      "type": "ENTITY",
+      "start": 1978,
+      "end": 1986
+    },
+    {
+      "text": "in situ component",
+      "type": "ENTITY",
+      "start": 1990,
+      "end": 2007
+    },
+    {
+      "text": "SurgiCal",
+      "type": "ENTITY",
+      "start": 2014,
+      "end": 2022
+    },
+    {
+      "text": "inVAsIve",
+      "type": "ENTITY",
+      "start": 2043,
+      "end": 2051
+    },
+    {
+      "text": "SURG",
+      "type": "ENTITY",
+      "start": 2066,
+      "end": 2070
+    },
+    {
+      "text": "No",
+      "type": "ENTITY",
+      "start": 2141,
+      "end": 2143
+    },
+    {
+      "text": "Lymph nodes",
+      "type": "ENTITY",
+      "start": 2144,
+      "end": 2155
+    },
+    {
+      "text": "positive",
+      "type": "ENTITY",
+      "start": 2156,
+      "end": 2164
+    },
+    {
+      "text": "LYMPH NODES",
+      "type": "ENTITY",
+      "start": 2168,
+      "end": 2179
+    },
+    {
+      "text": "LymPh",
+      "type": "ENTITY",
+      "start": 2206,
+      "end": 2211
+    },
+    {
+      "text": "SENTINEL NODE",
+      "type": "ENTITY",
+      "start": 2230,
+      "end": 2243
+    },
+    {
+      "text": "NODAL",
+      "type": "ENTITY",
+      "start": 2268,
+      "end": 2273
+    },
+    {
+      "text": "Diameter",
+      "type": "ENTITY",
+      "start": 2286,
+      "end": 2294
+    },
+    {
+      "text": "lymph node metastasis",
+      "type": "ENTITY",
+      "start": 2306,
+      "end": 2327
+    },
+    {
+      "text": "nODE",
+      "type": "ENTITY",
+      "start": 2341,
+      "end": 2345
+    },
+    {
+      "text": "No SKIN INVOLVED",
+      "type": "ENTITY",
+      "start": 2392,
+      "end": 2408
+    },
+    {
+      "text": "No Critria NON-NEOPLASTIC BREAST",
+      "type": "ENTITY",
+      "start": 2423,
+      "end": 2455
+    },
+    {
+      "text": "FCD",
+      "type": "ENTITY",
+      "start": 2464,
+      "end": 2467
+    },
+    {
+      "text": "rimary",
+      "type": "ENTITY",
+      "start": 2468,
+      "end": 2474
+    },
+    {
+      "text": "Tumor Site Di t Stage",
+      "type": "ENTITY",
+      "start": 2475,
+      "end": 2496
+    },
+    {
+      "text": "pathologic",
+      "type": "ENTITY",
+      "start": 2498,
+      "end": 2508
+    },
+    {
+      "text": "N stage",
+      "type": "ENTITY",
+      "start": 2510,
+      "end": 2517
+    },
+    {
+      "text": "pathologic",
+      "type": "ENTITY",
+      "start": 2519,
+      "end": 2529
+    },
+    {
+      "text": "p72",
+      "type": "ENTITY",
+      "start": 2531,
+      "end": 2534
+    },
+    {
+      "text": "Dual/Synch M stage",
+      "type": "ENTITY",
+      "start": 2540,
+      "end": 2558
+    },
+    {
+      "text": "Case",
+      "type": "ENTITY",
+      "start": 2572,
+      "end": 2576
+    },
+    {
+      "text": "pMX",
+      "type": "ENTITY",
+      "start": 2608,
+      "end": 2611
+    },
+    {
+      "text": "positive",
+      "type": "ENTITY",
+      "start": 2636,
+      "end": 2644
+    },
+    {
+      "text": "HER2/NEU",
+      "type": "ENTITY",
+      "start": 2654,
+      "end": 2662
+    },
+    {
+      "text": "TCGA-BH-A0E9-01A-PR",
+      "type": "ENTITY",
+      "start": 2717,
+      "end": 2736
+    }
+  ],
+  "entity_count": 128,
+  "has_embedding": true
+}

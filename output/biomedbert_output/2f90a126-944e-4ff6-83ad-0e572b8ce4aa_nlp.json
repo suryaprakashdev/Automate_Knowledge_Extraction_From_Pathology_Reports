@@ -1,0 +1,938 @@
+{
+  "filename": "2f90a126-944e-4ff6-83ad-0e572b8ce4aa",
+  "timestamp": "2026-01-05T14:41:49.710306",
+  "entities": [
+    {
+      "text": "LAB",
+      "type": "ENTITY",
+      "start": 116,
+      "end": 119
+    },
+    {
+      "text": "Phone",
+      "type": "ENTITY",
+      "start": 121,
+      "end": 126
+    },
+    {
+      "text": "Final",
+      "type": "ENTITY",
+      "start": 133,
+      "end": 138
+    },
+    {
+      "text": "LEFT PARTIAL",
+      "type": "ENTITY",
+      "start": 164,
+      "end": 176
+    },
+    {
+      "text": "Renal cell carcinoma",
+      "type": "ENTITY",
+      "start": 193,
+      "end": 213
+    },
+    {
+      "text": "papillary type 1",
+      "type": "ENTITY",
+      "start": 215,
+      "end": 231
+    },
+    {
+      "text": "Fuhrman grade 2",
+      "type": "ENTITY",
+      "start": 233,
+      "end": 248
+    },
+    {
+      "text": "Tumor",
+      "type": "ENTITY",
+      "start": 258,
+      "end": 263
+    },
+    {
+      "text": "kidney 3",
+      "type": "ENTITY",
+      "start": 283,
+      "end": 291
+    },
+    {
+      "text": "Tumor focally",
+      "type": "ENTITY",
+      "start": 293,
+      "end": 306
+    },
+    {
+      "text": "parenchymal resection margin",
+      "type": "ENTITY",
+      "start": 328,
+      "end": 356
+    },
+    {
+      "text": "Negative",
+      "type": "ENTITY",
+      "start": 360,
+      "end": 368
+    },
+    {
+      "text": "lymphatic/vascular invasion by tumor",
+      "type": "ENTITY",
+      "start": 373,
+      "end": 409
+    },
+    {
+      "text": "kidney cancer",
+      "type": "ENTITY",
+      "start": 425,
+      "end": 438
+    },
+    {
+      "text": "parameters",
+      "type": "ENTITY",
+      "start": 447,
+      "end": 457
+    },
+    {
+      "text": "diagnosis",
+      "type": "ENTITY",
+      "start": 478,
+      "end": 487
+    },
+    {
+      "text": "KIDNEY STAGING",
+      "type": "ENTITY",
+      "start": 513,
+      "end": 527
+    },
+    {
+      "text": "Patient",
+      "type": "ENTITY",
+      "start": 555,
+      "end": 562
+    },
+    {
+      "text": "Final",
+      "type": "ENTITY",
+      "start": 568,
+      "end": 573
+    },
+    {
+      "text": "TNM",
+      "type": "ENTITY",
+      "start": 574,
+      "end": 577
+    },
+    {
+      "text": "pT1bNXM0",
+      "type": "ENTITY",
+      "start": 579,
+      "end": 587
+    },
+    {
+      "text": "stage",
+      "type": "ENTITY",
+      "start": 588,
+      "end": 593
+    },
+    {
+      "text": "Left TUMOR SITE",
+      "type": "ENTITY",
+      "start": 658,
+      "end": 673
+    },
+    {
+      "text": "TUMOR SIZE",
+      "type": "ENTITY",
+      "start": 688,
+      "end": 698
+    },
+    {
+      "text": "TUMOR FOCALITY",
+      "type": "ENTITY",
+      "start": 706,
+      "end": 720
+    },
+    {
+      "text": "Unifocal",
+      "type": "ENTITY",
+      "start": 721,
+      "end": 729
+    },
+    {
+      "text": "MACROSCOPIC EXTENT",
+      "type": "ENTITY",
+      "start": 730,
+      "end": 748
+    },
+    {
+      "text": "TUMOR Tumor",
+      "type": "ENTITY",
+      "start": 752,
+      "end": 763
+    },
+    {
+      "text": "kidney",
+      "type": "ENTITY",
+      "start": 775,
+      "end": 781
+    },
+    {
+      "text": "Papillary renal cell carcinoma",
+      "type": "ENTITY",
+      "start": 810,
+      "end": 840
+    },
+    {
+      "text": "TUMOR NECROSIS",
+      "type": "ENTITY",
+      "start": 841,
+      "end": 855
+    },
+    {
+      "text": "HISTOLOGICAL GRADE G2",
+      "type": "ENTITY",
+      "start": 871,
+      "end": 892
+    },
+    {
+      "text": "Nuclei",
+      "type": "ENTITY",
+      "start": 894,
+      "end": 900
+    },
+    {
+      "text": "irregular",
+      "type": "ENTITY",
+      "start": 910,
+      "end": 919
+    },
+    {
+      "text": "nucleoli",
+      "type": "ENTITY",
+      "start": 942,
+      "end": 950
+    },
+    {
+      "text": "MICROSCOPIC EXTENT",
+      "type": "ENTITY",
+      "start": 960,
+      "end": 978
+    },
+    {
+      "text": "TUMOR Tumor",
+      "type": "ENTITY",
+      "start": 982,
+      "end": 993
+    },
+    {
+      "text": "kidney",
+      "type": "ENTITY",
+      "start": 1005,
+      "end": 1011
+    },
+    {
+      "text": "LYMPHATIC",
+      "type": "ENTITY",
+      "start": 1012,
+      "end": 1021
+    },
+    {
+      "text": "INVASION",
+      "type": "ENTITY",
+      "start": 1031,
+      "end": 1039
+    },
+    {
+      "text": "Involved",
+      "type": "ENTITY",
+      "start": 1063,
+      "end": 1071
+    },
+    {
+      "text": "carcinoma",
+      "type": "ENTITY",
+      "start": 1075,
+      "end": 1084
+    },
+    {
+      "text": "Involved margin",
+      "type": "ENTITY",
+      "start": 1085,
+      "end": 1100
+    },
+    {
+      "text": "Renal parenchymal margin",
+      "type": "ENTITY",
+      "start": 1102,
+      "end": 1126
+    },
+    {
+      "text": "INVASION pT1b",
+      "type": "ENTITY",
+      "start": 1172,
+      "end": 1185
+    },
+    {
+      "text": "Tumor",
+      "type": "ENTITY",
+      "start": 1188,
+      "end": 1193
+    },
+    {
+      "text": "dimension",
+      "type": "ENTITY",
+      "start": 1244,
+      "end": 1253
+    },
+    {
+      "text": "kidney",
+      "type": "ENTITY",
+      "start": 1269,
+      "end": 1275
+    },
+    {
+      "text": "LYMPH NODES",
+      "type": "ENTITY",
+      "start": 1286,
+      "end": 1297
+    },
+    {
+      "text": "pNX",
+      "type": "ENTITY",
+      "start": 1298,
+      "end": 1301
+    },
+    {
+      "text": "Regional lymph nodes",
+      "type": "ENTITY",
+      "start": 1304,
+      "end": 1324
+    },
+    {
+      "text": "assessed",
+      "type": "ENTITY",
+      "start": 1335,
+      "end": 1343
+    },
+    {
+      "text": "TNM",
+      "type": "ENTITY",
+      "start": 1423,
+      "end": 1426
+    },
+    {
+      "text": "pT1bNXM0",
+      "type": "ENTITY",
+      "start": 1428,
+      "end": 1436
+    },
+    {
+      "text": "pathologic stage",
+      "type": "ENTITY",
+      "start": 1450,
+      "end": 1466
+    },
+    {
+      "text": "Attending",
+      "type": "ENTITY",
+      "start": 1502,
+      "end": 1511
+    },
+    {
+      "text": "Reviewed",
+      "type": "ENTITY",
+      "start": 1525,
+      "end": 1533
+    },
+    {
+      "text": "CLINICAL INFORMATION History",
+      "type": "ENTITY",
+      "start": 1538,
+      "end": 1566
+    },
+    {
+      "text": "left renal mass",
+      "type": "ENTITY",
+      "start": 1570,
+      "end": 1585
+    },
+    {
+      "text": "SPECIMEN/GROSS",
+      "type": "ENTITY",
+      "start": 1586,
+      "end": 1600
+    },
+    {
+      "text": "Left partial kidney nephrectomy",
+      "type": "ENTITY",
+      "start": 1621,
+      "end": 1652
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1657,
+      "end": 1665
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 1678,
+      "end": 1683
+    },
+    {
+      "text": "OR",
+      "type": "ENTITY",
+      "start": 1693,
+      "end": 1695
+    },
+    {
+      "text": "left partial nephrectomy",
+      "type": "ENTITY",
+      "start": 1705,
+      "end": 1729
+    },
+    {
+      "text": "gram",
+      "type": "ENTITY",
+      "start": 1752,
+      "end": 1756
+    },
+    {
+      "text": "rubbery",
+      "type": "ENTITY",
+      "start": 1777,
+      "end": 1784
+    },
+    {
+      "text": "intact",
+      "type": "ENTITY",
+      "start": 1819,
+      "end": 1825
+    },
+    {
+      "text": "smooth capsular surface",
+      "type": "ENTITY",
+      "start": 1827,
+      "end": 1850
+    },
+    {
+      "text": "thin fatty adhesions",
+      "type": "ENTITY",
+      "start": 1856,
+      "end": 1876
+    },
+    {
+      "text": "inked blue",
+      "type": "ENTITY",
+      "start": 1880,
+      "end": 1890
+    },
+    {
+      "text": "smooth",
+      "type": "ENTITY",
+      "start": 1913,
+      "end": 1919
+    },
+    {
+      "text": "focally coarse",
+      "type": "ENTITY",
+      "start": 1921,
+      "end": 1935
+    },
+    {
+      "text": "inked black",
+      "type": "ENTITY",
+      "start": 1956,
+      "end": 1967
+    },
+    {
+      "text": "tissue",
+      "type": "ENTITY",
+      "start": 1973,
+      "end": 1979
+    },
+    {
+      "text": "cross sectioned",
+      "type": "ENTITY",
+      "start": 1992,
+      "end": 2007
+    },
+    {
+      "text": "cut surfaces",
+      "type": "ENTITY",
+      "start": 2016,
+      "end": 2028
+    },
+    {
+      "text": "display",
+      "type": "ENTITY",
+      "start": 2029,
+      "end": 2036
+    },
+    {
+      "text": "tumor bulging",
+      "type": "ENTITY",
+      "start": 2054,
+      "end": 2067
+    },
+    {
+      "text": "capsule",
+      "type": "ENTITY",
+      "start": 2072,
+      "end": 2079
+    },
+    {
+      "text": "Iocated",
+      "type": "ENTITY",
+      "start": 2084,
+      "end": 2091
+    },
+    {
+      "text": "black inked margin",
+      "type": "ENTITY",
+      "start": 2118,
+      "end": 2136
+    },
+    {
+      "text": "representative",
+      "type": "ENTITY",
+      "start": 2140,
+      "end": 2154
+    },
+    {
+      "text": "section",
+      "type": "ENTITY",
+      "start": 2155,
+      "end": 2162
+    },
+    {
+      "text": "margin",
+      "type": "ENTITY",
+      "start": 2170,
+      "end": 2176
+    },
+    {
+      "text": "frozen",
+      "type": "ENTITY",
+      "start": 2180,
+      "end": 2186
+    },
+    {
+      "text": "block",
+      "type": "ENTITY",
+      "start": 2194,
+      "end": 2199
+    },
+    {
+      "text": "Papillary renal cell carcinoma",
+      "type": "ENTITY",
+      "start": 2261,
+      "end": 2291
+    },
+    {
+      "text": "dimension tumor",
+      "type": "ENTITY",
+      "start": 2318,
+      "end": 2333
+    },
+    {
+      "text": "excised",
+      "type": "ENTITY",
+      "start": 2346,
+      "end": 2353
+    },
+    {
+      "text": "Margin",
+      "type": "ENTITY",
+      "start": 2355,
+      "end": 2361
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 2365,
+      "end": 2373
+    },
+    {
+      "text": "malignancy",
+      "type": "ENTITY",
+      "start": 2378,
+      "end": 2388
+    },
+    {
+      "text": "cut surfaces",
+      "type": "ENTITY",
+      "start": 2410,
+      "end": 2422
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 2430,
+      "end": 2435
+    },
+    {
+      "text": "yellow",
+      "type": "ENTITY",
+      "start": 2440,
+      "end": 2446
+    },
+    {
+      "text": "tan",
+      "type": "ENTITY",
+      "start": 2448,
+      "end": 2451
+    },
+    {
+      "text": "red",
+      "type": "ENTITY",
+      "start": 2453,
+      "end": 2456
+    },
+    {
+      "text": "variegated",
+      "type": "ENTITY",
+      "start": 2458,
+      "end": 2468
+    },
+    {
+      "text": "vaguely",
+      "type": "ENTITY",
+      "start": 2473,
+      "end": 2480
+    },
+    {
+      "text": "Iobulated",
+      "type": "ENTITY",
+      "start": 2481,
+      "end": 2490
+    },
+    {
+      "text": "fibrous capsule",
+      "type": "ENTITY",
+      "start": 2503,
+      "end": 2518
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 2524,
+      "end": 2529
+    },
+    {
+      "text": "specimen volume",
+      "type": "ENTITY",
+      "start": 2562,
+      "end": 2577
+    },
+    {
+      "text": "renal parenchyma",
+      "type": "ENTITY",
+      "start": 2589,
+      "end": 2605
+    },
+    {
+      "text": "periphery",
+      "type": "ENTITY",
+      "start": 2613,
+      "end": 2622
+    },
+    {
+      "text": "margin",
+      "type": "ENTITY",
+      "start": 2630,
+      "end": 2636
+    },
+    {
+      "text": "Representative sections",
+      "type": "ENTITY",
+      "start": 2662,
+      "end": 2685
+    },
+    {
+      "text": "black inked renal margin",
+      "type": "ENTITY",
+      "start": 2716,
+      "end": 2740
+    },
+    {
+      "text": "cassettes",
+      "type": "ENTITY",
+      "start": 2763,
+      "end": 2772
+    },
+    {
+      "text": "Frozen section",
+      "type": "ENTITY",
+      "start": 2787,
+      "end": 2801
+    },
+    {
+      "text": "residue",
+      "type": "ENTITY",
+      "start": 2802,
+      "end": 2809
+    },
+    {
+      "text": "Renal tumor",
+      "type": "ENTITY",
+      "start": 2815,
+      "end": 2826
+    },
+    {
+      "text": "black inked margin",
+      "type": "ENTITY",
+      "start": 2832,
+      "end": 2850
+    },
+    {
+      "text": "blue inked capsule",
+      "type": "ENTITY",
+      "start": 2852,
+      "end": 2870
+    },
+    {
+      "text": "adjacent",
+      "type": "ENTITY",
+      "start": 2875,
+      "end": 2883
+    },
+    {
+      "text": "normal",
+      "type": "ENTITY",
+      "start": 2884,
+      "end": 2890
+    },
+    {
+      "text": "renal parenchyma",
+      "type": "ENTITY",
+      "start": 2901,
+      "end": 2917
+    },
+    {
+      "text": "Representative tissue",
+      "type": "ENTITY",
+      "start": 2924,
+      "end": 2945
+    },
+    {
+      "text": "study",
+      "type": "ENTITY",
+      "start": 2969,
+      "end": 2974
+    },
+    {
+      "text": "Representative tissue",
+      "type": "ENTITY",
+      "start": 2976,
+      "end": 2997
+    },
+    {
+      "text": "vial",
+      "type": "ENTITY",
+      "start": 3027,
+      "end": 3031
+    },
+    {
+      "text": "RPMl",
+      "type": "ENTITY",
+      "start": 3035,
+      "end": 3039
+    },
+    {
+      "text": "cytogenetics",
+      "type": "ENTITY",
+      "start": 3052,
+      "end": 3064
+    },
+    {
+      "text": "case",
+      "type": "ENTITY",
+      "start": 3079,
+      "end": 3083
+    },
+    {
+      "text": "accessioned",
+      "type": "ENTITY",
+      "start": 3087,
+      "end": 3098
+    },
+    {
+      "text": "FileMaker Pro Gross dictation",
+      "type": "ENTITY",
+      "start": 3102,
+      "end": 3131
+    },
+    {
+      "text": "microscopic",
+      "type": "ENTITY",
+      "start": 3152,
+      "end": 3163
+    },
+    {
+      "text": "appearance",
+      "type": "ENTITY",
+      "start": 3164,
+      "end": 3174
+    },
+    {
+      "text": "diagnosis",
+      "type": "ENTITY",
+      "start": 3193,
+      "end": 3202
+    },
+    {
+      "text": "positive margin",
+      "type": "ENTITY",
+      "start": 3208,
+      "end": 3223
+    },
+    {
+      "text": "permanent section",
+      "type": "ENTITY",
+      "start": 3240,
+      "end": 3257
+    },
+    {
+      "text": "Portions",
+      "type": "ENTITY",
+      "start": 3259,
+      "end": 3267
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 3275,
+      "end": 3283
+    },
+    {
+      "text": "frozen section",
+      "type": "ENTITY",
+      "start": 3303,
+      "end": 3317
+    },
+    {
+      "text": "Interoreted",
+      "type": "ENTITY",
+      "start": 3364,
+      "end": 3375
+    },
+    {
+      "text": "ACCESSIONED",
+      "type": "ENTITY",
+      "start": 3389,
+      "end": 3400
+    },
+    {
+      "text": "SIGNED",
+      "type": "ENTITY",
+      "start": 3402,
+      "end": 3408
+    },
+    {
+      "text": "Lab",
+      "type": "ENTITY",
+      "start": 3409,
+      "end": 3412
+    },
+    {
+      "text": "Lab and Collection Information Result History GROSS",
+      "type": "ENTITY",
+      "start": 3468,
+      "end": 3519
+    },
+    {
+      "text": "Order Result History Report",
+      "type": "ENTITY",
+      "start": 3554,
+      "end": 3581
+    },
+    {
+      "text": "Lab Status Order Complete Result",
+      "type": "ENTITY",
+      "start": 3583,
+      "end": 3615
+    },
+    {
+      "text": "Information Result",
+      "type": "ENTITY",
+      "start": 3616,
+      "end": 3634
+    },
+    {
+      "text": "Date",
+      "type": "ENTITY",
+      "start": 3635,
+      "end": 3639
+    },
+    {
+      "text": "Time Status Provider Status",
+      "type": "ENTITY",
+      "start": 3644,
+      "end": 3671
+    },
+    {
+      "text": "Ordered Lab Information Lab Order",
+      "type": "ENTITY",
+      "start": 3685,
+      "end": 3718
+    },
+    {
+      "text": "Date Collection Time",
+      "type": "ENTITY",
+      "start": 3817,
+      "end": 3837
+    },
+    {
+      "text": "Audit",
+      "type": "ENTITY",
+      "start": 3844,
+      "end": 3849
+    },
+    {
+      "text": "Trail Action Date/Time Order",
+      "type": "ENTITY",
+      "start": 3850,
+      "end": 3878
+    },
+    {
+      "text": "Printed Order",
+      "type": "ENTITY",
+      "start": 3879,
+      "end": 3892
+    },
+    {
+      "text": "Printed MyChart Status",
+      "type": "ENTITY",
+      "start": 3893,
+      "end": 3915
+    },
+    {
+      "text": "MyChart",
+      "type": "ENTITY",
+      "start": 3958,
+      "end": 3965
+    },
+    {
+      "text": "GROSS",
+      "type": "ENTITY",
+      "start": 3967,
+      "end": 3972
+    },
+    {
+      "text": "OrderInformation",
+      "type": "ENTITY",
+      "start": 4015,
+      "end": 4031
+    },
+    {
+      "text": "User Department Authorizing Provider Page 3",
+      "type": "ENTITY",
+      "start": 4046,
+      "end": 4089
+    }
+  ],
+  "entity_count": 155,
+  "has_embedding": true
+}

@@ -1,0 +1,386 @@
+{
+  "filename": "7ebd18ee-fddd-4ec4-8553-473aa2d831c0",
+  "timestamp": "2026-01-05T14:44:28.841889",
+  "entities": [
+    {
+      "text": "UUID",
+      "type": "ENTITY",
+      "start": 24,
+      "end": 28
+    },
+    {
+      "text": "TCGA-D6-A6EQ-01A-PR",
+      "type": "ENTITY",
+      "start": 66,
+      "end": 85
+    },
+    {
+      "text": "Redacted",
+      "type": "ENTITY",
+      "start": 86,
+      "end": 94
+    },
+    {
+      "text": "Patient",
+      "type": "ENTITY",
+      "start": 147,
+      "end": 154
+    },
+    {
+      "text": "Age",
+      "type": "ENTITY",
+      "start": 160,
+      "end": 163
+    },
+    {
+      "text": "Gender",
+      "type": "ENTITY",
+      "start": 165,
+      "end": 171
+    },
+    {
+      "text": "No. Unit",
+      "type": "ENTITY",
+      "start": 194,
+      "end": 202
+    },
+    {
+      "text": "Surgery",
+      "type": "ENTITY",
+      "start": 214,
+      "end": 221
+    },
+    {
+      "text": "Laryngological Oncology Dept",
+      "type": "ENTITY",
+      "start": 226,
+      "end": 254
+    },
+    {
+      "text": "Physician",
+      "type": "ENTITY",
+      "start": 256,
+      "end": 265
+    },
+    {
+      "text": "charge",
+      "type": "ENTITY",
+      "start": 269,
+      "end": 275
+    },
+    {
+      "text": "Clinical diagnosis",
+      "type": "ENTITY",
+      "start": 277,
+      "end": 295
+    },
+    {
+      "text": "suspicion",
+      "type": "ENTITY",
+      "start": 297,
+      "end": 306
+    },
+    {
+      "text": "Laryngeal carcinoma",
+      "type": "ENTITY",
+      "start": 308,
+      "end": 327
+    },
+    {
+      "text": "Date of admission",
+      "type": "ENTITY",
+      "start": 328,
+      "end": 345
+    },
+    {
+      "text": "Material",
+      "type": "ENTITY",
+      "start": 361,
+      "end": 369
+    },
+    {
+      "text": "larynx",
+      "type": "ENTITY",
+      "start": 371,
+      "end": 377
+    },
+    {
+      "text": "surgical margins",
+      "type": "ENTITY",
+      "start": 391,
+      "end": 407
+    },
+    {
+      "text": "lower",
+      "type": "ENTITY",
+      "start": 410,
+      "end": 415
+    },
+    {
+      "text": "trachea",
+      "type": "ENTITY",
+      "start": 417,
+      "end": 424
+    },
+    {
+      "text": "Method",
+      "type": "ENTITY",
+      "start": 427,
+      "end": 433
+    },
+    {
+      "text": "collection",
+      "type": "ENTITY",
+      "start": 437,
+      "end": 447
+    },
+    {
+      "text": "Collection",
+      "type": "ENTITY",
+      "start": 449,
+      "end": 459
+    },
+    {
+      "text": "specimens",
+      "type": "ENTITY",
+      "start": 464,
+      "end": 473
+    },
+    {
+      "text": "laboratory examination",
+      "type": "ENTITY",
+      "start": 478,
+      "end": 500
+    },
+    {
+      "text": "Histopathological",
+      "type": "ENTITY",
+      "start": 501,
+      "end": 518
+    },
+    {
+      "text": "diagnosis",
+      "type": "ENTITY",
+      "start": 519,
+      "end": 528
+    },
+    {
+      "text": "Examination",
+      "type": "ENTITY",
+      "start": 529,
+      "end": 540
+    },
+    {
+      "text": "Invasive keratinising squamous cell carcinoma",
+      "type": "ENTITY",
+      "start": 555,
+      "end": 600
+    },
+    {
+      "text": "larynx",
+      "type": "ENTITY",
+      "start": 613,
+      "end": 619
+    },
+    {
+      "text": "Incision lines",
+      "type": "ENTITY",
+      "start": 621,
+      "end": 635
+    },
+    {
+      "text": "neoplastic lesions",
+      "type": "ENTITY",
+      "start": 644,
+      "end": 662
+    },
+    {
+      "text": "pT3",
+      "type": "ENTITY",
+      "start": 664,
+      "end": 667
+    },
+    {
+      "text": "T-24100",
+      "type": "ENTITY",
+      "start": 677,
+      "end": 684
+    },
+    {
+      "text": "ICD-O-3",
+      "type": "ENTITY",
+      "start": 708,
+      "end": 715
+    },
+    {
+      "text": "SNOMED",
+      "type": "ENTITY",
+      "start": 719,
+      "end": 725
+    },
+    {
+      "text": "Macroscopic",
+      "type": "ENTITY",
+      "start": 726,
+      "end": 737
+    },
+    {
+      "text": "description",
+      "type": "ENTITY",
+      "start": 738,
+      "end": 749
+    },
+    {
+      "text": "Surgical specimen",
+      "type": "ENTITY",
+      "start": 751,
+      "end": 768
+    },
+    {
+      "text": "larynx",
+      "type": "ENTITY",
+      "start": 804,
+      "end": 810
+    },
+    {
+      "text": "hyoid bone",
+      "type": "ENTITY",
+      "start": 820,
+      "end": 830
+    },
+    {
+      "text": "trachea",
+      "type": "ENTITY",
+      "start": 847,
+      "end": 854
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 865,
+      "end": 871
+    },
+    {
+      "text": "Tumour",
+      "type": "ENTITY",
+      "start": 873,
+      "end": 879
+    },
+    {
+      "text": "glottal region",
+      "type": "ENTITY",
+      "start": 893,
+      "end": 907
+    },
+    {
+      "text": "sized",
+      "type": "ENTITY",
+      "start": 909,
+      "end": 914
+    },
+    {
+      "text": "invading",
+      "type": "ENTITY",
+      "start": 933,
+      "end": 941
+    },
+    {
+      "text": "subglottal region",
+      "type": "ENTITY",
+      "start": 946,
+      "end": 963
+    },
+    {
+      "text": "glottis",
+      "type": "ENTITY",
+      "start": 965,
+      "end": 972
+    },
+    {
+      "text": "supraglottal region",
+      "type": "ENTITY",
+      "start": 974,
+      "end": 993
+    },
+    {
+      "text": "aryepiglottic fold",
+      "type": "ENTITY",
+      "start": 995,
+      "end": 1013
+    },
+    {
+      "text": "left side",
+      "type": "ENTITY",
+      "start": 1021,
+      "end": 1030
+    },
+    {
+      "text": "intraoperative examination",
+      "type": "ENTITY",
+      "start": 1074,
+      "end": 1100
+    },
+    {
+      "text": "Examination",
+      "type": "ENTITY",
+      "start": 1102,
+      "end": 1113
+    },
+    {
+      "text": "performed",
+      "type": "ENTITY",
+      "start": 1114,
+      "end": 1123
+    },
+    {
+      "text": "Margins",
+      "type": "ENTITY",
+      "start": 1128,
+      "end": 1135
+    },
+    {
+      "text": "wire",
+      "type": "ENTITY",
+      "start": 1153,
+      "end": 1157
+    },
+    {
+      "text": "cancerous lesions",
+      "type": "ENTITY",
+      "start": 1176,
+      "end": 1193
+    },
+    {
+      "text": "analysis",
+      "type": "ENTITY",
+      "start": 1229,
+      "end": 1237
+    },
+    {
+      "text": "paraffin specimens",
+      "type": "ENTITY",
+      "start": 1241,
+      "end": 1259
+    },
+    {
+      "text": "Assistant",
+      "type": "ENTITY",
+      "start": 1261,
+      "end": 1270
+    },
+    {
+      "text": "Edited CONTACT YOUR DOCTOR",
+      "type": "ENTITY",
+      "start": 1287,
+      "end": 1313
+    },
+    {
+      "text": "Tumor Site Di",
+      "type": "ENTITY",
+      "start": 1349,
+      "end": 1362
+    }
+  ],
+  "entity_count": 63,
+  "has_embedding": true
+}

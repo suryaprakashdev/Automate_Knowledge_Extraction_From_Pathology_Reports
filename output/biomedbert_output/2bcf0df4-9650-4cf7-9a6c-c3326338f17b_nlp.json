@@ -1,0 +1,626 @@
+{
+  "filename": "2bcf0df4-9650-4cf7-9a6c-c3326338f17b",
+  "timestamp": "2026-01-05T14:42:47.816886",
+  "entities": [
+    {
+      "text": "1 Department of Cancer",
+      "type": "ENTITY",
+      "start": 25,
+      "end": 47
+    },
+    {
+      "text": "Pathology",
+      "type": "ENTITY",
+      "start": 48,
+      "end": 57
+    },
+    {
+      "text": "copy No.. Z Date",
+      "type": "ENTITY",
+      "start": 58,
+      "end": 74
+    },
+    {
+      "text": "Examination",
+      "type": "ENTITY",
+      "start": 76,
+      "end": 87
+    },
+    {
+      "text": "Histopathological",
+      "type": "ENTITY",
+      "start": 89,
+      "end": 106
+    },
+    {
+      "text": "examination",
+      "type": "ENTITY",
+      "start": 107,
+      "end": 118
+    },
+    {
+      "text": "Internal invoice No. Value",
+      "type": "ENTITY",
+      "start": 120,
+      "end": 146
+    },
+    {
+      "text": "diagnostic procedure Examination No.",
+      "type": "ENTITY",
+      "start": 150,
+      "end": 186
+    },
+    {
+      "text": "Patient",
+      "type": "ENTITY",
+      "start": 188,
+      "end": 195
+    },
+    {
+      "text": "XXX",
+      "type": "ENTITY",
+      "start": 197,
+      "end": 200
+    },
+    {
+      "text": "PESEL",
+      "type": "ENTITY",
+      "start": 201,
+      "end": 206
+    },
+    {
+      "text": "XXX Age",
+      "type": "ENTITY",
+      "start": 208,
+      "end": 215
+    },
+    {
+      "text": "Gender",
+      "type": "ENTITY",
+      "start": 217,
+      "end": 223
+    },
+    {
+      "text": "Material",
+      "type": "ENTITY",
+      "start": 225,
+      "end": 233
+    },
+    {
+      "text": "resection",
+      "type": "ENTITY",
+      "start": 250,
+      "end": 259
+    },
+    {
+      "text": "left",
+      "type": "ENTITY",
+      "start": 262,
+      "end": 266
+    },
+    {
+      "text": "colon",
+      "type": "ENTITY",
+      "start": 279,
+      "end": 284
+    },
+    {
+      "text": "cancer",
+      "type": "ENTITY",
+      "start": 296,
+      "end": 302
+    },
+    {
+      "text": "infiltrated",
+      "type": "ENTITY",
+      "start": 303,
+      "end": 314
+    },
+    {
+      "text": "small intestine Unit",
+      "type": "ENTITY",
+      "start": 333,
+      "end": 353
+    },
+    {
+      "text": "charge",
+      "type": "ENTITY",
+      "start": 380,
+      "end": 386
+    },
+    {
+      "text": "Material",
+      "type": "ENTITY",
+      "start": 388,
+      "end": 396
+    },
+    {
+      "text": "collected",
+      "type": "ENTITY",
+      "start": 397,
+      "end": 406
+    },
+    {
+      "text": "Material",
+      "type": "ENTITY",
+      "start": 411,
+      "end": 419
+    },
+    {
+      "text": "Expected time",
+      "type": "ENTITY",
+      "start": 433,
+      "end": 446
+    },
+    {
+      "text": "examination",
+      "type": "ENTITY",
+      "start": 450,
+      "end": 461
+    },
+    {
+      "text": "Clinical diagnosis",
+      "type": "ENTITY",
+      "start": 463,
+      "end": 481
+    },
+    {
+      "text": "left half",
+      "type": "ENTITY",
+      "start": 483,
+      "end": 492
+    },
+    {
+      "text": "colon",
+      "type": "ENTITY",
+      "start": 500,
+      "end": 505
+    },
+    {
+      "text": "cancer",
+      "type": "ENTITY",
+      "start": 517,
+      "end": 523
+    },
+    {
+      "text": "infiltrated",
+      "type": "ENTITY",
+      "start": 524,
+      "end": 535
+    },
+    {
+      "text": "small intestine Examination",
+      "type": "ENTITY",
+      "start": 554,
+      "end": 581
+    },
+    {
+      "text": "Macroscopic",
+      "type": "ENTITY",
+      "start": 596,
+      "end": 607
+    },
+    {
+      "text": "description",
+      "type": "ENTITY",
+      "start": 608,
+      "end": 619
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 629,
+      "end": 635
+    },
+    {
+      "text": "intestine",
+      "type": "ENTITY",
+      "start": 649,
+      "end": 658
+    },
+    {
+      "text": "periintestinal fat tissue",
+      "type": "ENTITY",
+      "start": 664,
+      "end": 689
+    },
+    {
+      "text": "sized",
+      "type": "ENTITY",
+      "start": 690,
+      "end": 695
+    },
+    {
+      "text": "omentum",
+      "type": "ENTITY",
+      "start": 731,
+      "end": 738
+    },
+    {
+      "text": "sized",
+      "type": "ENTITY",
+      "start": 739,
+      "end": 744
+    },
+    {
+      "text": "segment",
+      "type": "ENTITY",
+      "start": 784,
+      "end": 791
+    },
+    {
+      "text": "small",
+      "type": "ENTITY",
+      "start": 799,
+      "end": 804
+    },
+    {
+      "text": "intestine",
+      "type": "ENTITY",
+      "start": 805,
+      "end": 814
+    },
+    {
+      "text": "consolidated",
+      "type": "ENTITY",
+      "start": 815,
+      "end": 827
+    },
+    {
+      "text": "wall",
+      "type": "ENTITY",
+      "start": 837,
+      "end": 841
+    },
+    {
+      "text": "intestine",
+      "type": "ENTITY",
+      "start": 855,
+      "end": 864
+    },
+    {
+      "text": "site",
+      "type": "ENTITY",
+      "start": 872,
+      "end": 876
+    },
+    {
+      "text": "neoplastic",
+      "type": "ENTITY",
+      "start": 880,
+      "end": 890
+    },
+    {
+      "text": "proliferation",
+      "type": "ENTITY",
+      "start": 892,
+      "end": 905
+    },
+    {
+      "text": "Ulcerous tumour",
+      "type": "ENTITY",
+      "start": 907,
+      "end": 922
+    },
+    {
+      "text": "sized",
+      "type": "ENTITY",
+      "start": 923,
+      "end": 928
+    },
+    {
+      "text": "mucosa",
+      "type": "ENTITY",
+      "start": 951,
+      "end": 957
+    },
+    {
+      "text": "lesion",
+      "type": "ENTITY",
+      "start": 963,
+      "end": 969
+    },
+    {
+      "text": "intestine circumference",
+      "type": "ENTITY",
+      "start": 992,
+      "end": 1015
+    },
+    {
+      "text": "lumen",
+      "type": "ENTITY",
+      "start": 1031,
+      "end": 1036
+    },
+    {
+      "text": "proximal",
+      "type": "ENTITY",
+      "start": 1063,
+      "end": 1071
+    },
+    {
+      "text": "distal incision line",
+      "type": "ENTITY",
+      "start": 1106,
+      "end": 1126
+    },
+    {
+      "text": "lesion infiltrates",
+      "type": "ENTITY",
+      "start": 1132,
+      "end": 1150
+    },
+    {
+      "text": "macroscopically",
+      "type": "ENTITY",
+      "start": 1152,
+      "end": 1167
+    },
+    {
+      "text": "whole thickness",
+      "type": "ENTITY",
+      "start": 1180,
+      "end": 1195
+    },
+    {
+      "text": "intestine wall",
+      "type": "ENTITY",
+      "start": 1209,
+      "end": 1223
+    },
+    {
+      "text": "periintestinal",
+      "type": "ENTITY",
+      "start": 1225,
+      "end": 1239
+    },
+    {
+      "text": "fat tissue",
+      "type": "ENTITY",
+      "start": 1240,
+      "end": 1250
+    },
+    {
+      "text": "small intestine wall",
+      "type": "ENTITY",
+      "start": 1259,
+      "end": 1279
+    },
+    {
+      "text": "site",
+      "type": "ENTITY",
+      "start": 1287,
+      "end": 1291
+    },
+    {
+      "text": "consolidation",
+      "type": "ENTITY",
+      "start": 1299,
+      "end": 1312
+    },
+    {
+      "text": "Neighbouring",
+      "type": "ENTITY",
+      "start": 1314,
+      "end": 1326
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 1327,
+      "end": 1338
+    },
+    {
+      "text": "macroscopically metastatic",
+      "type": "ENTITY",
+      "start": 1343,
+      "end": 1369
+    },
+    {
+      "text": "Microscopic description",
+      "type": "ENTITY",
+      "start": 1371,
+      "end": 1394
+    },
+    {
+      "text": "Adenocarcinoma tubulopapillare",
+      "type": "ENTITY",
+      "start": 1396,
+      "end": 1426
+    },
+    {
+      "text": "G2",
+      "type": "ENTITY",
+      "start": 1428,
+      "end": 1430
+    },
+    {
+      "text": "Infiltratio carcinomatosa",
+      "type": "ENTITY",
+      "start": 1433,
+      "end": 1458
+    },
+    {
+      "text": "profunda",
+      "type": "ENTITY",
+      "start": 1459,
+      "end": 1467
+    },
+    {
+      "text": "tunicae muscularis priopriae",
+      "type": "ENTITY",
+      "start": 1468,
+      "end": 1496
+    },
+    {
+      "text": "serosae coli",
+      "type": "ENTITY",
+      "start": 1501,
+      "end": 1513
+    },
+    {
+      "text": "parietis ilei",
+      "type": "ENTITY",
+      "start": 1517,
+      "end": 1530
+    },
+    {
+      "text": "telae",
+      "type": "ENTITY",
+      "start": 1534,
+      "end": 1539
+    },
+    {
+      "text": "mesenteril",
+      "type": "ENTITY",
+      "start": 1549,
+      "end": 1559
+    },
+    {
+      "text": "pericolicae",
+      "type": "ENTITY",
+      "start": 1560,
+      "end": 1571
+    },
+    {
+      "text": "Intestine ends",
+      "type": "ENTITY",
+      "start": 1573,
+      "end": 1587
+    },
+    {
+      "text": "neoplastic lesions",
+      "type": "ENTITY",
+      "start": 1597,
+      "end": 1615
+    },
+    {
+      "text": "Metastases carcinomatosae",
+      "type": "ENTITY",
+      "start": 1618,
+      "end": 1643
+    },
+    {
+      "text": "lymphonodis",
+      "type": "ENTITY",
+      "start": 1647,
+      "end": 1658
+    },
+    {
+      "text": "NO",
+      "type": "ENTITY",
+      "start": 1660,
+      "end": 1662
+    },
+    {
+      "text": "Infdtratio carcinomatosa capsulae lymphonodorum",
+      "type": "ENTITY",
+      "start": 1672,
+      "end": 1719
+    },
+    {
+      "text": "telae",
+      "type": "ENTITY",
+      "start": 1723,
+      "end": 1728
+    },
+    {
+      "text": "Emboliae carcinomatosae",
+      "type": "ENTITY",
+      "start": 1751,
+      "end": 1774
+    },
+    {
+      "text": "Histopathological",
+      "type": "ENTITY",
+      "start": 1776,
+      "end": 1793
+    },
+    {
+      "text": "diagnosis",
+      "type": "ENTITY",
+      "start": 1794,
+      "end": 1803
+    },
+    {
+      "text": "Adenocarcinoma tubulopapillare coli",
+      "type": "ENTITY",
+      "start": 1805,
+      "end": 1840
+    },
+    {
+      "text": "Tubulopapillar adenocarcinoma",
+      "type": "ENTITY",
+      "start": 1842,
+      "end": 1871
+    },
+    {
+      "text": "colon",
+      "type": "ENTITY",
+      "start": 1879,
+      "end": 1884
+    },
+    {
+      "text": "Metastases carcinomatosae",
+      "type": "ENTITY",
+      "start": 1886,
+      "end": 1911
+    },
+    {
+      "text": "lymphonodis",
+      "type": "ENTITY",
+      "start": 1915,
+      "end": 1926
+    },
+    {
+      "text": "Cancer metastases",
+      "type": "ENTITY",
+      "start": 1928,
+      "end": 1945
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 1953,
+      "end": 1964
+    },
+    {
+      "text": "Dukes C",
+      "type": "ENTITY",
+      "start": 1984,
+      "end": 1991
+    },
+    {
+      "text": "Astler",
+      "type": "ENTITY",
+      "start": 1993,
+      "end": 1999
+    },
+    {
+      "text": "Coller C2",
+      "type": "ENTITY",
+      "start": 2002,
+      "end": 2011
+    },
+    {
+      "text": "pT4b",
+      "type": "ENTITY",
+      "start": 2013,
+      "end": 2017
+    },
+    {
+      "text": "Compliance",
+      "type": "ENTITY",
+      "start": 2025,
+      "end": 2035
+    },
+    {
+      "text": "CONTACT YOUR DOCTOR",
+      "type": "ENTITY",
+      "start": 2050,
+      "end": 2069
+    }
+  ],
+  "entity_count": 103,
+  "has_embedding": true
+}

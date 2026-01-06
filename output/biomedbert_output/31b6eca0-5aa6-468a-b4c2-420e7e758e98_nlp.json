@@ -1,0 +1,1400 @@
+{
+  "filename": "31b6eca0-5aa6-468a-b4c2-420e7e758e98",
+  "timestamp": "2026-01-05T14:40:58.341085",
+  "entities": [
+    {
+      "text": "Biopsy",
+      "type": "ENTITY",
+      "start": 38,
+      "end": 44
+    },
+    {
+      "text": "Corrected Received Date/Time Final Reporting Information Date/Time",
+      "type": "ENTITY",
+      "start": 49,
+      "end": 115
+    },
+    {
+      "text": "Final Updated Histopathologist",
+      "type": "ENTITY",
+      "start": 118,
+      "end": 148
+    },
+    {
+      "text": "Laboratory Final Specimen Comment",
+      "type": "ENTITY",
+      "start": 151,
+      "end": 184
+    },
+    {
+      "text": "A1FS",
+      "type": "ENTITY",
+      "start": 186,
+      "end": 190
+    },
+    {
+      "text": "Consultant-In-Charge",
+      "type": "ENTITY",
+      "start": 211,
+      "end": 231
+    },
+    {
+      "text": "Submitting Physician",
+      "type": "ENTITY",
+      "start": 239,
+      "end": 259
+    },
+    {
+      "text": "Final",
+      "type": "ENTITY",
+      "start": 260,
+      "end": 265
+    },
+    {
+      "text": "Histopathology Report",
+      "type": "ENTITY",
+      "start": 266,
+      "end": 287
+    },
+    {
+      "text": "HISTOPATHOLOGY REPORT",
+      "type": "ENTITY",
+      "start": 324,
+      "end": 345
+    },
+    {
+      "text": "immunohistochemical",
+      "type": "ENTITY",
+      "start": 350,
+      "end": 369
+    },
+    {
+      "text": "original",
+      "type": "ENTITY",
+      "start": 417,
+      "end": 425
+    },
+    {
+      "text": "report",
+      "type": "ENTITY",
+      "start": 426,
+      "end": 432
+    },
+    {
+      "text": "neoplastic cells",
+      "type": "ENTITY",
+      "start": 439,
+      "end": 455
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 460,
+      "end": 468
+    },
+    {
+      "text": "pancytokeratin AEr/3",
+      "type": "ENTITY",
+      "start": 473,
+      "end": 493
+    },
+    {
+      "text": "presence",
+      "type": "ENTITY",
+      "start": 501,
+      "end": 509
+    },
+    {
+      "text": "working",
+      "type": "ENTITY",
+      "start": 515,
+      "end": 522
+    },
+    {
+      "text": "thymomas",
+      "type": "ENTITY",
+      "start": 561,
+      "end": 569
+    },
+    {
+      "text": "carcinomas",
+      "type": "ENTITY",
+      "start": 572,
+      "end": 582
+    },
+    {
+      "text": "carcinoids",
+      "type": "ENTITY",
+      "start": 584,
+      "end": 594
+    },
+    {
+      "text": "non-germinomatous germ",
+      "type": "ENTITY",
+      "start": 599,
+      "end": 621
+    },
+    {
+      "text": "cell tumours",
+      "type": "ENTITY",
+      "start": 623,
+      "end": 635
+    },
+    {
+      "text": "conjunction",
+      "type": "ENTITY",
+      "start": 639,
+      "end": 650
+    },
+    {
+      "text": "B-lymphoid immunophenotype",
+      "type": "ENTITY",
+      "start": 660,
+      "end": 686
+    },
+    {
+      "text": "neoplasm",
+      "type": "ENTITY",
+      "start": 694,
+      "end": 702
+    },
+    {
+      "text": "DIAGNOSIS REMAINS",
+      "type": "ENTITY",
+      "start": 709,
+      "end": 726
+    },
+    {
+      "text": "UNCHANGED",
+      "type": "ENTITY",
+      "start": 727,
+      "end": 736
+    },
+    {
+      "text": "NOTE",
+      "type": "ENTITY",
+      "start": 738,
+      "end": 742
+    },
+    {
+      "text": "original",
+      "type": "ENTITY",
+      "start": 766,
+      "end": 774
+    },
+    {
+      "text": "report",
+      "type": "ENTITY",
+      "start": 775,
+      "end": 781
+    },
+    {
+      "text": "Pathologist DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 784,
+      "end": 805
+    },
+    {
+      "text": "MEDIASTINAL",
+      "type": "ENTITY",
+      "start": 819,
+      "end": 830
+    },
+    {
+      "text": "THYMIC",
+      "type": "ENTITY",
+      "start": 833,
+      "end": 839
+    },
+    {
+      "text": "MASS",
+      "type": "ENTITY",
+      "start": 840,
+      "end": 844
+    },
+    {
+      "text": "DIFFUSES",
+      "type": "ENTITY",
+      "start": 846,
+      "end": 854
+    },
+    {
+      "text": "LYMPHOMA",
+      "type": "ENTITY",
+      "start": 868,
+      "end": 876
+    },
+    {
+      "text": "FROZEN SECTION DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 929,
+      "end": 953
+    },
+    {
+      "text": "AFs",
+      "type": "ENTITY",
+      "start": 955,
+      "end": 958
+    },
+    {
+      "text": "Mediastinal mass resection",
+      "type": "ENTITY",
+      "start": 960,
+      "end": 986
+    },
+    {
+      "text": "neoplasm",
+      "type": "ENTITY",
+      "start": 1002,
+      "end": 1010
+    },
+    {
+      "text": "lymphoma",
+      "type": "ENTITY",
+      "start": 1012,
+      "end": 1020
+    },
+    {
+      "text": "workup",
+      "type": "ENTITY",
+      "start": 1057,
+      "end": 1063
+    },
+    {
+      "text": "GROSS DESCRIPTION",
+      "type": "ENTITY",
+      "start": 1064,
+      "end": 1081
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 1095,
+      "end": 1100
+    },
+    {
+      "text": "frozen section",
+      "type": "ENTITY",
+      "start": 1105,
+      "end": 1119
+    },
+    {
+      "text": "fixed",
+      "type": "ENTITY",
+      "start": 1137,
+      "end": 1142
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 1146,
+      "end": 1154
+    },
+    {
+      "text": "frozen remnant",
+      "type": "ENTITY",
+      "start": 1158,
+      "end": 1172
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1178,
+      "end": 1186
+    },
+    {
+      "text": "patient's",
+      "type": "ENTITY",
+      "start": 1201,
+      "end": 1210
+    },
+    {
+      "text": "data",
+      "type": "ENTITY",
+      "start": 1211,
+      "end": 1215
+    },
+    {
+      "text": "mediastinal mass resection",
+      "type": "ENTITY",
+      "start": 1232,
+      "end": 1258
+    },
+    {
+      "text": "bilobed thymic mass",
+      "type": "ENTITY",
+      "start": 1278,
+      "end": 1297
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 1298,
+      "end": 1307
+    },
+    {
+      "text": "Printed",
+      "type": "ENTITY",
+      "start": 1311,
+      "end": 1318
+    },
+    {
+      "text": "straddling",
+      "type": "ENTITY",
+      "start": 1353,
+      "end": 1363
+    },
+    {
+      "text": "tracheal furrow posterosuperiorly",
+      "type": "ENTITY",
+      "start": 1368,
+      "end": 1401
+    },
+    {
+      "text": "posteriorly",
+      "type": "ENTITY",
+      "start": 1408,
+      "end": 1419
+    },
+    {
+      "text": "adherent",
+      "type": "ENTITY",
+      "start": 1420,
+      "end": 1428
+    },
+    {
+      "text": "pericardium",
+      "type": "ENTITY",
+      "start": 1429,
+      "end": 1440
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 1441,
+      "end": 1450
+    },
+    {
+      "text": "left edge",
+      "type": "ENTITY",
+      "start": 1476,
+      "end": 1485
+    },
+    {
+      "text": "adherent",
+      "type": "ENTITY",
+      "start": 1501,
+      "end": 1509
+    },
+    {
+      "text": "stapled wedge of right lung measuring",
+      "type": "ENTITY",
+      "start": 1511,
+      "end": 1548
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1566,
+      "end": 1574
+    },
+    {
+      "text": "sectioned",
+      "type": "ENTITY",
+      "start": 1584,
+      "end": 1593
+    },
+    {
+      "text": "coronal plane",
+      "type": "ENTITY",
+      "start": 1610,
+      "end": 1623
+    },
+    {
+      "text": "solid",
+      "type": "ENTITY",
+      "start": 1636,
+      "end": 1641
+    },
+    {
+      "text": "lobulated",
+      "type": "ENTITY",
+      "start": 1687,
+      "end": 1696
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 1709,
+      "end": 1718
+    },
+    {
+      "text": "focal",
+      "type": "ENTITY",
+      "start": 1743,
+      "end": 1748
+    },
+    {
+      "text": "tumour volume",
+      "type": "ENTITY",
+      "start": 1775,
+      "end": 1788
+    },
+    {
+      "text": "eccentric area of",
+      "type": "ENTITY",
+      "start": 1791,
+      "end": 1808
+    },
+    {
+      "text": "necrosis",
+      "type": "ENTITY",
+      "start": 1809,
+      "end": 1817
+    },
+    {
+      "text": "tumour abuts",
+      "type": "ENTITY",
+      "start": 1823,
+      "end": 1835
+    },
+    {
+      "text": "resection margin",
+      "type": "ENTITY",
+      "start": 1843,
+      "end": 1859
+    },
+    {
+      "text": "circumferentially",
+      "type": "ENTITY",
+      "start": 1860,
+      "end": 1877
+    },
+    {
+      "text": "lung",
+      "type": "ENTITY",
+      "start": 1907,
+      "end": 1911
+    },
+    {
+      "text": "AlFs",
+      "type": "ENTITY",
+      "start": 1943,
+      "end": 1947
+    },
+    {
+      "text": "A2",
+      "type": "ENTITY",
+      "start": 1949,
+      "end": 1951
+    },
+    {
+      "text": "A10-fixed sections",
+      "type": "ENTITY",
+      "start": 1955,
+      "end": 1973
+    },
+    {
+      "text": "pericardial surface inked green",
+      "type": "ENTITY",
+      "start": 2007,
+      "end": 2038
+    },
+    {
+      "text": "Al3",
+      "type": "ENTITY",
+      "start": 2040,
+      "end": 2043
+    },
+    {
+      "text": "A14-tumour",
+      "type": "ENTITY",
+      "start": 2046,
+      "end": 2056
+    },
+    {
+      "text": "circumferential resection margin inked red",
+      "type": "ENTITY",
+      "start": 2062,
+      "end": 2104
+    },
+    {
+      "text": "A15 & Al6-tumour",
+      "type": "ENTITY",
+      "start": 2106,
+      "end": 2122
+    },
+    {
+      "text": "Al7-tumour with",
+      "type": "ENTITY",
+      "start": 2124,
+      "end": 2139
+    },
+    {
+      "text": "lung",
+      "type": "ENTITY",
+      "start": 2140,
+      "end": 2144
+    },
+    {
+      "text": "parenchymal resection nked yellow}",
+      "type": "ENTITY",
+      "start": 2149,
+      "end": 2183
+    },
+    {
+      "text": "Al8-tumour with",
+      "type": "ENTITY",
+      "start": 2185,
+      "end": 2200
+    },
+    {
+      "text": "fat",
+      "type": "ENTITY",
+      "start": 2213,
+      "end": 2216
+    },
+    {
+      "text": "B",
+      "type": "ENTITY",
+      "start": 2219,
+      "end": 2220
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 2226,
+      "end": 2234
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 2250,
+      "end": 2258
+    },
+    {
+      "text": "patient's",
+      "type": "ENTITY",
+      "start": 2274,
+      "end": 2283
+    },
+    {
+      "text": "data",
+      "type": "ENTITY",
+      "start": 2284,
+      "end": 2288
+    },
+    {
+      "text": "piece",
+      "type": "ENTITY",
+      "start": 2349,
+      "end": 2354
+    },
+    {
+      "text": "fibrofatty",
+      "type": "ENTITY",
+      "start": 2358,
+      "end": 2368
+    },
+    {
+      "text": "tissue",
+      "type": "ENTITY",
+      "start": 2369,
+      "end": 2375
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 2376,
+      "end": 2385
+    },
+    {
+      "text": "B1",
+      "type": "ENTITY",
+      "start": 2406,
+      "end": 2408
+    },
+    {
+      "text": "no reserve",
+      "type": "ENTITY",
+      "start": 2410,
+      "end": 2420
+    },
+    {
+      "text": "MICROSCOPIC DESCRIPTION",
+      "type": "ENTITY",
+      "start": 2422,
+      "end": 2445
+    },
+    {
+      "text": "Diffuse large B-cell lymphoma",
+      "type": "ENTITY",
+      "start": 2480,
+      "end": 2509
+    },
+    {
+      "text": "High",
+      "type": "ENTITY",
+      "start": 2519,
+      "end": 2523
+    },
+    {
+      "text": "Architecture",
+      "type": "ENTITY",
+      "start": 2525,
+      "end": 2537
+    },
+    {
+      "text": "Vaguely nodular-to-diffuse",
+      "type": "ENTITY",
+      "start": 2540,
+      "end": 2566
+    },
+    {
+      "text": "patternless sheets",
+      "type": "ENTITY",
+      "start": 2568,
+      "end": 2586
+    },
+    {
+      "text": "fibrovascular",
+      "type": "ENTITY",
+      "start": 2592,
+      "end": 2605
+    },
+    {
+      "text": "partitioning",
+      "type": "ENTITY",
+      "start": 2606,
+      "end": 2618
+    },
+    {
+      "text": "perivascular spaces",
+      "type": "ENTITY",
+      "start": 2638,
+      "end": 2657
+    },
+    {
+      "text": "Necrosis",
+      "type": "ENTITY",
+      "start": 2659,
+      "end": 2667
+    },
+    {
+      "text": "focally",
+      "type": "ENTITY",
+      "start": 2678,
+      "end": 2685
+    },
+    {
+      "text": "Blocks",
+      "type": "ENTITY",
+      "start": 2698,
+      "end": 2704
+    },
+    {
+      "text": "A13",
+      "type": "ENTITY",
+      "start": 2710,
+      "end": 2713
+    },
+    {
+      "text": "A15",
+      "type": "ENTITY",
+      "start": 2715,
+      "end": 2718
+    },
+    {
+      "text": "A16",
+      "type": "ENTITY",
+      "start": 2723,
+      "end": 2726
+    },
+    {
+      "text": "Cytology",
+      "type": "ENTITY",
+      "start": 2729,
+      "end": 2737
+    },
+    {
+      "text": "lymphoid cells",
+      "type": "ENTITY",
+      "start": 2746,
+      "end": 2760
+    },
+    {
+      "text": "pale eosinophilic-to-clear cytoplasm",
+      "type": "ENTITY",
+      "start": 2773,
+      "end": 2809
+    },
+    {
+      "text": "irregular",
+      "type": "ENTITY",
+      "start": 2815,
+      "end": 2824
+    },
+    {
+      "text": "vesicular nuclei",
+      "type": "ENTITY",
+      "start": 2825,
+      "end": 2841
+    },
+    {
+      "text": "centroblastic",
+      "type": "ENTITY",
+      "start": 2857,
+      "end": 2870
+    },
+    {
+      "text": "Immunophenotype",
+      "type": "ENTITY",
+      "start": 2894,
+      "end": 2909
+    },
+    {
+      "text": "lymphomatous cells",
+      "type": "ENTITY",
+      "start": 2915,
+      "end": 2933
+    },
+    {
+      "text": "diffusely",
+      "type": "ENTITY",
+      "start": 2938,
+      "end": 2947
+    },
+    {
+      "text": "positive",
+      "type": "ENTITY",
+      "start": 2948,
+      "end": 2956
+    },
+    {
+      "text": "pan-B cell marker",
+      "type": "ENTITY",
+      "start": 2961,
+      "end": 2978
+    },
+    {
+      "text": "immunoreactivity",
+      "type": "ENTITY",
+      "start": 2998,
+      "end": 3014
+    },
+    {
+      "text": "germinal centre-associated transcription modulator bcl-6",
+      "type": "ENTITY",
+      "start": 3019,
+      "end": 3075
+    },
+    {
+      "text": "surface marker cdlo",
+      "type": "ENTITY",
+      "start": 3100,
+      "end": 3119
+    },
+    {
+      "text": "circulating",
+      "type": "ENTITY",
+      "start": 3145,
+      "end": 3156
+    },
+    {
+      "text": "granulocytes",
+      "type": "ENTITY",
+      "start": 3157,
+      "end": 3169
+    },
+    {
+      "text": "coexpression",
+      "type": "ENTITY",
+      "start": 3198,
+      "end": 3210
+    },
+    {
+      "text": "late-to-postgerminal",
+      "type": "ENTITY",
+      "start": 3214,
+      "end": 3234
+    },
+    {
+      "text": "centre-associated transcription factor",
+      "type": "ENTITY",
+      "start": 3235,
+      "end": 3273
+    },
+    {
+      "text": "antiapoptosis protein",
+      "type": "ENTITY",
+      "start": 3291,
+      "end": 3312
+    },
+    {
+      "text": "bcl-2",
+      "type": "ENTITY",
+      "start": 3313,
+      "end": 3318
+    },
+    {
+      "text": "overt",
+      "type": "ENTITY",
+      "start": 3334,
+      "end": 3339
+    },
+    {
+      "text": "excess",
+      "type": "ENTITY",
+      "start": 3340,
+      "end": 3346
+    },
+    {
+      "text": "physiological",
+      "type": "ENTITY",
+      "start": 3352,
+      "end": 3365
+    },
+    {
+      "text": "expression",
+      "type": "ENTITY",
+      "start": 3366,
+      "end": 3376
+    },
+    {
+      "text": "intermingled",
+      "type": "ENTITY",
+      "start": 3401,
+      "end": 3413
+    },
+    {
+      "text": "interspersed",
+      "type": "ENTITY",
+      "start": 3418,
+      "end": 3430
+    },
+    {
+      "text": "reactive",
+      "type": "ENTITY",
+      "start": 3432,
+      "end": 3440
+    },
+    {
+      "text": "small cD3-positive T-lymphocytes",
+      "type": "ENTITY",
+      "start": 3442,
+      "end": 3474
+    },
+    {
+      "text": "perivascular accentuation",
+      "type": "ENTITY",
+      "start": 3491,
+      "end": 3516
+    },
+    {
+      "text": "precursor lymphoblastic neoplasia",
+      "type": "ENTITY",
+      "start": 3534,
+      "end": 3567
+    },
+    {
+      "text": "conjunction",
+      "type": "ENTITY",
+      "start": 3571,
+      "end": 3582
+    },
+    {
+      "text": "cytoplasmic",
+      "type": "ENTITY",
+      "start": 3592,
+      "end": 3603
+    },
+    {
+      "text": "abundance",
+      "type": "ENTITY",
+      "start": 3604,
+      "end": 3613
+    },
+    {
+      "text": "presence",
+      "type": "ENTITY",
+      "start": 3618,
+      "end": 3626
+    },
+    {
+      "text": "peripheral",
+      "type": "ENTITY",
+      "start": 3632,
+      "end": 3642
+    },
+    {
+      "text": "precursor",
+      "type": "ENTITY",
+      "start": 3656,
+      "end": 3665
+    },
+    {
+      "text": "blastic",
+      "type": "ENTITY",
+      "start": 3667,
+      "end": 3674
+    },
+    {
+      "text": "nuclear chromatin pattern",
+      "type": "ENTITY",
+      "start": 3676,
+      "end": 3701
+    },
+    {
+      "text": "Burkitt lymphoma",
+      "type": "ENTITY",
+      "start": 3714,
+      "end": 3730
+    },
+    {
+      "text": "conjunction",
+      "type": "ENTITY",
+      "start": 3734,
+      "end": 3745
+    },
+    {
+      "text": "cell proliferation",
+      "type": "ENTITY",
+      "start": 3753,
+      "end": 3771
+    },
+    {
+      "text": "fraction",
+      "type": "ENTITY",
+      "start": 3772,
+      "end": 3780
+    },
+    {
+      "text": "average",
+      "type": "ENTITY",
+      "start": 3811,
+      "end": 3818
+    },
+    {
+      "text": "Ki-67 immunolabelling",
+      "type": "ENTITY",
+      "start": 3823,
+      "end": 3844
+    },
+    {
+      "text": "degree",
+      "type": "ENTITY",
+      "start": 3870,
+      "end": 3876
+    },
+    {
+      "text": "nuclear pleomorphism",
+      "type": "ENTITY",
+      "start": 3880,
+      "end": 3900
+    },
+    {
+      "text": "inappropriate",
+      "type": "ENTITY",
+      "start": 3909,
+      "end": 3922
+    },
+    {
+      "text": "entity",
+      "type": "ENTITY",
+      "start": 3938,
+      "end": 3944
+    },
+    {
+      "text": "context",
+      "type": "ENTITY",
+      "start": 3954,
+      "end": 3961
+    },
+    {
+      "text": "variable",
+      "type": "ENTITY",
+      "start": 3963,
+      "end": 3971
+    },
+    {
+      "text": "patchy",
+      "type": "ENTITY",
+      "start": 3973,
+      "end": 3979
+    },
+    {
+      "text": "coexpression",
+      "type": "ENTITY",
+      "start": 3980,
+      "end": 3992
+    },
+    {
+      "text": "cp30",
+      "type": "ENTITY",
+      "start": 3996,
+      "end": 4000
+    },
+    {
+      "text": "mediastinal/thymic",
+      "type": "ENTITY",
+      "start": 4022,
+      "end": 4040
+    },
+    {
+      "text": "primary",
+      "type": "ENTITY",
+      "start": 4041,
+      "end": 4048
+    },
+    {
+      "text": "CD23",
+      "type": "ENTITY",
+      "start": 4059,
+      "end": 4063
+    },
+    {
+      "text": "coexpression",
+      "type": "ENTITY",
+      "start": 4064,
+      "end": 4076
+    },
+    {
+      "text": "B-lineage",
+      "type": "ENTITY",
+      "start": 4106,
+      "end": 4115
+    },
+    {
+      "text": "anaplastic lymphoma",
+      "type": "ENTITY",
+      "start": 4126,
+      "end": 4145
+    },
+    {
+      "text": "intensity",
+      "type": "ENTITY",
+      "start": 4177,
+      "end": 4186
+    },
+    {
+      "text": "extent",
+      "type": "ENTITY",
+      "start": 4191,
+      "end": 4197
+    },
+    {
+      "text": "bcl-6",
+      "type": "ENTITY",
+      "start": 4201,
+      "end": 4206
+    },
+    {
+      "text": "Mum.1",
+      "type": "ENTITY",
+      "start": 4212,
+      "end": 4217
+    },
+    {
+      "text": "nuclear expression",
+      "type": "ENTITY",
+      "start": 4218,
+      "end": 4236
+    },
+    {
+      "text": "Hodgkin lymphoma",
+      "type": "ENTITY",
+      "start": 4255,
+      "end": 4271
+    },
+    {
+      "text": "lymphocyte-depleted",
+      "type": "ENTITY",
+      "start": 4275,
+      "end": 4294
+    },
+    {
+      "text": "morphology",
+      "type": "ENTITY",
+      "start": 4295,
+      "end": 4305
+    },
+    {
+      "text": "Immunostaining",
+      "type": "ENTITY",
+      "start": 4307,
+      "end": 4321
+    },
+    {
+      "text": "Cyclin Dl",
+      "type": "ENTITY",
+      "start": 4326,
+      "end": 4335
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 4339,
+      "end": 4347
+    },
+    {
+      "text": "lymphomatous",
+      "type": "ENTITY",
+      "start": 4359,
+      "end": 4371
+    },
+    {
+      "text": "population",
+      "type": "ENTITY",
+      "start": 4373,
+      "end": 4383
+    },
+    {
+      "text": "physiological",
+      "type": "ENTITY",
+      "start": 4403,
+      "end": 4416
+    },
+    {
+      "text": "expression",
+      "type": "ENTITY",
+      "start": 4417,
+      "end": 4427
+    },
+    {
+      "text": "scattered",
+      "type": "ENTITY",
+      "start": 4431,
+      "end": 4440
+    },
+    {
+      "text": "histiocytic",
+      "type": "ENTITY",
+      "start": 4441,
+      "end": 4452
+    },
+    {
+      "text": "activated",
+      "type": "ENTITY",
+      "start": 4457,
+      "end": 4466
+    },
+    {
+      "text": "transformed mantle cell lymphoma",
+      "type": "ENTITY",
+      "start": 4500,
+      "end": 4532
+    },
+    {
+      "text": "nodularity",
+      "type": "ENTITY",
+      "start": 4546,
+      "end": 4556
+    },
+    {
+      "text": "infiltrate",
+      "type": "ENTITY",
+      "start": 4564,
+      "end": 4574
+    },
+    {
+      "text": "cd21",
+      "type": "ENTITY",
+      "start": 4576,
+      "end": 4580
+    },
+    {
+      "text": "immunostaining",
+      "type": "ENTITY",
+      "start": 4581,
+      "end": 4595
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 4610,
+      "end": 4618
+    },
+    {
+      "text": "follicular",
+      "type": "ENTITY",
+      "start": 4638,
+      "end": 4648
+    },
+    {
+      "text": "dendritic meshwork",
+      "type": "ENTITY",
+      "start": 4649,
+      "end": 4667
+    },
+    {
+      "text": "presence",
+      "type": "ENTITY",
+      "start": 4676,
+      "end": 4684
+    },
+    {
+      "text": "working external positive control",
+      "type": "ENTITY",
+      "start": 4690,
+      "end": 4723
+    },
+    {
+      "text": "Proliferation",
+      "type": "ENTITY",
+      "start": 4725,
+      "end": 4738
+    },
+    {
+      "text": "Mitoses",
+      "type": "ENTITY",
+      "start": 4741,
+      "end": 4748
+    },
+    {
+      "text": "Tumour",
+      "type": "ENTITY",
+      "start": 4766,
+      "end": 4772
+    },
+    {
+      "text": "edges",
+      "type": "ENTITY",
+      "start": 4773,
+      "end": 4778
+    },
+    {
+      "text": "Demarcated",
+      "type": "ENTITY",
+      "start": 4781,
+      "end": 4791
+    },
+    {
+      "text": "Stromal reaction",
+      "type": "ENTITY",
+      "start": 4793,
+      "end": 4809
+    },
+    {
+      "text": "Compartmentalising sclerosis",
+      "type": "ENTITY",
+      "start": 4812,
+      "end": 4840
+    },
+    {
+      "text": "sprinkling",
+      "type": "ENTITY",
+      "start": 4848,
+      "end": 4858
+    },
+    {
+      "text": "lymphocytes",
+      "type": "ENTITY",
+      "start": 4868,
+      "end": 4879
+    },
+    {
+      "text": "TUMOUR",
+      "type": "ENTITY",
+      "start": 4891,
+      "end": 4897
+    },
+    {
+      "text": "Local invasion",
+      "type": "ENTITY",
+      "start": 4898,
+      "end": 4912
+    },
+    {
+      "text": "thymus",
+      "type": "ENTITY",
+      "start": 4932,
+      "end": 4938
+    },
+    {
+      "text": "focally",
+      "type": "ENTITY",
+      "start": 4946,
+      "end": 4953
+    },
+    {
+      "text": "right lung",
+      "type": "ENTITY",
+      "start": 4984,
+      "end": 4994
+    },
+    {
+      "text": "Block Al7",
+      "type": "ENTITY",
+      "start": 4996,
+      "end": 5005
+    },
+    {
+      "text": "adhesion",
+      "type": "ENTITY",
+      "start": 5012,
+      "end": 5020
+    },
+    {
+      "text": "penetration",
+      "type": "ENTITY",
+      "start": 5029,
+      "end": 5040
+    },
+    {
+      "text": "pericardium",
+      "type": "ENTITY",
+      "start": 5044,
+      "end": 5055
+    },
+    {
+      "text": "Mediastinal lymph nodes",
+      "type": "ENTITY",
+      "start": 5057,
+      "end": 5080
+    },
+    {
+      "text": "Block A18",
+      "type": "ENTITY",
+      "start": 5082,
+      "end": 5091
+    },
+    {
+      "text": "B1",
+      "type": "ENTITY",
+      "start": 5096,
+      "end": 5098
+    },
+    {
+      "text": "uninvolved",
+      "type": "ENTITY",
+      "start": 5107,
+      "end": 5117
+    },
+    {
+      "text": "Histology",
+      "type": "ENTITY",
+      "start": 5123,
+      "end": 5132
+    },
+    {
+      "text": "lymph node",
+      "type": "ENTITY",
+      "start": 5141,
+      "end": 5151
+    },
+    {
+      "text": "architectural preservation",
+      "type": "ENTITY",
+      "start": 5157,
+      "end": 5183
+    },
+    {
+      "text": "Printed",
+      "type": "ENTITY",
+      "start": 5188,
+      "end": 5195
+    }
+  ],
+  "entity_count": 232,
+  "has_embedding": true
+}

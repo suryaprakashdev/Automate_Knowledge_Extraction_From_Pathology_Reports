@@ -1,0 +1,986 @@
+{
+  "filename": "6b0dd320-df68-465b-b0d6-18461a85c539",
+  "timestamp": "2026-01-05T14:44:28.917942",
+  "entities": [
+    {
+      "text": "LAB",
+      "type": "ENTITY",
+      "start": 18,
+      "end": 21
+    },
+    {
+      "text": "SURG",
+      "type": "ENTITY",
+      "start": 30,
+      "end": 34
+    },
+    {
+      "text": "PATH",
+      "type": "ENTITY",
+      "start": 47,
+      "end": 51
+    },
+    {
+      "text": "Specimen",
+      "type": "ENTITY",
+      "start": 98,
+      "end": 106
+    },
+    {
+      "text": "ceQQ",
+      "type": "ENTITY",
+      "start": 120,
+      "end": 124
+    },
+    {
+      "text": "N6S",
+      "type": "ENTITY",
+      "start": 125,
+      "end": 128
+    },
+    {
+      "text": "Accessioned",
+      "type": "ENTITY",
+      "start": 129,
+      "end": 140
+    },
+    {
+      "text": "FINAL DIAGNOSIS Pathologist",
+      "type": "ENTITY",
+      "start": 144,
+      "end": 171
+    },
+    {
+      "text": "Nss",
+      "type": "ENTITY",
+      "start": 184,
+      "end": 187
+    },
+    {
+      "text": "DEEP RIGHT TONGUE BASE",
+      "type": "ENTITY",
+      "start": 197,
+      "end": 219
+    },
+    {
+      "text": "EXCISION",
+      "type": "ENTITY",
+      "start": 221,
+      "end": 229
+    },
+    {
+      "text": "NEGATIVE",
+      "type": "ENTITY",
+      "start": 232,
+      "end": 240
+    },
+    {
+      "text": "TUMOR",
+      "type": "ENTITY",
+      "start": 245,
+      "end": 250
+    },
+    {
+      "text": "LEFT HARD PALATE",
+      "type": "ENTITY",
+      "start": 255,
+      "end": 271
+    },
+    {
+      "text": "EXCISION",
+      "type": "ENTITY",
+      "start": 273,
+      "end": 281
+    },
+    {
+      "text": "NEGATIVE",
+      "type": "ENTITY",
+      "start": 285,
+      "end": 293
+    },
+    {
+      "text": "TUMOR",
+      "type": "ENTITY",
+      "start": 298,
+      "end": 303
+    },
+    {
+      "text": "OJ",
+      "type": "ENTITY",
+      "start": 305,
+      "end": 307
+    },
+    {
+      "text": "DEEP SKULL BASE",
+      "type": "ENTITY",
+      "start": 319,
+      "end": 334
+    },
+    {
+      "text": "EXCISION",
+      "type": "ENTITY",
+      "start": 336,
+      "end": 344
+    },
+    {
+      "text": "NEGATIVE",
+      "type": "ENTITY",
+      "start": 347,
+      "end": 355
+    },
+    {
+      "text": "TUMOR",
+      "type": "ENTITY",
+      "start": 360,
+      "end": 365
+    },
+    {
+      "text": "LEFT NASOPHARYNX",
+      "type": "ENTITY",
+      "start": 370,
+      "end": 386
+    },
+    {
+      "text": "EXCISION",
+      "type": "ENTITY",
+      "start": 388,
+      "end": 396
+    },
+    {
+      "text": "NEGATIVE",
+      "type": "ENTITY",
+      "start": 399,
+      "end": 407
+    },
+    {
+      "text": "TUMOR",
+      "type": "ENTITY",
+      "start": 412,
+      "end": 417
+    },
+    {
+      "text": "DEEP MIDLINE HARD PALATE",
+      "type": "ENTITY",
+      "start": 422,
+      "end": 446
+    },
+    {
+      "text": "EXCISION",
+      "type": "ENTITY",
+      "start": 448,
+      "end": 456
+    },
+    {
+      "text": "NEGATIVE",
+      "type": "ENTITY",
+      "start": 459,
+      "end": 467
+    },
+    {
+      "text": "TUMOR",
+      "type": "ENTITY",
+      "start": 472,
+      "end": 477
+    },
+    {
+      "text": "UUID",
+      "type": "ENTITY",
+      "start": 479,
+      "end": 483
+    },
+    {
+      "text": "FB282F08-6047-4844-90A4-AA4B04911ED6",
+      "type": "ENTITY",
+      "start": 485,
+      "end": 521
+    },
+    {
+      "text": "TCGA-BB-A6UO-01A-PR",
+      "type": "ENTITY",
+      "start": 522,
+      "end": 541
+    },
+    {
+      "text": "Redacted",
+      "type": "ENTITY",
+      "start": 542,
+      "end": 550
+    },
+    {
+      "text": "RIGHT SOFT PALATE",
+      "type": "ENTITY",
+      "start": 554,
+      "end": 571
+    },
+    {
+      "text": "EXCISION",
+      "type": "ENTITY",
+      "start": 573,
+      "end": 581
+    },
+    {
+      "text": "NEGATIVE",
+      "type": "ENTITY",
+      "start": 584,
+      "end": 592
+    },
+    {
+      "text": "TUMOR",
+      "type": "ENTITY",
+      "start": 597,
+      "end": 602
+    },
+    {
+      "text": "LEFT VALLECULA",
+      "type": "ENTITY",
+      "start": 607,
+      "end": 621
+    },
+    {
+      "text": "EXCISION",
+      "type": "ENTITY",
+      "start": 623,
+      "end": 631
+    },
+    {
+      "text": "NEGATIVE",
+      "type": "ENTITY",
+      "start": 635,
+      "end": 643
+    },
+    {
+      "text": "TUMOR",
+      "type": "ENTITY",
+      "start": 648,
+      "end": 653
+    },
+    {
+      "text": "PARAPHARYNGEAL SPACE FAT",
+      "type": "ENTITY",
+      "start": 658,
+      "end": 682
+    },
+    {
+      "text": "EXCISION",
+      "type": "ENTITY",
+      "start": 684,
+      "end": 692
+    },
+    {
+      "text": "NEGATIVE",
+      "type": "ENTITY",
+      "start": 696,
+      "end": 704
+    },
+    {
+      "text": "TUMOR",
+      "type": "ENTITY",
+      "start": 709,
+      "end": 714
+    },
+    {
+      "text": "LEFT PHARYNX",
+      "type": "ENTITY",
+      "start": 719,
+      "end": 731
+    },
+    {
+      "text": "EXCISION",
+      "type": "ENTITY",
+      "start": 733,
+      "end": 741
+    },
+    {
+      "text": "NEGATIVE",
+      "type": "ENTITY",
+      "start": 744,
+      "end": 752
+    },
+    {
+      "text": "TUMOR",
+      "type": "ENTITY",
+      "start": 757,
+      "end": 762
+    },
+    {
+      "text": "MIDLINE HARD PALATE",
+      "type": "ENTITY",
+      "start": 768,
+      "end": 787
+    },
+    {
+      "text": "EXCISION",
+      "type": "ENTITY",
+      "start": 789,
+      "end": 797
+    },
+    {
+      "text": "NEGATIVE",
+      "type": "ENTITY",
+      "start": 801,
+      "end": 809
+    },
+    {
+      "text": "TUMOR",
+      "type": "ENTITY",
+      "start": 814,
+      "end": 819
+    },
+    {
+      "text": "LEFT MANDIBLE",
+      "type": "ENTITY",
+      "start": 833,
+      "end": 846
+    },
+    {
+      "text": "POSTERIOR PHARYNGEAL WALL",
+      "type": "ENTITY",
+      "start": 851,
+      "end": 876
+    },
+    {
+      "text": "COMPLETE",
+      "type": "ENTITY",
+      "start": 878,
+      "end": 886
+    },
+    {
+      "text": "SUBTOTAL GLOSSECTOMY",
+      "type": "ENTITY",
+      "start": 887,
+      "end": 907
+    },
+    {
+      "text": "SPECIMEN TYPE",
+      "type": "ENTITY",
+      "start": 911,
+      "end": 924
+    },
+    {
+      "text": "COMPOSITE",
+      "type": "ENTITY",
+      "start": 926,
+      "end": 935
+    },
+    {
+      "text": "SUBTOTAL GLOSSECTOMY",
+      "type": "ENTITY",
+      "start": 936,
+      "end": 956
+    },
+    {
+      "text": "HEMIMANDIBULECTOMY",
+      "type": "ENTITY",
+      "start": 961,
+      "end": 979
+    },
+    {
+      "text": "TUMOR SITE",
+      "type": "ENTITY",
+      "start": 980,
+      "end": 990
+    },
+    {
+      "text": "ORAL CAVITY",
+      "type": "ENTITY",
+      "start": 992,
+      "end": 1003
+    },
+    {
+      "text": "CM",
+      "type": "ENTITY",
+      "start": 1049,
+      "end": 1051
+    },
+    {
+      "text": "HISTOLOGIC TYPE",
+      "type": "ENTITY",
+      "start": 1052,
+      "end": 1067
+    },
+    {
+      "text": "CARCINOMAS",
+      "type": "ENTITY",
+      "start": 1069,
+      "end": 1079
+    },
+    {
+      "text": "UPPER AERODIGESTIVE TRACT",
+      "type": "ENTITY",
+      "start": 1083,
+      "end": 1108
+    },
+    {
+      "text": "SQUAMOUS CELL CARCINOMA",
+      "type": "ENTITY",
+      "start": 1110,
+      "end": 1133
+    },
+    {
+      "text": "CONVENTIONAL HISTOLOGIC GRADE",
+      "type": "ENTITY",
+      "start": 1135,
+      "end": 1164
+    },
+    {
+      "text": "MODERATELY DIFFERENTIATED EXTENT",
+      "type": "ENTITY",
+      "start": 1170,
+      "end": 1202
+    },
+    {
+      "text": "INVASION",
+      "type": "ENTITY",
+      "start": 1206,
+      "end": 1214
+    },
+    {
+      "text": "AJCC",
+      "type": "ENTITY",
+      "start": 1228,
+      "end": 1232
+    },
+    {
+      "text": "PRIMARY TUMOR",
+      "type": "ENTITY",
+      "start": 1235,
+      "end": 1248
+    },
+    {
+      "text": "MANDIBULAR BONE",
+      "type": "ENTITY",
+      "start": 1255,
+      "end": 1270
+    },
+    {
+      "text": "INTO SOFT TISSUES",
+      "type": "ENTITY",
+      "start": 1275,
+      "end": 1292
+    },
+    {
+      "text": "NUMBER",
+      "type": "ENTITY",
+      "start": 1329,
+      "end": 1335
+    },
+    {
+      "text": "NUMBER",
+      "type": "ENTITY",
+      "start": 1349,
+      "end": 1355
+    },
+    {
+      "text": "CM",
+      "type": "ENTITY",
+      "start": 1465,
+      "end": 1467
+    },
+    {
+      "text": "GREATEST DIMENSION EXTRACAPSULAR",
+      "type": "ENTITY",
+      "start": 1471,
+      "end": 1503
+    },
+    {
+      "text": "NODAL TUMOR",
+      "type": "ENTITY",
+      "start": 1517,
+      "end": 1528
+    },
+    {
+      "text": "PRESENT DISTANT",
+      "type": "ENTITY",
+      "start": 1530,
+      "end": 1545
+    },
+    {
+      "text": "pMX",
+      "type": "ENTITY",
+      "start": 1563,
+      "end": 1566
+    },
+    {
+      "text": "CANNOT BE ASSESSED",
+      "type": "ENTITY",
+      "start": 1568,
+      "end": 1586
+    },
+    {
+      "text": "SEE",
+      "type": "ENTITY",
+      "start": 1625,
+      "end": 1628
+    },
+    {
+      "text": "MM",
+      "type": "ENTITY",
+      "start": 1672,
+      "end": 1674
+    },
+    {
+      "text": "THE POSTERIOR PHARYNGEAL",
+      "type": "ENTITY",
+      "start": 1678,
+      "end": 1702
+    },
+    {
+      "text": "SOFT TISSUE SPECIMEN EDGE",
+      "type": "ENTITY",
+      "start": 1703,
+      "end": 1728
+    },
+    {
+      "text": "patient chart",
+      "type": "ENTITY",
+      "start": 1780,
+      "end": 1793
+    },
+    {
+      "text": "***. ***",
+      "type": "ENTITY",
+      "start": 1795,
+      "end": 1803
+    },
+    {
+      "text": "Contact medical records",
+      "type": "ENTITY",
+      "start": 1804,
+      "end": 1827
+    },
+    {
+      "text": "official",
+      "type": "ENTITY",
+      "start": 1832,
+      "end": 1840
+    },
+    {
+      "text": "copy",
+      "type": "ENTITY",
+      "start": 1847,
+      "end": 1851
+    },
+    {
+      "text": "DETAIL PAGE",
+      "type": "ENTITY",
+      "start": 1883,
+      "end": 1894
+    },
+    {
+      "text": "ALL",
+      "type": "ENTITY",
+      "start": 1896,
+      "end": 1899
+    },
+    {
+      "text": "LAR",
+      "type": "ENTITY",
+      "start": 1900,
+      "end": 1903
+    },
+    {
+      "text": "RESULTS PERFORMED AT",
+      "type": "ENTITY",
+      "start": 1904,
+      "end": 1924
+    },
+    {
+      "text": "LAB",
+      "type": "ENTITY",
+      "start": 1956,
+      "end": 1959
+    },
+    {
+      "text": "VENOUS/LYMPHATIC",
+      "type": "ENTITY",
+      "start": 1968,
+      "end": 1984
+    },
+    {
+      "text": "LARGE/SMALL",
+      "type": "ENTITY",
+      "start": 1986,
+      "end": 1997
+    },
+    {
+      "text": "LEFT AXILLA",
+      "type": "ENTITY",
+      "start": 2113,
+      "end": 2124
+    },
+    {
+      "text": "EXCISION",
+      "type": "ENTITY",
+      "start": 2126,
+      "end": 2134
+    },
+    {
+      "text": "ONE",
+      "type": "ENTITY",
+      "start": 2137,
+      "end": 2140
+    },
+    {
+      "text": "LYMPH NODE",
+      "type": "ENTITY",
+      "start": 2145,
+      "end": 2155
+    },
+    {
+      "text": "ASSOCIATED",
+      "type": "ENTITY",
+      "start": 2160,
+      "end": 2170
+    },
+    {
+      "text": "FIBROADIPOSE",
+      "type": "ENTITY",
+      "start": 2171,
+      "end": 2183
+    },
+    {
+      "text": "NEGATIVE",
+      "type": "ENTITY",
+      "start": 2192,
+      "end": 2200
+    },
+    {
+      "text": "LEET",
+      "type": "ENTITY",
+      "start": 2229,
+      "end": 2233
+    },
+    {
+      "text": "EXCISION",
+      "type": "ENTITY",
+      "start": 2249,
+      "end": 2257
+    },
+    {
+      "text": "SIX",
+      "type": "ENTITY",
+      "start": 2261,
+      "end": 2264
+    },
+    {
+      "text": "LYMPH NODES",
+      "type": "ENTITY",
+      "start": 2269,
+      "end": 2280
+    },
+    {
+      "text": "ASSOCIATED",
+      "type": "ENTITY",
+      "start": 2285,
+      "end": 2295
+    },
+    {
+      "text": "FIBROADIPOSE",
+      "type": "ENTITY",
+      "start": 2296,
+      "end": 2308
+    },
+    {
+      "text": "NEGATIVE",
+      "type": "ENTITY",
+      "start": 2317,
+      "end": 2325
+    },
+    {
+      "text": "TUMOR",
+      "type": "ENTITY",
+      "start": 2330,
+      "end": 2335
+    },
+    {
+      "text": "RIGHT NECK LEVEL 1B",
+      "type": "ENTITY",
+      "start": 2354,
+      "end": 2373
+    },
+    {
+      "text": "EXCISION",
+      "type": "ENTITY",
+      "start": 2375,
+      "end": 2383
+    },
+    {
+      "text": "LYMPH NODES",
+      "type": "ENTITY",
+      "start": 2395,
+      "end": 2406
+    },
+    {
+      "text": "ASSOCIATED",
+      "type": "ENTITY",
+      "start": 2411,
+      "end": 2421
+    },
+    {
+      "text": "FIBROADIPOSE",
+      "type": "ENTITY",
+      "start": 2422,
+      "end": 2434
+    },
+    {
+      "text": "NEGATIVE",
+      "type": "ENTITY",
+      "start": 2443,
+      "end": 2451
+    },
+    {
+      "text": "TUMOR",
+      "type": "ENTITY",
+      "start": 2456,
+      "end": 2461
+    },
+    {
+      "text": "DEEP SKULL BASE",
+      "type": "ENTITY",
+      "start": 2467,
+      "end": 2482
+    },
+    {
+      "text": "EXCISION",
+      "type": "ENTITY",
+      "start": 2484,
+      "end": 2492
+    },
+    {
+      "text": "BENIGN",
+      "type": "ENTITY",
+      "start": 2496,
+      "end": 2502
+    },
+    {
+      "text": "BONE",
+      "type": "ENTITY",
+      "start": 2520,
+      "end": 2524
+    },
+    {
+      "text": "FIBROADIPOSE",
+      "type": "ENTITY",
+      "start": 2529,
+      "end": 2541
+    },
+    {
+      "text": "NEGATIVE",
+      "type": "ENTITY",
+      "start": 2550,
+      "end": 2558
+    },
+    {
+      "text": "TUMOR",
+      "type": "ENTITY",
+      "start": 2563,
+      "end": 2568
+    },
+    {
+      "text": "TRILINEAGE",
+      "type": "ENTITY",
+      "start": 2579,
+      "end": 2589
+    },
+    {
+      "text": "FULL",
+      "type": "ENTITY",
+      "start": 2602,
+      "end": 2606
+    },
+    {
+      "text": "PARAPHARYNGEAL SPACE",
+      "type": "ENTITY",
+      "start": 2623,
+      "end": 2643
+    },
+    {
+      "text": "EXCISION",
+      "type": "ENTITY",
+      "start": 2645,
+      "end": 2653
+    },
+    {
+      "text": "BENIGN SKELETAL MUSCLE",
+      "type": "ENTITY",
+      "start": 2657,
+      "end": 2679
+    },
+    {
+      "text": "FIBROADIPOSE",
+      "type": "ENTITY",
+      "start": 2684,
+      "end": 2696
+    },
+    {
+      "text": "NEGATIVE",
+      "type": "ENTITY",
+      "start": 2705,
+      "end": 2713
+    },
+    {
+      "text": "TUMOR",
+      "type": "ENTITY",
+      "start": 2718,
+      "end": 2723
+    },
+    {
+      "text": "LEFT NECK",
+      "type": "ENTITY",
+      "start": 2742,
+      "end": 2751
+    },
+    {
+      "text": "EXCISION",
+      "type": "ENTITY",
+      "start": 2764,
+      "end": 2772
+    },
+    {
+      "text": "FIBROADIPOSE",
+      "type": "ENTITY",
+      "start": 2791,
+      "end": 2803
+    },
+    {
+      "text": "TISSUE",
+      "type": "ENTITY",
+      "start": 2804,
+      "end": 2810
+    },
+    {
+      "text": "METASTATIC SQUAMOUS CELL",
+      "type": "ENTITY",
+      "start": 2821,
+      "end": 2845
+    },
+    {
+      "text": "LYMPH NODES",
+      "type": "ENTITY",
+      "start": 2885,
+      "end": 2896
+    },
+    {
+      "text": "CM",
+      "type": "ENTITY",
+      "start": 2902,
+      "end": 2904
+    },
+    {
+      "text": "WITH EXTRANODAL EXTENSION",
+      "type": "ENTITY",
+      "start": 2907,
+      "end": 2932
+    },
+    {
+      "text": "METASTATIC SQUAMOUS CELL CARCINOMA",
+      "type": "ENTITY",
+      "start": 2943,
+      "end": 2977
+    },
+    {
+      "text": "SEVENTEEN",
+      "type": "ENTITY",
+      "start": 2999,
+      "end": 3008
+    },
+    {
+      "text": "LYMPH NODES",
+      "type": "ENTITY",
+      "start": 3014,
+      "end": 3025
+    },
+    {
+      "text": "CM",
+      "type": "ENTITY",
+      "start": 3039,
+      "end": 3041
+    },
+    {
+      "text": "EXTRACAPSULAR",
+      "type": "ENTITY",
+      "start": 3044,
+      "end": 3057
+    },
+    {
+      "text": "official report",
+      "type": "ENTITY",
+      "start": 3095,
+      "end": 3110
+    },
+    {
+      "text": "Final",
+      "type": "ENTITY",
+      "start": 3126,
+      "end": 3131
+    },
+    {
+      "text": "Signed",
+      "type": "ENTITY",
+      "start": 3139,
+      "end": 3145
+    },
+    {
+      "text": "Unofficial lab results",
+      "type": "ENTITY",
+      "start": 3156,
+      "end": 3178
+    },
+    {
+      "text": "patient chart",
+      "type": "ENTITY",
+      "start": 3196,
+      "end": 3209
+    },
+    {
+      "text": "*** ***",
+      "type": "ENTITY",
+      "start": 3211,
+      "end": 3218
+    },
+    {
+      "text": "Contact medical records",
+      "type": "ENTITY",
+      "start": 3219,
+      "end": 3242
+    },
+    {
+      "text": "official",
+      "type": "ENTITY",
+      "start": 3247,
+      "end": 3255
+    },
+    {
+      "text": "copy",
+      "type": "ENTITY",
+      "start": 3262,
+      "end": 3266
+    },
+    {
+      "text": "cir UNLESS",
+      "type": "ENTITY",
+      "start": 3281,
+      "end": 3291
+    },
+    {
+      "text": "DETAIL PAGE",
+      "type": "ENTITY",
+      "start": 3315,
+      "end": 3326
+    },
+    {
+      "text": "ALL",
+      "type": "ENTITY",
+      "start": 3328,
+      "end": 3331
+    },
+    {
+      "text": "LAB",
+      "type": "ENTITY",
+      "start": 3332,
+      "end": 3335
+    }
+  ],
+  "entity_count": 163,
+  "has_embedding": true
+}

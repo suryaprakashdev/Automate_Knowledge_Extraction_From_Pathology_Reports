@@ -1,0 +1,506 @@
+{
+  "filename": "5fd0a615-c736-417a-b75a-26243a81c77b",
+  "timestamp": "2026-01-05T14:43:18.940170",
+  "entities": [
+    {
+      "text": "TCGA-DD-AAD3-01A-PR",
+      "type": "ENTITY",
+      "start": 59,
+      "end": 78
+    },
+    {
+      "text": "Redacted CLINICAL DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 79,
+      "end": 106
+    },
+    {
+      "text": "HCC",
+      "type": "ENTITY",
+      "start": 108,
+      "end": 111
+    },
+    {
+      "text": "Specimen",
+      "type": "ENTITY",
+      "start": 112,
+      "end": 120
+    },
+    {
+      "text": "Liver",
+      "type": "ENTITY",
+      "start": 123,
+      "end": 128
+    },
+    {
+      "text": "Gross Photo",
+      "type": "ENTITY",
+      "start": 130,
+      "end": 141
+    },
+    {
+      "text": "Specimen status",
+      "type": "ENTITY",
+      "start": 152,
+      "end": 167
+    },
+    {
+      "text": "Fresh",
+      "type": "ENTITY",
+      "start": 169,
+      "end": 174
+    },
+    {
+      "text": "Operation",
+      "type": "ENTITY",
+      "start": 175,
+      "end": 184
+    },
+    {
+      "text": "Right posterior sectionectomy Organ",
+      "type": "ENTITY",
+      "start": 186,
+      "end": 221
+    },
+    {
+      "text": "Liver",
+      "type": "ENTITY",
+      "start": 223,
+      "end": 228
+    },
+    {
+      "text": "Lesion",
+      "type": "ENTITY",
+      "start": 261,
+      "end": 267
+    },
+    {
+      "text": "Hepatic mass Size",
+      "type": "ENTITY",
+      "start": 269,
+      "end": 286
+    },
+    {
+      "text": "Cut surface",
+      "type": "ENTITY",
+      "start": 307,
+      "end": 318
+    },
+    {
+      "text": "Encapsulated",
+      "type": "ENTITY",
+      "start": 320,
+      "end": 332
+    },
+    {
+      "text": "pale tan",
+      "type": "ENTITY",
+      "start": 334,
+      "end": 342
+    },
+    {
+      "text": "solid",
+      "type": "ENTITY",
+      "start": 344,
+      "end": 349
+    },
+    {
+      "text": "lobulated mass",
+      "type": "ENTITY",
+      "start": 354,
+      "end": 368
+    },
+    {
+      "text": "necrosis",
+      "type": "ENTITY",
+      "start": 372,
+      "end": 380
+    },
+    {
+      "text": "hemorrhage",
+      "type": "ENTITY",
+      "start": 385,
+      "end": 395
+    },
+    {
+      "text": "Gross type",
+      "type": "ENTITY",
+      "start": 396,
+      "end": 406
+    },
+    {
+      "text": "Multinodular",
+      "type": "ENTITY",
+      "start": 408,
+      "end": 420
+    },
+    {
+      "text": "confluent",
+      "type": "ENTITY",
+      "start": 421,
+      "end": 430
+    },
+    {
+      "text": "Extent",
+      "type": "ENTITY",
+      "start": 431,
+      "end": 437
+    },
+    {
+      "text": "Abuts",
+      "type": "ENTITY",
+      "start": 439,
+      "end": 444
+    },
+    {
+      "text": "capsule",
+      "type": "ENTITY",
+      "start": 465,
+      "end": 472
+    },
+    {
+      "text": "grossly",
+      "type": "ENTITY",
+      "start": 505,
+      "end": 512
+    },
+    {
+      "text": "safety margin",
+      "type": "ENTITY",
+      "start": 514,
+      "end": 527
+    },
+    {
+      "text": "parenchyme",
+      "type": "ENTITY",
+      "start": 547,
+      "end": 557
+    },
+    {
+      "text": "Unremarkable",
+      "type": "ENTITY",
+      "start": 559,
+      "end": 571
+    },
+    {
+      "text": "grossly",
+      "type": "ENTITY",
+      "start": 573,
+      "end": 580
+    },
+    {
+      "text": "hepatelbuler",
+      "type": "ENTITY",
+      "start": 634,
+      "end": 646
+    },
+    {
+      "text": "Gross photo",
+      "type": "ENTITY",
+      "start": 652,
+      "end": 663
+    },
+    {
+      "text": "817D/3 Blocks",
+      "type": "ENTITY",
+      "start": 673,
+      "end": 686
+    },
+    {
+      "text": "sLive",
+      "type": "ENTITY",
+      "start": 692,
+      "end": 697
+    },
+    {
+      "text": "Caac T1-4",
+      "type": "ENTITY",
+      "start": 698,
+      "end": 707
+    },
+    {
+      "text": "TB",
+      "type": "ENTITY",
+      "start": 712,
+      "end": 714
+    },
+    {
+      "text": "mass of",
+      "type": "ENTITY",
+      "start": 716,
+      "end": 723
+    },
+    {
+      "text": "liver",
+      "type": "ENTITY",
+      "start": 724,
+      "end": 729
+    },
+    {
+      "text": "MO",
+      "type": "ENTITY",
+      "start": 734,
+      "end": 736
+    },
+    {
+      "text": "RM",
+      "type": "ENTITY",
+      "start": 745,
+      "end": 747
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 749,
+      "end": 753
+    },
+    {
+      "text": "resection margin",
+      "type": "ENTITY",
+      "start": 759,
+      "end": 775
+    },
+    {
+      "text": "L",
+      "type": "ENTITY",
+      "start": 780,
+      "end": 781
+    },
+    {
+      "text": "NB",
+      "type": "ENTITY",
+      "start": 786,
+      "end": 788
+    },
+    {
+      "text": "nontumorous liver parenchyme",
+      "type": "ENTITY",
+      "start": 790,
+      "end": 818
+    },
+    {
+      "text": "Tumor type",
+      "type": "ENTITY",
+      "start": 836,
+      "end": 846
+    },
+    {
+      "text": "Hepatocellular carcinoma",
+      "type": "ENTITY",
+      "start": 848,
+      "end": 872
+    },
+    {
+      "text": "Edmondson-Steiner grade",
+      "type": "ENTITY",
+      "start": 873,
+      "end": 896
+    },
+    {
+      "text": "Histologic type",
+      "type": "ENTITY",
+      "start": 925,
+      "end": 940
+    },
+    {
+      "text": "Trabecular",
+      "type": "ENTITY",
+      "start": 942,
+      "end": 952
+    },
+    {
+      "text": "tubular Cell type",
+      "type": "ENTITY",
+      "start": 957,
+      "end": 974
+    },
+    {
+      "text": "Hepatic Fatty change",
+      "type": "ENTITY",
+      "start": 976,
+      "end": 996
+    },
+    {
+      "text": "Cholangiocarcinoma",
+      "type": "ENTITY",
+      "start": 1002,
+      "end": 1020
+    },
+    {
+      "text": "Fibrous capsule",
+      "type": "ENTITY",
+      "start": 1025,
+      "end": 1040
+    },
+    {
+      "text": "formation",
+      "type": "ENTITY",
+      "start": 1041,
+      "end": 1050
+    },
+    {
+      "text": "Septum formation",
+      "type": "ENTITY",
+      "start": 1055,
+      "end": 1071
+    },
+    {
+      "text": "Surgical resection margin invasion",
+      "type": "ENTITY",
+      "start": 1076,
+      "end": 1110
+    },
+    {
+      "text": "No. Serosal invasion",
+      "type": "ENTITY",
+      "start": 1112,
+      "end": 1132
+    },
+    {
+      "text": "free of tumor Portal vein invasion",
+      "type": "ENTITY",
+      "start": 1149,
+      "end": 1183
+    },
+    {
+      "text": "Vascular invasion",
+      "type": "ENTITY",
+      "start": 1188,
+      "end": 1205
+    },
+    {
+      "text": "Bile duct",
+      "type": "ENTITY",
+      "start": 1210,
+      "end": 1219
+    },
+    {
+      "text": "invasion",
+      "type": "ENTITY",
+      "start": 1220,
+      "end": 1228
+    },
+    {
+      "text": "liver parenchyme",
+      "type": "ENTITY",
+      "start": 1243,
+      "end": 1259
+    },
+    {
+      "text": "Chronic hepatitis Etiology",
+      "type": "ENTITY",
+      "start": 1261,
+      "end": 1287
+    },
+    {
+      "text": "HBV",
+      "type": "ENTITY",
+      "start": 1289,
+      "end": 1292
+    },
+    {
+      "text": "lobular",
+      "type": "ENTITY",
+      "start": 1300,
+      "end": 1307
+    },
+    {
+      "text": "portoperiportal",
+      "type": "ENTITY",
+      "start": 1337,
+      "end": 1352
+    },
+    {
+      "text": "Mild Stage",
+      "type": "ENTITY",
+      "start": 1354,
+      "end": 1364
+    },
+    {
+      "text": "fibrosis",
+      "type": "ENTITY",
+      "start": 1366,
+      "end": 1374
+    },
+    {
+      "text": "Periportal Cirrhosis",
+      "type": "ENTITY",
+      "start": 1377,
+      "end": 1397
+    },
+    {
+      "text": "Gross",
+      "type": "ENTITY",
+      "start": 1417,
+      "end": 1422
+    },
+    {
+      "text": "liver",
+      "type": "ENTITY",
+      "start": 1424,
+      "end": 1429
+    },
+    {
+      "text": "ectomy",
+      "type": "ENTITY",
+      "start": 1430,
+      "end": 1436
+    },
+    {
+      "text": "hepatocellular carcinoma",
+      "type": "ENTITY",
+      "start": 1437,
+      "end": 1461
+    },
+    {
+      "text": "T56000",
+      "type": "ENTITY",
+      "start": 1462,
+      "end": 1468
+    },
+    {
+      "text": "P10",
+      "type": "ENTITY",
+      "start": 1470,
+      "end": 1473
+    },
+    {
+      "text": "M81703 DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 1475,
+      "end": 1491
+    },
+    {
+      "text": "Liver",
+      "type": "ENTITY",
+      "start": 1493,
+      "end": 1498
+    },
+    {
+      "text": "right",
+      "type": "ENTITY",
+      "start": 1500,
+      "end": 1505
+    },
+    {
+      "text": "right posterior sectionectomy",
+      "type": "ENTITY",
+      "start": 1507,
+      "end": 1536
+    },
+    {
+      "text": "Hepatocellular carcinoma",
+      "type": "ENTITY",
+      "start": 1538,
+      "end": 1562
+    },
+    {
+      "text": "Suggestion",
+      "type": "ENTITY",
+      "start": 1563,
+      "end": 1573
+    }
+  ],
+  "entity_count": 83,
+  "has_embedding": true
+}

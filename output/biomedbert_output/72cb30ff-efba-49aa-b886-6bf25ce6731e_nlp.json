@@ -1,0 +1,752 @@
+{
+  "filename": "72cb30ff-efba-49aa-b886-6bf25ce6731e",
+  "timestamp": "2026-01-05T14:44:40.817047",
+  "entities": [
+    {
+      "text": "2 Department of Cancer",
+      "type": "ENTITY",
+      "start": 25,
+      "end": 47
+    },
+    {
+      "text": "copy No. Date",
+      "type": "ENTITY",
+      "start": 58,
+      "end": 71
+    },
+    {
+      "text": "Examination",
+      "type": "ENTITY",
+      "start": 73,
+      "end": 84
+    },
+    {
+      "text": "Histopathological",
+      "type": "ENTITY",
+      "start": 86,
+      "end": 103
+    },
+    {
+      "text": "examination",
+      "type": "ENTITY",
+      "start": 104,
+      "end": 115
+    },
+    {
+      "text": "Internal invoice No. Cost",
+      "type": "ENTITY",
+      "start": 117,
+      "end": 142
+    },
+    {
+      "text": "diagnostic procedure Examination No.",
+      "type": "ENTITY",
+      "start": 146,
+      "end": 182
+    },
+    {
+      "text": "Patient",
+      "type": "ENTITY",
+      "start": 184,
+      "end": 191
+    },
+    {
+      "text": "PESEL",
+      "type": "ENTITY",
+      "start": 197,
+      "end": 202
+    },
+    {
+      "text": "XXX Age",
+      "type": "ENTITY",
+      "start": 204,
+      "end": 211
+    },
+    {
+      "text": "Gender",
+      "type": "ENTITY",
+      "start": 213,
+      "end": 219
+    },
+    {
+      "text": "Material",
+      "type": "ENTITY",
+      "start": 231,
+      "end": 239
+    },
+    {
+      "text": "Multiple organ",
+      "type": "ENTITY",
+      "start": 241,
+      "end": 255
+    },
+    {
+      "text": "resection",
+      "type": "ENTITY",
+      "start": 256,
+      "end": 265
+    },
+    {
+      "text": "right breast",
+      "type": "ENTITY",
+      "start": 268,
+      "end": 280
+    },
+    {
+      "text": "Cocnonr",
+      "type": "ENTITY",
+      "start": 300,
+      "end": 307
+    },
+    {
+      "text": "nfilfnaHq duct",
+      "type": "ENTITY",
+      "start": 309,
+      "end": 323
+    },
+    {
+      "text": "charge",
+      "type": "ENTITY",
+      "start": 349,
+      "end": 355
+    },
+    {
+      "text": "Si+x:brot",
+      "type": "ENTITY",
+      "start": 357,
+      "end": 366
+    },
+    {
+      "text": "Material",
+      "type": "ENTITY",
+      "start": 407,
+      "end": 415
+    },
+    {
+      "text": "Expected time",
+      "type": "ENTITY",
+      "start": 432,
+      "end": 445
+    },
+    {
+      "text": "examination",
+      "type": "ENTITY",
+      "start": 449,
+      "end": 460
+    },
+    {
+      "text": "working days",
+      "type": "ENTITY",
+      "start": 470,
+      "end": 482
+    },
+    {
+      "text": "Clinical diagnosis",
+      "type": "ENTITY",
+      "start": 483,
+      "end": 501
+    },
+    {
+      "text": "Bifocal cancer",
+      "type": "ENTITY",
+      "start": 503,
+      "end": 517
+    },
+    {
+      "text": "right breast",
+      "type": "ENTITY",
+      "start": 525,
+      "end": 537
+    },
+    {
+      "text": "Examination",
+      "type": "ENTITY",
+      "start": 539,
+      "end": 550
+    },
+    {
+      "text": "Results",
+      "type": "ENTITY",
+      "start": 565,
+      "end": 572
+    },
+    {
+      "text": "immunohistochemical examination",
+      "type": "ENTITY",
+      "start": 576,
+      "end": 607
+    },
+    {
+      "text": "Tumour 1",
+      "type": "ENTITY",
+      "start": 609,
+      "end": 617
+    },
+    {
+      "text": "estrogen receptors",
+      "type": "ENTITY",
+      "start": 622,
+      "end": 640
+    },
+    {
+      "text": "neoplastic cell",
+      "type": "ENTITY",
+      "start": 650,
+      "end": 665
+    },
+    {
+      "text": "progesterone receptors",
+      "type": "ENTITY",
+      "start": 677,
+      "end": 699
+    },
+    {
+      "text": "neoplastic cell",
+      "type": "ENTITY",
+      "start": 709,
+      "end": 724
+    },
+    {
+      "text": "HER2 protein stained",
+      "type": "ENTITY",
+      "start": 733,
+      "end": 753
+    },
+    {
+      "text": "rabbit antibody Ventana PATHway HER-2/neu",
+      "type": "ENTITY",
+      "start": 760,
+      "end": 801
+    },
+    {
+      "text": "Positive reaction",
+      "type": "ENTITY",
+      "start": 809,
+      "end": 826
+    },
+    {
+      "text": "invasive",
+      "type": "ENTITY",
+      "start": 830,
+      "end": 838
+    },
+    {
+      "text": "Score",
+      "type": "ENTITY",
+      "start": 856,
+      "end": 861
+    },
+    {
+      "text": "estrogen receptors",
+      "type": "ENTITY",
+      "start": 880,
+      "end": 898
+    },
+    {
+      "text": "neoplastic cell",
+      "type": "ENTITY",
+      "start": 908,
+      "end": 923
+    },
+    {
+      "text": "progesterone receptors",
+      "type": "ENTITY",
+      "start": 935,
+      "end": 957
+    },
+    {
+      "text": "neoplastic cell",
+      "type": "ENTITY",
+      "start": 967,
+      "end": 982
+    },
+    {
+      "text": "nuc!ei",
+      "type": "ENTITY",
+      "start": 983,
+      "end": 989
+    },
+    {
+      "text": "HER2 protein stained",
+      "type": "ENTITY",
+      "start": 991,
+      "end": 1011
+    },
+    {
+      "text": "rabbit antibody Ventana PATHwAy HER-2/neu",
+      "type": "ENTITY",
+      "start": 1018,
+      "end": 1059
+    },
+    {
+      "text": "4B5",
+      "type": "ENTITY",
+      "start": 1061,
+      "end": 1064
+    },
+    {
+      "text": "Positive reaction",
+      "type": "ENTITY",
+      "start": 1067,
+      "end": 1084
+    },
+    {
+      "text": "invasive",
+      "type": "ENTITY",
+      "start": 1088,
+      "end": 1096
+    },
+    {
+      "text": "Score",
+      "type": "ENTITY",
+      "start": 1114,
+      "end": 1119
+    },
+    {
+      "text": "Macroscopic",
+      "type": "ENTITY",
+      "start": 1169,
+      "end": 1180
+    },
+    {
+      "text": "description",
+      "type": "ENTITY",
+      "start": 1181,
+      "end": 1192
+    },
+    {
+      "text": "Right breast siz@d",
+      "type": "ENTITY",
+      "start": 1194,
+      "end": 1212
+    },
+    {
+      "text": "axillary tissues",
+      "type": "ENTITY",
+      "start": 1233,
+      "end": 1249
+    },
+    {
+      "text": "sized",
+      "type": "ENTITY",
+      "start": 1250,
+      "end": 1255
+    },
+    {
+      "text": "skin flap",
+      "type": "ENTITY",
+      "start": 1273,
+      "end": 1282
+    },
+    {
+      "text": "Tumour",
+      "type": "ENTITY",
+      "start": 1300,
+      "end": 1306
+    },
+    {
+      "text": "sized",
+      "type": "ENTITY",
+      "start": 1307,
+      "end": 1312
+    },
+    {
+      "text": "I.3",
+      "type": "ENTITY",
+      "start": 1325,
+      "end": 1328
+    },
+    {
+      "text": "boundary",
+      "type": "ENTITY",
+      "start": 1345,
+      "end": 1353
+    },
+    {
+      "text": "quadrants",
+      "type": "ENTITY",
+      "start": 1363,
+      "end": 1372
+    },
+    {
+      "text": "base",
+      "type": "ENTITY",
+      "start": 1428,
+      "end": 1432
+    },
+    {
+      "text": "skin",
+      "type": "ENTITY",
+      "start": 1451,
+      "end": 1455
+    },
+    {
+      "text": "tumour",
+      "type": "ENTITY",
+      "start": 1467,
+      "end": 1473
+    },
+    {
+      "text": "upper outer quadrant",
+      "type": "ENTITY",
+      "start": 1489,
+      "end": 1509
+    },
+    {
+      "text": "sized",
+      "type": "ENTITY",
+      "start": 1511,
+      "end": 1516
+    },
+    {
+      "text": "base",
+      "type": "ENTITY",
+      "start": 1564,
+      "end": 1568
+    },
+    {
+      "text": "skin",
+      "type": "ENTITY",
+      "start": 1586,
+      "end": 1590
+    },
+    {
+      "text": "upper boundary",
+      "type": "ENTITY",
+      "start": 1609,
+      "end": 1623
+    },
+    {
+      "text": "Microscopic",
+      "type": "ENTITY",
+      "start": 1626,
+      "end": 1637
+    },
+    {
+      "text": "description",
+      "type": "ENTITY",
+      "start": 1638,
+      "end": 1649
+    },
+    {
+      "text": "tumours",
+      "type": "ENTITY",
+      "start": 1656,
+      "end": 1663
+    },
+    {
+      "text": "Carcinoma",
+      "type": "ENTITY",
+      "start": 1665,
+      "end": 1674
+    },
+    {
+      "text": "ductale",
+      "type": "ENTITY",
+      "start": 1675,
+      "end": 1682
+    },
+    {
+      "text": "invasivum",
+      "type": "ENTITY",
+      "start": 1683,
+      "end": 1692
+    },
+    {
+      "text": "mitoses",
+      "type": "ENTITY",
+      "start": 1709,
+      "end": 1716
+    },
+    {
+      "text": "HPF",
+      "type": "ENTITY",
+      "start": 1721,
+      "end": 1724
+    },
+    {
+      "text": "visual area",
+      "type": "ENTITY",
+      "start": 1726,
+      "end": 1737
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 1738,
+      "end": 1746
+    },
+    {
+      "text": "foci",
+      "type": "ENTITY",
+      "start": 1761,
+      "end": 1765
+    },
+    {
+      "text": "carcinoma",
+      "type": "ENTITY",
+      "start": 1769,
+      "end": 1778
+    },
+    {
+      "text": "ductale",
+      "type": "ENTITY",
+      "start": 1779,
+      "end": 1786
+    },
+    {
+      "text": "in situ (Dcis)",
+      "type": "ENTITY",
+      "start": 1787,
+      "end": 1801
+    },
+    {
+      "text": "papillary type",
+      "type": "ENTITY",
+      "start": 1803,
+      "end": 1817
+    },
+    {
+      "text": "medium nuclear atypia",
+      "type": "ENTITY",
+      "start": 1824,
+      "end": 1845
+    },
+    {
+      "text": "comedo necrosis",
+      "type": "ENTITY",
+      "start": 1850,
+      "end": 1865
+    },
+    {
+      "text": "tumour",
+      "type": "ENTITY",
+      "start": 1880,
+      "end": 1886
+    },
+    {
+      "text": "In situ",
+      "type": "ENTITY",
+      "start": 1890,
+      "end": 1897
+    },
+    {
+      "text": "lesions",
+      "type": "ENTITY",
+      "start": 1898,
+      "end": 1905
+    },
+    {
+      "text": "type carcinoma intraductale mamillae",
+      "type": "ENTITY",
+      "start": 1913,
+      "end": 1949
+    },
+    {
+      "text": "Glandular tissue",
+      "type": "ENTITY",
+      "start": 1952,
+      "end": 1968
+    },
+    {
+      "text": "parenchymal atrophy",
+      "type": "ENTITY",
+      "start": 1977,
+      "end": 1996
+    },
+    {
+      "text": "AXILLARY LYMPH",
+      "type": "ENTITY",
+      "start": 1998,
+      "end": 2012
+    },
+    {
+      "text": "Metastases carcinomatosae",
+      "type": "ENTITY",
+      "start": 2019,
+      "end": 2044
+    },
+    {
+      "text": "lymphonodis",
+      "type": "ENTITY",
+      "start": 2048,
+      "end": 2059
+    },
+    {
+      "text": "UUID:99050E48-8DFE-4405",
+      "type": "ENTITY",
+      "start": 2072,
+      "end": 2095
+    },
+    {
+      "text": "Redacted\n\n--- Page 2 ---\npage 2",
+      "type": "ENTITY",
+      "start": 2134,
+      "end": 2165
+    },
+    {
+      "text": "Examination",
+      "type": "ENTITY",
+      "start": 2170,
+      "end": 2181
+    },
+    {
+      "text": "Histopathological examination Examination No.",
+      "type": "ENTITY",
+      "start": 2183,
+      "end": 2228
+    },
+    {
+      "text": "Patient",
+      "type": "ENTITY",
+      "start": 2230,
+      "end": 2237
+    },
+    {
+      "text": "PESEL",
+      "type": "ENTITY",
+      "start": 2243,
+      "end": 2248
+    },
+    {
+      "text": "XXX Gender",
+      "type": "ENTITY",
+      "start": 2250,
+      "end": 2260
+    },
+    {
+      "text": "Examination",
+      "type": "ENTITY",
+      "start": 2264,
+      "end": 2275
+    },
+    {
+      "text": "Infiltratio",
+      "type": "ENTITY",
+      "start": 2291,
+      "end": 2302
+    },
+    {
+      "text": "result",
+      "type": "ENTITY",
+      "start": 2327,
+      "end": 2333
+    },
+    {
+      "text": "Carcinoma",
+      "type": "ENTITY",
+      "start": 2335,
+      "end": 2344
+    },
+    {
+      "text": "ductale",
+      "type": "ENTITY",
+      "start": 2345,
+      "end": 2352
+    },
+    {
+      "text": "invasivum",
+      "type": "ENTITY",
+      "start": 2353,
+      "end": 2362
+    },
+    {
+      "text": "bifocale",
+      "type": "ENTITY",
+      "start": 2363,
+      "end": 2371
+    },
+    {
+      "text": "ductale",
+      "type": "ENTITY",
+      "start": 2375,
+      "end": 2382
+    },
+    {
+      "text": "in situ mammae dextrae",
+      "type": "ENTITY",
+      "start": 2383,
+      "end": 2405
+    },
+    {
+      "text": "Invasive",
+      "type": "ENTITY",
+      "start": 2407,
+      "end": 2415
+    },
+    {
+      "text": "bifocal ductal carcinoma",
+      "type": "ENTITY",
+      "start": 2416,
+      "end": 2440
+    },
+    {
+      "text": "ductal",
+      "type": "ENTITY",
+      "start": 2445,
+      "end": 2451
+    },
+    {
+      "text": "carcinoma",
+      "type": "ENTITY",
+      "start": 2453,
+      "end": 2462
+    },
+    {
+      "text": "in situ",
+      "type": "ENTITY",
+      "start": 2463,
+      "end": 2470
+    },
+    {
+      "text": "right breast",
+      "type": "ENTITY",
+      "start": 2478,
+      "end": 2490
+    },
+    {
+      "text": "Metastases carcinomatosae",
+      "type": "ENTITY",
+      "start": 2492,
+      "end": 2517
+    },
+    {
+      "text": "lymphonodis axillae",
+      "type": "ENTITY",
+      "start": 2521,
+      "end": 2540
+    },
+    {
+      "text": "Cancer metastases",
+      "type": "ENTITY",
+      "start": 2553,
+      "end": 2570
+    },
+    {
+      "text": "axillary",
+      "type": "ENTITY",
+      "start": 2574,
+      "end": 2582
+    },
+    {
+      "text": "Jymph nodes",
+      "type": "ENTITY",
+      "start": 2583,
+      "end": 2594
+    },
+    {
+      "text": "NHG3",
+      "type": "ENTITY",
+      "start": 2596,
+      "end": 2600
+    },
+    {
+      "text": "Compliance",
+      "type": "ENTITY",
+      "start": 2615,
+      "end": 2625
+    }
+  ],
+  "entity_count": 124,
+  "has_embedding": true
+}

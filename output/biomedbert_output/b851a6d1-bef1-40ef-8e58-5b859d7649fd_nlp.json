@@ -1,0 +1,2930 @@
+{
+  "filename": "b851a6d1-bef1-40ef-8e58-5b859d7649fd",
+  "timestamp": "2026-01-05T14:41:02.027876",
+  "entities": [
+    {
+      "text": "PATIENT AGE/SEX",
+      "type": "ENTITY",
+      "start": 23,
+      "end": 38
+    },
+    {
+      "text": "Collected",
+      "type": "ENTITY",
+      "start": 61,
+      "end": 70
+    },
+    {
+      "text": "UUID:70AAF737-589D-454E-B779-1BB44691E0D3",
+      "type": "ENTITY",
+      "start": 83,
+      "end": 124
+    },
+    {
+      "text": "TCGA-IQ-A61L-01A-PR",
+      "type": "ENTITY",
+      "start": 125,
+      "end": 144
+    },
+    {
+      "text": "Redacted SPECIMEN",
+      "type": "ENTITY",
+      "start": 145,
+      "end": 162
+    },
+    {
+      "text": "A. LYMPH",
+      "type": "ENTITY",
+      "start": 167,
+      "end": 175
+    },
+    {
+      "text": "NODE",
+      "type": "ENTITY",
+      "start": 176,
+      "end": 180
+    },
+    {
+      "text": "RIGHT",
+      "type": "ENTITY",
+      "start": 183,
+      "end": 188
+    },
+    {
+      "text": "NECK DISSECTION",
+      "type": "ENTITY",
+      "start": 189,
+      "end": 204
+    },
+    {
+      "text": "LEVEL",
+      "type": "ENTITY",
+      "start": 205,
+      "end": 210
+    },
+    {
+      "text": "LA",
+      "type": "ENTITY",
+      "start": 211,
+      "end": 213
+    },
+    {
+      "text": "NODE",
+      "type": "ENTITY",
+      "start": 233,
+      "end": 237
+    },
+    {
+      "text": "RIGHT",
+      "type": "ENTITY",
+      "start": 240,
+      "end": 245
+    },
+    {
+      "text": "NECK DISSECTION",
+      "type": "ENTITY",
+      "start": 246,
+      "end": 261
+    },
+    {
+      "text": "LEVEL 2B",
+      "type": "ENTITY",
+      "start": 262,
+      "end": 270
+    },
+    {
+      "text": "B. C. TONGUE",
+      "type": "ENTITY",
+      "start": 272,
+      "end": 284
+    },
+    {
+      "text": "COMPOSITE",
+      "type": "ENTITY",
+      "start": 287,
+      "end": 296
+    },
+    {
+      "text": "RESECTION PARTIAL",
+      "type": "ENTITY",
+      "start": 297,
+      "end": 314
+    },
+    {
+      "text": "GLOSSECTOMY",
+      "type": "ENTITY",
+      "start": 315,
+      "end": 326
+    },
+    {
+      "text": "TONSILECTOMY",
+      "type": "ENTITY",
+      "start": 331,
+      "end": 343
+    },
+    {
+      "text": "D. TONGUE",
+      "type": "ENTITY",
+      "start": 345,
+      "end": 354
+    },
+    {
+      "text": "ADDITIONAL",
+      "type": "ENTITY",
+      "start": 357,
+      "end": 367
+    },
+    {
+      "text": "DEEP",
+      "type": "ENTITY",
+      "start": 368,
+      "end": 372
+    },
+    {
+      "text": "E. TONGUE",
+      "type": "ENTITY",
+      "start": 402,
+      "end": 411
+    },
+    {
+      "text": "ADDITIONAL",
+      "type": "ENTITY",
+      "start": 414,
+      "end": 424
+    },
+    {
+      "text": "DEEP TONGUE",
+      "type": "ENTITY",
+      "start": 441,
+      "end": 452
+    },
+    {
+      "text": "FS",
+      "type": "ENTITY",
+      "start": 453,
+      "end": 455
+    },
+    {
+      "text": "MOUTH",
+      "type": "ENTITY",
+      "start": 469,
+      "end": 474
+    },
+    {
+      "text": "NOS",
+      "type": "ENTITY",
+      "start": 476,
+      "end": 479
+    },
+    {
+      "text": "RIGHT",
+      "type": "ENTITY",
+      "start": 482,
+      "end": 487
+    },
+    {
+      "text": "ANTERIOR",
+      "type": "ENTITY",
+      "start": 488,
+      "end": 496
+    },
+    {
+      "text": "FS",
+      "type": "ENTITY",
+      "start": 533,
+      "end": 535
+    },
+    {
+      "text": "G. TONGUE",
+      "type": "ENTITY",
+      "start": 537,
+      "end": 546
+    },
+    {
+      "text": "RIGHT",
+      "type": "ENTITY",
+      "start": 549,
+      "end": 554
+    },
+    {
+      "text": "FS",
+      "type": "ENTITY",
+      "start": 599,
+      "end": 601
+    },
+    {
+      "text": "H. TONGUE",
+      "type": "ENTITY",
+      "start": 603,
+      "end": 612
+    },
+    {
+      "text": "MIDDLE",
+      "type": "ENTITY",
+      "start": 615,
+      "end": 621
+    },
+    {
+      "text": "TONGUE",
+      "type": "ENTITY",
+      "start": 650,
+      "end": 656
+    },
+    {
+      "text": "ANTERIOR",
+      "type": "ENTITY",
+      "start": 659,
+      "end": 667
+    },
+    {
+      "text": "DEEP TONGUE",
+      "type": "ENTITY",
+      "start": 668,
+      "end": 679
+    },
+    {
+      "text": "TONGUE",
+      "type": "ENTITY",
+      "start": 694,
+      "end": 700
+    },
+    {
+      "text": "RIGHT",
+      "type": "ENTITY",
+      "start": 703,
+      "end": 708
+    },
+    {
+      "text": "MOUTH",
+      "type": "ENTITY",
+      "start": 756,
+      "end": 761
+    },
+    {
+      "text": "NOS",
+      "type": "ENTITY",
+      "start": 763,
+      "end": 766
+    },
+    {
+      "text": "POSTERIOR",
+      "type": "ENTITY",
+      "start": 769,
+      "end": 778
+    },
+    {
+      "text": "FLOOR",
+      "type": "ENTITY",
+      "start": 779,
+      "end": 784
+    },
+    {
+      "text": "MOUTH",
+      "type": "ENTITY",
+      "start": 788,
+      "end": 793
+    },
+    {
+      "text": "MUCOSA MARGIN",
+      "type": "ENTITY",
+      "start": 794,
+      "end": 807
+    },
+    {
+      "text": "FS",
+      "type": "ENTITY",
+      "start": 808,
+      "end": 810
+    },
+    {
+      "text": "L. TONGUE",
+      "type": "ENTITY",
+      "start": 812,
+      "end": 821
+    },
+    {
+      "text": "POSTERIOR",
+      "type": "ENTITY",
+      "start": 824,
+      "end": 833
+    },
+    {
+      "text": "DEEP TONGUE",
+      "type": "ENTITY",
+      "start": 834,
+      "end": 845
+    },
+    {
+      "text": "ADDITIONAL",
+      "type": "ENTITY",
+      "start": 868,
+      "end": 878
+    },
+    {
+      "text": "A. RIGHT",
+      "type": "ENTITY",
+      "start": 921,
+      "end": 929
+    },
+    {
+      "text": "LEVEL 1A",
+      "type": "ENTITY",
+      "start": 946,
+      "end": 954
+    },
+    {
+      "text": "1B",
+      "type": "ENTITY",
+      "start": 956,
+      "end": 958
+    },
+    {
+      "text": "2A",
+      "type": "ENTITY",
+      "start": 960,
+      "end": 962
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 977,
+      "end": 988
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 990,
+      "end": 998
+    },
+    {
+      "text": "carcinoma",
+      "type": "ENTITY",
+      "start": 1003,
+      "end": 1012
+    },
+    {
+      "text": "B. RIGHT",
+      "type": "ENTITY",
+      "start": 1021,
+      "end": 1029
+    },
+    {
+      "text": "Twelve",
+      "type": "ENTITY",
+      "start": 1056,
+      "end": 1062
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 1063,
+      "end": 1074
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 1076,
+      "end": 1084
+    },
+    {
+      "text": "carcinoma",
+      "type": "ENTITY",
+      "start": 1089,
+      "end": 1098
+    },
+    {
+      "text": "C. COMPOSITE",
+      "type": "ENTITY",
+      "start": 1107,
+      "end": 1119
+    },
+    {
+      "text": "GLOSSECTOMY",
+      "type": "ENTITY",
+      "start": 1138,
+      "end": 1149
+    },
+    {
+      "text": "INVAsIVE sQuAMOUs",
+      "type": "ENTITY",
+      "start": 1169,
+      "end": 1186
+    },
+    {
+      "text": "CELL cARcINOMA",
+      "type": "ENTITY",
+      "start": 1187,
+      "end": 1201
+    },
+    {
+      "text": "keratinizing",
+      "type": "ENTITY",
+      "start": 1203,
+      "end": 1215
+    },
+    {
+      "text": "right lateral tongue",
+      "type": "ENTITY",
+      "start": 1225,
+      "end": 1245
+    },
+    {
+      "text": "report",
+      "type": "ENTITY",
+      "start": 1267,
+      "end": 1273
+    },
+    {
+      "text": "mail",
+      "type": "ENTITY",
+      "start": 1328,
+      "end": 1332
+    },
+    {
+      "text": "IcD-o",
+      "type": "ENTITY",
+      "start": 1338,
+      "end": 1343
+    },
+    {
+      "text": "Sute",
+      "type": "ENTITY",
+      "start": 1354,
+      "end": 1358
+    },
+    {
+      "text": "Jengue",
+      "type": "ENTITY",
+      "start": 1359,
+      "end": 1365
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1456,
+      "end": 1461
+    },
+    {
+      "text": "depth",
+      "type": "ENTITY",
+      "start": 1475,
+      "end": 1480
+    },
+    {
+      "text": "Tumor",
+      "type": "ENTITY",
+      "start": 1482,
+      "end": 1487
+    },
+    {
+      "text": "focal necrosis",
+      "type": "ENTITY",
+      "start": 1492,
+      "end": 1506
+    },
+    {
+      "text": "abscess formation",
+      "type": "ENTITY",
+      "start": 1512,
+      "end": 1529
+    },
+    {
+      "text": "Inked margins",
+      "type": "ENTITY",
+      "start": 1532,
+      "end": 1545
+    },
+    {
+      "text": "focally positive for tumor",
+      "type": "ENTITY",
+      "start": 1550,
+      "end": 1576
+    },
+    {
+      "text": "posterior margin",
+      "type": "ENTITY",
+      "start": 1578,
+      "end": 1594
+    },
+    {
+      "text": "Medial margins",
+      "type": "ENTITY",
+      "start": 1602,
+      "end": 1616
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 1621,
+      "end": 1629
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1634,
+      "end": 1639
+    },
+    {
+      "text": "Negative",
+      "type": "ENTITY",
+      "start": 1642,
+      "end": 1650
+    },
+    {
+      "text": "lymphovascular invasion",
+      "type": "ENTITY",
+      "start": 1655,
+      "end": 1678
+    },
+    {
+      "text": "Negative",
+      "type": "ENTITY",
+      "start": 1680,
+      "end": 1688
+    },
+    {
+      "text": "perineural invasion",
+      "type": "ENTITY",
+      "start": 1693,
+      "end": 1712
+    },
+    {
+      "text": "AJCC",
+      "type": "ENTITY",
+      "start": 1714,
+      "end": 1718
+    },
+    {
+      "text": "pT2",
+      "type": "ENTITY",
+      "start": 1720,
+      "end": 1723
+    },
+    {
+      "text": "pNO",
+      "type": "ENTITY",
+      "start": 1725,
+      "end": 1728
+    },
+    {
+      "text": "posterior resection margin",
+      "type": "ENTITY",
+      "start": 1775,
+      "end": 1801
+    },
+    {
+      "text": "specimens",
+      "type": "ENTITY",
+      "start": 1813,
+      "end": 1822
+    },
+    {
+      "text": "D.  ADDITIONAL DEEP",
+      "type": "ENTITY",
+      "start": 1833,
+      "end": 1852
+    },
+    {
+      "text": "keratinizing",
+      "type": "ENTITY",
+      "start": 1917,
+      "end": 1929
+    },
+    {
+      "text": "fibroadipose tissue",
+      "type": "ENTITY",
+      "start": 1946,
+      "end": 1965
+    },
+    {
+      "text": "Inked margins negative",
+      "type": "ENTITY",
+      "start": 1967,
+      "end": 1989
+    },
+    {
+      "text": "carcinoma",
+      "type": "ENTITY",
+      "start": 1994,
+      "end": 2003
+    },
+    {
+      "text": "Lymphoid tissue",
+      "type": "ENTITY",
+      "start": 2005,
+      "end": 2020
+    },
+    {
+      "text": "squamous mucosa",
+      "type": "ENTITY",
+      "start": 2025,
+      "end": 2040
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 2042,
+      "end": 2050
+    },
+    {
+      "text": "carcinoma",
+      "type": "ENTITY",
+      "start": 2055,
+      "end": 2064
+    },
+    {
+      "text": "ADDITIONAL RIGHT",
+      "type": "ENTITY",
+      "start": 2066,
+      "end": 2082
+    },
+    {
+      "text": "S E.",
+      "type": "ENTITY",
+      "start": 2105,
+      "end": 2109
+    },
+    {
+      "text": "Skeletal muscle",
+      "type": "ENTITY",
+      "start": 2110,
+      "end": 2125
+    },
+    {
+      "text": "minor salivary gland",
+      "type": "ENTITY",
+      "start": 2130,
+      "end": 2150
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 2152,
+      "end": 2160
+    },
+    {
+      "text": "carcinoma",
+      "type": "ENTITY",
+      "start": 2165,
+      "end": 2174
+    },
+    {
+      "text": "F. RIGHT",
+      "type": "ENTITY",
+      "start": 2176,
+      "end": 2184
+    },
+    {
+      "text": "MOUTH",
+      "type": "ENTITY",
+      "start": 2203,
+      "end": 2208
+    },
+    {
+      "text": "Squamous mucosa",
+      "type": "ENTITY",
+      "start": 2210,
+      "end": 2225
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 2227,
+      "end": 2235
+    },
+    {
+      "text": "carcinoma",
+      "type": "ENTITY",
+      "start": 2240,
+      "end": 2249
+    },
+    {
+      "text": "report",
+      "type": "ENTITY",
+      "start": 2257,
+      "end": 2263
+    },
+    {
+      "text": "confidential",
+      "type": "ENTITY",
+      "start": 2279,
+      "end": 2291
+    },
+    {
+      "text": "exempt",
+      "type": "ENTITY",
+      "start": 2296,
+      "end": 2302
+    },
+    {
+      "text": "disclosure",
+      "type": "ENTITY",
+      "start": 2308,
+      "end": 2318
+    },
+    {
+      "text": "report",
+      "type": "ENTITY",
+      "start": 2361,
+      "end": 2367
+    },
+    {
+      "text": "mail",
+      "type": "ENTITY",
+      "start": 2426,
+      "end": 2430
+    },
+    {
+      "text": "G. RIGHT ANTERIOR",
+      "type": "ENTITY",
+      "start": 2502,
+      "end": 2519
+    },
+    {
+      "text": "Squamous mucosa",
+      "type": "ENTITY",
+      "start": 2535,
+      "end": 2550
+    },
+    {
+      "text": "skeletal muscle",
+      "type": "ENTITY",
+      "start": 2555,
+      "end": 2570
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 2572,
+      "end": 2580
+    },
+    {
+      "text": "carcinoma",
+      "type": "ENTITY",
+      "start": 2585,
+      "end": 2594
+    },
+    {
+      "text": "H.  MIDDLE DORSAL TONGUE",
+      "type": "ENTITY",
+      "start": 2596,
+      "end": 2620
+    },
+    {
+      "text": "Skeletal muscle",
+      "type": "ENTITY",
+      "start": 2629,
+      "end": 2644
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 2646,
+      "end": 2654
+    },
+    {
+      "text": "carcinoma",
+      "type": "ENTITY",
+      "start": 2659,
+      "end": 2668
+    },
+    {
+      "text": "DEEP TONGUE",
+      "type": "ENTITY",
+      "start": 2682,
+      "end": 2693
+    },
+    {
+      "text": "Skeletal muscle",
+      "type": "ENTITY",
+      "start": 2702,
+      "end": 2717
+    },
+    {
+      "text": "nerve",
+      "type": "ENTITY",
+      "start": 2722,
+      "end": 2727
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 2729,
+      "end": 2737
+    },
+    {
+      "text": "carcinoma",
+      "type": "ENTITY",
+      "start": 2742,
+      "end": 2751
+    },
+    {
+      "text": "Skeletal muscle",
+      "type": "ENTITY",
+      "start": 2794,
+      "end": 2809
+    },
+    {
+      "text": "fragment",
+      "type": "ENTITY",
+      "start": 2814,
+      "end": 2822
+    },
+    {
+      "text": "squamous mucosa",
+      "type": "ENTITY",
+      "start": 2826,
+      "end": 2841
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 2843,
+      "end": 2851
+    },
+    {
+      "text": "carcinoma",
+      "type": "ENTITY",
+      "start": 2856,
+      "end": 2865
+    },
+    {
+      "text": "K.  POSTERIOR FLOOR",
+      "type": "ENTITY",
+      "start": 2867,
+      "end": 2886
+    },
+    {
+      "text": "MOUTH",
+      "type": "ENTITY",
+      "start": 2890,
+      "end": 2895
+    },
+    {
+      "text": "Cauterized fragment",
+      "type": "ENTITY",
+      "start": 2911,
+      "end": 2930
+    },
+    {
+      "text": "fibroconnective tissue",
+      "type": "ENTITY",
+      "start": 2934,
+      "end": 2956
+    },
+    {
+      "text": "fragment",
+      "type": "ENTITY",
+      "start": 2961,
+      "end": 2969
+    },
+    {
+      "text": "squamous mucosa",
+      "type": "ENTITY",
+      "start": 2973,
+      "end": 2988
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 2990,
+      "end": 2998
+    },
+    {
+      "text": "carcinoma",
+      "type": "ENTITY",
+      "start": 3003,
+      "end": 3012
+    },
+    {
+      "text": "chronic inflammation",
+      "type": "ENTITY",
+      "start": 3022,
+      "end": 3042
+    },
+    {
+      "text": "L. POSTERIOR",
+      "type": "ENTITY",
+      "start": 3045,
+      "end": 3057
+    },
+    {
+      "text": "DEEP TONGUE",
+      "type": "ENTITY",
+      "start": 3058,
+      "end": 3069
+    },
+    {
+      "text": "S Skeletal muscle",
+      "type": "ENTITY",
+      "start": 3077,
+      "end": 3094
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 3096,
+      "end": 3104
+    },
+    {
+      "text": "carcinoma",
+      "type": "ENTITY",
+      "start": 3109,
+      "end": 3118
+    },
+    {
+      "text": "M. ADDITIONAL",
+      "type": "ENTITY",
+      "start": 3120,
+      "end": 3133
+    },
+    {
+      "text": "MOUTH",
+      "type": "ENTITY",
+      "start": 3153,
+      "end": 3158
+    },
+    {
+      "text": "Squamous mucosa",
+      "type": "ENTITY",
+      "start": 3160,
+      "end": 3175
+    },
+    {
+      "text": "keratosis",
+      "type": "ENTITY",
+      "start": 3188,
+      "end": 3197
+    },
+    {
+      "text": "chronic inflammation",
+      "type": "ENTITY",
+      "start": 3202,
+      "end": 3222
+    },
+    {
+      "text": "Skeletal muscle",
+      "type": "ENTITY",
+      "start": 3224,
+      "end": 3239
+    },
+    {
+      "text": "minor salivary gland",
+      "type": "ENTITY",
+      "start": 3244,
+      "end": 3264
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 3266,
+      "end": 3274
+    },
+    {
+      "text": "carcinoma",
+      "type": "ENTITY",
+      "start": 3279,
+      "end": 3288
+    },
+    {
+      "text": "report",
+      "type": "ENTITY",
+      "start": 3295,
+      "end": 3301
+    },
+    {
+      "text": "confidential",
+      "type": "ENTITY",
+      "start": 3317,
+      "end": 3329
+    },
+    {
+      "text": "exempt",
+      "type": "ENTITY",
+      "start": 3334,
+      "end": 3340
+    },
+    {
+      "text": "disclosure",
+      "type": "ENTITY",
+      "start": 3346,
+      "end": 3356
+    },
+    {
+      "text": "report",
+      "type": "ENTITY",
+      "start": 3399,
+      "end": 3405
+    },
+    {
+      "text": "mail",
+      "type": "ENTITY",
+      "start": 3460,
+      "end": 3464
+    },
+    {
+      "text": "Lateral border of tongue",
+      "type": "ENTITY",
+      "start": 3574,
+      "end": 3598
+    },
+    {
+      "text": "right",
+      "type": "ENTITY",
+      "start": 3600,
+      "end": 3605
+    },
+    {
+      "text": "Specimen",
+      "type": "ENTITY",
+      "start": 3607,
+      "end": 3615
+    },
+    {
+      "text": "Received",
+      "type": "ENTITY",
+      "start": 3617,
+      "end": 3625
+    },
+    {
+      "text": "formalin Procedure",
+      "type": "ENTITY",
+      "start": 3630,
+      "end": 3648
+    },
+    {
+      "text": "right hemiglossectomy",
+      "type": "ENTITY",
+      "start": 3675,
+      "end": 3696
+    },
+    {
+      "text": "Specimen Size",
+      "type": "ENTITY",
+      "start": 3725,
+      "end": 3738
+    },
+    {
+      "text": "dimension",
+      "type": "ENTITY",
+      "start": 3749,
+      "end": 3758
+    },
+    {
+      "text": "Specimen Laterality",
+      "type": "ENTITY",
+      "start": 3777,
+      "end": 3796
+    },
+    {
+      "text": "Right Tumor Site",
+      "type": "ENTITY",
+      "start": 3798,
+      "end": 3814
+    },
+    {
+      "text": "Tumor Size",
+      "type": "ENTITY",
+      "start": 3872,
+      "end": 3882
+    },
+    {
+      "text": "dimension",
+      "type": "ENTITY",
+      "start": 3893,
+      "end": 3902
+    },
+    {
+      "text": "dimensions",
+      "type": "ENTITY",
+      "start": 3922,
+      "end": 3932
+    },
+    {
+      "text": "Tumor Thickness",
+      "type": "ENTITY",
+      "start": 3947,
+      "end": 3962
+    },
+    {
+      "text": "Tumor Description",
+      "type": "ENTITY",
+      "start": 3970,
+      "end": 3987
+    },
+    {
+      "text": "Endophytic",
+      "type": "ENTITY",
+      "start": 3989,
+      "end": 3999
+    },
+    {
+      "text": "Ulcerated",
+      "type": "ENTITY",
+      "start": 4000,
+      "end": 4009
+    },
+    {
+      "text": "Histologic Type",
+      "type": "ENTITY",
+      "start": 4010,
+      "end": 4025
+    },
+    {
+      "text": "Squamous cell carcinoma",
+      "type": "ENTITY",
+      "start": 4027,
+      "end": 4050
+    },
+    {
+      "text": "conventional",
+      "type": "ENTITY",
+      "start": 4052,
+      "end": 4064
+    },
+    {
+      "text": "keratinizing",
+      "type": "ENTITY",
+      "start": 4066,
+      "end": 4078
+    },
+    {
+      "text": "Margins uninvolved",
+      "type": "ENTITY",
+      "start": 4130,
+      "end": 4148
+    },
+    {
+      "text": "invasive carcinoma",
+      "type": "ENTITY",
+      "start": 4152,
+      "end": 4170
+    },
+    {
+      "text": "resection specimen",
+      "type": "ENTITY",
+      "start": 4172,
+      "end": 4190
+    },
+    {
+      "text": "Distance",
+      "type": "ENTITY",
+      "start": 4197,
+      "end": 4205
+    },
+    {
+      "text": "margin",
+      "type": "ENTITY",
+      "start": 4219,
+      "end": 4225
+    },
+    {
+      "text": "Specify margin",
+      "type": "ENTITY",
+      "start": 4232,
+      "end": 4246
+    },
+    {
+      "text": "Medial Margins",
+      "type": "ENTITY",
+      "start": 4248,
+      "end": 4262
+    },
+    {
+      "text": "invasive carcinoma",
+      "type": "ENTITY",
+      "start": 4275,
+      "end": 4293
+    },
+    {
+      "text": "Specify margin",
+      "type": "ENTITY",
+      "start": 4294,
+      "end": 4308
+    },
+    {
+      "text": "Posterior",
+      "type": "ENTITY",
+      "start": 4310,
+      "end": 4319
+    },
+    {
+      "text": "resection specimen",
+      "type": "ENTITY",
+      "start": 4321,
+      "end": 4339
+    },
+    {
+      "text": "Treatment Effect",
+      "type": "ENTITY",
+      "start": 4346,
+      "end": 4362
+    },
+    {
+      "text": "Indeterminate",
+      "type": "ENTITY",
+      "start": 4364,
+      "end": 4377
+    },
+    {
+      "text": "Lymph-Vascular Invasion",
+      "type": "ENTITY",
+      "start": 4378,
+      "end": 4401
+    },
+    {
+      "text": "Perineural Invasion",
+      "type": "ENTITY",
+      "start": 4418,
+      "end": 4437
+    },
+    {
+      "text": "Pathologic Staging",
+      "type": "ENTITY",
+      "start": 4454,
+      "end": 4472
+    },
+    {
+      "text": "pTNM",
+      "type": "ENTITY",
+      "start": 4474,
+      "end": 4478
+    },
+    {
+      "text": "Primary Tumor",
+      "type": "ENTITY",
+      "start": 4481,
+      "end": 4494
+    },
+    {
+      "text": "pT2",
+      "type": "ENTITY",
+      "start": 4501,
+      "end": 4504
+    },
+    {
+      "text": "Tumor",
+      "type": "ENTITY",
+      "start": 4506,
+      "end": 4511
+    },
+    {
+      "text": "dimension",
+      "type": "ENTITY",
+      "start": 4562,
+      "end": 4571
+    },
+    {
+      "text": "Lymph Nodes",
+      "type": "ENTITY",
+      "start": 4581,
+      "end": 4592
+    },
+    {
+      "text": "pN",
+      "type": "ENTITY",
+      "start": 4594,
+      "end": 4596
+    },
+    {
+      "text": "pNO",
+      "type": "ENTITY",
+      "start": 4599,
+      "end": 4602
+    },
+    {
+      "text": "Lymph Nodes",
+      "type": "ENTITY",
+      "start": 4648,
+      "end": 4659
+    },
+    {
+      "text": "Number",
+      "type": "ENTITY",
+      "start": 4673,
+      "end": 4679
+    },
+    {
+      "text": "Lymph Nodes",
+      "type": "ENTITY",
+      "start": 4683,
+      "end": 4694
+    },
+    {
+      "text": "report",
+      "type": "ENTITY",
+      "start": 4713,
+      "end": 4719
+    },
+    {
+      "text": "confidential",
+      "type": "ENTITY",
+      "start": 4735,
+      "end": 4747
+    },
+    {
+      "text": "exempt",
+      "type": "ENTITY",
+      "start": 4752,
+      "end": 4758
+    },
+    {
+      "text": "disclosure",
+      "type": "ENTITY",
+      "start": 4764,
+      "end": 4774
+    },
+    {
+      "text": "mail",
+      "type": "ENTITY",
+      "start": 4828,
+      "end": 4832
+    },
+    {
+      "text": "Pathologic",
+      "type": "ENTITY",
+      "start": 4955,
+      "end": 4965
+    },
+    {
+      "text": "Findings",
+      "type": "ENTITY",
+      "start": 4966,
+      "end": 4974
+    },
+    {
+      "text": "Inflammation",
+      "type": "ENTITY",
+      "start": 4976,
+      "end": 4988
+    },
+    {
+      "text": "Peritumoral lymphocytic infiltrate",
+      "type": "ENTITY",
+      "start": 4990,
+      "end": 5024
+    },
+    {
+      "text": "DX",
+      "type": "ENTITY",
+      "start": 5051,
+      "end": 5053
+    },
+    {
+      "text": "Procedure",
+      "type": "ENTITY",
+      "start": 5068,
+      "end": 5077
+    },
+    {
+      "text": "Right hemiglossectomy",
+      "type": "ENTITY",
+      "start": 5079,
+      "end": 5100
+    },
+    {
+      "text": "right neck dissection",
+      "type": "ENTITY",
+      "start": 5102,
+      "end": 5123
+    },
+    {
+      "text": "tracheotomy",
+      "type": "ENTITY",
+      "start": 5125,
+      "end": 5136
+    },
+    {
+      "text": "direct",
+      "type": "ENTITY",
+      "start": 5141,
+      "end": 5147
+    },
+    {
+      "text": "laryngoscopy",
+      "type": "ENTITY",
+      "start": 5149,
+      "end": 5161
+    },
+    {
+      "text": "GROSS DESCRIPTION",
+      "type": "ENTITY",
+      "start": 5198,
+      "end": 5215
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 5232,
+      "end": 5240
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 5245,
+      "end": 5252
+    },
+    {
+      "text": "levels IA",
+      "type": "ENTITY",
+      "start": 5277,
+      "end": 5286
+    },
+    {
+      "text": "IB",
+      "type": "ENTITY",
+      "start": 5288,
+      "end": 5290
+    },
+    {
+      "text": "IIA",
+      "type": "ENTITY",
+      "start": 5292,
+      "end": 5295
+    },
+    {
+      "text": "IIl",
+      "type": "ENTITY",
+      "start": 5297,
+      "end": 5300
+    },
+    {
+      "text": "unoriented",
+      "type": "ENTITY",
+      "start": 5315,
+      "end": 5325
+    },
+    {
+      "text": "tan-brown",
+      "type": "ENTITY",
+      "start": 5327,
+      "end": 5336
+    },
+    {
+      "text": "fibrofatty tissue fragment",
+      "type": "ENTITY",
+      "start": 5338,
+      "end": 5364
+    },
+    {
+      "text": "lobulated gland",
+      "type": "ENTITY",
+      "start": 5393,
+      "end": 5408
+    },
+    {
+      "text": "lesions",
+      "type": "ENTITY",
+      "start": 5424,
+      "end": 5431
+    },
+    {
+      "text": "Representative sections",
+      "type": "ENTITY",
+      "start": 5456,
+      "end": 5479
+    },
+    {
+      "text": "Cassette",
+      "type": "ENTITY",
+      "start": 5506,
+      "end": 5514
+    },
+    {
+      "text": "Representative sections",
+      "type": "ENTITY",
+      "start": 5519,
+      "end": 5542
+    },
+    {
+      "text": "salivary gland",
+      "type": "ENTITY",
+      "start": 5550,
+      "end": 5564
+    },
+    {
+      "text": "Cassette",
+      "type": "ENTITY",
+      "start": 5566,
+      "end": 5574
+    },
+    {
+      "text": "lymph nodes Cassette",
+      "type": "ENTITY",
+      "start": 5593,
+      "end": 5613
+    },
+    {
+      "text": "lymph nodes Cassette",
+      "type": "ENTITY",
+      "start": 5632,
+      "end": 5652
+    },
+    {
+      "text": "lymph nodes Cassette",
+      "type": "ENTITY",
+      "start": 5671,
+      "end": 5691
+    },
+    {
+      "text": "lymph nodes Cassette",
+      "type": "ENTITY",
+      "start": 5711,
+      "end": 5731
+    },
+    {
+      "text": "lymph nodes Cassette",
+      "type": "ENTITY",
+      "start": 5750,
+      "end": 5770
+    },
+    {
+      "text": "lymph nodes Cassette",
+      "type": "ENTITY",
+      "start": 5790,
+      "end": 5810
+    },
+    {
+      "text": "lymph nodes B",
+      "type": "ENTITY",
+      "start": 5829,
+      "end": 5842
+    },
+    {
+      "text": "Received",
+      "type": "ENTITY",
+      "start": 5843,
+      "end": 5851
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 5855,
+      "end": 5863
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 5868,
+      "end": 5875
+    },
+    {
+      "text": "level",
+      "type": "ENTITY",
+      "start": 5900,
+      "end": 5905
+    },
+    {
+      "text": "tan-brown",
+      "type": "ENTITY",
+      "start": 5916,
+      "end": 5925
+    },
+    {
+      "text": "fibrofatty",
+      "type": "ENTITY",
+      "start": 5927,
+      "end": 5937
+    },
+    {
+      "text": "tissue fragment",
+      "type": "ENTITY",
+      "start": 5938,
+      "end": 5953
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 5979,
+      "end": 5987
+    },
+    {
+      "text": "unoriented",
+      "type": "ENTITY",
+      "start": 5991,
+      "end": 6001
+    },
+    {
+      "text": "lymph node measures",
+      "type": "ENTITY",
+      "start": 6015,
+      "end": 6034
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 6059,
+      "end": 6067
+    },
+    {
+      "text": "Cassette",
+      "type": "ENTITY",
+      "start": 6094,
+      "end": 6102
+    },
+    {
+      "text": "Largest",
+      "type": "ENTITY",
+      "start": 6107,
+      "end": 6114
+    },
+    {
+      "text": "lymph node",
+      "type": "ENTITY",
+      "start": 6115,
+      "end": 6125
+    },
+    {
+      "text": "bisected",
+      "type": "ENTITY",
+      "start": 6126,
+      "end": 6134
+    },
+    {
+      "text": "toto",
+      "type": "ENTITY",
+      "start": 6138,
+      "end": 6142
+    },
+    {
+      "text": "Cassette",
+      "type": "ENTITY",
+      "start": 6144,
+      "end": 6152
+    },
+    {
+      "text": "lymph nodes Cassette",
+      "type": "ENTITY",
+      "start": 6172,
+      "end": 6192
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 6212,
+      "end": 6223
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 6239,
+      "end": 6247
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 6252,
+      "end": 6259
+    },
+    {
+      "text": "Composite",
+      "type": "ENTITY",
+      "start": 6261,
+      "end": 6270
+    },
+    {
+      "text": "resection",
+      "type": "ENTITY",
+      "start": 6271,
+      "end": 6280
+    },
+    {
+      "text": "partial glossectomy",
+      "type": "ENTITY",
+      "start": 6284,
+      "end": 6303
+    },
+    {
+      "text": "report",
+      "type": "ENTITY",
+      "start": 6310,
+      "end": 6316
+    },
+    {
+      "text": "confidential",
+      "type": "ENTITY",
+      "start": 6332,
+      "end": 6344
+    },
+    {
+      "text": "exempt",
+      "type": "ENTITY",
+      "start": 6349,
+      "end": 6355
+    },
+    {
+      "text": "disclosure",
+      "type": "ENTITY",
+      "start": 6361,
+      "end": 6371
+    },
+    {
+      "text": "mail",
+      "type": "ENTITY",
+      "start": 6422,
+      "end": 6426
+    },
+    {
+      "text": "tonsillectomy",
+      "type": "ENTITY",
+      "start": 6498,
+      "end": 6511
+    },
+    {
+      "text": "stitch",
+      "type": "ENTITY",
+      "start": 6513,
+      "end": 6519
+    },
+    {
+      "text": "tongue base",
+      "type": "ENTITY",
+      "start": 6524,
+      "end": 6535
+    },
+    {
+      "text": "right hemiglossectomy",
+      "type": "ENTITY",
+      "start": 6542,
+      "end": 6563
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 6564,
+      "end": 6572
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 6598,
+      "end": 6606
+    },
+    {
+      "text": "stitch",
+      "type": "ENTITY",
+      "start": 6628,
+      "end": 6634
+    },
+    {
+      "text": "tongue base",
+      "type": "ENTITY",
+      "start": 6638,
+      "end": 6649
+    },
+    {
+      "text": "tonsil",
+      "type": "ENTITY",
+      "start": 6678,
+      "end": 6684
+    },
+    {
+      "text": "white",
+      "type": "ENTITY",
+      "start": 6731,
+      "end": 6736
+    },
+    {
+      "text": "nodular lesion",
+      "type": "ENTITY",
+      "start": 6743,
+      "end": 6757
+    },
+    {
+      "text": "lateral",
+      "type": "ENTITY",
+      "start": 6765,
+      "end": 6772
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 6787,
+      "end": 6795
+    },
+    {
+      "text": "block",
+      "type": "ENTITY",
+      "start": 6818,
+      "end": 6823
+    },
+    {
+      "text": "tissue",
+      "type": "ENTITY",
+      "start": 6827,
+      "end": 6833
+    },
+    {
+      "text": "Tumor Bank",
+      "type": "ENTITY",
+      "start": 6876,
+      "end": 6886
+    },
+    {
+      "text": "tan-white",
+      "type": "ENTITY",
+      "start": 6898,
+      "end": 6907
+    },
+    {
+      "text": "lesion",
+      "type": "ENTITY",
+      "start": 6908,
+      "end": 6914
+    },
+    {
+      "text": "irregular",
+      "type": "ENTITY",
+      "start": 6919,
+      "end": 6928
+    },
+    {
+      "text": "borders",
+      "type": "ENTITY",
+      "start": 6929,
+      "end": 6936
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 6942,
+      "end": 6950
+    },
+    {
+      "text": "anterior",
+      "type": "ENTITY",
+      "start": 6978,
+      "end": 6986
+    },
+    {
+      "text": "medial margin inked red",
+      "type": "ENTITY",
+      "start": 7008,
+      "end": 7031
+    },
+    {
+      "text": "posterior margin inked black",
+      "type": "ENTITY",
+      "start": 7033,
+      "end": 7061
+    },
+    {
+      "text": "tumoral surface",
+      "type": "ENTITY",
+      "start": 7063,
+      "end": 7078
+    },
+    {
+      "text": "lateral side inked orange",
+      "type": "ENTITY",
+      "start": 7087,
+      "end": 7112
+    },
+    {
+      "text": "inferior margin inked green",
+      "type": "ENTITY",
+      "start": 7114,
+      "end": 7141
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 7147,
+      "end": 7152
+    },
+    {
+      "text": "inked anterior",
+      "type": "ENTITY",
+      "start": 7172,
+      "end": 7186
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 7199,
+      "end": 7207
+    },
+    {
+      "text": "medial margin",
+      "type": "ENTITY",
+      "start": 7233,
+      "end": 7246
+    },
+    {
+      "text": "inferior margin",
+      "type": "ENTITY",
+      "start": 7272,
+      "end": 7287
+    },
+    {
+      "text": "depth",
+      "type": "ENTITY",
+      "start": 7310,
+      "end": 7315
+    },
+    {
+      "text": "Representative sections",
+      "type": "ENTITY",
+      "start": 7317,
+      "end": 7340
+    },
+    {
+      "text": "Cassette",
+      "type": "ENTITY",
+      "start": 7367,
+      "end": 7375
+    },
+    {
+      "text": "Perpendicular",
+      "type": "ENTITY",
+      "start": 7380,
+      "end": 7393
+    },
+    {
+      "text": "anterior",
+      "type": "ENTITY",
+      "start": 7417,
+      "end": 7425
+    },
+    {
+      "text": "margin",
+      "type": "ENTITY",
+      "start": 7426,
+      "end": 7432
+    },
+    {
+      "text": "tumor Cassettes",
+      "type": "ENTITY",
+      "start": 7438,
+      "end": 7453
+    },
+    {
+      "text": "composite",
+      "type": "ENTITY",
+      "start": 7465,
+      "end": 7474
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 7486,
+      "end": 7491
+    },
+    {
+      "text": "relationship",
+      "type": "ENTITY",
+      "start": 7500,
+      "end": 7512
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 7521,
+      "end": 7526
+    },
+    {
+      "text": "medial margin",
+      "type": "ENTITY",
+      "start": 7536,
+      "end": 7549
+    },
+    {
+      "text": "inferior margin",
+      "type": "ENTITY",
+      "start": 7554,
+      "end": 7569
+    },
+    {
+      "text": "Cassette",
+      "type": "ENTITY",
+      "start": 7571,
+      "end": 7579
+    },
+    {
+      "text": "Perpendicular",
+      "type": "ENTITY",
+      "start": 7584,
+      "end": 7597
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 7609,
+      "end": 7614
+    },
+    {
+      "text": "inferior margin",
+      "type": "ENTITY",
+      "start": 7630,
+      "end": 7645
+    },
+    {
+      "text": "deep margin Cassette",
+      "type": "ENTITY",
+      "start": 7651,
+      "end": 7671
+    },
+    {
+      "text": "Representative section",
+      "type": "ENTITY",
+      "start": 7676,
+      "end": 7698
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 7702,
+      "end": 7707
+    },
+    {
+      "text": "Tumor",
+      "type": "ENTITY",
+      "start": 7759,
+      "end": 7764
+    },
+    {
+      "text": "tonsil Cassette",
+      "type": "ENTITY",
+      "start": 7780,
+      "end": 7795
+    },
+    {
+      "text": "Representative section",
+      "type": "ENTITY",
+      "start": 7800,
+      "end": 7822
+    },
+    {
+      "text": "tumor Cassette",
+      "type": "ENTITY",
+      "start": 7826,
+      "end": 7840
+    },
+    {
+      "text": "Representative section",
+      "type": "ENTITY",
+      "start": 7845,
+      "end": 7867
+    },
+    {
+      "text": "tonsil",
+      "type": "ENTITY",
+      "start": 7871,
+      "end": 7877
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 7920,
+      "end": 7928
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 7953,
+      "end": 7961
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 7966,
+      "end": 7973
+    },
+    {
+      "text": "deep posterior tongue",
+      "type": "ENTITY",
+      "start": 7986,
+      "end": 8007
+    },
+    {
+      "text": "right side",
+      "type": "ENTITY",
+      "start": 8009,
+      "end": 8019
+    },
+    {
+      "text": "tan-brown",
+      "type": "ENTITY",
+      "start": 8046,
+      "end": 8055
+    },
+    {
+      "text": "tissue fragment",
+      "type": "ENTITY",
+      "start": 8062,
+      "end": 8077
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 8083,
+      "end": 8091
+    },
+    {
+      "text": "unoriented",
+      "type": "ENTITY",
+      "start": 8095,
+      "end": 8105
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 8111,
+      "end": 8119
+    },
+    {
+      "text": "toto",
+      "type": "ENTITY",
+      "start": 8158,
+      "end": 8162
+    },
+    {
+      "text": "cassettes",
+      "type": "ENTITY",
+      "start": 8172,
+      "end": 8181
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 8193,
+      "end": 8198
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 8203,
+      "end": 8210
+    },
+    {
+      "text": "deep tongue",
+      "type": "ENTITY",
+      "start": 8239,
+      "end": 8250
+    },
+    {
+      "text": "tan-brown",
+      "type": "ENTITY",
+      "start": 8280,
+      "end": 8289
+    },
+    {
+      "text": "soft tissue fragment",
+      "type": "ENTITY",
+      "start": 8290,
+      "end": 8310
+    },
+    {
+      "text": "toto",
+      "type": "ENTITY",
+      "start": 8325,
+      "end": 8329
+    },
+    {
+      "text": "cassette",
+      "type": "ENTITY",
+      "start": 8337,
+      "end": 8345
+    },
+    {
+      "text": "frozen section",
+      "type": "ENTITY",
+      "start": 8350,
+      "end": 8364
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 8378,
+      "end": 8383
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 8388,
+      "end": 8395
+    },
+    {
+      "text": "sRight anterior",
+      "type": "ENTITY",
+      "start": 8396,
+      "end": 8411
+    },
+    {
+      "text": "mouth",
+      "type": "ENTITY",
+      "start": 8421,
+      "end": 8426
+    },
+    {
+      "text": "margin",
+      "type": "ENTITY",
+      "start": 8427,
+      "end": 8433
+    },
+    {
+      "text": "tan-white soft tissue fragment",
+      "type": "ENTITY",
+      "start": 8460,
+      "end": 8490
+    },
+    {
+      "text": "toto",
+      "type": "ENTITY",
+      "start": 8505,
+      "end": 8509
+    },
+    {
+      "text": "cassette",
+      "type": "ENTITY",
+      "start": 8517,
+      "end": 8525
+    },
+    {
+      "text": "frozen section",
+      "type": "ENTITY",
+      "start": 8530,
+      "end": 8544
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 8558,
+      "end": 8563
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 8568,
+      "end": 8575
+    },
+    {
+      "text": "Right anterior",
+      "type": "ENTITY",
+      "start": 8577,
+      "end": 8591
+    },
+    {
+      "text": "dorsal tongue margin",
+      "type": "ENTITY",
+      "start": 8592,
+      "end": 8612
+    },
+    {
+      "text": "tan-white soft tissue fragment",
+      "type": "ENTITY",
+      "start": 8639,
+      "end": 8669
+    },
+    {
+      "text": "toto",
+      "type": "ENTITY",
+      "start": 8684,
+      "end": 8688
+    },
+    {
+      "text": "cassette",
+      "type": "ENTITY",
+      "start": 8696,
+      "end": 8704
+    },
+    {
+      "text": "frozen",
+      "type": "ENTITY",
+      "start": 8709,
+      "end": 8715
+    },
+    {
+      "text": "section",
+      "type": "ENTITY",
+      "start": 8717,
+      "end": 8724
+    },
+    {
+      "text": "report",
+      "type": "ENTITY",
+      "start": 8731,
+      "end": 8737
+    },
+    {
+      "text": "confidential",
+      "type": "ENTITY",
+      "start": 8753,
+      "end": 8765
+    },
+    {
+      "text": "exempt",
+      "type": "ENTITY",
+      "start": 8770,
+      "end": 8776
+    },
+    {
+      "text": "disclosure",
+      "type": "ENTITY",
+      "start": 8782,
+      "end": 8792
+    },
+    {
+      "text": "report",
+      "type": "ENTITY",
+      "start": 8839,
+      "end": 8845
+    },
+    {
+      "text": "mail",
+      "type": "ENTITY",
+      "start": 8901,
+      "end": 8905
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 8982,
+      "end": 8987
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 8992,
+      "end": 8999
+    },
+    {
+      "text": "Middle dorsal tongue margin",
+      "type": "ENTITY",
+      "start": 9001,
+      "end": 9028
+    },
+    {
+      "text": "H. tan-white",
+      "type": "ENTITY",
+      "start": 9055,
+      "end": 9067
+    },
+    {
+      "text": "soft tissue fragment",
+      "type": "ENTITY",
+      "start": 9068,
+      "end": 9088
+    },
+    {
+      "text": "toto",
+      "type": "ENTITY",
+      "start": 9103,
+      "end": 9107
+    },
+    {
+      "text": "cassette",
+      "type": "ENTITY",
+      "start": 9115,
+      "end": 9123
+    },
+    {
+      "text": "frozen section",
+      "type": "ENTITY",
+      "start": 9128,
+      "end": 9142
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 9156,
+      "end": 9161
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 9166,
+      "end": 9173
+    },
+    {
+      "text": "deep tongue margin",
+      "type": "ENTITY",
+      "start": 9184,
+      "end": 9202
+    },
+    {
+      "text": "tan-brown",
+      "type": "ENTITY",
+      "start": 9230,
+      "end": 9239
+    },
+    {
+      "text": "soft tissue fragment",
+      "type": "ENTITY",
+      "start": 9240,
+      "end": 9260
+    },
+    {
+      "text": "toto",
+      "type": "ENTITY",
+      "start": 9275,
+      "end": 9279
+    },
+    {
+      "text": "cassette",
+      "type": "ENTITY",
+      "start": 9287,
+      "end": 9295
+    },
+    {
+      "text": "frozen section",
+      "type": "ENTITY",
+      "start": 9300,
+      "end": 9314
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 9328,
+      "end": 9333
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 9338,
+      "end": 9345
+    },
+    {
+      "text": "Right posterior dorsal tongue margin",
+      "type": "ENTITY",
+      "start": 9347,
+      "end": 9383
+    },
+    {
+      "text": "tan-brown",
+      "type": "ENTITY",
+      "start": 9410,
+      "end": 9419
+    },
+    {
+      "text": "soft tissue fragment",
+      "type": "ENTITY",
+      "start": 9420,
+      "end": 9440
+    },
+    {
+      "text": "toto",
+      "type": "ENTITY",
+      "start": 9455,
+      "end": 9459
+    },
+    {
+      "text": "cassette",
+      "type": "ENTITY",
+      "start": 9467,
+      "end": 9475
+    },
+    {
+      "text": "frozen section",
+      "type": "ENTITY",
+      "start": 9480,
+      "end": 9494
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 9508,
+      "end": 9513
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 9518,
+      "end": 9525
+    },
+    {
+      "text": "Posterior",
+      "type": "ENTITY",
+      "start": 9527,
+      "end": 9536
+    },
+    {
+      "text": "mouth",
+      "type": "ENTITY",
+      "start": 9546,
+      "end": 9551
+    },
+    {
+      "text": "multiple",
+      "type": "ENTITY",
+      "start": 9571,
+      "end": 9579
+    },
+    {
+      "text": "tan-white",
+      "type": "ENTITY",
+      "start": 9581,
+      "end": 9590
+    },
+    {
+      "text": "soft tissue",
+      "type": "ENTITY",
+      "start": 9591,
+      "end": 9602
+    },
+    {
+      "text": "fragments",
+      "type": "ENTITY",
+      "start": 9603,
+      "end": 9612
+    },
+    {
+      "text": "toto",
+      "type": "ENTITY",
+      "start": 9648,
+      "end": 9652
+    },
+    {
+      "text": "cassette",
+      "type": "ENTITY",
+      "start": 9661,
+      "end": 9669
+    },
+    {
+      "text": "frozen section",
+      "type": "ENTITY",
+      "start": 9674,
+      "end": 9688
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 9702,
+      "end": 9707
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 9712,
+      "end": 9719
+    },
+    {
+      "text": "deep tongue margin",
+      "type": "ENTITY",
+      "start": 9731,
+      "end": 9749
+    },
+    {
+      "text": "tan-brown",
+      "type": "ENTITY",
+      "start": 9777,
+      "end": 9786
+    },
+    {
+      "text": "soft tissue fragment",
+      "type": "ENTITY",
+      "start": 9787,
+      "end": 9807
+    },
+    {
+      "text": "toto",
+      "type": "ENTITY",
+      "start": 9822,
+      "end": 9826
+    },
+    {
+      "text": "cassette",
+      "type": "ENTITY",
+      "start": 9834,
+      "end": 9842
+    },
+    {
+      "text": "frozen section",
+      "type": "ENTITY",
+      "start": 9847,
+      "end": 9861
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 9878,
+      "end": 9886
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 9891,
+      "end": 9898
+    },
+    {
+      "text": "posterior",
+      "type": "ENTITY",
+      "start": 9911,
+      "end": 9920
+    },
+    {
+      "text": "mouth",
+      "type": "ENTITY",
+      "start": 9930,
+      "end": 9935
+    },
+    {
+      "text": "O.l",
+      "type": "ENTITY",
+      "start": 9954,
+      "end": 9957
+    },
+    {
+      "text": "tan-pink soft tissue fragment",
+      "type": "ENTITY",
+      "start": 9962,
+      "end": 9991
+    },
+    {
+      "text": "toto",
+      "type": "ENTITY",
+      "start": 10006,
+      "end": 10010
+    },
+    {
+      "text": "cassette",
+      "type": "ENTITY",
+      "start": 10018,
+      "end": 10026
+    },
+    {
+      "text": "EFs",
+      "type": "ENTITY",
+      "start": 10060,
+      "end": 10063
+    },
+    {
+      "text": "right posterior deep tongue",
+      "type": "ENTITY",
+      "start": 10076,
+      "end": 10103
+    },
+    {
+      "text": "Negative",
+      "type": "ENTITY",
+      "start": 10105,
+      "end": 10113
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 10118,
+      "end": 10123
+    },
+    {
+      "text": "FFs",
+      "type": "ENTITY",
+      "start": 10125,
+      "end": 10128
+    },
+    {
+      "text": "Right anterior",
+      "type": "ENTITY",
+      "start": 10130,
+      "end": 10144
+    },
+    {
+      "text": "mouth",
+      "type": "ENTITY",
+      "start": 10154,
+      "end": 10159
+    },
+    {
+      "text": "Negative",
+      "type": "ENTITY",
+      "start": 10161,
+      "end": 10169
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 10174,
+      "end": 10179
+    },
+    {
+      "text": "GFs",
+      "type": "ENTITY",
+      "start": 10181,
+      "end": 10184
+    },
+    {
+      "text": "Right anterior",
+      "type": "ENTITY",
+      "start": 10186,
+      "end": 10200
+    },
+    {
+      "text": "dorsal tongue",
+      "type": "ENTITY",
+      "start": 10201,
+      "end": 10214
+    },
+    {
+      "text": "Negative",
+      "type": "ENTITY",
+      "start": 10216,
+      "end": 10224
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 10229,
+      "end": 10234
+    },
+    {
+      "text": "HFs",
+      "type": "ENTITY",
+      "start": 10237,
+      "end": 10240
+    },
+    {
+      "text": "Middle distal tongue margin",
+      "type": "ENTITY",
+      "start": 10242,
+      "end": 10269
+    },
+    {
+      "text": "Negative",
+      "type": "ENTITY",
+      "start": 10271,
+      "end": 10279
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 10284,
+      "end": 10289
+    },
+    {
+      "text": "IFs",
+      "type": "ENTITY",
+      "start": 10292,
+      "end": 10295
+    },
+    {
+      "text": "Anterior",
+      "type": "ENTITY",
+      "start": 10297,
+      "end": 10305
+    },
+    {
+      "text": "deep tongue margin",
+      "type": "ENTITY",
+      "start": 10306,
+      "end": 10324
+    },
+    {
+      "text": "Negative",
+      "type": "ENTITY",
+      "start": 10326,
+      "end": 10334
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 10339,
+      "end": 10344
+    },
+    {
+      "text": "JFs",
+      "type": "ENTITY",
+      "start": 10347,
+      "end": 10350
+    },
+    {
+      "text": "Right posterior dorsal tongue margin",
+      "type": "ENTITY",
+      "start": 10352,
+      "end": 10388
+    },
+    {
+      "text": "Negative",
+      "type": "ENTITY",
+      "start": 10390,
+      "end": 10398
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 10403,
+      "end": 10408
+    },
+    {
+      "text": "KFs",
+      "type": "ENTITY",
+      "start": 10411,
+      "end": 10414
+    },
+    {
+      "text": "Posterior",
+      "type": "ENTITY",
+      "start": 10416,
+      "end": 10425
+    },
+    {
+      "text": "mouth",
+      "type": "ENTITY",
+      "start": 10435,
+      "end": 10440
+    },
+    {
+      "text": "Keratosis",
+      "type": "ENTITY",
+      "start": 10456,
+      "end": 10465
+    },
+    {
+      "text": "mild dysplasia",
+      "type": "ENTITY",
+      "start": 10470,
+      "end": 10484
+    },
+    {
+      "text": "Negative",
+      "type": "ENTITY",
+      "start": 10486,
+      "end": 10494
+    },
+    {
+      "text": "carcinoma",
+      "type": "ENTITY",
+      "start": 10499,
+      "end": 10508
+    },
+    {
+      "text": "mail",
+      "type": "ENTITY",
+      "start": 10542,
+      "end": 10546
+    },
+    {
+      "text": "FS-CYT",
+      "type": "ENTITY",
+      "start": 10607,
+      "end": 10613
+    },
+    {
+      "text": "Negative",
+      "type": "ENTITY",
+      "start": 10629,
+      "end": 10637
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 10642,
+      "end": 10647
+    },
+    {
+      "text": "LFs",
+      "type": "ENTITY",
+      "start": 10649,
+      "end": 10652
+    },
+    {
+      "text": "Posterior",
+      "type": "ENTITY",
+      "start": 10654,
+      "end": 10663
+    },
+    {
+      "text": "deep tongue margin",
+      "type": "ENTITY",
+      "start": 10664,
+      "end": 10682
+    },
+    {
+      "text": "report",
+      "type": "ENTITY",
+      "start": 10690,
+      "end": 10696
+    },
+    {
+      "text": "confidential",
+      "type": "ENTITY",
+      "start": 10712,
+      "end": 10724
+    },
+    {
+      "text": "exempt",
+      "type": "ENTITY",
+      "start": 10729,
+      "end": 10735
+    },
+    {
+      "text": "disclosure",
+      "type": "ENTITY",
+      "start": 10741,
+      "end": 10751
+    },
+    {
+      "text": "report",
+      "type": "ENTITY",
+      "start": 10794,
+      "end": 10800
+    },
+    {
+      "text": "mail",
+      "type": "ENTITY",
+      "start": 10860,
+      "end": 10864
+    }
+  ],
+  "entity_count": 487,
+  "has_embedding": true
+}

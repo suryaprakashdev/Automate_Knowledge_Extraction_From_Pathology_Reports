@@ -1,0 +1,512 @@
+{
+  "filename": "7eb719e2-d7f6-40b7-bc93-f79900dd1af1",
+  "timestamp": "2026-01-05T14:43:56.204051",
+  "entities": [
+    {
+      "text": "breast",
+      "type": "ENTITY",
+      "start": 30,
+      "end": 36
+    },
+    {
+      "text": "copy No. Date",
+      "type": "ENTITY",
+      "start": 82,
+      "end": 95
+    },
+    {
+      "text": "Examination",
+      "type": "ENTITY",
+      "start": 97,
+      "end": 108
+    },
+    {
+      "text": "Histopathological",
+      "type": "ENTITY",
+      "start": 110,
+      "end": 127
+    },
+    {
+      "text": "examination",
+      "type": "ENTITY",
+      "start": 128,
+      "end": 139
+    },
+    {
+      "text": "Internal invoice No. Cost",
+      "type": "ENTITY",
+      "start": 141,
+      "end": 166
+    },
+    {
+      "text": "diagnostic procedure Examination No.",
+      "type": "ENTITY",
+      "start": 170,
+      "end": 206
+    },
+    {
+      "text": "Patient",
+      "type": "ENTITY",
+      "start": 208,
+      "end": 215
+    },
+    {
+      "text": "PESEL",
+      "type": "ENTITY",
+      "start": 221,
+      "end": 226
+    },
+    {
+      "text": "XXX Age",
+      "type": "ENTITY",
+      "start": 228,
+      "end": 235
+    },
+    {
+      "text": "Gender",
+      "type": "ENTITY",
+      "start": 237,
+      "end": 243
+    },
+    {
+      "text": "Multiple organ",
+      "type": "ENTITY",
+      "start": 257,
+      "end": 271
+    },
+    {
+      "text": "resection",
+      "type": "ENTITY",
+      "start": 272,
+      "end": 281
+    },
+    {
+      "text": "left breast",
+      "type": "ENTITY",
+      "start": 285,
+      "end": 296
+    },
+    {
+      "text": "axillary tissues Unit",
+      "type": "ENTITY",
+      "start": 302,
+      "end": 323
+    },
+    {
+      "text": "Physician",
+      "type": "ENTITY",
+      "start": 336,
+      "end": 345
+    },
+    {
+      "text": "charge",
+      "type": "ENTITY",
+      "start": 349,
+      "end": 355
+    },
+    {
+      "text": "UUID",
+      "type": "ENTITY",
+      "start": 357,
+      "end": 361
+    },
+    {
+      "text": "TCGA-D8-A139-01A-PR",
+      "type": "ENTITY",
+      "start": 400,
+      "end": 419
+    },
+    {
+      "text": "Redacted Material",
+      "type": "ENTITY",
+      "start": 420,
+      "end": 437
+    },
+    {
+      "text": "Aaterial",
+      "type": "ENTITY",
+      "start": 452,
+      "end": 460
+    },
+    {
+      "text": "Expected time",
+      "type": "ENTITY",
+      "start": 474,
+      "end": 487
+    },
+    {
+      "text": "examination",
+      "type": "ENTITY",
+      "start": 491,
+      "end": 502
+    },
+    {
+      "text": "working days",
+      "type": "ENTITY",
+      "start": 512,
+      "end": 524
+    },
+    {
+      "text": "Clinical diagnosis",
+      "type": "ENTITY",
+      "start": 526,
+      "end": 544
+    },
+    {
+      "text": "Cancer",
+      "type": "ENTITY",
+      "start": 546,
+      "end": 552
+    },
+    {
+      "text": "left breast",
+      "type": "ENTITY",
+      "start": 560,
+      "end": 571
+    },
+    {
+      "text": "Examination",
+      "type": "ENTITY",
+      "start": 573,
+      "end": 584
+    },
+    {
+      "text": "Results",
+      "type": "ENTITY",
+      "start": 599,
+      "end": 606
+    },
+    {
+      "text": "immunohistochemical examination",
+      "type": "ENTITY",
+      "start": 610,
+      "end": 641
+    },
+    {
+      "text": "Estrogen receptors",
+      "type": "ENTITY",
+      "start": 644,
+      "end": 662
+    },
+    {
+      "text": "neoplastic cell",
+      "type": "ENTITY",
+      "start": 682,
+      "end": 697
+    },
+    {
+      "text": "progesterone receptors",
+      "type": "ENTITY",
+      "start": 709,
+      "end": 731
+    },
+    {
+      "text": "neoplastic cell",
+      "type": "ENTITY",
+      "start": 741,
+      "end": 756
+    },
+    {
+      "text": "HER2 protein stained with",
+      "type": "ENTITY",
+      "start": 765,
+      "end": 790
+    },
+    {
+      "text": "HercepTestTM",
+      "type": "ENTITY",
+      "start": 791,
+      "end": 803
+    },
+    {
+      "text": "DAKO",
+      "type": "ENTITY",
+      "start": 807,
+      "end": 811
+    },
+    {
+      "text": "Positive reaction",
+      "type": "ENTITY",
+      "start": 813,
+      "end": 830
+    },
+    {
+      "text": "invasive",
+      "type": "ENTITY",
+      "start": 834,
+      "end": 842
+    },
+    {
+      "text": "Score",
+      "type": "ENTITY",
+      "start": 861,
+      "end": 866
+    },
+    {
+      "text": "Compliance",
+      "type": "ENTITY",
+      "start": 874,
+      "end": 884
+    },
+    {
+      "text": "Examination",
+      "type": "ENTITY",
+      "start": 899,
+      "end": 910
+    },
+    {
+      "text": "Macroscopic",
+      "type": "ENTITY",
+      "start": 924,
+      "end": 935
+    },
+    {
+      "text": "description",
+      "type": "ENTITY",
+      "start": 936,
+      "end": 947
+    },
+    {
+      "text": "Left breast",
+      "type": "ENTITY",
+      "start": 949,
+      "end": 960
+    },
+    {
+      "text": "sized",
+      "type": "ENTITY",
+      "start": 961,
+      "end": 966
+    },
+    {
+      "text": "removed",
+      "type": "ENTITY",
+      "start": 986,
+      "end": 993
+    },
+    {
+      "text": "axillary tissues",
+      "type": "ENTITY",
+      "start": 1005,
+      "end": 1021
+    },
+    {
+      "text": "sized",
+      "type": "ENTITY",
+      "start": 1022,
+      "end": 1027
+    },
+    {
+      "text": "skin flap",
+      "type": "ENTITY",
+      "start": 1057,
+      "end": 1066
+    },
+    {
+      "text": "Tumour",
+      "type": "ENTITY",
+      "start": 1082,
+      "end": 1088
+    },
+    {
+      "text": "sized",
+      "type": "ENTITY",
+      "start": 1089,
+      "end": 1094
+    },
+    {
+      "text": "boundary",
+      "type": "ENTITY",
+      "start": 1121,
+      "end": 1129
+    },
+    {
+      "text": "quadrants",
+      "type": "ENTITY",
+      "start": 1139,
+      "end": 1148
+    },
+    {
+      "text": "base",
+      "type": "ENTITY",
+      "start": 1198,
+      "end": 1202
+    },
+    {
+      "text": "skin",
+      "type": "ENTITY",
+      "start": 1223,
+      "end": 1227
+    },
+    {
+      "text": "Microscopic description",
+      "type": "ENTITY",
+      "start": 1229,
+      "end": 1252
+    },
+    {
+      "text": "Carcinoma",
+      "type": "ENTITY",
+      "start": 1254,
+      "end": 1263
+    },
+    {
+      "text": "ductale",
+      "type": "ENTITY",
+      "start": 1264,
+      "end": 1271
+    },
+    {
+      "text": "invasivum",
+      "type": "ENTITY",
+      "start": 1272,
+      "end": 1281
+    },
+    {
+      "text": "NHG2",
+      "type": "ENTITY",
+      "start": 1284,
+      "end": 1288
+    },
+    {
+      "text": "visual area",
+      "type": "ENTITY",
+      "start": 1317,
+      "end": 1328
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 1329,
+      "end": 1337
+    },
+    {
+      "text": "Mamilla sine",
+      "type": "ENTITY",
+      "start": 1348,
+      "end": 1360
+    },
+    {
+      "text": "laesionibus",
+      "type": "ENTITY",
+      "start": 1361,
+      "end": 1372
+    },
+    {
+      "text": "Lesions",
+      "type": "ENTITY",
+      "start": 1374,
+      "end": 1381
+    },
+    {
+      "text": "type mastopathia fibrosa",
+      "type": "ENTITY",
+      "start": 1389,
+      "end": 1413
+    },
+    {
+      "text": "cystic",
+      "type": "ENTITY",
+      "start": 1417,
+      "end": 1423
+    },
+    {
+      "text": "calcificationes",
+      "type": "ENTITY",
+      "start": 1425,
+      "end": 1440
+    },
+    {
+      "text": "Invasive lesions",
+      "type": "ENTITY",
+      "start": 1442,
+      "end": 1458
+    },
+    {
+      "text": "base",
+      "type": "ENTITY",
+      "start": 1482,
+      "end": 1486
+    },
+    {
+      "text": "Axillary lymph nodes",
+      "type": "ENTITY",
+      "start": 1488,
+      "end": 1508
+    },
+    {
+      "text": "Lymphonodultis chronica",
+      "type": "ENTITY",
+      "start": 1510,
+      "end": 1533
+    },
+    {
+      "text": "sinus histiocytosis",
+      "type": "ENTITY",
+      "start": 1537,
+      "end": 1556
+    },
+    {
+      "text": "2",
+      "type": "ENTITY",
+      "start": 1592,
+      "end": 1593
+    },
+    {
+      "text": "Histopathological",
+      "type": "ENTITY",
+      "start": 1594,
+      "end": 1611
+    },
+    {
+      "text": "diagnosis",
+      "type": "ENTITY",
+      "start": 1612,
+      "end": 1621
+    },
+    {
+      "text": "Carcinoma",
+      "type": "ENTITY",
+      "start": 1623,
+      "end": 1632
+    },
+    {
+      "text": "ductale",
+      "type": "ENTITY",
+      "start": 1633,
+      "end": 1640
+    },
+    {
+      "text": "Invasive ductal carcinoma",
+      "type": "ENTITY",
+      "start": 1669,
+      "end": 1694
+    },
+    {
+      "text": "left breast",
+      "type": "ENTITY",
+      "start": 1702,
+      "end": 1713
+    },
+    {
+      "text": "NHG2",
+      "type": "ENTITY",
+      "start": 1716,
+      "end": 1720
+    },
+    {
+      "text": "pT1c",
+      "type": "ENTITY",
+      "start": 1722,
+      "end": 1726
+    },
+    {
+      "text": "Compliance",
+      "type": "ENTITY",
+      "start": 1735,
+      "end": 1745
+    }
+  ],
+  "entity_count": 84,
+  "has_embedding": true
+}

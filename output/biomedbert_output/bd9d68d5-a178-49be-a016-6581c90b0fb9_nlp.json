@@ -1,0 +1,446 @@
+{
+  "filename": "bd9d68d5-a178-49be-a016-6581c90b0fb9",
+  "timestamp": "2026-01-05T14:44:44.487110",
+  "entities": [
+    {
+      "text": "1 Department of Cancer",
+      "type": "ENTITY",
+      "start": 25,
+      "end": 47
+    },
+    {
+      "text": "copy No. Date",
+      "type": "ENTITY",
+      "start": 59,
+      "end": 72
+    },
+    {
+      "text": "Examination",
+      "type": "ENTITY",
+      "start": 74,
+      "end": 85
+    },
+    {
+      "text": "Histopathological examination",
+      "type": "ENTITY",
+      "start": 87,
+      "end": 116
+    },
+    {
+      "text": "cito",
+      "type": "ENTITY",
+      "start": 118,
+      "end": 122
+    },
+    {
+      "text": "Internal invoice No.",
+      "type": "ENTITY",
+      "start": 125,
+      "end": 145
+    },
+    {
+      "text": "diagnostic procedure",
+      "type": "ENTITY",
+      "start": 154,
+      "end": 174
+    },
+    {
+      "text": "Patient",
+      "type": "ENTITY",
+      "start": 193,
+      "end": 200
+    },
+    {
+      "text": "XXX",
+      "type": "ENTITY",
+      "start": 202,
+      "end": 205
+    },
+    {
+      "text": "PESEL",
+      "type": "ENTITY",
+      "start": 206,
+      "end": 211
+    },
+    {
+      "text": "XXX Age",
+      "type": "ENTITY",
+      "start": 213,
+      "end": 220
+    },
+    {
+      "text": "Gender",
+      "type": "ENTITY",
+      "start": 222,
+      "end": 228
+    },
+    {
+      "text": "Material",
+      "type": "ENTITY",
+      "start": 230,
+      "end": 238
+    },
+    {
+      "text": "Multiple",
+      "type": "ENTITY",
+      "start": 243,
+      "end": 251
+    },
+    {
+      "text": "resection",
+      "type": "ENTITY",
+      "start": 258,
+      "end": 267
+    },
+    {
+      "text": "sigmoid colon Unit",
+      "type": "ENTITY",
+      "start": 271,
+      "end": 289
+    },
+    {
+      "text": "Physician",
+      "type": "ENTITY",
+      "start": 302,
+      "end": 311
+    },
+    {
+      "text": "charge",
+      "type": "ENTITY",
+      "start": 315,
+      "end": 321
+    },
+    {
+      "text": "Material",
+      "type": "ENTITY",
+      "start": 323,
+      "end": 331
+    },
+    {
+      "text": "collected",
+      "type": "ENTITY",
+      "start": 332,
+      "end": 341
+    },
+    {
+      "text": "Material",
+      "type": "ENTITY",
+      "start": 346,
+      "end": 354
+    },
+    {
+      "text": "Expected time",
+      "type": "ENTITY",
+      "start": 367,
+      "end": 380
+    },
+    {
+      "text": "examination",
+      "type": "ENTITY",
+      "start": 384,
+      "end": 395
+    },
+    {
+      "text": "Clinical diagnosis",
+      "type": "ENTITY",
+      "start": 398,
+      "end": 416
+    },
+    {
+      "text": "Cancer",
+      "type": "ENTITY",
+      "start": 418,
+      "end": 424
+    },
+    {
+      "text": "sigmoid colon Examination",
+      "type": "ENTITY",
+      "start": 432,
+      "end": 457
+    },
+    {
+      "text": "Macroscopic",
+      "type": "ENTITY",
+      "start": 471,
+      "end": 482
+    },
+    {
+      "text": "description",
+      "type": "ENTITY",
+      "start": 483,
+      "end": 494
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 507,
+      "end": 513
+    },
+    {
+      "text": "intestine",
+      "type": "ENTITY",
+      "start": 527,
+      "end": 536
+    },
+    {
+      "text": "piece",
+      "type": "ENTITY",
+      "start": 544,
+      "end": 549
+    },
+    {
+      "text": "mesentery",
+      "type": "ENTITY",
+      "start": 553,
+      "end": 562
+    },
+    {
+      "text": "sized",
+      "type": "ENTITY",
+      "start": 563,
+      "end": 568
+    },
+    {
+      "text": "Ulcerous tumour",
+      "type": "ENTITY",
+      "start": 588,
+      "end": 603
+    },
+    {
+      "text": "sized",
+      "type": "ENTITY",
+      "start": 604,
+      "end": 609
+    },
+    {
+      "text": "mucosa",
+      "type": "ENTITY",
+      "start": 636,
+      "end": 642
+    },
+    {
+      "text": "lesion",
+      "type": "ENTITY",
+      "start": 648,
+      "end": 654
+    },
+    {
+      "text": "intestine circumference",
+      "type": "ENTITY",
+      "start": 678,
+      "end": 701
+    },
+    {
+      "text": "incision line",
+      "type": "ENTITY",
+      "start": 727,
+      "end": 740
+    },
+    {
+      "text": "Microscopic description",
+      "type": "ENTITY",
+      "start": 775,
+      "end": 798
+    },
+    {
+      "text": "Adenocarcinoma tubulopapillare",
+      "type": "ENTITY",
+      "start": 800,
+      "end": 830
+    },
+    {
+      "text": "G2",
+      "type": "ENTITY",
+      "start": 832,
+      "end": 834
+    },
+    {
+      "text": "Infiltratio carcinomatosa",
+      "type": "ENTITY",
+      "start": 837,
+      "end": 862
+    },
+    {
+      "text": "profunda",
+      "type": "ENTITY",
+      "start": 863,
+      "end": 871
+    },
+    {
+      "text": "tunicae muscularis priopriae",
+      "type": "ENTITY",
+      "start": 872,
+      "end": 900
+    },
+    {
+      "text": "telae",
+      "type": "ENTITY",
+      "start": 904,
+      "end": 909
+    },
+    {
+      "text": "mesenterii",
+      "type": "ENTITY",
+      "start": 919,
+      "end": 929
+    },
+    {
+      "text": "Incision",
+      "type": "ENTITY",
+      "start": 944,
+      "end": 952
+    },
+    {
+      "text": "neoplastic lesions",
+      "type": "ENTITY",
+      "start": 967,
+      "end": 985
+    },
+    {
+      "text": "Metastases carcinomatosae",
+      "type": "ENTITY",
+      "start": 987,
+      "end": 1012
+    },
+    {
+      "text": "lymphonodo",
+      "type": "ENTITY",
+      "start": 1016,
+      "end": 1026
+    },
+    {
+      "text": "NO",
+      "type": "ENTITY",
+      "start": 1028,
+      "end": 1030
+    },
+    {
+      "text": "Infiltratio carcinomatosa capsulae",
+      "type": "ENTITY",
+      "start": 1039,
+      "end": 1073
+    },
+    {
+      "text": "lymphonodi",
+      "type": "ENTITY",
+      "start": 1074,
+      "end": 1084
+    },
+    {
+      "text": "Emboliae carcinomatosae",
+      "type": "ENTITY",
+      "start": 1086,
+      "end": 1109
+    },
+    {
+      "text": "Histopathological",
+      "type": "ENTITY",
+      "start": 1111,
+      "end": 1128
+    },
+    {
+      "text": "Diagnosis",
+      "type": "ENTITY",
+      "start": 1129,
+      "end": 1138
+    },
+    {
+      "text": "Adenocarcinoma tubulopapillare coli",
+      "type": "ENTITY",
+      "start": 1140,
+      "end": 1175
+    },
+    {
+      "text": "Tubulopapillar adenocarcinoma",
+      "type": "ENTITY",
+      "start": 1177,
+      "end": 1206
+    },
+    {
+      "text": "colon",
+      "type": "ENTITY",
+      "start": 1214,
+      "end": 1219
+    },
+    {
+      "text": "Metastases carcinomatosae",
+      "type": "ENTITY",
+      "start": 1222,
+      "end": 1247
+    },
+    {
+      "text": "Iymphonodo",
+      "type": "ENTITY",
+      "start": 1251,
+      "end": 1261
+    },
+    {
+      "text": "Cancer metastases",
+      "type": "ENTITY",
+      "start": 1263,
+      "end": 1280
+    },
+    {
+      "text": "Iymph nodes",
+      "type": "ENTITY",
+      "start": 1288,
+      "end": 1299
+    },
+    {
+      "text": "NO",
+      "type": "ENTITY",
+      "start": 1301,
+      "end": 1303
+    },
+    {
+      "text": "Dukes C",
+      "type": "ENTITY",
+      "start": 1319,
+      "end": 1326
+    },
+    {
+      "text": "Astler",
+      "type": "ENTITY",
+      "start": 1328,
+      "end": 1334
+    },
+    {
+      "text": "Coller",
+      "type": "ENTITY",
+      "start": 1337,
+      "end": 1343
+    },
+    {
+      "text": "C2",
+      "type": "ENTITY",
+      "start": 1345,
+      "end": 1347
+    },
+    {
+      "text": "pT3",
+      "type": "ENTITY",
+      "start": 1349,
+      "end": 1352
+    },
+    {
+      "text": "pNI",
+      "type": "ENTITY",
+      "start": 1354,
+      "end": 1357
+    },
+    {
+      "text": "Compliance",
+      "type": "ENTITY",
+      "start": 1360,
+      "end": 1370
+    },
+    {
+      "text": "CONTACT YOU DOCTOR",
+      "type": "ENTITY",
+      "start": 1385,
+      "end": 1403
+    }
+  ],
+  "entity_count": 73,
+  "has_embedding": true
+}

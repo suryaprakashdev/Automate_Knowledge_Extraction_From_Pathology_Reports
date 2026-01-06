@@ -1,0 +1,884 @@
+{
+  "filename": "f49a2fda-cca7-493f-b912-991cd1f72950",
+  "timestamp": "2026-01-05T14:43:44.373740",
+  "entities": [
+    {
+      "text": "UUID",
+      "type": "ENTITY",
+      "start": 28,
+      "end": 32
+    },
+    {
+      "text": "BFAB9079-A4A6-457C-8CF5-3D8BB15FEB4D TCGA-5X-A7SQ-01A-PR Redacted IcDs-3",
+      "type": "ENTITY",
+      "start": 34,
+      "end": 106
+    },
+    {
+      "text": "Surgical Pathology Report",
+      "type": "ENTITY",
+      "start": 114,
+      "end": 139
+    },
+    {
+      "text": "Clinic",
+      "type": "ENTITY",
+      "start": 185,
+      "end": 191
+    },
+    {
+      "text": "DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 221,
+      "end": 230
+    },
+    {
+      "text": "Kidney",
+      "type": "ENTITY",
+      "start": 232,
+      "end": 238
+    },
+    {
+      "text": "left",
+      "type": "ENTITY",
+      "start": 240,
+      "end": 244
+    },
+    {
+      "text": "nephrectomy",
+      "type": "ENTITY",
+      "start": 246,
+      "end": 257
+    },
+    {
+      "text": "tumors",
+      "type": "ENTITY",
+      "start": 263,
+      "end": 269
+    },
+    {
+      "text": "identified",
+      "type": "ENTITY",
+      "start": 270,
+      "end": 280
+    },
+    {
+      "text": "Tumor",
+      "type": "ENTITY",
+      "start": 282,
+      "end": 287
+    },
+    {
+      "text": "Histologic type",
+      "type": "ENTITY",
+      "start": 291,
+      "end": 306
+    },
+    {
+      "text": "Papillary renal cell carcinoma",
+      "type": "ENTITY",
+      "start": 308,
+      "end": 338
+    },
+    {
+      "text": "comment",
+      "type": "ENTITY",
+      "start": 344,
+      "end": 351
+    },
+    {
+      "text": "Histologic Fuhrman grade",
+      "type": "ENTITY",
+      "start": 354,
+      "end": 378
+    },
+    {
+      "text": "Tumor size",
+      "type": "ENTITY",
+      "start": 391,
+      "end": 401
+    },
+    {
+      "text": "Tumor site",
+      "type": "ENTITY",
+      "start": 423,
+      "end": 433
+    },
+    {
+      "text": "Lower pole",
+      "type": "ENTITY",
+      "start": 435,
+      "end": 445
+    },
+    {
+      "text": "Tumor focality",
+      "type": "ENTITY",
+      "start": 447,
+      "end": 461
+    },
+    {
+      "text": "Sarcomatoid",
+      "type": "ENTITY",
+      "start": 480,
+      "end": 491
+    },
+    {
+      "text": "features",
+      "type": "ENTITY",
+      "start": 492,
+      "end": 500
+    },
+    {
+      "text": "Absent",
+      "type": "ENTITY",
+      "start": 502,
+      "end": 508
+    },
+    {
+      "text": "Tumor necrosis",
+      "type": "ENTITY",
+      "start": 511,
+      "end": 525
+    },
+    {
+      "text": "Absent",
+      "type": "ENTITY",
+      "start": 527,
+      "end": 533
+    },
+    {
+      "text": "Microscopic tumor extension",
+      "type": "ENTITY",
+      "start": 536,
+      "end": 563
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 569,
+      "end": 574
+    },
+    {
+      "text": "renal sinus",
+      "type": "ENTITY",
+      "start": 592,
+      "end": 603
+    },
+    {
+      "text": "Margins",
+      "type": "ENTITY",
+      "start": 605,
+      "end": 612
+    },
+    {
+      "text": "Lymphovascular invasion",
+      "type": "ENTITY",
+      "start": 628,
+      "end": 651
+    },
+    {
+      "text": "Absent",
+      "type": "ENTITY",
+      "start": 653,
+      "end": 659
+    },
+    {
+      "text": "Lymph nodes",
+      "type": "ENTITY",
+      "start": 661,
+      "end": 672
+    },
+    {
+      "text": "No lymph nodes",
+      "type": "ENTITY",
+      "start": 674,
+      "end": 688
+    },
+    {
+      "text": "hilar fat",
+      "type": "ENTITY",
+      "start": 698,
+      "end": 707
+    },
+    {
+      "text": "DIAGNOSIS COMMENT",
+      "type": "ENTITY",
+      "start": 709,
+      "end": 726
+    },
+    {
+      "text": "Immunostains",
+      "type": "ENTITY",
+      "start": 728,
+      "end": 740
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 744,
+      "end": 749
+    },
+    {
+      "text": "racemase",
+      "type": "ENTITY",
+      "start": 790,
+      "end": 798
+    },
+    {
+      "text": "positive",
+      "type": "ENTITY",
+      "start": 800,
+      "end": 808
+    },
+    {
+      "text": "CK7",
+      "type": "ENTITY",
+      "start": 809,
+      "end": 812
+    },
+    {
+      "text": "positive",
+      "type": "ENTITY",
+      "start": 814,
+      "end": 822
+    },
+    {
+      "text": "C-Kit",
+      "type": "ENTITY",
+      "start": 823,
+      "end": 828
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 830,
+      "end": 838
+    },
+    {
+      "text": "rare",
+      "type": "ENTITY",
+      "start": 850,
+      "end": 854
+    },
+    {
+      "text": "positivity",
+      "type": "ENTITY",
+      "start": 855,
+      "end": 865
+    },
+    {
+      "text": "results",
+      "type": "ENTITY",
+      "start": 871,
+      "end": 878
+    },
+    {
+      "text": "papillary renal cell carcinoma",
+      "type": "ENTITY",
+      "start": 911,
+      "end": 941
+    },
+    {
+      "text": "Left renal mass",
+      "type": "ENTITY",
+      "start": 965,
+      "end": 980
+    },
+    {
+      "text": "SPECIMEN(S",
+      "type": "ENTITY",
+      "start": 982,
+      "end": 992
+    },
+    {
+      "text": "Left kidney",
+      "type": "ENTITY",
+      "start": 998,
+      "end": 1009
+    },
+    {
+      "text": "Intraoperative",
+      "type": "ENTITY",
+      "start": 1049,
+      "end": 1063
+    },
+    {
+      "text": "A. Left kidney",
+      "type": "ENTITY",
+      "start": 1081,
+      "end": 1095
+    },
+    {
+      "text": "frozen section",
+      "type": "ENTITY",
+      "start": 1097,
+      "end": 1111
+    },
+    {
+      "text": "diagnosis",
+      "type": "ENTITY",
+      "start": 1112,
+      "end": 1121
+    },
+    {
+      "text": "Renal cell carcinoma",
+      "type": "ENTITY",
+      "start": 1123,
+      "end": 1143
+    },
+    {
+      "text": "Tissue",
+      "type": "ENTITY",
+      "start": 1145,
+      "end": 1151
+    },
+    {
+      "text": "GROSS DESCRIPTION",
+      "type": "ENTITY",
+      "start": 1161,
+      "end": 1178
+    },
+    {
+      "text": "Performed",
+      "type": "ENTITY",
+      "start": 1180,
+      "end": 1189
+    },
+    {
+      "text": "A.",
+      "type": "ENTITY",
+      "start": 1193,
+      "end": 1195
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 1205,
+      "end": 1210
+    },
+    {
+      "text": "labele",
+      "type": "ENTITY",
+      "start": 1211,
+      "end": 1217
+    },
+    {
+      "text": "Procedure",
+      "type": "ENTITY",
+      "start": 1237,
+      "end": 1246
+    },
+    {
+      "text": "Radical nephrectomy",
+      "type": "ENTITY",
+      "start": 1248,
+      "end": 1267
+    },
+    {
+      "text": "Specimen",
+      "type": "ENTITY",
+      "start": 1269,
+      "end": 1277
+    },
+    {
+      "text": "laterality",
+      "type": "ENTITY",
+      "start": 1278,
+      "end": 1288
+    },
+    {
+      "text": "Left",
+      "type": "ENTITY",
+      "start": 1290,
+      "end": 1294
+    },
+    {
+      "text": "Tumor site",
+      "type": "ENTITY",
+      "start": 1296,
+      "end": 1306
+    },
+    {
+      "text": "Lower pole",
+      "type": "ENTITY",
+      "start": 1308,
+      "end": 1318
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1332,
+      "end": 1337
+    },
+    {
+      "text": "Tumor size",
+      "type": "ENTITY",
+      "start": 1359,
+      "end": 1369
+    },
+    {
+      "text": "Lower pole tumor",
+      "type": "ENTITY",
+      "start": 1371,
+      "end": 1387
+    },
+    {
+      "text": "Upper pole tumor",
+      "type": "ENTITY",
+      "start": 1407,
+      "end": 1423
+    },
+    {
+      "text": "Tumor focality",
+      "type": "ENTITY",
+      "start": 1445,
+      "end": 1459
+    },
+    {
+      "text": "Multifocal",
+      "type": "ENTITY",
+      "start": 1461,
+      "end": 1471
+    },
+    {
+      "text": "Gross extent",
+      "type": "ENTITY",
+      "start": 1473,
+      "end": 1485
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1489,
+      "end": 1494
+    },
+    {
+      "text": "Extension",
+      "type": "ENTITY",
+      "start": 1497,
+      "end": 1506
+    },
+    {
+      "text": "perinephric tissue",
+      "type": "ENTITY",
+      "start": 1512,
+      "end": 1530
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1545,
+      "end": 1550
+    },
+    {
+      "text": "lower pole abuts",
+      "type": "ENTITY",
+      "start": 1558,
+      "end": 1574
+    },
+    {
+      "text": "renal sinus",
+      "type": "ENTITY",
+      "start": 1579,
+      "end": 1590
+    },
+    {
+      "text": "perinephric tissue",
+      "type": "ENTITY",
+      "start": 1595,
+      "end": 1613
+    },
+    {
+      "text": "Extension",
+      "type": "ENTITY",
+      "start": 1616,
+      "end": 1625
+    },
+    {
+      "text": "Gerota's fascia",
+      "type": "ENTITY",
+      "start": 1633,
+      "end": 1648
+    },
+    {
+      "text": "Absent",
+      "type": "ENTITY",
+      "start": 1650,
+      "end": 1656
+    },
+    {
+      "text": "Extension",
+      "type": "ENTITY",
+      "start": 1658,
+      "end": 1667
+    },
+    {
+      "text": "renal sinus",
+      "type": "ENTITY",
+      "start": 1673,
+      "end": 1684
+    },
+    {
+      "text": "Absent",
+      "type": "ENTITY",
+      "start": 1686,
+      "end": 1692
+    },
+    {
+      "text": "Extension",
+      "type": "ENTITY",
+      "start": 1695,
+      "end": 1704
+    },
+    {
+      "text": "Absent",
+      "type": "ENTITY",
+      "start": 1729,
+      "end": 1735
+    },
+    {
+      "text": "Adrenal gland",
+      "type": "ENTITY",
+      "start": 1738,
+      "end": 1751
+    },
+    {
+      "text": "Adrenal gland",
+      "type": "ENTITY",
+      "start": 1753,
+      "end": 1766
+    },
+    {
+      "text": "absent",
+      "type": "ENTITY",
+      "start": 1767,
+      "end": 1773
+    },
+    {
+      "text": "Gross notes",
+      "type": "ENTITY",
+      "start": 1776,
+      "end": 1787
+    },
+    {
+      "text": "Gross tumor",
+      "type": "ENTITY",
+      "start": 1789,
+      "end": 1800
+    },
+    {
+      "text": "characteristics",
+      "type": "ENTITY",
+      "start": 1801,
+      "end": 1816
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1822,
+      "end": 1827
+    },
+    {
+      "text": "lower pole",
+      "type": "ENTITY",
+      "start": 1838,
+      "end": 1848
+    },
+    {
+      "text": "necrotic",
+      "type": "ENTITY",
+      "start": 1852,
+      "end": 1860
+    },
+    {
+      "text": "papular",
+      "type": "ENTITY",
+      "start": 1874,
+      "end": 1881
+    },
+    {
+      "text": "Tumor",
+      "type": "ENTITY",
+      "start": 1883,
+      "end": 1888
+    },
+    {
+      "text": "upper pole",
+      "type": "ENTITY",
+      "start": 1899,
+      "end": 1909
+    },
+    {
+      "text": "well-circumscribed",
+      "type": "ENTITY",
+      "start": 1913,
+      "end": 1931
+    },
+    {
+      "text": "yellow-orange",
+      "type": "ENTITY",
+      "start": 1936,
+      "end": 1949
+    },
+    {
+      "text": "focal necrosis",
+      "type": "ENTITY",
+      "start": 1955,
+      "end": 1969
+    },
+    {
+      "text": "Kidney weight",
+      "type": "ENTITY",
+      "start": 1971,
+      "end": 1984
+    },
+    {
+      "text": "fat",
+      "type": "ENTITY",
+      "start": 1997,
+      "end": 2000
+    },
+    {
+      "text": "fat",
+      "type": "ENTITY",
+      "start": 2019,
+      "end": 2022
+    },
+    {
+      "text": "dimensions",
+      "type": "ENTITY",
+      "start": 2032,
+      "end": 2042
+    },
+    {
+      "text": "Ureter dimensions",
+      "type": "ENTITY",
+      "start": 2063,
+      "end": 2080
+    },
+    {
+      "text": "Lymph nodes",
+      "type": "ENTITY",
+      "start": 2100,
+      "end": 2111
+    },
+    {
+      "text": "Absent",
+      "type": "ENTITY",
+      "start": 2113,
+      "end": 2119
+    },
+    {
+      "text": "perinephric fat",
+      "type": "ENTITY",
+      "start": 2141,
+      "end": 2156
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 2175,
+      "end": 2179
+    },
+    {
+      "text": "lower pole",
+      "type": "ENTITY",
+      "start": 2188,
+      "end": 2198
+    },
+    {
+      "text": "Block summary",
+      "type": "ENTITY",
+      "start": 2200,
+      "end": 2213
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 2218,
+      "end": 2226
+    },
+    {
+      "text": "Al) Frozen section",
+      "type": "ENTITY",
+      "start": 2231,
+      "end": 2249
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 2252,
+      "end": 2257
+    },
+    {
+      "text": "A2",
+      "type": "ENTITY",
+      "start": 2259,
+      "end": 2261
+    },
+    {
+      "text": "vascular margins",
+      "type": "ENTITY",
+      "start": 2276,
+      "end": 2292
+    },
+    {
+      "text": "A3-A4",
+      "type": "ENTITY",
+      "start": 2294,
+      "end": 2299
+    },
+    {
+      "text": "lower pole",
+      "type": "ENTITY",
+      "start": 2325,
+      "end": 2335
+    },
+    {
+      "text": "capsule",
+      "type": "ENTITY",
+      "start": 2348,
+      "end": 2355
+    },
+    {
+      "text": "A6-A7",
+      "type": "ENTITY",
+      "start": 2379,
+      "end": 2384
+    },
+    {
+      "text": "upper pole tumor",
+      "type": "ENTITY",
+      "start": 2398,
+      "end": 2414
+    },
+    {
+      "text": "lower pole tumor",
+      "type": "ENTITY",
+      "start": 2431,
+      "end": 2447
+    },
+    {
+      "text": "Support",
+      "type": "ENTITY",
+      "start": 2498,
+      "end": 2505
+    },
+    {
+      "text": "diagnosis",
+      "type": "ENTITY",
+      "start": 2514,
+      "end": 2523
+    },
+    {
+      "text": "case",
+      "type": "ENTITY",
+      "start": 2532,
+      "end": 2536
+    },
+    {
+      "text": "immunohistochemistry tests",
+      "type": "ENTITY",
+      "start": 2566,
+      "end": 2592
+    },
+    {
+      "text": "performance",
+      "type": "ENTITY",
+      "start": 2623,
+      "end": 2634
+    },
+    {
+      "text": "characteristics",
+      "type": "ENTITY",
+      "start": 2635,
+      "end": 2650
+    },
+    {
+      "text": "cleared",
+      "type": "ENTITY",
+      "start": 2689,
+      "end": 2696
+    },
+    {
+      "text": "U.s. Food and Drug Administration",
+      "type": "ENTITY",
+      "start": 2717,
+      "end": 2750
+    },
+    {
+      "text": "FdA",
+      "type": "ENTITY",
+      "start": 2752,
+      "end": 2755
+    },
+    {
+      "text": "FDA",
+      "type": "ENTITY",
+      "start": 2762,
+      "end": 2765
+    },
+    {
+      "text": "clearance",
+      "type": "ENTITY",
+      "start": 2791,
+      "end": 2800
+    },
+    {
+      "text": "approval",
+      "type": "ENTITY",
+      "start": 2804,
+      "end": 2812
+    },
+    {
+      "text": "tests",
+      "type": "ENTITY",
+      "start": 2837,
+      "end": 2842
+    },
+    {
+      "text": "investigational",
+      "type": "ENTITY",
+      "start": 2869,
+      "end": 2884
+    },
+    {
+      "text": "research",
+      "type": "ENTITY",
+      "start": 2892,
+      "end": 2900
+    },
+    {
+      "text": "laboratory",
+      "type": "ENTITY",
+      "start": 2907,
+      "end": 2917
+    },
+    {
+      "text": "Clinical Laboratory Improvement Amendments",
+      "type": "ENTITY",
+      "start": 2941,
+      "end": 2983
+    },
+    {
+      "text": "qualified",
+      "type": "ENTITY",
+      "start": 3004,
+      "end": 3013
+    },
+    {
+      "text": "clinical",
+      "type": "ENTITY",
+      "start": 3041,
+      "end": 3049
+    },
+    {
+      "text": "laboratory testing",
+      "type": "ENTITY",
+      "start": 3050,
+      "end": 3068
+    }
+  ],
+  "entity_count": 146,
+  "has_embedding": true
+}

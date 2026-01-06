@@ -1,0 +1,770 @@
+{
+  "filename": "84de234a-1ea9-4e81-a367-56d6d7ff79f6",
+  "timestamp": "2026-01-05T14:44:01.676272",
+  "entities": [
+    {
+      "text": "DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 29,
+      "end": 38
+    },
+    {
+      "text": "Breast",
+      "type": "ENTITY",
+      "start": 48,
+      "end": 54
+    },
+    {
+      "text": "SEgmental",
+      "type": "ENTITY",
+      "start": 63,
+      "end": 72
+    },
+    {
+      "text": "mAstectomy",
+      "type": "ENTITY",
+      "start": 74,
+      "end": 84
+    },
+    {
+      "text": "A.  ",
+      "type": "ENTITY",
+      "start": 87,
+      "end": 91
+    },
+    {
+      "text": "Nfiltrating",
+      "type": "ENTITY",
+      "start": 92,
+      "end": 103
+    },
+    {
+      "text": "Quctal Carcinoma",
+      "type": "ENTITY",
+      "start": 104,
+      "end": 120
+    },
+    {
+      "text": "Differentiated",
+      "type": "ENTITY",
+      "start": 143,
+      "end": 157
+    },
+    {
+      "text": "B.",
+      "type": "ENTITY",
+      "start": 159,
+      "end": 161
+    },
+    {
+      "text": "tumor measures",
+      "type": "ENTITY",
+      "start": 166,
+      "end": 180
+    },
+    {
+      "text": "gross measurement",
+      "type": "ENTITY",
+      "start": 189,
+      "end": 206
+    },
+    {
+      "text": "nottingham score",
+      "type": "ENTITY",
+      "start": 209,
+      "end": 225
+    },
+    {
+      "text": "nuclear grade 2",
+      "type": "ENTITY",
+      "start": 242,
+      "end": 257
+    },
+    {
+      "text": "mitoses",
+      "type": "ENTITY",
+      "start": 259,
+      "end": 266
+    },
+    {
+      "text": "C. DUCTAL",
+      "type": "ENTITY",
+      "start": 290,
+      "end": 299
+    },
+    {
+      "text": "DCIS",
+      "type": "ENTITY",
+      "start": 319,
+      "end": 323
+    },
+    {
+      "text": "CRIBRIFORM TYPE",
+      "type": "ENTITY",
+      "start": 326,
+      "end": 341
+    },
+    {
+      "text": "ASSOCIATED COMEDO NECROSIS",
+      "type": "ENTITY",
+      "start": 347,
+      "end": 373
+    },
+    {
+      "text": "nUCLEAR GRADE 2",
+      "type": "ENTITY",
+      "start": 375,
+      "end": 390
+    },
+    {
+      "text": "COMPRISiNG",
+      "type": "ENTITY",
+      "start": 392,
+      "end": 402
+    },
+    {
+      "text": "TOTaL TUMOR VOLUME",
+      "type": "ENTITY",
+      "start": 409,
+      "end": 427
+    },
+    {
+      "text": "ASSOCIATiON WITH",
+      "type": "ENTITY",
+      "start": 446,
+      "end": 462
+    },
+    {
+      "text": "INVASIVE CARCINOMA",
+      "type": "ENTITY",
+      "start": 463,
+      "end": 481
+    },
+    {
+      "text": "D.  ",
+      "type": "ENTITY",
+      "start": 483,
+      "end": 487
+    },
+    {
+      "text": "LYMPHOVASCULAR",
+      "type": "ENTITY",
+      "start": 501,
+      "end": 515
+    },
+    {
+      "text": "invasive",
+      "type": "ENTITY",
+      "start": 548,
+      "end": 556
+    },
+    {
+      "text": "exTends",
+      "type": "ENTITY",
+      "start": 567,
+      "end": 574
+    },
+    {
+      "text": "SUperiOr",
+      "type": "ENTITY",
+      "start": 582,
+      "end": 590
+    },
+    {
+      "text": "margin",
+      "type": "ENTITY",
+      "start": 591,
+      "end": 597
+    },
+    {
+      "text": "RemAIndeR",
+      "type": "ENTITY",
+      "start": 599,
+      "end": 608
+    },
+    {
+      "text": "E. ARE",
+      "type": "ENTITY",
+      "start": 620,
+      "end": 626
+    },
+    {
+      "text": "ATypical DUctal hyperpLAsia",
+      "type": "ENTITY",
+      "start": 636,
+      "end": 663
+    },
+    {
+      "text": "EpItheLiAl Atypia",
+      "type": "ENTITY",
+      "start": 670,
+      "end": 687
+    },
+    {
+      "text": "CaLcIfICatIONs.",
+      "type": "ENTITY",
+      "start": 725,
+      "end": 740
+    },
+    {
+      "text": "DUctal",
+      "type": "ENTITY",
+      "start": 741,
+      "end": 747
+    },
+    {
+      "text": "hyperpLASiA",
+      "type": "ENTITY",
+      "start": 759,
+      "end": 770
+    },
+    {
+      "text": "FIBrOADenomatOID noDuLe AnD",
+      "type": "ENTITY",
+      "start": 772,
+      "end": 799
+    },
+    {
+      "text": "biopsy site",
+      "type": "ENTITY",
+      "start": 809,
+      "end": 820
+    },
+    {
+      "text": "Changes",
+      "type": "ENTITY",
+      "start": 821,
+      "end": 828
+    },
+    {
+      "text": "G.  ER-pOsITIVe",
+      "type": "ENTITY",
+      "start": 830,
+      "end": 845
+    },
+    {
+      "text": "pr-pOsiTivE",
+      "type": "ENTITY",
+      "start": 847,
+      "end": 858
+    },
+    {
+      "text": "hER 2Ineu-nEgaTIve",
+      "type": "ENTITY",
+      "start": 860,
+      "end": 878
+    },
+    {
+      "text": "inc SCORe",
+      "type": "ENTITY",
+      "start": 880,
+      "end": 889
+    },
+    {
+      "text": "CrOSS REfer",
+      "type": "ENTITY",
+      "start": 894,
+      "end": 905
+    },
+    {
+      "text": "RIght AXiLLA",
+      "type": "ENTITY",
+      "start": 938,
+      "end": 950
+    },
+    {
+      "text": "biOpSy",
+      "type": "ENTITY",
+      "start": 952,
+      "end": 958
+    },
+    {
+      "text": "A.",
+      "type": "ENTITY",
+      "start": 961,
+      "end": 963
+    },
+    {
+      "text": "lymph node positive",
+      "type": "ENTITY",
+      "start": 968,
+      "end": 987
+    },
+    {
+      "text": "micro metastatic Carcinoma",
+      "type": "ENTITY",
+      "start": 992,
+      "end": 1018
+    },
+    {
+      "text": "mETASTATIC",
+      "type": "ENTITY",
+      "start": 1031,
+      "end": 1041
+    },
+    {
+      "text": "mEASUREs",
+      "type": "ENTITY",
+      "start": 1048,
+      "end": 1056
+    },
+    {
+      "text": "gLASS",
+      "type": "ENTITY",
+      "start": 1065,
+      "end": 1070
+    },
+    {
+      "text": "SLIDe",
+      "type": "ENTITY",
+      "start": 1071,
+      "end": 1076
+    },
+    {
+      "text": "NO",
+      "type": "ENTITY",
+      "start": 1079,
+      "end": 1081
+    },
+    {
+      "text": "eXTenSION IS",
+      "type": "ENTITY",
+      "start": 1097,
+      "end": 1109
+    },
+    {
+      "text": "Sentinel Lymph nODe",
+      "type": "ENTITY",
+      "start": 1141,
+      "end": 1160
+    },
+    {
+      "text": "biopsy",
+      "type": "ENTITY",
+      "start": 1176,
+      "end": 1182
+    },
+    {
+      "text": "One bEnIgn",
+      "type": "ENTITY",
+      "start": 1185,
+      "end": 1195
+    },
+    {
+      "text": "nO TUmOR SEen",
+      "type": "ENTITY",
+      "start": 1208,
+      "end": 1221
+    },
+    {
+      "text": "Carcinoms",
+      "type": "ENTITY",
+      "start": 1229,
+      "end": 1238
+    },
+    {
+      "text": "nr3",
+      "type": "ENTITY",
+      "start": 1256,
+      "end": 1259
+    },
+    {
+      "text": "non-senTinel",
+      "type": "ENTITY",
+      "start": 1309,
+      "end": 1321
+    },
+    {
+      "text": "Lymph node",
+      "type": "ENTITY",
+      "start": 1322,
+      "end": 1332
+    },
+    {
+      "text": "BiOpsy",
+      "type": "ENTITY",
+      "start": 1348,
+      "end": 1354
+    },
+    {
+      "text": "One",
+      "type": "ENTITY",
+      "start": 1357,
+      "end": 1360
+    },
+    {
+      "text": "benign lymph node",
+      "type": "ENTITY",
+      "start": 1361,
+      "end": 1378
+    },
+    {
+      "text": "SYNOPTIC",
+      "type": "ENTITY",
+      "start": 1416,
+      "end": 1424
+    },
+    {
+      "text": "PRIMARY",
+      "type": "ENTITY",
+      "start": 1427,
+      "end": 1434
+    },
+    {
+      "text": "BREAST LATEraLiTy",
+      "type": "ENTITY",
+      "start": 1457,
+      "end": 1474
+    },
+    {
+      "text": "procedure",
+      "type": "ENTITY",
+      "start": 1476,
+      "end": 1485
+    },
+    {
+      "text": "Right LOcATION",
+      "type": "ENTITY",
+      "start": 1487,
+      "end": 1501
+    },
+    {
+      "text": "TUMOR",
+      "type": "ENTITY",
+      "start": 1536,
+      "end": 1541
+    },
+    {
+      "text": "MULTICENTRICITY/MULTIFOCALITY",
+      "type": "ENTITY",
+      "start": 1543,
+      "end": 1572
+    },
+    {
+      "text": "INVASIVE",
+      "type": "ENTITY",
+      "start": 1576,
+      "end": 1584
+    },
+    {
+      "text": "TUMOR TYPE",
+      "type": "ENTITY",
+      "start": 1637,
+      "end": 1647
+    },
+    {
+      "text": "Invasive component",
+      "type": "ENTITY",
+      "start": 1649,
+      "end": 1667
+    },
+    {
+      "text": "NOTTINGHAM",
+      "type": "ENTITY",
+      "start": 1673,
+      "end": 1683
+    },
+    {
+      "text": "SCORE",
+      "type": "ENTITY",
+      "start": 1684,
+      "end": 1689
+    },
+    {
+      "text": "Ductal adenocarcinoma",
+      "type": "ENTITY",
+      "start": 1691,
+      "end": 1712
+    },
+    {
+      "text": "NOS",
+      "type": "ENTITY",
+      "start": 1714,
+      "end": 1717
+    },
+    {
+      "text": "Nuclear grade",
+      "type": "ENTITY",
+      "start": 1718,
+      "end": 1731
+    },
+    {
+      "text": "Tubule formation",
+      "type": "ENTITY",
+      "start": 1735,
+      "end": 1751
+    },
+    {
+      "text": "Mitotic activity",
+      "type": "ENTITY",
+      "start": 1755,
+      "end": 1771
+    },
+    {
+      "text": "Total Nottingham score",
+      "type": "ENTITY",
+      "start": 1781,
+      "end": 1803
+    },
+    {
+      "text": "UUID",
+      "type": "ENTITY",
+      "start": 1807,
+      "end": 1811
+    },
+    {
+      "text": "Nottingham grade",
+      "type": "ENTITY",
+      "start": 1874,
+      "end": 1890
+    },
+    {
+      "text": "TCGA-BH-A0DQ-01A-PR",
+      "type": "ENTITY",
+      "start": 1904,
+      "end": 1923
+    },
+    {
+      "text": "Redacted DERMAL LYMPHATIC INVASION",
+      "type": "ENTITY",
+      "start": 1924,
+      "end": 1958
+    },
+    {
+      "text": "Tumor type",
+      "type": "ENTITY",
+      "start": 1993,
+      "end": 2003
+    },
+    {
+      "text": "in situ",
+      "type": "ENTITY",
+      "start": 2005,
+      "end": 2012
+    },
+    {
+      "text": "Cribriform",
+      "type": "ENTITY",
+      "start": 2017,
+      "end": 2027
+    },
+    {
+      "text": "Comedo",
+      "type": "ENTITY",
+      "start": 2028,
+      "end": 2034
+    },
+    {
+      "text": "DCIS",
+      "type": "ENTITY",
+      "start": 2035,
+      "end": 2039
+    },
+    {
+      "text": "admixad",
+      "type": "ENTITY",
+      "start": 2040,
+      "end": 2047
+    },
+    {
+      "text": "invasive carcinoma",
+      "type": "ENTITY",
+      "start": 2053,
+      "end": 2071
+    },
+    {
+      "text": "SURGICAL MARGINS",
+      "type": "ENTITY",
+      "start": 2072,
+      "end": 2088
+    },
+    {
+      "text": "Percant",
+      "type": "ENTITY",
+      "start": 2121,
+      "end": 2128
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 2132,
+      "end": 2137
+    },
+    {
+      "text": "occupied",
+      "type": "ENTITY",
+      "start": 2138,
+      "end": 2146
+    },
+    {
+      "text": "in situ component",
+      "type": "ENTITY",
+      "start": 2150,
+      "end": 2167
+    },
+    {
+      "text": "focal SURG",
+      "type": "ENTITY",
+      "start": 2179,
+      "end": 2189
+    },
+    {
+      "text": "LYMPH NODES",
+      "type": "ENTITY",
+      "start": 2229,
+      "end": 2240
+    },
+    {
+      "text": "No",
+      "type": "ENTITY",
+      "start": 2251,
+      "end": 2253
+    },
+    {
+      "text": "Lymph nOdes",
+      "type": "ENTITY",
+      "start": 2254,
+      "end": 2265
+    },
+    {
+      "text": "LYmPh",
+      "type": "ENTITY",
+      "start": 2291,
+      "end": 2296
+    },
+    {
+      "text": "SENTINEL",
+      "type": "ENTITY",
+      "start": 2317,
+      "end": 2325
+    },
+    {
+      "text": "H/F stain SIZE",
+      "type": "ENTITY",
+      "start": 2343,
+      "end": 2357
+    },
+    {
+      "text": "NODAL",
+      "type": "ENTITY",
+      "start": 2361,
+      "end": 2366
+    },
+    {
+      "text": "exTensIOn",
+      "type": "ENTITY",
+      "start": 2429,
+      "end": 2438
+    },
+    {
+      "text": "Diameter",
+      "type": "ENTITY",
+      "start": 2440,
+      "end": 2448
+    },
+    {
+      "text": "lymph node metastasis",
+      "type": "ENTITY",
+      "start": 2460,
+      "end": 2481
+    },
+    {
+      "text": "iPSILATERAL",
+      "type": "ENTITY",
+      "start": 2504,
+      "end": 2515
+    },
+    {
+      "text": "inTERNAL",
+      "type": "ENTITY",
+      "start": 2516,
+      "end": 2524
+    },
+    {
+      "text": "MAMMARy",
+      "type": "ENTITY",
+      "start": 2525,
+      "end": 2532
+    },
+    {
+      "text": "NODE",
+      "type": "ENTITY",
+      "start": 2539,
+      "end": 2543
+    },
+    {
+      "text": "IF APPLICABLE",
+      "type": "ENTITY",
+      "start": 2545,
+      "end": 2558
+    },
+    {
+      "text": "NON-NEOPLASTIC BREAST",
+      "type": "ENTITY",
+      "start": 2595,
+      "end": 2616
+    },
+    {
+      "text": "ADH",
+      "type": "ENTITY",
+      "start": 2625,
+      "end": 2628
+    },
+    {
+      "text": "pathologic",
+      "type": "ENTITY",
+      "start": 2641,
+      "end": 2651
+    },
+    {
+      "text": "N stage",
+      "type": "ENTITY",
+      "start": 2653,
+      "end": 2660
+    },
+    {
+      "text": "Pathologic",
+      "type": "ENTITY",
+      "start": 2662,
+      "end": 2672
+    },
+    {
+      "text": "Stage",
+      "type": "ENTITY",
+      "start": 2680,
+      "end": 2685
+    },
+    {
+      "text": "ESTrOGen rEcepTOrS",
+      "type": "ENTITY",
+      "start": 2706,
+      "end": 2724
+    },
+    {
+      "text": "pMX",
+      "type": "ENTITY",
+      "start": 2726,
+      "end": 2729
+    },
+    {
+      "text": "positive",
+      "type": "ENTITY",
+      "start": 2754,
+      "end": 2762
+    },
+    {
+      "text": "HER2/NEU",
+      "type": "ENTITY",
+      "start": 2763,
+      "end": 2771
+    },
+    {
+      "text": "positive",
+      "type": "ENTITY",
+      "start": 2773,
+      "end": 2781
+    }
+  ],
+  "entity_count": 127,
+  "has_embedding": true
+}

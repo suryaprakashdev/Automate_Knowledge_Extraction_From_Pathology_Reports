@@ -1,0 +1,752 @@
+{
+  "filename": "e34c1530-1725-493f-9f19-c41dceb0a872",
+  "timestamp": "2026-01-05T14:44:49.919158",
+  "entities": [
+    {
+      "text": "Permanent Storage",
+      "type": "ENTITY",
+      "start": 24,
+      "end": 41
+    },
+    {
+      "text": "Medical Records",
+      "type": "ENTITY",
+      "start": 45,
+      "end": 60
+    },
+    {
+      "text": "Not",
+      "type": "ENTITY",
+      "start": 63,
+      "end": 66
+    },
+    {
+      "text": "Valid",
+      "type": "ENTITY",
+      "start": 67,
+      "end": 72
+    },
+    {
+      "text": "Signing",
+      "type": "ENTITY",
+      "start": 77,
+      "end": 84
+    },
+    {
+      "text": "Patient",
+      "type": "ENTITY",
+      "start": 100,
+      "end": 107
+    },
+    {
+      "text": "MRN",
+      "type": "ENTITY",
+      "start": 108,
+      "end": 111
+    },
+    {
+      "text": "Service Performing Facility Ordering Provider Result Provider",
+      "type": "ENTITY",
+      "start": 120,
+      "end": 181
+    },
+    {
+      "text": "Right colon",
+      "type": "ENTITY",
+      "start": 248,
+      "end": 259
+    },
+    {
+      "text": "PRE-OPERATIVE",
+      "type": "ENTITY",
+      "start": 264,
+      "end": 277
+    },
+    {
+      "text": "DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 278,
+      "end": 287
+    },
+    {
+      "text": "Carcinoma",
+      "type": "ENTITY",
+      "start": 289,
+      "end": 298
+    },
+    {
+      "text": "right colon",
+      "type": "ENTITY",
+      "start": 300,
+      "end": 311
+    },
+    {
+      "text": "Same",
+      "type": "ENTITY",
+      "start": 369,
+      "end": 373
+    },
+    {
+      "text": "GROSS DESCRIPTION",
+      "type": "ENTITY",
+      "start": 377,
+      "end": 394
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 400,
+      "end": 408
+    },
+    {
+      "text": "segment",
+      "type": "ENTITY",
+      "start": 423,
+      "end": 430
+    },
+    {
+      "text": "terminal",
+      "type": "ENTITY",
+      "start": 434,
+      "end": 442
+    },
+    {
+      "text": "ileum",
+      "type": "ENTITY",
+      "start": 443,
+      "end": 448
+    },
+    {
+      "text": "cecum",
+      "type": "ENTITY",
+      "start": 450,
+      "end": 455
+    },
+    {
+      "text": "appendix",
+      "type": "ENTITY",
+      "start": 457,
+      "end": 465
+    },
+    {
+      "text": "ascending colon",
+      "type": "ENTITY",
+      "start": 471,
+      "end": 486
+    },
+    {
+      "text": "mesocolon",
+      "type": "ENTITY",
+      "start": 501,
+      "end": 510
+    },
+    {
+      "text": "omentum",
+      "type": "ENTITY",
+      "start": 515,
+      "end": 522
+    },
+    {
+      "text": "Multiple adhesions",
+      "type": "ENTITY",
+      "start": 524,
+      "end": 542
+    },
+    {
+      "text": "surface",
+      "type": "ENTITY",
+      "start": 559,
+      "end": 566
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 574,
+      "end": 582
+    },
+    {
+      "text": "terminal",
+      "type": "ENTITY",
+      "start": 588,
+      "end": 596
+    },
+    {
+      "text": "ileum",
+      "type": "ENTITY",
+      "start": 597,
+      "end": 602
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 603,
+      "end": 611
+    },
+    {
+      "text": "colonic",
+      "type": "ENTITY",
+      "start": 645,
+      "end": 652
+    },
+    {
+      "text": "ceca1",
+      "type": "ENTITY",
+      "start": 657,
+      "end": 662
+    },
+    {
+      "text": "segment",
+      "type": "ENTITY",
+      "start": 663,
+      "end": 670
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 671,
+      "end": 679
+    },
+    {
+      "text": "area of",
+      "type": "ENTITY",
+      "start": 699,
+      "end": 706
+    },
+    {
+      "text": "induration",
+      "type": "ENTITY",
+      "start": 707,
+      "end": 717
+    },
+    {
+      "text": "puckering",
+      "type": "ENTITY",
+      "start": 722,
+      "end": 731
+    },
+    {
+      "text": "anterior",
+      "type": "ENTITY",
+      "start": 750,
+      "end": 758
+    },
+    {
+      "text": "aspect",
+      "type": "ENTITY",
+      "start": 759,
+      "end": 765
+    },
+    {
+      "text": "ileocecal valve",
+      "type": "ENTITY",
+      "start": 796,
+      "end": 811
+    },
+    {
+      "text": "colon",
+      "type": "ENTITY",
+      "start": 825,
+      "end": 830
+    },
+    {
+      "text": "fungating",
+      "type": "ENTITY",
+      "start": 847,
+      "end": 856
+    },
+    {
+      "text": "approximately",
+      "type": "ENTITY",
+      "start": 882,
+      "end": 895
+    },
+    {
+      "text": "circumference",
+      "type": "ENTITY",
+      "start": 928,
+      "end": 941
+    },
+    {
+      "text": "colon",
+      "type": "ENTITY",
+      "start": 949,
+      "end": 954
+    },
+    {
+      "text": "central area of",
+      "type": "ENTITY",
+      "start": 965,
+      "end": 980
+    },
+    {
+      "text": "ulceration",
+      "type": "ENTITY",
+      "start": 981,
+      "end": 991
+    },
+    {
+      "text": "raised",
+      "type": "ENTITY",
+      "start": 996,
+      "end": 1002
+    },
+    {
+      "text": "irregular",
+      "type": "ENTITY",
+      "start": 1003,
+      "end": 1012
+    },
+    {
+      "text": "erythematous",
+      "type": "ENTITY",
+      "start": 1013,
+      "end": 1025
+    },
+    {
+      "text": "edges",
+      "type": "ENTITY",
+      "start": 1026,
+      "end": 1031
+    },
+    {
+      "text": "appendix",
+      "type": "ENTITY",
+      "start": 1037,
+      "end": 1045
+    },
+    {
+      "text": "dilated",
+      "type": "ENTITY",
+      "start": 1049,
+      "end": 1056
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 1061,
+      "end": 1069
+    },
+    {
+      "text": "Sections",
+      "type": "ENTITY",
+      "start": 1109,
+      "end": 1117
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1130,
+      "end": 1135
+    },
+    {
+      "text": "variable pattern",
+      "type": "ENTITY",
+      "start": 1150,
+      "end": 1166
+    },
+    {
+      "text": "atypical",
+      "type": "ENTITY",
+      "start": 1193,
+      "end": 1201
+    },
+    {
+      "text": "glandular structures",
+      "type": "ENTITY",
+      "start": 1202,
+      "end": 1222
+    },
+    {
+      "text": "cells",
+      "type": "ENTITY",
+      "start": 1233,
+      "end": 1238
+    },
+    {
+      "text": "irregular",
+      "type": "ENTITY",
+      "start": 1244,
+      "end": 1253
+    },
+    {
+      "text": "hyperchromatic nuclei",
+      "type": "ENTITY",
+      "start": 1258,
+      "end": 1279
+    },
+    {
+      "text": "poorly",
+      "type": "ENTITY",
+      "start": 1312,
+      "end": 1318
+    },
+    {
+      "text": "differentiated",
+      "type": "ENTITY",
+      "start": 1319,
+      "end": 1333
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1334,
+      "end": 1339
+    },
+    {
+      "text": "cells",
+      "type": "ENTITY",
+      "start": 1351,
+      "end": 1356
+    },
+    {
+      "text": "solids",
+      "type": "ENTITY",
+      "start": 1362,
+      "end": 1368
+    },
+    {
+      "text": "nests",
+      "type": "ENTITY",
+      "start": 1369,
+      "end": 1374
+    },
+    {
+      "text": "cords",
+      "type": "ENTITY",
+      "start": 1379,
+      "end": 1384
+    },
+    {
+      "text": "spindle",
+      "type": "ENTITY",
+      "start": 1388,
+      "end": 1395
+    },
+    {
+      "text": "polygonal",
+      "type": "ENTITY",
+      "start": 1400,
+      "end": 1409
+    },
+    {
+      "text": "gland formation",
+      "type": "ENTITY",
+      "start": 1431,
+      "end": 1446
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1452,
+      "end": 1457
+    },
+    {
+      "text": "invades",
+      "type": "ENTITY",
+      "start": 1458,
+      "end": 1465
+    },
+    {
+      "text": "muscularis",
+      "type": "ENTITY",
+      "start": 1470,
+      "end": 1480
+    },
+    {
+      "text": "ulcerated",
+      "type": "ENTITY",
+      "start": 1489,
+      "end": 1498
+    },
+    {
+      "text": "mucosal",
+      "type": "ENTITY",
+      "start": 1499,
+      "end": 1506
+    },
+    {
+      "text": "serosal tissues",
+      "type": "ENTITY",
+      "start": 1532,
+      "end": 1547
+    },
+    {
+      "text": "surrounded",
+      "type": "ENTITY",
+      "start": 1560,
+      "end": 1570
+    },
+    {
+      "text": "desmoplastic reaction",
+      "type": "ENTITY",
+      "start": 1576,
+      "end": 1597
+    },
+    {
+      "text": "Sections",
+      "type": "ENTITY",
+      "start": 1599,
+      "end": 1607
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 1624,
+      "end": 1635
+    },
+    {
+      "text": "lymphoid",
+      "type": "ENTITY",
+      "start": 1645,
+      "end": 1653
+    },
+    {
+      "text": "hyperplasia",
+      "type": "ENTITY",
+      "start": 1654,
+      "end": 1665
+    },
+    {
+      "text": "reactive changes",
+      "type": "ENTITY",
+      "start": 1670,
+      "end": 1686
+    },
+    {
+      "text": "metastatic tumor",
+      "type": "ENTITY",
+      "start": 1695,
+      "end": 1711
+    },
+    {
+      "text": "resection margins",
+      "type": "ENTITY",
+      "start": 1717,
+      "end": 1734
+    },
+    {
+      "text": "free of tumor",
+      "type": "ENTITY",
+      "start": 1739,
+      "end": 1752
+    },
+    {
+      "text": "serosal",
+      "type": "ENTITY",
+      "start": 1766,
+      "end": 1773
+    },
+    {
+      "text": "surfaces",
+      "type": "ENTITY",
+      "start": 1774,
+      "end": 1782
+    },
+    {
+      "text": "bowel",
+      "type": "ENTITY",
+      "start": 1790,
+      "end": 1795
+    },
+    {
+      "text": "appendix",
+      "type": "ENTITY",
+      "start": 1800,
+      "end": 1808
+    },
+    {
+      "text": "chronic",
+      "type": "ENTITY",
+      "start": 1821,
+      "end": 1828
+    },
+    {
+      "text": "inflammatory",
+      "type": "ENTITY",
+      "start": 1829,
+      "end": 1841
+    },
+    {
+      "text": "sFINALDIAGNOSIS",
+      "type": "ENTITY",
+      "start": 1852,
+      "end": 1867
+    },
+    {
+      "text": "ASCENDING",
+      "type": "ENTITY",
+      "start": 1872,
+      "end": 1881
+    },
+    {
+      "text": "CONTIGUOUS TERMINAL",
+      "type": "ENTITY",
+      "start": 1893,
+      "end": 1912
+    },
+    {
+      "text": "CECUM",
+      "type": "ENTITY",
+      "start": 1920,
+      "end": 1925
+    },
+    {
+      "text": "APPENDIX",
+      "type": "ENTITY",
+      "start": 1930,
+      "end": 1938
+    },
+    {
+      "text": "ASCENDING",
+      "type": "ENTITY",
+      "start": 1958,
+      "end": 1967
+    },
+    {
+      "text": "UNDIFFERENTIATED SIXTEEN",
+      "type": "ENTITY",
+      "start": 1986,
+      "end": 2010
+    },
+    {
+      "text": "TUMOR TUMOR PERMEATES",
+      "type": "ENTITY",
+      "start": 2040,
+      "end": 2061
+    },
+    {
+      "text": "EXTENDS",
+      "type": "ENTITY",
+      "start": 2077,
+      "end": 2084
+    },
+    {
+      "text": "PERICOLIC",
+      "type": "ENTITY",
+      "start": 2088,
+      "end": 2097
+    },
+    {
+      "text": "Permanent Storage",
+      "type": "ENTITY",
+      "start": 2137,
+      "end": 2154
+    },
+    {
+      "text": "Medical Records",
+      "type": "ENTITY",
+      "start": 2158,
+      "end": 2173
+    },
+    {
+      "text": "Not",
+      "type": "ENTITY",
+      "start": 2176,
+      "end": 2179
+    },
+    {
+      "text": "Valid",
+      "type": "ENTITY",
+      "start": 2180,
+      "end": 2185
+    },
+    {
+      "text": "Signing",
+      "type": "ENTITY",
+      "start": 2190,
+      "end": 2197
+    },
+    {
+      "text": "Patient",
+      "type": "ENTITY",
+      "start": 2212,
+      "end": 2219
+    },
+    {
+      "text": "MRN Date",
+      "type": "ENTITY",
+      "start": 2220,
+      "end": 2228
+    },
+    {
+      "text": "Facility Ordering Provider",
+      "type": "ENTITY",
+      "start": 2252,
+      "end": 2278
+    },
+    {
+      "text": "Provider",
+      "type": "ENTITY",
+      "start": 2287,
+      "end": 2295
+    },
+    {
+      "text": "CM",
+      "type": "ENTITY",
+      "start": 2355,
+      "end": 2357
+    },
+    {
+      "text": "TT3,NO",
+      "type": "ENTITY",
+      "start": 2358,
+      "end": 2364
+    },
+    {
+      "text": "MX PROXIMAL DISTAL",
+      "type": "ENTITY",
+      "start": 2365,
+      "end": 2383
+    },
+    {
+      "text": "RADIAL MARGINS",
+      "type": "ENTITY",
+      "start": 2388,
+      "end": 2402
+    },
+    {
+      "text": "LYMPHATIC",
+      "type": "ENTITY",
+      "start": 2416,
+      "end": 2425
+    },
+    {
+      "text": "IS",
+      "type": "ENTITY",
+      "start": 2449,
+      "end": 2451
+    },
+    {
+      "text": "CODF",
+      "type": "ENTITY",
+      "start": 2461,
+      "end": 2465
+    },
+    {
+      "text": "PATHOLOGTST",
+      "type": "ENTITY",
+      "start": 2470,
+      "end": 2481
+    },
+    {
+      "text": "histologic grade",
+      "type": "ENTITY",
+      "start": 2486,
+      "end": 2502
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 2511,
+      "end": 2516
+    },
+    {
+      "text": "undifferentiated",
+      "type": "ENTITY",
+      "start": 2537,
+      "end": 2553
+    }
+  ],
+  "entity_count": 124,
+  "has_embedding": true
+}

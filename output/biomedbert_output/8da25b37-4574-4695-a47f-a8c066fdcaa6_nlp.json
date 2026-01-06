@@ -1,0 +1,614 @@
+{
+  "filename": "8da25b37-4574-4695-a47f-a8c066fdcaa6",
+  "timestamp": "2026-01-05T14:45:21.901554",
+  "entities": [
+    {
+      "text": "MRN",
+      "type": "ENTITY",
+      "start": 28,
+      "end": 31
+    },
+    {
+      "text": "Gender M",
+      "type": "ENTITY",
+      "start": 32,
+      "end": 40
+    },
+    {
+      "text": "Birth Encounter Number",
+      "type": "ENTITY",
+      "start": 54,
+      "end": 76
+    },
+    {
+      "text": "COpy OnLy",
+      "type": "ENTITY",
+      "start": 77,
+      "end": 86
+    },
+    {
+      "text": "DO",
+      "type": "ENTITY",
+      "start": 87,
+      "end": 89
+    },
+    {
+      "text": "PATHOLOGY Time",
+      "type": "ENTITY",
+      "start": 108,
+      "end": 122
+    },
+    {
+      "text": "Received Time",
+      "type": "ENTITY",
+      "start": 138,
+      "end": 151
+    },
+    {
+      "text": "Order Number Ordering Provider Status",
+      "type": "ENTITY",
+      "start": 161,
+      "end": 198
+    },
+    {
+      "text": "RIGHT",
+      "type": "ENTITY",
+      "start": 306,
+      "end": 311
+    },
+    {
+      "text": "rraI",
+      "type": "ENTITY",
+      "start": 328,
+      "end": 332
+    },
+    {
+      "text": "ceQQ",
+      "type": "ENTITY",
+      "start": 333,
+      "end": 337
+    },
+    {
+      "text": "RENAL CELL CARCINOMA",
+      "type": "ENTITY",
+      "start": 346,
+      "end": 366
+    },
+    {
+      "text": "RENAL TISSUE EXAMINED",
+      "type": "ENTITY",
+      "start": 379,
+      "end": 400
+    },
+    {
+      "text": "SARCOMATOID",
+      "type": "ENTITY",
+      "start": 432,
+      "end": 443
+    },
+    {
+      "text": "C64.9",
+      "type": "ENTITY",
+      "start": 460,
+      "end": 465
+    },
+    {
+      "text": "RIGHT",
+      "type": "ENTITY",
+      "start": 487,
+      "end": 492
+    },
+    {
+      "text": "TUMOR FOCALITY",
+      "type": "ENTITY",
+      "start": 506,
+      "end": 520
+    },
+    {
+      "text": "FOCAL",
+      "type": "ENTITY",
+      "start": 522,
+      "end": 527
+    },
+    {
+      "text": "TUMOR SIZE",
+      "type": "ENTITY",
+      "start": 529,
+      "end": 539
+    },
+    {
+      "text": "IF",
+      "type": "ENTITY",
+      "start": 556,
+      "end": 558
+    },
+    {
+      "text": "CM",
+      "type": "ENTITY",
+      "start": 575,
+      "end": 577
+    },
+    {
+      "text": "UUID",
+      "type": "ENTITY",
+      "start": 579,
+      "end": 583
+    },
+    {
+      "text": "F492EF1F-F786-4D10-B59E-D8435F7FAAB1 HISTOLOGIC TYPE",
+      "type": "ENTITY",
+      "start": 585,
+      "end": 637
+    },
+    {
+      "text": "PAPILLARY TYPE",
+      "type": "ENTITY",
+      "start": 639,
+      "end": 653
+    },
+    {
+      "text": "TCGA-1Z-A6M9-01A-PR",
+      "type": "ENTITY",
+      "start": 655,
+      "end": 674
+    },
+    {
+      "text": "Redacted HISTOLOGIC GRADE",
+      "type": "ENTITY",
+      "start": 675,
+      "end": 700
+    },
+    {
+      "text": "TNM STAGE",
+      "type": "ENTITY",
+      "start": 732,
+      "end": 741
+    },
+    {
+      "text": "pTla",
+      "type": "ENTITY",
+      "start": 743,
+      "end": 747
+    },
+    {
+      "text": "pNx",
+      "type": "ENTITY",
+      "start": 749,
+      "end": 752
+    },
+    {
+      "text": "pMX",
+      "type": "ENTITY",
+      "start": 754,
+      "end": 757
+    },
+    {
+      "text": "ALL",
+      "type": "ENTITY",
+      "start": 785,
+      "end": 788
+    },
+    {
+      "text": "PARTS",
+      "type": "ENTITY",
+      "start": 789,
+      "end": 794
+    },
+    {
+      "text": "NONE EXAMINED",
+      "type": "ENTITY",
+      "start": 796,
+      "end": 809
+    },
+    {
+      "text": "LYMPHATIC",
+      "type": "ENTITY",
+      "start": 811,
+      "end": 820
+    },
+    {
+      "text": "INVASION",
+      "type": "ENTITY",
+      "start": 836,
+      "end": 844
+    },
+    {
+      "text": "IS",
+      "type": "ENTITY",
+      "start": 846,
+      "end": 848
+    },
+    {
+      "text": "RIGHT PARTIAL NEPHRECTOMY",
+      "type": "ENTITY",
+      "start": 874,
+      "end": 899
+    },
+    {
+      "text": "SpECIMEN",
+      "type": "ENTITY",
+      "start": 901,
+      "end": 909
+    },
+    {
+      "text": "SizE",
+      "type": "ENTITY",
+      "start": 910,
+      "end": 914
+    },
+    {
+      "text": "CM",
+      "type": "ENTITY",
+      "start": 932,
+      "end": 934
+    },
+    {
+      "text": "N/A.",
+      "type": "ENTITY",
+      "start": 991,
+      "end": 995
+    },
+    {
+      "text": "NO TUMOR SEEN AT RESECTION MARGINS",
+      "type": "ENTITY",
+      "start": 996,
+      "end": 1030
+    },
+    {
+      "text": "TO BE",
+      "type": "ENTITY",
+      "start": 1069,
+      "end": 1074
+    },
+    {
+      "text": "AN ADDENDUM Signature",
+      "type": "ENTITY",
+      "start": 1087,
+      "end": 1108
+    },
+    {
+      "text": "Case signed Signed others",
+      "type": "ENTITY",
+      "start": 1110,
+      "end": 1135
+    },
+    {
+      "text": "Frozen section",
+      "type": "ENTITY",
+      "start": 1136,
+      "end": 1150
+    },
+    {
+      "text": "RIGHT RENAL MASS",
+      "type": "ENTITY",
+      "start": 1152,
+      "end": 1168
+    },
+    {
+      "text": "CM",
+      "type": "ENTITY",
+      "start": 1188,
+      "end": 1190
+    },
+    {
+      "text": "THIN",
+      "type": "ENTITY",
+      "start": 1225,
+      "end": 1229
+    },
+    {
+      "text": "CAPSULE",
+      "type": "ENTITY",
+      "start": 1230,
+      "end": 1237
+    },
+    {
+      "text": "CONSISTENT WITH",
+      "type": "ENTITY",
+      "start": 1239,
+      "end": 1254
+    },
+    {
+      "text": "RENAL CELL CARCINOMA",
+      "type": "ENTITY",
+      "start": 1255,
+      "end": 1275
+    },
+    {
+      "text": "ARE",
+      "type": "ENTITY",
+      "start": 1285,
+      "end": 1288
+    },
+    {
+      "text": "Frozen section",
+      "type": "ENTITY",
+      "start": 1332,
+      "end": 1346
+    },
+    {
+      "text": "Frozen",
+      "type": "ENTITY",
+      "start": 1361,
+      "end": 1367
+    },
+    {
+      "text": "ection",
+      "type": "ENTITY",
+      "start": 1369,
+      "end": 1375
+    },
+    {
+      "text": "Case Clinical Information RIGHT RENAL MASS",
+      "type": "ENTITY",
+      "start": 1383,
+      "end": 1425
+    },
+    {
+      "text": "Gross De$cription",
+      "type": "ENTITY",
+      "start": 1426,
+      "end": 1443
+    },
+    {
+      "text": "Received",
+      "type": "ENTITY",
+      "start": 1444,
+      "end": 1452
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 1456,
+      "end": 1464
+    },
+    {
+      "text": "patient's",
+      "type": "ENTITY",
+      "start": 1482,
+      "end": 1491
+    },
+    {
+      "text": "\"right renal mass Nrs",
+      "type": "ENTITY",
+      "start": 1501,
+      "end": 1522
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1589,
+      "end": 1597
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 1598,
+      "end": 1607
+    },
+    {
+      "text": "parenchymal margin",
+      "type": "ENTITY",
+      "start": 1628,
+      "end": 1646
+    },
+    {
+      "text": "capsule margin blue",
+      "type": "ENTITY",
+      "start": 1676,
+      "end": 1695
+    },
+    {
+      "text": "cut surface",
+      "type": "ENTITY",
+      "start": 1701,
+      "end": 1712
+    },
+    {
+      "text": "nodule",
+      "type": "ENTITY",
+      "start": 1754,
+      "end": 1760
+    },
+    {
+      "text": "thin capsule",
+      "type": "ENTITY",
+      "start": 1772,
+      "end": 1784
+    },
+    {
+      "text": "consistent with",
+      "type": "ENTITY",
+      "start": 1786,
+      "end": 1801
+    },
+    {
+      "text": "renal cell carcinoma",
+      "type": "ENTITY",
+      "start": 1802,
+      "end": 1822
+    },
+    {
+      "text": "margins",
+      "type": "ENTITY",
+      "start": 1829,
+      "end": 1836
+    },
+    {
+      "text": "uninvolved",
+      "type": "ENTITY",
+      "start": 1852,
+      "end": 1862
+    },
+    {
+      "text": "Representative sections",
+      "type": "ENTITY",
+      "start": 1864,
+      "end": 1887
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 1902,
+      "end": 1906
+    },
+    {
+      "text": "capsule",
+      "type": "ENTITY",
+      "start": 1910,
+      "end": 1917
+    },
+    {
+      "text": "parenchyma",
+      "type": "ENTITY",
+      "start": 1922,
+      "end": 1932
+    },
+    {
+      "text": "Physiciars",
+      "type": "ENTITY",
+      "start": 1939,
+      "end": 1949
+    },
+    {
+      "text": "Signed Supplemental EVALUATIGN",
+      "type": "ENTITY",
+      "start": 1950,
+      "end": 1980
+    },
+    {
+      "text": "NON-NEOPLASTIC RENAL PARENCHYMA SHOWS",
+      "type": "ENTITY",
+      "start": 1984,
+      "end": 2021
+    },
+    {
+      "text": "COMPRESSION ATROPHY",
+      "type": "ENTITY",
+      "start": 2022,
+      "end": 2041
+    },
+    {
+      "text": "PARENCHYMA AT",
+      "type": "ENTITY",
+      "start": 2086,
+      "end": 2099
+    },
+    {
+      "text": "MILD CHRONIC CHANGES",
+      "type": "ENTITY",
+      "start": 2136,
+      "end": 2156
+    },
+    {
+      "text": "MILD VASCULAR",
+      "type": "ENTITY",
+      "start": 2161,
+      "end": 2174
+    },
+    {
+      "text": "JONES",
+      "type": "ENTITY",
+      "start": 2227,
+      "end": 2232
+    },
+    {
+      "text": "PAS",
+      "type": "ENTITY",
+      "start": 2234,
+      "end": 2237
+    },
+    {
+      "text": "TRICHROME",
+      "type": "ENTITY",
+      "start": 2242,
+      "end": 2251
+    },
+    {
+      "text": "EXAMINED",
+      "type": "ENTITY",
+      "start": 2252,
+      "end": 2260
+    },
+    {
+      "text": "Supplemental Report",
+      "type": "ENTITY",
+      "start": 2263,
+      "end": 2282
+    },
+    {
+      "text": "A. AA",
+      "type": "ENTITY",
+      "start": 2300,
+      "end": 2305
+    },
+    {
+      "text": "H&E",
+      "type": "ENTITY",
+      "start": 2314,
+      "end": 2317
+    },
+    {
+      "text": "A. AA",
+      "type": "ENTITY",
+      "start": 2336,
+      "end": 2341
+    },
+    {
+      "text": "H&E X1 BLOCK.2 H&E X1 A. AA",
+      "type": "ENTITY",
+      "start": 2350,
+      "end": 2377
+    },
+    {
+      "text": "H&E X1 BLOCK.3 H&E X1 A. AA",
+      "type": "ENTITY",
+      "start": 2386,
+      "end": 2413
+    },
+    {
+      "text": "H&E X1 BLOCK.4 H&E X1 A. AA",
+      "type": "ENTITY",
+      "start": 2422,
+      "end": 2449
+    },
+    {
+      "text": "H&E",
+      "type": "ENTITY",
+      "start": 2458,
+      "end": 2461
+    },
+    {
+      "text": "PAS",
+      "type": "ENTITY",
+      "start": 2486,
+      "end": 2489
+    },
+    {
+      "text": "TRICHROME",
+      "type": "ENTITY",
+      "start": 2490,
+      "end": 2499
+    },
+    {
+      "text": "A. AA",
+      "type": "ENTITY",
+      "start": 2500,
+      "end": 2505
+    },
+    {
+      "text": "H&E X1",
+      "type": "ENTITY",
+      "start": 2514,
+      "end": 2520
+    },
+    {
+      "text": "BLOCK.6 H&E X1 Prepared fc",
+      "type": "ENTITY",
+      "start": 2521,
+      "end": 2547
+    }
+  ],
+  "entity_count": 101,
+  "has_embedding": true
+}

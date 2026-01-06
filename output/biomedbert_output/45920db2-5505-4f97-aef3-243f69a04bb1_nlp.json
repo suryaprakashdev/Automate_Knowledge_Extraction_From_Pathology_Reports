@@ -1,0 +1,806 @@
+{
+  "filename": "45920db2-5505-4f97-aef3-243f69a04bb1",
+  "timestamp": "2026-01-05T14:45:23.275657",
+  "entities": [
+    {
+      "text": "Lymph node",
+      "type": "ENTITY",
+      "start": 55,
+      "end": 65
+    },
+    {
+      "text": "no tumor",
+      "type": "ENTITY",
+      "start": 67,
+      "end": 75
+    },
+    {
+      "text": "PARTIAL",
+      "type": "ENTITY",
+      "start": 97,
+      "end": 104
+    },
+    {
+      "text": "PHARYNGECTOMY",
+      "type": "ENTITY",
+      "start": 105,
+      "end": 118
+    },
+    {
+      "text": "BILATERAL",
+      "type": "ENTITY",
+      "start": 124,
+      "end": 133
+    },
+    {
+      "text": "DISSECTION",
+      "type": "ENTITY",
+      "start": 139,
+      "end": 149
+    },
+    {
+      "text": "SUBTOTAL",
+      "type": "ENTITY",
+      "start": 155,
+      "end": 163
+    },
+    {
+      "text": "THYROIDECTOMY",
+      "type": "ENTITY",
+      "start": 164,
+      "end": 177
+    },
+    {
+      "text": "SQUAMOUS CARCINOMA",
+      "type": "ENTITY",
+      "start": 179,
+      "end": 197
+    },
+    {
+      "text": "INVOLVING",
+      "type": "ENTITY",
+      "start": 206,
+      "end": 215
+    },
+    {
+      "text": "LEFT",
+      "type": "ENTITY",
+      "start": 233,
+      "end": 237
+    },
+    {
+      "text": "LEFT SUPRAGLOTTIC AREA",
+      "type": "ENTITY",
+      "start": 253,
+      "end": 275
+    },
+    {
+      "text": "THICKNESS",
+      "type": "ENTITY",
+      "start": 277,
+      "end": 286
+    },
+    {
+      "text": "CM",
+      "type": "ENTITY",
+      "start": 304,
+      "end": 306
+    },
+    {
+      "text": "Margins",
+      "type": "ENTITY",
+      "start": 309,
+      "end": 316
+    },
+    {
+      "text": "resection free of tumor",
+      "type": "ENTITY",
+      "start": 320,
+      "end": 343
+    },
+    {
+      "text": "Nodular goiter right thyroid",
+      "type": "ENTITY",
+      "start": 345,
+      "end": 373
+    },
+    {
+      "text": "right cervical nodes",
+      "type": "ENTITY",
+      "start": 387,
+      "end": 407
+    },
+    {
+      "text": "left cervical lymph nodes",
+      "type": "ENTITY",
+      "start": 421,
+      "end": 446
+    },
+    {
+      "text": "no tumor",
+      "type": "ENTITY",
+      "start": 448,
+      "end": 456
+    },
+    {
+      "text": "Specimen",
+      "type": "ENTITY",
+      "start": 458,
+      "end": 466
+    },
+    {
+      "text": "mucosal margins",
+      "type": "ENTITY",
+      "start": 490,
+      "end": 505
+    },
+    {
+      "text": "resection free of tumor",
+      "type": "ENTITY",
+      "start": 509,
+      "end": 532
+    },
+    {
+      "text": "GROSSDESCRIPTION",
+      "type": "ENTITY",
+      "start": 534,
+      "end": 550
+    },
+    {
+      "text": "JUGULAR",
+      "type": "ENTITY",
+      "start": 561,
+      "end": 568
+    },
+    {
+      "text": "NODE",
+      "type": "ENTITY",
+      "start": 575,
+      "end": 579
+    },
+    {
+      "text": "Two",
+      "type": "ENTITY",
+      "start": 582,
+      "end": 585
+    },
+    {
+      "text": "tan lymph nodes",
+      "type": "ENTITY",
+      "start": 586,
+      "end": 601
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 624,
+      "end": 632
+    },
+    {
+      "text": "dimension",
+      "type": "ENTITY",
+      "start": 658,
+      "end": 667
+    },
+    {
+      "text": "CODE",
+      "type": "ENTITY",
+      "start": 677,
+      "end": 681
+    },
+    {
+      "text": "twOlymph nodes",
+      "type": "ENTITY",
+      "start": 684,
+      "end": 698
+    },
+    {
+      "text": "(B)TOTAL",
+      "type": "ENTITY",
+      "start": 700,
+      "end": 708
+    },
+    {
+      "text": "LARYNGECTOMY",
+      "type": "ENTITY",
+      "start": 709,
+      "end": 721
+    },
+    {
+      "text": "PARTIAL",
+      "type": "ENTITY",
+      "start": 723,
+      "end": 730
+    },
+    {
+      "text": "PHARYNGEC",
+      "type": "ENTITY",
+      "start": 731,
+      "end": 740
+    },
+    {
+      "text": "MY",
+      "type": "ENTITY",
+      "start": 741,
+      "end": 743
+    },
+    {
+      "text": "BILATERAL",
+      "type": "ENTITY",
+      "start": 748,
+      "end": 757
+    },
+    {
+      "text": "DISSECTION",
+      "type": "ENTITY",
+      "start": 763,
+      "end": 773
+    },
+    {
+      "text": "THyroIDEcroMy",
+      "type": "ENTITY",
+      "start": 788,
+      "end": 801
+    },
+    {
+      "text": "laryngectomy",
+      "type": "ENTITY",
+      "start": 812,
+      "end": 824
+    },
+    {
+      "text": "bilateral",
+      "type": "ENTITY",
+      "start": 830,
+      "end": 839
+    },
+    {
+      "text": "measurements",
+      "type": "ENTITY",
+      "start": 869,
+      "end": 881
+    },
+    {
+      "text": "cm._The laryngeal component",
+      "type": "ENTITY",
+      "start": 903,
+      "end": 930
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 934,
+      "end": 943
+    },
+    {
+      "text": "left supraglottic area",
+      "type": "ENTITY",
+      "start": 971,
+      "end": 993
+    },
+    {
+      "text": "fungating",
+      "type": "ENTITY",
+      "start": 1005,
+      "end": 1014
+    },
+    {
+      "text": "ulcerated",
+      "type": "ENTITY",
+      "start": 1015,
+      "end": 1024
+    },
+    {
+      "text": "soft mass",
+      "type": "ENTITY",
+      "start": 1029,
+      "end": 1038
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 1039,
+      "end": 1048
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1073,
+      "end": 1078
+    },
+    {
+      "text": "Teft",
+      "type": "ENTITY",
+      "start": 1092,
+      "end": 1096
+    },
+    {
+      "text": "vocal cord",
+      "type": "ENTITY",
+      "start": 1097,
+      "end": 1107
+    },
+    {
+      "text": "supraglottic area",
+      "type": "ENTITY",
+      "start": 1112,
+      "end": 1129
+    },
+    {
+      "text": "impingement",
+      "type": "ENTITY",
+      "start": 1135,
+      "end": 1146
+    },
+    {
+      "text": "midline",
+      "type": "ENTITY",
+      "start": 1155,
+      "end": 1162
+    },
+    {
+      "text": "involvement",
+      "type": "ENTITY",
+      "start": 1171,
+      "end": 1182
+    },
+    {
+      "text": "right glottic area",
+      "type": "ENTITY",
+      "start": 1190,
+      "end": 1208
+    },
+    {
+      "text": "Tumor",
+      "type": "ENTITY",
+      "start": 1210,
+      "end": 1215
+    },
+    {
+      "text": "supraglottic region",
+      "type": "ENTITY",
+      "start": 1238,
+      "end": 1257
+    },
+    {
+      "text": "soft tissue",
+      "type": "ENTITY",
+      "start": 1287,
+      "end": 1298
+    },
+    {
+      "text": "identified",
+      "type": "ENTITY",
+      "start": 1302,
+      "end": 1312
+    },
+    {
+      "text": "mucosa",
+      "type": "ENTITY",
+      "start": 1321,
+      "end": 1327
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1344,
+      "end": 1349
+    },
+    {
+      "text": "unremarkable",
+      "type": "ENTITY",
+      "start": 1358,
+      "end": 1370
+    },
+    {
+      "text": "nodule",
+      "type": "ENTITY",
+      "start": 1395,
+      "end": 1401
+    },
+    {
+      "text": "left pyriform sinus",
+      "type": "ENTITY",
+      "start": 1409,
+      "end": 1428
+    },
+    {
+      "text": "nodule",
+      "type": "ENTITY",
+      "start": 1468,
+      "end": 1474
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1488,
+      "end": 1493
+    },
+    {
+      "text": "nodule",
+      "type": "ENTITY",
+      "start": 1499,
+      "end": 1505
+    },
+    {
+      "text": "light-tan",
+      "type": "ENTITY",
+      "start": 1509,
+      "end": 1518
+    },
+    {
+      "text": "measuring1.5",
+      "type": "ENTITY",
+      "start": 1540,
+      "end": 1552
+    },
+    {
+      "text": "SEcrion",
+      "type": "ENTITY",
+      "start": 1568,
+      "end": 1575
+    },
+    {
+      "text": "coDe",
+      "type": "ENTITY",
+      "start": 1576,
+      "end": 1580
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1586,
+      "end": 1594
+    },
+    {
+      "text": "Mucosal margins",
+      "type": "ENTITY",
+      "start": 1620,
+      "end": 1635
+    },
+    {
+      "text": "frozen section",
+      "type": "ENTITY",
+      "start": 1640,
+      "end": 1654
+    },
+    {
+      "text": "B",
+      "type": "ENTITY",
+      "start": 1667,
+      "end": 1668
+    },
+    {
+      "text": "posterior cricoid",
+      "type": "ENTITY",
+      "start": 1670,
+      "end": 1687
+    },
+    {
+      "text": "B2",
+      "type": "ENTITY",
+      "start": 1689,
+      "end": 1691
+    },
+    {
+      "text": "inferior left pyriform margin",
+      "type": "ENTITY",
+      "start": 1693,
+      "end": 1722
+    },
+    {
+      "text": "B3",
+      "type": "ENTITY",
+      "start": 1724,
+      "end": 1726
+    },
+    {
+      "text": "inferior lateral left pyriform",
+      "type": "ENTITY",
+      "start": 1728,
+      "end": 1758
+    },
+    {
+      "text": "B4",
+      "type": "ENTITY",
+      "start": 1760,
+      "end": 1762
+    },
+    {
+      "text": "left ateral pyriform margin;. B5",
+      "type": "ENTITY",
+      "start": 1764,
+      "end": 1796
+    },
+    {
+      "text": "left superolateral pyriform",
+      "type": "ENTITY",
+      "start": 1798,
+      "end": 1825
+    },
+    {
+      "text": "left superior pyriform",
+      "type": "ENTITY",
+      "start": 1831,
+      "end": 1853
+    },
+    {
+      "text": "B7 left lateral",
+      "type": "ENTITY",
+      "start": 1855,
+      "end": 1870
+    },
+    {
+      "text": "B8midline",
+      "type": "ENTITY",
+      "start": 1882,
+      "end": 1891
+    },
+    {
+      "text": "right mollecula B9",
+      "type": "ENTITY",
+      "start": 1896,
+      "end": 1914
+    },
+    {
+      "text": "B10",
+      "type": "ENTITY",
+      "start": 1933,
+      "end": 1936
+    },
+    {
+      "text": "right superior pyriform",
+      "type": "ENTITY",
+      "start": 1938,
+      "end": 1961
+    },
+    {
+      "text": "B11,right lateral pyriform",
+      "type": "ENTITY",
+      "start": 1963,
+      "end": 1989
+    },
+    {
+      "text": "B12",
+      "type": "ENTITY",
+      "start": 1991,
+      "end": 1994
+    },
+    {
+      "text": "right inferior pyriform",
+      "type": "ENTITY",
+      "start": 1996,
+      "end": 2019
+    },
+    {
+      "text": "right post cricoid",
+      "type": "ENTITY",
+      "start": 2026,
+      "end": 2044
+    },
+    {
+      "text": "tumoris",
+      "type": "ENTITY",
+      "start": 2049,
+      "end": 2056
+    },
+    {
+      "text": "submitted",
+      "type": "ENTITY",
+      "start": 2057,
+      "end": 2066
+    },
+    {
+      "text": "block code",
+      "type": "ENTITY",
+      "start": 2103,
+      "end": 2113
+    },
+    {
+      "text": "B14",
+      "type": "ENTITY",
+      "start": 2117,
+      "end": 2120
+    },
+    {
+      "text": "right transglottic",
+      "type": "ENTITY",
+      "start": 2122,
+      "end": 2140
+    },
+    {
+      "text": "B15",
+      "type": "ENTITY",
+      "start": 2142,
+      "end": 2145
+    },
+    {
+      "text": "right supraglottic mucosa",
+      "type": "ENTITY",
+      "start": 2147,
+      "end": 2172
+    },
+    {
+      "text": "B16-B31,sequential",
+      "type": "ENTITY",
+      "start": 2174,
+      "end": 2192
+    },
+    {
+      "text": "midline",
+      "type": "ENTITY",
+      "start": 2206,
+      "end": 2213
+    },
+    {
+      "text": "left pyriform sinus tumor",
+      "type": "ENTITY",
+      "start": 2221,
+      "end": 2246
+    },
+    {
+      "text": "Pathology\n\n--- Page 2 ---\nnecrosis",
+      "type": "ENTITY",
+      "start": 2328,
+      "end": 2362
+    },
+    {
+      "text": "B32",
+      "type": "ENTITY",
+      "start": 2364,
+      "end": 2367
+    },
+    {
+      "text": "B33",
+      "type": "ENTITY",
+      "start": 2369,
+      "end": 2372
+    },
+    {
+      "text": "left pyriform sinus",
+      "type": "ENTITY",
+      "start": 2403,
+      "end": 2422
+    },
+    {
+      "text": "B34",
+      "type": "ENTITY",
+      "start": 2424,
+      "end": 2427
+    },
+    {
+      "text": "right thyroid lobe",
+      "type": "ENTITY",
+      "start": 2430,
+      "end": 2448
+    },
+    {
+      "text": "smal7 nodule",
+      "type": "ENTITY",
+      "start": 2456,
+      "end": 2468
+    },
+    {
+      "text": "B35",
+      "type": "ENTITY",
+      "start": 2470,
+      "end": 2473
+    },
+    {
+      "text": "section",
+      "type": "ENTITY",
+      "start": 2475,
+      "end": 2482
+    },
+    {
+      "text": "left colloid",
+      "type": "ENTITY",
+      "start": 2490,
+      "end": 2502
+    },
+    {
+      "text": "superior right neck",
+      "type": "ENTITY",
+      "start": 2519,
+      "end": 2538
+    },
+    {
+      "text": "right superior neck",
+      "type": "ENTITY",
+      "start": 2564,
+      "end": 2583
+    },
+    {
+      "text": "nodesB384 superior right 7ymph nodes",
+      "type": "ENTITY",
+      "start": 2590,
+      "end": 2626
+    },
+    {
+      "text": "B39,true right inferior 1ymph nodeB40-B411 right inferior",
+      "type": "ENTITY",
+      "start": 2627,
+      "end": 2684
+    },
+    {
+      "text": "superionlymph",
+      "type": "ENTITY",
+      "start": 2832,
+      "end": 2845
+    },
+    {
+      "text": "nodeB483 1eftsuperior",
+      "type": "ENTITY",
+      "start": 2846,
+      "end": 2867
+    },
+    {
+      "text": "Tymph",
+      "type": "ENTITY",
+      "start": 2868,
+      "end": 2873
+    },
+    {
+      "text": "nodesB496 left superior",
+      "type": "ENTITY",
+      "start": 2874,
+      "end": 2897
+    },
+    {
+      "text": "inferior",
+      "type": "ENTITY",
+      "start": 2920,
+      "end": 2928
+    },
+    {
+      "text": "nodesB524 left inferior",
+      "type": "ENTITY",
+      "start": 2963,
+      "end": 2986
+    },
+    {
+      "text": "left inferior",
+      "type": "ENTITY",
+      "start": 3036,
+      "end": 3049
+    },
+    {
+      "text": "Tymph",
+      "type": "ENTITY",
+      "start": 3050,
+      "end": 3055
+    },
+    {
+      "text": "UNDERLYING FIBROADIPOSE",
+      "type": "ENTITY",
+      "start": 3121,
+      "end": 3144
+    },
+    {
+      "text": "FIBROMUSCULAR",
+      "type": "ENTITY",
+      "start": 3156,
+      "end": 3169
+    },
+    {
+      "text": "NO",
+      "type": "ENTITY",
+      "start": 3178,
+      "end": 3180
+    },
+    {
+      "text": "SNOMED CODES M-80703 T-24455 Page 2",
+      "type": "ENTITY",
+      "start": 3205,
+      "end": 3240
+    },
+    {
+      "text": "Pathology",
+      "type": "ENTITY",
+      "start": 3312,
+      "end": 3321
+    }
+  ],
+  "entity_count": 133,
+  "has_embedding": true
+}

@@ -1,0 +1,728 @@
+{
+  "filename": "1f7d0bee-36c2-4092-9099-645f392a1b27",
+  "timestamp": "2026-01-05T14:42:12.505654",
+  "entities": [
+    {
+      "text": "TCGA-ZS-A9CF-02A-PR",
+      "type": "ENTITY",
+      "start": 82,
+      "end": 101
+    },
+    {
+      "text": "Specimen(s)",
+      "type": "ENTITY",
+      "start": 121,
+      "end": 132
+    },
+    {
+      "text": "Left lobe liver 2",
+      "type": "ENTITY",
+      "start": 137,
+      "end": 154
+    },
+    {
+      "text": "Portal lymph node",
+      "type": "ENTITY",
+      "start": 156,
+      "end": 173
+    },
+    {
+      "text": "clinical",
+      "type": "ENTITY",
+      "start": 184,
+      "end": 192
+    },
+    {
+      "text": "Left hepatectomy",
+      "type": "ENTITY",
+      "start": 214,
+      "end": 230
+    },
+    {
+      "text": "medical history",
+      "type": "ENTITY",
+      "start": 243,
+      "end": 258
+    },
+    {
+      "text": "primary hepatocellular carcinoma",
+      "type": "ENTITY",
+      "start": 262,
+      "end": 294
+    },
+    {
+      "text": "segment",
+      "type": "ENTITY",
+      "start": 295,
+      "end": 302
+    },
+    {
+      "text": "resected",
+      "type": "ENTITY",
+      "start": 307,
+      "end": 315
+    },
+    {
+      "text": "Haemochromatosis",
+      "type": "ENTITY",
+      "start": 318,
+      "end": 334
+    },
+    {
+      "text": "lesion",
+      "type": "ENTITY",
+      "start": 336,
+      "end": 342
+    },
+    {
+      "text": "FROCREMENt",
+      "type": "ENTITY",
+      "start": 347,
+      "end": 357
+    },
+    {
+      "text": "Macro Report 1",
+      "type": "ENTITY",
+      "start": 363,
+      "end": 377
+    },
+    {
+      "text": "Received",
+      "type": "ENTITY",
+      "start": 379,
+      "end": 387
+    },
+    {
+      "text": "left lobe",
+      "type": "ENTITY",
+      "start": 393,
+      "end": 402
+    },
+    {
+      "text": "liver",
+      "type": "ENTITY",
+      "start": 406,
+      "end": 411
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 412,
+      "end": 421
+    },
+    {
+      "text": "surgical resection margin",
+      "type": "ENTITY",
+      "start": 439,
+      "end": 464
+    },
+    {
+      "text": "inked blue",
+      "type": "ENTITY",
+      "start": 468,
+      "end": 478
+    },
+    {
+      "text": "tumour nodules",
+      "type": "ENTITY",
+      "start": 515,
+      "end": 529
+    },
+    {
+      "text": "cream-white",
+      "type": "ENTITY",
+      "start": 550,
+      "end": 561
+    },
+    {
+      "text": "Focal areas",
+      "type": "ENTITY",
+      "start": 585,
+      "end": 596
+    },
+    {
+      "text": "necrosis",
+      "type": "ENTITY",
+      "start": 600,
+      "end": 608
+    },
+    {
+      "text": "softening",
+      "type": "ENTITY",
+      "start": 613,
+      "end": 622
+    },
+    {
+      "text": "lesion",
+      "type": "ENTITY",
+      "start": 647,
+      "end": 653
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 654,
+      "end": 662
+    },
+    {
+      "text": "lesion",
+      "type": "ENTITY",
+      "start": 713,
+      "end": 719
+    },
+    {
+      "text": "inked blue resection margin",
+      "type": "ENTITY",
+      "start": 736,
+      "end": 763
+    },
+    {
+      "text": "lesion",
+      "type": "ENTITY",
+      "start": 777,
+      "end": 783
+    },
+    {
+      "text": "white scarring",
+      "type": "ENTITY",
+      "start": 832,
+      "end": 846
+    },
+    {
+      "text": "resection margin",
+      "type": "ENTITY",
+      "start": 865,
+      "end": 881
+    },
+    {
+      "text": "larger",
+      "type": "ENTITY",
+      "start": 917,
+      "end": 923
+    },
+    {
+      "text": "lesion",
+      "type": "ENTITY",
+      "start": 924,
+      "end": 930
+    },
+    {
+      "text": "fragment",
+      "type": "ENTITY",
+      "start": 937,
+      "end": 945
+    },
+    {
+      "text": "brown-white tissue",
+      "type": "ENTITY",
+      "start": 949,
+      "end": 967
+    },
+    {
+      "text": "slicing",
+      "type": "ENTITY",
+      "start": 992,
+      "end": 999
+    },
+    {
+      "text": "lymph node",
+      "type": "ENTITY",
+      "start": 1002,
+      "end": 1012
+    },
+    {
+      "text": "Micro Report",
+      "type": "ENTITY",
+      "start": 1026,
+      "end": 1038
+    },
+    {
+      "text": "Sections",
+      "type": "ENTITY",
+      "start": 1043,
+      "end": 1051
+    },
+    {
+      "text": "tumours",
+      "type": "ENTITY",
+      "start": 1064,
+      "end": 1071
+    },
+    {
+      "text": "morphological",
+      "type": "ENTITY",
+      "start": 1077,
+      "end": 1090
+    },
+    {
+      "text": "features",
+      "type": "ENTITY",
+      "start": 1091,
+      "end": 1099
+    },
+    {
+      "text": "consistent with",
+      "type": "ENTITY",
+      "start": 1100,
+      "end": 1115
+    },
+    {
+      "text": "hepatocellular carcinoma",
+      "type": "ENTITY",
+      "start": 1116,
+      "end": 1140
+    },
+    {
+      "text": "tumours",
+      "type": "ENTITY",
+      "start": 1147,
+      "end": 1154
+    },
+    {
+      "text": "anastomosing",
+      "type": "ENTITY",
+      "start": 1163,
+      "end": 1175
+    },
+    {
+      "text": "trabecular",
+      "type": "ENTITY",
+      "start": 1176,
+      "end": 1186
+    },
+    {
+      "text": "atypical cells",
+      "type": "ENTITY",
+      "start": 1211,
+      "end": 1225
+    },
+    {
+      "text": "abundant",
+      "type": "ENTITY",
+      "start": 1234,
+      "end": 1242
+    },
+    {
+      "text": "cytoplasm",
+      "type": "ENTITY",
+      "start": 1243,
+      "end": 1252
+    },
+    {
+      "text": "focally",
+      "type": "ENTITY",
+      "start": 1257,
+      "end": 1264
+    },
+    {
+      "text": "bile",
+      "type": "ENTITY",
+      "start": 1275,
+      "end": 1279
+    },
+    {
+      "text": "lesion",
+      "type": "ENTITY",
+      "start": 1292,
+      "end": 1298
+    },
+    {
+      "text": "associated with",
+      "type": "ENTITY",
+      "start": 1302,
+      "end": 1317
+    },
+    {
+      "text": "spread",
+      "type": "ENTITY",
+      "start": 1318,
+      "end": 1324
+    },
+    {
+      "text": "small branches",
+      "type": "ENTITY",
+      "start": 1330,
+      "end": 1344
+    },
+    {
+      "text": "portal veins",
+      "type": "ENTITY",
+      "start": 1348,
+      "end": 1360
+    },
+    {
+      "text": "lesion approaches",
+      "type": "ENTITY",
+      "start": 1375,
+      "end": 1392
+    },
+    {
+      "text": "inked resection margin",
+      "type": "ENTITY",
+      "start": 1406,
+      "end": 1428
+    },
+    {
+      "text": "resection margin",
+      "type": "ENTITY",
+      "start": 1439,
+      "end": 1455
+    },
+    {
+      "text": "tumour",
+      "type": "ENTITY",
+      "start": 1477,
+      "end": 1483
+    },
+    {
+      "text": "lesions",
+      "type": "ENTITY",
+      "start": 1506,
+      "end": 1513
+    },
+    {
+      "text": "macroscopically",
+      "type": "ENTITY",
+      "start": 1524,
+      "end": 1539
+    },
+    {
+      "text": "resection margin",
+      "type": "ENTITY",
+      "start": 1562,
+      "end": 1578
+    },
+    {
+      "text": "Adjacent",
+      "type": "ENTITY",
+      "start": 1580,
+      "end": 1588
+    },
+    {
+      "text": "liver parenchyma",
+      "type": "ENTITY",
+      "start": 1589,
+      "end": 1605
+    },
+    {
+      "text": "chronic inflammation",
+      "type": "ENTITY",
+      "start": 1617,
+      "end": 1637
+    },
+    {
+      "text": "portal areas",
+      "type": "ENTITY",
+      "start": 1641,
+      "end": 1653
+    },
+    {
+      "text": "steatosis",
+      "type": "ENTITY",
+      "start": 1658,
+      "end": 1667
+    },
+    {
+      "text": "mild",
+      "type": "ENTITY",
+      "start": 1678,
+      "end": 1682
+    },
+    {
+      "text": "degree",
+      "type": "ENTITY",
+      "start": 1686,
+      "end": 1692
+    },
+    {
+      "text": "evidence",
+      "type": "ENTITY",
+      "start": 1714,
+      "end": 1722
+    },
+    {
+      "text": "iron pigment",
+      "type": "ENTITY",
+      "start": 1726,
+      "end": 1738
+    },
+    {
+      "text": "routine",
+      "type": "ENTITY",
+      "start": 1742,
+      "end": 1749
+    },
+    {
+      "text": "staining",
+      "type": "ENTITY",
+      "start": 1750,
+      "end": 1758
+    },
+    {
+      "text": "liver histochemistry",
+      "type": "ENTITY",
+      "start": 1767,
+      "end": 1787
+    },
+    {
+      "text": "results",
+      "type": "ENTITY",
+      "start": 1810,
+      "end": 1817
+    },
+    {
+      "text": "supplementary report",
+      "type": "ENTITY",
+      "start": 1830,
+      "end": 1850
+    },
+    {
+      "text": "Corensn",
+      "type": "ENTITY",
+      "start": 1871,
+      "end": 1878
+    },
+    {
+      "text": "fupatoelleler",
+      "type": "ENTITY",
+      "start": 1880,
+      "end": 1893
+    },
+    {
+      "text": "NoS",
+      "type": "ENTITY",
+      "start": 1894,
+      "end": 1897
+    },
+    {
+      "text": "SECRETARY DOCTOR Sute",
+      "type": "ENTITY",
+      "start": 1938,
+      "end": 1959
+    },
+    {
+      "text": "nodules",
+      "type": "ENTITY",
+      "start": 2057,
+      "end": 2064
+    },
+    {
+      "text": "hepatocellular carcinoma",
+      "type": "ENTITY",
+      "start": 2068,
+      "end": 2092
+    },
+    {
+      "text": "excised",
+      "type": "ENTITY",
+      "start": 2110,
+      "end": 2117
+    },
+    {
+      "text": "Sections",
+      "type": "ENTITY",
+      "start": 2122,
+      "end": 2130
+    },
+    {
+      "text": "reactive lymph node",
+      "type": "ENTITY",
+      "start": 2138,
+      "end": 2157
+    },
+    {
+      "text": "oleogranuloma",
+      "type": "ENTITY",
+      "start": 2172,
+      "end": 2185
+    },
+    {
+      "text": "evidence",
+      "type": "ENTITY",
+      "start": 2199,
+      "end": 2207
+    },
+    {
+      "text": "malignancy",
+      "type": "ENTITY",
+      "start": 2211,
+      "end": 2221
+    },
+    {
+      "text": "Signature",
+      "type": "ENTITY",
+      "start": 2223,
+      "end": 2232
+    },
+    {
+      "text": "Pathologist(s) Page 2",
+      "type": "ENTITY",
+      "start": 2236,
+      "end": 2257
+    },
+    {
+      "text": "Recvd vace lssueu",
+      "type": "ENTITY",
+      "start": 2333,
+      "end": 2350
+    },
+    {
+      "text": "Supplementary Report",
+      "type": "ENTITY",
+      "start": 2351,
+      "end": 2371
+    },
+    {
+      "text": "histochemical stains",
+      "type": "ENTITY",
+      "start": 2383,
+      "end": 2403
+    },
+    {
+      "text": "normal liver",
+      "type": "ENTITY",
+      "start": 2407,
+      "end": 2419
+    },
+    {
+      "text": "excess",
+      "type": "ENTITY",
+      "start": 2436,
+      "end": 2442
+    },
+    {
+      "text": "iron",
+      "type": "ENTITY",
+      "start": 2443,
+      "end": 2447
+    },
+    {
+      "text": "fibrosis",
+      "type": "ENTITY",
+      "start": 2464,
+      "end": 2472
+    },
+    {
+      "text": "cirrhosis",
+      "type": "ENTITY",
+      "start": 2474,
+      "end": 2483
+    },
+    {
+      "text": "collapse",
+      "type": "ENTITY",
+      "start": 2487,
+      "end": 2495
+    },
+    {
+      "text": "Orcein positive granules",
+      "type": "ENTITY",
+      "start": 2512,
+      "end": 2536
+    },
+    {
+      "text": "pAs",
+      "type": "ENTITY",
+      "start": 2553,
+      "end": 2556
+    },
+    {
+      "text": "positive",
+      "type": "ENTITY",
+      "start": 2557,
+      "end": 2565
+    },
+    {
+      "text": "diastase resistant globules",
+      "type": "ENTITY",
+      "start": 2567,
+      "end": 2594
+    },
+    {
+      "text": "Signature",
+      "type": "ENTITY",
+      "start": 2597,
+      "end": 2606
+    },
+    {
+      "text": "Tumour cells",
+      "type": "ENTITY",
+      "start": 2748,
+      "end": 2760
+    },
+    {
+      "text": "canalicular staining",
+      "type": "ENTITY",
+      "start": 2766,
+      "end": 2786
+    },
+    {
+      "text": "polyclonal",
+      "type": "ENTITY",
+      "start": 2800,
+      "end": 2810
+    },
+    {
+      "text": "CEA",
+      "type": "ENTITY",
+      "start": 2811,
+      "end": 2814
+    },
+    {
+      "text": "focally cDi0",
+      "type": "ENTITY",
+      "start": 2820,
+      "end": 2832
+    },
+    {
+      "text": "weak",
+      "type": "ENTITY",
+      "start": 2843,
+      "end": 2847
+    },
+    {
+      "text": "expression",
+      "type": "ENTITY",
+      "start": 2848,
+      "end": 2858
+    },
+    {
+      "text": "HepRl",
+      "type": "ENTITY",
+      "start": 2862,
+      "end": 2867
+    },
+    {
+      "text": "findings",
+      "type": "ENTITY",
+      "start": 2873,
+      "end": 2881
+    },
+    {
+      "text": "hepatocellular carcinoma",
+      "type": "ENTITY",
+      "start": 2902,
+      "end": 2926
+    },
+    {
+      "text": "Signature",
+      "type": "ENTITY",
+      "start": 2929,
+      "end": 2938
+    },
+    {
+      "text": "HCC",
+      "type": "ENTITY",
+      "start": 3060,
+      "end": 3063
+    },
+    {
+      "text": "QUALIFIE",
+      "type": "ENTITY",
+      "start": 3064,
+      "end": 3072
+    }
+  ],
+  "entity_count": 120,
+  "has_embedding": true
+}

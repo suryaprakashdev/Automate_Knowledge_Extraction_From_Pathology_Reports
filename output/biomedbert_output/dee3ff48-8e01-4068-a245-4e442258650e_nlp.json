@@ -1,0 +1,596 @@
+{
+  "filename": "dee3ff48-8e01-4068-a245-4e442258650e",
+  "timestamp": "2026-01-05T14:43:06.194422",
+  "entities": [
+    {
+      "text": "Mass",
+      "type": "ENTITY",
+      "start": 30,
+      "end": 34
+    },
+    {
+      "text": "right kidney",
+      "type": "ENTITY",
+      "start": 36,
+      "end": 48
+    },
+    {
+      "text": "partial nephrectomy",
+      "type": "ENTITY",
+      "start": 50,
+      "end": 69
+    },
+    {
+      "text": "Renal cell carcinoma",
+      "type": "ENTITY",
+      "start": 72,
+      "end": 92
+    },
+    {
+      "text": "papillary type I",
+      "type": "ENTITY",
+      "start": 94,
+      "end": 110
+    },
+    {
+      "text": "incipient",
+      "type": "ENTITY",
+      "start": 112,
+      "end": 121
+    },
+    {
+      "text": "lesion",
+      "type": "ENTITY",
+      "start": 122,
+      "end": 128
+    },
+    {
+      "text": "adjacent",
+      "type": "ENTITY",
+      "start": 140,
+      "end": 148
+    },
+    {
+      "text": "overlying tumor",
+      "type": "ENTITY",
+      "start": 186,
+      "end": 201
+    },
+    {
+      "text": "excision",
+      "type": "ENTITY",
+      "start": 203,
+      "end": 211
+    },
+    {
+      "text": "Fibroadipose tissue",
+      "type": "ENTITY",
+      "start": 214,
+      "end": 233
+    },
+    {
+      "text": "NOTE",
+      "type": "ENTITY",
+      "start": 251,
+      "end": 255
+    },
+    {
+      "text": "Kidney Partial Nephrectomy",
+      "type": "ENTITY",
+      "start": 257,
+      "end": 283
+    },
+    {
+      "text": "Macroscopic",
+      "type": "ENTITY",
+      "start": 299,
+      "end": 310
+    },
+    {
+      "text": "Partial nephrectomy",
+      "type": "ENTITY",
+      "start": 326,
+      "end": 345
+    },
+    {
+      "text": "Laterality",
+      "type": "ENTITY",
+      "start": 346,
+      "end": 356
+    },
+    {
+      "text": "Right Tumor Size",
+      "type": "ENTITY",
+      "start": 358,
+      "end": 374
+    },
+    {
+      "text": "Focality",
+      "type": "ENTITY",
+      "start": 395,
+      "end": 403
+    },
+    {
+      "text": "Unifocal",
+      "type": "ENTITY",
+      "start": 405,
+      "end": 413
+    },
+    {
+      "text": "adjacent",
+      "type": "ENTITY",
+      "start": 419,
+      "end": 427
+    },
+    {
+      "text": "lesion",
+      "type": "ENTITY",
+      "start": 438,
+      "end": 444
+    },
+    {
+      "text": "Tumor",
+      "type": "ENTITY",
+      "start": 461,
+      "end": 466
+    },
+    {
+      "text": "kidney",
+      "type": "ENTITY",
+      "start": 483,
+      "end": 489
+    },
+    {
+      "text": "Microscopic",
+      "type": "ENTITY",
+      "start": 490,
+      "end": 501
+    },
+    {
+      "text": "Histologic Type",
+      "type": "ENTITY",
+      "start": 502,
+      "end": 517
+    },
+    {
+      "text": "Renal cell carcinoma",
+      "type": "ENTITY",
+      "start": 519,
+      "end": 539
+    },
+    {
+      "text": "papillary type I.",
+      "type": "ENTITY",
+      "start": 541,
+      "end": 558
+    },
+    {
+      "text": "Extent",
+      "type": "ENTITY",
+      "start": 559,
+      "end": 565
+    },
+    {
+      "text": "Invasion",
+      "type": "ENTITY",
+      "start": 569,
+      "end": 577
+    },
+    {
+      "text": "Primary",
+      "type": "ENTITY",
+      "start": 578,
+      "end": 585
+    },
+    {
+      "text": "Tumor(pT",
+      "type": "ENTITY",
+      "start": 586,
+      "end": 594
+    },
+    {
+      "text": "pT1b",
+      "type": "ENTITY",
+      "start": 597,
+      "end": 601
+    },
+    {
+      "text": "Regional",
+      "type": "ENTITY",
+      "start": 602,
+      "end": 610
+    },
+    {
+      "text": "pNX",
+      "type": "ENTITY",
+      "start": 628,
+      "end": 631
+    },
+    {
+      "text": "Distant Metastisis(pM",
+      "type": "ENTITY",
+      "start": 632,
+      "end": 653
+    },
+    {
+      "text": "pMX",
+      "type": "ENTITY",
+      "start": 656,
+      "end": 659
+    },
+    {
+      "text": "Margins",
+      "type": "ENTITY",
+      "start": 660,
+      "end": 667
+    },
+    {
+      "text": "assessed",
+      "type": "ENTITY",
+      "start": 680,
+      "end": 688
+    },
+    {
+      "text": "Brief Clinical History",
+      "type": "ENTITY",
+      "start": 712,
+      "end": 734
+    },
+    {
+      "text": "bilat multifocal tumors",
+      "type": "ENTITY",
+      "start": 741,
+      "end": 764
+    },
+    {
+      "text": "Patient",
+      "type": "ENTITY",
+      "start": 765,
+      "end": 772
+    },
+    {
+      "text": "Identification",
+      "type": "ENTITY",
+      "start": 773,
+      "end": 787
+    },
+    {
+      "text": "Protocol",
+      "type": "ENTITY",
+      "start": 823,
+      "end": 831
+    },
+    {
+      "text": "Pre-Operative Diagnosis",
+      "type": "ENTITY",
+      "start": 845,
+      "end": 868
+    },
+    {
+      "text": "Bilateral renal masses",
+      "type": "ENTITY",
+      "start": 870,
+      "end": 892
+    },
+    {
+      "text": "Diagnosis",
+      "type": "ENTITY",
+      "start": 909,
+      "end": 918
+    },
+    {
+      "text": "Bilateral renal masses",
+      "type": "ENTITY",
+      "start": 920,
+      "end": 942
+    },
+    {
+      "text": "Operative Findings",
+      "type": "ENTITY",
+      "start": 943,
+      "end": 961
+    },
+    {
+      "text": "satelite lesion",
+      "type": "ENTITY",
+      "start": 992,
+      "end": 1007
+    },
+    {
+      "text": "RIGHT",
+      "type": "ENTITY",
+      "start": 1040,
+      "end": 1045
+    },
+    {
+      "text": "Mass 2",
+      "type": "ENTITY",
+      "start": 1047,
+      "end": 1053
+    },
+    {
+      "text": "FAT",
+      "type": "ENTITY",
+      "start": 1055,
+      "end": 1058
+    },
+    {
+      "text": "Overlying tumor",
+      "type": "ENTITY",
+      "start": 1060,
+      "end": 1075
+    },
+    {
+      "text": "DEscRiPTION",
+      "type": "ENTITY",
+      "start": 1083,
+      "end": 1094
+    },
+    {
+      "text": "Received",
+      "type": "ENTITY",
+      "start": 1096,
+      "end": 1104
+    },
+    {
+      "text": "formalin-filled containers",
+      "type": "ENTITY",
+      "start": 1111,
+      "end": 1137
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 1138,
+      "end": 1145
+    },
+    {
+      "text": "patient's",
+      "type": "ENTITY",
+      "start": 1155,
+      "end": 1164
+    },
+    {
+      "text": "medical record number",
+      "type": "ENTITY",
+      "start": 1171,
+      "end": 1192
+    },
+    {
+      "text": "Right kidney mass",
+      "type": "ENTITY",
+      "start": 1232,
+      "end": 1249
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 1261,
+      "end": 1266
+    },
+    {
+      "text": "OR",
+      "type": "ENTITY",
+      "start": 1272,
+      "end": 1274
+    },
+    {
+      "text": "patient's",
+      "type": "ENTITY",
+      "start": 1292,
+      "end": 1301
+    },
+    {
+      "text": "medical record number",
+      "type": "ENTITY",
+      "start": 1308,
+      "end": 1329
+    },
+    {
+      "text": "\"right kidney mass",
+      "type": "ENTITY",
+      "start": 1334,
+      "end": 1352
+    },
+    {
+      "text": "tan",
+      "type": "ENTITY",
+      "start": 1379,
+      "end": 1382
+    },
+    {
+      "text": "friable tumor",
+      "type": "ENTITY",
+      "start": 1384,
+      "end": 1397
+    },
+    {
+      "text": "small rim",
+      "type": "ENTITY",
+      "start": 1406,
+      "end": 1415
+    },
+    {
+      "text": "normal parenchyma",
+      "type": "ENTITY",
+      "start": 1419,
+      "end": 1436
+    },
+    {
+      "text": "nodule",
+      "type": "ENTITY",
+      "start": 1447,
+      "end": 1453
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 1454,
+      "end": 1463
+    },
+    {
+      "text": "tumors",
+      "type": "ENTITY",
+      "start": 1515,
+      "end": 1521
+    },
+    {
+      "text": "normal kidney",
+      "type": "ENTITY",
+      "start": 1534,
+      "end": 1547
+    },
+    {
+      "text": "procured",
+      "type": "ENTITY",
+      "start": 1559,
+      "end": 1567
+    },
+    {
+      "text": "Research",
+      "type": "ENTITY",
+      "start": 1572,
+      "end": 1580
+    },
+    {
+      "text": "Macroscopic images",
+      "type": "ENTITY",
+      "start": 1582,
+      "end": 1600
+    },
+    {
+      "text": "procurement",
+      "type": "ENTITY",
+      "start": 1617,
+      "end": 1628
+    },
+    {
+      "text": "Received",
+      "type": "ENTITY",
+      "start": 1646,
+      "end": 1654
+    },
+    {
+      "text": "Surgical Pathology",
+      "type": "ENTITY",
+      "start": 1658,
+      "end": 1676
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1682,
+      "end": 1690
+    },
+    {
+      "text": "representative",
+      "type": "ENTITY",
+      "start": 1717,
+      "end": 1731
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 1732,
+      "end": 1740
+    },
+    {
+      "text": "white cassettes",
+      "type": "ENTITY",
+      "start": 1758,
+      "end": 1773
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 1774,
+      "end": 1781
+    },
+    {
+      "text": "1D",
+      "type": "ENTITY",
+      "start": 1790,
+      "end": 1792
+    },
+    {
+      "text": "serial",
+      "type": "ENTITY",
+      "start": 1797,
+      "end": 1803
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1847,
+      "end": 1855
+    },
+    {
+      "text": "pieces",
+      "type": "ENTITY",
+      "start": 1870,
+      "end": 1876
+    },
+    {
+      "text": "yellow adipose tissue",
+      "type": "ENTITY",
+      "start": 1880,
+      "end": 1901
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 1902,
+      "end": 1911
+    },
+    {
+      "text": "aggregate",
+      "type": "ENTITY",
+      "start": 1932,
+      "end": 1941
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1947,
+      "end": 1955
+    },
+    {
+      "text": "identified",
+      "type": "ENTITY",
+      "start": 1997,
+      "end": 2007
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 2013,
+      "end": 2021
+    },
+    {
+      "text": "white cassettes",
+      "type": "ENTITY",
+      "start": 2048,
+      "end": 2063
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 2064,
+      "end": 2071
+    },
+    {
+      "text": "2E",
+      "type": "ENTITY",
+      "start": 2080,
+      "end": 2082
+    },
+    {
+      "text": "serial sectioning",
+      "type": "ENTITY",
+      "start": 2087,
+      "end": 2104
+    }
+  ],
+  "entity_count": 98,
+  "has_embedding": true
+}

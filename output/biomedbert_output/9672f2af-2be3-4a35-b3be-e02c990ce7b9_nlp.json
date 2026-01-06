@@ -1,0 +1,854 @@
+{
+  "filename": "9672f2af-2be3-4a35-b3be-e02c990ce7b9",
+  "timestamp": "2026-01-05T14:42:57.940560",
+  "entities": [
+    {
+      "text": "F7280EE2-0A62-4DE5-",
+      "type": "ENTITY",
+      "start": 21,
+      "end": 40
+    },
+    {
+      "text": "TCGA-NH-A5IV-01A-PR",
+      "type": "ENTITY",
+      "start": 58,
+      "end": 77
+    },
+    {
+      "text": "RUN",
+      "type": "ENTITY",
+      "start": 87,
+      "end": 90
+    },
+    {
+      "text": "RUN",
+      "type": "ENTITY",
+      "start": 97,
+      "end": 100
+    },
+    {
+      "text": "RUN",
+      "type": "ENTITY",
+      "start": 111,
+      "end": 114
+    },
+    {
+      "text": "USER",
+      "type": "ENTITY",
+      "start": 115,
+      "end": 119
+    },
+    {
+      "text": "PATIENT",
+      "type": "ENTITY",
+      "start": 121,
+      "end": 128
+    },
+    {
+      "text": "ACCT",
+      "type": "ENTITY",
+      "start": 130,
+      "end": 134
+    },
+    {
+      "text": "LOC",
+      "type": "ENTITY",
+      "start": 138,
+      "end": 141
+    },
+    {
+      "text": "AGE/SX",
+      "type": "ENTITY",
+      "start": 149,
+      "end": 155
+    },
+    {
+      "text": "REG REG DR",
+      "type": "ENTITY",
+      "start": 164,
+      "end": 174
+    },
+    {
+      "text": "DOB",
+      "type": "ENTITY",
+      "start": 176,
+      "end": 179
+    },
+    {
+      "text": "BED",
+      "type": "ENTITY",
+      "start": 181,
+      "end": 184
+    },
+    {
+      "text": "DIS",
+      "type": "ENTITY",
+      "start": 186,
+      "end": 189
+    },
+    {
+      "text": "TLOC",
+      "type": "ENTITY",
+      "start": 199,
+      "end": 203
+    },
+    {
+      "text": "SPEC",
+      "type": "ENTITY",
+      "start": 205,
+      "end": 209
+    },
+    {
+      "text": "PERFORMED",
+      "type": "ENTITY",
+      "start": 213,
+      "end": 222
+    },
+    {
+      "text": "FORMALIN",
+      "type": "ENTITY",
+      "start": 234,
+      "end": 242
+    },
+    {
+      "text": "Pre-Op Diagnosis",
+      "type": "ENTITY",
+      "start": 275,
+      "end": 291
+    },
+    {
+      "text": "Colon CA Remarks",
+      "type": "ENTITY",
+      "start": 293,
+      "end": 309
+    },
+    {
+      "text": "Specimen(s): Right colectomy",
+      "type": "ENTITY",
+      "start": 311,
+      "end": 339
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 340,
+      "end": 348
+    },
+    {
+      "text": "PORTION",
+      "type": "ENTITY",
+      "start": 388,
+      "end": 395
+    },
+    {
+      "text": "TERMINAL",
+      "type": "ENTITY",
+      "start": 399,
+      "end": 407
+    },
+    {
+      "text": "RIGHT COLECTOMY",
+      "type": "ENTITY",
+      "start": 415,
+      "end": 430
+    },
+    {
+      "text": "S ADENOCARCINOMA",
+      "type": "ENTITY",
+      "start": 431,
+      "end": 447
+    },
+    {
+      "text": "TRANSVERSE",
+      "type": "ENTITY",
+      "start": 451,
+      "end": 461
+    },
+    {
+      "text": "GRADE TUMOR",
+      "type": "ENTITY",
+      "start": 473,
+      "end": 484
+    },
+    {
+      "text": "CM",
+      "type": "ENTITY",
+      "start": 496,
+      "end": 498
+    },
+    {
+      "text": "INFILTRATES",
+      "type": "ENTITY",
+      "start": 503,
+      "end": 514
+    },
+    {
+      "text": "SUB",
+      "type": "ENTITY",
+      "start": 515,
+      "end": 518
+    },
+    {
+      "text": "SEROSA",
+      "type": "ENTITY",
+      "start": 519,
+      "end": 525
+    },
+    {
+      "text": "SURGICAL MARGINS",
+      "type": "ENTITY",
+      "start": 526,
+      "end": 542
+    },
+    {
+      "text": "TUMOR",
+      "type": "ENTITY",
+      "start": 551,
+      "end": 556
+    },
+    {
+      "text": "COMMENT",
+      "type": "ENTITY",
+      "start": 609,
+      "end": 616
+    },
+    {
+      "text": "SYNOPTIC",
+      "type": "ENTITY",
+      "start": 621,
+      "end": 629
+    },
+    {
+      "text": "CAP",
+      "type": "ENTITY",
+      "start": 648,
+      "end": 651
+    },
+    {
+      "text": "PATHOLOGY CANCER CASE SUMMARY:S SPECIMEN",
+      "type": "ENTITY",
+      "start": 670,
+      "end": 710
+    },
+    {
+      "text": "Terminal",
+      "type": "ENTITY",
+      "start": 712,
+      "end": 720
+    },
+    {
+      "text": "ileum",
+      "type": "ENTITY",
+      "start": 721,
+      "end": 726
+    },
+    {
+      "text": "cecum",
+      "type": "ENTITY",
+      "start": 728,
+      "end": 733
+    },
+    {
+      "text": "ascending colon",
+      "type": "ENTITY",
+      "start": 735,
+      "end": 750
+    },
+    {
+      "text": "transverse colon PROCEDURE",
+      "type": "ENTITY",
+      "start": 752,
+      "end": 778
+    },
+    {
+      "text": "Right hemicolectomy",
+      "type": "ENTITY",
+      "start": 780,
+      "end": 799
+    },
+    {
+      "text": "TUMOR SITE",
+      "type": "ENTITY",
+      "start": 800,
+      "end": 810
+    },
+    {
+      "text": "Transverse colon TUMOR",
+      "type": "ENTITY",
+      "start": 812,
+      "end": 834
+    },
+    {
+      "text": "dimension",
+      "type": "ENTITY",
+      "start": 850,
+      "end": 859
+    },
+    {
+      "text": "MACROSCOPIC TUMOR",
+      "type": "ENTITY",
+      "start": 866,
+      "end": 883
+    },
+    {
+      "text": "HISTOLOGIC TYPE",
+      "type": "ENTITY",
+      "start": 912,
+      "end": 927
+    },
+    {
+      "text": "Adenocarcinoma",
+      "type": "ENTITY",
+      "start": 929,
+      "end": 943
+    },
+    {
+      "text": "Low-grade",
+      "type": "ENTITY",
+      "start": 962,
+      "end": 971
+    },
+    {
+      "text": "Tumor",
+      "type": "ENTITY",
+      "start": 1002,
+      "end": 1007
+    },
+    {
+      "text": "invades",
+      "type": "ENTITY",
+      "start": 1008,
+      "end": 1015
+    },
+    {
+      "text": "muscularis propria",
+      "type": "ENTITY",
+      "start": 1028,
+      "end": 1046
+    },
+    {
+      "text": "subserosal adipose tissue",
+      "type": "ENTITY",
+      "start": 1056,
+      "end": 1081
+    },
+    {
+      "text": "nonperitonealized",
+      "type": "ENTITY",
+      "start": 1089,
+      "end": 1106
+    },
+    {
+      "text": "pericolic",
+      "type": "ENTITY",
+      "start": 1108,
+      "end": 1117
+    },
+    {
+      "text": "perirectal soft tissues",
+      "type": "ENTITY",
+      "start": 1121,
+      "end": 1144
+    },
+    {
+      "text": "serosal surface MARG INS",
+      "type": "ENTITY",
+      "start": 1173,
+      "end": 1197
+    },
+    {
+      "text": "Proximal margin",
+      "type": "ENTITY",
+      "start": 1200,
+      "end": 1215
+    },
+    {
+      "text": "Uninvolved",
+      "type": "ENTITY",
+      "start": 1217,
+      "end": 1227
+    },
+    {
+      "text": "invasive carcinoma",
+      "type": "ENTITY",
+      "start": 1231,
+      "end": 1249
+    },
+    {
+      "text": "Distal margin",
+      "type": "ENTITY",
+      "start": 1250,
+      "end": 1263
+    },
+    {
+      "text": "Uninvolved",
+      "type": "ENTITY",
+      "start": 1265,
+      "end": 1275
+    },
+    {
+      "text": "invasive carcinoma",
+      "type": "ENTITY",
+      "start": 1279,
+      "end": 1297
+    },
+    {
+      "text": "Circumferential",
+      "type": "ENTITY",
+      "start": 1299,
+      "end": 1314
+    },
+    {
+      "text": "Mesenteric Margin",
+      "type": "ENTITY",
+      "start": 1318,
+      "end": 1335
+    },
+    {
+      "text": "Uninvolved",
+      "type": "ENTITY",
+      "start": 1337,
+      "end": 1347
+    },
+    {
+      "text": "invasive carcinoma",
+      "type": "ENTITY",
+      "start": 1351,
+      "end": 1369
+    },
+    {
+      "text": "LYMPH--VASCULAR",
+      "type": "ENTITY",
+      "start": 1370,
+      "end": 1385
+    },
+    {
+      "text": "INVASION",
+      "type": "ENTITY",
+      "start": 1386,
+      "end": 1394
+    },
+    {
+      "text": "TUMOR",
+      "type": "ENTITY",
+      "start": 1449,
+      "end": 1454
+    },
+    {
+      "text": "DPOSITS",
+      "type": "ENTITY",
+      "start": 1455,
+      "end": 1462
+    },
+    {
+      "text": "Primary tumor",
+      "type": "ENTITY",
+      "start": 1500,
+      "end": 1513
+    },
+    {
+      "text": "pT3",
+      "type": "ENTITY",
+      "start": 1515,
+      "end": 1518
+    },
+    {
+      "text": "Regional lymph nodes",
+      "type": "ENTITY",
+      "start": 1519,
+      "end": 1539
+    },
+    {
+      "text": "pNO",
+      "type": "ENTITY",
+      "start": 1541,
+      "end": 1544
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 1555,
+      "end": 1566
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 1592,
+      "end": 1603
+    },
+    {
+      "text": "S/4o|3 Site Colon",
+      "type": "ENTITY",
+      "start": 1671,
+      "end": 1688
+    },
+    {
+      "text": "transverse cilon",
+      "type": "ENTITY",
+      "start": 1690,
+      "end": 1706
+    },
+    {
+      "text": "RUN",
+      "type": "ENTITY",
+      "start": 1745,
+      "end": 1748
+    },
+    {
+      "text": "PATIENT",
+      "type": "ENTITY",
+      "start": 1790,
+      "end": 1797
+    },
+    {
+      "text": "SPEC",
+      "type": "ENTITY",
+      "start": 1810,
+      "end": 1814
+    },
+    {
+      "text": "GROSS DESCRIPTION",
+      "type": "ENTITY",
+      "start": 1818,
+      "end": 1835
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1841,
+      "end": 1849
+    },
+    {
+      "text": "fresh state",
+      "type": "ENTITY",
+      "start": 1869,
+      "end": 1880
+    },
+    {
+      "text": "operating room",
+      "type": "ENTITY",
+      "start": 1890,
+      "end": 1904
+    },
+    {
+      "text": "gross measures",
+      "type": "ENTITY",
+      "start": 1919,
+      "end": 1933
+    },
+    {
+      "text": "circumference",
+      "type": "ENTITY",
+      "start": 1961,
+      "end": 1974
+    },
+    {
+      "text": "distal portion",
+      "type": "ENTITY",
+      "start": 1991,
+      "end": 2005
+    },
+    {
+      "text": "colon",
+      "type": "ENTITY",
+      "start": 2013,
+      "end": 2018
+    },
+    {
+      "text": "fungating",
+      "type": "ENTITY",
+      "start": 2024,
+      "end": 2033
+    },
+    {
+      "text": "red tumor",
+      "type": "ENTITY",
+      "start": 2035,
+      "end": 2044
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 2051,
+      "end": 2059
+    },
+    {
+      "text": "distal margin",
+      "type": "ENTITY",
+      "start": 2096,
+      "end": 2109
+    },
+    {
+      "text": "radial margin",
+      "type": "ENTITY",
+      "start": 2128,
+      "end": 2141
+    },
+    {
+      "text": "terminal",
+      "type": "ENTITY",
+      "start": 2147,
+      "end": 2155
+    },
+    {
+      "text": "ileum",
+      "type": "ENTITY",
+      "start": 2156,
+      "end": 2161
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 2162,
+      "end": 2170
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 2180,
+      "end": 2186
+    },
+    {
+      "text": "circumference",
+      "type": "ENTITY",
+      "start": 2197,
+      "end": 2210
+    },
+    {
+      "text": "wall thickness",
+      "type": "ENTITY",
+      "start": 2221,
+      "end": 2235
+    },
+    {
+      "text": "unremarkable",
+      "type": "ENTITY",
+      "start": 2248,
+      "end": 2260
+    },
+    {
+      "text": "appendix",
+      "type": "ENTITY",
+      "start": 2266,
+      "end": 2274
+    },
+    {
+      "text": "surgically absent",
+      "type": "ENTITY",
+      "start": 2289,
+      "end": 2306
+    },
+    {
+      "text": "representative",
+      "type": "ENTITY",
+      "start": 2310,
+      "end": 2324
+    },
+    {
+      "text": "section",
+      "type": "ENTITY",
+      "start": 2325,
+      "end": 2332
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 2340,
+      "end": 2345
+    },
+    {
+      "text": "aseptic technique",
+      "type": "ENTITY",
+      "start": 2360,
+      "end": 2377
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 2387,
+      "end": 2392
+    },
+    {
+      "text": "lumen",
+      "type": "ENTITY",
+      "start": 2407,
+      "end": 2412
+    },
+    {
+      "text": "infiltrates",
+      "type": "ENTITY",
+      "start": 2414,
+      "end": 2425
+    },
+    {
+      "text": "subserosa",
+      "type": "ENTITY",
+      "start": 2430,
+      "end": 2439
+    },
+    {
+      "text": "penetrate",
+      "type": "ENTITY",
+      "start": 2463,
+      "end": 2472
+    },
+    {
+      "text": "visceral",
+      "type": "ENTITY",
+      "start": 2477,
+      "end": 2485
+    },
+    {
+      "text": "peritoneum",
+      "type": "ENTITY",
+      "start": 2486,
+      "end": 2496
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 2512,
+      "end": 2520
+    },
+    {
+      "text": "Block 1 proximal margin",
+      "type": "ENTITY",
+      "start": 2536,
+      "end": 2559
+    },
+    {
+      "text": "Blocks",
+      "type": "ENTITY",
+      "start": 2583,
+      "end": 2589
+    },
+    {
+      "text": "colon tumor Blocks",
+      "type": "ENTITY",
+      "start": 2594,
+      "end": 2612
+    },
+    {
+      "text": "whole lymph nodes",
+      "type": "ENTITY",
+      "start": 2617,
+      "end": 2634
+    },
+    {
+      "text": "lymph node trisected Block 11 one",
+      "type": "ENTITY",
+      "start": 2649,
+      "end": 2682
+    },
+    {
+      "text": "lymph node",
+      "type": "ENTITY",
+      "start": 2683,
+      "end": 2693
+    },
+    {
+      "text": "bisected",
+      "type": "ENTITY",
+      "start": 2694,
+      "end": 2702
+    },
+    {
+      "text": "lymph node",
+      "type": "ENTITY",
+      "start": 2717,
+      "end": 2727
+    },
+    {
+      "text": "Regional",
+      "type": "ENTITY",
+      "start": 2738,
+      "end": 2746
+    },
+    {
+      "text": "adipose tissue",
+      "type": "ENTITY",
+      "start": 2747,
+      "end": 2761
+    },
+    {
+      "text": "resected",
+      "type": "ENTITY",
+      "start": 2762,
+      "end": 2770
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 2780,
+      "end": 2788
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 2789,
+      "end": 2797
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 2842,
+      "end": 2853
+    },
+    {
+      "text": "soft",
+      "type": "ENTITY",
+      "start": 2876,
+      "end": 2880
+    },
+    {
+      "text": "measure",
+      "type": "ENTITY",
+      "start": 2885,
+      "end": 2892
+    },
+    {
+      "text": "ADENOCARCINOMA PRESENT",
+      "type": "ENTITY",
+      "start": 2962,
+      "end": 2984
+    },
+    {
+      "text": "COLON",
+      "type": "ENTITY",
+      "start": 2988,
+      "end": 2993
+    },
+    {
+      "text": "TUMOR BANKING",
+      "type": "ENTITY",
+      "start": 3009,
+      "end": 3022
+    },
+    {
+      "text": "Signed",
+      "type": "ENTITY",
+      "start": 3023,
+      "end": 3029
+    },
+    {
+      "text": "signature",
+      "type": "ENTITY",
+      "start": 3031,
+      "end": 3040
+    },
+    {
+      "text": "**",
+      "type": "ENTITY",
+      "start": 3051,
+      "end": 3053
+    },
+    {
+      "text": "END",
+      "type": "ENTITY",
+      "start": 3054,
+      "end": 3057
+    }
+  ],
+  "entity_count": 141,
+  "has_embedding": true
+}

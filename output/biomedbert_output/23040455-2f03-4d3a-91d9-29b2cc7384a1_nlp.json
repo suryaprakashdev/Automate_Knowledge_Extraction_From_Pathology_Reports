@@ -1,0 +1,668 @@
+{
+  "filename": "23040455-2f03-4d3a-91d9-29b2cc7384a1",
+  "timestamp": "2026-01-05T14:41:36.974938",
+  "entities": [
+    {
+      "text": "Diagnosis",
+      "type": "ENTITY",
+      "start": 35,
+      "end": 44
+    },
+    {
+      "text": "Kidney",
+      "type": "ENTITY",
+      "start": 46,
+      "end": 52
+    },
+    {
+      "text": "left",
+      "type": "ENTITY",
+      "start": 54,
+      "end": 58
+    },
+    {
+      "text": "partial nephrectomy",
+      "type": "ENTITY",
+      "start": 60,
+      "end": 79
+    },
+    {
+      "text": "Histologic tumor type/subtype",
+      "type": "ENTITY",
+      "start": 80,
+      "end": 109
+    },
+    {
+      "text": "papillary renal cell carcinoma",
+      "type": "ENTITY",
+      "start": 111,
+      "end": 141
+    },
+    {
+      "text": "Sarcomatoid",
+      "type": "ENTITY",
+      "start": 150,
+      "end": 161
+    },
+    {
+      "text": "features",
+      "type": "ENTITY",
+      "start": 162,
+      "end": 170
+    },
+    {
+      "text": "Histologic grade",
+      "type": "ENTITY",
+      "start": 187,
+      "end": 203
+    },
+    {
+      "text": "Fuhrman nuclear grade 2",
+      "type": "ENTITY",
+      "start": 221,
+      "end": 244
+    },
+    {
+      "text": "Tumor size",
+      "type": "ENTITY",
+      "start": 252,
+      "end": 262
+    },
+    {
+      "text": "dimension",
+      "type": "ENTITY",
+      "start": 273,
+      "end": 282
+    },
+    {
+      "text": "Tumor focality",
+      "type": "ENTITY",
+      "start": 292,
+      "end": 306
+    },
+    {
+      "text": "focal Extent",
+      "type": "ENTITY",
+      "start": 308,
+      "end": 320
+    },
+    {
+      "text": "tumor invasion",
+      "type": "ENTITY",
+      "start": 324,
+      "end": 338
+    },
+    {
+      "text": "macroscopic",
+      "type": "ENTITY",
+      "start": 362,
+      "end": 373
+    },
+    {
+      "text": "microscopic",
+      "type": "ENTITY",
+      "start": 377,
+      "end": 388
+    },
+    {
+      "text": "invasion/perirenal adipose tissue",
+      "type": "ENTITY",
+      "start": 401,
+      "end": 434
+    },
+    {
+      "text": "absent",
+      "type": "ENTITY",
+      "start": 436,
+      "end": 442
+    },
+    {
+      "text": "Gerota' s fascia",
+      "type": "ENTITY",
+      "start": 443,
+      "end": 459
+    },
+    {
+      "text": "absent",
+      "type": "ENTITY",
+      "start": 461,
+      "end": 467
+    },
+    {
+      "text": "Renal sinus",
+      "type": "ENTITY",
+      "start": 468,
+      "end": 479
+    },
+    {
+      "text": "Major veins",
+      "type": "ENTITY",
+      "start": 496,
+      "end": 507
+    },
+    {
+      "text": "renal vein",
+      "type": "ENTITY",
+      "start": 509,
+      "end": 519
+    },
+    {
+      "text": "segmental branches",
+      "type": "ENTITY",
+      "start": 523,
+      "end": 541
+    },
+    {
+      "text": "Ureter",
+      "type": "ENTITY",
+      "start": 564,
+      "end": 570
+    },
+    {
+      "text": "Venous",
+      "type": "ENTITY",
+      "start": 587,
+      "end": 593
+    },
+    {
+      "text": "absent",
+      "type": "ENTITY",
+      "start": 610,
+      "end": 616
+    },
+    {
+      "text": "Lymphatic",
+      "type": "ENTITY",
+      "start": 617,
+      "end": 626
+    },
+    {
+      "text": "absent",
+      "type": "ENTITY",
+      "start": 643,
+      "end": 649
+    },
+    {
+      "text": "Histologic",
+      "type": "ENTITY",
+      "start": 650,
+      "end": 660
+    },
+    {
+      "text": "assessment",
+      "type": "ENTITY",
+      "start": 661,
+      "end": 671
+    },
+    {
+      "text": "surgical margins",
+      "type": "ENTITY",
+      "start": 675,
+      "end": 691
+    },
+    {
+      "text": "Renal parenchymal margin",
+      "type": "ENTITY",
+      "start": 693,
+      "end": 717
+    },
+    {
+      "text": "partial nephrectomy",
+      "type": "ENTITY",
+      "start": 719,
+      "end": 738
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 746,
+      "end": 754
+    },
+    {
+      "text": "Renal capsular margin",
+      "type": "ENTITY",
+      "start": 755,
+      "end": 776
+    },
+    {
+      "text": "partial nephrectomy",
+      "type": "ENTITY",
+      "start": 778,
+      "end": 797
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 805,
+      "end": 813
+    },
+    {
+      "text": "Paranephric adipose tissue margin",
+      "type": "ENTITY",
+      "start": 814,
+      "end": 847
+    },
+    {
+      "text": "partial nephrectomy",
+      "type": "ENTITY",
+      "start": 849,
+      "end": 868
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 876,
+      "end": 884
+    },
+    {
+      "text": "Gerota' s fascia",
+      "type": "ENTITY",
+      "start": 885,
+      "end": 901
+    },
+    {
+      "text": "nephrectomy",
+      "type": "ENTITY",
+      "start": 903,
+      "end": 914
+    },
+    {
+      "text": "Renal vein",
+      "type": "ENTITY",
+      "start": 932,
+      "end": 942
+    },
+    {
+      "text": "nephrectomy",
+      "type": "ENTITY",
+      "start": 944,
+      "end": 955
+    },
+    {
+      "text": "Ureter",
+      "type": "ENTITY",
+      "start": 973,
+      "end": 979
+    },
+    {
+      "text": "nephrectomy",
+      "type": "ENTITY",
+      "start": 981,
+      "end": 992
+    },
+    {
+      "text": "Adrenal gland",
+      "type": "ENTITY",
+      "start": 1010,
+      "end": 1023
+    },
+    {
+      "text": "Lymph nodes",
+      "type": "ENTITY",
+      "start": 1039,
+      "end": 1050
+    },
+    {
+      "text": "identified",
+      "type": "ENTITY",
+      "start": 1057,
+      "end": 1067
+    },
+    {
+      "text": "AJcC Staging",
+      "type": "ENTITY",
+      "start": 1068,
+      "end": 1080
+    },
+    {
+      "text": "staging information",
+      "type": "ENTITY",
+      "start": 1111,
+      "end": 1130
+    },
+    {
+      "text": "information",
+      "type": "ENTITY",
+      "start": 1143,
+      "end": 1154
+    },
+    {
+      "text": "time",
+      "type": "ENTITY",
+      "start": 1172,
+      "end": 1176
+    },
+    {
+      "text": "report",
+      "type": "ENTITY",
+      "start": 1185,
+      "end": 1191
+    },
+    {
+      "text": "clinical review",
+      "type": "ENTITY",
+      "start": 1226,
+      "end": 1241
+    },
+    {
+      "text": "information",
+      "type": "ENTITY",
+      "start": 1257,
+      "end": 1268
+    },
+    {
+      "text": "inical History",
+      "type": "ENTITY",
+      "start": 1270,
+      "end": 1284
+    },
+    {
+      "text": "male",
+      "type": "ENTITY",
+      "start": 1297,
+      "end": 1301
+    },
+    {
+      "text": "left renal mass",
+      "type": "ENTITY",
+      "start": 1309,
+      "end": 1324
+    },
+    {
+      "text": "Gross Description",
+      "type": "ENTITY",
+      "start": 1326,
+      "end": 1343
+    },
+    {
+      "text": "Received",
+      "type": "ENTITY",
+      "start": 1345,
+      "end": 1353
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 1375,
+      "end": 1382
+    },
+    {
+      "text": "container",
+      "type": "ENTITY",
+      "start": 1383,
+      "end": 1392
+    },
+    {
+      "text": "additionally labeled",
+      "type": "ENTITY",
+      "start": 1394,
+      "end": 1414
+    },
+    {
+      "text": "left kidney",
+      "type": "ENTITY",
+      "start": 1416,
+      "end": 1427
+    },
+    {
+      "text": "gram",
+      "type": "ENTITY",
+      "start": 1444,
+      "end": 1448
+    },
+    {
+      "text": "circumscribed soft nodule",
+      "type": "ENTITY",
+      "start": 1468,
+      "end": 1493
+    },
+    {
+      "text": "intact",
+      "type": "ENTITY",
+      "start": 1534,
+      "end": 1540
+    },
+    {
+      "text": "capsule",
+      "type": "ENTITY",
+      "start": 1541,
+      "end": 1548
+    },
+    {
+      "text": "irregular",
+      "type": "ENTITY",
+      "start": 1563,
+      "end": 1572
+    },
+    {
+      "text": "disruption",
+      "type": "ENTITY",
+      "start": 1581,
+      "end": 1591
+    },
+    {
+      "text": "exposed",
+      "type": "ENTITY",
+      "start": 1597,
+      "end": 1604
+    },
+    {
+      "text": "parenchymal margin",
+      "type": "ENTITY",
+      "start": 1605,
+      "end": 1623
+    },
+    {
+      "text": "inked black",
+      "type": "ENTITY",
+      "start": 1647,
+      "end": 1658
+    },
+    {
+      "text": "intact",
+      "type": "ENTITY",
+      "start": 1664,
+      "end": 1670
+    },
+    {
+      "text": "capsule",
+      "type": "ENTITY",
+      "start": 1671,
+      "end": 1678
+    },
+    {
+      "text": "inked blue",
+      "type": "ENTITY",
+      "start": 1682,
+      "end": 1692
+    },
+    {
+      "text": "Sectioning",
+      "type": "ENTITY",
+      "start": 1694,
+      "end": 1704
+    },
+    {
+      "text": "solid soft golden yellow/tan",
+      "type": "ENTITY",
+      "start": 1720,
+      "end": 1748
+    },
+    {
+      "text": "black inked capsular",
+      "type": "ENTITY",
+      "start": 1779,
+      "end": 1799
+    },
+    {
+      "text": "parenchymal margins",
+      "type": "ENTITY",
+      "start": 1804,
+      "end": 1823
+    },
+    {
+      "text": "orange inked",
+      "type": "ENTITY",
+      "start": 1869,
+      "end": 1881
+    },
+    {
+      "text": "defect",
+      "type": "ENTITY",
+      "start": 1903,
+      "end": 1909
+    },
+    {
+      "text": "No cystic component",
+      "type": "ENTITY",
+      "start": 1911,
+      "end": 1930
+    },
+    {
+      "text": "identified",
+      "type": "ENTITY",
+      "start": 1934,
+      "end": 1944
+    },
+    {
+      "text": "rim",
+      "type": "ENTITY",
+      "start": 1957,
+      "end": 1960
+    },
+    {
+      "text": "renal parenchyma",
+      "type": "ENTITY",
+      "start": 1964,
+      "end": 1980
+    },
+    {
+      "text": "black inked surgical margin",
+      "type": "ENTITY",
+      "start": 1991,
+      "end": 2018
+    },
+    {
+      "text": "perinephric fat",
+      "type": "ENTITY",
+      "start": 2056,
+      "end": 2071
+    },
+    {
+      "text": "renal tissue",
+      "type": "ENTITY",
+      "start": 2077,
+      "end": 2089
+    },
+    {
+      "text": "periphery",
+      "type": "ENTITY",
+      "start": 2097,
+      "end": 2106
+    },
+    {
+      "text": "grossly",
+      "type": "ENTITY",
+      "start": 2107,
+      "end": 2114
+    },
+    {
+      "text": "unremarkable",
+      "type": "ENTITY",
+      "start": 2123,
+      "end": 2135
+    },
+    {
+      "text": "Block Summary",
+      "type": "ENTITY",
+      "start": 2137,
+      "end": 2150
+    },
+    {
+      "text": "Inking",
+      "type": "ENTITY",
+      "start": 2152,
+      "end": 2158
+    },
+    {
+      "text": "capsule/blue",
+      "type": "ENTITY",
+      "start": 2160,
+      "end": 2172
+    },
+    {
+      "text": "parenchyma/black",
+      "type": "ENTITY",
+      "start": 2174,
+      "end": 2190
+    },
+    {
+      "text": "Al",
+      "type": "ENTITY",
+      "start": 2206,
+      "end": 2208
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 2211,
+      "end": 2216
+    },
+    {
+      "text": "relationship",
+      "type": "ENTITY",
+      "start": 2220,
+      "end": 2232
+    },
+    {
+      "text": "black inked parenchymal margin",
+      "type": "ENTITY",
+      "start": 2236,
+      "end": 2266
+    },
+    {
+      "text": "A2-A3",
+      "type": "ENTITY",
+      "start": 2267,
+      "end": 2272
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 2275,
+      "end": 2280
+    },
+    {
+      "text": "overlying capsule A4",
+      "type": "ENTITY",
+      "start": 2285,
+      "end": 2305
+    },
+    {
+      "text": "edge",
+      "type": "ENTITY",
+      "start": 2308,
+      "end": 2312
+    },
+    {
+      "text": "defect",
+      "type": "ENTITY",
+      "start": 2316,
+      "end": 2322
+    },
+    {
+      "text": "A5-A6",
+      "type": "ENTITY",
+      "start": 2323,
+      "end": 2328
+    },
+    {
+      "text": "central tumor",
+      "type": "ENTITY",
+      "start": 2331,
+      "end": 2344
+    }
+  ],
+  "entity_count": 110,
+  "has_embedding": true
+}

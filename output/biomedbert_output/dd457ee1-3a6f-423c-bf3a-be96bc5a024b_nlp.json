@@ -1,0 +1,1772 @@
+{
+  "filename": "dd457ee1-3a6f-423c-bf3a-be96bc5a024b",
+  "timestamp": "2026-01-05T14:43:56.374625",
+  "entities": [
+    {
+      "text": "information",
+      "type": "ENTITY",
+      "start": 21,
+      "end": 32
+    },
+    {
+      "text": "Federal",
+      "type": "ENTITY",
+      "start": 51,
+      "end": 58
+    },
+    {
+      "text": "State",
+      "type": "ENTITY",
+      "start": 63,
+      "end": 68
+    },
+    {
+      "text": "contidentiality",
+      "type": "ENTITY",
+      "start": 84,
+      "end": 99
+    },
+    {
+      "text": "privacy",
+      "type": "ENTITY",
+      "start": 104,
+      "end": 111
+    },
+    {
+      "text": "policies",
+      "type": "ENTITY",
+      "start": 123,
+      "end": 131
+    },
+    {
+      "text": "procedures",
+      "type": "ENTITY",
+      "start": 136,
+      "end": 146
+    },
+    {
+      "text": "patient",
+      "type": "ENTITY",
+      "start": 151,
+      "end": 158
+    },
+    {
+      "text": "information",
+      "type": "ENTITY",
+      "start": 159,
+      "end": 170
+    },
+    {
+      "text": "unauthorized",
+      "type": "ENTITY",
+      "start": 176,
+      "end": 188
+    },
+    {
+      "text": "use",
+      "type": "ENTITY",
+      "start": 189,
+      "end": 192
+    },
+    {
+      "text": "disclosure",
+      "type": "ENTITY",
+      "start": 194,
+      "end": 204
+    },
+    {
+      "text": "reproduction",
+      "type": "ENTITY",
+      "start": 209,
+      "end": 221
+    },
+    {
+      "text": "information",
+      "type": "ENTITY",
+      "start": 230,
+      "end": 241
+    },
+    {
+      "text": "Anat Path Reports",
+      "type": "ENTITY",
+      "start": 276,
+      "end": 293
+    },
+    {
+      "text": "Final",
+      "type": "ENTITY",
+      "start": 297,
+      "end": 302
+    },
+    {
+      "text": "Document Type",
+      "type": "ENTITY",
+      "start": 317,
+      "end": 330
+    },
+    {
+      "text": "densearsinsms",
+      "type": "ENTITY",
+      "start": 350,
+      "end": 363
+    },
+    {
+      "text": "Histoloav",
+      "type": "ENTITY",
+      "start": 447,
+      "end": 456
+    },
+    {
+      "text": "Sit: Pansirota",
+      "type": "ENTITY",
+      "start": 457,
+      "end": 471
+    },
+    {
+      "text": "Encounter info",
+      "type": "ENTITY",
+      "start": 507,
+      "end": 521
+    },
+    {
+      "text": "S 1/7/4 * Final Report",
+      "type": "ENTITY",
+      "start": 525,
+      "end": 547
+    },
+    {
+      "text": "UUID:881F2828-DD95-4773",
+      "type": "ENTITY",
+      "start": 550,
+      "end": 573
+    },
+    {
+      "text": "9ADE-734812598CED",
+      "type": "ENTITY",
+      "start": 574,
+      "end": 591
+    },
+    {
+      "text": "TCGA-RB-AA9M-01A-PR Redacted",
+      "type": "ENTITY",
+      "start": 592,
+      "end": 620
+    },
+    {
+      "text": "Patient",
+      "type": "ENTITY",
+      "start": 632,
+      "end": 639
+    },
+    {
+      "text": "MrN",
+      "type": "ENTITY",
+      "start": 653,
+      "end": 656
+    },
+    {
+      "text": "DOB",
+      "type": "ENTITY",
+      "start": 658,
+      "end": 661
+    },
+    {
+      "text": "Age",
+      "type": "ENTITY",
+      "start": 663,
+      "end": 666
+    },
+    {
+      "text": "Location",
+      "type": "ENTITY",
+      "start": 668,
+      "end": 676
+    },
+    {
+      "text": "Gender",
+      "type": "ENTITY",
+      "start": 678,
+      "end": 684
+    },
+    {
+      "text": "Collected",
+      "type": "ENTITY",
+      "start": 686,
+      "end": 695
+    },
+    {
+      "text": "Client",
+      "type": "ENTITY",
+      "start": 697,
+      "end": 703
+    },
+    {
+      "text": "Submitting",
+      "type": "ENTITY",
+      "start": 715,
+      "end": 725
+    },
+    {
+      "text": "Final Surgical Pathology Report",
+      "type": "ENTITY",
+      "start": 742,
+      "end": 773
+    },
+    {
+      "text": "Final",
+      "type": "ENTITY",
+      "start": 774,
+      "end": 779
+    },
+    {
+      "text": "Pathologic Diagnosis",
+      "type": "ENTITY",
+      "start": 780,
+      "end": 800
+    },
+    {
+      "text": "A. pancreas",
+      "type": "ENTITY",
+      "start": 801,
+      "end": 812
+    },
+    {
+      "text": "Spleen",
+      "type": "ENTITY",
+      "start": 817,
+      "end": 823
+    },
+    {
+      "text": "Distal pancreatectomy",
+      "type": "ENTITY",
+      "start": 825,
+      "end": 846
+    },
+    {
+      "text": "Splenectomy",
+      "type": "ENTITY",
+      "start": 851,
+      "end": 862
+    },
+    {
+      "text": "Invasive",
+      "type": "ENTITY",
+      "start": 874,
+      "end": 882
+    },
+    {
+      "text": "Ductal Adenocarcinoma",
+      "type": "ENTITY",
+      "start": 883,
+      "end": 904
+    },
+    {
+      "text": "Pancreatobiliary type",
+      "type": "ENTITY",
+      "start": 906,
+      "end": 927
+    },
+    {
+      "text": "poorly",
+      "type": "ENTITY",
+      "start": 929,
+      "end": 935
+    },
+    {
+      "text": "Differentiated",
+      "type": "ENTITY",
+      "start": 936,
+      "end": 950
+    },
+    {
+      "text": "Estimated",
+      "type": "ENTITY",
+      "start": 954,
+      "end": 963
+    },
+    {
+      "text": "tumor Size",
+      "type": "ENTITY",
+      "start": 964,
+      "end": 974
+    },
+    {
+      "text": "Cm",
+      "type": "ENTITY",
+      "start": 986,
+      "end": 988
+    },
+    {
+      "text": "PANCREATIC",
+      "type": "ENTITY",
+      "start": 992,
+      "end": 1002
+    },
+    {
+      "text": "NECK",
+      "type": "ENTITY",
+      "start": 1003,
+      "end": 1007
+    },
+    {
+      "text": "MARGIN IS",
+      "type": "ENTITY",
+      "start": 1008,
+      "end": 1017
+    },
+    {
+      "text": "NEGATIVE",
+      "type": "ENTITY",
+      "start": 1018,
+      "end": 1026
+    },
+    {
+      "text": "metastatic Carcinoma",
+      "type": "ENTITY",
+      "start": 1030,
+      "end": 1050
+    },
+    {
+      "text": "Lymph nodes",
+      "type": "ENTITY",
+      "start": 1066,
+      "end": 1077
+    },
+    {
+      "text": "CM",
+      "type": "ENTITY",
+      "start": 1089,
+      "end": 1091
+    },
+    {
+      "text": "FOCUS/NO EXTRANODAL EXTENSION",
+      "type": "ENTITY",
+      "start": 1092,
+      "end": 1121
+    },
+    {
+      "text": "VASCULAR",
+      "type": "ENTITY",
+      "start": 1126,
+      "end": 1134
+    },
+    {
+      "text": "SPACE INVASION",
+      "type": "ENTITY",
+      "start": 1135,
+      "end": 1149
+    },
+    {
+      "text": "PERINeURAL",
+      "type": "ENTITY",
+      "start": 1161,
+      "end": 1171
+    },
+    {
+      "text": "Spleen",
+      "type": "ENTITY",
+      "start": 1192,
+      "end": 1198
+    },
+    {
+      "text": "Diagnostic",
+      "type": "ENTITY",
+      "start": 1207,
+      "end": 1217
+    },
+    {
+      "text": "SEe",
+      "type": "ENTITY",
+      "start": 1233,
+      "end": 1236
+    },
+    {
+      "text": "SynOptIC REpORT",
+      "type": "ENTITY",
+      "start": 1237,
+      "end": 1252
+    },
+    {
+      "text": "Electronicallv Sianed",
+      "type": "ENTITY",
+      "start": 1254,
+      "end": 1275
+    },
+    {
+      "text": "Pathologist",
+      "type": "ENTITY",
+      "start": 1281,
+      "end": 1292
+    },
+    {
+      "text": "information",
+      "type": "ENTITY",
+      "start": 1362,
+      "end": 1373
+    },
+    {
+      "text": "Federal",
+      "type": "ENTITY",
+      "start": 1392,
+      "end": 1399
+    },
+    {
+      "text": "State",
+      "type": "ENTITY",
+      "start": 1404,
+      "end": 1409
+    },
+    {
+      "text": "confidentiality",
+      "type": "ENTITY",
+      "start": 1425,
+      "end": 1440
+    },
+    {
+      "text": "privacy",
+      "type": "ENTITY",
+      "start": 1445,
+      "end": 1452
+    },
+    {
+      "text": "policies",
+      "type": "ENTITY",
+      "start": 1464,
+      "end": 1472
+    },
+    {
+      "text": "procedures",
+      "type": "ENTITY",
+      "start": 1477,
+      "end": 1487
+    },
+    {
+      "text": "patient",
+      "type": "ENTITY",
+      "start": 1502,
+      "end": 1509
+    },
+    {
+      "text": "information",
+      "type": "ENTITY",
+      "start": 1510,
+      "end": 1521
+    },
+    {
+      "text": "unauthorized",
+      "type": "ENTITY",
+      "start": 1527,
+      "end": 1539
+    },
+    {
+      "text": "disclosure",
+      "type": "ENTITY",
+      "start": 1545,
+      "end": 1555
+    },
+    {
+      "text": "reproduction",
+      "type": "ENTITY",
+      "start": 1560,
+      "end": 1572
+    },
+    {
+      "text": "information",
+      "type": "ENTITY",
+      "start": 1581,
+      "end": 1592
+    },
+    {
+      "text": "Final Report Assisted",
+      "type": "ENTITY",
+      "start": 1637,
+      "end": 1658
+    },
+    {
+      "text": "Synoptic Worksheet",
+      "type": "ENTITY",
+      "start": 1663,
+      "end": 1681
+    },
+    {
+      "text": "spleen",
+      "type": "ENTITY",
+      "start": 1702,
+      "end": 1708
+    },
+    {
+      "text": "test",
+      "type": "ENTITY",
+      "start": 1710,
+      "end": 1714
+    },
+    {
+      "text": "frozen margin",
+      "type": "ENTITY",
+      "start": 1719,
+      "end": 1732
+    },
+    {
+      "text": "fhe staple line",
+      "type": "ENTITY",
+      "start": 1736,
+      "end": 1751
+    },
+    {
+      "text": "Specimen",
+      "type": "ENTITY",
+      "start": 1753,
+      "end": 1761
+    },
+    {
+      "text": "Tail",
+      "type": "ENTITY",
+      "start": 1763,
+      "end": 1767
+    },
+    {
+      "text": "Spleen Procedure",
+      "type": "ENTITY",
+      "start": 1780,
+      "end": 1796
+    },
+    {
+      "text": "distal pancreatectomy",
+      "type": "ENTITY",
+      "start": 1805,
+      "end": 1826
+    },
+    {
+      "text": "splenectomy",
+      "type": "ENTITY",
+      "start": 1831,
+      "end": 1842
+    },
+    {
+      "text": "Tumor Site",
+      "type": "ENTITY",
+      "start": 1843,
+      "end": 1853
+    },
+    {
+      "text": "Pancreatic tail",
+      "type": "ENTITY",
+      "start": 1855,
+      "end": 1870
+    },
+    {
+      "text": "Tumor Size",
+      "type": "ENTITY",
+      "start": 1871,
+      "end": 1881
+    },
+    {
+      "text": "dimension",
+      "type": "ENTITY",
+      "start": 1892,
+      "end": 1901
+    },
+    {
+      "text": "dimension",
+      "type": "ENTITY",
+      "start": 1921,
+      "end": 1930
+    },
+    {
+      "text": "Histologic Type",
+      "type": "ENTITY",
+      "start": 1939,
+      "end": 1954
+    },
+    {
+      "text": "Ductal adenocarcinoma",
+      "type": "ENTITY",
+      "start": 1956,
+      "end": 1977
+    },
+    {
+      "text": "Histologic Grade",
+      "type": "ENTITY",
+      "start": 1978,
+      "end": 1994
+    },
+    {
+      "text": "Poorly differentiated",
+      "type": "ENTITY",
+      "start": 2000,
+      "end": 2021
+    },
+    {
+      "text": "Microscopic Tumor Extension",
+      "type": "ENTITY",
+      "start": 2022,
+      "end": 2049
+    },
+    {
+      "text": "Tumor",
+      "type": "ENTITY",
+      "start": 2051,
+      "end": 2056
+    },
+    {
+      "text": "pancreas",
+      "type": "ENTITY",
+      "start": 2072,
+      "end": 2080
+    },
+    {
+      "text": "Margins",
+      "type": "ENTITY",
+      "start": 2081,
+      "end": 2088
+    },
+    {
+      "text": "Margins uninvolved",
+      "type": "ENTITY",
+      "start": 2090,
+      "end": 2108
+    },
+    {
+      "text": "invasive carcinoma",
+      "type": "ENTITY",
+      "start": 2112,
+      "end": 2130
+    },
+    {
+      "text": "Distance",
+      "type": "ENTITY",
+      "start": 2131,
+      "end": 2139
+    },
+    {
+      "text": "invasive carcinoma",
+      "type": "ENTITY",
+      "start": 2143,
+      "end": 2161
+    },
+    {
+      "text": "margin",
+      "type": "ENTITY",
+      "start": 2175,
+      "end": 2181
+    },
+    {
+      "text": "Margtis uninvolved",
+      "type": "ENTITY",
+      "start": 2189,
+      "end": 2207
+    },
+    {
+      "text": "carcinoma",
+      "type": "ENTITY",
+      "start": 2211,
+      "end": 2220
+    },
+    {
+      "text": "in situ",
+      "type": "ENTITY",
+      "start": 2221,
+      "end": 2228
+    },
+    {
+      "text": "Treatment Effect",
+      "type": "ENTITY",
+      "start": 2230,
+      "end": 2246
+    },
+    {
+      "text": "No prior",
+      "type": "ENTITY",
+      "start": 2248,
+      "end": 2256
+    },
+    {
+      "text": "treatment",
+      "type": "ENTITY",
+      "start": 2257,
+      "end": 2266
+    },
+    {
+      "text": "Lymph-Vascular Invasion",
+      "type": "ENTITY",
+      "start": 2267,
+      "end": 2290
+    },
+    {
+      "text": "Indeterminate",
+      "type": "ENTITY",
+      "start": 2292,
+      "end": 2305
+    },
+    {
+      "text": "Perineural Invasion",
+      "type": "ENTITY",
+      "start": 2306,
+      "end": 2325
+    },
+    {
+      "text": "TNM Descriptors",
+      "type": "ENTITY",
+      "start": 2335,
+      "end": 2350
+    },
+    {
+      "text": "Primary Tumor",
+      "type": "ENTITY",
+      "start": 2367,
+      "end": 2380
+    },
+    {
+      "text": "pT2",
+      "type": "ENTITY",
+      "start": 2387,
+      "end": 2390
+    },
+    {
+      "text": "Tumor",
+      "type": "ENTITY",
+      "start": 2392,
+      "end": 2397
+    },
+    {
+      "text": "pancreas",
+      "type": "ENTITY",
+      "start": 2413,
+      "end": 2421
+    },
+    {
+      "text": "dimension",
+      "type": "ENTITY",
+      "start": 2450,
+      "end": 2459
+    },
+    {
+      "text": "Lymph Nodes",
+      "type": "ENTITY",
+      "start": 2469,
+      "end": 2480
+    },
+    {
+      "text": "pN",
+      "type": "ENTITY",
+      "start": 2482,
+      "end": 2484
+    },
+    {
+      "text": "pN1",
+      "type": "ENTITY",
+      "start": 2487,
+      "end": 2490
+    },
+    {
+      "text": "Regional lymph node metastasis",
+      "type": "ENTITY",
+      "start": 2492,
+      "end": 2522
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 2534,
+      "end": 2545
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 2569,
+      "end": 2580
+    },
+    {
+      "text": "Distant Metastasis",
+      "type": "ENTITY",
+      "start": 2594,
+      "end": 2612
+    },
+    {
+      "text": "Pathologic",
+      "type": "ENTITY",
+      "start": 2645,
+      "end": 2655
+    },
+    {
+      "text": "Findings",
+      "type": "ENTITY",
+      "start": 2656,
+      "end": 2664
+    },
+    {
+      "text": "identified",
+      "type": "ENTITY",
+      "start": 2672,
+      "end": 2682
+    },
+    {
+      "text": "Clinical History",
+      "type": "ENTITY",
+      "start": 2683,
+      "end": 2699
+    },
+    {
+      "text": "Distal pancreatectomy",
+      "type": "ENTITY",
+      "start": 2700,
+      "end": 2721
+    },
+    {
+      "text": "splenectomy",
+      "type": "ENTITY",
+      "start": 2726,
+      "end": 2737
+    },
+    {
+      "text": "Specimen(s)",
+      "type": "ENTITY",
+      "start": 2740,
+      "end": 2751
+    },
+    {
+      "text": "Distal pancreas",
+      "type": "ENTITY",
+      "start": 2764,
+      "end": 2779
+    },
+    {
+      "text": "spleen",
+      "type": "ENTITY",
+      "start": 2781,
+      "end": 2787
+    },
+    {
+      "text": "test",
+      "type": "ENTITY",
+      "start": 2789,
+      "end": 2793
+    },
+    {
+      "text": "frozen margin",
+      "type": "ENTITY",
+      "start": 2798,
+      "end": 2811
+    },
+    {
+      "text": "fhe staple line",
+      "type": "ENTITY",
+      "start": 2815,
+      "end": 2830
+    },
+    {
+      "text": "Gross Description",
+      "type": "ENTITY",
+      "start": 2832,
+      "end": 2849
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 2854,
+      "end": 2862
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 2875,
+      "end": 2880
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 2882,
+      "end": 2889
+    },
+    {
+      "text": "patient's",
+      "type": "ENTITY",
+      "start": 2899,
+      "end": 2908
+    },
+    {
+      "text": "medical record number",
+      "type": "ENTITY",
+      "start": 2915,
+      "end": 2936
+    },
+    {
+      "text": "spleen",
+      "type": "ENTITY",
+      "start": 2959,
+      "end": 2965
+    },
+    {
+      "text": "test frozen margin",
+      "type": "ENTITY",
+      "start": 2967,
+      "end": 2985
+    },
+    {
+      "text": "staple line",
+      "type": "ENTITY",
+      "start": 2993,
+      "end": 3004
+    },
+    {
+      "text": "grams distal pancreatectomy",
+      "type": "ENTITY",
+      "start": 3030,
+      "end": 3057
+    },
+    {
+      "text": "splenectomy",
+      "type": "ENTITY",
+      "start": 3062,
+      "end": 3073
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 3074,
+      "end": 3082
+    },
+    {
+      "text": "pancreas",
+      "type": "ENTITY",
+      "start": 3093,
+      "end": 3101
+    },
+    {
+      "text": "spleen",
+      "type": "ENTITY",
+      "start": 3128,
+      "end": 3134
+    },
+    {
+      "text": "anterior",
+      "type": "ENTITY",
+      "start": 3163,
+      "end": 3171
+    },
+    {
+      "text": "pancreas",
+      "type": "ENTITY",
+      "start": 3186,
+      "end": 3194
+    },
+    {
+      "text": "unremarkable",
+      "type": "ENTITY",
+      "start": 3198,
+      "end": 3210
+    },
+    {
+      "text": "posterior",
+      "type": "ENTITY",
+      "start": 3216,
+      "end": 3225
+    },
+    {
+      "text": "pancreas",
+      "type": "ENTITY",
+      "start": 3240,
+      "end": 3248
+    },
+    {
+      "text": "white",
+      "type": "ENTITY",
+      "start": 3257,
+      "end": 3262
+    },
+    {
+      "text": "plaque-like discolorations",
+      "type": "ENTITY",
+      "start": 3264,
+      "end": 3290
+    },
+    {
+      "text": "discolored area",
+      "type": "ENTITY",
+      "start": 3336,
+      "end": 3351
+    },
+    {
+      "text": "neck edge",
+      "type": "ENTITY",
+      "start": 3379,
+      "end": 3388
+    },
+    {
+      "text": "surface",
+      "type": "ENTITY",
+      "start": 3398,
+      "end": 3405
+    },
+    {
+      "text": "pancreas",
+      "type": "ENTITY",
+      "start": 3413,
+      "end": 3421
+    },
+    {
+      "text": "white",
+      "type": "ENTITY",
+      "start": 3434,
+      "end": 3439
+    },
+    {
+      "text": "focally hemorrhagic mass",
+      "type": "ENTITY",
+      "start": 3444,
+      "end": 3468
+    },
+    {
+      "text": "distal",
+      "type": "ENTITY",
+      "start": 3490,
+      "end": 3496
+    },
+    {
+      "text": "posterior",
+      "type": "ENTITY",
+      "start": 3521,
+      "end": 3530
+    },
+    {
+      "text": "width",
+      "type": "ENTITY",
+      "start": 3543,
+      "end": 3548
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 3555,
+      "end": 3559
+    },
+    {
+      "text": "neck edge",
+      "type": "ENTITY",
+      "start": 3587,
+      "end": 3596
+    },
+    {
+      "text": "occludes",
+      "type": "ENTITY",
+      "start": 3601,
+      "end": 3609
+    },
+    {
+      "text": "pancreatic duct",
+      "type": "ENTITY",
+      "start": 3614,
+      "end": 3629
+    },
+    {
+      "text": "area",
+      "type": "ENTITY",
+      "start": 3638,
+      "end": 3642
+    },
+    {
+      "text": "information",
+      "type": "ENTITY",
+      "start": 3717,
+      "end": 3728
+    },
+    {
+      "text": "Federal",
+      "type": "ENTITY",
+      "start": 3747,
+      "end": 3754
+    },
+    {
+      "text": "State",
+      "type": "ENTITY",
+      "start": 3759,
+      "end": 3764
+    },
+    {
+      "text": "confidentiality",
+      "type": "ENTITY",
+      "start": 3780,
+      "end": 3795
+    },
+    {
+      "text": "privacy",
+      "type": "ENTITY",
+      "start": 3800,
+      "end": 3807
+    },
+    {
+      "text": "policies",
+      "type": "ENTITY",
+      "start": 3819,
+      "end": 3827
+    },
+    {
+      "text": "procedures",
+      "type": "ENTITY",
+      "start": 3832,
+      "end": 3842
+    },
+    {
+      "text": "patient",
+      "type": "ENTITY",
+      "start": 3856,
+      "end": 3863
+    },
+    {
+      "text": "information",
+      "type": "ENTITY",
+      "start": 3864,
+      "end": 3875
+    },
+    {
+      "text": "unauthorized",
+      "type": "ENTITY",
+      "start": 3881,
+      "end": 3893
+    },
+    {
+      "text": "disclosure",
+      "type": "ENTITY",
+      "start": 3899,
+      "end": 3909
+    },
+    {
+      "text": "reproduction",
+      "type": "ENTITY",
+      "start": 3914,
+      "end": 3926
+    },
+    {
+      "text": "information",
+      "type": "ENTITY",
+      "start": 3935,
+      "end": 3946
+    },
+    {
+      "text": "Final",
+      "type": "ENTITY",
+      "start": 3991,
+      "end": 3996
+    },
+    {
+      "text": "anterior",
+      "type": "ENTITY",
+      "start": 4025,
+      "end": 4033
+    },
+    {
+      "text": "posterior",
+      "type": "ENTITY",
+      "start": 4038,
+      "end": 4047
+    },
+    {
+      "text": "continuous",
+      "type": "ENTITY",
+      "start": 4063,
+      "end": 4073
+    },
+    {
+      "text": "plaque-like discoloration",
+      "type": "ENTITY",
+      "start": 4098,
+      "end": 4123
+    },
+    {
+      "text": "surface",
+      "type": "ENTITY",
+      "start": 4143,
+      "end": 4150
+    },
+    {
+      "text": "pancreas",
+      "type": "ENTITY",
+      "start": 4158,
+      "end": 4166
+    },
+    {
+      "text": "iobulated",
+      "type": "ENTITY",
+      "start": 4170,
+      "end": 4179
+    },
+    {
+      "text": "unremarkable",
+      "type": "ENTITY",
+      "start": 4184,
+      "end": 4196
+    },
+    {
+      "text": "splenic capsule",
+      "type": "ENTITY",
+      "start": 4202,
+      "end": 4217
+    },
+    {
+      "text": "intact",
+      "type": "ENTITY",
+      "start": 4221,
+      "end": 4227
+    },
+    {
+      "text": "unremarkable",
+      "type": "ENTITY",
+      "start": 4232,
+      "end": 4244
+    },
+    {
+      "text": "surface",
+      "type": "ENTITY",
+      "start": 4254,
+      "end": 4261
+    },
+    {
+      "text": "spleen",
+      "type": "ENTITY",
+      "start": 4269,
+      "end": 4275
+    },
+    {
+      "text": "unremarkable",
+      "type": "ENTITY",
+      "start": 4279,
+      "end": 4291
+    },
+    {
+      "text": "uninvolved",
+      "type": "ENTITY",
+      "start": 4296,
+      "end": 4306
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 4310,
+      "end": 4314
+    },
+    {
+      "text": "splenic artery",
+      "type": "ENTITY",
+      "start": 4320,
+      "end": 4334
+    },
+    {
+      "text": "uninvolved",
+      "type": "ENTITY",
+      "start": 4338,
+      "end": 4348
+    },
+    {
+      "text": "adjacent",
+      "type": "ENTITY",
+      "start": 4354,
+      "end": 4362
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 4370,
+      "end": 4374
+    },
+    {
+      "text": "neck margin",
+      "type": "ENTITY",
+      "start": 4380,
+      "end": 4391
+    },
+    {
+      "text": "frozen section",
+      "type": "ENTITY",
+      "start": 4409,
+      "end": 4423
+    },
+    {
+      "text": "Representative sections",
+      "type": "ENTITY",
+      "start": 4425,
+      "end": 4448
+    },
+    {
+      "text": "Photographs",
+      "type": "ENTITY",
+      "start": 4480,
+      "end": 4491
+    },
+    {
+      "text": "Dictated",
+      "type": "ENTITY",
+      "start": 4503,
+      "end": 4511
+    },
+    {
+      "text": "INK",
+      "type": "ENTITY",
+      "start": 4515,
+      "end": 4518
+    },
+    {
+      "text": "CODE",
+      "type": "ENTITY",
+      "start": 4519,
+      "end": 4523
+    },
+    {
+      "text": "Blue",
+      "type": "ENTITY",
+      "start": 4525,
+      "end": 4529
+    },
+    {
+      "text": "anterior",
+      "type": "ENTITY",
+      "start": 4533,
+      "end": 4541
+    },
+    {
+      "text": "pancreas",
+      "type": "ENTITY",
+      "start": 4542,
+      "end": 4550
+    },
+    {
+      "text": "Black",
+      "type": "ENTITY",
+      "start": 4551,
+      "end": 4556
+    },
+    {
+      "text": "pancreas",
+      "type": "ENTITY",
+      "start": 4569,
+      "end": 4577
+    },
+    {
+      "text": "Orange",
+      "type": "ENTITY",
+      "start": 4578,
+      "end": 4584
+    },
+    {
+      "text": "neck",
+      "type": "ENTITY",
+      "start": 4588,
+      "end": 4592
+    },
+    {
+      "text": "Green",
+      "type": "ENTITY",
+      "start": 4599,
+      "end": 4604
+    },
+    {
+      "text": "pancreatic duct",
+      "type": "ENTITY",
+      "start": 4608,
+      "end": 4623
+    },
+    {
+      "text": "A1FS",
+      "type": "ENTITY",
+      "start": 4649,
+      "end": 4653
+    },
+    {
+      "text": "pancreatic",
+      "type": "ENTITY",
+      "start": 4657,
+      "end": 4667
+    },
+    {
+      "text": "A2",
+      "type": "ENTITY",
+      "start": 4680,
+      "end": 4682
+    },
+    {
+      "text": "pancreatic",
+      "type": "ENTITY",
+      "start": 4686,
+      "end": 4696
+    },
+    {
+      "text": "A3",
+      "type": "ENTITY",
+      "start": 4716,
+      "end": 4718
+    },
+    {
+      "text": "proximal",
+      "type": "ENTITY",
+      "start": 4727,
+      "end": 4735
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 4744,
+      "end": 4748
+    },
+    {
+      "text": "pancreatic duct A4",
+      "type": "ENTITY",
+      "start": 4754,
+      "end": 4772
+    },
+    {
+      "text": "focal hemorrhage",
+      "type": "ENTITY",
+      "start": 4794,
+      "end": 4810
+    },
+    {
+      "text": "relationship",
+      "type": "ENTITY",
+      "start": 4822,
+      "end": 4834
+    },
+    {
+      "text": "anterior",
+      "type": "ENTITY",
+      "start": 4838,
+      "end": 4846
+    },
+    {
+      "text": "surface",
+      "type": "ENTITY",
+      "start": 4847,
+      "end": 4854
+    },
+    {
+      "text": "splenic artery A5",
+      "type": "ENTITY",
+      "start": 4861,
+      "end": 4878
+    },
+    {
+      "text": "representative",
+      "type": "ENTITY",
+      "start": 4881,
+      "end": 4895
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 4896,
+      "end": 4904
+    },
+    {
+      "text": "white component",
+      "type": "ENTITY",
+      "start": 4925,
+      "end": 4940
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 4944,
+      "end": 4948
+    },
+    {
+      "text": "plaque-like discoloration",
+      "type": "ENTITY",
+      "start": 4953,
+      "end": 4978
+    },
+    {
+      "text": "adjacent",
+      "type": "ENTITY",
+      "start": 4985,
+      "end": 4993
+    },
+    {
+      "text": "A6",
+      "type": "ENTITY",
+      "start": 5010,
+      "end": 5012
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 5016,
+      "end": 5020
+    },
+    {
+      "text": "focal discoloration",
+      "type": "ENTITY",
+      "start": 5024,
+      "end": 5043
+    },
+    {
+      "text": "A7",
+      "type": "ENTITY",
+      "start": 5047,
+      "end": 5049
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 5053,
+      "end": 5057
+    },
+    {
+      "text": "focai discoloration",
+      "type": "ENTITY",
+      "start": 5061,
+      "end": 5080
+    },
+    {
+      "text": "distal",
+      "type": "ENTITY",
+      "start": 5090,
+      "end": 5096
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 5105,
+      "end": 5109
+    },
+    {
+      "text": "A8",
+      "type": "ENTITY",
+      "start": 5111,
+      "end": 5113
+    },
+    {
+      "text": "representative",
+      "type": "ENTITY",
+      "start": 5117,
+      "end": 5131
+    },
+    {
+      "text": "spleen A9",
+      "type": "ENTITY",
+      "start": 5132,
+      "end": 5141
+    },
+    {
+      "text": "hilar",
+      "type": "ENTITY",
+      "start": 5145,
+      "end": 5150
+    },
+    {
+      "text": "adipose tissue",
+      "type": "ENTITY",
+      "start": 5151,
+      "end": 5165
+    },
+    {
+      "text": "A10",
+      "type": "ENTITY",
+      "start": 5166,
+      "end": 5169
+    },
+    {
+      "text": "peripancreatic lymph nodes",
+      "type": "ENTITY",
+      "start": 5178,
+      "end": 5204
+    },
+    {
+      "text": "A11-",
+      "type": "ENTITY",
+      "start": 5213,
+      "end": 5217
+    },
+    {
+      "text": "omentum",
+      "type": "ENTITY",
+      "start": 5233,
+      "end": 5240
+    },
+    {
+      "text": "Intraoperative",
+      "type": "ENTITY",
+      "start": 5241,
+      "end": 5255
+    },
+    {
+      "text": "Consult",
+      "type": "ENTITY",
+      "start": 5256,
+      "end": 5263
+    },
+    {
+      "text": "Diagnosis",
+      "type": "ENTITY",
+      "start": 5264,
+      "end": 5273
+    },
+    {
+      "text": "A1FS",
+      "type": "ENTITY",
+      "start": 5274,
+      "end": 5278
+    },
+    {
+      "text": "DISTAL PANCREAS",
+      "type": "ENTITY",
+      "start": 5280,
+      "end": 5295
+    },
+    {
+      "text": "SPLEEN",
+      "type": "ENTITY",
+      "start": 5297,
+      "end": 5303
+    },
+    {
+      "text": "FROZEN SECTION",
+      "type": "ENTITY",
+      "start": 5305,
+      "end": 5319
+    },
+    {
+      "text": "PANCREATIC",
+      "type": "ENTITY",
+      "start": 5322,
+      "end": 5332
+    },
+    {
+      "text": "NEGATIVE",
+      "type": "ENTITY",
+      "start": 5346,
+      "end": 5354
+    },
+    {
+      "text": "INVASIVE CARCINOMA",
+      "type": "ENTITY",
+      "start": 5359,
+      "end": 5377
+    },
+    {
+      "text": "Frozen section",
+      "type": "ENTITY",
+      "start": 5379,
+      "end": 5393
+    },
+    {
+      "text": "results",
+      "type": "ENTITY",
+      "start": 5394,
+      "end": 5401
+    },
+    {
+      "text": "surgical team",
+      "type": "ENTITY",
+      "start": 5427,
+      "end": 5440
+    },
+    {
+      "text": "Pathologist",
+      "type": "ENTITY",
+      "start": 5482,
+      "end": 5493
+    },
+    {
+      "text": "Printed",
+      "type": "ENTITY",
+      "start": 5519,
+      "end": 5526
+    },
+    {
+      "text": "information",
+      "type": "ENTITY",
+      "start": 5564,
+      "end": 5575
+    },
+    {
+      "text": "Federal",
+      "type": "ENTITY",
+      "start": 5594,
+      "end": 5601
+    },
+    {
+      "text": "State",
+      "type": "ENTITY",
+      "start": 5606,
+      "end": 5611
+    },
+    {
+      "text": "confidentiality",
+      "type": "ENTITY",
+      "start": 5627,
+      "end": 5642
+    },
+    {
+      "text": "privacy",
+      "type": "ENTITY",
+      "start": 5647,
+      "end": 5654
+    },
+    {
+      "text": "policies",
+      "type": "ENTITY",
+      "start": 5666,
+      "end": 5674
+    },
+    {
+      "text": "procedures",
+      "type": "ENTITY",
+      "start": 5679,
+      "end": 5689
+    },
+    {
+      "text": "egarding",
+      "type": "ENTITY",
+      "start": 5693,
+      "end": 5701
+    },
+    {
+      "text": "patient",
+      "type": "ENTITY",
+      "start": 5703,
+      "end": 5710
+    },
+    {
+      "text": "unauthorized",
+      "type": "ENTITY",
+      "start": 5728,
+      "end": 5740
+    },
+    {
+      "text": "disclosure",
+      "type": "ENTITY",
+      "start": 5746,
+      "end": 5756
+    },
+    {
+      "text": "reproduction",
+      "type": "ENTITY",
+      "start": 5761,
+      "end": 5773
+    },
+    {
+      "text": "information",
+      "type": "ENTITY",
+      "start": 5782,
+      "end": 5793
+    },
+    {
+      "text": "Final",
+      "type": "ENTITY",
+      "start": 5839,
+      "end": 5844
+    },
+    {
+      "text": "Printed",
+      "type": "ENTITY",
+      "start": 5852,
+      "end": 5859
+    },
+    {
+      "text": "Printed",
+      "type": "ENTITY",
+      "start": 5876,
+      "end": 5883
+    }
+  ],
+  "entity_count": 294,
+  "has_embedding": true
+}

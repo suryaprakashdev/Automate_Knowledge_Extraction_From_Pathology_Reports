@@ -1,0 +1,3644 @@
+{
+  "filename": "ce331623-e273-4f13-a24f-169585da1500",
+  "timestamp": "2026-01-05T14:44:28.208294",
+  "entities": [
+    {
+      "text": "UUID",
+      "type": "ENTITY",
+      "start": 28,
+      "end": 32
+    },
+    {
+      "text": "B680364D-6FEC-45A5-95FC-1055E37DFCE2",
+      "type": "ENTITY",
+      "start": 34,
+      "end": 70
+    },
+    {
+      "text": "TCGA-XF-AAN7-01A-PR",
+      "type": "ENTITY",
+      "start": 71,
+      "end": 90
+    },
+    {
+      "text": "Redacted DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 91,
+      "end": 109
+    },
+    {
+      "text": "RADICAL CYSTECTOMY",
+      "type": "ENTITY",
+      "start": 111,
+      "end": 129
+    },
+    {
+      "text": "STUDOR",
+      "type": "ENTITY",
+      "start": 135,
+      "end": 141
+    },
+    {
+      "text": "D63 RIGHT DISTAL",
+      "type": "ENTITY",
+      "start": 160,
+      "end": 176
+    },
+    {
+      "text": "Carcuene",
+      "type": "ENTITY",
+      "start": 190,
+      "end": 198
+    },
+    {
+      "text": "No5",
+      "type": "ENTITY",
+      "start": 210,
+      "end": 213
+    },
+    {
+      "text": "INTRAOPERATIVE.FROZEN",
+      "type": "ENTITY",
+      "start": 221,
+      "end": 242
+    },
+    {
+      "text": "DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 251,
+      "end": 260
+    },
+    {
+      "text": "BENIGN Sute",
+      "type": "ENTITY",
+      "start": 262,
+      "end": 273
+    },
+    {
+      "text": "NBladlder NbS",
+      "type": "ENTITY",
+      "start": 275,
+      "end": 288
+    },
+    {
+      "text": "Cb7.9",
+      "type": "ENTITY",
+      "start": 289,
+      "end": 294
+    },
+    {
+      "text": "DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 301,
+      "end": 310
+    },
+    {
+      "text": "OR",
+      "type": "ENTITY",
+      "start": 339,
+      "end": 341
+    },
+    {
+      "text": "LEFT DISTAL",
+      "type": "ENTITY",
+      "start": 374,
+      "end": 385
+    },
+    {
+      "text": "B",
+      "type": "ENTITY",
+      "start": 394,
+      "end": 395
+    },
+    {
+      "text": "INTRAOPERATIVE",
+      "type": "ENTITY",
+      "start": 398,
+      "end": 412
+    },
+    {
+      "text": "FROZEN SECTION",
+      "type": "ENTITY",
+      "start": 413,
+      "end": 427
+    },
+    {
+      "text": "DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 428,
+      "end": 437
+    },
+    {
+      "text": "BENIGN FINAL DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 439,
+      "end": 461
+    },
+    {
+      "text": "OR",
+      "type": "ENTITY",
+      "start": 490,
+      "end": 492
+    },
+    {
+      "text": "IDENTIFIED",
+      "type": "ENTITY",
+      "start": 503,
+      "end": 513
+    },
+    {
+      "text": "APICAL URETHRAL MARGIN F/S",
+      "type": "ENTITY",
+      "start": 514,
+      "end": 540
+    },
+    {
+      "text": "C",
+      "type": "ENTITY",
+      "start": 542,
+      "end": 543
+    },
+    {
+      "text": "INTRAOPERATIVE",
+      "type": "ENTITY",
+      "start": 546,
+      "end": 560
+    },
+    {
+      "text": "FROZEN SECTION",
+      "type": "ENTITY",
+      "start": 561,
+      "end": 575
+    },
+    {
+      "text": "DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 576,
+      "end": 585
+    },
+    {
+      "text": "BENIGN FINAL DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 587,
+      "end": 609
+    },
+    {
+      "text": "BENIGN URETHRAL",
+      "type": "ENTITY",
+      "start": 611,
+      "end": 626
+    },
+    {
+      "text": "OR",
+      "type": "ENTITY",
+      "start": 647,
+      "end": 649
+    },
+    {
+      "text": "BLADDER",
+      "type": "ENTITY",
+      "start": 671,
+      "end": 678
+    },
+    {
+      "text": "PROSTATE",
+      "type": "ENTITY",
+      "start": 680,
+      "end": 688
+    },
+    {
+      "text": "D",
+      "type": "ENTITY",
+      "start": 690,
+      "end": 691
+    },
+    {
+      "text": "BLADDER",
+      "type": "ENTITY",
+      "start": 694,
+      "end": 701
+    },
+    {
+      "text": "INTRAOPERATIVE",
+      "type": "ENTITY",
+      "start": 704,
+      "end": 718
+    },
+    {
+      "text": "GROSS CONSULTATION",
+      "type": "ENTITY",
+      "start": 719,
+      "end": 737
+    },
+    {
+      "text": "TUMOR",
+      "type": "ENTITY",
+      "start": 739,
+      "end": 744
+    },
+    {
+      "text": "T3S",
+      "type": "ENTITY",
+      "start": 758,
+      "end": 761
+    },
+    {
+      "text": "Aguamous",
+      "type": "ENTITY",
+      "start": 763,
+      "end": 771
+    },
+    {
+      "text": "CARCINOMA",
+      "type": "ENTITY",
+      "start": 805,
+      "end": 814
+    },
+    {
+      "text": "SARCOMATOID",
+      "type": "ENTITY",
+      "start": 820,
+      "end": 831
+    },
+    {
+      "text": "POORLY DIFFERENTIATED",
+      "type": "ENTITY",
+      "start": 842,
+      "end": 863
+    },
+    {
+      "text": "GRADE",
+      "type": "ENTITY",
+      "start": 865,
+      "end": 870
+    },
+    {
+      "text": "MUSCULARIS PROPRIA",
+      "type": "ENTITY",
+      "start": 901,
+      "end": 919
+    },
+    {
+      "text": "PERIVESICAL",
+      "type": "ENTITY",
+      "start": 927,
+      "end": 938
+    },
+    {
+      "text": "FAT",
+      "type": "ENTITY",
+      "start": 939,
+      "end": 942
+    },
+    {
+      "text": "BUT",
+      "type": "ENTITY",
+      "start": 944,
+      "end": 947
+    },
+    {
+      "text": "FREE",
+      "type": "ENTITY",
+      "start": 1020,
+      "end": 1024
+    },
+    {
+      "text": "MALIGNANCYS MULTIFOCI",
+      "type": "ENTITY",
+      "start": 1028,
+      "end": 1049
+    },
+    {
+      "text": "UROTHELIAL CARCINOMA",
+      "type": "ENTITY",
+      "start": 1053,
+      "end": 1073
+    },
+    {
+      "text": "RIGHT PROSTATIC",
+      "type": "ENTITY",
+      "start": 1120,
+      "end": 1135
+    },
+    {
+      "text": "ADENOCARCINOMA",
+      "type": "ENTITY",
+      "start": 1136,
+      "end": 1150
+    },
+    {
+      "text": "GLEASON'S",
+      "type": "ENTITY",
+      "start": 1152,
+      "end": 1161
+    },
+    {
+      "text": "SCORE",
+      "type": "ENTITY",
+      "start": 1162,
+      "end": 1167
+    },
+    {
+      "text": "CONFINED",
+      "type": "ENTITY",
+      "start": 1179,
+      "end": 1187
+    },
+    {
+      "text": "PIN III",
+      "type": "ENTITY",
+      "start": 1252,
+      "end": 1259
+    },
+    {
+      "text": "MULTIFOCAL EXTENSIVE",
+      "type": "ENTITY",
+      "start": 1262,
+      "end": 1282
+    },
+    {
+      "text": "ATROPHY WITH",
+      "type": "ENTITY",
+      "start": 1293,
+      "end": 1305
+    },
+    {
+      "text": "CHRONIC INFLAMMATION ALL",
+      "type": "ENTITY",
+      "start": 1316,
+      "end": 1340
+    },
+    {
+      "text": "FREE",
+      "type": "ENTITY",
+      "start": 1363,
+      "end": 1367
+    },
+    {
+      "text": "MALIGNANCY PERIVESICAL",
+      "type": "ENTITY",
+      "start": 1371,
+      "end": 1393
+    },
+    {
+      "text": "IDENTIFIED",
+      "type": "ENTITY",
+      "start": 1432,
+      "end": 1442
+    },
+    {
+      "text": "LYMPH NODES EXAMINED",
+      "type": "ENTITY",
+      "start": 1449,
+      "end": 1469
+    },
+    {
+      "text": "LEFT",
+      "type": "ENTITY",
+      "start": 1478,
+      "end": 1482
+    },
+    {
+      "text": "PARA",
+      "type": "ENTITY",
+      "start": 1483,
+      "end": 1487
+    },
+    {
+      "text": "LYMPH NODES",
+      "type": "ENTITY",
+      "start": 1495,
+      "end": 1506
+    },
+    {
+      "text": "E",
+      "type": "ENTITY",
+      "start": 1508,
+      "end": 1509
+    },
+    {
+      "text": "IDENTIFIED",
+      "type": "ENTITY",
+      "start": 1538,
+      "end": 1548
+    },
+    {
+      "text": "LEFT COMMON",
+      "type": "ENTITY",
+      "start": 1583,
+      "end": 1594
+    },
+    {
+      "text": "ILIAC LYMPH NODES",
+      "type": "ENTITY",
+      "start": 1595,
+      "end": 1612
+    },
+    {
+      "text": "F",
+      "type": "ENTITY",
+      "start": 1614,
+      "end": 1615
+    },
+    {
+      "text": "NO",
+      "type": "ENTITY",
+      "start": 1619,
+      "end": 1621
+    },
+    {
+      "text": "LYMPH NODES EXAMINED",
+      "type": "ENTITY",
+      "start": 1660,
+      "end": 1680
+    },
+    {
+      "text": "RIGHT",
+      "type": "ENTITY",
+      "start": 1689,
+      "end": 1694
+    },
+    {
+      "text": "PARA",
+      "type": "ENTITY",
+      "start": 1695,
+      "end": 1699
+    },
+    {
+      "text": "LYMPH NODES",
+      "type": "ENTITY",
+      "start": 1706,
+      "end": 1717
+    },
+    {
+      "text": "G",
+      "type": "ENTITY",
+      "start": 1719,
+      "end": 1720
+    },
+    {
+      "text": "NO",
+      "type": "ENTITY",
+      "start": 1724,
+      "end": 1726
+    },
+    {
+      "text": "FOUR",
+      "type": "ENTITY",
+      "start": 1762,
+      "end": 1766
+    },
+    {
+      "text": "NO",
+      "type": "ENTITY",
+      "start": 1831,
+      "end": 1833
+    },
+    {
+      "text": "LYMPH NODES EXAMINED",
+      "type": "ENTITY",
+      "start": 1872,
+      "end": 1892
+    },
+    {
+      "text": "RIGHT",
+      "type": "ENTITY",
+      "start": 1928,
+      "end": 1933
+    },
+    {
+      "text": "CLOQUET",
+      "type": "ENTITY",
+      "start": 1948,
+      "end": 1955
+    },
+    {
+      "text": "I",
+      "type": "ENTITY",
+      "start": 1957,
+      "end": 1958
+    },
+    {
+      "text": "THREE LYMPH NODES EXAMINED",
+      "type": "ENTITY",
+      "start": 2000,
+      "end": 2026
+    },
+    {
+      "text": "FOUR",
+      "type": "ENTITY",
+      "start": 2111,
+      "end": 2115
+    },
+    {
+      "text": "OBTURATOR/HYPOGASTRIC LYMPH NODES",
+      "type": "ENTITY",
+      "start": 2149,
+      "end": 2182
+    },
+    {
+      "text": "NO",
+      "type": "ENTITY",
+      "start": 2190,
+      "end": 2192
+    },
+    {
+      "text": "LYMPH NODES EXAMINED",
+      "type": "ENTITY",
+      "start": 2231,
+      "end": 2251
+    },
+    {
+      "text": "LEFT",
+      "type": "ENTITY",
+      "start": 2259,
+      "end": 2263
+    },
+    {
+      "text": "CLOQUET",
+      "type": "ENTITY",
+      "start": 2278,
+      "end": 2285
+    },
+    {
+      "text": "L",
+      "type": "ENTITY",
+      "start": 2287,
+      "end": 2288
+    },
+    {
+      "text": "NO",
+      "type": "ENTITY",
+      "start": 2292,
+      "end": 2294
+    },
+    {
+      "text": "THREE LYMPH NODES EXAMINED",
+      "type": "ENTITY",
+      "start": 2330,
+      "end": 2356
+    },
+    {
+      "text": "M",
+      "type": "ENTITY",
+      "start": 2396,
+      "end": 2397
+    },
+    {
+      "text": "NO",
+      "type": "ENTITY",
+      "start": 2401,
+      "end": 2403
+    },
+    {
+      "text": "LYMPH NODES EXAMINED",
+      "type": "ENTITY",
+      "start": 2443,
+      "end": 2463
+    },
+    {
+      "text": "O/2",
+      "type": "ENTITY",
+      "start": 2465,
+      "end": 2468
+    },
+    {
+      "text": "OBTURATOR/HYPOGASTRIC LYMPH NODES",
+      "type": "ENTITY",
+      "start": 2476,
+      "end": 2509
+    },
+    {
+      "text": "METASTATIC",
+      "type": "ENTITY",
+      "start": 2517,
+      "end": 2527
+    },
+    {
+      "text": "IDENTIFIED",
+      "type": "ENTITY",
+      "start": 2538,
+      "end": 2548
+    },
+    {
+      "text": "LYMPH NODES EXAMINED",
+      "type": "ENTITY",
+      "start": 2559,
+      "end": 2579
+    },
+    {
+      "text": "RIGHT",
+      "type": "ENTITY",
+      "start": 2587,
+      "end": 2592
+    },
+    {
+      "text": "PRE",
+      "type": "ENTITY",
+      "start": 2593,
+      "end": 2596
+    },
+    {
+      "text": "LYMPH NODES",
+      "type": "ENTITY",
+      "start": 2605,
+      "end": 2616
+    },
+    {
+      "text": "THREE LYMPH NODES EXAMINED",
+      "type": "ENTITY",
+      "start": 2663,
+      "end": 2689
+    },
+    {
+      "text": "PRE",
+      "type": "ENTITY",
+      "start": 2697,
+      "end": 2700
+    },
+    {
+      "text": "LYMPH NODES",
+      "type": "ENTITY",
+      "start": 2708,
+      "end": 2719
+    },
+    {
+      "text": "NINE",
+      "type": "ENTITY",
+      "start": 2766,
+      "end": 2770
+    },
+    {
+      "text": "LYMPH NODES EXAMINED",
+      "type": "ENTITY",
+      "start": 2771,
+      "end": 2791
+    },
+    {
+      "text": "O/9",
+      "type": "ENTITY",
+      "start": 2793,
+      "end": 2796
+    },
+    {
+      "text": "PRE",
+      "type": "ENTITY",
+      "start": 2803,
+      "end": 2806
+    },
+    {
+      "text": "LYMPH NODES",
+      "type": "ENTITY",
+      "start": 2815,
+      "end": 2826
+    },
+    {
+      "text": "Q",
+      "type": "ENTITY",
+      "start": 2828,
+      "end": 2829
+    },
+    {
+      "text": "NO",
+      "type": "ENTITY",
+      "start": 2832,
+      "end": 2834
+    },
+    {
+      "text": "FOUR",
+      "type": "ENTITY",
+      "start": 2870,
+      "end": 2874
+    },
+    {
+      "text": "R",
+      "type": "ENTITY",
+      "start": 2925,
+      "end": 2926
+    },
+    {
+      "text": "BENIGN URETER  NO",
+      "type": "ENTITY",
+      "start": 2930,
+      "end": 2947
+    },
+    {
+      "text": "OR",
+      "type": "ENTITY",
+      "start": 2958,
+      "end": 2960
+    },
+    {
+      "text": "LEFT",
+      "type": "ENTITY",
+      "start": 2982,
+      "end": 2986
+    },
+    {
+      "text": "S",
+      "type": "ENTITY",
+      "start": 3004,
+      "end": 3005
+    },
+    {
+      "text": "BENIGN URETER  NO",
+      "type": "ENTITY",
+      "start": 3009,
+      "end": 3026
+    },
+    {
+      "text": "OR",
+      "type": "ENTITY",
+      "start": 3037,
+      "end": 3039
+    },
+    {
+      "text": "IDENTIFIED",
+      "type": "ENTITY",
+      "start": 3050,
+      "end": 3060
+    },
+    {
+      "text": "TOTAL LYMPH",
+      "type": "ENTITY",
+      "start": 3061,
+      "end": 3072
+    },
+    {
+      "text": "IDENTIFIED",
+      "type": "ENTITY",
+      "start": 3102,
+      "end": 3112
+    },
+    {
+      "text": "LYMPH NODES EXAMINED",
+      "type": "ENTITY",
+      "start": 3124,
+      "end": 3144
+    },
+    {
+      "text": "BLADDER",
+      "type": "ENTITY",
+      "start": 3190,
+      "end": 3197
+    },
+    {
+      "text": "pTis",
+      "type": "ENTITY",
+      "start": 3199,
+      "end": 3203
+    },
+    {
+      "text": "pT2aN1MX",
+      "type": "ENTITY",
+      "start": 3223,
+      "end": 3231
+    },
+    {
+      "text": "Electronically signed",
+      "type": "ENTITY",
+      "start": 3232,
+      "end": 3253
+    },
+    {
+      "text": "COMMENT",
+      "type": "ENTITY",
+      "start": 3267,
+      "end": 3274
+    },
+    {
+      "text": "case",
+      "type": "ENTITY",
+      "start": 3280,
+      "end": 3284
+    },
+    {
+      "text": "Dr",
+      "type": "ENTITY",
+      "start": 3304,
+      "end": 3306
+    },
+    {
+      "text": "Immunohistochemical stains",
+      "type": "ENTITY",
+      "start": 3312,
+      "end": 3338
+    },
+    {
+      "text": "synaptophysin",
+      "type": "ENTITY",
+      "start": 3343,
+      "end": 3356
+    },
+    {
+      "text": "chromogranin",
+      "type": "ENTITY",
+      "start": 3358,
+      "end": 3370
+    },
+    {
+      "text": "pancytokeratin",
+      "type": "ENTITY",
+      "start": 3375,
+      "end": 3389
+    },
+    {
+      "text": "D9",
+      "type": "ENTITY",
+      "start": 3393,
+      "end": 3395
+    },
+    {
+      "text": "neoplastic cell",
+      "type": "ENTITY",
+      "start": 3405,
+      "end": 3420
+    },
+    {
+      "text": "bladder",
+      "type": "ENTITY",
+      "start": 3428,
+      "end": 3435
+    },
+    {
+      "text": "positive",
+      "type": "ENTITY",
+      "start": 3440,
+      "end": 3448
+    },
+    {
+      "text": "pancytokeratin",
+      "type": "ENTITY",
+      "start": 3453,
+      "end": 3467
+    },
+    {
+      "text": "vimentin",
+      "type": "ENTITY",
+      "start": 3473,
+      "end": 3481
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 3487,
+      "end": 3495
+    },
+    {
+      "text": "synaptophysin",
+      "type": "ENTITY",
+      "start": 3500,
+      "end": 3513
+    },
+    {
+      "text": "chromogranin",
+      "type": "ENTITY",
+      "start": 3518,
+      "end": 3530
+    },
+    {
+      "text": "diagnosis",
+      "type": "ENTITY",
+      "start": 3550,
+      "end": 3559
+    },
+    {
+      "text": "urothelial carcinoma",
+      "type": "ENTITY",
+      "start": 3563,
+      "end": 3583
+    },
+    {
+      "text": "sarcomatoid",
+      "type": "ENTITY",
+      "start": 3589,
+      "end": 3600
+    },
+    {
+      "text": "features",
+      "type": "ENTITY",
+      "start": 3601,
+      "end": 3609
+    },
+    {
+      "text": "Immunostains",
+      "type": "ENTITY",
+      "start": 3611,
+      "end": 3623
+    },
+    {
+      "text": "CK",
+      "type": "ENTITY",
+      "start": 3628,
+      "end": 3630
+    },
+    {
+      "text": "racemase",
+      "type": "ENTITY",
+      "start": 3640,
+      "end": 3648
+    },
+    {
+      "text": "diagnoses",
+      "type": "ENTITY",
+      "start": 3675,
+      "end": 3684
+    },
+    {
+      "text": "prostatic adenocarcinoma",
+      "type": "ENTITY",
+      "start": 3688,
+      "end": 3712
+    },
+    {
+      "text": "Right distal",
+      "type": "ENTITY",
+      "start": 3736,
+      "end": 3748
+    },
+    {
+      "text": "Left distal",
+      "type": "ENTITY",
+      "start": 3761,
+      "end": 3772
+    },
+    {
+      "text": "Apical urethral margin-f/s\"",
+      "type": "ENTITY",
+      "start": 3785,
+      "end": 3812
+    },
+    {
+      "text": "Ordereo",
+      "type": "ENTITY",
+      "start": 3842,
+      "end": 3849
+    },
+    {
+      "text": "prostate",
+      "type": "ENTITY",
+      "start": 3860,
+      "end": 3868
+    },
+    {
+      "text": "D E",
+      "type": "ENTITY",
+      "start": 3870,
+      "end": 3873
+    },
+    {
+      "text": "Left para aortic LN",
+      "type": "ENTITY",
+      "start": 3876,
+      "end": 3895
+    },
+    {
+      "text": "Right para caval LN",
+      "type": "ENTITY",
+      "start": 3927,
+      "end": 3946
+    },
+    {
+      "text": "Cloquet",
+      "type": "ENTITY",
+      "start": 3991,
+      "end": 3998
+    },
+    {
+      "text": "K",
+      "type": "ENTITY",
+      "start": 4026,
+      "end": 4027
+    },
+    {
+      "text": "Right obturator hypogastric LN",
+      "type": "ENTITY",
+      "start": 4030,
+      "end": 4060
+    },
+    {
+      "text": "Left LN",
+      "type": "ENTITY",
+      "start": 4067,
+      "end": 4074
+    },
+    {
+      "text": "Cloquet' M",
+      "type": "ENTITY",
+      "start": 4078,
+      "end": 4088
+    },
+    {
+      "text": "Left external iliac LN' N",
+      "type": "ENTITY",
+      "start": 4091,
+      "end": 4116
+    },
+    {
+      "text": "Left obturator hypogastric LN",
+      "type": "ENTITY",
+      "start": 4119,
+      "end": 4148
+    },
+    {
+      "text": "Pre sacral LN",
+      "type": "ENTITY",
+      "start": 4180,
+      "end": 4193
+    },
+    {
+      "text": "Q",
+      "type": "ENTITY",
+      "start": 4195,
+      "end": 4196
+    },
+    {
+      "text": "sciatic",
+      "type": "ENTITY",
+      "start": 4208,
+      "end": 4215
+    },
+    {
+      "text": "LNn R",
+      "type": "ENTITY",
+      "start": 4216,
+      "end": 4221
+    },
+    {
+      "text": "S",
+      "type": "ENTITY",
+      "start": 4248,
+      "end": 4249
+    },
+    {
+      "text": "Left proximal",
+      "type": "ENTITY",
+      "start": 4252,
+      "end": 4265
+    },
+    {
+      "text": "Pre-op Dx",
+      "type": "ENTITY",
+      "start": 4296,
+      "end": 4305
+    },
+    {
+      "text": "Bladder cancer",
+      "type": "ENTITY",
+      "start": 4307,
+      "end": 4321
+    },
+    {
+      "text": "Post-op Dx",
+      "type": "ENTITY",
+      "start": 4322,
+      "end": 4332
+    },
+    {
+      "text": "pre-op GROSS EXAMINATION",
+      "type": "ENTITY",
+      "start": 4342,
+      "end": 4366
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 4375,
+      "end": 4383
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 4396,
+      "end": 4401
+    },
+    {
+      "text": "O.R.",
+      "type": "ENTITY",
+      "start": 4411,
+      "end": 4415
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 4420,
+      "end": 4427
+    },
+    {
+      "text": "Right distal",
+      "type": "ENTITY",
+      "start": 4429,
+      "end": 4441
+    },
+    {
+      "text": "ureter",
+      "type": "ENTITY",
+      "start": 4442,
+      "end": 4448
+    },
+    {
+      "text": "segment",
+      "type": "ENTITY",
+      "start": 4467,
+      "end": 4474
+    },
+    {
+      "text": "soft tubular gray tissue",
+      "type": "ENTITY",
+      "start": 4478,
+      "end": 4502
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 4503,
+      "end": 4512
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 4523,
+      "end": 4529
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 4542,
+      "end": 4550
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 4557,
+      "end": 4565
+    },
+    {
+      "text": "frozen section",
+      "type": "ENTITY",
+      "start": 4592,
+      "end": 4606
+    },
+    {
+      "text": "Ars",
+      "type": "ENTITY",
+      "start": 4610,
+      "end": 4613
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 4622,
+      "end": 4630
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 4643,
+      "end": 4648
+    },
+    {
+      "text": "O.R.",
+      "type": "ENTITY",
+      "start": 4658,
+      "end": 4662
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 4667,
+      "end": 4674
+    },
+    {
+      "text": "Left distal",
+      "type": "ENTITY",
+      "start": 4676,
+      "end": 4687
+    },
+    {
+      "text": "segment",
+      "type": "ENTITY",
+      "start": 4714,
+      "end": 4721
+    },
+    {
+      "text": "soft tubular gray tissue",
+      "type": "ENTITY",
+      "start": 4725,
+      "end": 4749
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 4750,
+      "end": 4759
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 4770,
+      "end": 4776
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 4789,
+      "end": 4797
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 4804,
+      "end": 4812
+    },
+    {
+      "text": "frozen section",
+      "type": "ENTITY",
+      "start": 4839,
+      "end": 4853
+    },
+    {
+      "text": "BFs",
+      "type": "ENTITY",
+      "start": 4857,
+      "end": 4860
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 4869,
+      "end": 4877
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 4890,
+      "end": 4895
+    },
+    {
+      "text": "O.R.",
+      "type": "ENTITY",
+      "start": 4905,
+      "end": 4909
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 4914,
+      "end": 4921
+    },
+    {
+      "text": "Apical urethral margin-f/s\"",
+      "type": "ENTITY",
+      "start": 4923,
+      "end": 4950
+    },
+    {
+      "text": "piece",
+      "type": "ENTITY",
+      "start": 4969,
+      "end": 4974
+    },
+    {
+      "text": "soft pink tissue",
+      "type": "ENTITY",
+      "start": 4978,
+      "end": 4994
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 4995,
+      "end": 5004
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 5029,
+      "end": 5037
+    },
+    {
+      "text": "frozen section",
+      "type": "ENTITY",
+      "start": 5067,
+      "end": 5081
+    },
+    {
+      "text": "diagnosis",
+      "type": "ENTITY",
+      "start": 5082,
+      "end": 5091
+    },
+    {
+      "text": "cFs",
+      "type": "ENTITY",
+      "start": 5095,
+      "end": 5098
+    },
+    {
+      "text": "D",
+      "type": "ENTITY",
+      "start": 5100,
+      "end": 5101
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 5107,
+      "end": 5115
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 5128,
+      "end": 5133
+    },
+    {
+      "text": "o.R.",
+      "type": "ENTITY",
+      "start": 5143,
+      "end": 5147
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 5152,
+      "end": 5159
+    },
+    {
+      "text": "prostate",
+      "type": "ENTITY",
+      "start": 5170,
+      "end": 5178
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 5185,
+      "end": 5193
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 5202,
+      "end": 5210
+    },
+    {
+      "text": "shiny",
+      "type": "ENTITY",
+      "start": 5260,
+      "end": 5265
+    },
+    {
+      "text": "fatty",
+      "type": "ENTITY",
+      "start": 5267,
+      "end": 5272
+    },
+    {
+      "text": "yellow-pink",
+      "type": "ENTITY",
+      "start": 5274,
+      "end": 5285
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 5297,
+      "end": 5305
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 5342,
+      "end": 5350
+    },
+    {
+      "text": "bladder",
+      "type": "ENTITY",
+      "start": 5365,
+      "end": 5372
+    },
+    {
+      "text": "prostate",
+      "type": "ENTITY",
+      "start": 5404,
+      "end": 5412
+    },
+    {
+      "text": "right attached",
+      "type": "ENTITY",
+      "start": 5437,
+      "end": 5451
+    },
+    {
+      "text": "seminal vesicle",
+      "type": "ENTITY",
+      "start": 5452,
+      "end": 5467
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 5468,
+      "end": 5476
+    },
+    {
+      "text": "left attached",
+      "type": "ENTITY",
+      "start": 5504,
+      "end": 5517
+    },
+    {
+      "text": "seminal vesicle",
+      "type": "ENTITY",
+      "start": 5518,
+      "end": 5533
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 5534,
+      "end": 5542
+    },
+    {
+      "text": "surgical margin",
+      "type": "ENTITY",
+      "start": 5568,
+      "end": 5583
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 5598,
+      "end": 5606
+    },
+    {
+      "text": "inked black",
+      "type": "ENTITY",
+      "start": 5610,
+      "end": 5621
+    },
+    {
+      "text": "right side inked",
+      "type": "ENTITY",
+      "start": 5632,
+      "end": 5648
+    },
+    {
+      "text": "superimposed red",
+      "type": "ENTITY",
+      "start": 5654,
+      "end": 5670
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 5677,
+      "end": 5685
+    },
+    {
+      "text": "anterior",
+      "type": "ENTITY",
+      "start": 5706,
+      "end": 5714
+    },
+    {
+      "text": "urethra",
+      "type": "ENTITY",
+      "start": 5715,
+      "end": 5722
+    },
+    {
+      "text": "prostatic urethra",
+      "type": "ENTITY",
+      "start": 5735,
+      "end": 5752
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 5753,
+      "end": 5762
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 5771,
+      "end": 5777
+    },
+    {
+      "text": "circumference",
+      "type": "ENTITY",
+      "start": 5788,
+      "end": 5801
+    },
+    {
+      "text": "verumontanum",
+      "type": "ENTITY",
+      "start": 5807,
+      "end": 5819
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 5820,
+      "end": 5828
+    },
+    {
+      "text": "urethral mucosa",
+      "type": "ENTITY",
+      "start": 5853,
+      "end": 5868
+    },
+    {
+      "text": "pink-tan",
+      "type": "ENTITY",
+      "start": 5872,
+      "end": 5880
+    },
+    {
+      "text": "smooth",
+      "type": "ENTITY",
+      "start": 5882,
+      "end": 5888
+    },
+    {
+      "text": "excavated",
+      "type": "ENTITY",
+      "start": 5917,
+      "end": 5926
+    },
+    {
+      "text": "bladder",
+      "type": "ENTITY",
+      "start": 5933,
+      "end": 5940
+    },
+    {
+      "text": "necrotic",
+      "type": "ENTITY",
+      "start": 5976,
+      "end": 5984
+    },
+    {
+      "text": "bloody",
+      "type": "ENTITY",
+      "start": 5986,
+      "end": 5992
+    },
+    {
+      "text": "friable",
+      "type": "ENTITY",
+      "start": 5994,
+      "end": 6001
+    },
+    {
+      "text": "soft",
+      "type": "ENTITY",
+      "start": 6003,
+      "end": 6007
+    },
+    {
+      "text": "exophytic mass",
+      "type": "ENTITY",
+      "start": 6009,
+      "end": 6023
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 6030,
+      "end": 6038
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 6061,
+      "end": 6065
+    },
+    {
+      "text": "left lateral wall",
+      "type": "ENTITY",
+      "start": 6092,
+      "end": 6109
+    },
+    {
+      "text": "sectioning",
+      "type": "ENTITY",
+      "start": 6116,
+      "end": 6126
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 6139,
+      "end": 6143
+    },
+    {
+      "text": "cut surfaces",
+      "type": "ENTITY",
+      "start": 6149,
+      "end": 6161
+    },
+    {
+      "text": "coagulative",
+      "type": "ENTITY",
+      "start": 6166,
+      "end": 6177
+    },
+    {
+      "text": "solid",
+      "type": "ENTITY",
+      "start": 6179,
+      "end": 6184
+    },
+    {
+      "text": "soft",
+      "type": "ENTITY",
+      "start": 6186,
+      "end": 6190
+    },
+    {
+      "text": "ranges",
+      "type": "ENTITY",
+      "start": 6195,
+      "end": 6201
+    },
+    {
+      "text": "color",
+      "type": "ENTITY",
+      "start": 6205,
+      "end": 6210
+    },
+    {
+      "text": "yellowish",
+      "type": "ENTITY",
+      "start": 6223,
+      "end": 6232
+    },
+    {
+      "text": "marbled pattern",
+      "type": "ENTITY",
+      "start": 6238,
+      "end": 6253
+    },
+    {
+      "text": "sectioning",
+      "type": "ENTITY",
+      "start": 6260,
+      "end": 6270
+    },
+    {
+      "text": "mass's",
+      "type": "ENTITY",
+      "start": 6283,
+      "end": 6289
+    },
+    {
+      "text": "relationship",
+      "type": "ENTITY",
+      "start": 6290,
+      "end": 6302
+    },
+    {
+      "text": "left lateral wall",
+      "type": "ENTITY",
+      "start": 6310,
+      "end": 6327
+    },
+    {
+      "text": "solid",
+      "type": "ENTITY",
+      "start": 6358,
+      "end": 6363
+    },
+    {
+      "text": "firm",
+      "type": "ENTITY",
+      "start": 6365,
+      "end": 6369
+    },
+    {
+      "text": "light tan mass",
+      "type": "ENTITY",
+      "start": 6371,
+      "end": 6385
+    },
+    {
+      "text": "base",
+      "type": "ENTITY",
+      "start": 6393,
+      "end": 6397
+    },
+    {
+      "text": "bladder wall",
+      "type": "ENTITY",
+      "start": 6421,
+      "end": 6433
+    },
+    {
+      "text": "perivesical fat",
+      "type": "ENTITY",
+      "start": 6465,
+      "end": 6480
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 6486,
+      "end": 6491
+    },
+    {
+      "text": "inked black margin",
+      "type": "ENTITY",
+      "start": 6520,
+      "end": 6538
+    },
+    {
+      "text": "Bilateral",
+      "type": "ENTITY",
+      "start": 6540,
+      "end": 6549
+    },
+    {
+      "text": "ureters",
+      "type": "ENTITY",
+      "start": 6559,
+      "end": 6566
+    },
+    {
+      "text": "right ureter measures",
+      "type": "ENTITY",
+      "start": 6584,
+      "end": 6605
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 6614,
+      "end": 6620
+    },
+    {
+      "text": "circumference",
+      "type": "ENTITY",
+      "start": 6633,
+      "end": 6646
+    },
+    {
+      "text": "left ureter",
+      "type": "ENTITY",
+      "start": 6655,
+      "end": 6666
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 6667,
+      "end": 6675
+    },
+    {
+      "text": "circumference",
+      "type": "ENTITY",
+      "start": 6705,
+      "end": 6718
+    },
+    {
+      "text": "ureteral mucosa",
+      "type": "ENTITY",
+      "start": 6724,
+      "end": 6739
+    },
+    {
+      "text": "bladder mucosa",
+      "type": "ENTITY",
+      "start": 6785,
+      "end": 6799
+    },
+    {
+      "text": "gray",
+      "type": "ENTITY",
+      "start": 6803,
+      "end": 6807
+    },
+    {
+      "text": "congested",
+      "type": "ENTITY",
+      "start": 6809,
+      "end": 6818
+    },
+    {
+      "text": "grossly",
+      "type": "ENTITY",
+      "start": 6824,
+      "end": 6831
+    },
+    {
+      "text": "trigone",
+      "type": "ENTITY",
+      "start": 6871,
+      "end": 6878
+    },
+    {
+      "text": "nodularity",
+      "type": "ENTITY",
+      "start": 6901,
+      "end": 6911
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 6918,
+      "end": 6926
+    },
+    {
+      "text": "o.R.",
+      "type": "ENTITY",
+      "start": 6943,
+      "end": 6947
+    },
+    {
+      "text": "gross consultation",
+      "type": "ENTITY",
+      "start": 6954,
+      "end": 6972
+    },
+    {
+      "text": "urothelium",
+      "type": "ENTITY",
+      "start": 6978,
+      "end": 6988
+    },
+    {
+      "text": "Bs fixative",
+      "type": "ENTITY",
+      "start": 7001,
+      "end": 7012
+    },
+    {
+      "text": "hour",
+      "type": "ENTITY",
+      "start": 7020,
+      "end": 7024
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 7033,
+      "end": 7041
+    },
+    {
+      "text": "fixed",
+      "type": "ENTITY",
+      "start": 7067,
+      "end": 7072
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 7076,
+      "end": 7084
+    },
+    {
+      "text": "prostate",
+      "type": "ENTITY",
+      "start": 7090,
+      "end": 7098
+    },
+    {
+      "text": "distal",
+      "type": "ENTITY",
+      "start": 7126,
+      "end": 7132
+    },
+    {
+      "text": "proximal",
+      "type": "ENTITY",
+      "start": 7136,
+      "end": 7144
+    },
+    {
+      "text": "smooth",
+      "type": "ENTITY",
+      "start": 7156,
+      "end": 7162
+    },
+    {
+      "text": "solid",
+      "type": "ENTITY",
+      "start": 7164,
+      "end": 7169
+    },
+    {
+      "text": "grossly unremarkable",
+      "type": "ENTITY",
+      "start": 7171,
+      "end": 7191
+    },
+    {
+      "text": "Orderedby light yellow cut surfaces",
+      "type": "ENTITY",
+      "start": 7221,
+      "end": 7256
+    },
+    {
+      "text": "gross tumors",
+      "type": "ENTITY",
+      "start": 7261,
+      "end": 7273
+    },
+    {
+      "text": "prostate",
+      "type": "ENTITY",
+      "start": 7291,
+      "end": 7299
+    },
+    {
+      "text": "NO",
+      "type": "ENTITY",
+      "start": 7301,
+      "end": 7303
+    },
+    {
+      "text": "perivesical",
+      "type": "ENTITY",
+      "start": 7304,
+      "end": 7315
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 7316,
+      "end": 7327
+    },
+    {
+      "text": "palpated",
+      "type": "ENTITY",
+      "start": 7332,
+      "end": 7340
+    },
+    {
+      "text": "Representative sections",
+      "type": "ENTITY",
+      "start": 7342,
+      "end": 7365
+    },
+    {
+      "text": "cassettes",
+      "type": "ENTITY",
+      "start": 7387,
+      "end": 7396
+    },
+    {
+      "text": "E",
+      "type": "ENTITY",
+      "start": 7398,
+      "end": 7399
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 7406,
+      "end": 7414
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 7430,
+      "end": 7438
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 7443,
+      "end": 7450
+    },
+    {
+      "text": "Left para aortic LN",
+      "type": "ENTITY",
+      "start": 7452,
+      "end": 7471
+    },
+    {
+      "text": "fibrofatty",
+      "type": "ENTITY",
+      "start": 7486,
+      "end": 7496
+    },
+    {
+      "text": "lymphoid tissue",
+      "type": "ENTITY",
+      "start": 7501,
+      "end": 7516
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 7517,
+      "end": 7526
+    },
+    {
+      "text": "aggregate",
+      "type": "ENTITY",
+      "start": 7530,
+      "end": 7539
+    },
+    {
+      "text": "cassettes",
+      "type": "ENTITY",
+      "start": 7588,
+      "end": 7597
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 7605,
+      "end": 7613
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 7629,
+      "end": 7637
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 7642,
+      "end": 7649
+    },
+    {
+      "text": "fragments",
+      "type": "ENTITY",
+      "start": 7698,
+      "end": 7707
+    },
+    {
+      "text": "fatty",
+      "type": "ENTITY",
+      "start": 7711,
+      "end": 7716
+    },
+    {
+      "text": "lymphoid tissue",
+      "type": "ENTITY",
+      "start": 7721,
+      "end": 7736
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 7737,
+      "end": 7746
+    },
+    {
+      "text": "aggregate",
+      "type": "ENTITY",
+      "start": 7750,
+      "end": 7759
+    },
+    {
+      "text": "cassettes",
+      "type": "ENTITY",
+      "start": 7809,
+      "end": 7818
+    },
+    {
+      "text": "G",
+      "type": "ENTITY",
+      "start": 7820,
+      "end": 7821
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 7827,
+      "end": 7835
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 7851,
+      "end": 7859
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 7864,
+      "end": 7871
+    },
+    {
+      "text": "Right para caval LN",
+      "type": "ENTITY",
+      "start": 7873,
+      "end": 7892
+    },
+    {
+      "text": "fatty",
+      "type": "ENTITY",
+      "start": 7910,
+      "end": 7915
+    },
+    {
+      "text": "lymphoid tissue",
+      "type": "ENTITY",
+      "start": 7920,
+      "end": 7935
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 7936,
+      "end": 7945
+    },
+    {
+      "text": "aggregate",
+      "type": "ENTITY",
+      "start": 7949,
+      "end": 7958
+    },
+    {
+      "text": "cassettes",
+      "type": "ENTITY",
+      "start": 8005,
+      "end": 8014
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 8021,
+      "end": 8029
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 8045,
+      "end": 8053
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 8058,
+      "end": 8065
+    },
+    {
+      "text": "sRight",
+      "type": "ENTITY",
+      "start": 8066,
+      "end": 8072
+    },
+    {
+      "text": "fragments",
+      "type": "ENTITY",
+      "start": 8115,
+      "end": 8124
+    },
+    {
+      "text": "fatty",
+      "type": "ENTITY",
+      "start": 8128,
+      "end": 8133
+    },
+    {
+      "text": "lymphoid tissue",
+      "type": "ENTITY",
+      "start": 8138,
+      "end": 8153
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 8154,
+      "end": 8163
+    },
+    {
+      "text": "aggregate",
+      "type": "ENTITY",
+      "start": 8167,
+      "end": 8176
+    },
+    {
+      "text": "cassettes",
+      "type": "ENTITY",
+      "start": 8222,
+      "end": 8231
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 8240,
+      "end": 8248
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 8264,
+      "end": 8272
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 8277,
+      "end": 8284
+    },
+    {
+      "text": "Cloquet",
+      "type": "ENTITY",
+      "start": 8298,
+      "end": 8305
+    },
+    {
+      "text": "lymph node",
+      "type": "ENTITY",
+      "start": 8325,
+      "end": 8335
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 8336,
+      "end": 8345
+    },
+    {
+      "text": "Serially sectioned",
+      "type": "ENTITY",
+      "start": 8365,
+      "end": 8383
+    },
+    {
+      "text": "cassettes",
+      "type": "ENTITY",
+      "start": 8414,
+      "end": 8423
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 8432,
+      "end": 8440
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 8456,
+      "end": 8464
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 8469,
+      "end": 8476
+    },
+    {
+      "text": "LNa",
+      "type": "ENTITY",
+      "start": 8499,
+      "end": 8502
+    },
+    {
+      "text": "fragments",
+      "type": "ENTITY",
+      "start": 8528,
+      "end": 8537
+    },
+    {
+      "text": "fatty",
+      "type": "ENTITY",
+      "start": 8541,
+      "end": 8546
+    },
+    {
+      "text": "lymphoid tissue",
+      "type": "ENTITY",
+      "start": 8551,
+      "end": 8566
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 8567,
+      "end": 8576
+    },
+    {
+      "text": "aggregate",
+      "type": "ENTITY",
+      "start": 8580,
+      "end": 8589
+    },
+    {
+      "text": "cassettes",
+      "type": "ENTITY",
+      "start": 8634,
+      "end": 8643
+    },
+    {
+      "text": "K",
+      "type": "ENTITY",
+      "start": 8645,
+      "end": 8646
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 8652,
+      "end": 8660
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 8676,
+      "end": 8684
+    },
+    {
+      "text": "Right obturator hypogastric LN",
+      "type": "ENTITY",
+      "start": 8697,
+      "end": 8727
+    },
+    {
+      "text": "fragments",
+      "type": "ENTITY",
+      "start": 8755,
+      "end": 8764
+    },
+    {
+      "text": "fatty",
+      "type": "ENTITY",
+      "start": 8768,
+      "end": 8773
+    },
+    {
+      "text": "lymphoid tissue",
+      "type": "ENTITY",
+      "start": 8778,
+      "end": 8793
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 8794,
+      "end": 8803
+    },
+    {
+      "text": "aggregate",
+      "type": "ENTITY",
+      "start": 8807,
+      "end": 8816
+    },
+    {
+      "text": "cassettes",
+      "type": "ENTITY",
+      "start": 8861,
+      "end": 8870
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 8880,
+      "end": 8888
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 8904,
+      "end": 8912
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 8917,
+      "end": 8924
+    },
+    {
+      "text": "Cloquet",
+      "type": "ENTITY",
+      "start": 8937,
+      "end": 8944
+    },
+    {
+      "text": "single lymph node",
+      "type": "ENTITY",
+      "start": 8961,
+      "end": 8978
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 8979,
+      "end": 8988
+    },
+    {
+      "text": "attached fat",
+      "type": "ENTITY",
+      "start": 9032,
+      "end": 9044
+    },
+    {
+      "text": "Serially sectioned",
+      "type": "ENTITY",
+      "start": 9046,
+      "end": 9064
+    },
+    {
+      "text": "cassette",
+      "type": "ENTITY",
+      "start": 9095,
+      "end": 9103
+    },
+    {
+      "text": "M",
+      "type": "ENTITY",
+      "start": 9105,
+      "end": 9106
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 9112,
+      "end": 9120
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 9136,
+      "end": 9144
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 9149,
+      "end": 9156
+    },
+    {
+      "text": "Left external iliac LN",
+      "type": "ENTITY",
+      "start": 9158,
+      "end": 9180
+    },
+    {
+      "text": "fragments",
+      "type": "ENTITY",
+      "start": 9208,
+      "end": 9217
+    },
+    {
+      "text": "fatty",
+      "type": "ENTITY",
+      "start": 9221,
+      "end": 9226
+    },
+    {
+      "text": "lymphoid tissue",
+      "type": "ENTITY",
+      "start": 9231,
+      "end": 9246
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 9247,
+      "end": 9256
+    },
+    {
+      "text": "aggregate",
+      "type": "ENTITY",
+      "start": 9260,
+      "end": 9269
+    },
+    {
+      "text": "cassettes",
+      "type": "ENTITY",
+      "start": 9315,
+      "end": 9324
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 9333,
+      "end": 9341
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 9357,
+      "end": 9365
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 9370,
+      "end": 9377
+    },
+    {
+      "text": "Left obturator hypogastric LN",
+      "type": "ENTITY",
+      "start": 9379,
+      "end": 9408
+    },
+    {
+      "text": "fragments",
+      "type": "ENTITY",
+      "start": 9435,
+      "end": 9444
+    },
+    {
+      "text": "fatty",
+      "type": "ENTITY",
+      "start": 9448,
+      "end": 9453
+    },
+    {
+      "text": "lymphoid tissue",
+      "type": "ENTITY",
+      "start": 9458,
+      "end": 9473
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 9474,
+      "end": 9483
+    },
+    {
+      "text": "aggregate",
+      "type": "ENTITY",
+      "start": 9487,
+      "end": 9496
+    },
+    {
+      "text": "cassettes",
+      "type": "ENTITY",
+      "start": 9543,
+      "end": 9552
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 9561,
+      "end": 9569
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 9585,
+      "end": 9593
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 9598,
+      "end": 9605
+    },
+    {
+      "text": "fragments",
+      "type": "ENTITY",
+      "start": 9654,
+      "end": 9663
+    },
+    {
+      "text": "fatty tissue",
+      "type": "ENTITY",
+      "start": 9667,
+      "end": 9679
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 9680,
+      "end": 9689
+    },
+    {
+      "text": "aggregate 2",
+      "type": "ENTITY",
+      "start": 9693,
+      "end": 9704
+    },
+    {
+      "text": "cassette",
+      "type": "ENTITY",
+      "start": 9745,
+      "end": 9753
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 9763,
+      "end": 9771
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 9787,
+      "end": 9795
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 9800,
+      "end": 9807
+    },
+    {
+      "text": "pre sacral LN",
+      "type": "ENTITY",
+      "start": 9809,
+      "end": 9822
+    },
+    {
+      "text": "fragments",
+      "type": "ENTITY",
+      "start": 9849,
+      "end": 9858
+    },
+    {
+      "text": "fatty",
+      "type": "ENTITY",
+      "start": 9862,
+      "end": 9867
+    },
+    {
+      "text": "lymphoid tissue",
+      "type": "ENTITY",
+      "start": 9872,
+      "end": 9887
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 9888,
+      "end": 9897
+    },
+    {
+      "text": "aggregate",
+      "type": "ENTITY",
+      "start": 9901,
+      "end": 9910
+    },
+    {
+      "text": "cassettes",
+      "type": "ENTITY",
+      "start": 9954,
+      "end": 9963
+    },
+    {
+      "text": "Q  The specimen",
+      "type": "ENTITY",
+      "start": 9965,
+      "end": 9980
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 9996,
+      "end": 10004
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 10009,
+      "end": 10016
+    },
+    {
+      "text": "fragments",
+      "type": "ENTITY",
+      "start": 10064,
+      "end": 10073
+    },
+    {
+      "text": "fatty",
+      "type": "ENTITY",
+      "start": 10077,
+      "end": 10082
+    },
+    {
+      "text": "lymphoid tissue",
+      "type": "ENTITY",
+      "start": 10087,
+      "end": 10102
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 10103,
+      "end": 10112
+    },
+    {
+      "text": "aggregate",
+      "type": "ENTITY",
+      "start": 10116,
+      "end": 10125
+    },
+    {
+      "text": "cassette",
+      "type": "ENTITY",
+      "start": 10170,
+      "end": 10178
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 10187,
+      "end": 10195
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 10211,
+      "end": 10219
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 10224,
+      "end": 10231
+    },
+    {
+      "text": "segment",
+      "type": "ENTITY",
+      "start": 10275,
+      "end": 10282
+    },
+    {
+      "text": "gray-purple tubule",
+      "type": "ENTITY",
+      "start": 10286,
+      "end": 10304
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 10305,
+      "end": 10314
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 10325,
+      "end": 10331
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 10344,
+      "end": 10352
+    },
+    {
+      "text": "Serially sectioned",
+      "type": "ENTITY",
+      "start": 10354,
+      "end": 10372
+    },
+    {
+      "text": "cassette",
+      "type": "ENTITY",
+      "start": 10403,
+      "end": 10411
+    },
+    {
+      "text": "staples",
+      "type": "ENTITY",
+      "start": 10423,
+      "end": 10430
+    },
+    {
+      "text": "evenly",
+      "type": "ENTITY",
+      "start": 10431,
+      "end": 10437
+    },
+    {
+      "text": "S",
+      "type": "ENTITY",
+      "start": 10490,
+      "end": 10491
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 10498,
+      "end": 10506
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 10522,
+      "end": 10530
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 10535,
+      "end": 10542
+    },
+    {
+      "text": "Left proximal ureter",
+      "type": "ENTITY",
+      "start": 10544,
+      "end": 10564
+    },
+    {
+      "text": "segment",
+      "type": "ENTITY",
+      "start": 10585,
+      "end": 10592
+    },
+    {
+      "text": "pink-gray tubule",
+      "type": "ENTITY",
+      "start": 10596,
+      "end": 10612
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 10613,
+      "end": 10622
+    },
+    {
+      "text": "length",
+      "type": "ENTITY",
+      "start": 10633,
+      "end": 10639
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 10652,
+      "end": 10660
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 10666,
+      "end": 10674
+    },
+    {
+      "text": "stapled",
+      "type": "ENTITY",
+      "start": 10678,
+      "end": 10685
+    },
+    {
+      "text": "evenly",
+      "type": "ENTITY",
+      "start": 10686,
+      "end": 10692
+    },
+    {
+      "text": "Serially sectioned",
+      "type": "ENTITY",
+      "start": 10702,
+      "end": 10720
+    },
+    {
+      "text": "cassette",
+      "type": "ENTITY",
+      "start": 10751,
+      "end": 10759
+    },
+    {
+      "text": "AFS",
+      "type": "ENTITY",
+      "start": 10772,
+      "end": 10775
+    },
+    {
+      "text": "frozen section",
+      "type": "ENTITY",
+      "start": 10777,
+      "end": 10791
+    },
+    {
+      "text": "right distal ureter Bes",
+      "type": "ENTITY",
+      "start": 10793,
+      "end": 10816
+    },
+    {
+      "text": "frozen section",
+      "type": "ENTITY",
+      "start": 10818,
+      "end": 10832
+    },
+    {
+      "text": "left distal ureter",
+      "type": "ENTITY",
+      "start": 10834,
+      "end": 10852
+    },
+    {
+      "text": "CFs",
+      "type": "ENTITY",
+      "start": 10854,
+      "end": 10857
+    },
+    {
+      "text": "frozen section",
+      "type": "ENTITY",
+      "start": 10859,
+      "end": 10873
+    },
+    {
+      "text": "apical urethral margin D1",
+      "type": "ENTITY",
+      "start": 10875,
+      "end": 10900
+    },
+    {
+      "text": "posterior wall",
+      "type": "ENTITY",
+      "start": 10902,
+      "end": 10916
+    },
+    {
+      "text": "bladder D2",
+      "type": "ENTITY",
+      "start": 10920,
+      "end": 10930
+    },
+    {
+      "text": "dome",
+      "type": "ENTITY",
+      "start": 10933,
+      "end": 10937
+    },
+    {
+      "text": "bladder D3",
+      "type": "ENTITY",
+      "start": 10941,
+      "end": 10951
+    },
+    {
+      "text": "right lateral wall",
+      "type": "ENTITY",
+      "start": 10953,
+      "end": 10971
+    },
+    {
+      "text": "bladder D4 5",
+      "type": "ENTITY",
+      "start": 10975,
+      "end": 10987
+    },
+    {
+      "text": "anterior",
+      "type": "ENTITY",
+      "start": 10989,
+      "end": 10997
+    },
+    {
+      "text": "bladder D6",
+      "type": "ENTITY",
+      "start": 11006,
+      "end": 11016
+    },
+    {
+      "text": "right ureterovesical junction",
+      "type": "ENTITY",
+      "start": 11018,
+      "end": 11047
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 11069,
+      "end": 11077
+    },
+    {
+      "text": "ureter D7",
+      "type": "ENTITY",
+      "start": 11086,
+      "end": 11095
+    },
+    {
+      "text": "left ureterovesical junction",
+      "type": "ENTITY",
+      "start": 11098,
+      "end": 11126
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 11148,
+      "end": 11156
+    },
+    {
+      "text": "ureter D8",
+      "type": "ENTITY",
+      "start": 11165,
+      "end": 11174
+    },
+    {
+      "text": "trigone",
+      "type": "ENTITY",
+      "start": 11176,
+      "end": 11183
+    },
+    {
+      "text": "representative",
+      "type": "ENTITY",
+      "start": 11191,
+      "end": 11205
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 11206,
+      "end": 11214
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 11223,
+      "end": 11228
+    },
+    {
+      "text": "relationship",
+      "type": "ENTITY",
+      "start": 11232,
+      "end": 11244
+    },
+    {
+      "text": "left lateral  wall D13",
+      "type": "ENTITY",
+      "start": 11252,
+      "end": 11274
+    },
+    {
+      "text": "relationship",
+      "type": "ENTITY",
+      "start": 11276,
+      "end": 11288
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 11292,
+      "end": 11297
+    },
+    {
+      "text": "inked margin",
+      "type": "ENTITY",
+      "start": 11309,
+      "end": 11321
+    },
+    {
+      "text": "representative",
+      "type": "ENTITY",
+      "start": 11331,
+      "end": 11345
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 11346,
+      "end": 11354
+    },
+    {
+      "text": "hemorrhagic",
+      "type": "ENTITY",
+      "start": 11367,
+      "end": 11378
+    },
+    {
+      "text": "right distal prostate D17",
+      "type": "ENTITY",
+      "start": 11397,
+      "end": 11422
+    },
+    {
+      "text": "left distal prostate D18: right mid prostate D19",
+      "type": "ENTITY",
+      "start": 11424,
+      "end": 11472
+    },
+    {
+      "text": "left posterior mid prostate D20",
+      "type": "ENTITY",
+      "start": 11474,
+      "end": 11505
+    },
+    {
+      "text": "left anterior mid prostate D21",
+      "type": "ENTITY",
+      "start": 11507,
+      "end": 11537
+    },
+    {
+      "text": "right posterior proximal prostate",
+      "type": "ENTITY",
+      "start": 11539,
+      "end": 11572
+    },
+    {
+      "text": "right anterior proximal prostate D23",
+      "type": "ENTITY",
+      "start": 11579,
+      "end": 11615
+    },
+    {
+      "text": "left posterior proximal prostate D24",
+      "type": "ENTITY",
+      "start": 11618,
+      "end": 11654
+    },
+    {
+      "text": "left anterior proximal prostate E1",
+      "type": "ENTITY",
+      "start": 11657,
+      "end": 11691
+    },
+    {
+      "text": "left para aortic lymph nodes",
+      "type": "ENTITY",
+      "start": 11693,
+      "end": 11721
+    },
+    {
+      "text": "lymph node",
+      "type": "ENTITY",
+      "start": 11727,
+      "end": 11737
+    },
+    {
+      "text": "bisected",
+      "type": "ENTITY",
+      "start": 11739,
+      "end": 11747
+    },
+    {
+      "text": "E2",
+      "type": "ENTITY",
+      "start": 11748,
+      "end": 11750
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 11756,
+      "end": 11767
+    },
+    {
+      "text": "inked black",
+      "type": "ENTITY",
+      "start": 11773,
+      "end": 11784
+    },
+    {
+      "text": "bisected",
+      "type": "ENTITY",
+      "start": 11791,
+      "end": 11799
+    },
+    {
+      "text": "tissue",
+      "type": "ENTITY",
+      "start": 11815,
+      "end": 11821
+    },
+    {
+      "text": "F1",
+      "type": "ENTITY",
+      "start": 11822,
+      "end": 11824
+    },
+    {
+      "text": "left common",
+      "type": "ENTITY",
+      "start": 11829,
+      "end": 11840
+    },
+    {
+      "text": "iliac lymph nodes",
+      "type": "ENTITY",
+      "start": 11841,
+      "end": 11858
+    },
+    {
+      "text": "lymphoid tissue F3",
+      "type": "ENTITY",
+      "start": 11860,
+      "end": 11878
+    },
+    {
+      "text": "tissue G1",
+      "type": "ENTITY",
+      "start": 11891,
+      "end": 11900
+    },
+    {
+      "text": "right para caval lymph nodes",
+      "type": "ENTITY",
+      "start": 11903,
+      "end": 11931
+    },
+    {
+      "text": "lymph node",
+      "type": "ENTITY",
+      "start": 11937,
+      "end": 11947
+    },
+    {
+      "text": "bisected",
+      "type": "ENTITY",
+      "start": 11949,
+      "end": 11957
+    },
+    {
+      "text": "tissue H1",
+      "type": "ENTITY",
+      "start": 11973,
+      "end": 11982
+    },
+    {
+      "text": "iliac lymph nodes",
+      "type": "ENTITY",
+      "start": 12000,
+      "end": 12017
+    },
+    {
+      "text": "lymph node",
+      "type": "ENTITY",
+      "start": 12036,
+      "end": 12046
+    },
+    {
+      "text": "bisected",
+      "type": "ENTITY",
+      "start": 12048,
+      "end": 12056
+    },
+    {
+      "text": "H3",
+      "type": "ENTITY",
+      "start": 12057,
+      "end": 12059
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 12065,
+      "end": 12076
+    },
+    {
+      "text": "bisected",
+      "type": "ENTITY",
+      "start": 12078,
+      "end": 12086
+    },
+    {
+      "text": "lymphoid tissue",
+      "type": "ENTITY",
+      "start": 12119,
+      "end": 12134
+    },
+    {
+      "text": "H5",
+      "type": "ENTITY",
+      "start": 12135,
+      "end": 12137
+    },
+    {
+      "text": "tissue",
+      "type": "ENTITY",
+      "start": 12149,
+      "end": 12155
+    },
+    {
+      "text": "right lymph node",
+      "type": "ENTITY",
+      "start": 12163,
+      "end": 12179
+    },
+    {
+      "text": "Cloquet",
+      "type": "ENTITY",
+      "start": 12183,
+      "end": 12190
+    },
+    {
+      "text": "lymph node",
+      "type": "ENTITY",
+      "start": 12196,
+      "end": 12206
+    },
+    {
+      "text": "serially sectioned J1",
+      "type": "ENTITY",
+      "start": 12208,
+      "end": 12229
+    },
+    {
+      "text": "right~external iliac lymph nodes",
+      "type": "ENTITY",
+      "start": 12232,
+      "end": 12264
+    },
+    {
+      "text": "bisected",
+      "type": "ENTITY",
+      "start": 12282,
+      "end": 12290
+    },
+    {
+      "text": "J2",
+      "type": "ENTITY",
+      "start": 12291,
+      "end": 12293
+    },
+    {
+      "text": "lymphoid tissue J3",
+      "type": "ENTITY",
+      "start": 12306,
+      "end": 12324
+    },
+    {
+      "text": "tissue K1",
+      "type": "ENTITY",
+      "start": 12337,
+      "end": 12346
+    },
+    {
+      "text": "right obturator",
+      "type": "ENTITY",
+      "start": 12348,
+      "end": 12363
+    },
+    {
+      "text": "hypogastric lymph nodes",
+      "type": "ENTITY",
+      "start": 12364,
+      "end": 12387
+    },
+    {
+      "text": "lymph node",
+      "type": "ENTITY",
+      "start": 12393,
+      "end": 12403
+    },
+    {
+      "text": "bisected",
+      "type": "ENTITY",
+      "start": 12405,
+      "end": 12413
+    },
+    {
+      "text": "lymphoid",
+      "type": "ENTITY",
+      "start": 12431,
+      "end": 12439
+    },
+    {
+      "text": "K5-7",
+      "type": "ENTITY",
+      "start": 12447,
+      "end": 12451
+    },
+    {
+      "text": "tissue L1",
+      "type": "ENTITY",
+      "start": 12463,
+      "end": 12472
+    },
+    {
+      "text": "left lymph node",
+      "type": "ENTITY",
+      "start": 12474,
+      "end": 12489
+    },
+    {
+      "text": "Cloquet",
+      "type": "ENTITY",
+      "start": 12493,
+      "end": 12500
+    },
+    {
+      "text": "lymph node",
+      "type": "ENTITY",
+      "start": 12506,
+      "end": 12516
+    },
+    {
+      "text": "left external iliac lymph nodes",
+      "type": "ENTITY",
+      "start": 12541,
+      "end": 12572
+    },
+    {
+      "text": "lymph node",
+      "type": "ENTITY",
+      "start": 12578,
+      "end": 12588
+    },
+    {
+      "text": "bisected",
+      "type": "ENTITY",
+      "start": 12590,
+      "end": 12598
+    },
+    {
+      "text": "tissue N1",
+      "type": "ENTITY",
+      "start": 12614,
+      "end": 12623
+    },
+    {
+      "text": "left obturator",
+      "type": "ENTITY",
+      "start": 12628,
+      "end": 12642
+    },
+    {
+      "text": "hypogastric lymph nodes",
+      "type": "ENTITY",
+      "start": 12643,
+      "end": 12666
+    },
+    {
+      "text": "lymph node",
+      "type": "ENTITY",
+      "start": 12697,
+      "end": 12707
+    },
+    {
+      "text": "bisected N3",
+      "type": "ENTITY",
+      "start": 12709,
+      "end": 12720
+    },
+    {
+      "text": "lymph node",
+      "type": "ENTITY",
+      "start": 12727,
+      "end": 12737
+    },
+    {
+      "text": "bisected",
+      "type": "ENTITY",
+      "start": 12739,
+      "end": 12747
+    },
+    {
+      "text": "lymphoid tissue N7",
+      "type": "ENTITY",
+      "start": 12764,
+      "end": 12782
+    },
+    {
+      "text": "tissue",
+      "type": "ENTITY",
+      "start": 12795,
+      "end": 12801
+    },
+    {
+      "text": "pre",
+      "type": "ENTITY",
+      "start": 12811,
+      "end": 12814
+    },
+    {
+      "text": "sciatic",
+      "type": "ENTITY",
+      "start": 12815,
+      "end": 12822
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 12823,
+      "end": 12834
+    },
+    {
+      "text": "sacral lymph nodes",
+      "type": "ENTITY",
+      "start": 12843,
+      "end": 12861
+    },
+    {
+      "text": "lymphoid tissue",
+      "type": "ENTITY",
+      "start": 12863,
+      "end": 12878
+    },
+    {
+      "text": "tissue",
+      "type": "ENTITY",
+      "start": 12894,
+      "end": 12900
+    },
+    {
+      "text": "left",
+      "type": "ENTITY",
+      "start": 12904,
+      "end": 12908
+    },
+    {
+      "text": "sciatic",
+      "type": "ENTITY",
+      "start": 12913,
+      "end": 12920
+    },
+    {
+      "text": "SURCICA",
+      "type": "ENTITY",
+      "start": 12961,
+      "end": 12968
+    },
+    {
+      "text": "right proxima",
+      "type": "ENTITY",
+      "start": 12972,
+      "end": 12985
+    },
+    {
+      "text": "left proximal ureter",
+      "type": "ENTITY",
+      "start": 12989,
+      "end": 13009
+    },
+    {
+      "text": "FROZEN CONSULTATION",
+      "type": "ENTITY",
+      "start": 13025,
+      "end": 13044
+    },
+    {
+      "text": "AFS",
+      "type": "ENTITY",
+      "start": 13046,
+      "end": 13049
+    },
+    {
+      "text": "Right distal ureter benign",
+      "type": "ENTITY",
+      "start": 13051,
+      "end": 13077
+    },
+    {
+      "text": "BFS",
+      "type": "ENTITY",
+      "start": 13078,
+      "end": 13081
+    },
+    {
+      "text": "Left distal ureter",
+      "type": "ENTITY",
+      "start": 13083,
+      "end": 13101
+    },
+    {
+      "text": "Apical urethral margin",
+      "type": "ENTITY",
+      "start": 13114,
+      "end": 13136
+    },
+    {
+      "text": "GROSS CONSULTATION",
+      "type": "ENTITY",
+      "start": 13159,
+      "end": 13177
+    },
+    {
+      "text": "Bladder",
+      "type": "ENTITY",
+      "start": 13178,
+      "end": 13185
+    },
+    {
+      "text": "prostate",
+      "type": "ENTITY",
+      "start": 13187,
+      "end": 13195
+    },
+    {
+      "text": "D",
+      "type": "ENTITY",
+      "start": 13197,
+      "end": 13198
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 13201,
+      "end": 13206
+    },
+    {
+      "text": "identified",
+      "type": "ENTITY",
+      "start": 13207,
+      "end": 13217
+    },
+    {
+      "text": "A-S",
+      "type": "ENTITY",
+      "start": 13243,
+      "end": 13246
+    },
+    {
+      "text": "microscopic diagnosis",
+      "type": "ENTITY",
+      "start": 13258,
+      "end": 13279
+    }
+  ],
+  "entity_count": 606,
+  "has_embedding": true
+}

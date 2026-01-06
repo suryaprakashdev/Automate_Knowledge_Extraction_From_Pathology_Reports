@@ -1,0 +1,962 @@
+{
+  "filename": "02a1fe95-1169-4ce1-803d-1d2222b454c2",
+  "timestamp": "2026-01-05T14:43:17.665356",
+  "entities": [
+    {
+      "text": "CARD",
+      "type": "ENTITY",
+      "start": 27,
+      "end": 31
+    },
+    {
+      "text": "FIRST",
+      "type": "ENTITY",
+      "start": 46,
+      "end": 51
+    },
+    {
+      "text": "DIAGNOSIS-1",
+      "type": "ENTITY",
+      "start": 114,
+      "end": 125
+    },
+    {
+      "text": "M9593",
+      "type": "ENTITY",
+      "start": 126,
+      "end": 131
+    },
+    {
+      "text": "LYMPHOMA",
+      "type": "ENTITY",
+      "start": 142,
+      "end": 150
+    },
+    {
+      "text": "NOS",
+      "type": "ENTITY",
+      "start": 152,
+      "end": 155
+    },
+    {
+      "text": "SPECIMEN-1",
+      "type": "ENTITY",
+      "start": 156,
+      "end": 166
+    },
+    {
+      "text": "SPLEEN\n\n",
+      "type": "ENTITY",
+      "start": 171,
+      "end": 179
+    },
+    {
+      "text": "AD",
+      "type": "ENTITY",
+      "start": 199,
+      "end": 201
+    },
+    {
+      "text": "ONRNAVAA",
+      "type": "ENTITY",
+      "start": 202,
+      "end": 210
+    },
+    {
+      "text": "RANGH",
+      "type": "ENTITY",
+      "start": 212,
+      "end": 217
+    },
+    {
+      "text": "PARHICLAATE",
+      "type": "ENTITY",
+      "start": 223,
+      "end": 234
+    },
+    {
+      "text": "ONO",
+      "type": "ENTITY",
+      "start": 240,
+      "end": 243
+    },
+    {
+      "text": "TSIARAFFIN",
+      "type": "ENTITY",
+      "start": 244,
+      "end": 254
+    },
+    {
+      "text": "AMPLE",
+      "type": "ENTITY",
+      "start": 274,
+      "end": 279
+    },
+    {
+      "text": "LWES",
+      "type": "ENTITY",
+      "start": 281,
+      "end": 285
+    },
+    {
+      "text": "MFLASTIC",
+      "type": "ENTITY",
+      "start": 290,
+      "end": 298
+    },
+    {
+      "text": "UNEVALUAELE",
+      "type": "ENTITY",
+      "start": 308,
+      "end": 319
+    },
+    {
+      "text": "CRURERIIG",
+      "type": "ENTITY",
+      "start": 322,
+      "end": 331
+    },
+    {
+      "text": "CRIL",
+      "type": "ENTITY",
+      "start": 332,
+      "end": 336
+    },
+    {
+      "text": "COUNT",
+      "type": "ENTITY",
+      "start": 337,
+      "end": 342
+    },
+    {
+      "text": "DNOT",
+      "type": "ENTITY",
+      "start": 343,
+      "end": 347
+    },
+    {
+      "text": "MYELOMLAST8",
+      "type": "ENTITY",
+      "start": 360,
+      "end": 371
+    },
+    {
+      "text": "PnOMYELOCYTE3 D",
+      "type": "ENTITY",
+      "start": 374,
+      "end": 389
+    },
+    {
+      "text": "MEGAKAAYODLASTS",
+      "type": "ENTITY",
+      "start": 391,
+      "end": 406
+    },
+    {
+      "text": "CTMONOULASTS",
+      "type": "ENTITY",
+      "start": 407,
+      "end": 419
+    },
+    {
+      "text": "PROMONIXYTES",
+      "type": "ENTITY",
+      "start": 422,
+      "end": 434
+    },
+    {
+      "text": "JIYMPHHODLASTS",
+      "type": "ENTITY",
+      "start": 436,
+      "end": 450
+    },
+    {
+      "text": "LYNPHOCYTES",
+      "type": "ENTITY",
+      "start": 453,
+      "end": 464
+    },
+    {
+      "text": "CLONES:YES Ono",
+      "type": "ENTITY",
+      "start": 465,
+      "end": 479
+    },
+    {
+      "text": "AS",
+      "type": "ENTITY",
+      "start": 497,
+      "end": 499
+    },
+    {
+      "text": "ALL",
+      "type": "ENTITY",
+      "start": 506,
+      "end": 509
+    },
+    {
+      "text": "ANC",
+      "type": "ENTITY",
+      "start": 527,
+      "end": 530
+    },
+    {
+      "text": "EOSINOPHILIA",
+      "type": "ENTITY",
+      "start": 551,
+      "end": 563
+    },
+    {
+      "text": "Onone QSPAnSE",
+      "type": "ENTITY",
+      "start": 565,
+      "end": 578
+    },
+    {
+      "text": "MAAKEO",
+      "type": "ENTITY",
+      "start": 581,
+      "end": 587
+    },
+    {
+      "text": "HPF",
+      "type": "ENTITY",
+      "start": 592,
+      "end": 595
+    },
+    {
+      "text": "AM",
+      "type": "ENTITY",
+      "start": 597,
+      "end": 599
+    },
+    {
+      "text": "OASOPHILIA",
+      "type": "ENTITY",
+      "start": 631,
+      "end": 641
+    },
+    {
+      "text": "ONONE",
+      "type": "ENTITY",
+      "start": 643,
+      "end": 648
+    },
+    {
+      "text": "SPARSE",
+      "type": "ENTITY",
+      "start": 649,
+      "end": 655
+    },
+    {
+      "text": "OMARKEO",
+      "type": "ENTITY",
+      "start": 656,
+      "end": 663
+    },
+    {
+      "text": "NOnMAL OA",
+      "type": "ENTITY",
+      "start": 664,
+      "end": 673
+    },
+    {
+      "text": "DTAPLAOTICHRMOPOIEGIS",
+      "type": "ENTITY",
+      "start": 674,
+      "end": 695
+    },
+    {
+      "text": "NOt",
+      "type": "ENTITY",
+      "start": 696,
+      "end": 699
+    },
+    {
+      "text": "EVALUAOL",
+      "type": "ENTITY",
+      "start": 700,
+      "end": 708
+    },
+    {
+      "text": "CEUURARITY",
+      "type": "ENTITY",
+      "start": 748,
+      "end": 758
+    },
+    {
+      "text": "NORMAL HIQH",
+      "type": "ENTITY",
+      "start": 763,
+      "end": 774
+    },
+    {
+      "text": "Dyspl",
+      "type": "ENTITY",
+      "start": 775,
+      "end": 780
+    },
+    {
+      "text": "INCAEASED",
+      "type": "ENTITY",
+      "start": 796,
+      "end": 805
+    },
+    {
+      "text": "QOECHEASED",
+      "type": "ENTITY",
+      "start": 806,
+      "end": 816
+    },
+    {
+      "text": "QRANULOCYIES",
+      "type": "ENTITY",
+      "start": 817,
+      "end": 829
+    },
+    {
+      "text": "Q0 D1 04 Oy EOSINOPHILS INCREASEO",
+      "type": "ENTITY",
+      "start": 831,
+      "end": 864
+    },
+    {
+      "text": "QOECAEASED",
+      "type": "ENTITY",
+      "start": 865,
+      "end": 875
+    },
+    {
+      "text": "ERYTHROIDS",
+      "type": "ENTITY",
+      "start": 876,
+      "end": 886
+    },
+    {
+      "text": "CINCREASED",
+      "type": "ENTITY",
+      "start": 911,
+      "end": 921
+    },
+    {
+      "text": "DDECnEASED",
+      "type": "ENTITY",
+      "start": 922,
+      "end": 932
+    },
+    {
+      "text": "Oy DN",
+      "type": "ENTITY",
+      "start": 950,
+      "end": 955
+    },
+    {
+      "text": "OINCREASED",
+      "type": "ENTITY",
+      "start": 968,
+      "end": 978
+    },
+    {
+      "text": "QOECREASED",
+      "type": "ENTITY",
+      "start": 979,
+      "end": 989
+    },
+    {
+      "text": "LYMPHIOCYTES",
+      "type": "ENTITY",
+      "start": 990,
+      "end": 1002
+    },
+    {
+      "text": "IF",
+      "type": "ENTITY",
+      "start": 1021,
+      "end": 1023
+    },
+    {
+      "text": "ODECAEASED",
+      "type": "ENTITY",
+      "start": 1044,
+      "end": 1054
+    },
+    {
+      "text": "MEGAKAAYOCKTES/HPF",
+      "type": "ENTITY",
+      "start": 1055,
+      "end": 1073
+    },
+    {
+      "text": "OINCREASEO",
+      "type": "ENTITY",
+      "start": 1086,
+      "end": 1096
+    },
+    {
+      "text": "QDECREASED",
+      "type": "ENTITY",
+      "start": 1097,
+      "end": 1107
+    },
+    {
+      "text": "RANGE",
+      "type": "ENTITY",
+      "start": 1108,
+      "end": 1113
+    },
+    {
+      "text": "EVALUABLE",
+      "type": "ENTITY",
+      "start": 1140,
+      "end": 1149
+    },
+    {
+      "text": "spociAl staIns unavallablo",
+      "type": "ENTITY",
+      "start": 1151,
+      "end": 1177
+    },
+    {
+      "text": "TINALTRATESOTHER",
+      "type": "ENTITY",
+      "start": 1179,
+      "end": 1195
+    },
+    {
+      "text": "THANNOTEOAROYEUNDSRLEUKEMICA",
+      "type": "ENTITY",
+      "start": 1196,
+      "end": 1224
+    },
+    {
+      "text": "CELLCOUNT",
+      "type": "ENTITY",
+      "start": 1225,
+      "end": 1234
+    },
+    {
+      "text": "HAEPAS/GIEMSA DRetIcULin STAin",
+      "type": "ENTITY",
+      "start": 1236,
+      "end": 1266
+    },
+    {
+      "text": "ANONE",
+      "type": "ENTITY",
+      "start": 1283,
+      "end": 1288
+    },
+    {
+      "text": "sheets",
+      "type": "ENTITY",
+      "start": 1289,
+      "end": 1295
+    },
+    {
+      "text": "ONODULES",
+      "type": "ENTITY",
+      "start": 1296,
+      "end": 1304
+    },
+    {
+      "text": "ONUMOER",
+      "type": "ENTITY",
+      "start": 1305,
+      "end": 1312
+    },
+    {
+      "text": "Hpf",
+      "type": "ENTITY",
+      "start": 1316,
+      "end": 1319
+    },
+    {
+      "text": "total no.",
+      "type": "ENTITY",
+      "start": 1321,
+      "end": 1330
+    },
+    {
+      "text": "QRADE",
+      "type": "ENTITY",
+      "start": 1331,
+      "end": 1336
+    },
+    {
+      "text": "OPARATRABECULAR",
+      "type": "ENTITY",
+      "start": 1337,
+      "end": 1352
+    },
+    {
+      "text": "Ointenstitial O 1  NO INCREASE",
+      "type": "ENTITY",
+      "start": 1353,
+      "end": 1383
+    },
+    {
+      "text": "RC",
+      "type": "ENTITY",
+      "start": 1387,
+      "end": 1389
+    },
+    {
+      "text": "TICULIN",
+      "type": "ENTITY",
+      "start": 1390,
+      "end": 1397
+    },
+    {
+      "text": "OLYMPHOID",
+      "type": "ENTITY",
+      "start": 1398,
+      "end": 1407
+    },
+    {
+      "text": "AEACTIVE",
+      "type": "ENTITY",
+      "start": 1463,
+      "end": 1471
+    },
+    {
+      "text": "ONEOPLASTIC",
+      "type": "ENTITY",
+      "start": 1472,
+      "end": 1483
+    },
+    {
+      "text": "BOADERLINE",
+      "type": "ENTITY",
+      "start": 1484,
+      "end": 1494
+    },
+    {
+      "text": "O3",
+      "type": "ENTITY",
+      "start": 1495,
+      "end": 1497
+    },
+    {
+      "text": "DIFFUSE INCREA$E",
+      "type": "ENTITY",
+      "start": 1500,
+      "end": 1516
+    },
+    {
+      "text": "iN",
+      "type": "ENTITY",
+      "start": 1517,
+      "end": 1519
+    },
+    {
+      "text": "SEGTION",
+      "type": "ENTITY",
+      "start": 1544,
+      "end": 1551
+    },
+    {
+      "text": "COLLAGEN S  COLIAGEN",
+      "type": "ENTITY",
+      "start": 1614,
+      "end": 1634
+    },
+    {
+      "text": "CONSPICUOUS",
+      "type": "ENTITY",
+      "start": 1635,
+      "end": 1646
+    },
+    {
+      "text": "RIGHT ILtAC CREST",
+      "type": "ENTITY",
+      "start": 1673,
+      "end": 1690
+    },
+    {
+      "text": "AVERAGE",
+      "type": "ENTITY",
+      "start": 1693,
+      "end": 1700
+    },
+    {
+      "text": "GRAOE 5a PLUS",
+      "type": "ENTITY",
+      "start": 1708,
+      "end": 1721
+    },
+    {
+      "text": "LEFT ILIAC CAEST",
+      "type": "ENTITY",
+      "start": 1758,
+      "end": 1774
+    },
+    {
+      "text": "ASPIRATE",
+      "type": "ENTITY",
+      "start": 1777,
+      "end": 1785
+    },
+    {
+      "text": "KMARROWIAPRINTASHIEARDIFICOUNT",
+      "type": "ENTITY",
+      "start": 1787,
+      "end": 1817
+    },
+    {
+      "text": "ONOTAYAILADLE",
+      "type": "ENTITY",
+      "start": 1822,
+      "end": 1835
+    },
+    {
+      "text": "NEUTRO",
+      "type": "ENTITY",
+      "start": 1855,
+      "end": 1861
+    },
+    {
+      "text": "Eos",
+      "type": "ENTITY",
+      "start": 1863,
+      "end": 1866
+    },
+    {
+      "text": "BASO",
+      "type": "ENTITY",
+      "start": 1868,
+      "end": 1872
+    },
+    {
+      "text": "MYEL",
+      "type": "ENTITY",
+      "start": 1881,
+      "end": 1885
+    },
+    {
+      "text": "OSLASTS",
+      "type": "ENTITY",
+      "start": 1886,
+      "end": 1893
+    },
+    {
+      "text": "MONOCYTES",
+      "type": "ENTITY",
+      "start": 1894,
+      "end": 1903
+    },
+    {
+      "text": "CELLSCOUNTED",
+      "type": "ENTITY",
+      "start": 1906,
+      "end": 1918
+    },
+    {
+      "text": "PROMYELOCYTES",
+      "type": "ENTITY",
+      "start": 1923,
+      "end": 1936
+    },
+    {
+      "text": "NUC",
+      "type": "ENTITY",
+      "start": 1937,
+      "end": 1940
+    },
+    {
+      "text": "mk.inc",
+      "type": "ENTITY",
+      "start": 1957,
+      "end": 1963
+    },
+    {
+      "text": "PLATELETS MYELOCYTES",
+      "type": "ENTITY",
+      "start": 1973,
+      "end": 1993
+    },
+    {
+      "text": "LYMPHORLASTS",
+      "type": "ENTITY",
+      "start": 1994,
+      "end": 2006
+    },
+    {
+      "text": "H+ree",
+      "type": "ENTITY",
+      "start": 2008,
+      "end": 2013
+    },
+    {
+      "text": "METAMYELOCYTES",
+      "type": "ENTITY",
+      "start": 2044,
+      "end": 2058
+    },
+    {
+      "text": "LMPHOCYTES5",
+      "type": "ENTITY",
+      "start": 2059,
+      "end": 2070
+    },
+    {
+      "text": "R",
+      "type": "ENTITY",
+      "start": 2071,
+      "end": 2072
+    },
+    {
+      "text": "MEGAKARYOBLASTS",
+      "type": "ENTITY",
+      "start": 2073,
+      "end": 2088
+    },
+    {
+      "text": "STASS",
+      "type": "ENTITY",
+      "start": 2098,
+      "end": 2103
+    },
+    {
+      "text": "Histiocytes 02 ETHERAPY",
+      "type": "ENTITY",
+      "start": 2147,
+      "end": 2170
+    },
+    {
+      "text": "SIDEAOBLASTS",
+      "type": "ENTITY",
+      "start": 2187,
+      "end": 2199
+    },
+    {
+      "text": "H08",
+      "type": "ENTITY",
+      "start": 2200,
+      "end": 2203
+    },
+    {
+      "text": "ONO",
+      "type": "ENTITY",
+      "start": 2206,
+      "end": 2209
+    },
+    {
+      "text": "DCp",
+      "type": "ENTITY",
+      "start": 2210,
+      "end": 2213
+    },
+    {
+      "text": "ORT",
+      "type": "ENTITY",
+      "start": 2214,
+      "end": 2217
+    },
+    {
+      "text": "TRANSP",
+      "type": "ENTITY",
+      "start": 2218,
+      "end": 2224
+    },
+    {
+      "text": "OTHEn",
+      "type": "ENTITY",
+      "start": 2231,
+      "end": 2236
+    },
+    {
+      "text": "WBO",
+      "type": "ENTITY",
+      "start": 2238,
+      "end": 2241
+    },
+    {
+      "text": "CYTOCHEMICAL CELLS",
+      "type": "ENTITY",
+      "start": 2267,
+      "end": 2285
+    },
+    {
+      "text": "PX",
+      "type": "ENTITY",
+      "start": 2289,
+      "end": 2291
+    },
+    {
+      "text": "CAE",
+      "type": "ENTITY",
+      "start": 2295,
+      "end": 2298
+    },
+    {
+      "text": "ANBE",
+      "type": "ENTITY",
+      "start": 2299,
+      "end": 2303
+    },
+    {
+      "text": "ANAE",
+      "type": "ENTITY",
+      "start": 2304,
+      "end": 2308
+    },
+    {
+      "text": "AP",
+      "type": "ENTITY",
+      "start": 2309,
+      "end": 2311
+    },
+    {
+      "text": "PAS",
+      "type": "ENTITY",
+      "start": 2317,
+      "end": 2320
+    },
+    {
+      "text": "OtheR",
+      "type": "ENTITY",
+      "start": 2321,
+      "end": 2326
+    },
+    {
+      "text": "SCORE",
+      "type": "ENTITY",
+      "start": 2327,
+      "end": 2332
+    },
+    {
+      "text": "Onot",
+      "type": "ENTITY",
+      "start": 2341,
+      "end": 2345
+    },
+    {
+      "text": "AVAILADLE",
+      "type": "ENTITY",
+      "start": 2347,
+      "end": 2356
+    },
+    {
+      "text": "Bdeirabbreylated keys",
+      "type": "ENTITY",
+      "start": 2376,
+      "end": 2397
+    },
+    {
+      "text": "ORDERLY",
+      "type": "ENTITY",
+      "start": 2399,
+      "end": 2406
+    },
+    {
+      "text": "GRANULOPOIESIS",
+      "type": "ENTITY",
+      "start": 2407,
+      "end": 2421
+    },
+    {
+      "text": "BRXTHROPOIESIS",
+      "type": "ENTITY",
+      "start": 2426,
+      "end": 2440
+    },
+    {
+      "text": "MEGAKARYOCYTIC",
+      "type": "ENTITY",
+      "start": 2452,
+      "end": 2466
+    },
+    {
+      "text": "HYPERPLASIA",
+      "type": "ENTITY",
+      "start": 2467,
+      "end": 2478
+    },
+    {
+      "text": "NEGATIVE",
+      "type": "ENTITY",
+      "start": 2480,
+      "end": 2488
+    },
+    {
+      "text": "LYMTHOMA",
+      "type": "ENTITY",
+      "start": 2493,
+      "end": 2501
+    },
+    {
+      "text": "CELLULARITY",
+      "type": "ENTITY",
+      "start": 2503,
+      "end": 2514
+    },
+    {
+      "text": "SSZ",
+      "type": "ENTITY",
+      "start": 2515,
+      "end": 2518
+    },
+    {
+      "text": "LYMPHOCYTES",
+      "type": "ENTITY",
+      "start": 2520,
+      "end": 2531
+    },
+    {
+      "text": "S.4X",
+      "type": "ENTITY",
+      "start": 2532,
+      "end": 2536
+    },
+    {
+      "text": "RIGHT",
+      "type": "ENTITY",
+      "start": 2538,
+      "end": 2543
+    },
+    {
+      "text": "LEFT ILIAC",
+      "type": "ENTITY",
+      "start": 2548,
+      "end": 2558
+    },
+    {
+      "text": "IMPRIHTS",
+      "type": "ENTITY",
+      "start": 2584,
+      "end": 2592
+    },
+    {
+      "text": "SMEARS IMMUNO",
+      "type": "ENTITY",
+      "start": 2597,
+      "end": 2610
+    },
+    {
+      "text": "SIgnED",
+      "type": "ENTITY",
+      "start": 2622,
+      "end": 2628
+    },
+    {
+      "text": "FEA",
+      "type": "ENTITY",
+      "start": 2630,
+      "end": 2633
+    },
+    {
+      "text": "SIGNED",
+      "type": "ENTITY",
+      "start": 2634,
+      "end": 2640
+    },
+    {
+      "text": "FILe",
+      "type": "ENTITY",
+      "start": 2652,
+      "end": 2656
+    }
+  ],
+  "entity_count": 159,
+  "has_embedding": true
+}

@@ -1,0 +1,704 @@
+{
+  "filename": "adb09650-986b-46ab-a843-d0d09180c07c",
+  "timestamp": "2026-01-05T14:44:21.879128",
+  "entities": [
+    {
+      "text": "TCGA-AC-A62Y-01A-PR",
+      "type": "ENTITY",
+      "start": 58,
+      "end": 77
+    },
+    {
+      "text": "Redacted",
+      "type": "ENTITY",
+      "start": 78,
+      "end": 86
+    },
+    {
+      "text": "Sex",
+      "type": "ENTITY",
+      "start": 87,
+      "end": 90
+    },
+    {
+      "text": "Female",
+      "type": "ENTITY",
+      "start": 91,
+      "end": 97
+    },
+    {
+      "text": "RN",
+      "type": "ENTITY",
+      "start": 106,
+      "end": 108
+    },
+    {
+      "text": "Phy",
+      "type": "ENTITY",
+      "start": 112,
+      "end": 115
+    },
+    {
+      "text": "Collected",
+      "type": "ENTITY",
+      "start": 116,
+      "end": 125
+    },
+    {
+      "text": "Accession",
+      "type": "ENTITY",
+      "start": 127,
+      "end": 136
+    },
+    {
+      "text": "Received",
+      "type": "ENTITY",
+      "start": 140,
+      "end": 148
+    },
+    {
+      "text": "Acct I",
+      "type": "ENTITY",
+      "start": 150,
+      "end": 156
+    },
+    {
+      "text": "Reg",
+      "type": "ENTITY",
+      "start": 157,
+      "end": 160
+    },
+    {
+      "text": "Reported",
+      "type": "ENTITY",
+      "start": 164,
+      "end": 172
+    },
+    {
+      "text": "SURGICALPATHOLOGYREPORT",
+      "type": "ENTITY",
+      "start": 173,
+      "end": 196
+    },
+    {
+      "text": "DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 197,
+      "end": 206
+    },
+    {
+      "text": "Right breast moafied radical mastectomy",
+      "type": "ENTITY",
+      "start": 216,
+      "end": 255
+    },
+    {
+      "text": "invasive",
+      "type": "ENTITY",
+      "start": 270,
+      "end": 278
+    },
+    {
+      "text": "lobular carcinoma",
+      "type": "ENTITY",
+      "start": 279,
+      "end": 296
+    },
+    {
+      "text": "Architectural score",
+      "type": "ENTITY",
+      "start": 319,
+      "end": 338
+    },
+    {
+      "text": "Nuclear score",
+      "type": "ENTITY",
+      "start": 368,
+      "end": 381
+    },
+    {
+      "text": "Mitotic score",
+      "type": "ENTITY",
+      "start": 391,
+      "end": 404
+    },
+    {
+      "text": "lobular carcinoma",
+      "type": "ENTITY",
+      "start": 453,
+      "end": 470
+    },
+    {
+      "text": "in situ",
+      "type": "ENTITY",
+      "start": 471,
+      "end": 478
+    },
+    {
+      "text": "angiolymphatic invasion",
+      "type": "ENTITY",
+      "start": 503,
+      "end": 526
+    },
+    {
+      "text": "evidence",
+      "type": "ENTITY",
+      "start": 531,
+      "end": 539
+    },
+    {
+      "text": "skin",
+      "type": "ENTITY",
+      "start": 543,
+      "end": 547
+    },
+    {
+      "text": "nipple invalvement",
+      "type": "ENTITY",
+      "start": 552,
+      "end": 570
+    },
+    {
+      "text": "Prognostic",
+      "type": "ENTITY",
+      "start": 573,
+      "end": 583
+    },
+    {
+      "text": "Deep margin",
+      "type": "ENTITY",
+      "start": 651,
+      "end": 662
+    },
+    {
+      "text": "excision",
+      "type": "ENTITY",
+      "start": 666,
+      "end": 674
+    },
+    {
+      "text": "carcinoma",
+      "type": "ENTITY",
+      "start": 690,
+      "end": 699
+    },
+    {
+      "text": "D",
+      "type": "ENTITY",
+      "start": 701,
+      "end": 702
+    },
+    {
+      "text": "Attached",
+      "type": "ENTITY",
+      "start": 711,
+      "end": 719
+    },
+    {
+      "text": "axillary",
+      "type": "ENTITY",
+      "start": 720,
+      "end": 728
+    },
+    {
+      "text": "Jymph",
+      "type": "ENTITY",
+      "start": 729,
+      "end": 734
+    },
+    {
+      "text": "lymph node",
+      "type": "ENTITY",
+      "start": 745,
+      "end": 755
+    },
+    {
+      "text": "meiastatic carcinoma",
+      "type": "ENTITY",
+      "start": 757,
+      "end": 777
+    },
+    {
+      "text": "Size",
+      "type": "ENTITY",
+      "start": 786,
+      "end": 790
+    },
+    {
+      "text": "extracapsular extension",
+      "type": "ENTITY",
+      "start": 813,
+      "end": 836
+    },
+    {
+      "text": "TMN",
+      "type": "ENTITY",
+      "start": 839,
+      "end": 842
+    },
+    {
+      "text": "Electronic Signature",
+      "type": "ENTITY",
+      "start": 850,
+      "end": 870
+    },
+    {
+      "text": "CUNICAL",
+      "type": "ENTITY",
+      "start": 872,
+      "end": 879
+    },
+    {
+      "text": "Preoperative",
+      "type": "ENTITY",
+      "start": 890,
+      "end": 902
+    },
+    {
+      "text": "Diagnosis",
+      "type": "ENTITY",
+      "start": 903,
+      "end": 912
+    },
+    {
+      "text": "Right moditied radical mastectomy",
+      "type": "ENTITY",
+      "start": 914,
+      "end": 947
+    },
+    {
+      "text": "sentinel node mapping",
+      "type": "ENTITY",
+      "start": 953,
+      "end": 974
+    },
+    {
+      "text": "frozen section",
+      "type": "ENTITY",
+      "start": 980,
+      "end": 994
+    },
+    {
+      "text": "Invasive lobular carcinoma",
+      "type": "ENTITY",
+      "start": 996,
+      "end": 1022
+    },
+    {
+      "text": "ER",
+      "type": "ENTITY",
+      "start": 1024,
+      "end": 1026
+    },
+    {
+      "text": "positive",
+      "type": "ENTITY",
+      "start": 1027,
+      "end": 1035
+    },
+    {
+      "text": "PR",
+      "type": "ENTITY",
+      "start": 1037,
+      "end": 1039
+    },
+    {
+      "text": "negative",
+      "type": "ENTITY",
+      "start": 1054,
+      "end": 1062
+    },
+    {
+      "text": "Postoperative Diagnosis",
+      "type": "ENTITY",
+      "start": 1063,
+      "end": 1086
+    },
+    {
+      "text": "Symplams/Radiologic Findings",
+      "type": "ENTITY",
+      "start": 1088,
+      "end": 1116
+    },
+    {
+      "text": "SPECIMENS",
+      "type": "ENTITY",
+      "start": 1118,
+      "end": 1127
+    },
+    {
+      "text": "Right breast SSPECIMENDATA",
+      "type": "ENTITY",
+      "start": 1129,
+      "end": 1155
+    },
+    {
+      "text": "GROSS DESCRIPTION",
+      "type": "ENTITY",
+      "start": 1156,
+      "end": 1173
+    },
+    {
+      "text": "specmen",
+      "type": "ENTITY",
+      "start": 1180,
+      "end": 1187
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 1203,
+      "end": 1211
+    },
+    {
+      "text": "patient's",
+      "type": "ENTITY",
+      "start": 1229,
+      "end": 1238
+    },
+    {
+      "text": "sht breast",
+      "type": "ENTITY",
+      "start": 1244,
+      "end": 1254
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1260,
+      "end": 1268
+    },
+    {
+      "text": "portion of fbroadipose",
+      "type": "ENTITY",
+      "start": 1283,
+      "end": 1305
+    },
+    {
+      "text": "tissua",
+      "type": "ENTITY",
+      "start": 1314,
+      "end": 1320
+    },
+    {
+      "text": "overlying skin",
+      "type": "ENTITY",
+      "start": 1325,
+      "end": 1339
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 1340,
+      "end": 1349
+    },
+    {
+      "text": "weighs 448 grams",
+      "type": "ENTITY",
+      "start": 1375,
+      "end": 1391
+    },
+    {
+      "text": "skin",
+      "type": "ENTITY",
+      "start": 1397,
+      "end": 1401
+    },
+    {
+      "text": "light tan wrinkled",
+      "type": "ENTITY",
+      "start": 1441,
+      "end": 1459
+    },
+    {
+      "text": "puckering",
+      "type": "ENTITY",
+      "start": 1477,
+      "end": 1486
+    },
+    {
+      "text": "skin surface",
+      "type": "ENTITY",
+      "start": 1494,
+      "end": 1506
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 1518,
+      "end": 1526
+    },
+    {
+      "text": "nipple",
+      "type": "ENTITY",
+      "start": 1558,
+      "end": 1564
+    },
+    {
+      "text": "nipple",
+      "type": "ENTITY",
+      "start": 1570,
+      "end": 1576
+    },
+    {
+      "text": "eccentrically",
+      "type": "ENTITY",
+      "start": 1580,
+      "end": 1593
+    },
+    {
+      "text": "orientation",
+      "type": "ENTITY",
+      "start": 1647,
+      "end": 1658
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1672,
+      "end": 1680
+    },
+    {
+      "text": "deep margin",
+      "type": "ENTITY",
+      "start": 1686,
+      "end": 1697
+    },
+    {
+      "text": "inked",
+      "type": "ENTITY",
+      "start": 1701,
+      "end": 1706
+    },
+    {
+      "text": "Sectioning",
+      "type": "ENTITY",
+      "start": 1708,
+      "end": 1718
+    },
+    {
+      "text": "gray-tan mass",
+      "type": "ENTITY",
+      "start": 1727,
+      "end": 1740
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 1741,
+      "end": 1750
+    },
+    {
+      "text": "deep margin",
+      "type": "ENTITY",
+      "start": 1794,
+      "end": 1805
+    },
+    {
+      "text": "periphery",
+      "type": "ENTITY",
+      "start": 1828,
+      "end": 1837
+    },
+    {
+      "text": "breast",
+      "type": "ENTITY",
+      "start": 1845,
+      "end": 1851
+    },
+    {
+      "text": "mass",
+      "type": "ENTITY",
+      "start": 1862,
+      "end": 1866
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 1867,
+      "end": 1876
+    },
+    {
+      "text": "deep margin",
+      "type": "ENTITY",
+      "start": 1921,
+      "end": 1932
+    },
+    {
+      "text": "skin surface",
+      "type": "ENTITY",
+      "start": 1950,
+      "end": 1962
+    },
+    {
+      "text": "puckered area",
+      "type": "ENTITY",
+      "start": 1983,
+      "end": 1996
+    },
+    {
+      "text": "skin surface",
+      "type": "ENTITY",
+      "start": 2031,
+      "end": 2043
+    },
+    {
+      "text": "tissue",
+      "type": "ENTITY",
+      "start": 2062,
+      "end": 2068
+    },
+    {
+      "text": "yellow-tan",
+      "type": "ENTITY",
+      "start": 2077,
+      "end": 2087
+    },
+    {
+      "text": "fatty fibroadipose tissue predominantiy",
+      "type": "ENTITY",
+      "start": 2088,
+      "end": 2127
+    },
+    {
+      "text": "gray fibrous tissue",
+      "type": "ENTITY",
+      "start": 2142,
+      "end": 2161
+    },
+    {
+      "text": "lesions",
+      "type": "ENTITY",
+      "start": 2172,
+      "end": 2179
+    },
+    {
+      "text": "identmea",
+      "type": "ENTITY",
+      "start": 2184,
+      "end": 2192
+    },
+    {
+      "text": "greenone yellow",
+      "type": "ENTITY",
+      "start": 2205,
+      "end": 2220
+    },
+    {
+      "text": "ciue",
+      "type": "ENTITY",
+      "start": 2226,
+      "end": 2230
+    },
+    {
+      "text": "epresentative",
+      "type": "ENTITY",
+      "start": 2239,
+      "end": 2252
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 2253,
+      "end": 2261
+    },
+    {
+      "text": "cassettes",
+      "type": "ENTITY",
+      "start": 2279,
+      "end": 2288
+    },
+    {
+      "text": "nipple",
+      "type": "ENTITY",
+      "start": 2306,
+      "end": 2312
+    },
+    {
+      "text": "block 1",
+      "type": "ENTITY",
+      "start": 2314,
+      "end": 2321
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 2323,
+      "end": 2331
+    },
+    {
+      "text": "leslon",
+      "type": "ENTITY",
+      "start": 2347,
+      "end": 2353
+    },
+    {
+      "text": "biocks",
+      "type": "ENTITY",
+      "start": 2357,
+      "end": 2363
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 2376,
+      "end": 2384
+    },
+    {
+      "text": "lesion",
+      "type": "ENTITY",
+      "start": 2401,
+      "end": 2407
+    },
+    {
+      "text": "blocks",
+      "type": "ENTITY",
+      "start": 2411,
+      "end": 2417
+    },
+    {
+      "text": "hlocks",
+      "type": "ENTITY",
+      "start": 2471,
+      "end": 2477
+    },
+    {
+      "text": "random",
+      "type": "ENTITY",
+      "start": 2493,
+      "end": 2499
+    },
+    {
+      "text": "ssctions",
+      "type": "ENTITY",
+      "start": 2500,
+      "end": 2508
+    },
+    {
+      "text": "quadrants",
+      "type": "ENTITY",
+      "start": 2523,
+      "end": 2532
+    },
+    {
+      "text": "blocks",
+      "type": "ENTITY",
+      "start": 2536,
+      "end": 2542
+    },
+    {
+      "text": "HIPAA",
+      "type": "ENTITY",
+      "start": 2558,
+      "end": 2563
+    },
+    {
+      "text": "Discre",
+      "type": "ENTITY",
+      "start": 2564,
+      "end": 2570
+    }
+  ],
+  "entity_count": 116,
+  "has_embedding": true
+}

@@ -1,0 +1,920 @@
+{
+  "filename": "42ccc9af-3109-49da-b3f9-2fc45422b03c",
+  "timestamp": "2026-01-05T14:42:09.244651",
+  "entities": [
+    {
+      "text": "TCGA-UZ-A9Q1-01A-PR",
+      "type": "ENTITY",
+      "start": 58,
+      "end": 77
+    },
+    {
+      "text": "Redacted",
+      "type": "ENTITY",
+      "start": 78,
+      "end": 86
+    },
+    {
+      "text": "PATHOLOGy",
+      "type": "ENTITY",
+      "start": 96,
+      "end": 105
+    },
+    {
+      "text": "Final",
+      "type": "ENTITY",
+      "start": 113,
+      "end": 118
+    },
+    {
+      "text": "Pathologic Diagnosis",
+      "type": "ENTITY",
+      "start": 119,
+      "end": 139
+    },
+    {
+      "text": "Subcutaneous mass",
+      "type": "ENTITY",
+      "start": 143,
+      "end": 160
+    },
+    {
+      "text": "excision",
+      "type": "ENTITY",
+      "start": 162,
+      "end": 170
+    },
+    {
+      "text": "Epidermat",
+      "type": "ENTITY",
+      "start": 172,
+      "end": 181
+    },
+    {
+      "text": "inclusion cyst",
+      "type": "ENTITY",
+      "start": 182,
+      "end": 196
+    },
+    {
+      "text": "B",
+      "type": "ENTITY",
+      "start": 199,
+      "end": 200
+    },
+    {
+      "text": "Kidney",
+      "type": "ENTITY",
+      "start": 202,
+      "end": 208
+    },
+    {
+      "text": "teft",
+      "type": "ENTITY",
+      "start": 210,
+      "end": 214
+    },
+    {
+      "text": "adrenal sparring nephrectomy",
+      "type": "ENTITY",
+      "start": 216,
+      "end": 244
+    },
+    {
+      "text": "Papillary renal cell carcinoma",
+      "type": "ENTITY",
+      "start": 249,
+      "end": 279
+    },
+    {
+      "text": "grade",
+      "type": "ENTITY",
+      "start": 289,
+      "end": 294
+    },
+    {
+      "text": "Kidney Tumor",
+      "type": "ENTITY",
+      "start": 351,
+      "end": 363
+    },
+    {
+      "text": "Synoptic Comment",
+      "type": "ENTITY",
+      "start": 364,
+      "end": 380
+    },
+    {
+      "text": "Histologic",
+      "type": "ENTITY",
+      "start": 383,
+      "end": 393
+    },
+    {
+      "text": "Renal cell carcinoma",
+      "type": "ENTITY",
+      "start": 400,
+      "end": 420
+    },
+    {
+      "text": "papillary (chromophil) type",
+      "type": "ENTITY",
+      "start": 422,
+      "end": 449
+    },
+    {
+      "text": "Grade",
+      "type": "ENTITY",
+      "start": 459,
+      "end": 464
+    },
+    {
+      "text": "Fuhrman grading",
+      "type": "ENTITY",
+      "start": 466,
+      "end": 481
+    },
+    {
+      "text": "RCC",
+      "type": "ENTITY",
+      "start": 486,
+      "end": 489
+    },
+    {
+      "text": "grade 2",
+      "type": "ENTITY",
+      "start": 491,
+      "end": 498
+    },
+    {
+      "text": "Tumor",
+      "type": "ENTITY",
+      "start": 502,
+      "end": 507
+    },
+    {
+      "text": "size",
+      "type": "ENTITY",
+      "start": 508,
+      "end": 512
+    },
+    {
+      "text": "Site",
+      "type": "ENTITY",
+      "start": 524,
+      "end": 528
+    },
+    {
+      "text": "kidney",
+      "type": "ENTITY",
+      "start": 536,
+      "end": 542
+    },
+    {
+      "text": "Upper pole",
+      "type": "ENTITY",
+      "start": 544,
+      "end": 554
+    },
+    {
+      "text": "Renal pelvis",
+      "type": "ENTITY",
+      "start": 569,
+      "end": 581
+    },
+    {
+      "text": "Normal",
+      "type": "ENTITY",
+      "start": 583,
+      "end": 589
+    },
+    {
+      "text": "Ureter",
+      "type": "ENTITY",
+      "start": 593,
+      "end": 599
+    },
+    {
+      "text": "Normal",
+      "type": "ENTITY",
+      "start": 601,
+      "end": 607
+    },
+    {
+      "text": "Renal sinus",
+      "type": "ENTITY",
+      "start": 611,
+      "end": 622
+    },
+    {
+      "text": "Normal",
+      "type": "ENTITY",
+      "start": 624,
+      "end": 630
+    },
+    {
+      "text": "Hilar renal veins",
+      "type": "ENTITY",
+      "start": 634,
+      "end": 651
+    },
+    {
+      "text": "Normal",
+      "type": "ENTITY",
+      "start": 653,
+      "end": 659
+    },
+    {
+      "text": "QSBI30|14",
+      "type": "ENTITY",
+      "start": 661,
+      "end": 670
+    },
+    {
+      "text": "Intrarenal veins",
+      "type": "ENTITY",
+      "start": 673,
+      "end": 689
+    },
+    {
+      "text": "lymphatics",
+      "type": "ENTITY",
+      "start": 694,
+      "end": 704
+    },
+    {
+      "text": "Normal",
+      "type": "ENTITY",
+      "start": 706,
+      "end": 712
+    },
+    {
+      "text": "Adrenal gland",
+      "type": "ENTITY",
+      "start": 716,
+      "end": 729
+    },
+    {
+      "text": "Capsule/perirenal fat",
+      "type": "ENTITY",
+      "start": 745,
+      "end": 766
+    },
+    {
+      "text": "Tumor",
+      "type": "ENTITY",
+      "start": 768,
+      "end": 773
+    },
+    {
+      "text": "penetrate",
+      "type": "ENTITY",
+      "start": 783,
+      "end": 792
+    },
+    {
+      "text": "capsule",
+      "type": "ENTITY",
+      "start": 793,
+      "end": 800
+    },
+    {
+      "text": "Lymph node",
+      "type": "ENTITY",
+      "start": 804,
+      "end": 814
+    },
+    {
+      "text": "status",
+      "type": "ENTITY",
+      "start": 815,
+      "end": 821
+    },
+    {
+      "text": "hilar fat",
+      "type": "ENTITY",
+      "start": 841,
+      "end": 850
+    },
+    {
+      "text": "lymph nodes",
+      "type": "ENTITY",
+      "start": 868,
+      "end": 879
+    },
+    {
+      "text": "Resection",
+      "type": "ENTITY",
+      "start": 903,
+      "end": 912
+    },
+    {
+      "text": "margins",
+      "type": "ENTITY",
+      "start": 913,
+      "end": 920
+    },
+    {
+      "text": "Negative",
+      "type": "ENTITY",
+      "start": 922,
+      "end": 930
+    },
+    {
+      "text": "Ureter",
+      "type": "ENTITY",
+      "start": 934,
+      "end": 940
+    },
+    {
+      "text": "Renal vein",
+      "type": "ENTITY",
+      "start": 950,
+      "end": 960
+    },
+    {
+      "text": "Soft tissue",
+      "type": "ENTITY",
+      "start": 971,
+      "end": 982
+    },
+    {
+      "text": "Negative",
+      "type": "ENTITY",
+      "start": 984,
+      "end": 992
+    },
+    {
+      "text": "Renal parenchyma",
+      "type": "ENTITY",
+      "start": 1018,
+      "end": 1034
+    },
+    {
+      "text": "Negative",
+      "type": "ENTITY",
+      "start": 1036,
+      "end": 1044
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1046,
+      "end": 1051
+    },
+    {
+      "text": "renal parenchymal margin",
+      "type": "ENTITY",
+      "start": 1071,
+      "end": 1095
+    },
+    {
+      "text": "Proximity",
+      "type": "ENTITY",
+      "start": 1113,
+      "end": 1122
+    },
+    {
+      "text": "margin",
+      "type": "ENTITY",
+      "start": 1134,
+      "end": 1140
+    },
+    {
+      "text": "A3CC",
+      "type": "ENTITY",
+      "start": 1153,
+      "end": 1157
+    },
+    {
+      "text": "Stage",
+      "type": "ENTITY",
+      "start": 1158,
+      "end": 1163
+    },
+    {
+      "text": "Specimen(s)",
+      "type": "ENTITY",
+      "start": 1174,
+      "end": 1185
+    },
+    {
+      "text": "Subcutaneous mass 8:Left kidney",
+      "type": "ENTITY",
+      "start": 1213,
+      "end": 1244
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 1246,
+      "end": 1251
+    },
+    {
+      "text": "Cllnical History",
+      "type": "ENTITY",
+      "start": 1253,
+      "end": 1269
+    },
+    {
+      "text": "patient",
+      "type": "ENTITY",
+      "start": 1274,
+      "end": 1281
+    },
+    {
+      "text": "female",
+      "type": "ENTITY",
+      "start": 1288,
+      "end": 1294
+    },
+    {
+      "text": "ieft kidney mass",
+      "type": "ENTITY",
+      "start": 1302,
+      "end": 1318
+    },
+    {
+      "text": "solid",
+      "type": "ENTITY",
+      "start": 1328,
+      "end": 1333
+    },
+    {
+      "text": "cystic",
+      "type": "ENTITY",
+      "start": 1338,
+      "end": 1344
+    },
+    {
+      "text": "left upper",
+      "type": "ENTITY",
+      "start": 1352,
+      "end": 1362
+    },
+    {
+      "text": "lesion",
+      "type": "ENTITY",
+      "start": 1375,
+      "end": 1381
+    },
+    {
+      "text": "lesion",
+      "type": "ENTITY",
+      "start": 1436,
+      "end": 1442
+    },
+    {
+      "text": "interpolar region",
+      "type": "ENTITY",
+      "start": 1450,
+      "end": 1467
+    },
+    {
+      "text": "patia.t",
+      "type": "ENTITY",
+      "start": 1473,
+      "end": 1480
+    },
+    {
+      "text": "lesion",
+      "type": "ENTITY",
+      "start": 1499,
+      "end": 1505
+    },
+    {
+      "text": "liver",
+      "type": "ENTITY",
+      "start": 1513,
+      "end": 1518
+    },
+    {
+      "text": "left laparoscopic nephrectomy",
+      "type": "ENTITY",
+      "start": 1540,
+      "end": 1569
+    },
+    {
+      "text": "Gross Description",
+      "type": "ENTITY",
+      "start": 1570,
+      "end": 1587
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1592,
+      "end": 1600
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 1613,
+      "end": 1618
+    },
+    {
+      "text": "parts",
+      "type": "ENTITY",
+      "start": 1626,
+      "end": 1631
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 1638,
+      "end": 1645
+    },
+    {
+      "text": "patient's",
+      "type": "ENTITY",
+      "start": 1655,
+      "end": 1664
+    },
+    {
+      "text": "medical record number",
+      "type": "ENTITY",
+      "start": 1674,
+      "end": 1695
+    },
+    {
+      "text": "additionally labeled",
+      "type": "ENTITY",
+      "start": 1705,
+      "end": 1725
+    },
+    {
+      "text": "subcutaneous mass",
+      "type": "ENTITY",
+      "start": 1727,
+      "end": 1744
+    },
+    {
+      "text": "fragments",
+      "type": "ENTITY",
+      "start": 1765,
+      "end": 1774
+    },
+    {
+      "text": "white",
+      "type": "ENTITY",
+      "start": 1778,
+      "end": 1783
+    },
+    {
+      "text": "yellow soft tissue",
+      "type": "ENTITY",
+      "start": 1788,
+      "end": 1806
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 1807,
+      "end": 1816
+    },
+    {
+      "text": "aggregate",
+      "type": "ENTITY",
+      "start": 1839,
+      "end": 1848
+    },
+    {
+      "text": "fragments",
+      "type": "ENTITY",
+      "start": 1856,
+      "end": 1865
+    },
+    {
+      "text": "cassette A1",
+      "type": "ENTITY",
+      "start": 1892,
+      "end": 1903
+    },
+    {
+      "text": "additionally labeled",
+      "type": "ENTITY",
+      "start": 1913,
+      "end": 1933
+    },
+    {
+      "text": "left kidney",
+      "type": "ENTITY",
+      "start": 1935,
+      "end": 1946
+    },
+    {
+      "text": "gram",
+      "type": "ENTITY",
+      "start": 1967,
+      "end": 1971
+    },
+    {
+      "text": "kidney",
+      "type": "ENTITY",
+      "start": 1987,
+      "end": 1993
+    },
+    {
+      "text": "small",
+      "type": "ENTITY",
+      "start": 2001,
+      "end": 2006
+    },
+    {
+      "text": "perinephric fat",
+      "type": "ENTITY",
+      "start": 2018,
+      "end": 2033
+    },
+    {
+      "text": "yellow soft mass",
+      "type": "ENTITY",
+      "start": 2074,
+      "end": 2090
+    },
+    {
+      "text": "solid",
+      "type": "ENTITY",
+      "start": 2096,
+      "end": 2101
+    },
+    {
+      "text": "liquefied",
+      "type": "ENTITY",
+      "start": 2106,
+      "end": 2115
+    },
+    {
+      "text": "pelvis",
+      "type": "ENTITY",
+      "start": 2143,
+      "end": 2149
+    },
+    {
+      "text": "abutting",
+      "type": "ENTITY",
+      "start": 2154,
+      "end": 2162
+    },
+    {
+      "text": "renal capsule",
+      "type": "ENTITY",
+      "start": 2167,
+      "end": 2180
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 2198,
+      "end": 2203
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 2209,
+      "end": 2214
+    },
+    {
+      "text": "invasion",
+      "type": "ENTITY",
+      "start": 2233,
+      "end": 2241
+    },
+    {
+      "text": "renal capsule",
+      "type": "ENTITY",
+      "start": 2251,
+      "end": 2264
+    },
+    {
+      "text": "grossly",
+      "type": "ENTITY",
+      "start": 2265,
+      "end": 2272
+    },
+    {
+      "text": "lesion",
+      "type": "ENTITY",
+      "start": 2296,
+      "end": 2302
+    },
+    {
+      "text": "identified",
+      "type": "ENTITY",
+      "start": 2306,
+      "end": 2316
+    },
+    {
+      "text": "interpolar region",
+      "type": "ENTITY",
+      "start": 2324,
+      "end": 2341
+    },
+    {
+      "text": "kidney",
+      "type": "ENTITY",
+      "start": 2349,
+      "end": 2355
+    },
+    {
+      "text": "cortex",
+      "type": "ENTITY",
+      "start": 2392,
+      "end": 2398
+    },
+    {
+      "text": "invade",
+      "type": "ENTITY",
+      "start": 2422,
+      "end": 2428
+    },
+    {
+      "text": "lesion",
+      "type": "ENTITY",
+      "start": 2435,
+      "end": 2441
+    },
+    {
+      "text": "cyst-like space",
+      "type": "ENTITY",
+      "start": 2459,
+      "end": 2474
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 2475,
+      "end": 2484
+    },
+    {
+      "text": "Cassettes",
+      "type": "ENTITY",
+      "start": 2493,
+      "end": 2502
+    },
+    {
+      "text": "Cassette B1",
+      "type": "ENTITY",
+      "start": 2529,
+      "end": 2540
+    },
+    {
+      "text": "Pelvic margin vessels",
+      "type": "ENTITY",
+      "start": 2542,
+      "end": 2563
+    },
+    {
+      "text": "ureter",
+      "type": "ENTITY",
+      "start": 2568,
+      "end": 2574
+    },
+    {
+      "text": "Cassette",
+      "type": "ENTITY",
+      "start": 2576,
+      "end": 2584
+    },
+    {
+      "text": "Pelvis",
+      "type": "ENTITY",
+      "start": 2589,
+      "end": 2595
+    },
+    {
+      "text": "yellow mass",
+      "type": "ENTITY",
+      "start": 2608,
+      "end": 2619
+    },
+    {
+      "text": "Cystic lesion",
+      "type": "ENTITY",
+      "start": 2634,
+      "end": 2647
+    },
+    {
+      "text": "pelvis",
+      "type": "ENTITY",
+      "start": 2651,
+      "end": 2657
+    },
+    {
+      "text": "Cassette B4",
+      "type": "ENTITY",
+      "start": 2660,
+      "end": 2671
+    },
+    {
+      "text": "Normal pelvis",
+      "type": "ENTITY",
+      "start": 2673,
+      "end": 2686
+    },
+    {
+      "text": "Cassette B5",
+      "type": "ENTITY",
+      "start": 2688,
+      "end": 2699
+    },
+    {
+      "text": "vessels",
+      "type": "ENTITY",
+      "start": 2717,
+      "end": 2724
+    },
+    {
+      "text": "Cassettes B6-88",
+      "type": "ENTITY",
+      "start": 2726,
+      "end": 2741
+    },
+    {
+      "text": "Tumor",
+      "type": "ENTITY",
+      "start": 2743,
+      "end": 2748
+    },
+    {
+      "text": "capsule",
+      "type": "ENTITY",
+      "start": 2754,
+      "end": 2761
+    },
+    {
+      "text": "Cassettes B9-810",
+      "type": "ENTITY",
+      "start": 2763,
+      "end": 2779
+    },
+    {
+      "text": "Extrarenal soft tissue",
+      "type": "ENTITY",
+      "start": 2781,
+      "end": 2803
+    },
+    {
+      "text": "Diagnosis",
+      "type": "ENTITY",
+      "start": 2806,
+      "end": 2815
+    },
+    {
+      "text": "gross",
+      "type": "ENTITY",
+      "start": 2825,
+      "end": 2830
+    },
+    {
+      "text": "microscopic examinations",
+      "type": "ENTITY",
+      "start": 2835,
+      "end": 2859
+    },
+    {
+      "text": "Final",
+      "type": "ENTITY",
+      "start": 2861,
+      "end": 2866
+    },
+    {
+      "text": "diagnosis",
+      "type": "ENTITY",
+      "start": 2867,
+      "end": 2876
+    },
+    {
+      "text": "attending",
+      "type": "ENTITY",
+      "start": 2885,
+      "end": 2894
+    },
+    {
+      "text": "pathologist",
+      "type": "ENTITY",
+      "start": 2895,
+      "end": 2906
+    },
+    {
+      "text": "review",
+      "type": "ENTITY",
+      "start": 2918,
+      "end": 2924
+    },
+    {
+      "text": "pathology slides",
+      "type": "ENTITY",
+      "start": 2932,
+      "end": 2948
+    },
+    {
+      "text": "Electronically signed out",
+      "type": "ENTITY",
+      "start": 2951,
+      "end": 2976
+    }
+  ],
+  "entity_count": 152,
+  "has_embedding": true
+}

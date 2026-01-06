@@ -1,0 +1,626 @@
+{
+  "filename": "c96b66bf-2c51-4e44-b1df-8792625a53f2",
+  "timestamp": "2026-01-05T14:41:52.512895",
+  "entities": [
+    {
+      "text": "2 Department of Cancer Pathology Copy No. Date",
+      "type": "ENTITY",
+      "start": 56,
+      "end": 102
+    },
+    {
+      "text": "Examinatlon",
+      "type": "ENTITY",
+      "start": 104,
+      "end": 115
+    },
+    {
+      "text": "Histopathological examination",
+      "type": "ENTITY",
+      "start": 117,
+      "end": 146
+    },
+    {
+      "text": "Examinatlon",
+      "type": "ENTITY",
+      "start": 148,
+      "end": 159
+    },
+    {
+      "text": "Patient",
+      "type": "ENTITY",
+      "start": 165,
+      "end": 172
+    },
+    {
+      "text": "PESEL",
+      "type": "ENTITY",
+      "start": 174,
+      "end": 179
+    },
+    {
+      "text": "Age",
+      "type": "ENTITY",
+      "start": 181,
+      "end": 184
+    },
+    {
+      "text": "Gender",
+      "type": "ENTITY",
+      "start": 186,
+      "end": 192
+    },
+    {
+      "text": "Multiple organ resection",
+      "type": "ENTITY",
+      "start": 206,
+      "end": 230
+    },
+    {
+      "text": "breast Unit",
+      "type": "ENTITY",
+      "start": 238,
+      "end": 249
+    },
+    {
+      "text": "charge",
+      "type": "ENTITY",
+      "start": 275,
+      "end": 281
+    },
+    {
+      "text": "Material",
+      "type": "ENTITY",
+      "start": 283,
+      "end": 291
+    },
+    {
+      "text": "collected",
+      "type": "ENTITY",
+      "start": 292,
+      "end": 301
+    },
+    {
+      "text": "Material",
+      "type": "ENTITY",
+      "start": 306,
+      "end": 314
+    },
+    {
+      "text": "Expected time",
+      "type": "ENTITY",
+      "start": 328,
+      "end": 341
+    },
+    {
+      "text": "examination",
+      "type": "ENTITY",
+      "start": 345,
+      "end": 356
+    },
+    {
+      "text": "working days",
+      "type": "ENTITY",
+      "start": 366,
+      "end": 378
+    },
+    {
+      "text": "Clinical diagnosis",
+      "type": "ENTITY",
+      "start": 379,
+      "end": 397
+    },
+    {
+      "text": "Examination",
+      "type": "ENTITY",
+      "start": 399,
+      "end": 410
+    },
+    {
+      "text": "performed",
+      "type": "ENTITY",
+      "start": 411,
+      "end": 420
+    },
+    {
+      "text": "Results",
+      "type": "ENTITY",
+      "start": 425,
+      "end": 432
+    },
+    {
+      "text": "immunohistochemical examination",
+      "type": "ENTITY",
+      "start": 436,
+      "end": 467
+    },
+    {
+      "text": "Estrogen receptors",
+      "type": "ENTITY",
+      "start": 469,
+      "end": 487
+    },
+    {
+      "text": "neoplastic cell",
+      "type": "ENTITY",
+      "start": 504,
+      "end": 519
+    },
+    {
+      "text": "Progesterone receptors",
+      "type": "ENTITY",
+      "start": 528,
+      "end": 550
+    },
+    {
+      "text": "neoplastic cell",
+      "type": "ENTITY",
+      "start": 567,
+      "end": 582
+    },
+    {
+      "text": "HER2 protein",
+      "type": "ENTITY",
+      "start": 591,
+      "end": 603
+    },
+    {
+      "text": "HercepTest",
+      "type": "ENTITY",
+      "start": 617,
+      "end": 627
+    },
+    {
+      "text": "DAKO",
+      "type": "ENTITY",
+      "start": 632,
+      "end": 636
+    },
+    {
+      "text": "Score",
+      "type": "ENTITY",
+      "start": 638,
+      "end": 643
+    },
+    {
+      "text": "verification",
+      "type": "ENTITY",
+      "start": 650,
+      "end": 662
+    },
+    {
+      "text": "FisH",
+      "type": "ENTITY",
+      "start": 670,
+      "end": 674
+    },
+    {
+      "text": "method",
+      "type": "ENTITY",
+      "start": 675,
+      "end": 681
+    },
+    {
+      "text": "recommended",
+      "type": "ENTITY",
+      "start": 682,
+      "end": 693
+    },
+    {
+      "text": "Compliance",
+      "type": "ENTITY",
+      "start": 696,
+      "end": 706
+    },
+    {
+      "text": "Examination",
+      "type": "ENTITY",
+      "start": 721,
+      "end": 732
+    },
+    {
+      "text": "Macroscopic",
+      "type": "ENTITY",
+      "start": 747,
+      "end": 758
+    },
+    {
+      "text": "description",
+      "type": "ENTITY",
+      "start": 759,
+      "end": 770
+    },
+    {
+      "text": "Left breast",
+      "type": "ENTITY",
+      "start": 772,
+      "end": 783
+    },
+    {
+      "text": "sized",
+      "type": "ENTITY",
+      "start": 784,
+      "end": 789
+    },
+    {
+      "text": "axillary tissues",
+      "type": "ENTITY",
+      "start": 824,
+      "end": 840
+    },
+    {
+      "text": "sized",
+      "type": "ENTITY",
+      "start": 841,
+      "end": 846
+    },
+    {
+      "text": "Skin flap",
+      "type": "ENTITY",
+      "start": 875,
+      "end": 884
+    },
+    {
+      "text": "size",
+      "type": "ENTITY",
+      "start": 902,
+      "end": 906
+    },
+    {
+      "text": "Tumour",
+      "type": "ENTITY",
+      "start": 908,
+      "end": 914
+    },
+    {
+      "text": "sized",
+      "type": "ENTITY",
+      "start": 915,
+      "end": 920
+    },
+    {
+      "text": "central part",
+      "type": "ENTITY",
+      "start": 953,
+      "end": 965
+    },
+    {
+      "text": "upper edge",
+      "type": "ENTITY",
+      "start": 990,
+      "end": 1000
+    },
+    {
+      "text": "base",
+      "type": "ENTITY",
+      "start": 1018,
+      "end": 1022
+    },
+    {
+      "text": "skin",
+      "type": "ENTITY",
+      "start": 1043,
+      "end": 1047
+    },
+    {
+      "text": "Status",
+      "type": "ENTITY",
+      "start": 1049,
+      "end": 1055
+    },
+    {
+      "text": "blopsy",
+      "type": "ENTITY",
+      "start": 1062,
+      "end": 1068
+    },
+    {
+      "text": "test",
+      "type": "ENTITY",
+      "start": 1070,
+      "end": 1074
+    },
+    {
+      "text": "description",
+      "type": "ENTITY",
+      "start": 1091,
+      "end": 1102
+    },
+    {
+      "text": "Carcinoma lobulare invasivum",
+      "type": "ENTITY",
+      "start": 1104,
+      "end": 1132
+    },
+    {
+      "text": "G2",
+      "type": "ENTITY",
+      "start": 1134,
+      "end": 1136
+    },
+    {
+      "text": "mitoses",
+      "type": "ENTITY",
+      "start": 1162,
+      "end": 1169
+    },
+    {
+      "text": "Inflltratio carcinomatosa cutis",
+      "type": "ENTITY",
+      "start": 1193,
+      "end": 1224
+    },
+    {
+      "text": "mammillae",
+      "type": "ENTITY",
+      "start": 1228,
+      "end": 1237
+    },
+    {
+      "text": "Glandular tissue",
+      "type": "ENTITY",
+      "start": 1239,
+      "end": 1255
+    },
+    {
+      "text": "parenchyma atrophy",
+      "type": "ENTITY",
+      "start": 1264,
+      "end": 1282
+    },
+    {
+      "text": "lesions",
+      "type": "ENTITY",
+      "start": 1295,
+      "end": 1302
+    },
+    {
+      "text": "base",
+      "type": "ENTITY",
+      "start": 1330,
+      "end": 1334
+    },
+    {
+      "text": "surgical specimen",
+      "type": "ENTITY",
+      "start": 1342,
+      "end": 1359
+    },
+    {
+      "text": "Axillary lymph nodes",
+      "type": "ENTITY",
+      "start": 1361,
+      "end": 1381
+    },
+    {
+      "text": "Metastases carcinomatosae",
+      "type": "ENTITY",
+      "start": 1383,
+      "end": 1408
+    },
+    {
+      "text": "lymphonodo",
+      "type": "ENTITY",
+      "start": 1412,
+      "end": 1422
+    },
+    {
+      "text": "No xI",
+      "type": "ENTITY",
+      "start": 1424,
+      "end": 1429
+    },
+    {
+      "text": "XIII",
+      "type": "ENTITY",
+      "start": 1432,
+      "end": 1436
+    },
+    {
+      "text": "Histopathological",
+      "type": "ENTITY",
+      "start": 1439,
+      "end": 1456
+    },
+    {
+      "text": "diagnosis",
+      "type": "ENTITY",
+      "start": 1457,
+      "end": 1466
+    },
+    {
+      "text": "test",
+      "type": "ENTITY",
+      "start": 1479,
+      "end": 1483
+    },
+    {
+      "text": "No. Ca rei nom alobulare",
+      "type": "ENTITY",
+      "start": 1484,
+      "end": 1508
+    },
+    {
+      "text": "invasivum mammae sinistrae",
+      "type": "ENTITY",
+      "start": 1509,
+      "end": 1535
+    },
+    {
+      "text": "Invasive lobular carcinoma",
+      "type": "ENTITY",
+      "start": 1537,
+      "end": 1563
+    },
+    {
+      "text": "left breast",
+      "type": "ENTITY",
+      "start": 1571,
+      "end": 1582
+    },
+    {
+      "text": "Metastases carcinomatosae",
+      "type": "ENTITY",
+      "start": 1584,
+      "end": 1609
+    },
+    {
+      "text": "lymphonodis axillae",
+      "type": "ENTITY",
+      "start": 1613,
+      "end": 1632
+    },
+    {
+      "text": "x1",
+      "type": "ENTITY",
+      "start": 1634,
+      "end": 1636
+    },
+    {
+      "text": "xilt",
+      "type": "ENTITY",
+      "start": 1639,
+      "end": 1643
+    },
+    {
+      "text": "Cancer metastases",
+      "type": "ENTITY",
+      "start": 1645,
+      "end": 1662
+    },
+    {
+      "text": "axillary lymph nodes",
+      "type": "ENTITY",
+      "start": 1666,
+      "end": 1686
+    },
+    {
+      "text": "x1/xII",
+      "type": "ENTITY",
+      "start": 1688,
+      "end": 1694
+    },
+    {
+      "text": "NHG2",
+      "type": "ENTITY",
+      "start": 1697,
+      "end": 1701
+    },
+    {
+      "text": "pT3",
+      "type": "ENTITY",
+      "start": 1703,
+      "end": 1706
+    },
+    {
+      "text": "Compliance",
+      "type": "ENTITY",
+      "start": 1715,
+      "end": 1725
+    },
+    {
+      "text": "UUID:021DF083-A535-4AD4-9545-189A7BC3E1E6",
+      "type": "ENTITY",
+      "start": 1740,
+      "end": 1781
+    },
+    {
+      "text": "Redacted\n\n--- Page 2 ---\nExamination",
+      "type": "ENTITY",
+      "start": 1802,
+      "end": 1838
+    },
+    {
+      "text": "Examination",
+      "type": "ENTITY",
+      "start": 1853,
+      "end": 1864
+    },
+    {
+      "text": "Histopathological",
+      "type": "ENTITY",
+      "start": 1866,
+      "end": 1883
+    },
+    {
+      "text": "2 Examination No.",
+      "type": "ENTITY",
+      "start": 1905,
+      "end": 1922
+    },
+    {
+      "text": "Patient",
+      "type": "ENTITY",
+      "start": 1924,
+      "end": 1931
+    },
+    {
+      "text": "PESEL",
+      "type": "ENTITY",
+      "start": 1933,
+      "end": 1938
+    },
+    {
+      "text": "Gender",
+      "type": "ENTITY",
+      "start": 1940,
+      "end": 1946
+    },
+    {
+      "text": "Examination",
+      "type": "ENTITY",
+      "start": 1950,
+      "end": 1961
+    },
+    {
+      "text": "Results",
+      "type": "ENTITY",
+      "start": 1976,
+      "end": 1983
+    },
+    {
+      "text": "immunohistochemical examination",
+      "type": "ENTITY",
+      "start": 1987,
+      "end": 2018
+    },
+    {
+      "text": "HER2/neu GENE AMPLIFICATION",
+      "type": "ENTITY",
+      "start": 2030,
+      "end": 2057
+    },
+    {
+      "text": "FISH method",
+      "type": "ENTITY",
+      "start": 2067,
+      "end": 2078
+    },
+    {
+      "text": "Path Vysion",
+      "type": "ENTITY",
+      "start": 2082,
+      "end": 2093
+    },
+    {
+      "text": "HER2 DNA Probe",
+      "type": "ENTITY",
+      "start": 2094,
+      "end": 2108
+    },
+    {
+      "text": "HER-2 GENE AMPLIFICATION",
+      "type": "ENTITY",
+      "start": 2127,
+      "end": 2151
+    },
+    {
+      "text": "Compliance",
+      "type": "ENTITY",
+      "start": 2162,
+      "end": 2172
+    }
+  ],
+  "entity_count": 103,
+  "has_embedding": true
+}

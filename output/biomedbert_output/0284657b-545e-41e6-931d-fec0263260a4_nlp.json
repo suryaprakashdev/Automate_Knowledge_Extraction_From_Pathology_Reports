@@ -1,0 +1,680 @@
+{
+  "filename": "0284657b-545e-41e6-931d-fec0263260a4",
+  "timestamp": "2026-01-05T14:41:03.895967",
+  "entities": [
+    {
+      "text": "Accession",
+      "type": "ENTITY",
+      "start": 16,
+      "end": 25
+    },
+    {
+      "text": "Receipt",
+      "type": "ENTITY",
+      "start": 56,
+      "end": 63
+    },
+    {
+      "text": "Billing Type",
+      "type": "ENTITY",
+      "start": 92,
+      "end": 104
+    },
+    {
+      "text": "Additlonal",
+      "type": "ENTITY",
+      "start": 106,
+      "end": 116
+    },
+    {
+      "text": "Copy to",
+      "type": "ENTITY",
+      "start": 117,
+      "end": 124
+    },
+    {
+      "text": "Clinical Diagnosis & History",
+      "type": "ENTITY",
+      "start": 139,
+      "end": 167
+    },
+    {
+      "text": "Specimens",
+      "type": "ENTITY",
+      "start": 202,
+      "end": 211
+    },
+    {
+      "text": "KIDNEY",
+      "type": "ENTITY",
+      "start": 227,
+      "end": 233
+    },
+    {
+      "text": "LEFT",
+      "type": "ENTITY",
+      "start": 235,
+      "end": 239
+    },
+    {
+      "text": "POLE",
+      "type": "ENTITY",
+      "start": 246,
+      "end": 250
+    },
+    {
+      "text": "DEEP MARGIN",
+      "type": "ENTITY",
+      "start": 276,
+      "end": 287
+    },
+    {
+      "text": "BIOPSY DIAGNOSIS",
+      "type": "ENTITY",
+      "start": 321,
+      "end": 337
+    },
+    {
+      "text": "Kidney",
+      "type": "ENTITY",
+      "start": 342,
+      "end": 348
+    },
+    {
+      "text": "Left upper pole",
+      "type": "ENTITY",
+      "start": 350,
+      "end": 365
+    },
+    {
+      "text": "partial nephrectomy",
+      "type": "ENTITY",
+      "start": 367,
+      "end": 386
+    },
+    {
+      "text": "Tumor Type",
+      "type": "ENTITY",
+      "start": 387,
+      "end": 397
+    },
+    {
+      "text": "Renal cell carcinoma",
+      "type": "ENTITY",
+      "start": 399,
+      "end": 419
+    },
+    {
+      "text": "Conventional",
+      "type": "ENTITY",
+      "start": 422,
+      "end": 434
+    },
+    {
+      "text": "Fuhrman Nuclear Grade",
+      "type": "ENTITY",
+      "start": 453,
+      "end": 474
+    },
+    {
+      "text": "Nuclear grade III/IV",
+      "type": "ENTITY",
+      "start": 476,
+      "end": 496
+    },
+    {
+      "text": "Tumor Size",
+      "type": "ENTITY",
+      "start": 497,
+      "end": 507
+    },
+    {
+      "text": "diameter",
+      "type": "ENTITY",
+      "start": 518,
+      "end": 526
+    },
+    {
+      "text": "Local Invasion",
+      "type": "ENTITY",
+      "start": 538,
+      "end": 552
+    },
+    {
+      "text": "renal cortical types",
+      "type": "ENTITY",
+      "start": 558,
+      "end": 578
+    },
+    {
+      "text": "Renat",
+      "type": "ENTITY",
+      "start": 597,
+      "end": 602
+    },
+    {
+      "text": "Invasion",
+      "type": "ENTITY",
+      "start": 608,
+      "end": 616
+    },
+    {
+      "text": "evaluation",
+      "type": "ENTITY",
+      "start": 634,
+      "end": 644
+    },
+    {
+      "text": "Surgical Margins",
+      "type": "ENTITY",
+      "start": 647,
+      "end": 663
+    },
+    {
+      "text": "Free of",
+      "type": "ENTITY",
+      "start": 665,
+      "end": 672
+    },
+    {
+      "text": "Multlple papillary adenomas",
+      "type": "ENTITY",
+      "start": 702,
+      "end": 729
+    },
+    {
+      "text": "Adrenal",
+      "type": "ENTITY",
+      "start": 744,
+      "end": 751
+    },
+    {
+      "text": "Gland",
+      "type": "ENTITY",
+      "start": 752,
+      "end": 757
+    },
+    {
+      "text": "Lymph Nodes",
+      "type": "ENTITY",
+      "start": 775,
+      "end": 786
+    },
+    {
+      "text": "renal cell",
+      "type": "ENTITY",
+      "start": 815,
+      "end": 825
+    },
+    {
+      "text": "pT1 Tumor",
+      "type": "ENTITY",
+      "start": 849,
+      "end": 858
+    },
+    {
+      "text": "dimension",
+      "type": "ENTITY",
+      "start": 882,
+      "end": 891
+    },
+    {
+      "text": "kidney",
+      "type": "ENTITY",
+      "start": 907,
+      "end": 913
+    },
+    {
+      "text": "DEEP MARGIN",
+      "type": "ENTITY",
+      "start": 919,
+      "end": 930
+    },
+    {
+      "text": "BIOPSY",
+      "type": "ENTITY",
+      "start": 964,
+      "end": 970
+    },
+    {
+      "text": "Benign",
+      "type": "ENTITY",
+      "start": 973,
+      "end": 979
+    },
+    {
+      "text": "urothelial mucosa",
+      "type": "ENTITY",
+      "start": 980,
+      "end": 997
+    },
+    {
+      "text": "chronic inflammation",
+      "type": "ENTITY",
+      "start": 1003,
+      "end": 1023
+    },
+    {
+      "text": "Benign",
+      "type": "ENTITY",
+      "start": 1028,
+      "end": 1034
+    },
+    {
+      "text": "reviewed",
+      "type": "ENTITY",
+      "start": 1092,
+      "end": 1100
+    },
+    {
+      "text": "slides",
+      "type": "ENTITY",
+      "start": 1108,
+      "end": 1114
+    },
+    {
+      "text": "case",
+      "type": "ENTITY",
+      "start": 1133,
+      "end": 1137
+    },
+    {
+      "text": "diagnoses",
+      "type": "ENTITY",
+      "start": 1159,
+      "end": 1168
+    },
+    {
+      "text": "TATTEST",
+      "type": "ENTITY",
+      "start": 1171,
+      "end": 1178
+    },
+    {
+      "text": "THAT I",
+      "type": "ENTITY",
+      "start": 1285,
+      "end": 1291
+    },
+    {
+      "text": "ANO",
+      "type": "ENTITY",
+      "start": 1306,
+      "end": 1309
+    },
+    {
+      "text": "Gross Description",
+      "type": "ENTITY",
+      "start": 1332,
+      "end": 1349
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1358,
+      "end": 1366
+    },
+    {
+      "text": "fresh",
+      "type": "ENTITY",
+      "start": 1379,
+      "end": 1384
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 1392,
+      "end": 1399
+    },
+    {
+      "text": "Left upper pole parlial nephrectomy",
+      "type": "ENTITY",
+      "start": 1401,
+      "end": 1436
+    },
+    {
+      "text": "wedge shaped porlion",
+      "type": "ENTITY",
+      "start": 1492,
+      "end": 1512
+    },
+    {
+      "text": "kidney",
+      "type": "ENTITY",
+      "start": 1516,
+      "end": 1522
+    },
+    {
+      "text": "overlying perinephric fat",
+      "type": "ENTITY",
+      "start": 1528,
+      "end": 1553
+    },
+    {
+      "text": "kidney",
+      "type": "ENTITY",
+      "start": 1559,
+      "end": 1565
+    },
+    {
+      "text": "measures",
+      "type": "ENTITY",
+      "start": 1566,
+      "end": 1574
+    },
+    {
+      "text": "suture",
+      "type": "ENTITY",
+      "start": 1606,
+      "end": 1612
+    },
+    {
+      "text": "marking",
+      "type": "ENTITY",
+      "start": 1613,
+      "end": 1620
+    },
+    {
+      "text": "deep margin",
+      "type": "ENTITY",
+      "start": 1625,
+      "end": 1636
+    },
+    {
+      "text": "margin",
+      "type": "ENTITY",
+      "start": 1642,
+      "end": 1648
+    },
+    {
+      "text": "inked black",
+      "type": "ENTITY",
+      "start": 1652,
+      "end": 1663
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1672,
+      "end": 1680
+    },
+    {
+      "text": "well-circumscribed yellow tumor",
+      "type": "ENTITY",
+      "start": 1715,
+      "end": 1746
+    },
+    {
+      "text": "ereos",
+      "type": "ENTITY",
+      "start": 1752,
+      "end": 1757
+    },
+    {
+      "text": "hemorrhage",
+      "type": "ENTITY",
+      "start": 1761,
+      "end": 1771
+    },
+    {
+      "text": "focal areas",
+      "type": "ENTITY",
+      "start": 1776,
+      "end": 1787
+    },
+    {
+      "text": "cystification",
+      "type": "ENTITY",
+      "start": 1791,
+      "end": 1804
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 1806,
+      "end": 1815
+    },
+    {
+      "text": "dimension",
+      "type": "ENTITY",
+      "start": 1835,
+      "end": 1844
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 1850,
+      "end": 1855
+    },
+    {
+      "text": "renal capsule",
+      "type": "ENTITY",
+      "start": 1876,
+      "end": 1889
+    },
+    {
+      "text": "clearance",
+      "type": "ENTITY",
+      "start": 1895,
+      "end": 1904
+    },
+    {
+      "text": "resection margin",
+      "type": "ENTITY",
+      "start": 1914,
+      "end": 1930
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 1963,
+      "end": 1971
+    },
+    {
+      "text": "renal parenchyma",
+      "type": "ENTITY",
+      "start": 1984,
+      "end": 2000
+    },
+    {
+      "text": "white",
+      "type": "ENTITY",
+      "start": 2008,
+      "end": 2013
+    },
+    {
+      "text": "subcapsular",
+      "type": "ENTITY",
+      "start": 2034,
+      "end": 2045
+    },
+    {
+      "text": "lesion",
+      "type": "ENTITY",
+      "start": 2046,
+      "end": 2052
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 2088,
+      "end": 2093
+    },
+    {
+      "text": "Portions",
+      "type": "ENTITY",
+      "start": 2124,
+      "end": 2132
+    },
+    {
+      "text": "tumor",
+      "type": "ENTITY",
+      "start": 2140,
+      "end": 2145
+    },
+    {
+      "text": "TPS",
+      "type": "ENTITY",
+      "start": 2164,
+      "end": 2167
+    },
+    {
+      "text": "Summary",
+      "type": "ENTITY",
+      "start": 2170,
+      "end": 2177
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 2181,
+      "end": 2189
+    },
+    {
+      "text": "T",
+      "type": "ENTITY",
+      "start": 2192,
+      "end": 2193
+    },
+    {
+      "text": "tumor M",
+      "type": "ENTITY",
+      "start": 2196,
+      "end": 2203
+    },
+    {
+      "text": "margin",
+      "type": "ENTITY",
+      "start": 2206,
+      "end": 2212
+    },
+    {
+      "text": "RS",
+      "type": "ENTITY",
+      "start": 2214,
+      "end": 2216
+    },
+    {
+      "text": "representative",
+      "type": "ENTITY",
+      "start": 2219,
+      "end": 2233
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 2234,
+      "end": 2242
+    },
+    {
+      "text": "specimen",
+      "type": "ENTITY",
+      "start": 2251,
+      "end": 2259
+    },
+    {
+      "text": "formalin",
+      "type": "ENTITY",
+      "start": 2275,
+      "end": 2283
+    },
+    {
+      "text": "labeled",
+      "type": "ENTITY",
+      "start": 2285,
+      "end": 2292
+    },
+    {
+      "text": "deep margin",
+      "type": "ENTITY",
+      "start": 2294,
+      "end": 2305
+    },
+    {
+      "text": "sinus fat",
+      "type": "ENTITY",
+      "start": 2327,
+      "end": 2336
+    },
+    {
+      "text": "white-tan soft tissue",
+      "type": "ENTITY",
+      "start": 2390,
+      "end": 2411
+    },
+    {
+      "text": "measuring",
+      "type": "ENTITY",
+      "start": 2459,
+      "end": 2468
+    },
+    {
+      "text": "Entirely submitted",
+      "type": "ENTITY",
+      "start": 2489,
+      "end": 2507
+    },
+    {
+      "text": "sections",
+      "type": "ENTITY",
+      "start": 2520,
+      "end": 2528
+    },
+    {
+      "text": "U",
+      "type": "ENTITY",
+      "start": 2531,
+      "end": 2532
+    },
+    {
+      "text": "undesignated",
+      "type": "ENTITY",
+      "start": 2536,
+      "end": 2548
+    },
+    {
+      "text": "Sections",
+      "type": "ENTITY",
+      "start": 2561,
+      "end": 2569
+    },
+    {
+      "text": "LEFt",
+      "type": "ENTITY",
+      "start": 2588,
+      "end": 2592
+    },
+    {
+      "text": "POLE",
+      "type": "ENTITY",
+      "start": 2599,
+      "end": 2603
+    },
+    {
+      "text": "PARTIAL NEPHRECTOMY Block Sect",
+      "type": "ENTITY",
+      "start": 2605,
+      "end": 2635
+    },
+    {
+      "text": "PCs",
+      "type": "ENTITY",
+      "start": 2642,
+      "end": 2645
+    },
+    {
+      "text": "BIOPSY Block Sect",
+      "type": "ENTITY",
+      "start": 2716,
+      "end": 2733
+    },
+    {
+      "text": "END",
+      "type": "ENTITY",
+      "start": 2762,
+      "end": 2765
+    }
+  ],
+  "entity_count": 112,
+  "has_embedding": true
+}

@@ -2,7 +2,6 @@
 """
 Complete Medical RAG Pipeline
 Query → Hybrid Retrieval → Cross-Encoder Rerank → Gemini Answer
-(Updated to google.genai SDK)
 """
 
 import os
@@ -39,10 +38,10 @@ from google import genai
 # =========================================================
 class MedicalQueryProcessor:
     def __init__(self, embedding_model: str):
-        print(f"📥 Loading embedding model: {embedding_model}")
+        print(f" Loading embedding model: {embedding_model}")
         self.model = SentenceTransformer(embedding_model)
         self.dim = self.model.get_sentence_embedding_dimension()
-        print(f"✅ Embedding dimension: {self.dim}")
+        print(f" Embedding dimension: {self.dim}")
 
     def extract_keywords(self, query: str) -> List[str]:
         patterns = [
@@ -78,14 +77,14 @@ class HybridRetriever:
     def __init__(self, faiss_db_path: str):
         db = Path(faiss_db_path)
 
-        print(f"📥 Loading FAISS index from: {db}")
+        print(f" Loading FAISS index from: {db}")
         self.index = faiss.read_index(str(db / "faiss.index"))
 
         with open(db / "metadata.pkl", "rb") as f:
             data = pickle.load(f)
 
         self.chunks = data["chunks"]
-        print(f"✅ Loaded {len(self.chunks)} chunks")
+        print(f"Loaded {len(self.chunks)} chunks")
 
         # Build BM25
         tokenized = [c["text"].lower().split() for c in self.chunks]
@@ -123,7 +122,7 @@ class HybridRetriever:
         if bm25_scores:
             max_bm25 = max(bm25_scores.values())
 
-            # ⚠️ Guard against all-zero BM25
+            #  Guard against all-zero BM25
         if max_bm25 > 0:
             for k, v in bm25_scores.items():
                     results[k] = results.get(k, 0) + 0.3 * (v / max_bm25)
@@ -148,9 +147,9 @@ class HybridRetriever:
 # =========================================================
 class MedicalReranker:
     def __init__(self):
-        print("📥 Loading cross-encoder...")
+        print(" Loading cross-encoder...")
         self.model = CrossEncoder("cross-encoder/ms-marco-MiniLM-L-6-v2")
-        print("✅ Cross-encoder loaded")
+        print(" Cross-encoder loaded")
 
     def rerank(
         self,
@@ -173,7 +172,7 @@ class MedicalReranker:
 
 
 # =========================================================
-# GEMINI GENERATOR (NEW SDK)
+# GEMINI GENERATOR 
 # =========================================================
 from google import genai
 import os
@@ -189,7 +188,7 @@ class GeminiGenerator:
         self.client = genai.Client(api_key=api_key)
         self.model_name = model_name
 
-        print(f"✅ Gemini model selected: {model_name}")
+        print(f" Gemini model selected: {model_name}")
 
     def generate(self, query: str, chunks: list) -> str:
         context = ""
@@ -219,7 +218,7 @@ ANSWER:
 
         except genai.errors.ClientError as e:
             if "RESOURCE_EXHAUSTED" in str(e):
-                print("⚠️ Rate limit hit. Waiting 30 seconds and retrying...")
+                print(" Rate limit hit. Waiting 30 seconds and retrying...")
                 time.sleep(30)
 
                 response = self.client.models.generate_content(
@@ -242,7 +241,7 @@ class CompleteRAGPipeline:
         self.retriever = HybridRetriever(faiss_db_path)
         self.reranker = MedicalReranker()
         self.llm = GeminiGenerator()
-        print("✅ RAG Pipeline ready")
+        print("RAG Pipeline ready")
 
     def ask(self, query: str) -> Dict:
         print(f"\n🔍 Query: {query}")
@@ -271,9 +270,9 @@ class CompleteRAGPipeline:
 # MAIN
 # =========================================================
 def main():
-    print("🔬 " * 25)
+    print("= " * 25)
     print("MEDICAL RAG PIPELINE (GEMINI – UPDATED)")
-    print("🔬 " * 25)
+    print("= " * 25)
 
     FAISS_DB = "/usr/users/3d_dimension_est/selva_sur/RAG/output/biomedbert_vector_db"
     EMB_MODEL = "microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext"

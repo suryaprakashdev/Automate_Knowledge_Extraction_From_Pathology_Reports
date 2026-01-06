@@ -58,18 +58,18 @@ class BiomedBERTToVectorDB:
         if self.faiss_index_type == "flat":
             # Exact search (slower but accurate)
             index = faiss.IndexFlatL2(self.embedding_dim)
-            print(f"✅ Created FAISS Flat index (exact search)")
+            print(f" Created FAISS Flat index (exact search)")
             
         elif self.faiss_index_type == "ivf":
             # Inverted file index (faster approximate search)
             quantizer = faiss.IndexFlatL2(self.embedding_dim)
             index = faiss.IndexIVFFlat(quantizer, self.embedding_dim, 100)
-            print(f"✅ Created FAISS IVF index (approximate search)")
+            print(f" Created FAISS IVF index (approximate search)")
             
         elif self.faiss_index_type == "hnsw":
             # Hierarchical Navigable Small World (best balance)
             index = faiss.IndexHNSWFlat(self.embedding_dim, 32)
-            print(f"✅ Created FAISS HNSW index (balanced)")
+            print(f" Created FAISS HNSW index (balanced)")
             
         else:
             raise ValueError(f"Unknown index type: {self.faiss_index_type}")
@@ -256,7 +256,7 @@ class BiomedBERTToVectorDB:
         """
         # Train index if needed (for IVF)
         if self.faiss_index_type == "ivf" and not self.index.is_trained:
-            print("🔧 Training IVF index...")
+            print(" Training IVF index...")
             self.index.train(embeddings.astype('float32'))
         
         # Add to index
@@ -285,11 +285,11 @@ class BiomedBERTToVectorDB:
         embedding_files = sorted(output_dir.glob("*_embedding.npy"))
         
         if not embedding_files:
-            print(f"❌ No *_embedding.npy files found in {biomedbert_output_dir}")
+            print(f"No *_embedding.npy files found in {biomedbert_output_dir}")
             return
         
-        print(f"\n📄 Found {len(embedding_files)} embedding files")
-        print(f"🔄 Creating FAISS vector database...\n")
+        print(f"\n Found {len(embedding_files)} embedding files")
+        print(f" Creating FAISS vector database...\n")
         
         # Optional: Load original texts for better chunking
         original_text_path = Path(original_text_dir) if original_text_dir else None
@@ -311,23 +311,23 @@ class BiomedBERTToVectorDB:
                 self.stats['files_processed'].append(emb_file.stem.replace('_embedding', ''))
                 
             except Exception as e:
-                print(f"\n⚠️  Error processing {emb_file.name}: {e}")
+                print(f"\n  Error processing {emb_file.name}: {e}")
         
         if not all_embeddings:
-            print("❌ No embeddings processed. Check your files.")
+            print(" No embeddings processed. Check your files.")
             return
         
         self.stats['total_chunks'] = len(all_chunks)
         
-        print(f"\n✅ Loaded {len(all_embeddings)} embeddings")
-        print(f"✅ Created {len(all_chunks)} chunks")
+        print(f"\n Loaded {len(all_embeddings)} embeddings")
+        print(f" Created {len(all_chunks)} chunks")
         
         # Stack embeddings
-        print(f"\n💾 Adding to FAISS index...")
+        print(f"\n Adding to FAISS index...")
         embeddings_matrix = np.vstack(all_embeddings)
         self.add_to_faiss(embeddings_matrix, all_chunks)
         
-        print(f"✅ FAISS index now contains {self.index.ntotal} vectors")
+        print(f" FAISS index now contains {self.index.ntotal} vectors")
         
         # Save everything
         self.save()
@@ -341,7 +341,7 @@ class BiomedBERTToVectorDB:
         # Save FAISS index
         index_file = self.output_dir / "faiss.index"
         faiss.write_index(self.index, str(index_file))
-        print(f"\n✅ FAISS index saved: {index_file}")
+        print(f"\n FAISS index saved: {index_file}")
         
         # Save metadata
         metadata_file = self.output_dir / "metadata.pkl"
@@ -353,7 +353,7 @@ class BiomedBERTToVectorDB:
                 'index_type': self.faiss_index_type,
                 'model': 'microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext'
             }, f)
-        print(f"✅ Metadata saved: {metadata_file}")
+        print(f" Metadata saved: {metadata_file}")
         
         # Save stats
         stats_file = self.output_dir / "stats.json"
@@ -366,7 +366,7 @@ class BiomedBERTToVectorDB:
         }
         with open(stats_file, 'w') as f:
             json.dump(stats_output, f, indent=2)
-        print(f"✅ Statistics saved: {stats_file}")
+        print(f" Statistics saved: {stats_file}")
     
     def print_summary(self):
         """Print processing summary"""
@@ -398,9 +398,9 @@ class BiomedBERTToVectorDB:
 
 def main():
     """Main function"""
-    print("🔬 " * 25)
+    print("= " * 25)
     print("BIOMEDBERT EMBEDDINGS → FAISS VECTOR DATABASE")
-    print("🔬 " * 25)
+    print("= " * 25)
     
     # CONFIGURE THESE PATHS
     biomedbert_output = "/usr/users/3d_dimension_est/selva_sur/RAG/output/biomedbert_output"
@@ -425,11 +425,11 @@ def main():
             original_text_dir=original_texts  # Optional: for better chunking
         )
         
-        print(f"\n✅ COMPLETE: Vector database created")
-        print(f"📊 Ready for RAG queries!")
+        print(f"\n COMPLETE: Vector database created")
+        print(f" Ready for RAG queries!")
         
     except Exception as e:
-        print(f"\n❌ Error: {e}")
+        print(f"\n Error: {e}")
         import traceback
         traceback.print_exc()
 

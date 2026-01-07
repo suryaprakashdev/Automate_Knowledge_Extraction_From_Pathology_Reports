@@ -2,7 +2,6 @@
 """
 Dynamic RAG Database Updater
 Processes new PDFs and updates the vector database in real-time
-
 """
 
 import os
@@ -15,9 +14,10 @@ from datetime import datetime
 
 # PDF processing
 from pdf2image import convert_from_path
+from PIL import Image
 
-# OCR (CPU optimized)
-from paddleocr import PaddleOCR
+# OCR (Tesseract – CPU, HF-safe)
+import pytesseract
 
 # Embeddings
 from sentence_transformers import SentenceTransformer
@@ -30,7 +30,7 @@ class DynamicRAGUpdater:
     """
     Handles dynamic updates to RAG database:
     1. Upload PDF
-    2. OCR extraction (PaddleOCR CPU)
+    2. OCR extraction (Tesseract – CPU)
     3. Generate embeddings (BiomedBERT)
     4. Update FAISS index
     5. Update metadata
@@ -51,16 +51,9 @@ class DynamicRAGUpdater:
         self.ocr_dir.mkdir(exist_ok=True)
         self.embeddings_dir.mkdir(exist_ok=True)
 
-        # PaddleOCR (explicit CPU mode)
-        self.ocr = PaddleOCR(
-            use_angle_cls=True,
-            lang="en",
-            use_gpu=False,
-            cpu_threads=4,
-            enable_mkldnn=True
-        )
+        print("✅ Using Tesseract OCR (CPU)")
 
-        # BiomedBERT only
+        # BiomedBERT embeddings (CPU)
         self.embedding_model = SentenceTransformer(
             embedding_model,
             device="cpu"
@@ -95,26 +88,27 @@ class DynamicRAGUpdater:
                 f
             )
 
+    # ---------------- OCR (Tesseract) ---------------- #
+
     def extract_text_from_pdf(self, pdf_path: str) -> str:
         images = convert_from_path(pdf_path, dpi=300)
 
         full_text = []
 
         for page_num, image in enumerate(images, 1):
-            image_np = np.array(image)
-            ocr_result = self.ocr.ocr(image_np, cls=True)
-
-            page_text = []
-            if ocr_result and ocr_result[0]:
-                for line in ocr_result[0]:
-                    page_text.append(line[1][0])
+            page_text = pytesseract.image_to_string(
+                image,
+                lang="eng",
+                config="--oem 3 --psm 6"
+            )
 
             full_text.append(
-                f"\n{'='*50}\nPAGE {page_num}\n{'='*50}\n" +
-                "\n".join(page_text)
+                f"\n{'='*50}\nPAGE {page_num}\n{'='*50}\n{page_text}"
             )
 
         return "\n".join(full_text)
+
+    # ---------------- Chunking ---------------- #
 
     def chunk_text(self, text: str, chunk_size: int = 512) -> List[str]:
         sentences = text.split(". ")
@@ -141,6 +135,8 @@ class DynamicRAGUpdater:
 
         return chunks
 
+    # ---------------- Embeddings ---------------- #
+
     def generate_embeddings(self, chunks: List[str]) -> np.ndarray:
         return self.embedding_model.encode(
             chunks,
@@ -148,6 +144,8 @@ class DynamicRAGUpdater:
             convert_to_numpy=True,
             show_progress_bar=True
         )
+
+    # ---------------- FAISS Update ---------------- #
 
     def add_to_database(
         self,
@@ -170,6 +168,8 @@ class DynamicRAGUpdater:
             self.chunk_id_to_idx[f"{filename}_{i}"] = start_idx + i
 
         return len(embeddings)
+
+    # ---------------- Full Pipeline ---------------- #
 
     def process_and_add_pdf(self, pdf_path: str) -> Dict:
         start = datetime.now()
@@ -198,7 +198,7 @@ class DynamicRAGUpdater:
 
 
 def main():
-    vector_db_path = "/usr/users/3d_dimension_est/selva_sur/RAG/output/biomedbert_vector_db"
+    vector_db_path = "output/biomedbert_vector_db"
 
     updater = DynamicRAGUpdater(
         vector_db_path=vector_db_path,

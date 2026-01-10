@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """
 Biomedical NLP Pipeline - Using Microsoft BiomedBERT
-
 """
 
 from pathlib import Path

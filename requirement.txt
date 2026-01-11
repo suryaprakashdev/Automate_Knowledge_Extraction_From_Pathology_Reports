@@ -1,85 +1,22 @@
-# Multimodal RAG System - Requirements
-# ============================================
+numpy<2
 
-# Core Document Processing
-pymupdf
-pillow
-pytesseract
-opencv-python
-numpy
-pdf2image
-poppler-utils
+torch==2.1.2
+torchvision==0.16.2
+torchaudio==2.1.2
 
-# Audio Processing
-SpeechRecognition
-pydub
-librosa
-soundfile
+transformers==4.38.2
+sentence-transformers==2.6.1
+accelerate==0.27.2
 
-# LangChain (Modular Structure)
-langchain-core
-langchain-text-splitters
-langchain-community
-langchain-openai
-
-# Embeddings & Vector Store
-sentence-transformers
-transformers
-torch
-torchvision
 faiss-cpu
-
-# LLM Integration
-openai
-huggingface-hub
-
-# Web Interface
-streamlit
-streamlit-option-menu
-
-# Utilities
-python-dotenv
-tqdm
-pydantic
-pydantic-settings
-
-# Development & Testing
-pytest
-pytest-cov
-black
-flake8
-
-# Optional: For better performance
-accelerate
-bitsandbytes
-
-# ============================================
-# Installation Instructions:
-# ============================================
-# 
-# 1. Create virtual environment:
-#    python -m venv venv
-#    source venv/bin/activate  (Linux/Mac)
-#    venv\Scripts\activate     (Windows)
-#
-# 2. Upgrade pip:
-#    pip install --upgrade pip
-#
-# 3. Install requirements:
-#    pip install -r requirements.txt
-#
-# 4. System dependencies (Ubuntu/Debian):
-#    sudo apt-get install tesseract-ocr
-#    sudo apt-get install ffmpeg
-#    sudo apt-get install poppler-utils
-#
-# 5. System dependencies (macOS):
-#    brew install tesseract
-#    brew install ffmpeg
-#    brew install poppler
-#
-# 6. For GPU support (optional):
-#    pip uninstall torch torchvision -y
-#    pip install torch torchvision --index-url https://download.pytorch.org/whl/cu118
-#
-# ============================================
+rank-bm25
+google-genai
+pandas
+scikit-learn
+pillow
+pdf2image
+gradio
+pytesseract
+pillow
+pdf2image
+pymupdf

@@ -104,7 +104,7 @@ class DynamicRAGUpdater:
             pix = page.get_pixmap(dpi=300, alpha=False)
             image_np = np.frombuffer(pix.samples, dtype=np.uint8).reshape(pix.h, pix.w, pix.n)
             
-            ocr_result = self.ocr.ocr(image_np, cls=True)
+            ocr_result = self.ocr.ocr(image_np)
 
             page_text = []
             if ocr_result and ocr_result[0]:

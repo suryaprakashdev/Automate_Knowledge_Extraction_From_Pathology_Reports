@@ -23,9 +23,10 @@ if not Path(DB_PATH).exists():
     st.error("Vector database not found. Upload output/biomedbert_vector_db.")
     st.stop()
 
-# Import RAG pipeline
+# Import RAG pipeline & Updater
 try:
     from retriever import CompleteRAGPipeline
+    from document_processor import DynamicRAGUpdater
 except ImportError as e:
     st.error(f"Import error: {e}")
     st.stop()
@@ -58,11 +59,11 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("🔬 Knowledge Extraction from Pathology Report ")
+st.title("🔬 Pathology Report Analysis System")
 
 st.markdown(
 """
-search and question answering over pathology reports  
+AI-powered search and question answering over pathology reports  
 Vector database powered by **BiomedBERT + FAISS**
 """
 )
@@ -90,6 +91,49 @@ st.sidebar.write("BiomedBERT")
 st.sidebar.write("Vector DB:")
 st.sidebar.write("FAISS")
 
+
+# -----------------------------
+# Document Upload
+# -----------------------------
+
+st.sidebar.divider()
+st.sidebar.header("📄 Upload Report")
+
+with st.sidebar.form(key='upload_form', clear_on_submit=True):
+    uploaded_file = st.file_uploader("Upload PDF Pathology Report", type=["pdf"])
+    submit_btn = st.form_submit_button("Process Document")
+
+if submit_btn and uploaded_file is not None:
+    with st.spinner("Processing Document... this may take a while."):
+        
+        # Save file
+        upload_dir = Path("uploaded_reports")
+        upload_dir.mkdir(exist_ok=True)
+        pdf_path = upload_dir / uploaded_file.name
+        
+        with open(pdf_path, "wb") as f:
+            f.write(uploaded_file.getbuffer())
+        
+        # Instantiate updater
+        updater = DynamicRAGUpdater(
+            vector_db_path=DB_PATH,
+            embedding_model="microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext",
+            upload_dir=str(upload_dir)
+        )
+        
+        # Process and add to vector database
+        try:
+            stats = updater.process_and_add_pdf(str(pdf_path))
+            st.sidebar.success(f"Successfully processed `{uploaded_file.name}`")
+            st.sidebar.json(stats)
+            
+            # Clear pipeline cache to reflect new db index
+            load_pipeline.clear()
+            
+        except Exception as e:
+            st.sidebar.error(f"Error during processing: {e}")
+
+st.sidebar.divider()
 
 # -----------------------------
 # Query Input

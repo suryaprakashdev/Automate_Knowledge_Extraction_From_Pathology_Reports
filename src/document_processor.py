@@ -78,7 +78,7 @@ class DynamicRAGUpdater:
         with open(metadata_file, "rb") as f:
             data = pickle.load(f)
             self.chunks = data["chunks"]
-            self.chunk_id_to_idx = data["chunk_id_to_idx"]
+            self.chunk_id_to_idx = data.get("chunk_id_to_idx", {})
 
     def save_database(self):
         faiss.write_index(self.faiss_index, str(self.vector_db_path / "faiss.index"))

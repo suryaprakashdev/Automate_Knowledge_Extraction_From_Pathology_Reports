@@ -58,11 +58,11 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("🔬 Pathology Report Analysis System")
+st.title("🔬 Knowledge Extraction from Pathology Report ")
 
 st.markdown(
 """
-AI-powered search and question answering over pathology reports  
+search and question answering over pathology reports  
 Vector database powered by **BiomedBERT + FAISS**
 """
 )

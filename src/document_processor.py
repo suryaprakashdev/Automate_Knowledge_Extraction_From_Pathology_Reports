@@ -14,7 +14,7 @@ import pickle
 from datetime import datetime
 
 # PDF processing
-from pdf2image import convert_from_path
+import fitz
 
 # OCR (CPU optimized)
 from paddleocr import PaddleOCR
@@ -95,12 +95,15 @@ class DynamicRAGUpdater:
             )
 
     def extract_text_from_pdf(self, pdf_path: str) -> str:
-        images = convert_from_path(pdf_path, dpi=300)
+        doc = fitz.open(pdf_path)
 
         full_text = []
 
-        for page_num, image in enumerate(images, 1):
-            image_np = np.array(image)
+        for page_num in range(len(doc)):
+            page = doc.load_page(page_num)
+            pix = page.get_pixmap(dpi=300, alpha=False)
+            image_np = np.frombuffer(pix.samples, dtype=np.uint8).reshape(pix.h, pix.w, pix.n)
+            
             ocr_result = self.ocr.ocr(image_np, cls=True)
 
             page_text = []
@@ -109,7 +112,7 @@ class DynamicRAGUpdater:
                     page_text.append(line[1][0])
 
             full_text.append(
-                f"\n{'='*50}\nPAGE {page_num}\n{'='*50}\n" +
+                f"\n{'='*50}\nPAGE {page_num + 1}\n{'='*50}\n" +
                 "\n".join(page_text)
             )
 

@@ -1,29 +1,35 @@
 #!/usr/bin/env python3
 """
-Pathology RAG System - Streamlit Version
-Query existing FAISS database
+Pathology RAG System — Streamlit UI
+Two pages:
+  1. Upload & Query  — upload a PDF, view it, ask questions scoped to that file
+  2. Global Search   — ask questions across the entire vector database
 """
 
 import os
 import sys
+import base64
 from pathlib import Path
 from datetime import datetime
 
 import streamlit as st
 
-# Force CPU
+# ── Force CPU ──────────────────────────────────────────────────────────────────
 os.environ["CUDA_VISIBLE_DEVICES"] = ""
 
-# Add src folder
+# ── Source path ────────────────────────────────────────────────────────────────
 sys.path.append("src")
 
 DB_PATH = "output/biomedbert_vector_db"
+EMBEDDING_MODEL = "microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext"
 
+# ── Validate database ──────────────────────────────────────────────────────────
 if not Path(DB_PATH).exists():
-    st.error("Vector database not found. Upload output/biomedbert_vector_db.")
+    st.error("⚠️ Vector database not found at `output/biomedbert_vector_db/`. "
+             "Please build it first.")
     st.stop()
 
-# Import RAG pipeline & Updater
+# ── Imports ────────────────────────────────────────────────────────────────────
 try:
     from retriever import CompleteRAGPipeline
     from document_processor import DynamicRAGUpdater
@@ -32,177 +38,434 @@ except ImportError as e:
     st.stop()
 
 
-# -----------------------------
-# Load Pipeline (cached)
-# -----------------------------
+# ══════════════════════════════════════════════════════════════════════════════
+# PAGE CONFIG  (must be first Streamlit call)
+# ══════════════════════════════════════════════════════════════════════════════
+
+st.set_page_config(
+    page_title="Pathology RAG",
+    page_icon="🔬",
+    layout="wide",
+    initial_sidebar_state="expanded",
+)
+
+# ── Custom CSS ─────────────────────────────────────────────────────────────────
+st.markdown("""
+<style>
+/* ── General ── */
+html, body, [class*="css"] { font-family: 'IBM Plex Sans', sans-serif; }
+
+/* ── Sidebar ── */
+[data-testid="stSidebar"] {
+    background: #0f1117;
+    border-right: 1px solid #1e2130;
+}
+[data-testid="stSidebar"] * { color: #e2e8f0 !important; }
+[data-testid="stSidebar"] .stRadio label { font-size: 0.95rem; }
+
+/* ── Answer box ── */
+.answer-box {
+    background: #0f1117;
+    border: 1px solid #2d3748;
+    border-left: 4px solid #38bdf8;
+    border-radius: 8px;
+    padding: 1.2rem 1.4rem;
+    margin-top: 0.5rem;
+    color: #e2e8f0;
+    font-size: 0.97rem;
+    line-height: 1.7;
+}
+
+/* ── Source card ── */
+.source-card {
+    background: #1a1f2e;
+    border: 1px solid #2d3748;
+    border-radius: 6px;
+    padding: 0.8rem 1rem;
+    margin-bottom: 0.5rem;
+    font-size: 0.87rem;
+    color: #94a3b8;
+}
+.source-card strong { color: #7dd3fc; }
+
+/* ── Upload status ── */
+.upload-success {
+    background: #052e16;
+    border: 1px solid #15803d;
+    border-radius: 6px;
+    padding: 0.75rem 1rem;
+    color: #4ade80;
+    font-size: 0.9rem;
+}
+
+/* ── Metric pills ── */
+.metric-pill {
+    display: inline-block;
+    background: #1e293b;
+    border: 1px solid #334155;
+    border-radius: 999px;
+    padding: 0.25rem 0.75rem;
+    font-size: 0.8rem;
+    color: #94a3b8;
+    margin-right: 0.4rem;
+}
+</style>
+""", unsafe_allow_html=True)
+
+
+# ══════════════════════════════════════════════════════════════════════════════
+# CACHED RESOURCES
+# ══════════════════════════════════════════════════════════════════════════════
 
 @st.cache_resource
 def load_pipeline():
-    # Cache busted to pick up the new ask method return dictionary
-    pipeline = CompleteRAGPipeline(
+    return CompleteRAGPipeline(
         faiss_db_path=DB_PATH,
-        embedding_model="microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext",
+        embedding_model=EMBEDDING_MODEL,
     )
-
-    return pipeline
 
 
 pipeline = load_pipeline()
 
 
-# -----------------------------
-# Page Config
-# -----------------------------
+# ══════════════════════════════════════════════════════════════════════════════
+# SESSION STATE DEFAULTS
+# ══════════════════════════════════════════════════════════════════════════════
 
-st.set_page_config(
-    page_title="Pathology RAG",
-    layout="wide"
-)
-
-st.title("🔬 Pathology Report Analysis System")
-
-st.markdown(
-"""
-AI-powered search and question answering over pathology reports  
-Vector database powered by **BiomedBERT + FAISS**
-"""
-)
-
-
-# -----------------------------
-# Session State
-# -----------------------------
-
-if "query_count" not in st.session_state:
-    st.session_state.query_count = 0
+defaults = {
+    "query_count":        0,
+    "pdf_bytes":          None,   # raw bytes of the currently-loaded PDF
+    "pdf_name":           None,   # display name  (e.g. "report.pdf")
+    "pdf_stem":           None,   # chunk filename key (e.g. "report")
+    "upload_stats":       None,
+    "doc_answer":         None,
+    "doc_sources":        None,
+    "global_answer":      None,
+    "global_sources":     None,
+}
+for k, v in defaults.items():
+    if k not in st.session_state:
+        st.session_state[k] = v
 
 
-# -----------------------------
-# Sidebar
-# -----------------------------
+# ══════════════════════════════════════════════════════════════════════════════
+# HELPERS
+# ══════════════════════════════════════════════════════════════════════════════
 
-st.sidebar.header("System Info")
-
-st.sidebar.write(f"Queries: {st.session_state.query_count}")
-
-st.sidebar.write("Embedding Model:")
-st.sidebar.write("BiomedBERT")
-
-st.sidebar.write("Vector DB:")
-st.sidebar.write("FAISS")
-
-
-# -----------------------------
-# Document Upload
-# -----------------------------
-
-st.sidebar.divider()
-st.sidebar.header("📄 Upload Report")
-
-with st.sidebar.form(key='upload_form', clear_on_submit=True):
-    uploaded_file = st.file_uploader("Upload PDF Pathology Report", type=["pdf"])
-    submit_btn = st.form_submit_button("Process Document")
-
-if submit_btn and uploaded_file is not None:
-    with st.spinner("Processing Document... this may take a while."):
-        
-        # Save file
-        upload_dir = Path("uploaded_reports")
-        upload_dir.mkdir(exist_ok=True)
-        pdf_path = upload_dir / uploaded_file.name
-        
-        with open(pdf_path, "wb") as f:
-            f.write(uploaded_file.getbuffer())
-        
-        # Instantiate updater
-        updater = DynamicRAGUpdater(
-            vector_db_path=DB_PATH,
-            embedding_model="microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext",
-            upload_dir=str(upload_dir)
-        )
-        
-        # Process and add to vector database
-        try:
-            stats = updater.process_and_add_pdf(str(pdf_path))
-            st.sidebar.success(f"Successfully processed `{uploaded_file.name}`")
-            st.sidebar.json(stats)
-            
-            # Clear pipeline cache to reflect new db index
-            load_pipeline.clear()
-            
-        except Exception as e:
-            st.sidebar.error(f"Error during processing: {e}")
-
-st.sidebar.divider()
-
-# -----------------------------
-# Query Input
-# -----------------------------
-
-st.header("🔎 Ask a Question")
-
-question = st.text_area(
-    "Enter your medical query",
-    placeholder="What are common findings in breast cancer pathology?",
-)
-
-num_sources = st.slider(
-    "Number of sources",
-    min_value=1,
-    max_value=10,
-    value=5
-)
+def render_pdf_viewer(pdf_bytes: bytes, height: int = 820):
+    """Embed PDF as a base64 iframe — stays live for the whole session."""
+    b64 = base64.b64encode(pdf_bytes).decode("utf-8")
+    iframe = f"""
+    <iframe
+        src="data:application/pdf;base64,{b64}"
+        width="100%"
+        height="{height}px"
+        style="border:1px solid #2d3748; border-radius:8px;"
+    ></iframe>
+    """
+    st.markdown(iframe, unsafe_allow_html=True)
 
 
-# -----------------------------
-# Search Button
-# -----------------------------
+def render_answer(answer: str):
+    st.markdown(f'<div class="answer-box">{answer}</div>', unsafe_allow_html=True)
 
-if st.button("Search"):
 
-    if question.strip() == "":
-        st.warning("Please enter a question.")
+def render_sources(sources: list):
+    if not sources:
+        st.caption("No sources retrieved.")
+        return
+    for i, src in enumerate(sources, 1):
+        chunk = src["chunk"]
+        score = src.get("ce_score", src.get("score", 0))
+        text_preview = chunk.get("text", "")[:400].replace("\n", " ")
+        st.markdown(f"""
+        <div class="source-card">
+            <strong>Source {i} — {chunk.get('filename', 'unknown')}</strong>
+            &nbsp;<span style="color:#475569">score {score:.3f}</span><br/>
+            <span>{text_preview}…</span>
+        </div>
+        """, unsafe_allow_html=True)
 
-    else:
 
-        with st.spinner("Running RAG pipeline..."):
+def process_upload(uploaded_file) -> bool:
+    """Save PDF, run OCR + embedding, update FAISS. Returns True on success."""
+    upload_dir = Path("uploaded_reports")
+    upload_dir.mkdir(exist_ok=True)
+    pdf_path = upload_dir / uploaded_file.name
 
-            st.session_state.query_count += 1
+    pdf_bytes = uploaded_file.getbuffer()
+    with open(pdf_path, "wb") as f:
+        f.write(pdf_bytes)
 
-            result = pipeline.ask(
-                question,
-                top_k=num_sources
+    updater = DynamicRAGUpdater(
+        vector_db_path=DB_PATH,
+        embedding_model=EMBEDDING_MODEL,
+        upload_dir=str(upload_dir),
+    )
+
+    stats = updater.process_and_add_pdf(str(pdf_path))
+
+    # Bust pipeline cache so new chunks are available for querying
+    load_pipeline.clear()
+
+    # Persist state
+    st.session_state.pdf_bytes   = bytes(pdf_bytes)
+    st.session_state.pdf_name    = uploaded_file.name
+    st.session_state.pdf_stem    = Path(uploaded_file.name).stem
+    st.session_state.upload_stats = stats
+    st.session_state.doc_answer  = None
+    st.session_state.doc_sources = None
+
+    return stats
+
+
+# ══════════════════════════════════════════════════════════════════════════════
+# SIDEBAR — navigation + persistent PDF info
+# ══════════════════════════════════════════════════════════════════════════════
+
+with st.sidebar:
+    st.markdown("## 🔬 Pathology RAG")
+    st.divider()
+
+    page = st.radio(
+        "Navigation",
+        ["📄  Upload & Query", "🌐  Global Search"],
+        label_visibility="collapsed",
+    )
+
+    st.divider()
+    st.caption("**System**")
+    st.caption(f"Embedding: BiomedBERT")
+    st.caption(f"Index: FAISS + BM25 Hybrid")
+    st.caption(f"Reranker: CrossEncoder")
+    st.caption(f"LLM: Gemini Flash Lite")
+    st.divider()
+    st.caption(f"Queries this session: **{st.session_state.query_count}**")
+
+    if st.session_state.pdf_name:
+        st.divider()
+        st.caption("**Active document**")
+        st.success(f"📎 {st.session_state.pdf_name}")
+        s = st.session_state.upload_stats
+        if s:
+            st.caption(
+                f"Chunks: {s['num_chunks']} · Vectors: {s['vectors_added']}"
             )
 
-        answer = result["answer"]
 
-        st.subheader("Answer")
+# ══════════════════════════════════════════════════════════════════════════════
+# PAGE 1 — Upload & Query
+# ══════════════════════════════════════════════════════════════════════════════
 
-        st.markdown(answer)
+if page == "📄  Upload & Query":
+
+    st.title("📄 Upload & Query")
+    st.caption("Upload a pathology PDF, view it, and ask questions scoped to that document.")
+
+    # ── Layout: viewer (left) | controls (right) ──────────────────────────────
+    col_viewer, col_controls = st.columns([1.1, 1], gap="large")
+
+    # ── LEFT — PDF viewer ──────────────────────────────────────────────────────
+    with col_viewer:
+        st.markdown("#### Document Viewer")
+
+        if st.session_state.pdf_bytes:
+            render_pdf_viewer(st.session_state.pdf_bytes, height=820)
+        else:
+            st.markdown(
+                """
+                <div style="
+                    height:820px;
+                    border:2px dashed #2d3748;
+                    border-radius:10px;
+                    display:flex;
+                    align-items:center;
+                    justify-content:center;
+                    color:#4b5563;
+                    font-size:1rem;
+                ">
+                    📂 Upload a PDF to preview it here
+                </div>
+                """,
+                unsafe_allow_html=True,
+            )
+
+    # ── RIGHT — upload + query ─────────────────────────────────────────────────
+    with col_controls:
+
+        # ── Upload section ─────────────────────────────────────────────────────
+        st.markdown("#### Upload Report")
+
+        uploaded_file = st.file_uploader(
+            "Select a PDF pathology report",
+            type=["pdf"],
+            label_visibility="collapsed",
+            key="pdf_uploader",
+        )
+
+        if uploaded_file is not None:
+            # Only reprocess if it's a different file from the current one
+            if uploaded_file.name != st.session_state.pdf_name:
+                with st.spinner(
+                    f"🔄 Processing `{uploaded_file.name}` — OCR + embedding + indexing…"
+                ):
+                    try:
+                        stats = process_upload(uploaded_file)
+                        st.markdown(
+                            f"""
+                            <div class="upload-success">
+                                ✅ <strong>{uploaded_file.name}</strong> processed successfully<br/>
+                                Chunks: {stats['num_chunks']} · Vectors added: {stats['vectors_added']} ·
+                                Time: {stats['processing_time_seconds']:.1f}s
+                            </div>
+                            """,
+                            unsafe_allow_html=True,
+                        )
+                        st.rerun()
+                    except Exception as e:
+                        st.error(f"❌ Processing failed: {e}")
+
+        st.divider()
+
+        # ── Query section (only active when a PDF is loaded) ───────────────────
+        st.markdown("#### Ask About This Document")
+
+        if not st.session_state.pdf_stem:
+            st.info("⬆️ Upload a PDF above to enable document-specific search.")
+        else:
+            st.caption(
+                f"Searching within: **{st.session_state.pdf_name}**"
+            )
+
+            doc_question = st.text_area(
+                "Your question",
+                placeholder="e.g. What are the key abnormal findings in this report?",
+                height=110,
+                key="doc_question",
+                label_visibility="collapsed",
+            )
+
+            num_sources_doc = st.slider(
+                "Sources to retrieve",
+                min_value=1, max_value=10, value=5,
+                key="doc_sources_slider",
+            )
+
+            if st.button("🔍 Ask Document", use_container_width=True, key="doc_ask_btn"):
+                if not doc_question.strip():
+                    st.warning("Please enter a question.")
+                else:
+                    with st.spinner("Running RAG pipeline…"):
+                        st.session_state.query_count += 1
+
+                        # Re-load pipeline to pick up any newly-added chunks
+                        current_pipeline = load_pipeline()
+
+                        result = current_pipeline.ask(
+                            doc_question,
+                            report_name=st.session_state.pdf_stem,
+                            top_k=num_sources_doc,
+                        )
+
+                        st.session_state.doc_answer  = result["answer"]
+                        st.session_state.doc_sources = result["sources"]
+
+            # ── Answer ─────────────────────────────────────────────────────────
+            if st.session_state.doc_answer:
+                st.markdown("**Answer**")
+                render_answer(st.session_state.doc_answer)
+
+                with st.expander("📚 Sources", expanded=False):
+                    render_sources(st.session_state.doc_sources)
 
 
-        # Metadata
-        st.subheader("Query Info")
+# ══════════════════════════════════════════════════════════════════════════════
+# PAGE 2 — Global Search
+# ══════════════════════════════════════════════════════════════════════════════
 
-        st.write({
-            "query_number": st.session_state.query_count,
-            "timestamp": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
-            "sources_used": result["num_sources"]
-        })
+elif page == "🌐  Global Search":
 
+    st.title("🌐 Global Search")
+    st.caption("Ask questions across **all** indexed pathology reports.")
 
-        # Sources
-        st.subheader("Sources")
+    # ── Available reports pill list ────────────────────────────────────────────
+    try:
+        available = pipeline.get_available_reports()
+        pills = "".join(
+            f'<span class="metric-pill">📄 {r}</span>' for r in available[:20]
+        )
+        suffix = (
+            f'<span class="metric-pill">+{len(available)-20} more</span>'
+            if len(available) > 20 else ""
+        )
+        st.markdown(
+            f"**{len(available)} reports indexed**<br/>{pills}{suffix}",
+            unsafe_allow_html=True,
+        )
+    except Exception:
+        pass
 
-        sources = result["sources"]
+    st.divider()
 
-        if not sources:
-            st.write("No sources retrieved.")
+    # ── Query ──────────────────────────────────────────────────────────────────
+    global_question = st.text_area(
+        "Your question",
+        placeholder="e.g. What are the most common ER/PR/HER2 receptor patterns found across reports?",
+        height=130,
+        label_visibility="collapsed",
+        key="global_question",
+    )
 
-        for i, source in enumerate(sources, 1):
+    col_slider, col_btn = st.columns([3, 1], gap="small")
 
-            chunk = source["chunk"]
+    with col_slider:
+        num_sources_global = st.slider(
+            "Sources to retrieve",
+            min_value=1, max_value=10, value=5,
+            key="global_sources_slider",
+        )
 
-            with st.expander(f"Source {i} | {chunk['filename']}"):
+    with col_btn:
+        st.markdown("<br/>", unsafe_allow_html=True)
+        search_clicked = st.button(
+            "🔍 Search All",
+            use_container_width=True,
+            key="global_search_btn",
+        )
 
-                st.write(chunk["text"][:600])
+    if search_clicked:
+        if not global_question.strip():
+            st.warning("Please enter a question.")
+        else:
+            with st.spinner("Searching across all documents…"):
+                st.session_state.query_count += 1
+
+                result = pipeline.ask(
+                    global_question,
+                    top_k=num_sources_global,
+                )
+
+                st.session_state.global_answer  = result["answer"]
+                st.session_state.global_sources = result["sources"]
+
+                # Metadata row
+                st.markdown(
+                    f"""
+                    <div style="margin:0.5rem 0 0.25rem;">
+                        <span class="metric-pill">Query #{st.session_state.query_count}</span>
+                        <span class="metric-pill">Sources used: {result['num_sources']}</span>
+                        <span class="metric-pill">{datetime.now().strftime('%H:%M:%S')}</span>
+                    </div>
+                    """,
+                    unsafe_allow_html=True,
+                )
+
+    # ── Answer & Sources ───────────────────────────────────────────────────────
+    if st.session_state.global_answer:
+        st.markdown("**Answer**")
+        render_answer(st.session_state.global_answer)
+
+        st.markdown("<br/>", unsafe_allow_html=True)
+
+        with st.expander("📚 Retrieved Sources", expanded=True):
+            render_sources(st.session_state.global_sources)

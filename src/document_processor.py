@@ -5,7 +5,11 @@ Processes new PDFs and updates the vector database in real-time
 
 """
 
+# Disable PaddleOCR's connectivity check — models are already cached after
+# first run; this check adds ~10-30s to every cold start for nothing.
 import os
+os.environ.setdefault("PADDLE_PDX_DISABLE_MODEL_SOURCE_CHECK", "True")
+
 import json
 import numpy as np
 from pathlib import Path
@@ -66,7 +70,7 @@ class DynamicRAGUpdater:
             device="cpu"
         )
 
-        self.embedding_dim = self.embedding_model.get_sentence_embedding_dimension()
+        self.embedding_dim = self.embedding_model.get_embedding_dimension()
 
         self.load_database()
 

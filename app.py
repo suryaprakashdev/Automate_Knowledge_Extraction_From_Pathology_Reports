@@ -203,7 +203,6 @@ def process_upload(uploaded_file) -> bool:
     updater = DynamicRAGUpdater(
         vector_db_path=DB_PATH,
         # Reuse the pipeline's already-loaded BiomedBERT — saves ~1.3 GB RAM.
-        embedding_model_instance=pipeline.query_processor.model,
         upload_dir=str(upload_dir),
     )
 

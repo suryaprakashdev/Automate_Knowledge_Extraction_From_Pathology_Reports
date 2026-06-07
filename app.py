@@ -141,27 +141,18 @@ pipeline = load_pipeline(st.session_state.db_update_time)
 # HELPERS
 # ══════════════════════════════════════════════════════════════════════════════
 def render_pdf_viewer(pdf_name: str, height: int = 820):
-    """
-    Instead of Base64, we point the iframe to a local static path 
-    or use the raw uploaded path if using a component.
-    """
-    # Look into the uploaded reports directory where process_upload saves it
+    """Reads the PDF file from local storage and displays it via HTML object element."""
     pdf_path = Path("uploaded_reports") / pdf_name
     
     if not pdf_path.exists():
-        st.error("Physical PDF file not found on disk.")
+        st.error(f"Physical PDF file not found at {pdf_path}")
         return
 
-    # To bypass Chrome's nested iframe blocks on Hugging Face,
-    # the cleanest approach is reading the bytes and using streamlit-pdf-viewer,
-    # OR utilizing an embedded object tag with a local stream.
     with open(pdf_path, "rb") as f:
         pdf_bytes = f.read()
         
     b64 = base64.b64encode(pdf_bytes).decode("utf-8")
     
-    # Using <object> instead of <iframe> sometimes tricks Chrome's iframe blocker,
-    # but the ultimate fix for HF Spaces is serving via an actual endpoint.
     pdf_display = f"""
     <object data="data:application/pdf;base64,{b64}" type="application/pdf" width="100%" height="{height}px">
         <embed src="data:application/pdf;base64,{b64}" type="application/pdf" />
@@ -267,10 +258,12 @@ if page == "📄  Upload & Query":
     col_viewer, col_controls = st.columns([1.1, 1], gap="large")
 
     # ── LEFT — PDF viewer ──────────────────────────────────────────────────────
+    # ── LEFT — PDF viewer ──────────────────────────────────────────────────────
     with col_viewer:
         st.markdown("#### Document Viewer")
-        if st.session_state.pdf_bytes:
-            render_pdf_viewer(st.session_state.pdf_bytes, height=820)
+        if st.session_state.pdf_name:  # <-- Check for the name string instead of bytes
+            # Pass the filename string here!
+            render_pdf_viewer(st.session_state.pdf_name, height=820) 
         else:
             st.markdown(
                 """

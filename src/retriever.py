@@ -47,7 +47,7 @@ class MedicalQueryProcessor:
 
         self.model = SentenceTransformer(embedding_model)
 
-        self.dim = self.model.get_sentence_embedding_dimension()
+        self.dim = self.model.get_embedding_dimension()
 
         print(f"Embedding dimension: {self.dim}")
 

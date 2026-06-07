@@ -140,18 +140,34 @@ pipeline = load_pipeline(st.session_state.db_update_time)
 # ══════════════════════════════════════════════════════════════════════════════
 # HELPERS
 # ══════════════════════════════════════════════════════════════════════════════
-def render_pdf_viewer(pdf_bytes: bytes, height: int = 820):
-    """Embed PDF as a base64 iframe — stays live for the whole session."""
-    b64 = base64.b64encode(pdf_bytes).decode("utf-8")
-    iframe = f"""
-    <iframe
-        src="data:application/pdf;base64,{b64}"
-        width="100%"
-        height="{height}px"
-        style="border:1px solid #2d3748; border-radius:8px;"
-    ></iframe>
+def render_pdf_viewer(pdf_name: str, height: int = 820):
     """
-    st.markdown(iframe, unsafe_allow_html=True)
+    Instead of Base64, we point the iframe to a local static path 
+    or use the raw uploaded path if using a component.
+    """
+    # Look into the uploaded reports directory where process_upload saves it
+    pdf_path = Path("uploaded_reports") / pdf_name
+    
+    if not pdf_path.exists():
+        st.error("Physical PDF file not found on disk.")
+        return
+
+    # To bypass Chrome's nested iframe blocks on Hugging Face,
+    # the cleanest approach is reading the bytes and using streamlit-pdf-viewer,
+    # OR utilizing an embedded object tag with a local stream.
+    with open(pdf_path, "rb") as f:
+        pdf_bytes = f.read()
+        
+    b64 = base64.b64encode(pdf_bytes).decode("utf-8")
+    
+    # Using <object> instead of <iframe> sometimes tricks Chrome's iframe blocker,
+    # but the ultimate fix for HF Spaces is serving via an actual endpoint.
+    pdf_display = f"""
+    <object data="data:application/pdf;base64,{b64}" type="application/pdf" width="100%" height="{height}px">
+        <embed src="data:application/pdf;base64,{b64}" type="application/pdf" />
+    </object>
+    """
+    st.markdown(pdf_display, unsafe_allow_html=True)
 
 def render_answer(answer: str):
     st.markdown(f'<div class="answer-box">{answer}</div>', unsafe_allow_html=True)

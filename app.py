@@ -32,7 +32,6 @@ if not Path(DB_PATH).exists():
 # ── Imports ────────────────────────────────────────────────────────────────────
 try:
     from retriever import CompleteRAGPipeline
-    from document_processor import DynamicRAGUpdater
 except ImportError as e:
     st.error(f"Import error: {e}")
     st.stop()
@@ -188,7 +187,11 @@ def render_sources(sources: list):
 
 
 def process_upload(uploaded_file) -> bool:
-    """Save PDF, run OCR + embedding, update FAISS. Returns True on success."""
+    """Save PDF, run OCR + embedding, update FAISS. Returns stats dict."""
+    # Lazy import — keeps PaddlePaddle (~2-3 GB of shared libs) out of the
+    # startup path so the app fits within the 16 GB Spaces memory limit.
+    from document_processor import DynamicRAGUpdater
+
     upload_dir = Path("uploaded_reports")
     upload_dir.mkdir(exist_ok=True)
     pdf_path = upload_dir / uploaded_file.name
@@ -199,7 +202,8 @@ def process_upload(uploaded_file) -> bool:
 
     updater = DynamicRAGUpdater(
         vector_db_path=DB_PATH,
-        embedding_model=EMBEDDING_MODEL,
+        # Reuse the pipeline's already-loaded BiomedBERT — saves ~1.3 GB RAM.
+        embedding_model_instance=pipeline.query_processor.model,
         upload_dir=str(upload_dir),
     )
 

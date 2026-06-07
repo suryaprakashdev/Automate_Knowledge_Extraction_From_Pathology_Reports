@@ -205,9 +205,6 @@ def process_upload(uploaded_file) -> bool:
 
     stats = updater.process_and_add_pdf(str(pdf_path))
 
-    # Bust pipeline cache so new chunks are available for querying
-    load_pipeline.clear()
-
     # Persist state
     st.session_state.pdf_bytes   = bytes(pdf_bytes)
     st.session_state.pdf_name    = uploaded_file.name
@@ -303,27 +300,39 @@ if page == "📄  Upload & Query":
             key="pdf_uploader",
         )
 
-        if uploaded_file is not None:
-            # Only reprocess if it's a different file from the current one
-            if uploaded_file.name != st.session_state.pdf_name:
-                with st.spinner(
-                    f"🔄 Processing `{uploaded_file.name}` — OCR + embedding + indexing…"
-                ):
-                    try:
-                        stats = process_upload(uploaded_file)
-                        st.markdown(
-                            f"""
-                            <div class="upload-success">
-                                ✅ <strong>{uploaded_file.name}</strong> processed successfully<br/>
-                                Chunks: {stats['num_chunks']} · Vectors added: {stats['vectors_added']} ·
-                                Time: {stats['processing_time_seconds']:.1f}s
-                            </div>
-                            """,
-                            unsafe_allow_html=True,
-                        )
-                        st.rerun()
-                    except Exception as e:
-                        st.error(f"❌ Processing failed: {e}")
+        process_btn = st.button(
+            "⚙️ Process & Index Document",
+            use_container_width=True,
+            disabled=(uploaded_file is None),
+            key="process_btn",
+        )
+
+        if process_btn and uploaded_file is not None:
+            with st.spinner(
+                f"🔄 Processing `{uploaded_file.name}` — OCR + embedding + indexing…"
+            ):
+                try:
+                    stats = process_upload(uploaded_file)
+
+                    # Refresh the in-memory retriever from the updated index on
+                    # disk — avoids reloading the 440MB BiomedBERT model.
+                    from retriever import HybridRetriever
+                    pipeline.retriever = HybridRetriever(DB_PATH)
+
+                    st.markdown(
+                        f"""
+                        <div class="upload-success">
+                            ✅ <strong>{uploaded_file.name}</strong> processed successfully<br/>
+                            Chunks: {stats['num_chunks']} · Vectors added: {stats['vectors_added']} ·
+                            Time: {stats['processing_time_seconds']:.1f}s
+                        </div>
+                        """,
+                        unsafe_allow_html=True,
+                    )
+                except Exception as e:
+                    import traceback
+                    st.error(f"❌ Processing failed: {e}")
+                    st.code(traceback.format_exc(), language="text")
 
         st.divider()
 
@@ -358,10 +367,7 @@ if page == "📄  Upload & Query":
                     with st.spinner("Running RAG pipeline…"):
                         st.session_state.query_count += 1
 
-                        # Re-load pipeline to pick up any newly-added chunks
-                        current_pipeline = load_pipeline()
-
-                        result = current_pipeline.ask(
+                        result = pipeline.ask(
                             doc_question,
                             report_name=st.session_state.pdf_stem,
                             top_k=num_sources_doc,

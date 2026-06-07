@@ -51,12 +51,13 @@ class DynamicRAGUpdater:
         self.ocr_dir.mkdir(exist_ok=True)
         self.embeddings_dir.mkdir(exist_ok=True)
 
-        # PaddleOCR (explicit CPU mode)
+        # PaddleOCR (CPU mode — mkldnn disabled: causes PIR attribute crash
+        # with ConvertPirAttribute2RuntimeAttribute on some paddle builds)
         self.ocr = PaddleOCR(
             use_angle_cls=True,
             lang="en",
             cpu_threads=4,
-            enable_mkldnn=True
+            enable_mkldnn=False
         )
 
         # BiomedBERT only
@@ -148,6 +149,7 @@ class DynamicRAGUpdater:
             chunks,
             batch_size=32,
             convert_to_numpy=True,
+            normalize_embeddings=True,   # must match vectordbs.py (IndexFlatIP)
             show_progress_bar=True
         )
 

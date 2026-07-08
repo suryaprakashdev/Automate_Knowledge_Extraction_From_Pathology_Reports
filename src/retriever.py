@@ -47,7 +47,7 @@ class MedicalQueryProcessor:
 
         self.model = SentenceTransformer(embedding_model)
 
-        self.dim = self.model.get_embedding_dimension()
+        self.dim = self.model.get_sentence_embedding_dimension()
 
         print(f"Embedding dimension: {self.dim}")
 
@@ -105,12 +105,29 @@ class HybridRetriever:
 
         print(f"Loaded {len(self.chunks)} chunks")
 
+        self.faiss_db_path = db
+        self._build_bm25()
+
+    def _build_bm25(self):
         tokenized = [
             c["text"].lower().split()
             for c in self.chunks
         ]
-
         self.bm25 = BM25Okapi(tokenized)
+
+    def reload_index(self):
+        """Cheap refresh after a new document is indexed: re-read the FAISS
+        index + chunk metadata and rebuild BM25, without touching the
+        (expensive to load) embedding/reranker/LLM models."""
+        db = self.faiss_db_path
+
+        self.index = faiss.read_index(str(db / "faiss.index"))
+
+        with open(db / "metadata.pkl", "rb") as f:
+            data = pickle.load(f)
+
+        self.chunks = data["chunks"]
+        self._build_bm25()
 
     def get_available_reports(self) -> List[str]:
 
@@ -358,10 +375,16 @@ class CompleteRAGPipeline:
     def get_available_reports(self) -> List[str]:
         return self.retriever.get_available_reports()
 
+    def reload_index(self):
+        """Refresh the FAISS index/chunks/BM25 after a new upload, without
+        reloading the embedding, reranker, or LLM models."""
+        self.retriever.reload_index()
+
     def ask(
         self,
         query: str,
         report_name: Optional[str] = None,
+        report_names: Optional[List[str]] = None,
         top_k: int = 5
     ) -> Dict:
 
@@ -374,20 +397,29 @@ class CompleteRAGPipeline:
 
         # ----------------------------------
         # REPORT FILTERING
+        # report_name: single-document scope (Upload & Query page)
+        # report_names: optional multi-document scope (Global Search page)
         # ----------------------------------
 
+        allowed = None
         if report_name:
+            allowed = {report_name}
+        elif report_names:
+            allowed = set(report_names)
+
+        if allowed:
 
             candidates = [
                 c for c in candidates
-                if c["chunk"].get("filename") == report_name
+                if c["chunk"].get("filename") in allowed
             ]
 
             if not candidates:
 
+                scope = report_name or ", ".join(report_names)
                 return {
                     "query": query,
-                    "answer": f"No information found for report: {report_name}",
+                    "answer": f"No information found for report(s): {scope}",
                     "timestamp": datetime.now().isoformat(),
                     "sources": [],
                     "num_sources": 0

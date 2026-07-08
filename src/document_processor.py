@@ -44,33 +44,46 @@ class DynamicRAGUpdater:
         self,
         vector_db_path: str,
         embedding_model: str = "microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext",
-        upload_dir: str = "uploaded_reports"
+        upload_dir: str = "uploaded_reports",
+        ocr_engine=None,
+        embedder=None,
+        ocr_dpi: int = 300,
     ):
         self.vector_db_path = Path(vector_db_path)
         self.upload_dir = Path(upload_dir)
         self.upload_dir.mkdir(exist_ok=True)
+        self.ocr_dpi = ocr_dpi
 
         self.ocr_dir = self.upload_dir / "ocr_text"
         self.embeddings_dir = self.upload_dir / "embeddings"
         self.ocr_dir.mkdir(exist_ok=True)
         self.embeddings_dir.mkdir(exist_ok=True)
 
-        # PaddleOCR (CPU mode — mkldnn disabled: causes PIR attribute crash
-        # with ConvertPirAttribute2RuntimeAttribute on some paddle builds)
-        self.ocr = PaddleOCR(
-            use_angle_cls=True,
-            lang="en",
-            cpu_threads=4,
-            enable_mkldnn=False
-        )
+        # Both models are expensive to load (PaddleOCR init + BiomedBERT weights).
+        # Callers (e.g. the Streamlit app) should build these once via a cached
+        # resource and pass them in so repeated uploads reuse warm models instead
+        # of reloading from disk every time.
+        if ocr_engine is not None:
+            self.ocr = ocr_engine
+        else:
+            # PaddleOCR (CPU mode — mkldnn disabled: causes PIR attribute crash
+            # with ConvertPirAttribute2RuntimeAttribute on some paddle builds)
+            self.ocr = PaddleOCR(
+                use_angle_cls=True,
+                lang="en",
+                cpu_threads=4,
+                enable_mkldnn=False
+            )
 
-        # BiomedBERT only
-        self.embedding_model = SentenceTransformer(
-            embedding_model,
-            device="cpu"
-        )
+        if embedder is not None:
+            self.embedding_model = embedder
+        else:
+            self.embedding_model = SentenceTransformer(
+                embedding_model,
+                device="cpu"
+            )
 
-        self.embedding_dim = self.embedding_model.get_embedding_dimension()
+        self.embedding_dim = self.embedding_model.get_sentence_embedding_dimension()
 
         self.load_database()
 
@@ -99,58 +112,97 @@ class DynamicRAGUpdater:
                 f
             )
 
-    def extract_text_from_pdf(self, pdf_path: str) -> str:
+    def extract_text_from_pdf(self, pdf_path: str) -> Dict:
+        """Runs OCR page by page, keeping each line's page number and bounding
+        box (converted from pixmap pixel space back to PDF point space) so
+        chunks can later be traced back to a highlightable location.
+        Returns {"full_text": str, "lines": [{"page", "text", "bbox"}, ...]}.
+        """
         doc = fitz.open(pdf_path)
+        scale = self.ocr_dpi / 72.0  # pixmap pixels -> PDF points
 
-        full_text = []
+        full_text_parts = []
+        all_lines = []
 
         for page_num in range(len(doc)):
             page = doc.load_page(page_num)
-            pix = page.get_pixmap(dpi=300, alpha=False)
+            pix = page.get_pixmap(dpi=self.ocr_dpi, alpha=False)
             image_np = np.frombuffer(pix.samples, dtype=np.uint8).reshape(pix.h, pix.w, pix.n)
-            
+
             ocr_result = self.ocr.ocr(image_np)
 
             page_text = []
             if ocr_result and ocr_result[0]:
                 for line in ocr_result[0]:
-                    page_text.append(line[1][0])
+                    bbox_poly, (line_text, _conf) = line
+                    xs = [pt[0] for pt in bbox_poly]
+                    ys = [pt[1] for pt in bbox_poly]
+                    bbox_pdf = [
+                        min(xs) / scale, min(ys) / scale,
+                        max(xs) / scale, max(ys) / scale,
+                    ]
+                    page_text.append(line_text)
+                    all_lines.append({
+                        "page": page_num + 1,
+                        "text": line_text,
+                        "bbox": bbox_pdf,
+                    })
 
-            full_text.append(
+            full_text_parts.append(
                 f"\n{'='*50}\nPAGE {page_num + 1}\n{'='*50}\n" +
                 "\n".join(page_text)
             )
 
-        return "\n".join(full_text)
+        return {
+            "full_text": "\n".join(full_text_parts),
+            "lines": all_lines,
+        }
 
-    def chunk_text(self, text: str, chunk_size: int = 512) -> List[str]:
-        sentences = text.split(". ")
+    def chunk_text(self, lines: List[Dict], chunk_size: int = 512) -> List[Dict]:
+        """Groups OCR lines into ~chunk_size-character chunks, sentence-aware
+        like before, but keeps each chunk's originating page and the bounding
+        boxes of every line that fell inside it for PDF highlighting.
+        Returns [{"text", "page", "line_bboxes"}, ...].
+        """
         chunks = []
-        current = []
+        current_text = []
+        current_bboxes = []
+        current_page = None
         length = 0
 
-        for s in sentences:
-            s = s.strip()
+        def flush():
+            if current_text:
+                chunks.append({
+                    "text": "".join(current_text),
+                    "page": current_page,
+                    "line_bboxes": list(current_bboxes),
+                })
+
+        for line in lines:
+            s = line["text"].strip()
             if not s:
                 continue
-
             s = s + ". "
-            if length + len(s) > chunk_size and current:
-                chunks.append("".join(current))
-                current = [s]
+
+            if length + len(s) > chunk_size and current_text:
+                flush()
+                current_text = [s]
+                current_bboxes = [line["bbox"]]
+                current_page = line["page"]
                 length = len(s)
             else:
-                current.append(s)
+                if current_page is None:
+                    current_page = line["page"]
+                current_text.append(s)
+                current_bboxes.append(line["bbox"])
                 length += len(s)
 
-        if current:
-            chunks.append("".join(current))
-
+        flush()
         return chunks
 
-    def generate_embeddings(self, chunks: List[str]) -> np.ndarray:
+    def generate_embeddings(self, chunks: List[Dict]) -> np.ndarray:
         return self.embedding_model.encode(
-            chunks,
+            [c["text"] for c in chunks],
             batch_size=32,
             convert_to_numpy=True,
             normalize_embeddings=True,   # must match vectordbs.py (IndexFlatIP)
@@ -160,19 +212,21 @@ class DynamicRAGUpdater:
     def add_to_database(
         self,
         embeddings: np.ndarray,
-        chunks: List[str],
+        chunks: List[Dict],
         filename: str
     ) -> int:
         start_idx = self.faiss_index.ntotal
         self.faiss_index.add(embeddings.astype("float32"))
 
-        for i, text in enumerate(chunks):
+        for i, chunk in enumerate(chunks):
             meta = {
                 "chunk_id": start_idx + i,
-                "text": text,
+                "text": chunk["text"],
                 "filename": filename,
                 "upload_date": datetime.now().isoformat(),
-                "source": "user_upload"
+                "source": "user_upload",
+                "page": chunk.get("page"),
+                "line_bboxes": chunk.get("line_bboxes", []),
             }
             self.chunks.append(meta)
             self.chunk_id_to_idx[f"{filename}_{i}"] = start_idx + i
@@ -183,10 +237,11 @@ class DynamicRAGUpdater:
         start = datetime.now()
         filename = Path(pdf_path).stem
 
-        text = self.extract_text_from_pdf(pdf_path)
-        (self.ocr_dir / f"{filename}.txt").write_text(text, encoding="utf-8")
+        extracted = self.extract_text_from_pdf(pdf_path)
+        full_text = extracted["full_text"]
+        (self.ocr_dir / f"{filename}.txt").write_text(full_text, encoding="utf-8")
 
-        chunks = self.chunk_text(text)
+        chunks = self.chunk_text(extracted["lines"])
         embeddings = self.generate_embeddings(chunks)
 
         np.save(self.embeddings_dir / f"{filename}_embeddings.npy", embeddings)
@@ -196,7 +251,7 @@ class DynamicRAGUpdater:
 
         return {
             "filename": filename,
-            "text_length": len(text),
+            "text_length": len(full_text),
             "num_chunks": len(chunks),
             "vectors_added": vectors_added,
             "total_vectors": self.faiss_index.ntotal,

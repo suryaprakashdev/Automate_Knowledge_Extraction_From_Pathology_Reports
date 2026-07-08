@@ -1,0 +1,2 @@
+<strong>{{ total }} reports indexed</strong><br/>
+{% for r in reports %}<span class="metric-pill">📄 {{ r }}</span>{% endfor %}{% if remaining > 0 %}<span class="metric-pill">+{{ remaining }} more</span>{% endif %}

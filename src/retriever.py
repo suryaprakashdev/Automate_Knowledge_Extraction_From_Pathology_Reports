@@ -281,20 +281,18 @@ class GeminiGenerator:
 
         print(f"Using Gemini model: {model_name}")
 
-    def generate(
+    def _build_prompt(
         self,
         query: str,
-        chunks: List[Dict]
+        chunks: List[Dict],
+        history: Optional[List[Dict]] = None
     ) -> str:
-
-        if not chunks:
-            return "No relevant information found."
 
         context = ""
 
         for i, c in enumerate(chunks, 1):
             chunk_text = c['chunk'].get('text', '')
-            
+
             # If the database was built without the original text files, it defaults to "Document: <filename>"
             # We can still provide the extracted entities to Gemini so it has context!
             if chunk_text.startswith("Document:") and "entities" in c['chunk']:
@@ -303,12 +301,28 @@ class GeminiGenerator:
 
             context += f"[{i}] {chunk_text}\n\n"
 
-        prompt = f"""
+        # Optional multi-turn context: prior (user, assistant) turns so follow-up
+        # questions read coherently. Retrieval still uses only the current query.
+        history_block = ""
+        if history:
+            turns = []
+            for turn in history:
+                role = turn.get("role", "user")
+                content = turn.get("content", "")
+                speaker = "User" if role == "user" else "Assistant"
+                turns.append(f"{speaker}: {content}")
+            history_block = (
+                "--- PRIOR CONVERSATION (for context only) ---\n"
+                + "\n".join(turns)
+                + "\n\n"
+            )
+
+        return f"""
 You are an expert medical assistant. Answer the medical question using ONLY the provided text or entities from the pathology documents below.
 Treat the provided information as your complete source material. Do not state that you cannot access files, as the contents/entities are provided directly below.
 Cite your sources in your text using their corresponding numbers like [1], [2], etc.
 
---- PROVIDED DOCUMENT CONTENTS / ENTITIES ---
+{history_block}--- PROVIDED DOCUMENT CONTENTS / ENTITIES ---
 {context}
 
 --- QUESTION ---
@@ -316,6 +330,18 @@ Cite your sources in your text using their corresponding numbers like [1], [2], 
 
 --- ANSWER ---
 """
+
+    def generate(
+        self,
+        query: str,
+        chunks: List[Dict],
+        history: Optional[List[Dict]] = None
+    ) -> str:
+
+        if not chunks:
+            return "No relevant information found."
+
+        prompt = self._build_prompt(query, chunks, history)
 
         try:
 
@@ -342,6 +368,31 @@ Cite your sources in your text using their corresponding numbers like [1], [2], 
                 return response.text
 
             raise
+
+    def generate_stream(
+        self,
+        query: str,
+        chunks: List[Dict],
+        history: Optional[List[Dict]] = None
+    ):
+        """Yields answer text deltas as they arrive from Gemini, for
+        token-by-token streaming to the frontend (SSE)."""
+
+        if not chunks:
+            yield "No relevant information found."
+            return
+
+        prompt = self._build_prompt(query, chunks, history)
+
+        stream = self.client.models.generate_content_stream(
+            model=self.model_name,
+            contents=prompt
+        )
+
+        for event in stream:
+            text = getattr(event, "text", None)
+            if text:
+                yield text
 
 
 # ============================================
@@ -380,13 +431,16 @@ class CompleteRAGPipeline:
         reloading the embedding, reranker, or LLM models."""
         self.retriever.reload_index()
 
-    def ask(
+    def retrieve(
         self,
         query: str,
         report_name: Optional[str] = None,
         report_names: Optional[List[str]] = None,
         top_k: int = 5
-    ) -> Dict:
+    ) -> List[Dict]:
+        """Embed → hybrid search → optional document filter → rerank.
+        Returns the top reranked source chunks (no LLM call). Shared by
+        ask() (blocking) and the streaming chat endpoint."""
 
         processed = self.query_processor.process(query)
 
@@ -397,8 +451,8 @@ class CompleteRAGPipeline:
 
         # ----------------------------------
         # REPORT FILTERING
-        # report_name: single-document scope (Upload & Query page)
-        # report_names: optional multi-document scope (Global Search page)
+        # report_name: single-document scope (Document Chat)
+        # report_names: optional multi-document scope (Global Search)
         # ----------------------------------
 
         allowed = None
@@ -408,41 +462,46 @@ class CompleteRAGPipeline:
             allowed = set(report_names)
 
         if allowed:
-
             candidates = [
                 c for c in candidates
                 if c["chunk"].get("filename") in allowed
             ]
 
-            if not candidates:
+        if not candidates:
+            return []
 
-                scope = report_name or ", ".join(report_names)
-                return {
-                    "query": query,
-                    "answer": f"No information found for report(s): {scope}",
-                    "timestamp": datetime.now().isoformat(),
-                    "sources": [],
-                    "num_sources": 0
-                }
+        return self.reranker.rerank(query, candidates, top_k=top_k)
 
-        # ----------------------------------
-        # RERANK
-        # ----------------------------------
+    def ask(
+        self,
+        query: str,
+        report_name: Optional[str] = None,
+        report_names: Optional[List[str]] = None,
+        top_k: int = 5
+    ) -> Dict:
 
-        top_chunks = self.reranker.rerank(
+        top_chunks = self.retrieve(
             query,
-            candidates,
-            top_k=top_k
+            report_name=report_name,
+            report_names=report_names,
+            top_k=top_k,
         )
 
-        # ----------------------------------
-        # GENERATE ANSWER
-        # ----------------------------------
+        if not top_chunks:
+            scope = report_name or (", ".join(report_names) if report_names else None)
+            answer = (
+                f"No information found for report(s): {scope}"
+                if scope else "No relevant information found."
+            )
+            return {
+                "query": query,
+                "answer": answer,
+                "timestamp": datetime.now().isoformat(),
+                "sources": [],
+                "num_sources": 0,
+            }
 
-        answer = self.llm.generate(
-            query,
-            top_chunks
-        )
+        answer = self.llm.generate(query, top_chunks)
 
         return {
             "query": query,

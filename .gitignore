@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+rag_env/
+
+# Node / frontend
+frontend/node_modules/
+frontend/dist/
+
+# Local runtime data
+uploaded_reports/
+
+# OS
+.DS_Store

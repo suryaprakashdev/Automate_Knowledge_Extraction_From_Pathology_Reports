@@ -1,15 +1,24 @@
-streamlit>=1.32.0
-jinja2
+# ── Web API (React + FastAPI deployment) ──
+fastapi>=0.110.0
+uvicorn[standard]>=0.29.0
+python-multipart>=0.0.9
+sse-starlette>=2.0.0
 
-numpy>=1.26.4
+# numpy 2.3.x: matches the set paddlepaddle 3.x is happy with.
+numpy>=1.26,<2.4
 
-torch>=2.3.0
-torchvision>=0.18.0
-torchaudio>=2.3.0
-
-transformers>=4.41.0
-sentence-transformers>=3.0.0
-accelerate>=0.30.0
+# ── ML / RAG stack ──
+# torch is installed separately in the Dockerfile from the CPU wheel index
+# (https://download.pytorch.org/whl/cpu) so we never pull the ~2GB CUDA build.
+# The transformers stack below is pinned to a known-good, mutually-compatible
+# set (verified importing cleanly locally) so a fresh container build can't
+# resolve an incompatible combination that breaks `PreTrainedModel` at import.
+transformers==4.57.3
+sentence-transformers==5.2.0
+huggingface-hub==0.36.0
+tokenizers==0.22.2
+safetensors==0.7.0
+accelerate==1.13.0
 
 faiss-cpu>=1.8.0
 rank-bm25
@@ -20,11 +29,13 @@ pandas
 scikit-learn
 tqdm
 
+# ── PDF + OCR ──
 pillow
-pdf2image
-pytesseract
 pymupdf
-paddlepaddle
-paddleocr
+# PaddleOCR 3.x — the OCR extraction code targets the 3.x predict() API
+# (rec_texts / dt_polys). Do not drop below 3.0.
+paddlepaddle>=3.0.0,<4.0.0
+paddleocr>=3.0.0,<4.0.0
 
-gradio>=4.0
+# Note: the legacy Streamlit UI (app.py / ui/) is not run in the container and
+# is excluded via .dockerignore; install `streamlit` separately to run it.

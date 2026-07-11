@@ -1,0 +1,24 @@
+# Frontend build artifacts / deps (rebuilt inside the image)
+frontend/node_modules
+frontend/dist
+
+# Python caches / envs
+**/__pycache__
+*.pyc
+rag_env
+.venv
+venv
+
+# Legacy Streamlit UI (superseded by the React frontend; not run in the container)
+app.py
+ui/
+
+# Local runtime data (mounted via Azure Files in prod)
+uploaded_reports
+
+# Repo/tooling noise
+.git
+.gitattributes
+image.png
+README.md
+azure

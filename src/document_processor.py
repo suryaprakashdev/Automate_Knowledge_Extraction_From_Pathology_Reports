@@ -66,13 +66,14 @@ class DynamicRAGUpdater:
         if ocr_engine is not None:
             self.ocr = ocr_engine
         else:
-            # PaddleOCR (CPU mode — mkldnn disabled: causes PIR attribute crash
-            # with ConvertPirAttribute2RuntimeAttribute on some paddle builds)
+            # PaddleOCR 3.x API. Doc-orientation/unwarping/textline-orientation
+            # sub-models are disabled: pathology scans are upright, and skipping
+            # them avoids extra model downloads and speeds up CPU inference.
             self.ocr = PaddleOCR(
-                use_angle_cls=True,
                 lang="en",
-                cpu_threads=4,
-                enable_mkldnn=False
+                use_doc_orientation_classify=False,
+                use_doc_unwarping=False,
+                use_textline_orientation=False,
             )
 
         if embedder is not None:
@@ -112,31 +113,39 @@ class DynamicRAGUpdater:
                 f
             )
 
-    def extract_text_from_pdf(self, pdf_path: str) -> Dict:
+    def extract_text_from_pdf(self, pdf_path: str, progress_callback=None) -> Dict:
         """Runs OCR page by page, keeping each line's page number and bounding
         box (converted from pixmap pixel space back to PDF point space) so
         chunks can later be traced back to a highlightable location.
         Returns {"full_text": str, "lines": [{"page", "text", "bbox"}, ...]}.
+        Optional progress_callback(stage, detail) reports per-page OCR progress.
         """
         doc = fitz.open(pdf_path)
         scale = self.ocr_dpi / 72.0  # pixmap pixels -> PDF points
+        num_pages = len(doc)
 
         full_text_parts = []
         all_lines = []
 
-        for page_num in range(len(doc)):
+        for page_num in range(num_pages):
+            if progress_callback:
+                progress_callback("ocr", {"page": page_num + 1, "total": num_pages})
             page = doc.load_page(page_num)
             pix = page.get_pixmap(dpi=self.ocr_dpi, alpha=False)
             image_np = np.frombuffer(pix.samples, dtype=np.uint8).reshape(pix.h, pix.w, pix.n)
 
-            ocr_result = self.ocr.ocr(image_np)
+            # PaddleOCR 3.x: predict() -> [OCRResult]; result[0] is a dict with
+            # parallel lists rec_texts (strings) and dt_polys (Nx2 point arrays).
+            ocr_result = self.ocr.predict(image_np)
 
             page_text = []
-            if ocr_result and ocr_result[0]:
-                for line in ocr_result[0]:
-                    bbox_poly, (line_text, _conf) = line
-                    xs = [pt[0] for pt in bbox_poly]
-                    ys = [pt[1] for pt in bbox_poly]
+            if ocr_result:
+                res = ocr_result[0]
+                texts = res["rec_texts"]
+                polys = res["dt_polys"]
+                for line_text, poly in zip(texts, polys):
+                    xs = [float(pt[0]) for pt in poly]
+                    ys = [float(pt[1]) for pt in poly]
                     bbox_pdf = [
                         min(xs) / scale, min(ys) / scale,
                         max(xs) / scale, max(ys) / scale,
@@ -233,21 +242,28 @@ class DynamicRAGUpdater:
 
         return len(embeddings)
 
-    def process_and_add_pdf(self, pdf_path: str) -> Dict:
+    def process_and_add_pdf(self, pdf_path: str, progress_callback=None) -> Dict:
         start = datetime.now()
         filename = Path(pdf_path).stem
 
-        extracted = self.extract_text_from_pdf(pdf_path)
+        extracted = self.extract_text_from_pdf(pdf_path, progress_callback=progress_callback)
         full_text = extracted["full_text"]
         (self.ocr_dir / f"{filename}.txt").write_text(full_text, encoding="utf-8")
 
+        if progress_callback:
+            progress_callback("embedding", {})
         chunks = self.chunk_text(extracted["lines"])
         embeddings = self.generate_embeddings(chunks)
 
         np.save(self.embeddings_dir / f"{filename}_embeddings.npy", embeddings)
 
+        if progress_callback:
+            progress_callback("indexing", {})
         vectors_added = self.add_to_database(embeddings, chunks, filename)
         self.save_database()
+
+        if progress_callback:
+            progress_callback("done", {"num_chunks": len(chunks), "vectors_added": vectors_added})
 
         return {
             "filename": filename,

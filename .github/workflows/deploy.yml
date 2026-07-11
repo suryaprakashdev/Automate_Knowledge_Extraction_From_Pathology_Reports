@@ -1,0 +1,61 @@
+name: Build & Deploy to Azure Container Apps
+
+# Deploys the app to the existing Azure Container App on every push to main.
+# Can also be run manually from the Actions tab (workflow_dispatch).
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+env:
+  ACR_NAME: pathoragacr                 # Azure Container Registry (name only)
+  IMAGE_NAME: pathorag                  # repository/image name
+  RESOURCE_GROUP: patho-rag             # resource group of the Container App
+  CONTAINERAPP_NAME: pathorag           # Container App name
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      # LFS is REQUIRED: the FAISS index (output/biomedbert_vector_db/faiss.index)
+      # is a git-LFS object. Without lfs:true the build context would receive a
+      # pointer stub and faiss would fail with the "vers" magic-number error.
+      - name: Checkout (with LFS)
+        uses: actions/checkout@v4
+        with:
+          lfs: true
+
+      - name: Azure login
+        uses: azure/login@v2
+        with:
+          creds: ${{ secrets.AZURE_CREDENTIALS }}
+
+      # Container Apps CLI extension, non-interactive install on the runner.
+      - name: Enable containerapp CLI extension
+        run: az config set extension.use_dynamic_install=yes_without_prompt
+
+      # Build the image in ACR (cloud build — no local Docker needed).
+      # Tag with the commit SHA (for a unique, traceable revision) and latest.
+      - name: Build image in ACR
+        run: |
+          az acr build \
+            --registry "$ACR_NAME" \
+            --image "$IMAGE_NAME:${{ github.sha }}" \
+            --image "$IMAGE_NAME:latest" \
+            .
+
+      # Deploy the SHA-tagged image so Container Apps always creates a new
+      # revision (deploying :latest to the same tag may not roll a revision).
+      - name: Deploy to Container App
+        run: |
+          az containerapp update \
+            --resource-group "$RESOURCE_GROUP" \
+            --name "$CONTAINERAPP_NAME" \
+            --image "$ACR_NAME.azurecr.io/$IMAGE_NAME:${{ github.sha }}"
+
+      - name: Show app URL
+        run: |
+          FQDN=$(az containerapp show -g "$RESOURCE_GROUP" -n "$CONTAINERAPP_NAME" \
+                   --query properties.configuration.ingress.fqdn -o tsv)
+          echo "Deployed: https://$FQDN"
+          echo "### ✅ Deployed to https://$FQDN" >> "$GITHUB_STEP_SUMMARY"
